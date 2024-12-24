@@ -440,53 +440,6 @@ HomePod、iPhone或いはiPadデバイスに「ヘイシリ、オフィス照明
 
 
 
----
-### 「ショートカット」アプリを使用して、SiriからSwitchBotを操作する方法
-
-「ショートカット」アプリを使い、Siriに声をかけてSwitchBotを動作させるだけでなく、ウィジェットやホーム画面からでも、１タップで家電操作が行える方法を紹介いたします。
-
-はじめる前に、まずSiriショートカットを利用して、SwitchBot BLE製品及び家電リモコンの操作をSiriに音声登録してください。（iOS12.1以降しか対応できません）
-
-[SwitchBotハブプラス/ハブミ](https://support.switch-bot.com/hc/ja/articles/360041802533)
-
-[SwitchBotボット](https://support.switch-bot.com/hc/ja/articles/360037747574)
-
-[SwitchBot温湿度計](https://support.switch-bot.com/hc/ja/articles/360038242593)
-
-■ ​Step 1
-
-「ショートカット」アプリを開き、「ショートカットを作成」から「アクションを追加」をタップします。候補から追加したいSiri音声コマンドを選びます。
-
-表示されていない場合、
-
-・左上の「App」からSwitchBotアプリを探して選択します。
-
-・スマホの再起動で同期します。
-
-![Image](https://static.wixstatic.com/media/66abeb_28e2093979674b238cf1c8a266d7090e~mv2.png/v1/fill/w_900,h_515,al_c,q_90,usm_0.66_1.00_0.01/66abeb_28e2093979674b238cf1c8a266d7090e~mv2.webp)
-
-■ ​Step 2
-
-画面右上のアイコンをタップしてショートカットの名前を編集できます。「完了」を選択すると、これで設定は完了します。
-
-![Image](https://static.wixstatic.com/media/66abeb_894ab2d28525463a8c331c9c5fe967c6~mv2.png/v1/fill/w_900,h_507,al_c,q_90,usm_0.66_1.00_0.01/66abeb_894ab2d28525463a8c331c9c5fe967c6~mv2.webp)
-
-■ ​Step 3
-
-作成したショートカットをタップしてみましょう。「成功」の画面が表示されます。そして、Siriを開いて設定したショートカットの名前と言うことで、家電を操作できます。
-
-さらに便利なところ、「ショートカット」は、ウィジェットに追加できます。
-
-![Image](https://static.wixstatic.com/media/66abeb_a0de9759ff484d16b2c782b03462311b~mv2_d_1528_1305_s_2.png/v1/fill/w_1375,h_1174,al_c,q_90,usm_0.66_1.00_0.01/66abeb_a0de9759ff484d16b2c782b03462311b~mv2_d_1528_1305_s_2.webp)
-
-■ ​Step 4
-
-最後に、登録したショートカットをホーム画面に追加する方法を紹介します。
-
-作成したショートカットの右上の「•••」をタップして、画面右下のシャアから「ホーム画面に追加」を選択すれば追加完了します。
-
-![Image](https://static.wixstatic.com/media/66abeb_99391cff4a7a43e8a3545fa9716a9418~mv2.jpg/v1/fill/w_900,h_511,al_c,q_90,usm_0.66_1.00_0.01/66abeb_99391cff4a7a43e8a3545fa9716a9418~mv2.webp)
-
 
 
 ---
