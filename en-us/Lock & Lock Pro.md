@@ -3849,3 +3849,28 @@ Unlike the previous version of the Lock, the lock and unlock positions already r
 
 
 
+---
+### What to Do if My Lock Pro Won’t Turn On and There Are No Indicator Lights or Sounds After Inserting Four Batteries?
+
+1. Make sure that the batteries in the Lock Pro are in firm contact with the battery terminals in the battery holder.
+
+![Image](https://support.switch-bot.com/hc/article_attachments/28755677236887)
+
+2. Make sure that the four batteries are oriented correctly.
+
+![Image](https://support.switch-bot.com/hc/article_attachments/28755724461719)
+
+3. Replace the batteries with new AA batteries (1.5V) that you have on hand and see if the problem improves.
+
+Note:
+
+Please refrain from using commercially available rechargeable batteries.
+
+Use 1.5V batteries with the highest battery capacity possible.
+
+4. If the issue still exists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, it would be helpful if you could provide us with the following information:
+
+A Photo showing the installation status of the four batteries
+A video of the Lock Pro not responding after inserting the battery case (with batteries installed)
+
+
