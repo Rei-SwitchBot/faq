@@ -473,3 +473,14 @@ Ceiling Light Pro 12 Mats
 
 
 
+---
+### What to Do If Only the Night Light on My Ceiling Light Works and the Full Light Won't Turn on?
+
+1. Please update SwitchBot app to V9.5 and then update the Ceiling Light firmware to V2.0-1.0 to check for any improvement.
+
+2. Reset your Ceiling Light.
+
+Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
+[Embedded Content](//www.youtube-nocookie.com/embed/rouyr0OfHok)
+
+3. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When reaching out to us, please provide us with a video of the full light not coming on after restoring the factory settings.
