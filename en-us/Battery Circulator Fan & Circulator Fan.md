@@ -558,4 +558,13 @@ Related Products: SwitchBot Battery Circulator Fan
 Rest assured, there is no issue. The built-in lithium battery remains unaffected
 
 
+---
+### What to Do If My Circulator Fan Won't Power On?
 
+1. Turn off the power switch located at the bottom of the Circulator Fan and then turn it back on.
+
+2. Connect the Circulator Fan's AC power cable to a different power source and verify if it powers on.
+
+3. With the AC power cable plugged in, press and hold the power button on the Circulator Fan control panel for 15 seconds to reset it.
+
+4. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When reaching out to us, please send us a video demonstrating the circulator fan not turning on after connecting the AC charging cable and pressing the power button for 15 seconds.
