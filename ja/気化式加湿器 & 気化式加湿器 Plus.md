@@ -670,6 +670,57 @@ SwitchBot Appバージョン：7.10以降
 ご注意：タンクの両端を握って取り外すのをご遠慮ください。
 
 
+---
+### 気化式加湿器から水漏れする、どうしたらいいでしょうか。
+適用製品：気化式加湿器、気化式加湿器Plus
+1．水タンクを外して、トレーに水が満タンかご確認ください。その後、矢印のフロートを上下動かして引っかかるかご確認お願いいたします。
 
+![image](https://support.switch-bot.com/hc/article_attachments/28727533661975)
+2．フロートを外して、写真のように軸部分が変形してしまったかご確認お願いいたします。
+
+![image](https://github.com/user-attachments/assets/ea0441d3-d855-442a-a0bd-0532cddff933)
+
+
+3．水を入れた状態でタンクを持ちあげて、下の部分から水漏れするかご確認ください。
+
+![image](https://support.switch-bot.com/hc/article_attachments/28727533663639)
+
+4．水タンクの下に穴が空いているかご確認ください（技術チームにて確認用、水漏れと直結するわけではありません）。
+
+![image](https://github.com/user-attachments/assets/5c8be2c7-bbc0-44f6-9792-50082f629a0c)
+
+
+5．動画通りに水タンク底部の開閉栓を外し、各パーツが正しく揃っているか確認してください。その後、各パーツを元に戻してください。
+
+![image](https://github.com/user-attachments/assets/9a05b2d0-e641-4078-a461-a33b1f46cc74)
+
+
+6．下図のようにフィルターとフレームの設置を調整するようお願いいたします。
+
+![image](https://github.com/user-attachments/assets/59c4c1bf-c331-4cd0-a217-9082de55a515)
+
+
+![image](https://support.switch-bot.com/hc/article_attachments/28730116685463)
+
+7．トレイに水を入れた時に水漏れするかご確認ください。
+
+![image](https://github.com/user-attachments/assets/f7d90e06-314f-4f38-aac6-86990f2990fb)
+
+
+8．下図のように斜めに置くと、8度以上の角度で気化式加湿器が水漏れします。日常使用時はご注意ください。
+
+![image](https://github.com/user-attachments/assets/b25ae602-54d3-4076-ab30-813eb413a9e5)
+
+
+9．上記をご確認の上でも改善されない場合、SwitchBotアプリにログイン→プロフィール→サポートセンター→フィードバックまでご連絡ください。以下の内容をいただけると助かります。
+
+上記8箇所を確認した結果
+製品の使用時間
+水漏れ発生時の製品状態（待機か作業中）
+水の追加方法（水タンクを持ち上げて追加したか、またはそのまま上から水を追加したか）
+水タンク内部に水があるかどうか
+水漏れ発生時の機械周辺の水漏れ写真
+トレー製造番号が確認できる写真（トレーの右下にある）
+![image](https://github.com/user-attachments/assets/f2fb7ea6-776c-4f79-b3e8-4090d256ff78)
 
 
