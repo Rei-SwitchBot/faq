@@ -508,14 +508,11 @@ Related Post:
 ---
 ### How to Add Fire TV and Apple TV to SwitchBot Universal Remote?
 
-Last Updated: 2024 Jul 25
+Last Updated: 2024 Nov 18
 
 Related Products: SwitchBot Universal Remote
-
-SwitchBot App Version: 8.7 or newer
-
-Firmware Version: 2.7 or newer
-
+SwitchBot App Version: 9.3 or newer
+Firmware Version: 4.2 or newer
 1. Make sure your SwitchBot App version is up to date.
 
 2. Make sure SwitchBot Universal Remote has been added to your App and your device firmware version is up to date.
@@ -523,22 +520,18 @@ Firmware Version: 2.7 or newer
 3. Add Fire TV and Apple TV in the following order:
 
 Launch SwitchBot App and log in.
-
 Tap your Universal Remote.
-
 Tap "Manage Devices".
-
 Tap + icon in the upper right corner.
-
 Tap "Third-party Control".
-
 Tap "Apple TV" .
-
 Tap "Save".
-
 Tap "Pair Now" then follow the App guidelines to add your Apple TV to the Universal Remote.
-
 Add Fire TV in the same order.
+Note: If you are using a Bluetooth remote other than Fire TV, Apple TV, Chromecast, or Roku, please connect it via Bluetooth Classic.
+
+![image](https://github.com/user-attachments/assets/26075d2e-55d7-4c58-a26d-e1da680e2b68)
+
 
 4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
