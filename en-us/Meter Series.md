@@ -1712,3 +1712,8 @@ Related Posts:
 
 
 
+---
+### iOS Widget Setup for Meter
+
+Related Product: SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor), SwitchBot Hub 2
+Currently, the Hub 2 does not support displaying temperature and humidity data from the Meter Pro and CO2 Monitor. Therefore, when you check the data source list on the Hub 2, you will not find Meter Pro or CO2 Monitor listed. We apologize for any inconvenience this may cause and appreciate your understanding.
