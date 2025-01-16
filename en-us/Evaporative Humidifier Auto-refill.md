@@ -562,3 +562,37 @@ Related Product: SwitchBot Evaporative Humidifier Auto-refill
 The Evaporative Humidifier works by using a fan to blow air through a moist filter, releasing water vapor to humidify the air.
 
 Currently, the Evaporative Humidifier does not have a dedicated compartment for essential oils. Adding essential oils directly to the water tank is not recommended, as the oils can be blown onto the filter by the fan. This may reduce the filter's lifespan and compromise the effectiveness of the essential oils.
+
+
+---
+### What to Do If My Evaporative Humidifier Auto-refill Leaks Water?
+
+Related Product: SwitchBot Evaporative Humidifier Auto-refill
+1. Remove the water tank and check if the tray is full of water. Then, move the float up and down as shown in the diagram to see if it is stuck.
+![image](https://github.com/user-attachments/assets/917e6693-b707-44e1-8447-1d4542142ef1)
+2. Remove the float and inspect the axis for any deformation, as shown in the picture.
+![image](https://github.com/user-attachments/assets/85eb2f49-e3f0-48c6-8263-99c69031355e)
+3. With the water tank filled, lift it and check if water is leaking from the bottom of the tank.
+![image](https://github.com/user-attachments/assets/7ca31a63-9d9d-4bc9-b805-ed89515ccfd3)
+4. Check the bottom of the water tank to see if there is a hole (to be confirmed by our R&D team, not directly related to water leakage).
+![image](https://github.com/user-attachments/assets/63d5c2fe-d658-4c85-81ba-47b24cea1feb)
+5.  Remove the open/close plug at the bottom of the water tank as shown in the video, check that each part is properly aligned, and then replace each part.
+![image](https://github.com/user-attachments/assets/4d2da123-74bf-4581-b62f-ca6fb78f63ea)
+6. Adjust the installation of the filter and frame as shown in the diagram.
+![image](https://github.com/user-attachments/assets/cbb83e90-cad1-4874-b806-5889ee10bc4f)
+![image](https://github.com/user-attachments/assets/8ec7a271-a81d-4af3-b6b6-1b73416f6c7d)
+7. Add water directly to the tray and check if any water leaks out.
+![image](https://github.com/user-attachments/assets/77ee5c20-d6e8-4ce8-816b-75f1111e4926)
+8. Please note that placing the humidifier at an angle of more than 8 degrees, as shown in the diagram, can cause water leakage. Be mindful of this during daily use.
+![image](https://github.com/user-attachments/assets/288d7903-19c0-489b-ab92-58bd564da24e)
+9. If the issue persists after completing the checks above, please contact us via SwitchBot App -> Profile -> Support ->Feedback, and providing the following information:
+
+Results of the 8 checks above
+Duration of product usage
+Product state when the leakage occurred (standby or operating)
+Method of adding water (lifting the tank to refill or adding water directly from the top)
+Whether water remains inside the water tank
+Photos of the leakage around the machine when it occurred
+A photo of the tray’s serial number (located on the bottom right of the tray)
+![image](https://github.com/user-attachments/assets/9d6ce3a5-93a2-48b9-b708-ae866dd39ace)
+
