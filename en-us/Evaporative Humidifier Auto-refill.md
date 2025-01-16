@@ -555,5 +555,10 @@ Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidi
 
 It is 4.5 liters.
 
+---
+### Can I Use Essential Oils in SwitchBot Evaporative Humidifier Auto-refill?
 
+Related Product: SwitchBot Evaporative Humidifier Auto-refill
+The Evaporative Humidifier works by using a fan to blow air through a moist filter, releasing water vapor to humidify the air.
 
+Currently, the Evaporative Humidifier does not have a dedicated compartment for essential oils. Adding essential oils directly to the water tank is not recommended, as the oils can be blown onto the filter by the fan. This may reduce the filter's lifespan and compromise the effectiveness of the essential oils.
