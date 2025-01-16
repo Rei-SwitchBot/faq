@@ -2309,5 +2309,11 @@ Detailed dimensions of your curtain rail
 
 A Cross-sectional photo of your curtain rail
 
-
+---
+### What to Do If My Curtain 3 Is Not Aligned Properly on the Rail and Can't Attach the Hook to the Unit?
+Related Product: SwitchBot Curtain 3
+We want to confirm that it is normal for Curtain 3 to tilt slightly during installation. To properly attach the device, please firmly pull the hook down and secure it onto the body of Curtain 3. This should help straighten the device and ensure correct installation.
+![image](https://github.com/user-attachments/assets/4847d427-8c06-486a-ab0f-e0b38ca72025)
+For your reference, we’ve included a link to an installation video that demonstrates this process. Please take a look, and feel free to contact us if you need further assistance.
+[Embedded Content](//www.youtube.com/watch?v=ilKv3irx5CQ)
 
