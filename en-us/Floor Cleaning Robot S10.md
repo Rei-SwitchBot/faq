@@ -105,7 +105,7 @@ When the S10 is in vacuum mode, it doesn't avoid accumulated water and sucks it 
 
 
 ---
-### Do I Need to Charge SwitchBot Floor Cleaning Robot S10 Before Using It?
+### Do I Need to  SwitchBot Floor Cleaning Robot S10 Before Using It?
 
 Last Updated：
 
@@ -113,7 +113,7 @@ Last Updated：
 
 Related Products: SwitchBot Floor Cleaning Robot S10
 
-It is recommended to charge the S10 for 4 hours before using it for the first time to ensure optimal cleaning performance, as the battery may not be fully charged at the time of shipment.
+It is recommended to  the S10 for 4 hours before using it for the first time to ensure optimal cleaning performance, as the battery may not be fully d at the time of shipment.
 
 
 
@@ -445,7 +445,7 @@ Last Updated：
 
 Related Products: SwitchBot Floor Cleaning Robot S10
 
-1. Make sure that the S10 is powered on by removing the main unit's faceplate and switching the power to I. If the S10 does not turn on, dock it at the auto-empty station and charge for 30 minutes.
+1. Make sure that the S10 is powered on by removing the main unit's faceplate and switching the power to I. If the S10 does not turn on, dock it at the auto-empty station and  for 30 minutes.
 
 2. Manually dock the S10 to the water station and make sure the charging terminals are fully contacted.
 
@@ -1478,30 +1478,13 @@ A video showing S10 is silent while tapping "Find Robot" on the SwitchBot App
 ---
 ### What to Do If My Floor Cleaning Robot S10 Won't Charge?
 
-Last Updated：
-
-2024 Sep 30
-
-Related Products: SwitchBot Floor Cleaning Robot S10
-
-SwitchBot App Version: 9.1 or newer
-
-1.
-
-Make sure your SwitchBot App version is up to date.
-
-2. Make sure SwitchBot Floor Cleaning Robot has been added to your App and your device firmware version is up to date.
-
-3. Make sure that the Auto-empty station is placed on a hard, level surface, away from soft surfaces like carpets or foam mat.
-
-4. Make sure the auto-empty station is properly plugged into a power source (When the Auto-empty station is connected to power, the indicator light will remain solid white. ).
-
-5. Try unplugging and then plugging back in the auto-empty station.
-
-6. Clean the charging terminals between the S10 main unit and the auto-empty station to ensure a good connection.
-
-7. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation.
-
+1. Make sure that the Auto-empty station is placed on a hard, level surface, away from soft surfaces like carpets or foam mat.
+2. Make sure the auto-empty station is properly plugged into a power source (When the Auto-empty station is connected to power, the indicator light will remain solid white.). 
+3. Try unplugging and then plugging back in the auto-empty station.
+4. Clean the charging terminals between the S10 main unit and the auto-empty station. Then manually dock the robot to the base to check if it improves.
+5. Please update the firmware version of the S10 and auto-empty station to the latest version if you have already added them to the SwitchBot app.
+6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, please provide with the following information:
+- The Serial Number of your S10 (open the faceplate you will find the SN)
 
 
 ---
@@ -2073,3 +2056,45 @@ Turn on the S10 and let it attempt to refill the humidifier to confirm the issue
 
 A phone showing the serial number of your S10 (open the faceplate of your S10 to view its serial number.)
 A video demonstrating auto-refill failure.
+
+
+---
+### Is It Possible to Replace the Battery in SwitchBot Floor Cleaning Robot S10?
+
+If your S10 experiences battery issues during the warranty period, we will take full responsibility for providing repair services, including battery replacement.
+If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
+Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
+
+How to replace the battery:
+Video: https://drive.google.com/file/d/1uq68G2g_DyknENPMv_WdDrbFqvs2h_9R/view?usp=sharing
+Tips:
+Turn the S10 unit over. If there is water in the sewage box, remove it to prevent leakage.
+Use a screwdriver to unscrew and remove the back cover's seven screws.
+Use a pry bar or similar tool to carefully extract the battery from its compartment. Disconnect the battery connection terminals and remove the old battery.
+Install a new battery following the same procedure, then reattach the chassis cover.
+Once you have replaced the battery, update your robot's firmware to ensure optimal performance.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Not Automatically Emptying the Dustbin
+
+If your Floor Cleaning Robot S10 is not automatically emptying the dustbin after cleaning, please follow these steps to troubleshoot:
+1. Automatic dust collection only triggers if the cleaning session lasts more than 5 minutes. If the robot returns to the base before 5 minutes, it will not automatically collect debris.
+2. If Do-Not-Disturb schedules are enabled, the robot won't automatically collect dust during that time.
+3. Make sure that the dust bag in the auto-empty station is not full. The dust bag should be replaced approximately every 2–3 months.
+4. Check the debris evacuation port and tube of the auto-empty station for debris. If blockages are found, carefully clean them to restore proper function.
+5. Check if the indicator light on the auto-empty station is orange, which may indicate an issue.
+6. Make sure the input voltage listed at the bottom of the auto-empty station matches your household voltage.
+7. Open the lid of the auto-empty station and inspect the interior for any signs of moisture.
+8. If the problem is not resolved after following the above steps, please provide the following information to our support team for further investigation:
+- A video showing the robot not automatically collecting debris after completing a cleaning task.
+- A photo of the inside of the auto-empty station with the lid open.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Charging Slowly
+
+1. Please note that it typically takes about 3-4 hours to fully charge the S10 from a low battery.
+2. In high or low-temperature environments, the robot will automatically slow down the charging speed to extend battery life. Make sure the robot is being used in an optimal temperature range (0~40℃).
+3. Clean the charging terminals between the S10 main unit and the auto-empty station to ensure a good connection.
+4. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, please describe the slow charging behavior, such as the percentage increase in battery level after charging for three hours as shown in SwitchBot App.
