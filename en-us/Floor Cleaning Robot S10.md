@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/5edf9cdd-1a88-4277-a87f-96e65087b096)---
 
 ## Floor Cleaning Robot S10
 
@@ -1705,4 +1705,299 @@ Related Products: SwitchBot Floor Cleaning Robot S10
 To maintain the lifespan of the built-in lithium battery, it is recommended to recharge the S10 at least every 3 months if it will not be used for an extended period.
 
 
+---
+### Troubleshooting It Seems Like the Cleaning Solution Wasn’t Used
 
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Make sure that you have enabled the auto-add solution function by Navigating SwitchBot App -> your S10 -> Functions -> Settings -> Maintenance -> auto-add solution.
+2. During a cleaning and mopping task, approximately 1.5-2ml of cleaning solution is used each time. A 150ml bottle of detergent can last around 3-6 months, so the consumption may not feel noticeable during normal use.
+3. Please go to SwitchBot App -> Floor Cleaning Robot S10 -> Functions -> Control -> Wash Mop and run a mop-washing task. Record a video (with sound) showing the robot at the water station performing water intake and discharge. We will forward your feedback to our R&D team for further assistance.
+
+---
+### Troubleshooting My Floor Smells After Mopping with SwitchBot Floor Cleaning Robot S10 
+1. I can smell an unpleasant odor after mopping with the S10.
+
+Diagnose:
+1. Please check the roller mop, mop case, waste water collection gutter and waste water box for foreign matter. If necessary, please clean them manually.
+Video on cleaning: [Embedded Content](//youtu.be/ikUtZlHQUQU)
+Maintenance video: [Embedded Content](//youtu.be/N3ueD8hJcEg)
+![image](https://github.com/user-attachments/assets/db445444-6393-4258-a8ff-4ff622a81eba)
+2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
+![image](https://github.com/user-attachments/assets/054aeb95-44c8-4178-b6bf-a776c9d940d0)
+3. Put each component back together and see if it helps.
+4. We normally recommend hand washing the roller mop once a month and replacing it with a new mop every three months.
+You can also try using the dampen mop function to see if it helps.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Not Sucking the Dirty Water After Mopping
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Please check if the waste water box is full or empty. 
+3. Manually clean the waste water box.
+4. Open the waste filter cover on the Water Station and then clean the waste filter.
+Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
+![image](https://github.com/user-attachments/assets/ca6d5e9d-fd39-4d56-988b-b33c7c40cb78)
+[图片]
+5. We will forward your feedback to our R&D team for further assistance. If possible, please provide us with the following information:
+- Remove the waste water box and take a photo for us
+- A video showing the robot not being able to drain water
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Dustbin Has Been Removed Even When It Isn't
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Remove the dust box and then replace it.
+3. If the issue persists, please submit feedback to contact us. We will forward your feedback to our R&D team for further assistance. When contacting us, please provide with the following information:
+- A screenshot showing the error message notificaiton
+- A video demonstrating voice broadcasting
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Fails to Clean Because of a Bumper Stuck Error
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Please check if any foreign object is caught in the S10.
+3. Gently pat the bumper and see if it helps with the issue.
+4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+- A screenshot of the error message related to the bumper issue.
+- A video with sound capturing the "My bumper seems to be stuck" error message being announced.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Radar Is Blocked
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Start a cleaning task then check if the top radar is rotating.
+Note: We recommend placing your robot on a large table for easy access to the radar area during operation.
+3. Check the radar area for any foreign objects and, if needed, delicately clean it with a cotton swab.
+4. If the issue persists, please submit feedback to contact us. We will forward your feedback to our R&D team for further assistance. When contacting us, please provide with the following information:
+- A video demonstrating the radar error voice broadcast
+- A screenshot showing radar blocked error
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Fan Isn't Working Properly
+
+We apologize for any inconvenience caused. 
+If the fan is not working properly, your robot may need to be repaired or replaced. To help us assist you better, please provide the following information for investigation:
+- A video showing any issues with the fan
+- A screenshot of any error messages related to the fan
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Anti-Tangle Brush Seems to Be Stuck
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Remove the rubber brush from the S10 and check for any debris. Hair or other materials may become tangled around the bearing of the rubber brush. If necessary, clean it thoroughly. Also, if you have a spare main brush, try replacing it to see if the error message is resolved.
+3. Run your S10 without attaching the rubber brush and check if the "my anti tangle brush seems to be stuck" error still appears.
+4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+- A screenshot of the error message related to the rubber brush issue.
+- A video with sound capturing the "my anti tangle brush seems to be stuck" error message being announced.
+
+---
+### Why Is There Water in the Water Station of My Newly Purchased SwitchBot Floor Cleaning Robot S10?
+
+It's normal to find a small amount of water in the water station of the S10, as the water circuit undergoes testing before factory shipment to ensure the water station functions properly. Please feel free to use your device.
+
+---
+### How to Open the Waste Filter Cover on the Water Station?
+
+Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
+![image](https://github.com/user-attachments/assets/054be49d-173d-4f42-9712-d709c43fc953)
+
+
+---
+### Daylight Saving Time with SwitchBot Floor Cleaning Robot S10
+
+Currently, the schedule and "Do Not Disturb" times set for SwitchBot Floor Cleaning Robot S10 are stored locally, meaning they don’t automatically adjust with Daylight Saving Time changes. We understand this may be an inconvenience, as users will need to manually update these times to align with seasonal time changes. We apologize for any disruption this may cause.
+As an alternative, if you are running a full-house clean, you can use SwitchBot’s automation feature to schedule this. Please note that automation currently does not support selecting specific rooms for cleaning.
+Our R&D team is actively working on this and exploring ways to improve scheduling for future updates. Thank you for your understanding, and please don’t hesitate to reach out with any additional questions or feedback.
+
+---
+### What to Do If My Floor Cleaning Robot S10 Doesn't Dock at the Water Station Frequently?
+
+Related Product: SwitchBot Floor Cleaning Robot S10
+SwitchBot App Version：9.3 or newer
+Firmware Version: 1.0.984 or newer
+1. Make sure you have marked the water station's position on the created map. If not, please go to SwitchBot App -> your S10 -> Functions -> Settings -> Mark Water Station Position after mapping.
+
+2. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging adaptor to charge the station for 0.5 to 1 hour.
+
+3. Press and hold the Bluetooth Button for 6 seconds until the indicator light flashes white to confirm it is activated.
+
+4. Clean the charging contacts on the water station with dry tissue to remove any dirt or water droplets.
+
+5. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
+
+Related Post: How to Re-pair the Floor Cleaning Robot S10 with the Water Station：https://support.switch-bot.com/hc/en-us/articles/25122838665111
+
+6. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
+
+7. Once docked, make sure the water station's firmware version is up to date. If not, go to SwitchBot App -> Floor Cleaning Robot S10 -> Gear Icon -> Firmware & Battery to update the firmware. 
+
+8. If the above does not improve the situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide the following information:
+
+A video of the S10 failing to dock at the water station
+A phone displays the serial number on the back of the water station.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
+
+We apologize for any inconvenience caused. 
+We can arrange a new water hose replacement and provide a replacement video. To better assist you, could please send us a photo of the broken hose, focusing on the joints so we can determine the problem?
+Note: Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
+
+---
+### Troubleshooting Water Leakage on SwitchBot Floor Cleaning Robot S10 Water Station
+
+We apologize for the inconvenience caused by our product. Please follow the steps below to help us troubleshoot the water leakage issue:
+1. Check the Auto-Drain/Auto-Fill Port: Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
+![image](https://github.com/user-attachments/assets/fce91ac7-2a57-4ce9-87c9-c4e26fad5bf6)
+![image](https://github.com/user-attachments/assets/0b2f602b-45a4-494e-8d71-65e4cf328636)
+2. Ensure Proper Installation of Gaskets: When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
+3. For External Water Tank Users: If you're using an external water tank, ensure that the gasket is properly installed on the rear quick connector. Please check that both the water inlet and outlet hoses have the correct gaskets in place, as shown in the provided video.
+[Embedded Content](//youtube.com/watch?v=o5413fr7R2U)
+![image](https://github.com/user-attachments/assets/79c9ff34-d241-46dd-a67f-f5ebb2aaa8ed)
+4. Lift the Water Station: Try lifting one side of the water station and checking if any water leaks from the opposite side.
+5. If the issue persists, could you please assist us by providing the following:
+- A picture showing the water hose installation.
+- A video demonstrating water leakage.
+
+
+---
+### Troubleshooting The Water Station of SwitchBot Floor Cleaning Robot S10 Is Unresponsive and Cannot Be Activated.
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging adaptor to charge the station for 0.5 to 1 hour.
+2. Press and hold the Bluetooth button for 6 seconds until the indicator light flashes white to confirm it is activated.
+3. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+- A video showing the water station LED indicator not flashing white after long pressing the Bluetooth button
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Not Automatically Returning to the Auto-Empty Station
+
+1. Make sure that the Auto-empty station is properly connected to a power source.
+2. Make sure that the Auto-empty station has not been moved and that the robot is correctly oriented for returning. If the Auto-empty station has been moved, you will need to manually move the robot back to it.
+3. Make sure there are no obstacles near the Auto-empty station and that there is a 0.5m space on both sides, as well as 1m in front of and above the station. Also, be mindful that closed doors and other obstructions may disrupt the return path.
+4. Make sure that the Auto-empty station is placed on a hard, level surface, away from heat sources, direct sunlight, or soft surfaces like carpets or rugs.
+5. Use a soft cloth to wipe the signal emitter area on the Auto-empty station to remove any dust or debris that might be interfering with the robot’s ability to return.
+![image](https://github.com/user-attachments/assets/26b5d45c-398f-4513-97bc-34d17aa3ab7d)
+6. Gently clean the front docking sensor on the robot S10 with a soft, dry cloth to ensure it is free of dirt or obstructions.
+7. If the above does not improve the situation, please contact us with a video of the S10 failing to return automatically via SwitchBot App -> Profile -> Support ->Feedback.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Auto-refill Failed
+
+1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
+2. Make sure that the fresh water hose is not damaged or folded.
+3. Make sure that the water station's auto-fill port is attached and undamaged.
+![image](https://github.com/user-attachments/assets/fa6f88a1-5750-4d41-a2b2-901bdc2a371c)
+4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
+https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
+5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
+6. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
+- A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
+- Photos showing fresh water hose and sewage hose in place
+- How long after using the Water Station is unable to auto-refill
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Stuck Frequently
+
+If your SwitchBot Floor Cleaning Robot S10 is experiencing issues with the roller mop frequently getting stuck, follow the steps below to diagnose and resolve the problem.
+1. Check for Debris Around the Roller Mop: Sometimes, hair, dirt, or other small particles can get caught around the roller, causing it to jam. Please refer to the video to clean it if necessary.
+https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view
+2. Listen to Unusual Noises During the Jam: If the roller gets stuck and you hear any strange sounds, please record a video of the issue.
+3.  If the Roller Mop Gets Stuck and the Waste Water Collection Gutter Detaches Easily,  please follow these steps:
+Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
+https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link
+Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
+![image](https://github.com/user-attachments/assets/cbbbbcf4-e847-406b-8dcd-8a449bc8f51f)
+Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
+https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing
+
+4. If you're unsure or need further assistance, please remove the Waste Water Collection Gutter and take a photo of the back of the unit. We are glad to check it for you.
+5. By following these steps, if the problem persists, feel free to reach out to our customer support team for further assistance.
+
+
+---
+### Troubleshooting My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping
+
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+3. We recommand using the "cleaning frequency" feature in the following order:
+- Launch SwitchBot App and log in
+- Tap your S10
+- Tap station
+- Tap "settings"
+- Tap "Cleaning Frequency"
+- Enable "Dampen Mop"
+- Also, you can disable auto-cleaning and set up a room-by-room cleaning or area-by-area cleaning to meet your needs
+![image](https://github.com/user-attachments/assets/eb7bf0ce-ad76-4db0-a2f7-286e914531cf)
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Side Brush Almost Stuck During Cleaning
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Make sure the side brush is properly installed.
+3. Remove the side brush, clean the hair, etc., and then reattach it. You will hear a click when properly attached.
+4. If the issue persists after completing the above steps, your robot may need to be repaired or replaced. To assist us, please provide the following:
+- A video showing the movement of the side brush
+
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot Won’t Enter Dark Carpet Areas
+
+The S10 is equipped with highly sensitive cliff sensors designed to ensure your robot’s safety by preventing falls. These sensors are so precise that they may occasionally recognize dark-colored carpets as a drop, triggering the fall-prevention function and causing the robot to stop working on those areas. While we work on a permanent solution, we can offer a temporary workaround to help maintain uninterrupted cleaning.
+You can use the SwitchBot App to mark the dark carpet areas, allowing the S10 to continue cleaning those zones without interruption. Here’s how you can set it up:
+- Open the SwitchBot App.
+- Tap your S10 robot.
+- Tap the map icon in the center-left of the screen.
+- Go to "Edit Floor".
+- Select "Carpet Cleaning" and then "Carpet Settings".
+- Mark the areas with dark-colored carpets.
+Important Note:
+When you mark dark-colored areas for cleaning, the cliff sensor sensitivity will decrease. If you have staircases or other potential hazards nearby, we recommend setting those areas as "No-Go Zones" instead of marking them as dark carpet areas to prevent accidents.
+
+We sincerely apologize for any inconvenience this may cause and appreciate your understanding as we work towards a permanent solution. If you need further assistance or have any questions, please don’t hesitate to reach out.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Reporting Cliff Sensor abnormal
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Please clean your robot's cliff sensors with a soft cloth.
+3. Press the Clean button in SwitchBot App and check if the robot starts properly.
+4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+- A screenshot of the error message related to the cliff sensor issue.
+- A video with sound capturing the "Cliff Sensor abnormal" error message being announced.
+
+
+---
+### Troubleshooting One of SwitchBot Floor Cleaning Robot S10's Wheels Is Not Functioning
+
+We’re sorry to hear that your SwitchBot Floor Cleaning Robot S10 is experiencing an issue where it spins in circles and cannot move in a straight line.
+If only one drive wheel is rotating, your S10 may need to be repaired or replaced. To help us diagnose the problem, could you please send us a video showing the robot spinning in circles and not moving straight?
+Also, if you would like to replace the wheel yourself, we can send you the parts and a video for you to perform the process.
+S10 Wheel Replacement Video
+https://drive.google.com/file/d/1CintEmtbERxc4rcvy-JOnwc5Qp1EK7_X/view?usp=sharing
+https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=sharing
+
+---
+### Troubleshooting I Cannot Add My Newly Purchased Floor Cleaning Robot S10 to SwitchBot App (iOS)
+
+1. Restart your phone’s Bluetooth and lift the S10’s faceplate to toggle the switch from "o" to "I".
+![image](https://github.com/user-attachments/assets/ffb89ba6-3918-4786-8f58-ad4b939f7161)
+2. Bring your phone close to your S10 and check if it needs a firmware recovery by navigating to SwitchBot App -> Profile -> Firmware Recovery -> Recovery.
+Note: Keep your phone near the robot and don’t leave the page during the update.
+![image](https://github.com/user-attachments/assets/babeef92-cad5-49c6-9d6b-a60d545afab2)
+3. If the recovery fails at any point, 
+- Turn your phone's Bluetooth off and on again.
+- Restart SwitchBot app.
+- Restart the robot by toggling its power switch.
+- Repeat step 2 several times.
+4. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will forward your feedback to our research & development team for further assistance.
