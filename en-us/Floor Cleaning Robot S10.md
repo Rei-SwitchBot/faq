@@ -2098,3 +2098,14 @@ If your Floor Cleaning Robot S10 is not automatically emptying the dustbin after
 2. In high or low-temperature environments, the robot will automatically slow down the charging speed to extend battery life. Make sure the robot is being used in an optimal temperature range (0~40℃).
 3. Clean the charging terminals between the S10 main unit and the auto-empty station to ensure a good connection.
 4. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, please describe the slow charging behavior, such as the percentage increase in battery level after charging for three hours as shown in SwitchBot App.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Waste Water Box Has Been Removed Even When It Isn't
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+2. Remove the waste water box and then replace it.
+3. If the issue persists, please submit feedback to contact us. We will forward your feedback to our R&D team for further assistance. When contacting us, please provide with the following information:
+- A screenshot showing the error message notificaiton
+- A video demonstrating voice broadcasting
