@@ -2325,4 +2325,13 @@ Related Product: SwitchBot Mini Robot VacuumK10+
 SwitchBot Mini Robot Vacuum K10+ / K10+ Pro emits laser beams to detect its surroundings, but the full-length mirror cannot recognize the mirror itself as a wall because it reflects the laser beams emitted by the robot vacuum cleaner. Besides, it can easily be perceived as a room entrance, causing a strong collision. As a solution, please use a virtual wall.
 
 
+---
+### Troubleshooting the Side Brush of SwitchBot Mini Robot Vacuum K10+Turns sometimes and sometimes not
 
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the sidebrush and clean it.
+2. If the issue persists, please provide us with a video showing side brush unstable action. This will help us determine if the robot needs to be repaired or replaced.
+
+If you had already upload a video of the issue, please wait for our agents to handle this case.
+
+Thank you for your understanding.
