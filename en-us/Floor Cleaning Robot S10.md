@@ -2124,6 +2124,7 @@ We appreciate your cooperation and are here to assist you.
 ### What to Do If Roller Mop Doesn't Get Wet and My Floor Cleaning Robot S10 Isn't Mopping?
 
 1. Please operate the wash-mop by going to SwitchBot App -> S10 -> Functions -> Control -> Wash Mop to see if the roller mop gets wet.
+![image](https://github.com/user-attachments/assets/c027d5c0-675d-492a-bb4b-97a051291c03)
 
 2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the related post below.
 
@@ -2133,4 +2134,8 @@ https://support.switch-bot.com/hc/en-us/articles/29380587994135
 
 3. If the roller mop is wet and in contact with the ground, please enable dampen mop feature by going to SwitchBot App -> S10 -> Functions -> Settings -> Mop Cleaning -> Dampen Mop.
 
-4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation.
+Related Post: What to Do If My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping?
+
+https://support.switch-bot.com/hc/en-us/articles/25154313888151
+
+4. If the issue persists after completing the above steps, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will escalate the matter to our R&D team for further investigation.
