@@ -2119,3 +2119,18 @@ If your S10 is making a whistling sound during water changing, please check the 
 ![image](https://github.com/user-attachments/assets/a608ddd5-5ccb-4816-b1c8-1e7216073bf5)
 2. If the issue persists after checking the valves, please contact us again. To help us investigate further, we kindly ask for a photo of the entire water exchange station and a video capturing the sound.
 We appreciate your cooperation and are here to assist you.
+
+---
+### What to Do If Roller Mop Doesn't Get Wet and My Floor Cleaning Robot S10 Isn't Mopping?
+
+1. Please operate the wash-mop by going to SwitchBot App -> S10 -> Functions -> Control -> Wash Mop to see if the roller mop gets wet.
+
+2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the related post below.
+
+Related Post: What to Do If My Floor Cleaning Robot S10 Roller Mop Is Not Lowering to Touch the Floor?
+
+https://support.switch-bot.com/hc/en-us/articles/29380587994135
+
+3. If the roller mop is wet and in contact with the ground, please enable dampen mop feature by going to SwitchBot App -> S10 -> Functions -> Settings -> Mop Cleaning -> Dampen Mop.
+
+4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation.
