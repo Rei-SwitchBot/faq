@@ -1490,32 +1490,25 @@ A video showing S10 is silent while tapping "Find Robot" on the SwitchBot App
 ---
 ### What to Do If My Floor Cleaning Robot S10 Won't Recognize the Water Station?
 
-Last Updated：
-
-2024 Aug 19
-
 Related Products: SwitchBot Floor Cleaning Robot S10
-
-SwitchBot App Version: 8.8 or newer
-
-1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V2A charging cable to charge the station for 0.5 to 1 hour.
+SwitchBot App Version: 9.5 or newer
+1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging cable to charge the station for 0.5 to 1 hour.
 
 2. Press and hold the Bluetooth Reset Button for 2 seconds until the indicator light flashes white to confirm it is activated.
 
-3. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
+3. Gently clean the charging contacts of the water station with tissue paper.
 
-Related Post:
+4. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
 
-[How to Re-pair the Floor Cleaning Robot S10 with the Water Station](https://support.switch-bot.com/hc/en-us/articles/25122838665111)
+Related Post: How to Re-pair the Floor Cleaning Robot S10 with the Water Station
 
-4. When marking the water station on SwitchBot App, make sure to
+https://support.switch-bot.com/hc/en-us/articles/25122838665111
 
-drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station
+5. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
 
-.
+6. Please go to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery to check for any available updates. If an update is found, please proceed with updating it before trying again.
 
-5. If the above does not improve the situation, please contact us with a video of the S10 failing to recognize the water station via SwitchBot App > Profile > Help & Feedback >Feedback.
-
+7. If the above does not improve the situation, please contact us with a video of the S10 failing to recognize the water station via SwitchBot App -> Profile -> Support ->Feedback.
 
 
 ---
@@ -2139,3 +2132,20 @@ Related Post: What to Do If My Floor Cleaning Robot S10 Leaves Stripes and Marks
 https://support.switch-bot.com/hc/en-us/articles/25154313888151
 
 4. If the issue persists after completing the above steps, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will escalate the matter to our R&D team for further investigation.
+
+---
+### Diameters of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S10
+
+The water inlet hose and drain hose for the S10 both have an inner diameter of 4mm and an outer diameter of 6mm.
+
+---
+### Lengths of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S10
+
+The water inlet hose and drain hose for the S10 are both 2.5 meters long.
+
+---
+### Can the Waterpipe of the SwitchBot Floor Cleaning Robot S10 Be Extended?
+
+The water pipe itself can be extended. There is no restriction on the extension of the fresh water hose, but in consideration of sewage efficiency, please limit the length of the sewage hose extension to 0.6 m to 1 m.
+The total length of the sewage hose, including the extension, should be 3 to 3.4 meters.
+However, we do not recommend the use of extended hoses, as there is a risk of leakage due to extension or inability to drain due to insufficient pressure.
