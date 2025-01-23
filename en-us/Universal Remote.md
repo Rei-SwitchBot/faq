@@ -1284,4 +1284,41 @@ SwitchBot App Version: 8.4 or newer
 5. If the issue still exists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
+---
+### Can I Control A Grouped SwitchBot Color Bulb with SwitchBot Universal Remote?
+
+We regret to inform you that controlling a grouped SwitchBot Color Bulb with SwitchBot Universal Remote is not supported. However, you can trigger the scene by using Universal Remote to enable grouped bulbs to switch on and off together.
+We'll guide you on how to achieve it.
+Related Products: SwitchBot Hub, SwitchBot Universal Remote
+1, Create a grouped color bulb On Scene
+Open the SwitchBot App.
+Tap the "+" symbol in the upper right corner and tap "Add Scene".
+Enter Scene name.
+Add the grouped bulb on as an action.
+Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
+Save
+
+2, Create a grouped color bulb Off Scene in the same order.
+
+3, Synchronize these two scenes to the Universal Remote.
+Launch SwitchBot App and log in.
+Tap your Universal Remote.
+Tap "Manage Scenes".
+Tap + icon next to the scene name.
+Tap "save" in the upper right corner.
+Synchronization settings will be performed automatically.
+
+Once synchronization is finished, you can trigger the scenes by pressing the ON button or the middle button on Universal Remote.
+
+![image](https://github.com/user-attachments/assets/b8e41f2d-eac0-4f6c-b9ac-dc87c8d487cd)
+
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+
+
+---
+### Is SwitchBot Universal Remote Compatible with Alexa and Google Assistant?
+
+The SwitchBot Universal Remote is a device that allows you to add multiple infrared appliances (like air conditioners, TVs, and lights) as well as SwitchBot devices to collectively manage and control your home appliances and SwitchBot devices. It does not have cloud service integration and cannot be connected to third-party services like Alexa or Google Home.
+
+If you have a SwitchBot Hub 2, you can sync the Universal Remote as a sub-device to the Apple Home App, allowing the Universal Remote ABCD buttons to trigger other devices or siri shortcuts as automation conditions.
 
