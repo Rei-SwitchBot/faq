@@ -3918,4 +3918,29 @@ Hub 2
 , do not choose Meter/Meter Plus/Outdoor Meter.
 
 
+---
+### How to Assign Scenes to the on/off Buttons on SwitchBot Hub 2
 
+Related Product: SwitchBot Hub 2
+SwitchBot App Version：9.6 or newer
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 2 has been added to your App and your device firmware version is up to date.
+
+3. Create scenes first.
+
+Open SwitchBot App.
+Tap the "+" icon in the upper right corner and tap "Add Scene".
+Enter Scene name.
+Add an action.
+Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
+Save
+Related Post: How to Create Scene
+
+https://support.switch-bot.com/hc/en-us/articles/19444800636183
+
+4. Assign created scenes to the on/off buttons on Hub 2.
+
+SwitchBot App -> Hub 2 -> Tap "Add a scene" next to Button "off" at the bottom of the screen -> Select the target scene and save.
+Assign a scene to the on buttons in the same order.
+5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
