@@ -553,3 +553,32 @@ Does the indicator light come on when adding it again?
 
 
 
+---
+### Can I Control A Grouped SwitchBot Color Bulb with SwitchBot Remote?
+
+We regret to inform you that controlling a grouped SwitchBot Color Bulb with SwitchBot Remote is not supported. However, you can trigger the scene by using Remote to enable grouped bulbs to switch on and off together.
+We'll guide you on how to achieve it.
+Related Products: SwitchBot Hub, SwitchBot Remote
+1, Create a grouped color bulb On Scene
+Open the SwitchBot App.
+Tap the "+" symbol in the upper right corner and tap "Add Scene".
+Enter Scene name.
+Add the grouped bulb on as an action.
+Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
+Save
+
+2, Create a grouped color bulb Off Scene in the same order.
+
+3, Add these two scenes to the Remote.
+Launch SwitchBot App and log in.
+Tap your Remote.
+Tap "Action not set" next to concave button.
+Tap select scenes.
+Choose the grouped bulb on scene.
+Tap "Action not set" next to convex button.
+Tap select scenes.
+Choose the grouped bulb off scene.
+
+After the above, you can trigger the scenes by pressing the concave button and the convex button on Remote.
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+
