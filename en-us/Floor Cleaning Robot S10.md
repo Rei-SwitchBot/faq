@@ -2220,3 +2220,9 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 ![image](https://github.com/user-attachments/assets/315b0d93-b339-4217-b080-b6ee60080b84)
 
 2. If the issue persists, your robot may need repair or replacement. Please submit feedback to contact us.
+
+---
+### It Possible to Pair Multiple Water Stations for One Floor Cleaning Robot S10?
+
+With firmware version 1.0.946, one S10 can now be paired with multiple water and auto-empty stations. You can manually take the S10 to different floors for cleaning purposes. Water stations are not currently available but can be arranged through after-sales service. Please feel free to contact us.
+Note: The S10 can store a maximum of 5 maps, each with one water station configuration. As a result, you can currently place up to 5 water stations.
