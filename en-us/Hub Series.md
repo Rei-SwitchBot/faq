@@ -3944,3 +3944,29 @@ https://support.switch-bot.com/hc/en-us/articles/19444800636183
 SwitchBot App -> Hub 2 -> Tap "Add a scene" next to Button "off" at the bottom of the screen -> Select the target scene and save.
 Assign a scene to the on buttons in the same order.
 5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
+
+---
+### Alexa just can't get hub 2's temperature and humidity to start a routine.
+
+We apologize for any inconvenience our product caused.
+SwitchBot Hub 2 is recognized as a temperature and humidity sensor in the Alexa app. However, Alexa does not yet support using temperature and humidity data as triggers for routines. As a result, you won’t see Hub 2’s temperature or humidity as available conditions when creating Alexa Routines.
+As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home apps. These platforms support setting temperature and humidity data, including readings from the Hub 2, as triggers for automation. This can help you create more customized routines based on environmental conditions.
+If you have any other questions, please feel free to contact us.
+
+---
+### SwitchBot Hub 2’s Air Conditioner Remote Control Synchronization (IR Decoding) Function
+
+SwitchBot App Version:  8.8 or newer
+
+Solution:
+IR Decoding Function allows the SwitchBot Hub 2 to receive infrared information transmitted by the physical remote control of the air conditioner and synchronize it with the application.
+
+At present, it has been found that Hub 2's air conditioner remote control synchronization (IR Decoding) function is compatible with approximately 1,800 models of air conditioners (No further additions are planned). If you want to use the IR decoding feature, please first check the following list of supported AC remotes.
+https://drive.google.com/file/d/1h623tPGlxtis9tgvfx2NGrVI6nScO90b/view?usp=sharing
+
+If your air conditioner is on the supported list, you need to have SwitchBot App V8.8 or a newer version and be added to the white list by our R&D team. After being added to the white list, you can enable the IR decoder function by going to SwitchBot App -> Air Conditioner Remote -> Gear Icon -> IR decoder (Beta). If your home air conditioner is on the compatible list and you want to experience this feature, please contact us through the SwitchBot App -> Profile -> Support -> Feedback to request adding it to the whitelist.
+
+![image](https://github.com/user-attachments/assets/2e0e8826-5ea2-4d8d-8750-5e0dc6b7a460)
+
+
+
