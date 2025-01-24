@@ -1318,7 +1318,7 @@ SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 ---
 ### Is SwitchBot Universal Remote Compatible with Alexa and Google Assistant?
 
-The SwitchBot Universal Remote is a device that allows you to add multiple infrared appliances (like air conditioners, TVs, and lights) as well as SwitchBot devices to collectively manage and control your home appliances and SwitchBot devices. It does not have cloud service integration and cannot be connected to third-party services like Alexa or Google Home.
+The SwitchBot Universal Remote is a device that allows you to add multiple infrared appliances (like air conditioners, TVs, and lights) as well as SwitchBot devices to collectively manage and control your home appliances and SwitchBot devices. It cannot be connected to third-party services like Alexa or Google Home.
 
 If you have a SwitchBot Hub 2, you can sync the Universal Remote as a sub-device to the Apple Home App, allowing the Universal Remote ABCD buttons to trigger other devices or siri shortcuts as automation conditions.
 
