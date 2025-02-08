@@ -596,3 +596,93 @@ Photos of the leakage around the machine when it occurred
 A photo of the tray’s serial number (located on the bottom right of the tray)
 ![image](https://github.com/user-attachments/assets/9d6ce3a5-93a2-48b9-b708-ae866dd39ace)
 
+---
+### What Do the Different Colors of the Status Light on SwitchBot Evaporative Humidifier Indicate?
+
+Red Light (Solid): Low water level.
+
+White Light (Solid): A SwitchBot Meter Series device (Meter/Meter Plus/Outdoor Meter/Hub 2) is not paired to the Evaporative Humidifier, or the connection with a paired Meter Series device is lost.
+
+Blue Light (Solid): A SwitchBot Meter Series device is paired to the Evaporative Humidifier, and the humidity level is high (70% or above).
+
+Green Light (Solid): A SwitchBot Meter Series device is paired to the Evaporative Humidifier, and the humidity level is comfortable (30% to 70%).
+
+Orange Light (Solid): A SwitchBot Meter Series device is paired to the Evaporative Humidifier, and the humidity level is low (30% or below).
+
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Won't Turn on
+
+We're sorry to hear that you're having trouble with your SwitchBot Evaporative Humidifier not powering on. If the device isn't responding when you press the button, here's what we recommend:
+1. Try a Different Outlet
+Please check if the issue persists by plugging the humidifier into another power outlet. Sometimes, the issue may be with the outlet itself.
+2. Record a Video
+If the device still doesn't power on after trying a different outlet, we kindly ask that you provide us with a short video showing the issue. This will help our team better understand the problem and assist you more efficiently.
+If it's determined that there's a defect with your humidifier, we’ll gladly provide a replacement within the warranty period. To expedite the process, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting Unable to Update the Firmware on SwitchBot Evaporative Humidifier
+
+1. Please ensure you are using the latest version of the SwitchBot App.
+2. Restart your Evaporative Humidifier.
+3. Restart your smartphone.
+4. Restart your Wi-Fi router.
+5. If you have another smartphone available, try updating the firmware using that phone.
+6. Check if the device firmware can be updated using your smartphone’s tethering (hotspot) connection.
+7. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will escalate the matter to our R&D team for further analysis.
+
+---
+### Troubleshooting There Is A Lot of Mold on the Fan Propeller of My Evaporative Humidifier
+
+We’re sorry to hear about this issue. The fan (sometimes referred to as the propeller) inside the Evaporative Humidifier is a non-removable component, meaning it cannot be cleaned manually. However, we’d like to assist you in resolving this matter as quickly as possible.
+To determine whether a replacement is needed, please provide us with a photo clearly showing the mold on the fan or propeller. Additionally, to expedite the process, kindly share the following details:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Won’t Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
+
+We’re sorry to hear that your Evaporative Humidifier isn’t detecting the installed filter, preventing it from starting. This issue is likely related to the magnetic sensor in the filter frame. Please follow the steps below to diagnose the problem.
+Check the Magnetic Sensor in the Filter Frame:
+The filter frame has a built-in magnet that helps the humidifier detect whether the filter is installed. To check if the magnet is functioning:
+- Remove the filter frame from the humidifier.
+![image](https://github.com/user-attachments/assets/3b96ec4b-6931-43c1-83f3-5c8324dddc73)
+
+- Use a metal object, such as a small iron rod or any magnetic material, to touch the marked area on the frame (see image below).
+![image](https://github.com/user-attachments/assets/29f7dc2b-bea6-4675-8203-1759a0a12d82)
+
+If the magnet is not responsive, the sensor may not be properly installed in the filter frame. Please contact us through the SwitchBot App (Profile → Help & Feedback → Submit Feedback) to request a replacement filter frame. Our support team will arrange a new one for you.
+If the magnet is present and responsive, there may be an issue with the humidifier itself.  In this case, a device replacement may be needed. To expedite the process, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+- A photo displaying the tray's serial number
+
+![image](https://github.com/user-attachments/assets/e132877f-c967-49f2-bf67-6aa739ba692d)
