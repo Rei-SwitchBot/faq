@@ -1523,4 +1523,16 @@ Certainly, we can provide you with a structural drawing of an NFC card. The chip
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998165471895)
 
 
+---
+### Troubleshooting SwitchBot Keypad Touch Cannot Be Fixed to the Mounting Plate
 
+We apologize for any inconvenience caused by the Keypad Touch not being able to attach securely to the mounting plate.
+There may be an issue with the metal mounting plate. We will arrange for a replacement, but we kindly ask for your cooperation in providing the following details:
+- A video showing that your Keypad Touch cannot be fixed to the mounting plate.
+- Your order number.
+- A screenshot of your purchase information.
+- Your shipping details:
+  - Full name
+  - Phone number
+  - Address
+  - Postal code
