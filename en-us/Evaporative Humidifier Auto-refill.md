@@ -710,3 +710,57 @@ We regret to inform you that the fan inside the Evaporative Humidifier, also kno
 - A screenshot of your order
 
 If cleaning with a brush does not resolve the issue, we kindly ask you to provide a clear photo of the fan/propeller area where the mold or dirt is visible. Our support team will review the image and determine whether a device replacement is necessary.
+
+---
+### Troubleshooting the Fan on SwitchBot Evaporative Humidifier Suddenly Stops Spinning
+
+Thank you for reaching out to us regarding the issue with your Evaporative Humidifier (Auto-refill). We sincerely apologize for the inconvenience this has caused.
+After reviewing similar cases, we’ve found that the fan stopping is often caused by small foreign objects becoming lodged inside the unit. To resolve this, we recommend the following steps:
+1. Remove the water tank and gently shake the humidifier in all directions (up, down, left, and right) to dislodge any objects that may be obstructing the fan.
+2. Once done, reassemble the unit and check if the fan resumes normal operation.
+3. If the issue persists after trying the above steps, our support team will assess whether a device replacement is necessary. To assist us in evaluating the situation, please provide a short video showing the following:
+- Place a tissue paper over the humidifier’s air outlet.
+- Switch between operating modes to demonstrate whether the airflow changes.
+
+Also, to expedite the process, kindly share the following details:
+- A video of resetting the humidifier
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### How to Reset SwitchBot Evaporative Humidifier
+
+Press and hold the power button on the Humidifier for 15 seconds to reset the device to factory settings.  
+
+
+---
+### Troubleshooting the Indicator Light on SwitchBot Evaporative Humidifier Suddenly Stops Working
+
+We sincerely apologize for any inconvenience caused by our product. Please try below to troubleshoot:
+1. Unplug the power supply of your Evaporative Humidifier (Auto-refill) and plug it back in.  
+2. Press and hold the power button on the Humidifier for 15 seconds to reset the device to factory settings.  
+3. If the issue persists, Our support team will determine whether a device replacement is necessary.
+To expedite the process, kindly share the following details:
+- A video of resetting the humidifier
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
