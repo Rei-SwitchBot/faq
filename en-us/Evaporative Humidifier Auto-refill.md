@@ -645,8 +645,9 @@ If you have already provided this information, our team will review it and follo
 ---
 ### Troubleshooting There Is A Lot of Mold on the Fan Propeller of My Evaporative Humidifier
 
-We’re sorry to hear about this issue. The fan (sometimes referred to as the propeller) inside the Evaporative Humidifier is a non-removable component, meaning it cannot be cleaned manually. However, we’d like to assist you in resolving this matter as quickly as possible.
-To determine whether a replacement is needed, please provide us with a photo clearly showing the mold on the fan or propeller. Additionally, to expedite the process, kindly share the following details:
+We’re sorry to hear about this issue. The fan inside the Evaporative Humidifier, also known as the propeller, is non-removable and difficult to clean manually. However, we’d like to assist you in resolving this matter as quickly as possible.
+
+If you have a long, narrow brush (like the brush included in our S10), you can gently insert the brush into the fan area to clean it as thoroughly as possible. This method may help remove dust or debris within reach. If you do not have a suitable brush, we can arrange to send you one free of charge. To expedite the process, kindly share the following details:
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -657,6 +658,11 @@ To determine whether a replacement is needed, please provide us with a photo cle
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
+
+If cleaning with a brush does not resolve the issue, we kindly ask you to provide a clear photo of the fan/propeller area where the mold or dirt is visible. Our support team will review the image and determine whether a device replacement is necessary.
+
+We deeply regret any inconvenience this may have caused and appreciate your understanding as we work to resolve this matter. Your satisfaction is our top priority, and we are committed to ensuring you have the best experience with our products.
+
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
@@ -686,3 +692,21 @@ If the magnet is present and responsive, there may be an issue with the humidifi
 - A photo displaying the tray's serial number
 
 ![image](https://github.com/user-attachments/assets/e132877f-c967-49f2-bf67-6aa739ba692d)
+
+
+---
+### Is It Possible to Remove the Fan on SwitchBot Evaporative Humidifier for Cleaning?
+
+We regret to inform you that the fan inside the Evaporative Humidifier, also known as the propeller, is non-removable and difficult to clean manually. However, if you have a long, narrow brush (like the brush included in our S10), you can gently insert the brush into the fan area to clean it as thoroughly as possible.  This method may help remove dust or debris within reach. If you do not have a suitable brush, we can arrange to send you one free of charge. To expedite the process, kindly share the following details:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+If cleaning with a brush does not resolve the issue, we kindly ask you to provide a clear photo of the fan/propeller area where the mold or dirt is visible. Our support team will review the image and determine whether a device replacement is necessary.
