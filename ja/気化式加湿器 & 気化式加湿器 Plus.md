@@ -882,7 +882,15 @@ SwitchBot Appバージョン：7.10以降
 ![image](https://github.com/user-attachments/assets/28c1870d-d607-491c-891e-bfd406cb6d7e)
 
 3．フィルターフレームのみ装着して水が出ない場合、動画1を参考にして水ポンプを取り外し、動画2に従って手作業で水ポンプの各部分をクリーニングし、元に戻します。
+
+動画１：https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view?usp=sharing
+
+動画２：https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view?usp=sharing
+
 4．上記を実施されてもフィルターは乾燥したままでしたら、動画3通りで水ポンプの交換をお願いいたします。フィルターフレーム、もしくは、水ポンプはカスタマーサービスにて手配いたします。
+
+動画３：https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view
+
 ご連絡の際、以下の内容をいただけると助かります。
 - 稼働中の気化式加湿器のフィルターにティッシュペーパーを当て、濡れずに乾燥したままの動画
 - プラスチックチューブを外した後のフィルターフレーム写真（手順2真ん中の画像のようにフレームをひっくり返して撮影）
