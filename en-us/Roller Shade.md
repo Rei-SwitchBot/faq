@@ -247,3 +247,20 @@ We’re sorry to hear that your Roller Shade fabric is tilting to one side when 
 3. If the fabric continues to tilt despite these adjustments, please provide us with a video showing the shade tilting while rolling up. Our R&D team will review it and assist you further.
 
 If you need additional support, feel free to reach out.
+
+---
+### Troubleshooting the White Cap on the Side of SwitchBot Roller Shade Causes Light Leakage and Fabric Wrinkles During Rolling
+
+We sincerely apologize for any inconvenience caused by our product. 
+We would like to explain this white cap to you.
+1. If you do not plan to cut the fabric of your Roller Shade, the white ring is not required for installation.
+2. After cutting the fabric, remove the white ring and install the fabric.
+3. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:08 for guidance on how to make this adjustment.
+
+https://youtu.be/aJWKN80Y3_E
+
+![image](https://github.com/user-attachments/assets/75130b1f-668a-446e-9e68-65d6d9cf8fd8)
+
+Important Note:
+When installing inside the window frame, a gap of approximately 25mm on each side will occur. This is a common characteristic in the industry, we understand that this may result in some light leakage, and we sincerely appreciate your understanding and patience as we strive to provide you with the best possible product experience.
+
