@@ -500,61 +500,32 @@ Firmware recovery can be done without adding the Bot to your App account.
 ---
 ### How to remotely control SwitchBot Bot?
 
-Last Updated: 2023 May 15
-
 Related Products: SwitchBot Bot
-
-SwitchBot App version: 7.0 or newer
-
+SwitchBot App version: 9.7 or newer
 Firmware Version: 6.4 or newer
+1. Make sure your SwitchBot app is the latest version.
 
-1. Make sure your SwitchBot app is the latest version.
+2. Ensure your Bot is added to the SwitchBot app and has the latest firmware version. If it is not on the latest version, please log in to the SwitchBot App → Profile → Help & Feedback → Feedback.
 
-2. Ensure
+*Related post: How to use SwitchBot bot customization mode
 
-your Bot is added to the SwitchBot app and has the latest firmware version.
+https://support.switch-bot.com/hc/ja/articles/4406985733527
 
-If it is not on the latest version, please log in to the SwitchBot App → Profile → Help & Feedback → Feedback.
+3. For remote control of bots, it is essential to use our Hub series products. Please make sure the Hub series products have been added to the SwitchBot app. ( Hub Series Products: Hub Mini/Hub 2)
 
-*Related post:
+*Related post: How to set up the SwitchBot Hub Mini
 
-[How to use SwitchBot bot customization mode](https://support.switch-bot.com/hc/ja/articles/4406985733527)
+https://support.switch-bot.com/hc/en-us/articles/360037753974-How-to-set-up-Hub-Mini-and-notes-on-router-settings-
 
-3. For remote control of bots, it is essential
-
-to use our Hub series products.
-
-Please make sure the Hub series products have been added to the SwitchBot app. (
-
-Hub Series Products: Hub Mini/Hub 2)
-
-*Related post:
-
-[How to set up the SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360037753974-How-to-set-up-Hub-Mini-and-notes-on-router-settings-)
-
-4.
-
-Please enable the Cloud Service on the Bot settings screen.
-
-Tap the Bot
-
-Tap Cloud Service
-
-Enable the Cloud Service(connect your
-
-Hub Mini
-
-to enable its Cloud Service.
-
-)
+4. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 
 *Note: Cloud services cannot be used when using "Nearby Bot."
 
 5. Since the Bot communicates with the SwitchBot Hub series product via Bluetooth, please do not install it in a place far from the Hub series product.
 
-*Related post:
+*Related post: Recommended Bluetooth control distance
 
-[Recommended Bluetooth control distance](https://support.switch-bot.com/hc/en-us/articles/12085121543447)
+https://support.switch-bot.com/hc/en-us/articles/12085121543447
 
 
 
