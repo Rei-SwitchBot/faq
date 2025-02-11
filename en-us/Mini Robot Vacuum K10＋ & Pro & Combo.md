@@ -2335,3 +2335,30 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 If you had already upload a video of the issue, please wait for our agents to handle this case.
 
 Thank you for your understanding.
+
+---
+### Troubleshooting SwitchBot Roller Shade Fabric Has Black Stains
+
+We’re sorry to hear that your SwitchBot Roller Shade fabric has black stains. In rare cases, slight marks may appear during production or shipping, but don’t worry—there are ways to resolve this issue.
+Gently rub a soft eraser over the affected area to remove the stains. This method is effective in most cases and won’t damage the fabric.
+If the eraser does not fully remove the marks but the roller shade functions properly, we’d like to offer you a goodwill gesture. You can choose between:
+- A 15% refund on your purchase price (Please note that any processing fees incurred from the refund will not be covered by us).
+- A free gift—select one from the following options: Meter, Remote, or Bot.
+If you give this a try, please let us know the results and which option you’d prefer. We’re here to assist you!
+
+---
+### Troubleshooting SwitchBot Roller Shade Fabric Has Creases or Wrinkles
+
+We’re sorry to hear that your SwitchBot Roller Shade has developed creases. Fabric wrinkles can sometimes occur due to packaging, shipping, prolonged rolling, or even during installation, but don’t worry—there are ways to smooth them out.
+The best way to remove creases is by gently steaming the fabric with a garment steamer. Lightly run the steamer along the wrinkled areas while keeping the fabric taut. This method has been tested and works effectively.
+If steaming does not fully remove the creases or you don’t have a garment steamer, we can arrange a fabric replacement for you. However, since the fabric is shipped from our Hong Kong warehouse, delivery may take some time. For a faster solution, we recommend purchasing the fabric locally, and we will cover the cost.
+Note: When choosing your shade fabric, remember:
+1. Fabric Roll Diameter: The diameter of the rolled-up fabric, including the rod, should not exceed 66mm.
+2. Fabric Weight: Keep the fabric weight under 3kg to avoid putting too much strain on the Roller Shade and affecting its performance.
+![image](https://github.com/user-attachments/assets/1eedcd10-0b05-40d1-b720-27f8319fec33)
+If you need further assistance, feel free to reach out to our support team. We’re happy to help!
+
+---
+### Can I Use SwitchBot Remote to Open and Close SwitchBot Roller Shade?
+
+Yes, you can add open and close actions for the Roller shade to the Remote by tapping it in the SwitchBot app and assigning them to the convex and concave buttons.
