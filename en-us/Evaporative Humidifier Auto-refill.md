@@ -717,8 +717,10 @@ If cleaning with a brush does not resolve the issue, we kindly ask you to provid
 Thank you for reaching out to us regarding the issue with your Evaporative Humidifier (Auto-refill). We sincerely apologize for the inconvenience this has caused.
 After reviewing similar cases, we’ve found that the fan stopping is often caused by small foreign objects becoming lodged inside the unit. To resolve this, we recommend the following steps:
 1. Remove the water tank and gently shake the humidifier in all directions (up, down, left, and right) to dislodge any objects that may be obstructing the fan.
-2. Once done, reassemble the unit and check if the fan resumes normal operation.
-3. If the issue persists after trying the above steps, our support team will assess whether a device replacement is necessary. To assist us in evaluating the situation, please provide a short video showing the following:
+![image](https://github.com/user-attachments/assets/a25dfed1-bb6f-49e0-959c-de94bd422da2)
+
+3. Once done, reassemble the unit and check if the fan resumes normal operation.
+4. If the issue persists after trying the above steps, our support team will assess whether a device replacement is necessary. To assist us in evaluating the situation, please provide a short video showing the following:
 - Place a tissue paper over the humidifier’s air outlet.
 - Switch between operating modes to demonstrate whether the airflow changes.
 
