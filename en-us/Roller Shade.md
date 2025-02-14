@@ -271,3 +271,11 @@ When installing inside the window frame, a gap of approximately 25mm on each sid
 SwitchBot Outdoor Spotlight Camera solar panel can be used to charge the Roller Shade, but please note the Light Sensor feature will not be available.
 
 For the best performance and full feature compatibility, we strongly recommend using the dedicated Solar Panel designed specifically for the Roller Shade.
+
+
+---
+### Can I Use Multiple SwitchBot Roller Shades Side by Side for a Wide Window?
+
+Yes. You can freely combine S, M, L, and XL Roller Shades to fit the width of your window. However, when connecting two or more Roller Shades, please be aware that light gaps may appear at the seams. This is due to slight length discrepancies between the roller mechanism and fabric at the upper connection points of multiple units.
+
+![image](https://github.com/user-attachments/assets/6a289222-e58d-4e5d-9c66-5db27dbf90c9)
