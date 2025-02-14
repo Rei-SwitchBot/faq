@@ -80,9 +80,9 @@ You can charge your SwitchBot Roller Shade using the following methods:
 
 ![image](https://github.com/user-attachments/assets/fb4f3eb4-ea81-45a6-bb9d-bfbd09c846ce)
 
-2. Install the dedicated solar panel (sold separately) designed for SwitchBot Roller Shade for charging.
+2. Install the dedicated solar panel (sold separately) designed for SwitchBot Roller Shade for charging. When you connect the dedicated Solar Panel to the Roller Shade, the sun icon will appear in the app. Please note that regardless of whether the device is charging, the ⚡ icon will not be displayed.
 
-3. Use a 5V1A charging adapter (not included) and a charging cable (not included) to charge directly through the solar panel Type-C port.
+3. Use a 5V1A charging adapter (not included) and a charging cable (not included) to charge directly through the solar panel Type-C port. A ⚡ icon will be displayed to indicate that the device is charging.
 
 ![image](https://github.com/user-attachments/assets/d0229b6c-f2b1-49d3-917e-b61b6245933f)
 
@@ -264,3 +264,10 @@ https://youtu.be/aJWKN80Y3_E
 Important Note:
 When installing inside the window frame, a gap of approximately 25mm on each side will occur. This is a common characteristic in the industry, we understand that this may result in some light leakage, and we sincerely appreciate your understanding and patience as we strive to provide you with the best possible product experience.
 
+
+---
+### Can the Solar Panel from SwitchBot Outdoor Spotlight Camera Be Used for SwitchBot Roller Shade?
+
+SwitchBot Outdoor Spotlight Camera solar panel can be used to charge the Roller Shade, but please note the Light Sensor feature will not be available.
+
+For the best performance and full feature compatibility, we strongly recommend using the dedicated Solar Panel designed specifically for the Roller Shade.
