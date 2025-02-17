@@ -2228,3 +2228,272 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 
 With firmware version 1.0.946, one S10 can now be paired with multiple water and auto-empty stations. You can manually take the S10 to different floors for cleaning purposes. Water stations are not currently available but can be arranged through after-sales service. Please feel free to contact us.
 Note: The S10 can store a maximum of 5 maps, each with one water station configuration. As a result, you can currently place up to 5 water stations.
+
+
+---
+### Matter Compatibility for SwitchBot Floor Cleaning Robot S10
+
+Yes, SwitchBot Floor Cleaning Robot S10 supports Matter. You can sync it to the Apple Home app or Google Home app as a secondary device through Hub 2 or Hub Mini Matter Enabled. In the Apple/Google Home app, you can control cleaning and recharging.
+
+
+---
+### Voice Commands for Controlling SwitchBot Floor Cleaning Robot S10 Using Google Assistant
+
+Hey Google, start vacuuming.
+Hey Google, tell {device name}  to vacuum.
+Hey Google, pause vacuuming.
+Hey Google, resume vacuuming.
+Hey Google, tell {device name} to resume vacuuming,
+Hey Google, stop vacuuming.
+Hey Google, tell {device name} to stop vacuuming.
+Hey Google, stop the vacuum.
+Hey Google, tell {device name} to go charging dock.
+Hey Google, dock {device name}.
+
+---
+### Voice Commands for Controlling SwitchBot Floor Cleaning Robot S10 Using Alexa
+
+Using the Alexa Customer Skill, you can control your SwitchBot Floor Cleaning Robot S10+ vocally through Alexa. The Alexa Customer Skill for the SwitchBot Floor Cleaning Robot S10+ is a feature that offers specialized voice commands for enhanced voice control via Alexa. While the SwitchBot Floor Cleaning Robot S10+ initially offers only the default on/off command with Alexa, the Customer skill broadens this scope, enabling voice control for commands such as "pause", "resume cleaning", and "return to charging station".
+Prepare Before Use
+- The SwitchBot Floor Cleaning Robot S10+ is already registered and connected to the network.
+- The device is already linked to Alexa.
+Below, you will find the instructions for using the Customer Skill.
+Step 1: Engaging Customer Skills Mode and Providing Instructions
+When you command Alexa with "Alexa, activate SwitchBot," it enables the Customer Skills mode. To operate each SwitchBot Floor Cleaning Robot S10+, even if you possess multiple units, simply instruct the robot as indicated in the "Example commands for each function" section below when the relevant mode is active.
+※Please ensure you say, "Alexa, activate SwitchBot," as the voice command is designed accordingly.
+Step 2: Defining "SwitchBot"
+You can activate the SwitchBot Floor Cleaning Robot S10+ directly by saying "SwitchBot" followed by the instruction command, without the need to invoke the customer skills mode.
+※Should you possess multiple SwitchBot Floor Cleaning Robot S10+, each one will be activated.
+Examples of Commands for Each Function
+
+start cleaning
+Alexa, ask {device name} to start vacuuming.
+Alexa, ask {device name} to start cleaning.
+
+pause cleaning
+Alexa, ask {device name} to pause vacuuming.
+Alexa, ask {device name} to pause cleaning.
+
+resume cleaning
+Alexa, ask {device name} to resume vacuuming.
+Alexa, ask {device name} to resume cleaning.
+
+return to charge
+Alexa, ask {device name} to go recharge.
+Alexa, ask {device name} to return to charging dock.
+
+Alexa, ask {device name} where it is.
+
+adjust suction power to (Quiet)
+Alexa, ask {device name} to change suction power to (Quiet).
+
+adjust suction power to (Standard)
+Alexa, ask {device name} to change suction power to (Standard.)
+
+adjust suction power to (Strong)
+Alexa, ask {device name} to change suction power to (Strong).
+
+adjust suction power to (Max)
+Alexa, ask {device name} to change suction power to (Max).
+
+adjust water output for mopping to (Low)
+Alexa, ask {device name} to change water output for mopping to (Low).
+
+adjust water output for mopping to (Medium)
+Alexa, ask {device name} to change water output for mopping to (Medium).
+
+adjust water output for mopping to (High)
+Alexa, ask {device name} to change water output for mopping to (High).
+
+Adjust water output for mopping to (Moist)
+Alexa, ask {device name} to change water output for mopping to (Moist).
+
+Adjust water output for mopping to (Wet)
+Alexa, ask {device name} to change water output for mopping to (Wet).
+
+adjust to (mop mode)
+Alexa, ask {device name} to change to (mop mode).
+
+adjust to (vacuum mode)
+Alexa, ask {device name} to change to (vacuum mode).
+
+adjust  to (vacuum and mop mode)
+Alexa, ask {device name} to change to (vacuum and mop mode).
+
+
+---
+### Is It Possible to Control SwitchBot Floor Cleaning Robot S10 with Smartthings?
+
+We're excited to let you know that starting on 29/08/2024, you'll be able to control your S10 using the SmartThings App. If you can't find your S10 in the SmartThings App, try unlinking it from SwitchBot and then linking it again.
+
+---
+### Local Functions of SwitchBot Floor Cleaning Robot S10 via Home Assistant Without Cloud?
+
+When operating the S10 locally through the Home Assistant app, the following functionalities are available:
+- Starting and stopping cleaning
+- Adjusting the cleaning power mode
+- Checking the status of the robot vacuum
+For features related to mapping, please connect to Wi-Fi and use the SwitchBot App.
+
+---
+### How Often Should I Replace the Dust Bag of the SwitchBot Floor Cleaning Robot S10?
+
+The replacement frequency of the dust bag depends on your cleaning habits and environment. Below are estimates based on different usage scenarios:
+For cleaning 5 times a week:
+Assuming each cleaning collects 80g of debris:
+80g × 5 times/week × 4 weeks = 1.6L of debris collected per month.
+With a 4L dust bag, the estimated usage period is approximately 2.5 months (70 days).
+For cleaning 4 times a week:
+Under the same assumption:
+80g × 4 times/week × 4 weeks = 1.28L of debris collected per month.
+In this case, the dust bag is estimated to last about 3 months (90 days).
+We recommend replacing the dust bag every 2 to 3 months depending on your actual usage and household environment.
+
+---
+### Will I Receive a Push Notification From Switchbot When the Dust Bag of the Switchbot Floor Cleaning Robot S10 Is Full?
+
+We regret to inform you that SwitchBot Floor Cleaning Robot S10 currently does not have a push notification feature in the app to alert you when the dust bag is full. The dust bag has a capacity of 4 liters, and we recommend replacing it every 2 to 3 months, depending on your actual usage and household environment. 
+
+---
+### What Should I Check Before Purchasing SwitchBot Floor Cleaning Robot S10?
+
+Please watch the installation video First.
+
+https://support.switch-bot.com/hc/en-us/articles/22257534204823
+
+Water Inlet:
+1. The included accessories can be used to connect the water inlet to G3/8”, G1/2”, or G3/4” angle valves.
+2. Recommended water pressure: 0.1~0.6 MPa.
+
+Drainage:
+1. The S10 drainage hose comes with two adapter options, allowing it to connect to φ38~40mm P-Trap pipes.
+2. If your drainage pipe is φ32mm, you will need a special adapter. Please contact us via SwitchBot App -> Profile -> Support ->Feedback to request one.
+3. The drainage pipe should not be installed higher than 1 meter above the Water Station.
+
+If you have any questions, please contact our support team. When reaching out, provide:
+- A photo of the exact location where you plan to install the S10.
+- The diameter of your home's drainage and water inlet pipes.
+- Your specific concerns.
+
+---
+### Time and Trips Needed for SwitchBot Floor Cleaning Robot S10 to Refill SwitchBot Evaporative Humidifier Auto-refill
+
+SwitchBot Floor Cleaning Robot S10’s internal water tank holds about 250 ml, while the Evaporative Humidifier Auto-refill’s tank capacity is approximately 4.5 liters. In testing, if the S10 operates without interruptions or other task interference, it typically requires around 23 trips and approximately 100 minutes to fully refill the humidifier.
+The S10 also features an automated refilling option, so you can simply adjust refilling settings to match specific humidity needs and room conditions.
+Way to setup: SwitchBot App -> your S10 -> gear icon -> More Features -> Humidifier Settings
+Note: The built-in water tank of the S10 is approximately 250 ml, but the actual water supply to the humidifier is designed to be approximately 180 ml per water supply.
+
+---
+### How to Edit the Wi-Fi Settings of SwitchBot Floor Cleaning Robot S10
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App.
+
+3. If your S10 is online, please edit the wi-fi settings next to the S10 in the following order.
+- Launch SwitchBot App and login
+- Tap your SwitchBot Floor Cleaning Robot S10
+- Tap the gear icon in the upper right corner
+- Tap "Wi-Fi Settings"
+- Tap "Edit" and follow the guidance of the App to connect to the network again by simultaneously pressing and holding the home button and mode switch button for three seconds.
+
+4. If your S10 device is offline on the SwitchBot App, you can delete it from the App by long-pressing and then re-add it to reconnect to Wi-Fi.
+If you remove and re-add the S10 to your account, any maps you've created will still be cleared. This means you'll need to remap when adding or removing the device from your account. We sincerely apologize for any inconvenience this may cause.
+
+---
+### Is It Possible to Copy the Map Created by SwitchBot Floor Cleaning Robot S10?
+
+We regret to inform you that copying the created map by S10 is not currently supported. 
+
+---
+### Why Does SwitchBot Floor Cleaning Robot S10 Make a Sound Every Ten Minutes While Drying the Roller Mop?
+
+The Floor Cleaning Robot S10 emits a sound every ten minutes while drying the mop. This is because the robot rotates the mop at regular intervals to achieve optimal drying. Please note that this is an intentional design feature and not a malfunction. You can safely continue using the product without any concerns.
+
+---
+### About the Temperature of SwitchBot Floor Cleaning Robot S10 When Drying Mop
+
+When the S10 dries its mop, the core air outlet temperature is around 50°C (122°F), which is lower than the heat from a heated carpet or a hot air blower. This temperature is set within a safe range and is designed to prevent any damage to your flooring during normal use.
+
+However, if you have particularly delicate flooring or are concerned about potential damage, we can provide you with an anti-moisture mat to offer extra protection for your floors.
+
+We hope this information helps to ease any concerns. If you would like the anti-moisture mat or have any other questions, please feel free to contact us.
+
+---
+### Installation Notes for SwitchBot Floor Cleaning Robot S10 Auto-empty Station and Water Station
+
+When installing the water station and auto-empty station for the S10, it is recommended to maintain a distance of at least 1 meter between them. Failure to do so may result in signal interference leading to cleaning leaks.
+
+![image](https://github.com/user-attachments/assets/93176191-4c7d-4fcc-962e-18a8ef477eef)
+
+![image](https://github.com/user-attachments/assets/143623fe-e169-424c-be91-e6753d9243bb)
+
+
+---
+### How Should I Set Up SwitchBot Floor Cleaning Robot S10 and Evaporative Humidifier (Auto-Refill) for Automatic Water Refilling?
+
+1. Place the Evaporative Humidifier (Auto-refill) on a hard, flat surface and put a waterproof mat in front of it.
+2. Make sure there is at least 1 meter of space in front of the humidifier.
+3. Make sure to place the humidifier in an area with a strong Wi-Fi signal.
+4. Keep at least 1 meter of distance between the humidifier and the S10’s Water Station and Auto-empty Station. Avoid placing them directly facing each other, as infrared signal interference may cause docking issues or missed cleaning sessions.
+![image](https://github.com/user-attachments/assets/581b51f6-c53b-42e6-9d53-4307492de535)
+
+![image](https://github.com/user-attachments/assets/78299fbf-594a-4ba1-a649-11c75491c1ec)
+
+5. If you need to place the humidifier in a carpeted room, use a hard mat that is at least 310×450mm under the humidifier, and place a waterproof mat on top of it.
+
+---
+### Placement Guidelines for SwitchBot Floor Cleaning Robot S10 Water Station
+
+1. Place the Water Station on a hard, level surface, with its back pressed against the wall or baseboard.
+2. Make sure there is at least 1 meter of space in front of the Water Station, more than 15mm above, and at least 50mm on each side.
+3. Avoid placing the Water Station on carpets or soft mats.
+4. The Water Station is 10cm in height and can be placed under a cabinet depending on your needs.
+5. Moving the Water Station during everyday use may prevent the Floor Cleaning Robot S10 from changing water properly. If the placement conditions restrict the back of the Water Station from having a support point, you can use the water pipe holder from the S10 Water Pipe Kit, or other tools, to secure the Water Station in place and prevent it from being easily moved.
+
+![image](https://github.com/user-attachments/assets/a498da77-3bfb-4c90-b9dd-a37414a4262d)
+
+6. If the Water Station moves left and right when placed against a wall, you can use two 3M adhesive strips to attach the back of the Water Station to the wall to prevent movement.
+
+![image](https://github.com/user-attachments/assets/e90193ce-1dad-44f1-b45d-be9c5d41d720)
+
+![image](https://github.com/user-attachments/assets/08a1015f-1aee-4aa6-9beb-a93edbf33a6a)
+
+---
+### Does the SwitchBot Floor Cleaning Robot S10's Water System Have a Temperature Limit for Water Input?
+
+The acceptable temperature range for the water in the water system of the S10 is between 0°C and 40°C (32°F~104°F). However, we recommend using water within the temperature range of 5°C to 40°C (41°F~104°F).
+
+
+---
+### Can I Use Cleaning Solutions From Other Brands for SwitchBot Floor Cleaning Robot S10?
+
+No. Non-SwitchBot cleaning solutions should not be used as they may cause corrosion to the S10's water station. If needed, please buy the official SwitchBot cleaning solution from our website.
+
+---
+### Can I Use Homemade Cleaning Solutions in the SwitchBot Floor Cleaning Robot S10?
+
+No. Homemade cleaning solutions may cause corrosion to the water station of the S10, so please do not use DIY cleaning solutions. If necessary, we recommend purchasing the official SwitchBot original cleaning solution available on our official website.
+
+---
+### Can Hard Water Be Used in SwitchBot Floor Cleaning Robot S10?
+
+SwitchBot Floor Cleaning Robot S10 uses cold water directly from your household water supply and does not heat the water during operation. This means limescale buildup occurs at a slower rate. However, if your local water supply has high hardness, limescale may still form over time with regular use. We recommend checking your water hardness level and considering your usage frequency before deciding whether to use the S10 with hard water.
+
+---
+### Is It Possible to Purchase Just the Water Station for the SwitchBot Floor Cleaning Robot S10?
+
+Currently, the water station for the S10 is not available for individual purchase. If there is an issue with the water station during the warranty period, we will arrange a replacement for you. For separate purchases, please contact customer support for assistance.
+
+---
+### Can the auto-refill function of SwitchBot Evaporative Humidifier (Auto-refill) be used when cleaning the floor with a cleaning solution using SwitchBot Floor Cleaning Robot S10?
+
+Once SwitchBot Evaporative Humidifier (Auto-refill) is connected to the S10, you can use the S10 to automatically supply water to the humidifier.
+Since the S10 main unit and the water station use the same water supply tube, do not use the Evaporative Humidifier's auto-refill function when the water station is filled with cleaning solution. A small amount of cleaning solution may stick to the water supply tube, and during humidifier operation, this cleaning solution could mix in and be released into the air.
+If you have already added cleaning solution to the S10 water station, please disable the auto-add solution feature in the SwitchBot App. Then, vacuum and mop your floor once. You can use the auto-refill function safely after using all of the cleaning solutions mixed with clean water.
+Way to disable the auto-add solution:
+SwitchBot App -> Floor Cleaning Robot S10 -> Gear icon -> Maintenance -> disable the Auto-add Solution
+
+
+
+
