@@ -278,13 +278,15 @@ A photo showing the four-digit serial number on the bottom of the Keypad
 ---
 ### What to Do If the Location Information for My Wallet Finder Card Is Not Updated?
 
-Last Updated: 2024 Sep 6
-
 Related Product: SwitchBot Wallet Finder Card
-
 SwitchBot App Version: 9.0 or newer
-
 SwitchBot App
+
+For Android users, ensure that the SwitchBot App's battery usage is set to unrestricted in order to update the location information for your finder card. For iOS users, allow background app refresh for the SwitchBot App.
+
+Related Post: How to Set SwitchBot App’s Battery Usage to Unrestricted in Order to Update the Status of SwitchBot Wallet Finder Card:
+
+https://support.switch-bot.com/hc/en-us/articles/29085264177431
 
 When your Finder Card is within the Bluetooth range of your phone, SwitchBot App updates its location every 10 minutes. If it’s outside your phone’s Bluetooth range, the App will display the last location where your phone detected the card via Bluetooth.
 
@@ -298,12 +300,9 @@ In Apple’s Find My App, the Wallet Finder Card does not update its location in
 
 In places with lots of iPhones around, the location may update every few minutes. However, in areas where there are fewer iPhones, it might take longer—sometimes 15 or 30 minutes, or even more. These intervals are not consistent and can be influenced by external factors beyond your control.
 
-For more information about how Find My App works, we recommend checking
+For more information about how Find My App works, we recommend checking Apple’s official documentation on below.
 
-[Apple’s official documentation](https://support.apple.com/en-us/104978)
-
-.
-
+https://support.apple.com/en-us/104978
 
 
 ---
