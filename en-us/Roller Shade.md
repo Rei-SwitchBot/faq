@@ -236,15 +236,16 @@ Hey Google, open [device name] to XX%.
 
 We’re sorry to hear that your Roller Shade fabric is tilting to one side when in use. This issue can often be corrected with a simple adjustment. Please follow the steps below to troubleshoot and resolve the problem.
 
-1. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:08 for guidance on how to make this adjustment.
+1. Remove the white ring and install the fabric.
+2. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:08 for guidance on how to make this adjustment.
 [Embedded Content](//https://youtu.be/aJWKN80Y3_E)
 
 ![image](https://github.com/user-attachments/assets/b1957c84-1f2b-4eb7-b0f2-22e5d2406da0)
 
-2. If the PP band is aligned correctly but the fabric still shifts to one side, place tape or a thin sponge-like material on the top tube where the fabric is moving (the direction it goes when rolling). Open and close the shade a few times, adjusting the thickness of the tape or spacer as necessary for balance.
+3. If the PP band is aligned correctly but the fabric still shifts to one side, place tape or a thin sponge-like material on the top tube where the fabric is moving (the direction it goes when rolling). Open and close the shade a few times, adjusting the thickness of the tape or spacer as necessary for balance.
 ![image](https://github.com/user-attachments/assets/a94ecbe6-13dd-494b-87f6-c7c6cc003f98)
 
-3. If the fabric continues to tilt despite these adjustments, please provide us with a video showing the shade tilting while rolling up. Our R&D team will review it and assist you further.
+4. If the fabric continues to tilt despite these adjustments, please provide us with a video showing the shade tilting while rolling up. Our R&D team will review it and assist you further.
 
 If you need additional support, feel free to reach out.
 
