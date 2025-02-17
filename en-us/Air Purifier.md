@@ -348,4 +348,11 @@ Qi1
 Not compatible with smartwatches.
 
 
+---
+### Matter Compatibility for SwitchBot Air Purifier Table
 
+SwitchBot Air Purifier supports Matter in two ways:
+1. Matter Integration through Hub Devices
+You can sync your Air Purifier with the Apple Home app or Google Home app as a secondary device using Hub 2 or Hub Mini Matter Enabled. If you are unable to sync the Air Purifier via Hub 2/Hub Mini Matter to Apple Home or Google Home app, try unplugging the Homepod or other home bridge and then plugging it back in before trying again.
+2. Direct Matter Compatibility
+Under firmware V2.2-2.2, you can use SwitchBot Air Purifier as a standalone device directly compatible with Matter. With this method, Hub 2 or Hub Mini Matter Enabled is not required.
