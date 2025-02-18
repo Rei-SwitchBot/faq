@@ -3881,3 +3881,26 @@ The same settings can also apply to SwitchBot Lock.
 6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+
+---
+### Where Can I Buy Magnets for SwitchBot Lock/Lock Pro?
+
+Thank you for reaching out to us. We sincerely appreciate your support of SwitchBot products.
+At the moment, we do not sell SwitchBot Lock/Lock Pro magnet separately. However, we understand that this may be an inconvenience, so we would like to offer the following solutions:
+1. You can purchase a magnet with a magnetic strength of at least 2000 Gs from the market as a replacement.
+2. If you prefer, we can provide you with an original SwitchBot Lock magnet free of charge. However, please note that shipping fees from our Hong Kong warehouse to your location will need to be covered by you. The shipping fee will vary depending on your delivery address. We will inform you of the exact cost once we receive your address details.
+
+If you would like us to arrange the shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*The magnet used for both SwitchBot Lock and Lock Pro is the same. If you need a replacement magnet for Lock Pro, please follow the same request process as mentioned above. We’d be happy to assist you!
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
