@@ -3883,7 +3883,7 @@ The same settings can also apply to SwitchBot Lock.
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 ---
-### Where Can I Buy Magnets for SwitchBot Lock/Lock Pro?
+### Where Can I Buy Magnets for SwitchBot Lock or Lock Pro?
 
 Thank you for reaching out to us. We sincerely appreciate your support of SwitchBot products.
 At the moment, we do not sell SwitchBot Lock/Lock Pro magnet separately. However, we understand that this may be an inconvenience, so we would like to offer the following solutions:
