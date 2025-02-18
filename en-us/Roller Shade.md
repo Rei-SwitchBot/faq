@@ -279,4 +279,5 @@ For the best performance and full feature compatibility, we strongly recommend u
 
 Yes. You can freely combine S, M, L, and XL Roller Shades to fit the width of your window. However, when connecting two or more Roller Shades, please be aware that light gaps may appear at the seams. This is due to slight length discrepancies between the roller mechanism and fabric at the upper connection points of multiple units.
 
-![image](https://github.com/user-attachments/assets/6a289222-e58d-4e5d-9c66-5db27dbf90c9)
+![image](https://github.com/user-attachments/assets/5488b0ec-3998-41cf-9034-0ac0e02e2a4b)
+
