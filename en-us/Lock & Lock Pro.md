@@ -3904,3 +3904,42 @@ If you would like us to arrange the shipment, please provide us with the necessa
 
 *The magnet used for both SwitchBot Lock and Lock Pro is the same. If you need a replacement magnet for Lock Pro, please follow the same request process as mentioned above. We’d be happy to assist you!
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### How to Enable Push Notifications for SwitchBot Lock or Lock Pro
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Lock or Lock Pro and Hub have been added to your App.
+
+3. The Lock is a Bluetooth communication device that must be connected to our Hub products to receive push notifications from the SwitchBot App. Starting from SwitchBot App V9.0, place the Lock near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+
+4. Turn on SwitchBot App's notifications in the following order:
+
+Launch SwitchBot App and log in.
+Tap "Profile" at the bottom right.
+Tap "Preferences".
+Tap "App Notifications".
+Turn "App Notifications".
+5. Turn on notifications for Lock in the following order:
+
+Launch the SwitchBot app and log in.
+Tap "Profile" at the bottom right.
+Tap on "Preferences".
+Tap on "App Notifications".
+Turn on "Device Notifications".
+Tap on "Notification Management" below device notifications.
+Switch to the Home where Lock is located at the top left.
+Tap on the corresponding Lock.
+Enable "Allow Notifications".
+Enable as needed: Door Unlocked/Locked/Door Opened/Door Left Unlocked.
+6. With the above settings, notifications will be sent to your smartphone when Lock is locked, unlocked, or left unlocked.
+
+7. 
+
+If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
+
+ 8. 
+
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
