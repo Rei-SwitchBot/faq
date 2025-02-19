@@ -1717,3 +1717,19 @@ Related Posts:
 
 Related Product: SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor), SwitchBot Hub 2
 Currently, the Hub 2 does not support displaying temperature and humidity data from the Meter Pro and CO2 Monitor. Therefore, when you check the data source list on the Hub 2, you will not find Meter Pro or CO2 Monitor listed. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+
+---
+### Instructions for the Weather Forecasts Displayed on SwitchBot Meter Pro
+
+Related Products: SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor)
+
+SwitchBot Meter Pro can display the local weather forecast in the top left corner of the screen. To enable this feature, please ensure that your account has a connected Hub and that the Meter Pro is within the Hub's Bluetooth range.
+
+Once connected to the Hub, the Meter Pro will show the weather forecast for the next 12 hours. The forecast updates twice a day—at midnight and noon—and includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
+
+If you have multiple Meter Pros added to the SwitchBot App at different times, the weather displayed on their screens may vary. In this case, simply press the top button of the device once and wait for 10 seconds to refresh the screen display.
+
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+
+![image](https://github.com/user-attachments/assets/b62bb8f4-3643-4c90-9ca8-26ef4c75f206)
