@@ -2495,5 +2495,132 @@ Way to disable the auto-add solution:
 SwitchBot App -> Floor Cleaning Robot S10 -> Gear icon -> Maintenance -> disable the Auto-add Solution
 
 
+---
+### How to Use SwitchBot Floor Cleaning Robot S10 to Clean Multi-floor
 
+Related Product: SwitchBot Floor Cleaning Robot S10
+SwitchBot App Version：9.3 or newer
+Firmware Version: 1.0.984 or newer
+Floor Cleaning Robot S10+the Water Station+the Auto-empty Station one set:
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+
+3. Mark Water Station Position on your S10.
+
+Related Post: How to Set Up SwitchBot Floor Cleaning Robot S10 and Mark Water Station Position
+
+https://support.switch-bot.com/hc/en-us/articles/22963487317783
+
+4. Before cleaning different floors, please activate the "Water Station Not Marked (Beta)" feature in the SwitchBot App by going to S10 -> Vac & Mop. Wait for water to be supplied to the robot, then manually move it to the target floor. After completing the Vac & Mop, manually move the robot again to where the Auto-empty Station is located and use the app for trash collection and mop drying.
+
+![image](https://github.com/user-attachments/assets/1e2f2c29-3c9d-475e-93e9-5fdc9da4acba)
+
+Water Stations have already been placed on each floor:
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+
+3. Mark each water station on each floor on the S10 by going to SwitchBot App -> S10 -> Functions -> Settings -> Mark Water Station Position.
+
+Related Post: How to Set Up SwitchBot Floor Cleaning Robot S10 and Mark Water Station Position
+
+https://support.switch-bot.com/hc/en-us/articles/22963487317783
+
+![image](https://github.com/user-attachments/assets/135ae5b7-fb3d-47a0-bd1e-c709dff58679)
+
+Note: Tap "⋮" in the upper right corner to unpaire the water station if needed.
+
+4. Manually move the S10 to the target floor and select the cleaning mode in the SwitchBot app. After finishing vacuuming and mopping, the S10 will automatically go to the marked water station to drain and mop clean. If there is no auto-empty station, you must move the robot to where it is located and then use the app for trash collection and mop drying.
+
+
+
+---
+### Troubleshooting Water Inside the Dustbin & Dust Bag of SwitchBot Floor Cleaning Robot S10, Causing Odor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+The dust bag in the Floor Cleaning Robot S10 is made of non-woven material with moisture-resistant properties, but if the robot frequently picks up wet waste or high-moisture debris, mold and bacteria may grow inside, leading to unpleasant odors. In such cases, we recommend replacing the dust bag more frequently to prevent odor and bacterial buildup.
+Additionally, the S10 does not support a mopping-only mode due to its unique roller design. If there is excessive water on the floor, the robot may struggle to handle it properly. If water enters the suction path, it can cause malfunctions, so we strongly advise against allowing the robot to pick up standing water.
+If water has already entered the dustbin, dust bag, or auto-empty station, please follow these steps:
+- Wash the dustbin and filter with clean water, then allow them to dry completely.
+- Replace the dust bag with a new one.
+- Wipe down the main brush frame, rubber brush, suction port of the auto-empty station, and the mop drying outlet with a dry cloth.
+- If water has entered the internal components and the device is not functioning properly, please contact our support team for further assistance.
+If you have any other questions, feel free to reach out. We're always happy to help!
+
+---
+### Troubleshooting Suction Power Drops After SwitchBot Floor Cleaning Robot S10 Runs at Max Power for Around 10 Minutes
+
+We wanted to let you know that when the S10 operates in MAX mode for more than 10 minutes, it will automatically switch to Power mode.
+This adjustment is designed to protect the fan’s lifespan and extend the battery life, as MAX mode consumes a significant amount of power quickly. Please rest assured that this is a standard feature of the product and not a malfunction.
+We appreciate your understanding and apologize for any confusion this might cause. If you have any further questions, please feel free to reach out.
+
+---
+### Troubleshooting About Hair Getting Tangled on SwitchBot Floor Cleaning Robot S10’s Main Brush
+
+Thank you for reaching out to us. We’re truly sorry if hair tangling on the main brush has caused you any inconvenience. We completely understand how frustrating this can be, and we appreciate the opportunity to address your concerns.
+The S10 uses a rubber brush, which is designed to reduce hair tangling compared to traditional bristle brushes. However, when there is a large amount of hair, it may still wrap around the ends of the brush. This is a common occurrence with robot vacuums, we recommend using the small cleaning tool included in the package to remove any hair buildup regularly.
+
+![image](https://github.com/user-attachments/assets/d8dad22e-0d79-4589-bc95-aa3834511ea1)
+
+We are continuously working to improve our products and take customer feedback seriously. Your insights help us refine our designs and make our products even better.
+
+If your robot is unable to operate due to hair entanglement, please provide a detailed video of the issue. We will escalate the matter to our R&D team to investigate further.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting There’s an Unpleasant Odor Coming From the Auto-Empty Station of My Floor Cleaning Robot S10
+
+Thank you for reaching out to us. 
+We sincerely apologize for any inconvenience our product caused. Please try below to troubleshoot:
+1. Please check if the dust bag needs to be replaced.
+2. Please refer to the maintenance video to clean and maintain the auto-empty station.
+Video: https://youtu.be/oBFspfMKsKA
+3. If the issue persists, kindly provide a detailed description of where the odor is coming from in theauto-empty station, and we will escalate the matter to our R&D team for further investigation.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Can I Set the SwitchBot Floor Cleaning Robot S10 to Mopping Mode?
+
+At the current time, the S10 supports a vacuum& mopping mode and a vacuum mode, but it does not have the capability to be set exclusively to a mopping mode. We apologize for any inconvenience this may cause.
+
+
+---
+### How Much Space from the Edge of the Walls Is Not Going to Be Mopped by SwitchBot Floor Cleaning Robot S10?
+
+The S10 is equipped with side brushes that effectively clean dust and debris from corners. However, when performing mopping mode, it is unable to mop within approximately 7~12cm of the wall's edge. Manual cleaning may be necessary for these areas.
+
+---
+### How Much Space from the Edge of the Walls Is Not Going to Be Mopped by SwitchBot Floor Cleaning Robot S10?
+
+The S10 is equipped with side brushes that effectively clean dust and debris from corners. However, when performing mopping mode, it is unable to mop within approximately 7~12cm of the wall's edge. Manual cleaning may be necessary for these areas.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Makes Sound While Operating
+
+We sincerely apologize if the sound from your S10 has caused any inconvenience. We completely understand how important a quiet and comfortable home environment is, and we appreciate your feedback.
+To ensure that the mop stays clean throughout the mopping process, the S10 is designed to automatically clean the mop while in use. This involves continuously spraying clean water, rotating the roller, and collecting dirty water. As a result, some sound is unavoidable. In particular, during the dirty water collection process, the waste water collection gutter presses against the roller to efficiently remove water, which creates slight resistance. This can cause the motor to run louder at times, but rest assured, this is a normal part of the cleaning process.
+We are always working to improve our products based on customer feedback. Your insights are invaluable in helping us refine our technology, and we will continue to seek ways to make the S10 even quieter without compromising its cleaning performance. We truly appreciate your support and understanding!
+If the noise from your robot seems different from what we’ve described, we would greatly appreciate it if you could provide us with a video capturing the sound. This will allow us to investigate further and offer a suitable solution.
+
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Catches on Rug Tassels or Drags Small Rugs
+
+Thank you for reaching out to us, and we sincerely apologize for the inconvenience caused by our product.
+We understand that smaller rugs with tassels may sometimes get caught in the robot or be moved around during cleaning. To address this, we would like to suggest the following solutions:
+For rugs with tassels:
+We highly recommend setting the entire rug, including the tassels, as a "No-Go Zone" in the app.
+*Please note that this will require manual cleaning of the rug area.
+For smaller rugs without tassels:
+You can use adhesive tape to secure the rug to the floor. This will prevent the robot from moving the rug while cleaning.
+
+We deeply apologize for any inconvenience this may have caused and appreciate your understanding as we work to improve our products. If you have any further questions or concerns, please don’t hesitate to contact us.
 
