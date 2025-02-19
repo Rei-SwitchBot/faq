@@ -2515,6 +2515,10 @@ https://support.switch-bot.com/hc/en-us/articles/22963487317783
 
 4. Before cleaning different floors, please activate the "Water Station Not Marked (Beta)" feature in the SwitchBot App by going to S10 -> Vac & Mop. Wait for water to be supplied to the robot, then manually move it to the target floor. After completing the Vac & Mop, manually move the robot again to where the Auto-empty Station is located and use the app for trash collection and mop drying.
 
+Important Notice:
+
+When using the Water Station Not Marked (Beta) feature, please note that if the fresh water box runs out of water, the Vac & Mop task will automatically stop. We apologize for any inconvenience this may cause and appreciate your understanding.
+
 ![image](https://github.com/user-attachments/assets/1e2f2c29-3c9d-475e-93e9-5fdc9da4acba)
 
 Water Stations have already been placed on each floor:
