@@ -2628,3 +2628,19 @@ You can use adhesive tape to secure the rug to the floor. This will prevent the 
 
 We deeply apologize for any inconvenience this may have caused and appreciate your understanding as we work to improve our products. If you have any further questions or concerns, please don’t hesitate to contact us.
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Auto-refill Failed
+
+1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
+2. Make sure that the fresh water hose is not damaged or folded.
+3. Make sure that the water station's auto-fill port is attached and undamaged.
+
+![image](https://github.com/user-attachments/assets/733a7447-d63d-4a31-bf2a-ba30b4e2ca9e)
+
+4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
+https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
+5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
+6. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
+- A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
+- Photos showing fresh water hose and sewage hose in place
+- How long after using the Water Station is unable to auto-refill
