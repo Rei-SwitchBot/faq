@@ -2433,3 +2433,13 @@ In this situation, we'd like to guide you to a temporary solution as below.
 If you have any questions, please don't hesitate to contact us.
 
 
+---
+### Troubleshooting Debris Left in the Dust Cup of SwitchBot Cordless Vacuum Cleaner
+
+Thank you for reaching out to us. We’re truly sorry for any inconvenience caused by finding debris in the dust cup of your cordless vacuum cleaner. To assist you better, could you please provide a photo showing the debris left in the dust cup of your cordless vacuum cleaner? This will help us better understand the issue and provide a suitable solution.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+If it's the tangled hairs that aren't completely vacuumed up, please press the button on the dust cup to open the lid, then manually remove any remaining debris, such as hair or dust.
+
+![image](https://github.com/user-attachments/assets/83e5f9f9-8b58-40b2-b2b1-7b0650519cde)
+
+In other cases, our customer team will get back to you after confirmation.
