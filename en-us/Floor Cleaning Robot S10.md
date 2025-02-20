@@ -2670,3 +2670,26 @@ Note:
 Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Troubleshooting Missing Accessories for SwitchBot Floor Cleaning Robot S10
+
+We’re sorry to hear that some accessories were missing from your S10 Robot. We truly appreciate you bringing this to our attention, and we’re here to make things right as quickly as possible.
+To help us verify what’s missing, could you please:
+1. Send us photos of everything you received, including the packaging.
+2. Let us know which specific parts (as listed in the manual) were not included.
+
+To speed up the replacement process, we’ll also need the following details:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+Once confirmed, we’ll arrange for the missing parts to be sent to you as soon as possible. Thanks for your patience, and we appreciate your support!
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
