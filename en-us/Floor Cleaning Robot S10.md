@@ -2646,3 +2646,27 @@ https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=shari
 - A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
 - Photos showing fresh water hose and sewage hose in place
 - How long after using the Water Station is unable to auto-refill
+
+
+---
+### SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
+
+We apologize for any inconvenience caused. 
+We can arrange a new water hose replacement and provide a replacement video. To better assist you, could please send us a photo of the broken hose, focusing on the joints so we can determine the problem?
+*Remove the cover at the bottom of the water station with a screwdriver, so you can check the connection part of the hose.
+To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+Note: 
+Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
