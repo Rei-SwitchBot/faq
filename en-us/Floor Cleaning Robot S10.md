@@ -2214,6 +2214,8 @@ Please check the following points regarding the battery consumption of your Floo
 We apologize for any inconvenience caused. 
 Can you please provide a video showing the beeping noise the S10 is making while charging? This will help us determine if the robot needs to be repaired or replaced.
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting Can't Remove the Waste Water Box on SwitchBot Floor Cleaning Robot S10
 
