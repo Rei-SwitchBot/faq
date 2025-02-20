@@ -2147,25 +2147,17 @@ Related post:
 ---
 ### What to Do if My SwitchBot Mini Robot Vacuum K10+ / K10+ Pro’s Charging Station Lights up Red and Won’t Collect Dust?
 
-L
-
-ast Updated：
-
-2024 Feb 22
-
 Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
 SwitchBot App Version: 7.10 or newer
-
 1. Please make sure the charging station lid is properly closed.
 
-2. Please make sure that the dust pack is properly attached.
+2. Please make sure that the dust pack is properly attached. If you have multiple dustpacks, try replacing another one to see if it helps.
 
 3. If the red light does not go out even after attaching the dust pack, please adjust the position of the dust pack slightly to the right, as shown in the video below.
 
 [Embedded Content](//www.youtube-nocookie.com/embed/y13cJRifAw8)
 
-4. If you have followed the steps in the video above, but the issue persists, please log in to the SwitchBot App → Profile → Help and Feedback → Create a New Ticket. Please make sure to attach a video demonstrating the red light of the dustbin after you place the dust bag on the right side so our technical team can investigate it better for you.
+4. If you have followed the steps in the video above, but the issue persists, please log in to the SwitchBot App → Profile → Help and Feedback → Create a New Ticket. Please make sure to attach a video demonstrating the red light of the dustbin after you place the dust bag on the right side so our technical team can investigate it better for you. 
 
 Related Post:
 
@@ -2362,3 +2354,82 @@ If you need further assistance, feel free to reach out to our support team. We�
 ### Can I Use SwitchBot Remote to Open and Close SwitchBot Roller Shade?
 
 Yes, you can add open and close actions for the Roller shade to the Remote by tapping it in the SwitchBot app and assigning them to the convex and concave buttons.
+
+---
+### The Brush on SwitchBot Robot Vacuum K10+ Pro Combo Nozzle Appears to Be Bent Out of Shape.
+
+We sincerely apologize for any inconvenience caused by our product.
+Upon checking, we found that the deformation of the brush on the nozzle was caused by pressure from the screwdriver inside the packaging.
+To restore the brush to its original shape, please try softening the bristles with hot water at approximately 80°C (176°F), then gently straighten them and allow them to dry completely. Please be careful to avoid burns during this process.
+If the brush does not return to its original condition after trying the above method, we will arrange for a replacement nozzle to be sent to you. Please feel free to contact us.
+Once again, we sincerely apologize for the inconvenience. Please rest assured that we have already improved the packaging to prevent this issue from happening in the future.
+Thank you for your understanding and continued support.
+
+---
+### Troubleshooting Guide for Constant Orange Light on Dual Dust Collection Station
+
+We sincerely apologize for the inconvenience caused by the constant orange light on your SwitchBot Robot Vacuum K10+ Pro Combo. Below are steps to identify and resolve the issue:
+1. Make sure the dust bag is correctly installed. Open the lid of the dual empty station, remove and reinsert the dust bag, and adjust its position if necessary. Proper installation will cause the orange light to blink three times as confirmation.
+
+video: https://drive.google.com/file/d/1x8uw7jBzZwsT0Hl8swe2kYFxZOP-iUMz/view
+
+2. Make sure the lid of the dual empty station is properly positioned. Avoid reversing the front and back sides, as this can interfere with detection.
+
+![image](https://github.com/user-attachments/assets/c64ef8c8-48e9-498c-9426-68eba55b97f7)
+
+3. Remove the dust bag and close the lid of the dual empty station. If the lid is correctly detected, the orange light will blink three times.
+
+video: https://drive.google.com/file/d/1fO6RbkA_VQiXQH-BbipsSUgJMxAKikHS/view
+
+Note: Since the dust bag is not installed, the orange light will remain constantly on afterward.
+
+4. Remove the rubber on the back of the lid and use a magnet or metal object to check for the built-in magnet. If it's missing, please contact our support team through the SwitchBot App to get a replacement lid.
+
+![image](https://github.com/user-attachments/assets/09ee9889-02ee-4ff1-86ba-ee5a7aa127b2)
+
+5. If the dust bag and lid are properly installed, and the magnet is in place, but the orange light stays on, please kindly provide a brief video demonstrating how to install the dust bag so that our team can assist you in arranging repairs.
+Thank you for your understanding and cooperation. If you need further assistance, please don’t hesitate to reach out.
+
+---
+### Instructions for SwitchBot Robot Vacuum K10+ Pro Combo Do-Not-Disturb Time Feature
+
+Setting the Do Not Disturb Time:
+Launch SwitchBot App and log in.
+Tap your K10+ Pro Combo.
+Tap the gear icon in the upper right corner.
+Select "Do Not Disturb" from the settings menu.
+Add the desired time period and save the settings.
+
+Maximum Number of Do Not Disturb Times:
+You can set up to 10 Do Not Disturb times.
+
+How Do Not Disturb Time Works:
+During the scheduled Do Not Disturb Time, the Robot Vacuum K10+ Pro Combo will not clean automatically, including scheduled tasks and automations. It will also not activate automatic dust collection. Moreover, the voice prompt volume will be lowered and the indicator lights dimmed to minimize interruptions.
+The Do Not Disturb Time settings are saved directly on the robot. This means that the vacuum must be connected to the dual empty station in order to sync these settings with the cordless vacuum cleaner. If the cordless vacuum cleaner is docked during a Do Not Disturb Time while the robot is connected to the dual empty station, dust collection will not be performed. However, if the robot is not connected to the dual empty station, such as when it is actively cleaning, docking the cordless vacuum cleaner will still trigger dust collection. This behavior occurs because the Do Not Disturb Time settings are not synced in this scenario and should be considered a normal operational feature rather than a product defect. Thank you for your understanding.
+To sum it up:
+Do Not Disturb Time + robot connected to the dual empty station → automatic dust collection of the cordless vacuum cleaner will not be performed
+Do Not Disturb Time + robot is not connected to the dual empty station → automatic dust collection will be performed
+
+
+---
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo's Cliff Sensor Functions Immediately and Failed to Map When Maping with Dark Carpet
+
+In this situation, we'd like to guide you to a temporary solution as below.
+1. Stick the cliff sensor flat with thin, white tape as shown in the figure to prevent it from functioning.
+
+![image](https://github.com/user-attachments/assets/d595f3e2-d82f-4cac-8940-a0b5b6d99b51)
+
+2. Before mapping, make sure to physically block off any steps, such as stairs or doorways. Otherwise, there is a risk that the robot will fall because the step sensor won't work.
+3. Perform mapping.
+4. After mapping, mark the dark carpet areas in the following order, allowing your robot to clean those zones without interruption.
+- Open the SwitchBot App.
+- Tap your S10 robot.
+- Tap the map icon in the center-left of the screen.
+- Go to "Edit Floor".
+- Select "Carpet Cleaning" and then "Carpet Settings".
+- Mark the areas with dark-colored carpets.
+5. When you mark dark-colored areas for cleaning, the cliff sensor sensitivity will decrease. If you have staircases or other potential hazards nearby, we recommend setting those areas as "No-Go Zones" instead of marking them as dark carpet areas to prevent accidents.
+(Please remove the tape when you are done mapping.)
+If you have any questions, please don't hesitate to contact us.
+
+
