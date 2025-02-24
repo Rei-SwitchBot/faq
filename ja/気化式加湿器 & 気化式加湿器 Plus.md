@@ -883,9 +883,9 @@ SwitchBot Appバージョン：7.10以降
 
 3．フィルターフレームのみ装着して水が出ない場合、動画1を参考にして水ポンプを取り外し、動画2に従って手作業で水ポンプの各部分をクリーニングし、元に戻します。
 
-動画１：https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view?usp=sharing
+動画１：https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view
 
-動画２：https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view?usp=sharing
+動画２：https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view
 
 4．上記を実施されてもフィルターは乾燥したままでしたら、動画3通りで水ポンプの交換をお願いいたします。フィルターフレーム、もしくは、水ポンプはカスタマーサービスにて手配いたします。
 
