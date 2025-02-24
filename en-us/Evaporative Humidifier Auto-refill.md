@@ -791,3 +791,27 @@ video3: https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view
 - A screenshot showing your order information
 - Your address
 
+---
+### What to Do If I Hear Water Flowing Sounds from My Evaporative Humidifier Auto-refill?
+
+Related Product: SwitchBot Evaporative Humidifier Auto-refill
+1. Make sure the filter is securely installed in the filter frame, as shown in the video.
+
+video: https://www.youtube.com/shorts/6lMBBJre9zw
+
+![image](https://github.com/user-attachments/assets/d7a291b3-fb6d-4798-9062-330fe69986ac)
+
+![image](https://github.com/user-attachments/assets/df2d04f6-80ea-4390-b78c-97209d0a9e29)
+
+2. After adjusting the position of the filter, use the included rubber ring to fix it in place.
+
+![image](https://github.com/user-attachments/assets/cd03c20e-0943-46ec-bf86-3b4e90bf418c)
+
+![image](https://github.com/user-attachments/assets/639af7eb-c299-4928-a4d8-39710dd3bfa5)
+
+Note: If the rubber ring is not included in the package, please contact us via SwitchBot App -> Profile -> Support ->Feedback. Our support team can arrange for a replacement.
+
+3. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide a video that captures the sound of water flowing from the humidifier. This will help our R&D team investigate the matter further.
+
+
+
