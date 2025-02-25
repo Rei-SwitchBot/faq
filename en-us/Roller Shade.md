@@ -281,3 +281,13 @@ Yes. You can freely combine S, M, L, and XL Roller Shades to fit the width of yo
 
 ![image](https://github.com/user-attachments/assets/5488b0ec-3998-41cf-9034-0ac0e02e2a4b)
 
+
+---
+### About the Side Cap (White Ring) Included in SwitchBot Roller Shade Package
+
+The side caps (white rings) on your Roller Shade are included for protection during transportation. These rings help prevent fabric damage caused by vibrations during shipping. However, they are not intended for use after installation, which means you should remove them when installing the fabric.
+If you are not cutting the fabric, simply remove the rings before installation.
+If you are cutting the fabric, keep the rings on during the cutting process and remove them afterward.
+After removing the rings, you may notice a small gap between the fabric and the window frame. This gap is intentional and ensures smooth operation. Without it, the fabric could rub against the frame, leading to wear or misalignment over time.
+Leaving the rings on during use may cause fabric damage, so please make sure to remove them before installation.
+If you have any further questions, feel free to reach out to us.
