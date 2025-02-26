@@ -2317,3 +2317,59 @@ We want to confirm that it is normal for Curtain 3 to tilt slightly during insta
 For your reference, we’ve included a link to an installation video that demonstrates this process. Please take a look, and feel free to contact us if you need further assistance.
 [Embedded Content](//www.youtube.com/watch?v=ilKv3irx5CQ)
 
+---
+### About Curtain 3's "Efficient charging even on low lighting conditions"
+
+When SwitchBot Curtain 2 is connected to the solar panel, SwitchBot App will display either "Connected, Not Charging" or "Connected, Charging." However, if the light level is insufficient (below level 6), the solar panel will not charge the Curtain 2.
+
+On the other hand, the SwitchBot Curtain 3 solar panel has "low light charging" capabilities, allowing it to charge even without direct sunlight. However, it does not ensure a consistent battery level increase.
+
+For instance, on a cloudy day, it may only charge 5% while the Curtain 3 consumes 10% of the battery by opening and closing throughout the day. As the usage surpasses the charging rate, the SwitchBot app might display that the solar panel is not effectively charging.
+
+As shown in the diagram, when exposed to sunlight that creates distinct shadow outlines, the solar panel can supply enough power for the Curtain 3 to operate. Otherwise, even if connected to the solar panel, it will only maintain the current power level or decrease it gradually.
+
+![image](https://github.com/user-attachments/assets/0cf076f9-9e94-4975-a5a5-7bd984474ef1)
+
+---
+### Can I Extend the Solar Panel for SwitchBot Curtain 3?
+
+We’re sorry to inform you that the solar panel for Curtain 3 cannot be extended. The connector for the foldable solar panel is custom-designed, and using a standard extension cable may cause it to detach or malfunction. Unfortunately, this means extending the solar panel is not supported at this time.
+We understand that the current length of the solar panel may not meet everyone’s needs, and we truly appreciate your feedback. Rest assured, we will take this into account and work on improvements for future products to address this limitation and provide a more flexible solution.
+Thank you for your understanding and support as we continue to innovate and enhance your experience with our products. 
+
+---
+### Troubleshooting SwitchBot Curtain 3 Suddenly Stopped Working, Could't Open and Close My Curtain.
+
+We apologize for the inconvenience caused when one side of the grouped SwitchBot Curtains stops functioning. Please follow these steps to troubleshoot the issue:
+1. Check the battery levels by going to SwitchBot App → Curtain → Gear icon → Firmware & Battery. Charge the curtain if needed.
+2. Long-press the curtain icon in the app and remove it.
+3. Reset the curtain by pressing the button on the device for 15 seconds.
+4. Re-add the curtain to the SwitchBot app.
+5. If all the above doesn't improve the issue, please remove the Curtain 3 from the curtain rail, and use the app to manually open and close the device. During this process, gently press a pen against the rollers to see if the rollers stop moving due to the pressure. We kindly ask you to send us a 20–40 second video of this process, including any sounds the device makes.
+Here is a guide video for your reference:
+https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view?usp=sharing
+Note:
+If you are unable to add your curtain to the app, please kindly provide us with a video showing the issue you are facing.
+
+---
+### Troubleshooting One of My SwitchBot Curtain 3 in the Group Stopped Working
+
+We apologize for the inconvenience caused when one side of the grouped SwitchBot Curtains stops functioning. Please follow these steps to troubleshoot the issue:
+1. In the SwitchBot App, go to Curtain → Gear icon → Ungroup to ungroup the curtains.
+2. Check the battery levels by going to Curtain → Gear icon → Firmware & Battery. Charge the curtain if needed.
+3. Long-press the curtain icon in the app and remove it.
+4. Reset the curtain by pressing the button on the device for 15 seconds.
+5. Re-add the curtain to the SwitchBot app.
+6. If the issue persists, please remove the Curtain 3 from the curtain rail, and use the app to manually open and close the device. During this process, gently press a pen against the rollers to see if the rollers stop moving due to the pressure. We kindly ask you to send us a 20–40 second video of this process, including any sounds the device makes.
+Here is a guide video for your reference:
+
+https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view?usp=sharing
+
+
+---
+### Troubleshooting Even After Deleting the Schedule Setting, Switchbot Curtain 3 Still Opens and Closes at the Scheduled Time
+
+To help resolve this issue, could you please check the following settings?
+1. Automations or Routines: Please verify if there are any scheduled automations set up, such as SwitchBot Automations, Amazon Alexa routines, or Apple Home automations that might be controlling the curtain.
+2. SwitchBot App Settings: In the SwitchBot app, tap your Curtain 3 and check if there are any active schedules, auto-charging settings, or light sensor automations that could be triggering movement.
+Additionally, if you've shared control of the curtain with family members or friends, kindly check if they have operated it recently.
