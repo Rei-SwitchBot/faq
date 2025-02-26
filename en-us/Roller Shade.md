@@ -237,17 +237,18 @@ Hey Google, open [device name] to XX%.
 We’re sorry to hear that your Roller Shade fabric is tilting to one side when in use. This issue can often be corrected with a simple adjustment. Please follow the steps below to troubleshoot and resolve the problem.
 
 1. Remove the white ring and install the fabric.
-2. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:08 for guidance on how to make this adjustment.
-[Embedded Content](//https://youtu.be/aJWKN80Y3_E)
+2. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:17 for guidance on how to make this adjustment.
 
-![image](https://github.com/user-attachments/assets/b1957c84-1f2b-4eb7-b0f2-22e5d2406da0)
+https://youtu.be/aJWKN80Y3_E
+
+![image](https://github.com/user-attachments/assets/b1073f48-0906-4372-a850-332dfb145d88)
 
 3. If the PP band is aligned correctly but the fabric still shifts to one side, place tape or a thin sponge-like material on the top tube where the fabric is moving (the direction it goes when rolling). Open and close the shade a few times, adjusting the thickness of the tape or spacer as necessary for balance.
-![image](https://github.com/user-attachments/assets/a94ecbe6-13dd-494b-87f6-c7c6cc003f98)
+
+![image](https://github.com/user-attachments/assets/05180adb-3d3d-4fa1-9d6e-7e0848b0a729)
 
 4. If the fabric continues to tilt despite these adjustments, please provide us with a video showing the shade tilting while rolling up. Our R&D team will review it and assist you further.
 
-If you need additional support, feel free to reach out.
 
 ---
 ### Troubleshooting the White Cap on the Side of SwitchBot Roller Shade Causes Light Leakage and Fabric Wrinkles During Rolling
@@ -256,11 +257,11 @@ We sincerely apologize for any inconvenience caused by our product.
 We would like to explain this white cap to you.
 1. If you do not plan to cut the fabric of your Roller Shade, the white ring is not required for installation.
 2. After cutting the fabric, remove the white ring and install the fabric.
-3. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:08 for guidance on how to make this adjustment.
+3. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:17 for guidance on how to make this adjustment.
 
 https://youtu.be/aJWKN80Y3_E
 
-![image](https://github.com/user-attachments/assets/75130b1f-668a-446e-9e68-65d6d9cf8fd8)
+![image](https://github.com/user-attachments/assets/89fc6b0c-42e8-4537-ad9e-3f49c64d65f3)
 
 Important Note:
 When installing inside the window frame, a gap of approximately 25mm on each side will occur. This is a common characteristic in the industry, we understand that this may result in some light leakage, and we sincerely appreciate your understanding and patience as we strive to provide you with the best possible product experience.
