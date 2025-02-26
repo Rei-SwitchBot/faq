@@ -2443,3 +2443,96 @@ If it's the tangled hairs that aren't completely vacuumed up, please press the b
 ![image](https://github.com/user-attachments/assets/83e5f9f9-8b58-40b2-b2b1-7b0650519cde)
 
 In other cases, our customer team will get back to you after confirmation.
+
+
+---
+### Troubleshooting The Side Brush on SwitchBot Robot Vacuum K10+ Pro Combo Stops Rotating During Cleaning
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. To help resolve the issue with the side brush not rotating, we kindly ask you to follow these steps:
+1. Please turn the robot over and check if there is any foreign object stuck in the side brush. If necessary, remove the side brush and clean it manually.
+2. Manually rotate the side brush to see if it feels difficult to turn.
+3. Start a cleaning task and check if the side brush rotates normally.
+4. If the issue persists after following the above steps, we may need to assess whether the robot vacuum requires repair or replace. Could you kindly provide a video showing the side brush not rotating properly?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting My Cordless Vacuum Cleaner Is Not Being Recognized by SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. 
+1. Please ensure the battery is securely inserted into the cordless vacuum cleaner. Note that the battery will not be fully inserted during factory shipment, so kindly insert it properly before use.
+2. Check if the cordless vacuum cleaner can charge. Typically, the indicator light will blink during charging and remain solid when fully charged.
+3. If the vacuum cleaner charges properly, please try using it as shown in this video:
+4. 
+Video Link: https://drive.google.com/file/d/1uJU_ZatTGlkH73SFk7Zpyo6fUiN8bpEG/view
+
+6. If the vacuum cleaner does not start, we may need to assess whether a replacement is required. In this case, kindly provide a video showing the issue.
+7. If the vacuum cleaner starts but still has issues, please follow the steps in this video to remove the battery and reset the battery:
+8. 
+Video Link: https://drive.google.com/file/d/1P5kvccENpRTCBZg3XPqmGbvdYmo6vhf0/view
+
+10. If the issue persists after following the above steps, please let us know. We will escalate the matter to our R&D team for further investigation.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Stops Running Immediately after Leaving the Station
+
+Thank you for reaching out to us.
+We sincerely apologize for the inconvenience caused by the issue with your Robot Vacuum K10+ Pro Combo. We appreciate the opportunity to assist you and would like to provide a solution to the problem where the robot stops running immediately after leaving the station.
+This issue can sometimes occur if the firmware version of the robot is outdated. We have resolved this in firmware version 1.1.040. If you haven’t updated yet, please follow these steps:
+1. Open the SwitchBot App.
+2. Select your Robot Vacuum K10+ Pro Combo.
+3. Tap the gear icon (settings).
+4. Go to Firmware & Battery and update the firmware.
+If the issue persists after updating, kindly provide a video showing the robot stopping immediately after starting a cleaning task. This will help us escalate the matter to our R&D team for further investigation.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can SwitchBot Robot Vacuum K10+ Pro Combo Be Set to a Cat Voice?
+
+Currently, the K10+ Pro Combo and the S10 do not support setting the voice to a cat sound. We sincerely apologize for not being able to meet your request at this time. However, we truly value your feedback and will consider this as a potential feature for future updates.
+
+---
+### Troubleshooting SwitchBot Cordless Vacuum Cleaner Won't Charge
+
+Thank you so much for reaching out to us.
+We sincerely apologize for the inconvenience you’ve experienced with our product.
+Regarding the issue with your cordless vacuum cleaner not charging, could you please check the following points for us?
+1. Make sure the dust collection bracket is properly seated in the dual empty station. Refer to the image provided and make sure the back gray plate is flat, with no dents or protrusions.
+
+![image](https://github.com/user-attachments/assets/383832a6-115c-4cbc-b5c1-6a380dedddfb)
+
+2. Open the lid of the dual empty station and check if the four screws (especially the ones marked with red arrows in the image) are securely tightened. If they’re loose, please use a screwdriver to tighten them.
+
+![image](https://github.com/user-attachments/assets/da0e4615-249b-475b-8fb8-d75b03e2a15f)
+
+3. Please check if the charging terminals on the dust-empty bracket are bent or damaged.
+
+![image](https://github.com/user-attachments/assets/25fea5ac-4d4c-4f39-8a88-5c533cedd819)
+
+4. If the dust collection bracket seems fine, please verify if the magnet on the dust cup of the cordless vacuum cleaner is intact.
+
+![image](https://github.com/user-attachments/assets/3834f855-7dd4-4c7c-b902-77515b2d6f6e)
+
+5. After checking the above, please reach out to our support team with the results. It would be incredibly helpful if you could include photos of the items checked in steps 1, 3, and 4.
+
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+We truly appreciate your patience and cooperation in resolving this matter. Please don’t hesitate to let us know if you have any further questions or need additional assistance.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
