@@ -2496,3 +2496,26 @@ SD cards in this post refer to Micro SD cards.
 
 
 
+---
+### How Much Network Traffic Does SwitchBot Pan/Tilt Cam Consume?
+
+Related Product: SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Pan/Tilt Cam Plus 2K, SwitchBot Pan/Tilt Cam Plus 3K
+When Not Watching Live Video
+
+All SwitchBot Pan/Tilt Cameras: Less than 1 MB per hour (or about 10 MB per day).
+
+ 
+
+When Watching Live Video
+
+SwitchBot Pan/Tilt Cam: Approximately 3 MB per minute.
+
+SwitchBot Pan/Tilt Cam 2K: Approximately 5 MB per minute.
+
+SwitchBot Pan/Tilt Cam Plus 2K: Approximately 7 MB per minute.
+
+SwitchBot Pan/Tilt Cam Plus 3K: Approximately 11 MB per minute.
+
+ 
+
+For the best experience when watching live videos, we recommend using a stable Wi-Fi connection. Mobile data or mobile Wi-Fi hotspots may not provide consistent performance for real-time streaming.
