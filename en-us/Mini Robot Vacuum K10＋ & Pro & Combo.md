@@ -2536,3 +2536,121 @@ We truly appreciate your patience and cooperation in resolving this matter. Plea
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fan Is Not Working Properly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To assess whether your robot requires repair or replace, could you kindly confirm the following below?
+1. Check if air is flowing from the exhaust of the robot.
+
+![image](https://github.com/user-attachments/assets/66fb79a7-0cb6-43a7-9de3-4236938fbd57)
+
+2. Change the cleaning mode in the SwitchBot App and verify if the sound of the airflow from the exhaust increases.
+3. Check if notifications of fan malfunctions occur frequently. We would also appreciate it if you could provide us with a fan error message screenshot.
+Check the notification messages by going to SwitchBot App -> Home screen -> "..." in the upper right corner -> Notifications
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Brush Frame Rattles
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. 
+About this issue, please check the following to troubleshoot:
+1. Remove the brush frame and check if the robot makes any unusual noise during cleaning.
+
+![image](https://github.com/user-attachments/assets/90449223-5e3e-493c-9e79-ca68133602f7)
+
+2. Try cutting off 1-2mm of the rubber part of the frame cover with scissors to see if it helps.
+
+![image](https://github.com/user-attachments/assets/9db0ee39-1c22-42db-9d3d-b49f846b6e46)
+
+3. Could you please kindly provide a video of the robot making a clattering noise while cleaning so we can determine if parts need to be replaced.
+
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Side Brush Is Broken
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+About this issue, please check the following to troubleshoot:
+1. When cleaning carpets, ensure they have a pile of 2cm or less to avoid damage from the side brush.
+2. Please provide a photo of the broken side brush for us to assess if replacement parts are needed. Additionally, please include a photo of the carpet if you are cleaning on one.
+
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Collect Trash Automatically
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the robot not automatically emptying the dustbin, could you please check the following points?
+1. The auto-empty function will not activate if the robot returns within 10 minutes of starting a cleaning session. Please note this limitation.
+2. The auto-empty function is disabled during the do-not-disturb period. Please ensure this mode is turned off if you want the robot to empty the dustbin automatically.
+3. Make sure the lid of the auto-empty station is properly closed. If the lid is open, the station’s indicator light will turn red.
+4. Ensure the dustbag is correctly installed. If it’s not properly placed, the station’s indicator light will also turn red. If the red light remains on even after installing the dustbag, try adjusting the dustbag slightly to the right, as shown in this video: https://youtu.be/y13cJRifAw8.
+5. Please make sure the protective film on the charging station has been removed.
+6. Try turning off the auto-empty station and then turning it back on.
+7. Turn the Mini Robot Vacuum K10+ off and then on again.
+8. Open the SwitchBot app, go to the Mini Robot Vacuum K10+ control panel, and tap “Empty Dust” to see if the robot can empty the dustbin manually.
+9. If the issue persists after trying the above steps, we may need to assess whether a repair is required. Could you please provide a video showing the robot failing to auto-empty after returning to the station?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Multiple SwitchBot Mini Robot Vacuum K10+ Units Do Not Empty Trash Automatically
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of multiple K10+ robots not automatically emptying the dustbin, could you please check the following points?
+1. The auto-empty function will not activate if the robot returns within 10 minutes of starting a cleaning session. Please note this limitation.
+2. The auto-empty function is disabled during the do-not-disturb period. Please ensure this mode is turned off if you want the robot to empty the dustbin automatically.
+3. The robot vacuum body is attached to the auto-empty station by default. When using multiple units, please do not change the combination of the vacuum cleaner body and the auto-empty station. If the second robot collects garbage instead of the first one that should be collecting garbage, please replace the robot vacuum cleaner and see if it improves.
+4. If the issue persists after trying the above steps, we may need to assess whether a repair is required. Could you please provide the following information?
+- A video showing the robot failing to auto-empty after returning to the station
+- A screenshot displaying the BLE MAC addresses of your auto-empty stations. (SwitchBot App -> K10+ -> Gear Icon -> Device Info ->)
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Falling Down Stairs During Cleaning
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of your Mini Robot Vacuum K10+ falling from stairs, please check the following:
+1. The cliff sensors  activate only for steps or height differences higher than 8cm.
+2. Keep shoes or objects at least 10cm away from steps or edges. If too close, the sensors may not detect the height difference properly, causing a fall.
+3. Avoid using the robot in narrow spaces near steps or stairs. Set these areas as no-go zones in the app.
+4. Do not use the robot around sunken floors. The sensors may not recognize the edges, leading to a fall. Set these areas as no-go zones in the app.
+5. Avoid using the robot in areas without guardrails, such as lofts, hallways overlooking open spaces, or stair landings. Falls in these areas could cause damage or injury. Set these areas as no-go zones in the app.
+6. To help our R&D team investigate, please provide:
+- A photo of the steps or area where the robot fell.
+- A screenshot of the map from the SwitchBot app.
+
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
