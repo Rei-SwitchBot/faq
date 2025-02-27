@@ -2093,7 +2093,8 @@ If your Floor Cleaning Robot S10 is not automatically emptying the dustbin after
 5. Check if the indicator light on the auto-empty station is orange, which may indicate an issue.
 6. Make sure the input voltage listed at the bottom of the auto-empty station matches your household voltage.
 7. Open the lid of the auto-empty station and inspect the interior for any signs of moisture.
-8. If the problem is not resolved after following the above steps, please provide the following information to our support team for further investigation:
+8. If the dust is not being collected properly, please open the lid of the auto-empty station and check if there is an attached dustbag or similar item inside. If present, remove it and try emptying the dustbin again.
+9. If the problem is not resolved after following the above steps, please provide the following information to our support team for further investigation:
 - A video showing the robot not automatically collecting debris after completing a cleaning task.
 - A photo of the inside of the auto-empty station with the lid open.
 
