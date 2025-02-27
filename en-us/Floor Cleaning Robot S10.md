@@ -1963,6 +1963,18 @@ S10 Wheel Replacement Video
 https://drive.google.com/file/d/1CintEmtbERxc4rcvy-JOnwc5Qp1EK7_X/view?usp=sharing
 https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=sharing
 
+To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
