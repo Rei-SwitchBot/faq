@@ -2071,45 +2071,25 @@ SwitchBot App Version: 7.3.2 or newer
 
 
 ---
-### What to Do if My Mini Robot Vacuum K10+ / K10+ Pro Cannot Connect to Wi-Fi Network?
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fails to Connect to Wi-Fi
 
-Last Updated: 2024 Aug 26
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot not being able to connect to Wi-Fi, could you please check the following points?
+1. Make sure you are connecting the robot to a 2.4GHz Wi-Fi network.
+2. Check if the Wi-Fi list on your smartphone displays the Wi-Fi emitted by the K10+ itself, indicated by "Robot-xxxxxxxx".
+3. Restart your home router and try again.
+4. Remove the faceplate of the K10+ and turn the power switch off and then back on.
+5. Turn off your home Wi-Fi and attempt to connect via your smartphone's tethering to see if pairing is possible.
+6. If you're using an iPhone, go to the Settings App, scroll down and tap on SwitchBot, then enable Local Network. If it's already enabled, disable and re-enable it.
+7. Try using another smartphone.
+8. Attempt network setup again at a different time of day, such as at night.
+9. Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
+Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be lost.
+Reset video: https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
+10. Please wait a few days before attempting to connect to Wi-Fi again.
+11. If you have completed all the checks mentioned above and the issue still persists, please provide us with a video showing the Wi-Fi network connection failure to help us determine if your robot needs repair or replacement.
 
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-SwitchBot App Version: 8.8 or newer
-
-1. Make sure your SwitchBot App is the latest version.
-
-2. Please connect to 2.4GHz Wi-Fi.
-
-3. Please remove the faceplate of the vacuum cleaner body, turn off the power switch once, and turn it on again.
-
-4. Before connecting to Wi-Fi, please be sure to press and hold the charging button and cleaning button at the same time for at least 3 seconds, check the voice guidance "Wi-Fi settings have been reset", and then connect to Wi-Fi again. I will.
-
-5. When connecting to Wi-Fi, check that the Wi-Fi of "Robot-xxxxxxxx" emitted from the SwitchBot Robot Vacuum K10+ / K10+ Pro itself is displayed in the Wi-Fi list on your smartphone. If you don't see it, repeat step 4 and try again.
-
-6. Please reboot your home router and try again.
-
-7. Please turn off your home Wi-Fi once, connect to tethering on your smartphone, and check if pairing is possible.
-
-8. If you're using an iPhone, go to the Settings App, scroll down and tap on SwitchBot, then select Local Network. If it's already enabled, disable and re-enable it.
-
-9. If you have another smartphone at hand, please try it.
-
-10. If the above does not help, please log in to the SwitchBot App -> Profile -> Help and Feedback -> Feedback and contact us. We would appreciate it if you could provide the following information when contacting us. Our technical team will investigate.
-
-Videos that cannot connect to Wi-Fi (using the feedback screen recording feature)
-
-Smartphone OS version (e.g. iOS 16.5/Android 13)
-
-Router manufacturer and model number
-
-Serial number of SwitchBot Robot Vacuum K10+ / K10+ Pro
-
-Related post:
-
-[How to check the serial number of the robot vacuum cleaner K10+ / K10+ Pro](https://support.switch-bot.com/hc/en-us/articles/16129666380951-How-to-check-the-SN-Serial-Number-of-SwitchBot-Robot-Vacuum-K10-)
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
@@ -2654,3 +2634,155 @@ Regarding the issue of your Mini Robot Vacuum K10+ falling from stairs, please c
 - A screenshot of the map from the SwitchBot app.
 
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Unable to Fully Charge
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot not fully charging, could you please check the following points?
+It takes approximately 3 hours to fully charge the K10+ robot. Please dock the robot to the charging station and charge it for four hours to see if it can be charged to 100%, so we can determine if the robot needs repair or replacement. If this does not improve the situation, please tap the SwitchBot app -> K10+ and provide us with a screenshot of the charging status.
+
+![image](https://github.com/user-attachments/assets/4c0dc8fc-4624-43d3-aa05-b09c8d3d29da)
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Unable to Charge
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the robot not charging, could you please check the following points?
+1. Unplug the auto-empty station, then plug it back in.
+2. Try manually cleaning the charging terminals on both the robot and the auto-empty station to see if it improves.
+3. Manually place the K10+ on the auto-empty station and charge it for 30 minutes to check if the battery level goes up.
+4. Please check if the robot K10+ can be powered on when it is not docked at the auto-empty station.
+5. Please remove the faceplate of the robot K10+, switch the power to "o", manually dock the robot to the auto-empty station, and check if it can be powered on.
+6. Please check if the indicator on the auto-empty station blinks three times when the robot is manually docked to it.
+7. Please contact us again with the results of the above checks so we can determine if the robot needs repair or replacement.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Drain Battery Fast and Abnormally
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the fast draining of the robot battery, could you please check the following points?
+1. Check the cleaning mode of the K10+. The battery life varies depending on the mode:
+Quiet Mode: Lasts for 150 minutes.
+Standard Mode: Lasts for 120 minutes.
+Strong Mode: Lasts for 90 minutes.
+MAX Mode: Lasts for 70 minutes.
+2. Please check if the robot K10+ can be powered on when it is not docked at the auto-empty station.
+3. Please remove the faceplate of the robot K10+, switch the power to "o", manually dock the robot to the auto-empty station, and check if it can be powered on.
+4. Please check if the indicator on the auto-empty station blinks three times when the robot is manually docked to it.
+5. Please contact us again with the results of the above checks so we can determine if the robot needs repair or replacement.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Unable to Climb over Steps
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the robot's inability to overcome steps, could you please check the following points?
+1. Verify that the step is within 2 centimeters in height.
+2. The K10+ robot can travel on slopes with a maximum angle of 17 degrees. It is recommended to use a non-slip surface for better performance.
+3. To better assist you, could you please kindly provide a video of the K10+ robot struggling to climb over a step?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+'s Main Brush Is Hair Entangled 
+
+Thank you for reaching out to us. We’re truly sorry if hair tangling on the main brush has caused you any inconvenience. We completely understand how frustrating this can be, and we appreciate the opportunity to address your concerns.
+When there is a large amount of hair, it may still wrap around the ends of the brush. This is a common occurrence with robot vacuums, we recommend using the small cleaning tool included in the package to remove any hair buildup regularly.
+We are continuously working to improve our products and take customer feedback seriously. Your insights help us refine our designs and make our products even better.
+
+If your robot is unable to operate due to hair entanglement, please provide a detailed video of the issue. We will escalate the matter to our R&D team to investigate further.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Not Powering On
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the robot not powering on, could you please check the following points?
+1. Please check if the robot K10+ can be powered on when it is not docked at the auto-empty station.
+2. Please remove the faceplate of the robot K10+, switch the power to "o", manually dock the robot to the auto-empty station, and check if it can be powered on.
+3. Please check if the indicator on the auto-empty station blinks three times when the robot is manually docked to it.
+4. Please contact us again with the results of the above checks so we can determine if the robot needs repair or replacement.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Circles in Place and Cannot Move Straight
+
+Thank you for contacting us. We apologize for any inconvenience and are grateful for the chance to help. 
+We would like to walk you through some troubleshooting steps to fix the spinning problem with the K10+.
+1. Flip the Mini Robot K10+ and examine the tires for any foreign objects. If you notice anything, proceed with caution and cleanly remove the debris.
+2. Please refer to the video guide from the link provided, and mildly shake the robot by holding it in both hands for approximately 5 seconds. Afterwards, lightly vibrate the cleaner on the ground, restart it and then test it again.
+Link: https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M?usp=drive_link
+3. Manually rotate both the left and right tires to check for any differences in stiffness.
+4. If both tires can be manually rotated without any issues, kindly check through the SwitchBot App -> Mini Robot Vacuum K10+ -> More -> Remote Control Mode. Test if the robot can travel in a straight line.
+5. If you have tried all the steps above without any improvement, please send us a video to help us determine if your robot needs repair or replacement.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+'s Schedule Has Been Deleted But Still Initiates Daily Cleaning
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot starting the cleaning task automatically at a set time every day, could you please check the following points?
+1. Please comfirm if the schedule has been set through the following steps in the SwitchBot App -> K10+ -> More -> Scheduled. Delete any unnecessary schedules.
+2. Please verify if any automations are scheduled to perform cleaning tasks. Delete any unnecessary automations.
+3. Check if there are any Alexa routines scheduled for cleaning. Delete any unnecessary routines.
+4. If the issue persists, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When contacting us, please provide with the following information:
+- A screenshot of the cleaning report (Go to SwitchBot App -> K10+ -> More -> cleaning report)
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Avoids Cleaning No-Mop Zones While Vacuuming
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the robot not vacuuming the No-Mop areas, could you please check the following points?
+1. Ensure that the mop bracket is not attached during cleaning. Attaching the mop bracket automatically switches the device to mopping mode, preventing it from entering no-mop areas.
+2. Delete the No-Mop Zone and then re-set it.
+3. If the issue persists, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Map Is Overlapping
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of your Mini Robot Vacuum K10+ map overlapping, please check the following:
+1. Check if the K10+ was moved during cleaning.
+2. Check if the K10+ was lifted, floated, or tilted during cleaning.
+3. Press and hold the front collision guard + power button + sensor part of the robot vacuum for more than 10 seconds to reset it.
+https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view
+4. Perform the mapping again (try mapping three times).
+5. If the issue persists, we will forward your feedback to our R&D team for further assistance. To help our technical team investigate the issue, please provide the following:
+- A screenshot displaying the overlapping maps
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Return to the Auto-empty Station
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the robot not automatically returning to the auto-empty station, could you please check the following points?
+1. Please make sure to remove the protective film from the auto-empty station of your K10+.
+2. Check that there are no obstacles or strong light sources in the area where the K10+ is placed, as they may interfere with infrared communication.
+3. Ensure that there is at least 1 meter of space on both sides and 1.5 meters in front of the Mini Robot Vacuum K10+ (no restrictions above).
+4. Gently wipe the charging contacts on both the Mini Robot Vacuum K10+ and the auto-empty station with a clean cloth.
+5. Unplug the power cord from the auto-empty station and then plug it back in.
+6. Place the K10+ about 1 meter in front of the auto-empty station, then open the SwitchBot app, go to the Mini Robot Vacuum K10+ section, and tap the "Charge" button to see if it returns to the auto-empty station.
+7. If the issue persists after following these steps, we’ll determine if the robot needs repair or replacement. Please provide a video showing the robot failing to return to the auto-empty station.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
