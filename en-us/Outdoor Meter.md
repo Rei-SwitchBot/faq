@@ -556,70 +556,29 @@ SwitchBot App Version: V6.26 or newer
 ---
 ### Widget Function for Outdoor Meter
 
-Last Updated: 2023 Oct 17
-
-Related Products:
-
-SwitchBot
-
-Outdoor
-
-Meter
-
+Related Products: SwitchBot Outdoor Meter
 iOS
-
-Press and hold where nothing is displayed on the iPhone/iPad home screen, and when the app icon begins to shake, release your finger.
-
+ Press and hold where nothing is displayed on the iPhone/iPad home screen, and when the app icon begins to shake, release your finger.
 A "+" symbol will appear in the upper left corner of the home screen, or possibly in the upper right corner if you have a low iOS version.
-
 Enter SwitchBot in the widget search field.
-
-Swipe left on the list of temperature/hygrometer-specific widgets that come up, select your favorite display size under
-
-Outdoor
-
-Meter
-
-, and tap "Add Widget".
-
+Swipe left on the list of temperature/hygrometer-specific widgets that come up, select your favorite display size under Outdoor Meter, and tap "Add Widget".
 Tap "Done."
-
 Note:
 
-1. Long press on the Outdoor Meter widget -> Edit Widget to change to other Outdoor
+1. Long press on the Outdoor Meter widget -> Edit Widget to change to other Outdoor Meter data and display it, but it is not possible to change to Meter/Meter Plus/temperature and humidity of Hub 2.
 
-Meter
+2. If you do not select Outdoor Meter on the widget list screen, the Outdoor Meter data will not be displayed.
 
-data and display it, but it is not possible to change to Meter/Meter Plus/temperature and humidity of Hub 2.
+3. Please refer to Apple Support for detailed instructions on how to add a widget.
 
-2. If you do not select Outdoor Meter on the widget list screen, the Outdoor Meter
+4. If you do not enable "store data to cloud" on the Outdoor Meter's chart screen, the temperature and humidity data shown in the widget will remain static and will not be updated.
 
-data
-
-will not be displayed.
-
-3. Please refer to
-
-[Apple Support](https://support.apple.com/en-us/HT207122)
-
-for detailed instructions on how to add a widget.
-
-4. If you do not enable the cloud service for the Outdoor Meter, the temperature and humidity data displayed in the widget will be the data at the time it is added and will not be updated forever.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25999687015703)
+![image](https://github.com/user-attachments/assets/12cf2ba2-4fe0-4d28-8181-f9a279be9c38)
 
 Android
-
 Sorry, we are unable to provide detailed instructions on how to add a widget for Android phones because the method of adding a widget for Android phones depends on the Android phone model.
 
-When adding a widget for Outdoor
-
-Meter
-
-,
-
-please choose Outdoor Meter, do not choose Meter/Meter Plus/Hub 2.
-
+When adding a widget for Outdoor Meter, please choose Outdoor Meter, do not choose Meter/Meter Plus/Hub 2.
 
 
 ---
