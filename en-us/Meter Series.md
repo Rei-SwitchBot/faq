@@ -1715,9 +1715,31 @@ Related Posts:
 ---
 ### iOS Widget Setup for Meter
 
-Related Product: SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor), SwitchBot Hub 2
-Currently, the Hub 2 does not support displaying temperature and humidity data from the Meter Pro and CO2 Monitor. Therefore, when you check the data source list on the Hub 2, you will not find Meter Pro or CO2 Monitor listed. We apologize for any inconvenience this may cause and appreciate your understanding.
+Related Products: SwitchBot Meter, SwitchBot Meter Plus
+Press and hold a blank screen on the iPhone screen
+Select the + symbol in the upper left corner
+Select SwitchBot in the widget settings
+Select Meter/Meter Plus
 
+![image](https://github.com/user-attachments/assets/8bb2a820-5a06-4be4-9a35-6b6341481976)
+
+![image](https://github.com/user-attachments/assets/1ca6418b-92d2-458d-9957-f2bce4e9225b)
+
+![image](https://github.com/user-attachments/assets/7f9c6944-9292-405b-9964-f7684809cefe)
+
+Note:
+
+1. If you do not enable "store data to cloud" on the Meter's chart screen, the temperature and humidity data shown in the widget will remain static and will not be updated.
+
+2. Long press on the Meter/Meter Plus widget -> Edit Widget to change to other Meter/Meter Plus data and display it, but it is not possible to change to temperature and humidity of Outdoor Meter and Hub 2.
+
+3. Please refer to Apple Support for detailed instructions on how to add widgets.
+
+4. The temperature and humidity data in the Widget may not refresh if your smartphone sets to battery power saving mode.
+
+Related Posts: I have created Widgets for SwitchBot Meter, why the data has never been updated?
+
+https://support.switch-bot.com/hc/en-us/articles/13160574507543
 
 ---
 ### Instructions for the Weather Forecasts Displayed on SwitchBot Meter Pro
@@ -1733,3 +1755,33 @@ If you have multiple Meter Pros added to the SwitchBot App at different times, t
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 ![image](https://github.com/user-attachments/assets/b62bb8f4-3643-4c90-9ca8-26ef4c75f206)
+
+
+---
+### How to Add SwitchBot Meter Pro (CO2 Monitor) to iOS Widget
+
+Related Product: SwitchBot Meter Pro (CO2 Monitor), SwitchBot Meter Pro
+SwitchBot App Version：9.4 or newer
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure your Meter Pro (CO2 Monitor) and Hub have been added to your App and within Bluetooth range of each other.
+
+3. Tap "Store data to cloud" by going to SwitchBot App -> Meter Pro (CO2 Monitor).
+
+4. Add Meter Pro (CO2 Monitor) to widget in the following order.
+
+Touch and hold an empty area on the Home Screen until the apps jiggle.
+Tap "Edit" in the upper left corner (If you have an older iOS version, you may see a "+" in the top right corner on your phone).
+Tap "Add Widget".
+Input SwitchBot and Search.
+Tap "Add Widget" under Meter.
+If you have multiple Meters, long press the newly added widget to edit it and then tap "choose" next to device 1.
+Choose Meter Pro (CO2 Monitor).
+
+![image](https://github.com/user-attachments/assets/7558bc2e-bea9-43d0-9399-f3f6802d4a60)
+
+Note: If your CO2 Monitor and Hub are located far apart or even in different places, the humidity, temperature, and CO2 value of the CO2 Monitor will not be updated.
+
+5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
+
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
