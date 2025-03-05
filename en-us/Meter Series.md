@@ -214,16 +214,8 @@ Currently, SwitchBot Meter, Hub 2, and Hub Mini Matter Enabled do not support co
 ---
 ### Data Synchronization, Saving, and Deletion for SwitchBot Meter
 
-Last Updated: 2024/09/29
-
-Related Products: SwitchBot Meter, SwitchBot Meter Plus,
-
-SwitchBot Outdoor Meter,
-
-SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor)
-
+Related Products: SwitchBot Meter, SwitchBot Meter Plus, SwitchBot Outdoor Meter, SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor)
 SwitchBot App Version: 9.1 or newer
-
 Data Storage
 
 The SwitchBot Meter and Meter Pro CO2 Monitor store the most recent 36 days (Meter Plus, Outdoor Meter and Meter Pro can store 68 days) of temperature and humidity data on the device itself. Since data is transferred via Bluetooth, if the data hasn’t been read for a while, it might take a moment to display the complete graph when you access the history in the app. We appreciate your patience in this case.
@@ -247,20 +239,17 @@ When paired with a hub:
 Tapping the Meter in the SwitchBot App will sync data from the SwitchBot server. To sync data, the following conditions must be met:
 
 The hub is added to the same account as the Meter.
-
 The hub is connected to the internet.
-
 The Meter is within the hub’s Bluetooth range.
-
 Data Deletion
 
 When connected to a hub:
 
-To delete all saved data from the app and the server, go to the SwitchBot App → Meter → Delete Data.
+To delete all saved data from the app and the server, go to the SwitchBot App → Meter → Delete Data. This will also delete any data stored on the Meter itself.
 
 When using the Meter alone:
 
-Tapping the "Delete Data" button will remove the data from the Meter and clear the cache on your phone.
+Tapping the "Delete Data" button will clear the cache data on your phone. This will also delete any data stored on the Meter itself.
 
 By pressing the button on the Meter for 15 seconds, the device will be reset, and its data will be deleted. However, the cached data on your phone will remain.
 
