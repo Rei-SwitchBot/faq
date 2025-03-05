@@ -2373,3 +2373,16 @@ To help resolve this issue, could you please check the following settings?
 1. Automations or Routines: Please verify if there are any scheduled automations set up, such as SwitchBot Automations, Amazon Alexa routines, or Apple Home automations that might be controlling the curtain.
 2. SwitchBot App Settings: In the SwitchBot app, tap your Curtain 3 and check if there are any active schedules, auto-charging settings, or light sensor automations that could be triggering movement.
 Additionally, if you've shared control of the curtain with family members or friends, kindly check if they have operated it recently.
+
+
+---
+### Troubleshooting SwitchBot Curtain Won't Move
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the curtain not moving, could you please check the following points?
+1. Press and hold the button on the Curtain for 45 seconds to reset the device. 
+2. Remove the Curtain device from the rail. In the SwitchBot App, tap Open and Close alternately, and while the rubber rollers are moving, gently press a pen against the rollers to see if they stop moving. This will help us understand if there is a motor or roller issue.
+3. Please record a 20-40 second video showing the Curtain's behavior, including any motor sounds (or lack thereof) and roller movement. Here is an example video for reference:
+Video: https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
