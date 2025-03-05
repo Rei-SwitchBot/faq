@@ -750,29 +750,28 @@ Caution:
 
 
 ---
-### SwitchBot Bot & HomePod / Siri Guide
+### Use Siri Shortcut to Control SwitchBot Bot
 
-■ Step 1
+Related Product: SwitchBot Bot
+SwitchBot App Version：9.8 or newer
+1. Make sure your SwitchBot App version is up to date.
 
-Make sure your SwitchBot Hub Plus/Mini ​is connected to the Internet.
+2. Make sure your Bot and Hub have been added to your App and your device firmware version is up to date.
 
-Enable the Bot's C
+3. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+4. Go to SwitchBot App -> your Bot -> Third-party service -> Siri shortcut -> Add shortcut -> Select the Bot -> Select an action -> Record the Phrase and save it.
 
-loud Service
+ 
 
-. Your Bot is ready to be controlled by a third-party service.
+Notes:
 
-■ Step 2
+If phrases are not recognized correctly in the recording, it is recommended to enter them manually.
+You can edit or remove the shortcut at the same place.
+You can also use your Homepod to control your Bot using the shortcuts you have created.
+If you have our Hub 2 or Hub Mini Matter, you can sync your Bot with the Apple Home App for direct voice control without needing to create shortcuts.
+If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
 
-Tap "Siri Shortcuts" and start to record your voice command.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26002302721047)
-
-■ Step 3
-
-If you have an Apple HomePod you could use it to control your SwitchBot Bot.
-
-Now, you are free to use your HomePod or iOS devices to control your SwitchBot Bot. Have fun!
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
 
 
