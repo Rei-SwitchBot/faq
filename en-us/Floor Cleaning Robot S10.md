@@ -2777,3 +2777,50 @@ Strong Mode: 187㎡
 Max Mode: 122㎡
 
 Note: The above is the data tested on the laboratory environment. The actual area may have a 10% margin of error.
+
+
+---
+### How to Adjust Room Cleaning Order with SwitchBot Floor Cleaning Robot S10?
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Floor Cleaning Robot S10  has been added to your App and your device firmware version is up to date.
+
+Method 1: Use Custom Mode
+- Launch the SwitchBot App and login.
+- Tap your S10.
+- Tap Vac & Mop in the lower right corner.
+- Switch the cleaning mode to "Custom",  then tap "Edit".
+- Tap rooms to set up the cleaning mode, cleaning times and suction power.
+- Tap "Cleaning Order" in the top right corner.
+- Tap the rooms in the order you want them to be cleaned, then save.
+- In Custom Mode, the cleaning order you set will be saved and followed for all future cleanings.
+
+![image](https://github.com/user-attachments/assets/a615a3ec-3a83-4676-861f-a92860d491dc)
+
+Method 2: Use Schedules Feature
+- Launch SwitchBot App and login.
+- Tap your S10. 
+- Tap the gear icon in the upper right corner.
+- Tap "Schedules" on the Settings screen.
+- Tap "Add".
+- Tap "cleaning area", switch Full house to Room, then Tap the rooms one by one in the desired order and save it.
+- Tap "cleaning mode", choose Vac&Mop or Vacuum mode as needed.
+- Save.
+
+![image](https://github.com/user-attachments/assets/4d8e55d1-7cd9-4e17-9906-0a80a7f6bcbd)
+
+Method 3: Use Room Feature
+- Launch SwitchBot App and login.
+- Tap your S10.
+- Tap "Room".
+- Tap the rooms in the order you want them to be cleaned, then save.
+- Changes made on this page are temporary and will only apply for the next cleaning cycle. If you prefer to clean rooms in a fixed order every time, we recommend using the Schedules feature or Custom Mode to set up a recurring cleaning routine.
+
+![image](https://github.com/user-attachments/assets/c5e51635-aa76-4158-99a4-b026923bd308)
+
+
+
+
+
+
