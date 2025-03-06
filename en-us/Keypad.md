@@ -1536,3 +1536,25 @@ There may be an issue with the metal mounting plate. We will arrange for a repla
   - Phone number
   - Address
   - Postal code
+
+
+---
+### What to Do If My Keypad Responds but I Can't Use Passcords and Fingerprints to Unlock My Lock?
+
+Related Product: SwitchBot Keypad, SwitchBot Keypad Touch
+SwitchBot App Version：9.8 or newer
+1. Unpair the Keypad Touch and the Lock.
+
+2. Long press the Keypad Touch icon to remove it from your App.
+
+*Please be aware that if you remove the device from the SwitchBot App, all added fingerprints, passwords, and NFC cards will be deleted.
+
+3. Remove and then reinsert the batteries in the Keypad.
+
+4. Re-add the Keypad and link your Lock.
+
+5. Place your keypad one meter away from the lock to see if it helps with unlocking and locking.
+
+6. If the above steps do not improve the situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide with the following information:
+
+A video of two devices within a meter of each other but unable to lock and unlock the Lock using Keypad
