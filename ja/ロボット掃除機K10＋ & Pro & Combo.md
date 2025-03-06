@@ -3138,3 +3138,16 @@ https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive
 ※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
 
 
+---
+### 掃除機K10+ Pro ComboはMatterに対応しますか
+
+はい、ロボット掃除機K10+ Pro ComboはMatterに対応です。詳細は以下の通りです：
+1．ロボット掃除機K10+ Pro Comboは、Apple HomeやGoogle Homeアプリに直接追加してご利用いただけるMatterと互換性のあるデバイスとなります。この方法では、ハブ2やハブミニ（matter対応）が不要です。
+実現するには以下が必要です：
+- SwitchBotアプリV9.7以降
+- ロボット掃除機K10+ Pro ComboファームウェアV1.1.040以降
+- iOS V18.4.1以降
+
+2．ハブ2またはハブミニ（matter対応）のサブデバイスとして同期すれば、Apple HomeやGoogle Homeアプリでご利用いただけます。ハブ2/ハブミニ（matter対応）経由でロボット掃除機K10+ Pro ComboをApple HomeやGoogle Homeアプリに同期できない場合、Homepodなどのブリッジの電源を入れ直して再度お試しください。
+
+
