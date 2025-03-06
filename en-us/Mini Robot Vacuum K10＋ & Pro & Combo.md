@@ -3177,7 +3177,7 @@ If you have any questions about these statuses or need further assistance, feel 
 
 
 ---
-### Matter Compatibility for SwitchBot Robot Vacuum K10+ Pro Combo
+### Does SwitchBot Robot Vacuum K10+ Pro Combo Support Matter?
 
 Robot Vacuum K10+ Pro Combo supports Matter in two ways:
 1. Direct Matter Compatibility
