@@ -563,4 +563,10 @@ Related Posts:
 [How to Disable Pop-up Notifications in iOS Shortcuts?](https://support.switch-bot.com/hc/en-us/articles/13831386398231)
 
 
+---
+### At What Battery Level Does SwitchBot Water Leak Detector Issue a Low Battery Notification?
 
+SwitchBot Water Leak Detector will issue a low battery notification when the battery level drops to 20% or below. The detector is equipped with both Wi-Fi and BLE (Bluetooth Low Energy) communication functions. However, to conserve power, the Wi-Fi communication is typically in a suspended state during normal operation. Wi-Fi connectivity will automatically resume under the following two conditions, triggering notifications or alerts:
+1. When the battery level drops to 20% or below
+2. When a water leak is detected
+While basic operations are maintained even in low battery mode, to ensure stable performance, we recommend replacing the batteries as soon as you receive a low battery notification. For continuous usage or critical installation locations, proactive maintenance is highly advised.
