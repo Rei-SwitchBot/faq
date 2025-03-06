@@ -2819,3 +2819,134 @@ Video: https://youtu.be/y13cJRifAw8
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Collides Forcefully with Obstacles
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot vacuum colliding forcefully with obstacles, let us explain the specifications of the robot vacuum:
+- Black doors are difficult for the robot vacuum to recognize, so it is designed to repeatedly bump into them to confirm their presence.
+- For movable doors, the robot vacuum is designed to repeatedly bump into them to determine if they are obstacles that can be moved by its force. Occasionally, it may collide more forcefully as it tries to quickly escape from a difficult situation.
+Therefore, we would like to suggest the following solutions:
+1. Open the SwitchBot app → select the Robot Vacuum K10+ → tap the gear icon → turn on the " Reduce Collision Mode" in the settings.
+2. Set up a virtual wall in front of the black or movable door.
+3. If the issue persists after trying the above steps, please provide us with a video of the robot vacuum colliding forcefully with the obstacle so that our R&D team can further investigate the matter.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Customize Room Cleaning Sequence with Schedule Feature of SwitchBot Mini Robot K10+
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Mini Robot K10+ has been added to your App.
+
+3. Set up a schedule in the following order:
+Launch SwitchBot App and log in
+Tap your Mini Robot K10+
+Tap "more" in the lower right corner
+Tap "scheduled"
+Tap "+" to create a schedule
+Switch whole house to room under cleaning position
+Set the time, and cleaning method as needed and then tap Confirm to complete.
+
+Please see the video at 2:12.
+
+https://www.youtube.com/watch?v=ieeh4XtugdI&t=84s
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Continuously Cleaning the Same Area
+
+Thank you for contacting us. We deeply apologize for the inconvenience caused by our product.
+Regarding the issue of the robot vacuum repeatedly cleaning the same area, could you please check the following:
+1. Near carpets or transparent glass surfaces, the robot vacuum may activate its escape mode more frequently, which can cause unstable movement. We appreciate your understanding of this matter.
+2. To further investigate, we would like to escalate this to our R&D team. Could you please provide us with a video of the Robot Vacuum K10+ repeatedly cleaning the same area?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can the Laser Sensor of SwitchBot Mini Robot Vacuum K10+ Be Removed?
+
+The laser sensor on the K10+ cannot be removed. This sensor is a critical component that uses LiDAR technology to locate the robot and create a map of the room. If the sensor is removed, the robot will not function properly, so please be cautious.
+The K10+ has a body height of 9.2cm, allowing it to clean under low spaces such as cabinets or sofas. However, for areas with a height of less than 9.2cm where the robot cannot fit, we recommend manual cleaning.
+
+---
+### How to Update the Map on SwitchBot Mini Robot Vacuum K10+ After Rearranging Furniture
+
+If your home layout has changed due to moving furniture or relocating, and the map needs to be updated, simply run a whole house cleaning with the Mini Robot Vacuum K10+ using the SwitchBot app. This will automatically update the map.
+Here’s how to do it:
+1. Open the SwitchBot app.
+2. Tap on the Mini Robot Vacuum K10+.
+3. Start the whole house cleaning from the cleaning screen.
+4. Once the cleaning is complete, a new map will be generated.
+5. If there are any issues with the new map, simply run another whole house cleaning to update it again.
+
+---
+### How to Replace the Battery When It Degrades in SwitchBot Mini Robot Vacuum K10+
+
+Please note that the K10+ uses a built-in lithium battery, and we kindly ask customers not to attempt replacing the battery yourselves. If you experience any battery-related issues during the warranty period, please contact our after-sales team for assistance.
+For damages caused by human error or natural degradation outside the warranty period, paid repairs are available. For details on repair costs, please reach out to our after-sales service.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Detects a Dirty Anti-Drop Sensor
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue with the cliff sensor on your Mini Robot Vacuum K10+, could you please check the following steps:
+1. Please clean the cliff sensor once again.
+2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ → Details → Component Lifespan → Sensor → Mark as "Cleaned."
+3. Restart the Mini Robot Vacuum K10+ by turning the power off and on (remove the faceplate to access the power switch).
+4. Reset the Mini Robot Vacuum K10+ to its factory settings.
+
+Video guide: https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing
+
+
+6. If the issue persists after trying the above steps, we may need to determine if the robot requires repair or replacement. To assist us further, please provide the following:
+- A screenshot of the cliff sensor error message from the app.
+- A video of the Mini Robot Vacuum K10+ announcing, "Please wipe the cliff sensor and restart me somewhere else."
+
+---
+### Troubleshooting the Virtual Wall Keeps Jumping to Unexpected Locations on the Map Created by SwitchBot Mini Robot Vacuum K10+
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the virtual wall setting on the Mini Robot Vacuum K10+, please note the following:
+When setting up a virtual wall on the generated map, the virtual wall cannot span across walls or rooms. If you attempt to force the virtual wall into such positions, it may automatically jump to an unexpected location. This behavior is due to the robot's design specifications and is not a product defect.
+If the issue you’re experiencing is unrelated to the above, we kindly ask for your assistance in providing a video showing the problem with setting up the virtual wall. This will allow our R&D team to escalate and investigate the matter further.
+We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Announces "Charging" When Passing By
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the robot announcing "Charging" when you pass by, please check the following:
+1. Ensure that the charging station is placed on a hard, flat surface. If it is placed on a soft carpet or foam mat, even slight vibrations can cause the robot to reconnect to the charging base, triggering the "Charging" announcement.
+2. If the above does not apply to your situation, we kindly ask for your assistance in providing a video capturing the issue. This will allow our R&D team to escalate and conduct a detailed investigation.
+
+We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can I Use a Rubber Brush with SwitchBot Mini Robot Vacuum K10+?
+
+Yes, you can! However, a special frame is needed to properly install the rubber brush. We offer the frame for free, but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer covers this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
+To help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+Important Note: The rubber brush purchased from our official website does not include the special frame.
+
+https://www.switch-bot.com/products/switchbot-mini-robot-vacuum-k10-pro?variant=45934682833063
+
+
+
+
