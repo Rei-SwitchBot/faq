@@ -3175,3 +3175,19 @@ Here’s a quick guide to help you understand the different statuses of your Min
 7. Pausing: The robot has paused its operation. This can happen for various reasons, such as pressing the pause button in the app, tapping the charge button once, picking up the robot, the robot getting stuck, a laser sensor error, the dustbin not being installed, the cliff sensor being triggered, or the robot encountering an obstacle.
 If you have any questions about these statuses or need further assistance, feel free to reach out! We’re here to help.
 
+
+---
+### Matter Compatibility for SwitchBot Robot Vacuum K10+ Pro Combo
+
+Robot Vacuum K10+ Pro Combo supports Matter in two ways:
+1. Direct Matter Compatibility
+You can use SwitchBot Robot Vacuum K10+ Pro Combo as a standalone device directly compatible with Matter. With this method, Hub 2 or Hub Mini Matter Enabled is not required. 
+To achieve this, the following is required:
+- SwitchBot App V9.7 or newer
+- Robot Vacuum K10+ Pro Combo firmware V1.1.040 or newer
+- iOS V18.4.1 or newer
+
+
+2. Matter Integration through Hub Devices
+You can sync your K10+ Pro Combo robot with the Apple Home app or Google Home app as a secondary device using Hub 2 or Hub Mini Matter Enabled. If you are unable to sync the K10+ Pro Combo via Hub 2/Hub Mini Matter to Apple Home or Google Home app, try unplugging the Homepod or other home bridge and then plugging it back in before trying again.
+
