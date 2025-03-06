@@ -2706,3 +2706,74 @@ To speed up the replacement process, we’ll also need the following details:
 Once confirmed, we’ll arrange for the missing parts to be sent to you as soon as possible. Thanks for your patience, and we appreciate your support!
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 external water tank Type-C charging port breaks off 
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the broken Type-C cord, could you please check the following points?
+1.
+The Type C cable can be easily replaced by following the instructions in the video. If that works for you, we can arrange for a new Type C cable.
+Step 1
+https://drive.google.com/file/d/1kO6ey6IINotj5beri1oV3DJmipDl7P_y/view?usp=sharing
+Step 2
+https://drive.google.com/file/d/1yA4bZpXnie2Wd-hD1UoixxuwNLsn5FzN/view?usp=sharing
+2.
+If replacing the parts yourself proves to be challenging, we kindly ask if you could share the following details with us. This will help us assess whether we should proceed with arranging the necessary parts for you.
+- A photo showing the broken type C cord of the external water tank
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+### How Long Can SwitchBot Floor Cleaning Robot S10 Operate?
+
+The amount of time a fully charged S10 can operate depends on the setting mode.For specific details, please refer to the following information:
+Vac & Mop Mode
+Quiet Mode: 155min
+Standard Mode: 135min
+Strong Mode: 100min
+Max Mode: 65min
+
+
+Vac Mode
+Quiet Mode: 278min
+Standard Mode: 257min
+Strong Mode: 162min
+Max Mode: 80min
+
+Note: The data above was tested in a laboratory environment. The actual operating time may have a 10% margin of error.
+
+---
+### Can SwitchBot Floor Cleaning Robot S10 Clean Under the Sofa?
+
+The S10 robot stands at approximately 125 mm tall, including its laser sensor. This compact height allows it to clean under sofas, cabinets, and beds—anywhere it can fit, it can clean.
+
+![image](https://github.com/user-attachments/assets/9f064b20-3e98-4756-ac24-7740aba76077)
+
+
+---
+### How Much Area Can SwitchBot Floor Cleaning Robot S10 Clean?
+
+Fully charged S10 can clean different areas depending on the mode you choose. For specific details, please refer to the following information:
+Vac & Mop Mode
+Quiet Mode: 220㎡
+Standard Mode: 185㎡
+Strong Mode: 140㎡
+Max Mode: 88㎡
+
+Vac Mode
+Quiet Mode: 390㎡
+Standard Mode: 347㎡
+Strong Mode: 187㎡
+Max Mode: 122㎡
+
+Note: The above is the data tested on the laboratory environment. The actual area may have a 10% margin of error.
