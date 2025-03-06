@@ -367,3 +367,60 @@ You can only track its location within Bluetooth range using the SwitchBot App.
 
 
 
+---
+### How to Enable SwitchBot Wallet Finder Card "Find My Phone" Feature
+
+Related Products: SwitchBot Wallet Finder Card
+SwitchBot App Version: 9.4 or newer
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Wallet Finder Card has been added to your App.
+
+3. Enable "Find My Phone" in the following order:
+
+Launch SwitchBot App and log in.
+Tap your Wallet Finder Card.
+Tap "Find My Phone" and enable it.
+4. With the settings above, you can find your smartphone by pressing the button on the Wallet Finder Card twice while within Bluetooth range.
+
+ 
+
+Important Note:
+
+For iPhone users, please go to SwitchBot App -> Profile -> Preferences -> Permissions -> Enable Background App Refresh.
+For Android Phone users, we recommend setting the battery usage to "Unrestricted".
+Make sure that the Bluetooth function on your smartphone is always enabled.
+If the card and smartphone are out of Bluetooth range, this feature will not function properly.
+To turn off the music playing from your smartphone, either press the volume down button or open the SwitchBot app.
+The "Find My Phone" feature is only available on the SwitchBot App; Apple's "Find My" app does not include this feature.
+
+Related Post: SwitchBot Wallet Finder Card "Find My Phone" Feature
+
+https://support.switch-bot.com/hc/en-us/articles/26016429394199
+
+
+---
+### SwitchBot Wallet Finder Card "Find My Phone" Feature
+
+Related Products: SwitchBot Wallet Finder Card
+SwitchBot App Version: 9.8 or newer
+Important Note:
+
+For iPhone users, please go to SwitchBot App -> Profile -> Preferences -> Permissions -> Enable Background App Refresh.
+For Android Phone users, we recommend setting the battery usage to "Unrestricted".
+Make sure that the Bluetooth function on your smartphone is always enabled.
+If the card and smartphone are out of Bluetooth range, this feature will not function properly.
+The "Find My Phone" feature is only available on the SwitchBot App; Apple's "Find My" app does not include this feature.
+ 
+
+1. When you enable the "Find My Phone" feature in SwitchBot App, pressing the button on your Wallet Finder Card twice will make your smartphone play a sound, as long as it's within Bluetooth range.
+
+2. If you’ve shared the Wallet Finder Card with members in your Home, you can select the member whose phone is ringing when using the Find My Phone feature on the app.
+
+![image](https://github.com/user-attachments/assets/676e7f44-6b5d-4860-8388-86e548100d8c)
+
+3. If you have multiple smartphones logged into the same SwitchBot account, pressing the button twice will cause all of them to ring within Bluetooth range.
+
+4. To turn off the music playing from your smartphone, either press the volume down button or open the SwitchBot app.
+
+5. In case your phone doesn’t ring, we recommend logging out of the SwitchBot account and logging back in, or restarting your phone to resolve the issue.
