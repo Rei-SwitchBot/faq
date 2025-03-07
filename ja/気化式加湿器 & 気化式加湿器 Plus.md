@@ -692,6 +692,8 @@ SwitchBot Appバージョン：7.10以降
 
 5．動画通りに水タンク底部の開閉栓を外し、各パーツが正しく揃っているか確認してください。その後、各パーツを元に戻してください。
 
+動画：https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/9a05b2d0-e641-4078-a461-a33b1f46cc74)
 
 
