@@ -1000,3 +1000,22 @@ At 00:00 local time, the Plug Mini "Yesterday" energy consumption data in the Sw
 
 
 
+---
+### SwitchBot Plug Mini Kept Turning On and off and Eventually Stopped Turning On.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the Plug Mini not powering on, could you please check the following points?
+1. To check if your Plug Mini needs replacing, could you please send us a video showing the indicator light not turning on when you plug it into a working outlet and hold the button for 15 seconds?
+2. If the device is faulty, we will arrange a replacement for you within warranty. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
