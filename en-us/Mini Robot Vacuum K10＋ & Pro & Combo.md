@@ -2541,11 +2541,7 @@ About this issue, please check the following to troubleshoot:
 
 ![image](https://github.com/user-attachments/assets/90449223-5e3e-493c-9e79-ca68133602f7)
 
-2. Try cutting off 1-2mm of the rubber part of the frame cover with scissors to see if it helps.
-
-![image](https://github.com/user-attachments/assets/9db0ee39-1c22-42db-9d3d-b49f846b6e46)
-
-3. Could you please kindly provide a video of the robot making a clattering noise while cleaning so we can determine if parts need to be replaced.
+2. Could you please kindly provide a video of the robot making a clattering noise while cleaning so we can determine if parts need to be replaced.
 
 Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 - Purchase channel
