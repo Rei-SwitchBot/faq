@@ -577,7 +577,11 @@ Related Product: SwitchBot Evaporative Humidifier Auto-refill
 4. Check the bottom of the water tank to see if there is a hole (to be confirmed by our R&D team, not directly related to water leakage).
 ![image](https://github.com/user-attachments/assets/63d5c2fe-d658-4c85-81ba-47b24cea1feb)
 5.  Remove the open/close plug at the bottom of the water tank as shown in the video, check that each part is properly aligned, and then replace each part.
+
+video:https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view
+
 ![image](https://github.com/user-attachments/assets/4d2da123-74bf-4581-b62f-ca6fb78f63ea)
+
 6. Adjust the installation of the filter and frame as shown in the diagram.
 ![image](https://github.com/user-attachments/assets/cbb83e90-cad1-4874-b806-5889ee10bc4f)
 ![image](https://github.com/user-attachments/assets/8ec7a271-a81d-4af3-b6b6-1b73416f6c7d)
