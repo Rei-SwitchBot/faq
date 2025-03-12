@@ -3187,3 +3187,153 @@ To achieve this, the following is required:
 2. Matter Integration through Hub Devices
 You can sync your K10+ Pro Combo robot with the Apple Home app or Google Home app as a secondary device using Hub 2 or Hub Mini Matter Enabled. If you are unable to sync the K10+ Pro Combo via Hub 2/Hub Mini Matter to Apple Home or Google Home app, try unplugging the Homepod or other home bridge and then plugging it back in before trying again.
 
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Suddenly Stopped Broadcasting Voice Prompts
+
+1. Please make sure that the sound volume setting hasn't been silent.
+2. Could you please provide us with a screenshot showing volume setting?
+
+![image](https://github.com/user-attachments/assets/8edd4209-4146-463b-a99e-7965d8c45b63)
+
+3. Also, if it is okay, a video showing silent wi-fi settings on the K10+ would be helpful for us as we escalate this issue to our development team.
+
+
+---
+### Why Is the No-Go Zone Button of SwitchBot Mini Robot Vacuum K10+ Grey and Unable to Be Set on the SwitchBot App?
+
+If you are a member of someone else's Home, you don't have permission to set it, so when you tap "more" on the operation page of Mini Robot Vacuum K10+, you will find the "Edit" button greyed out. Only the owner and admin of the Home can edit maps. If necessary, please set the No-Go Zone from the Home owner's account or join the home as an admin.
+How to Change User Type from Home Member to Admin:
+https://support.switch-bot.com/hc/en-us/articles/27427300701207
+
+
+---
+### Why Is the Edit Map Button of SwitchBot Mini Robot Vacuum K10+ Grey and Unable to Be Edited on the SwitchBot App?
+
+If you are a member of someone else's Home, you can not edit maps, so when you tap "more" on the operation page of Mini Robot Vacuum K10+, you will find the "Edit" button greyed out. Only the owner and admin of the Home can edit maps. If necessary, please edit the map from the Home owner's account or join the home as an admin.
+
+https://support.switch-bot.com/hc/en-us/articles/27427300701207
+
+
+---
+### Can I Use SwitchBot Mini Robot Vacuum K10+ on a Padded Floor?
+
+Similar to carpets, placing the K10+ and Auto-empty station on a padded floor could cause the K10+ to have difficulty moving in a straight line during recharging, potentially affecting its recharging function. Therefore, we do not recommend using Mini Robot Vacuum K10+ on a Padded Floor.
+
+
+---
+### How to Split Area by SwitchBot Mini Robot Vacuum K10+?
+
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Mini Robot Vacuum K10+ has been added to your App.
+3. Please follow the steps below to divide rooms.
+- Launch the SwitchBot App and login.
+- Tap the applicable Mini Robot Vacuum K10+. 
+- If the action panel is enabled, tap "More".
+- Tap "More" at the bottom right of the screen.
+- Tap "Edit Map".
+- Tap the target room name.
+- Tap "Split area".
+- Draw a line. 
+- Save and complete area division.
+
+
+---
+### How to Combine/Merge Maps by SwitchBot Mini Robot Vacuum K10+?
+
+
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Mini Robot Vacuum K10+ has been added to your App.
+3. Please follow the steps below to merge maps.
+- Launch the SwitchBot App and login.
+- Tap the applicable Mini Robot Vacuum K10+.
+- If the action panel is enabled, tap "More".
+- Tap "Whole House," then "More" at the bottom right of the screen.
+- Tap Edit Map. 
+- Tap the target room name. You can select two or more adjacent rooms to merge them. 
+- Tap "Merge area".
+- Confirm and complete the area combination.
+
+
+---
+### How to Adjust the Suction Power for Individual Rooms Using SwitchBot Mini Robot Vacuum K10+?
+
+
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Mini Robot Vacuum K10+ has been added to your App.
+3. Please follow the steps below to adjust the suction power.
+- Launch the SwitchBot App and login.
+- Tap the relevant Mini Robot Vacuum K10+. 
+- If the action panel is enabled, tap "More".
+- Tap "Cleaning plan" at the Middle right of the screen.
+- Set the suction power and cleaning times for each room on the Edit Plan screen.
+- Enable "Use cleaning plan".
+- Save the edited results.
+
+
+---
+### Can I Buy Mini Robot Vacuum K10+ Without the Auto-Empty Station?
+
+The Auto-empty station and the robot K10+ are currently sold as a set. The Auto-empty station not only collects waste, but also charges the Robot K10+. Therefore, it is not possible to purchase the robot K10+ separately.
+
+
+
+---
+### Is It Possible to Export Maps Created by SwitchBot Mini Robot Vacuum K10+ From Switchbot App?
+
+
+We are very sorry that the maps on SwitchBot App cannot be exported at this time. We have noted your interest and will pass it on to our product development team for future consideration. Your input is instrumental in helping us enhance our product line.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ used on carpet not returning to charging station
+
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If the auto-empty station is placed on carpet, the K10+ will not go straight and may not return to the auto-empty station. So, please do not place the auto-empty station on carpet.
+If the floor is fully carpeted, we recommand placing a hard, flat mat under the auto-empty station area.
+If not the above, could you please provide a video showing your K10+ failing to dock on the carpet floor so that we can investigate the issue in detail?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Am I Able to Give a Schedule a Name for SwitchBot Mini Robot Vacuum K10+?
+
+We are very sorry that Schedule cannot be named at this time. We have noted your interest and will pass it on to our product development team for future consideration. Your input is instrumental in helping us enhance our product line.
+As an alternative, we recommand you use SwitchBot Automation which can be named.
+
+
+---
+### What Is the Default Setting for SwitchBot Mini Robot Vacuum K10+ Smart Dust Collection Time?
+
+
+Mini Robot Vacuum K10+ has three smart dust collection modes: 
+Light (empties dust after 90 minutes),
+Regular (empties dust after 75 minutes) 
+Enhanced (empties dust after 60 minutes). 
+The default setting is Regular (empties dust after 75 minutes). You can switch between modes as needed.
+
+
+---
+### Is It Possible to Remap a Specific Room Individually Without Remapping the Entire House With SwitchBot Mini Robot Vacuum K10+?
+
+If a map has already been created after cleaning the entire house, it is not possible to remap individual rooms based on the existing map. If necessary, we kindly ask you to perform a full cleaning of the house again to update the map.
+
+If you wish to remap due to changes in the layout of a specific room, there is no need to remap manually. The K10+’s laser sensor will function during each cleaning session, detecting the position of objects and updating the data accordingly.
+
+
+---
+### How Long Does It Take to Fully Charge SwitchBot Mini Robot Vacuum K10+?
+
+Mini Robot Vacuum K10+ takes about 2 hours and 40 minutes to fully charge from empty. The charging time may vary slightly depending on your daily use environment, which is normal.
+
+
+---
+### How Many Do-Not-Disturb-Time Schedules Can I Add to Switchbot Mini Robot Vacuum K10+?
+
+
+Up to 10 Do-Not-Disturb-Time Schedules can be set for Mini Robot Vacuum K10+.
+During the set Do-Not-Disturb-Time, the K10+ will not perform automatic cleaning (including scheduled cleaning and automation you have set), voice guidance or automatic garbage collection.
+
+
