@@ -2533,17 +2533,25 @@ Check the notification messages by going to SwitchBot App -> Home screen -> "...
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Brush Frame Rattles
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Keeps Making Clicking Noise When It Starts Cleaning
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. 
-About this issue, please check the following to troubleshoot:
-1. Remove the brush frame and check if the robot makes any unusual noise during cleaning.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot making clicking noise when it starts cleaning, could you please check the following points?
+1. Please make sure that the brush attachments on both ends are securely installed, as shown in the diagram. Additionally, if there is any hair tangled around the brush, please carefully remove it by hand.
 
-![image](https://github.com/user-attachments/assets/90449223-5e3e-493c-9e79-ca68133602f7)
+![image](https://github.com/user-attachments/assets/94a1c7fb-332f-44c9-b53e-4e16e0869a00)
 
-2. Could you please kindly provide a video of the robot making a clattering noise while cleaning so we can determine if parts need to be replaced.
+2. Remove the main brush and brush frame, then run the robot to check if the clicking noise persists.
+3. If you have access to a lubricant equivalent to WD-40, apply a small amount to the gap marked with red label A in the diagram. Afterward, run the robot for a while to see if the noise improves.
 
-Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+![image](https://github.com/user-attachments/assets/cfcefa3c-a61b-4c70-ba36-c9ff9d13d888)
+
+4. If the issue remains unresolved after performing the above steps, we may need to determine if the robot requires repair or replacement. To assist us in this process, we kindly request the following:
+
+- A photo of the main brush attachment area, as described in step 1.
+- A video of the robot making the clicking noise.
+
+5. If it turns out that your robot requires repair, to expedite the process, please provide us with the necessary details so we can assist you as soon as possible.
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -3337,38 +3345,6 @@ Up to 10 Do-Not-Disturb-Time Schedules can be set for Mini Robot Vacuum K10+.
 During the set Do-Not-Disturb-Time, the K10+ will not perform automatic cleaning (including scheduled cleaning and automation you have set), voice guidance or automatic garbage collection.
 
 
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Keeps Making Clicking Noise When It Starts Cleaning
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding the issue of the robot making clicking noise when it starts cleaning, could you please check the following points?
-1. Please make sure that the brush attachments on both ends are securely installed, as shown in the diagram. Additionally, if there is any hair tangled around the brush, please carefully remove it by hand.
-
-![image](https://github.com/user-attachments/assets/94a1c7fb-332f-44c9-b53e-4e16e0869a00)
-
-2. Remove the main brush and brush frame, then run the robot to check if the clicking noise persists.
-3. If you have access to a lubricant equivalent to WD-40, apply a small amount to the gap marked with red label A in the diagram. Afterward, run the robot for a while to see if the noise improves.
-
-![image](https://github.com/user-attachments/assets/cfcefa3c-a61b-4c70-ba36-c9ff9d13d888)
-
-4. If the issue remains unresolved after performing the above steps, we may need to determine if the robot requires repair or replacement. To assist us in this process, we kindly request the following:
-
-- A photo of the main brush attachment area, as described in step 1.
-- A video of the robot making the clicking noise.
-
-5. If it turns out that your robot requires repair, to expedite the process, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
