@@ -369,3 +369,7 @@ The wireless charging pad on the SwitchBot Air Purifier Table supports up to 15W
 
 If you’ve checked the above factors and still find the wireless charging speed unusually slow, please feel free to reach us again, we will forward your feedback to our R&D team for further assistance.
 
+---
+### Will SwitchBot Air Purifier Reduce Its Fan Speed After Odors Dissipate When Set to Pet Mode?
+
+In Pet Mode, the air purifier operates at a minimum speed of 1800 rpm and a maximum speed of 2250 rpm. When set to Pet Mode, the fan speed automatically adjusts between 1800 and 2250 rpm based on changes in odor levels. As the odor weakens, the fan speed will gradually decrease to the minimum speed of 1800 rpm.
