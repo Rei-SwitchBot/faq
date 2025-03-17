@@ -742,3 +742,9 @@ band so that it is different from the 2.4GHz band.
 
 
 
+---
+### Troubleshooting Unable to Control Grouped SwitchBot Color Bulbs in Home App
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+We regret to inform you that when operating grouped color bulbs in the Apple Home app, only one bulb will respond. This occurs because the Apple Home app does not currently support simultaneous control of grouped color bulbs. 
+We apologize for the unavailability of this feature at the moment, and we understand that it may not meet your expectations. We have forwarded this feedback to our product team, and we hope to have support for this function in the future. Thank you for your understanding and patience.
