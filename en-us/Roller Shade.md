@@ -239,7 +239,7 @@ We’re sorry to hear that your Roller Shade fabric is tilting to one side when 
 1. Remove the white ring and install the fabric.
 2. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:17 for guidance on how to make this adjustment.
 
-https://youtu.be/aJWKN80Y3_E
+https://youtu.be/00hYCxbNbVc
 
 ![image](https://github.com/user-attachments/assets/b1073f48-0906-4372-a850-332dfb145d88)
 
@@ -259,7 +259,7 @@ We would like to explain this white cap to you.
 2. After cutting the fabric, remove the white ring and install the fabric.
 3. Make sure that the edge of the PP band aligns with the top tube. If it is misaligned, adjust it to sit evenly along the tube. Watch the video at 7:17 for guidance on how to make this adjustment.
 
-https://youtu.be/aJWKN80Y3_E
+https://youtu.be/00hYCxbNbVc
 
 ![image](https://github.com/user-attachments/assets/89fc6b0c-42e8-4537-ad9e-3f49c64d65f3)
 
