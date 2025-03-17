@@ -1774,3 +1774,24 @@ Note: If your CO2 Monitor and Hub are located far apart or even in different pla
 5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
+
+
+---
+### Troubleshooting The Numbers on SwitchBot Meter’s Screen Are Partially Missing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue you mentioned, could you please provide a photo showing the missing numbers on the Meter screen so that we can determine whether the device needs to be replaced?
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
