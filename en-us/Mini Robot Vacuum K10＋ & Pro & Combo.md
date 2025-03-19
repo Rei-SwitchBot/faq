@@ -3346,5 +3346,19 @@ During the set Do-Not-Disturb-Time, the K10+ will not perform automatic cleaning
 
 
 
+---
+### Troubleshooting Rubber Caps Are Missing in SwitchBot Robot Vacuum K10+ Pro Combo Package
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, we would like to explain the situation with the silicone plugs:
+These small accessories were originally included to protect the four screw heads. However, after receiving thoughtful feedback about removal difficulties (especially when the plugs fit too snugly), we made a conscious choice to simplify the design.
+Here's what we've implemented:
+• Removed the plugs entirely from newer production batches
+• All manuals now reflect this change (we've retired old instructions mentioning the plugs)
+• Confirmed through testing that your vacuum works perfectly without them
+If your manual still shows plug-related information, you can safely ignore those pages. We're sorry for any confusion this outdated content might have caused.
+This experience has taught us to better balance protective design with user convenience. We've added new checkpoints in our production process to catch such details earlier.
+Please know we're always here if you notice anything else or just want to share suggestions. Your perspective makes our products better for everyone.
+
 
 
