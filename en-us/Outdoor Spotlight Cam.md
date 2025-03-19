@@ -1073,3 +1073,36 @@ Regarding the issue of the camera not charging with the adapter, could you pleas
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Troubleshooting Unable to Charge SwitchBot Outdoor Spotlight Cam 2K with the Solar Panel
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the camera not charging with the solar panel, could you please check the following points?
+1. Turn off the camera's power button, wait for 2 minutes, then turn it back on.
+
+![image](https://github.com/user-attachments/assets/eb23890a-e871-4cf8-af19-ddfcbe167b9d)
+
+2. Please ensure the following when using solar panels to charge your device:
+- The solar panel must be securely connected to your camera
+- Install the panel in an area with direct sunlight exposure (minimum 4 hours daily)
+- Keep the panel surface clean and undamaged – remove leaves/debris immediately
+- Maintain installation angle below 45 degrees from horizontal for optimal performance
+
+3. If the battery drains quickly, you may not be able to reach 100% even with continuous charging. Any of the following settings may drain the battery at a high rate, so adjust settings as needed to prevent high battery drain.
+- Make sure that the recording mode is not set to "Continuous" or "Pre-event" as these modes will deplete the battery more quickly. To check, go to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear icon -> Local Storage -> Recording.
+
+![image](https://github.com/user-attachments/assets/d431b117-d51a-4963-9bd7-1aeec3c2c016)
+
+- Check the motion sensitivity setting by going to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear icon -> Motion Detection -> Sensitivity. If the detection sensitivity is set to high, the battery will drain faster.
+- Check the detection mode setting by going to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear icon -> Motion Detection -> Detection Mode. If the detection mode is set to "more protection", the battery will be drained faster.
+
+4. If the issue persists after checking above, we would appreciate it if you could provide the following information so we can assess if the camera needs to be replaced.
+- Screenshots showing the recording mode, detection sensitivity, and detection mode settings of the camera
+- A photo showing your camera's installation environment
+
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
