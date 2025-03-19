@@ -2858,4 +2858,19 @@ Installation video: https://www.youtube.com/watch?v=E9m7NeFow1o
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Can I Wash SwitchBot Floor Cleaning Robot S10’s Roller Mop in a Washing Machine?
+
+No, we do not recommend washing the S10’s roller mop in a washing machine.
+The roller mop and its hard ABS plastic frame are designed as a single, non-detachable unit. Placing it in a washing machine could damage the rigid ABS structure due to high-speed spinning or collisions with other items. This may also harm your washing machine’s drum or nearby laundry.
+For safe and effective cleaning:
+- Remove the entire roller assembly from the robot.
+- Hand-wash it in water with mild detergent. Let it soak briefly to loosen dirt.
+- Rinse thoroughly and air-dry completely before reinstalling.
+
+![image](https://github.com/user-attachments/assets/bc9ecf91-72dc-4632-84d4-b987a686f728)
+
+Regular manual cleaning preserves the mop’s performance and extends its lifespan. Replace the roller mop every 3 months, depending on usage frequency.
+
+
 
