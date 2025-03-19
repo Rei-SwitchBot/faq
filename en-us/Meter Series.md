@@ -1795,3 +1795,23 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### How to Configure Alerts of SwitchBot Meter?
+
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Meter/Meter Plus has been added to your App and your device firmware version is up to date.
+3. Set alerts in the following order.
+- Launch the SwitchBot App and login.
+- Tap the relevant SwitchBot Meter/Meter Plus.
+- Tap the gear icon in the upper right corner.
+- Tap "disired conditions" on the Settings screen.
+- Enable temperature/humidity/absolute humidity/VPD alert as needed.
+- Set the alert range and save it.
+Note:
+- When not used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen when it reaches the pre-set range.
+- When used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen, also you will receive a notification on your smartphone when it reaches the pre-set range (notification permission required).
+
+SwitchBot Hub products: SwitchBot Hub Mini, SwitchBot Hub 2
+
