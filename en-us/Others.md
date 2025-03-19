@@ -9577,4 +9577,21 @@ For detailed information about this change, we recommend contacting Apple direct
 ![Image](https://support.switch-bot.com/hc/article_attachments/26551704874391)
 
 
+---
+### How to Activate Siri Shortcuts on Mac Computers
 
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure the target product has been added to your App.
+
+3. Create siri shortcuts by going to SwitchBot App -> target product -> gear icon (settings screen) -> third-party service -> siri shortcuts.
+ 
+4. To activate Siri shortcuts on your Mac computer, you need the following:
+- Mac computers with M-chip
+- SwitchBot App V9.9 or newer (coming in April)
+- Install SwitchBot app on your Mac
+Reference: https://www.apple.com/mac/compare/
+For more details, please contact Apple.
+
+
+5. The above steps will help you activate Siri shortcuts on your Mac.
