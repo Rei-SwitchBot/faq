@@ -1916,12 +1916,15 @@ https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=shari
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Side Brush Almost Stuck During Cleaning
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of the robot side brush not rotating properly, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Make sure the side brush is properly installed.
 3. Remove the side brush, clean the hair, etc., and then reattach it. You will hear a click when properly attached.
 4. If the issue persists after completing the above steps, your robot may need to be repaired or replaced. To assist us, please provide the following:
 - A video showing the movement of the side brush
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
