@@ -2539,12 +2539,12 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the robot making clicking noise when it starts cleaning, could you please check the following points?
 1. Please make sure that the brush attachments on both ends are securely installed, as shown in the diagram. Additionally, if there is any hair tangled around the brush, please carefully remove it by hand.
 
-![image](https://github.com/user-attachments/assets/94a1c7fb-332f-44c9-b53e-4e16e0869a00)
+![image](https://github.com/user-attachments/assets/6807c17b-e7cd-4b73-b679-01e119b32208)
 
 2. Remove the main brush and brush frame, then run the robot to check if the clicking noise persists.
 3. If you have access to a lubricant equivalent to WD-40, apply a small amount to the gap marked with red label A in the diagram. Afterward, run the robot for a while to see if the noise improves.
 
-![image](https://github.com/user-attachments/assets/cfcefa3c-a61b-4c70-ba36-c9ff9d13d888)
+![image](https://github.com/user-attachments/assets/5d4f5ef2-457b-4ac0-b788-031ecd5df801)
 
 4. If the issue remains unresolved after performing the above steps, we may need to determine if the robot requires repair or replacement. To assist us in this process, we kindly request the following:
 
@@ -3361,4 +3361,10 @@ This experience has taught us to better balance protective design with user conv
 Please know we're always here if you notice anything else or just want to share suggestions. Your perspective makes our products better for everyone.
 
 
+---
+### Can I Use Alexa to Voice Control SwitchBot Mini Robot Vacuum K10+ to Clean a Specific Room?
+
+Sorry, currently it is not possible to use Alexa or Google Assistant to clean individual rooms by voice-control. We apologize for being unable to fulfill your request, and we will submit it to our product development department as a potential future project aimed at enhancing the product. Thank you for your cooperation.
+As an alternative, you can use the "Schedule" function of Mini Robot Vacuum K10+ with SwitchBot App.
+If you have any questions about Amazon Alexa, please get in touch with Amazon.
 
