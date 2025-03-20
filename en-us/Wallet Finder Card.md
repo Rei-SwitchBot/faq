@@ -424,3 +424,37 @@ The "Find My Phone" feature is only available on the SwitchBot App; Apple's "Fin
 4. To turn off the music playing from your smartphone, either press the volume down button or open the SwitchBot app.
 
 5. In case your phone doesn’t ring, we recommend logging out of the SwitchBot account and logging back in, or restarting your phone to resolve the issue.
+
+
+---
+### Troubleshooting Can't Add SwitchBot Wallet Finder Card to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of not being able to add the Wallet Finder Card to your app, could you please check the following points?
+1. Make sure your SwitchBot App version is up to date.
+2. Press the button on the finder card 5 times rapidly, then hold it down for 15 seconds on the 5th press to reset the background cache. When you hear 3 beeps, the reset process is complete.
+
+![image](https://github.com/user-attachments/assets/164e7b01-a530-4f1c-9c5e-eaa3d1eaac29)
+
+3. To re-add the card, press and hold the button for two seconds.
+4. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, we would appreciate it if you could share a video showing the failed pairing process. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### How to Reset SwitchBot Wallet Finder Card
+
+Can't add Wallet Finder Card to SwitchBot App：
+Reset the background cache in the following way:
+Press the button on the finder card 5 times rapidly, then hold it down for 15 seconds on the 5th press. When you hear 3 beeps, the reset process is complete.
+To re-add the card, press and hold the button for two seconds.
+
+![image](https://github.com/user-attachments/assets/e825e18f-cd3a-416a-a69e-a719679f7059)
+
+When Wallet Finder Card is unresponsive:
+Long press the button on the Wallet Finder Card body for 45 seconds to reset it.
+If the Finder Card freezes and doesn't respond, try holding the button for 45 seconds to initialize the device.
+
+
+
