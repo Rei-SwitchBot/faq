@@ -1444,4 +1444,13 @@ If you accidentally long-pressed the reset button, and the indicator flickers on
 9. If all the above still doesn't work, feel free to reach our support team by opening our app and tapping Profile > Feedback > then select your device to leave feedback.
 
 
+---
+### Can I Control an Encrypted SwitchBot Bot Using Google Assistant Voice Commands?
+
+Yes, you can control a SwitchBot Bot with a passcode using Alexa or Google assistant voice commands. The passcode is only required when operating the Bot through the SwitchBot app. When using voice commands, there's no need for additional code input or speaking the passcode. Simply issue the voice command to control the Bot directly.
+
+---
+### Can I Control an Encrypted SwitchBot Bot Using Alexa Voice Commands?
+
+Yes, you can control a SwitchBot Bot with a passcode using Alexa or Google assistant voice commands. The passcode is only required when operating the Bot through the SwitchBot app. When using voice commands, there's no need for additional code input or speaking the passcode. Simply issue the voice command to control the Bot directly.
 
