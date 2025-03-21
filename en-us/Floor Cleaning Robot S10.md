@@ -2873,4 +2873,11 @@ For safe and effective cleaning:
 Regular manual cleaning preserves the mop’s performance and extends its lifespan. Replace the roller mop every 3 months, depending on usage frequency.
 
 
+---
+### Troubleshooting Suction Power Drops After SwitchBot Floor Cleaning Robot S10 Runs at Max Power for Around 10 Minutes
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We wanted to let you know that when the S10 operates in MAX mode for more than 10 minutes, it will automatically switch to Power mode.
+This adjustment is designed to protect the fan’s lifespan and extend the battery life, as MAX mode consumes a significant amount of power quickly. Please rest assured that this is a standard feature of the product and not a malfunction.
+We appreciate your understanding and apologize for any confusion this might cause. If you have any further questions, please feel free to reach out.
 
