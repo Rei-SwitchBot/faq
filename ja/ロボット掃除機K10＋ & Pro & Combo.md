@@ -3306,3 +3306,15 @@ https://support.switch-bot.com/hc/ja/articles/27427300701207
 代替案として、SwitchBotアプリでロボット掃除機K10+のスケジュール清掃機能をご活用ください。
 アマゾンアレクサに関して、ご不明な点がございましたら、アマゾン様までお問い合わせください。
 
+---
+### K10+はAlexaやGoogle Homeにての操作が可能ですか
+
+Amazon Alexa/Google Assiatant/Siri/IFTTTから操作は可能でございます。
+Alexa音声コマンド
+
+https://support.switch-bot.com/hc/ja/articles/14648081825303
+
+Googleアシスタント音声コマンド
+
+https://support.switch-bot.com/hc/ja/articles/14649658503063
+
