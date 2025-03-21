@@ -3368,3 +3368,12 @@ Sorry, currently it is not possible to use Alexa or Google Assistant to clean in
 As an alternative, you can use the "Schedule" function of Mini Robot Vacuum K10+ with SwitchBot App.
 If you have any questions about Amazon Alexa, please get in touch with Amazon.
 
+---
+### Can SwitchBot Mini Robot Vacuum K10+ Be Controlled by Alexa or Google Assistant?
+
+Yes, it is possible to operate SwitchBot Mini Robot Vacuum K10+ from Amazon Alexa/Google Assiatant/Siri/IFTTT.
+Alexa Voice Command 
+https://support.switch-bot.com/hc/en-us/articles/14648081825303
+Google Assistant Voice Command 
+https://support.switch-bot.com/hc/en-us/articles/14649658503063
+
