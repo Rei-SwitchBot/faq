@@ -176,4 +176,3 @@ The link will be automatically established.
 3. Please kindly note that the remote control can only be operated at a distance of approximately 4 meters from the controller's IR(infrared) signal receiver.
 
 
-
