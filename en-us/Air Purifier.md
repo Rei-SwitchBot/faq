@@ -373,3 +373,27 @@ If you’ve checked the above factors and still find the wireless charging speed
 ### Will SwitchBot Air Purifier Reduce Its Fan Speed After Odors Dissipate When Set to Pet Mode?
 
 In Pet Mode, the air purifier operates at a minimum speed of 1800 rpm and a maximum speed of 2250 rpm. When set to Pet Mode, the fan speed automatically adjusts between 1800 and 2250 rpm based on changes in odor levels. As the odor weakens, the fan speed will gradually decrease to the minimum speed of 1800 rpm.
+
+---
+### Will SwitchBot Air Purifier Reduce Its Fan Speed After Odors Dissipate When Set to Pet Mode?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the mood light not turning on, could you please check the following points?
+1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
+
+![image](https://github.com/user-attachments/assets/2aef9cda-4b8b-4ace-9f10-0285a10cf7e2)
+
+In the "Off" setting, the light will not turn on.
+In the "Auto" setting, the light will automatically turn off when the area around the air purifier becomes dark. Also, please ensure the light sensor is not covered during normal use.
+
+![image](https://github.com/user-attachments/assets/6d0a2691-7614-4879-85d6-d88d9198be5a)
+
+In the "On" setting, the light will stay on continuously.
+
+2. If the mood light does not turn on even when set to "On," we will escalate this issue to our R&D team for investigation. We would appreciate it if you could provide us with the following information:
+- A screenshot of the mood light settings
+- A video showing the air purifier turned on but the light not activating
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
