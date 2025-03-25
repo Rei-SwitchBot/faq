@@ -145,11 +145,10 @@ We strongly recommend you connect to Wi-Fi to use the K10+ / K10+ Pro.
 ---
 ### Can I Operate SwitchBot Mini Robot Vacuum K10+ / K10+ Pro with a Widget?
 
-Last Updated: 2023 July 28
+Yes, you can add your K10+ or K10+ Pro to the widget.
 
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-Currently, smartphone widgets are not supported.
+For more information on SwitchBot devices supported by the widget, please click the link below.
+https://support.switch-bot.com/hc/en-us/articles/20399026689559
 
 
 
@@ -302,11 +301,7 @@ Yes, even in a tatami room, you can wipe it with a cleaning sheet.
 ---
 ### Can SwitchBot Mini Robot Vacuum K10+ / K10+ Pro Wipe up Spills on the Floor?
 
-Last Updated：2023 May 17
-
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-Please note that although a small amount of water (approximately 50ml) can be wiped off, it is not compatible with wiping off a large amount of water.
+Please note that while a small amount of water (around 50ml) can be wiped off, it is not recommended to wipe off large amounts of water as this may cause fan failure due to water being sucked into the product's interior.
 
 
 
@@ -371,12 +366,12 @@ Note: The image is K10+ (256mm*400mm*323mm), the size of K10+ Pro is 261mm*375mm
 ---
 ### Do I Need to Fix the Carpet When Using SwitchBot Mini Robot Vacuum K10+ / K10+ Pro?
 
-Last Updated: 2023 May 12
-
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-There is no need to fix the carpet with tape or similar.
-
+Normally, there is no need to use tape or similar to secure the carpet. If you have tasseled or smaller carpets that are easily moved in your home, please check the following:
+For rugs with tassels:
+We highly recommend setting the entire rug, including the tassels, as a "No-Go Zone" in the app.
+*Please note that this will require manual cleaning of the rug area.
+For smaller rugs without tassels:
+You can use adhesive tape to secure the rug to the floor. This will prevent the robot from moving the rug while cleaning.
 
 
 ---
@@ -646,13 +641,7 @@ HEPA Filter: Replace Every 3 Months
 ---
 ### How Often to Replace the Dust Bag of SwitchBot Mini Robot Vacuum K10+ / K10+ Pro？
 
-Last Updated：
-
-2023 May 15
-
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-The recommendation is to replace the dust bag every one to two months.
+We recommend replacing the dust pack of the K10+ robot every 1 to 2 months, depending on usage environment.
 
 
 
@@ -3376,4 +3365,167 @@ Alexa Voice Command
 https://support.switch-bot.com/hc/en-us/articles/14648081825303
 Google Assistant Voice Command 
 https://support.switch-bot.com/hc/en-us/articles/14649658503063
+
+---
+### Troubleshooting Pet Waste Entangled in SwitchBot Mini Robot Vacuum K10+
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the incident of pet waste being entangled in the robot vacuum, please follow the steps below:
+1. Stop the operation of the K10+ robot.
+2. Turn off the power to the charging station of the K10+.
+3. Disable any scheduled cleaning or automation settings in the SwitchBot app.
+4. To prevent further contamination, flip the K10+ robot vacuum upside down.
+5. Use tissues or paper towels to clean up as much of the waste as possible from the robot.
+6. Gently clean the gaps around the wheels and other areas with a soft brush.
+7. Allow the robot vacuum to air dry naturally for up to one week.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Stopped Working Due to a Stuck Radar Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the stuck laser radar error issue of the robot, could you please check the following points?
+1. Try to clean the lidar sensor with swabs.
+2. After cleaning, restart the K10+ and check if the error is resolved.
+3. If the issue persists, to determine whether if your robot needs to be replaced or repaired, we appreciate it if you could provide the following information:
+- A screenshort showing the laser sensor error pop-up appeared on the SwitchBot app.
+- A video of the robot stops operating due to laser sensor error
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Stopped Working Due to a Stuck Radar Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We’d like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
+This feature is designed to protect the fan’s lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
+We apologize for any confusion this may cause and appreciate your understanding. If you have any further questions, please feel free to reach out.
+
+---
+### Is It Possible to Adjust the Rotation Speed of the Side Brush on the SwitchBot Mini Robot Vacuum K10+?
+
+We are sorry to inform you that adjusting the rotational speed of the side brush is not supported.
+
+---
+### How Many Centimeters of Step Height Does SwitchBot Mini Robot Vacuum K10+ Need to Detect to Activate the Anti-fall Sensor Function?
+
+1. The cliff sensors activate only for steps or height differences higher than 8cm.
+2. Keep shoes or objects at least 10cm away from steps or edges. If too close, the sensors may not detect the height difference properly, causing a fall.
+3. Avoid using the robot in narrow spaces near steps or stairs. Set these areas as no-go zones in SwitchBot app.
+4. Do not use robots around sunken floors. The sensors may not recognize the edges, leading to a fall. Set these areas as no-go zones in SwitchBot app.
+5. Avoid using the robot in areas without guardrails, such as lofts, hallways overlooking open spaces, or stair landings. Falls in these areas could cause damage or injury. Set these areas as no-go zones in SwitchBot app.
+
+---
+### How Many Family Members Can I Share SwitchBot Mini Robot Vacuum K10+ Operational Access with?
+
+The Home Sharing feature allows you to share SwitchBot Robot Vacuum K10+ with your family and friends. Currently, up to 100 members can be invited to your home.
+
+---
+### Can SwitchBot Mini Robot Vacuum K10+ Clean up Sticky Substances (Like Pet Feces, Jelly or Peanut Butter)?
+
+Before using the SwitchBot Mini Robot Vacuum K10+, please make sure to clean up any pet feces and jelly. The vacuum cleaner is not able to avoid pet feces.
+
+---
+### What Is the Height of SwitchBot Mini Robot Vacuum K10+’s Body?
+
+The K10+ has a body height of 9.2cm, allowing it to clean under low spaces such as cabinets or sofas. However, for areas with a height of less than 9.2cm where the robot cannot fit, we recommend manual cleaning.
+
+---
+### How to Install the Mop of the SwitchBot Mini Robot Vacuum K10+?
+
+We will guide you through the process in the video below.
+Video: 
+
+https://youtu.be/Xjp__z4eKYI
+
+---
+### Schedule Feature for SwitchBot Mini Robot Vacuum K10+
+
+1. If the map is not saved, two schedules can be registered.
+2. If the map is already saved, up to three schedules can be registered.
+3. Please set up a schedule in the following order: SwitchBot App-> K10+->"More"->"Schedule".
+
+---
+### Where Is the Small Cleaning Tool for SwitchBot Mini Robot Vacuum K10+?
+
+The small cleaning tool is stored in the auto-empty station. When you open the lid, you can see it inside.
+You can use the small cleaning tool to manually clean the main brush when hair gets tangled in it.
+
+![image](https://github.com/user-attachments/assets/6453a059-e4f2-4337-8f34-467c8ca87790)
+
+---
+### How to Replace Front Caster Wheel of SwitchBot Mini Robot Vacuum K10+?
+
+You can watch the video linked below to confirm how to replace the front wheels of the K10+.
+
+https://drive.google.com/file/d/1LSlVjjB5bKN6JWPQT-BkvfKmj7BVPJ8b/view?usp=drive_link
+
+---
+### Instructions for Do-Not-Disturb-Time Schedules of SwitchBot Mini Robot Vacuum K10+
+
+Set the Do-Not-Disturb-Time in the following order: SwitchBot app -> K10+ -> Gear Icon -> Do-Not-Disturb-Time.
+Up to 10 Do-Not-Disturb-Time Schedules can be set for Mini Robot Vacuum K10+.
+During the set Do-Not-Disturb-Time, the K10+ will not perform automatic cleaning (including scheduled cleaning and automation you have set), voice guidance or automatic garbage collection.
+
+---
+### Troubleshooting After turning off the base from the power source, the robot leaves the base and starts spinning around itself forever
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue, could you please check the following points?
+The auto-empty station and the robot communicate via infrared signals. If the auto-empty station loses power, the signal between the station and the robot is interrupted. This may cause the robot to move away from the station and spin as it searches for the signal.
+If you need to shut off the power to the auto-empty station for any reason, we can manually turn off the power of the robot.
+If your robot does not match the description provided, it would be helpful if you could provide us with a video showing the issue.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting The Main Brush Frame of SwitchBot Mini Robot Vacuum K10+ Is Broken
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the broken parts of your robot, could you please check the following points?
+1. To help us assess the damage, we would appreciate it if you could provide us with a phone showing the broken frame.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+2. If the damage is from regular use, we’d be happy to provide a replacement part at no cost to you within warranty. For accidental damage, we can also arrange a free replacement part; but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer covers this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
+
+3. To help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+---
+### Troubleshooting The Accessory Usage Life of SwitchBot Mini Robot Vacuum K10+ Cannot Be Reset
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of not being able to reset the robot accessory usage life, could you please check the following points?
+1. Remove the faceplate of the Mini Robot Vacuum K10+, turn off and then turn on the power switch (switch it to 'o' and then back to 'I').
+
+![image](https://github.com/user-attachments/assets/4ce0985e-7312-4945-87f7-a08421fcc42d)
+
+2. Reconnect your device to Wi-Fi by following these steps: Open the SwitchBot app → select Mini Robot Vacuum K10+ → tap the gear icon → select "reconnect device".
+3. By pressing and holding the front collision guard, charging button, and sensor part simultaneously for more than 10 seconds, the Mini Robot Vacuum K10+ will reset. Please note that during this reset, information related to Wi-Fi, previously set cleaning schedules, and maps will be erased.
+Reset video:
+https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
+
+4. If the issue persists, we would appreciate it if you could share a video showing the problem. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Constantly Hits Furniture and Fails to Avoid Them
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue, to better assist you, could you please capture a video showing the robot vacuum struggling to avoid obstacles?  This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
