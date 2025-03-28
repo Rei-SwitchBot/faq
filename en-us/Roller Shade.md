@@ -292,3 +292,29 @@ If you are cutting the fabric, keep the rings on during the cutting process and 
 After removing the rings, you may notice a small gap between the fabric and the window frame. This gap is intentional and ensures smooth operation. Without it, the fabric could rub against the frame, leading to wear or misalignment over time.
 Leaving the rings on during use may cause fabric damage, so please make sure to remove them before installation.
 If you have any further questions, feel free to reach out to us.
+
+
+---
+### Use Schedule Feature to Open and Close SwitchBot Roller Shade without a Hub
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Roller Shade has been added to your App.
+
+3. You can set a schedule in the following order:
+- Launch SwitchBot App and log in.
+- Tap your Roller Shade.
+- Swipe down on the Roller Shade control panel and tap "Schedules".
+- Tap "Add".
+- Set the time settings, recurring days of the week, and action to be performed.
+- Save.
+
+![image](https://github.com/user-attachments/assets/93fdce39-88d1-4e29-b0bb-32544b97d095)
+
+4. If you are using Roller Shade without a hub, you can set up to five schedules.
+
+Note:
+To synchronize the opening and closing of the Roller Shade with sunrise and sunset, location information from the network is needed, and it must be used together with our hub product. Roller Shade schedule does not support sunrise and sunset timing.
+You can check the scheduled open and close logs by going to SwitchBot App -> Roller Shade -> Gear icon (setting screen) -> Logs.
+
+
