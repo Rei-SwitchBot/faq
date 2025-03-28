@@ -415,4 +415,18 @@ Regarding the pet hair not being drawn into the Air Purifier, could you please c
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Even When Smoking Next to SwitchBot Air Purifier, the Air Quality Continues to Show “Very Good”
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The odor sensor is located on the back of the device. If you smoke while facing the front, the smoke may not be drawn directly into the purifier, so the reading may not update. To test the sensor, set your Air Purifier to auto mode and try either of these two options below. Check if the air quality reading changes.
+- Gently introduce some dust near the sensor (lightly tapping a feather duster nearby would work)
+- Direct some mist from an ultrasonic humidifier toward the sensor area
+
+![image](https://github.com/user-attachments/assets/f6db5fc3-631a-411f-a3ee-3cfbb886cc1e)
+
+2. If the issue persists after testing, we will escalate it to our R&D team for further investigation.
+
+
 
