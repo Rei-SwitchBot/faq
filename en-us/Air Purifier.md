@@ -446,9 +446,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the air purifier not powering on, could you please check the following points?
 1. Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet.
 2. Check if there is any visible damage to the Air Purifier’s power cord.
-3. Confirm that the air intake (as shown in the diagram, number 6) is properly attached to the Air Purifier.
+3. Confirm that the air intake (as shown in the diagram, Air Purifier is number 6 while Air Purifier Table is number 7) is properly attached to the Air Purifier.
 
+Air Purifier
 ![image](https://github.com/user-attachments/assets/f98e911e-22ea-48e7-964e-28b3593ca831)
+
+Air Purifier Table
+
+![image](https://github.com/user-attachments/assets/552e6156-ae98-47e6-9d8e-002c3030b93a)
 
 4. To determine if your device needs to be replaced or repaired, could you please provide us with a video showing the air purifier not powering on?
 5. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
