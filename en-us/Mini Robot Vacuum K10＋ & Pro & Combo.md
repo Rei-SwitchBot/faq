@@ -3528,3 +3528,17 @@ Regarding the issue, to better assist you, could you please capture a video show
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Troubleshooting Cordless Vacuum Cleaner Dust Collection Cannot Be Performed
+
+1. Please make sure the battery of the cordless vacuum cleaner is securely inserted. It will not be fully inserted when shipped from the factory, so please insert it yourself before use.
+2. Try repairing the Cordless Vacuum Cleaner and the Dual Empty Station in the following order:
+- Launch SwitchBot app and log in.
+- Tap Robot Vacuum K10+ Pro Combo.
+- Tap the gear icon in the upper right corner.
+- Tap "Pair Device" on the Settings screen.
+- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap “next”.
+- The device will be searched and connected automatically.
+3. Please perform dust collection again after repairing.
+
+
