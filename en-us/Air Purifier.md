@@ -439,3 +439,30 @@ Note:
 
 With firmware version 23, holding down the power button for 15 seconds will reset the device and automatically enter Matter accessory pairing mode. In this mode, the air purifier cannot be detected by SwitchBot app. To exit Matter pairing mode and return to normal operation, hold the power button for 2 seconds.
 
+---
+### Troubleshooting SwitchBot Air Purifier Cannot Be Turned on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the air purifier not powering on, could you please check the following points?
+1. Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet.
+2. Check if there is any visible damage to the Air Purifier’s power cord.
+3. Confirm that the air intake (as shown in the diagram, number 6) is properly attached to the Air Purifier.
+
+![image](https://github.com/user-attachments/assets/f98e911e-22ea-48e7-964e-28b3593ca831)
+
+4. To determine if your device needs to be replaced or repaired, could you please provide us with a video showing the air purifier not powering on?
+5. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
