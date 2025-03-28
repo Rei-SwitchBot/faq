@@ -428,5 +428,14 @@ Regarding this issue, could you please check the following points?
 
 2. If the issue persists after testing, we will escalate it to our R&D team for further investigation.
 
+---
+### Troubleshooting Even When Smoking Next to SwitchBot Air Purifier, the Air Quality Continues to Show “Very Good”
 
+Long press the power button on SwitchBot Air Purifier for 15 seconds to reset it.
+
+![image](https://github.com/user-attachments/assets/e89ff4ec-afbb-4b1e-808f-24fc901d9e67)
+
+Note:
+
+With firmware version 23, holding down the power button for 15 seconds will reset the device and automatically enter Matter accessory pairing mode. In this mode, the air purifier cannot be detected by SwitchBot app. To exit Matter pairing mode and return to normal operation, hold the power button for 2 seconds.
 
