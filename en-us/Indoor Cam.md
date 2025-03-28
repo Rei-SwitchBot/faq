@@ -1294,4 +1294,21 @@ When your service package expires and you do not renew it, your device stops upl
 For example, if you purchase a 30-day event package, the cloud stores your videos from the latest 30 days and deletes the videos that have been stored for longer than 30 days, such as deleting the first-day data on 31.
 
 
+---
+### How to Turn Off SwitchBot Camera Cloud Storage Subscription Ads
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. You can disable the promotional advertisement as follows:
+- Launch SwitchBot App and log in.
+- Tap your camera.
+- Tap the gear icon in the upper right corner.
+- Tap basic settings.
+- Tap personalized recommandations.
+- Switch On to Off.
+
+
+3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
+
+
 
