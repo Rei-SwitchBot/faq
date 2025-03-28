@@ -607,13 +607,8 @@ Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
 ---
 ### How Often Does SwitchBot Mini Robot Vacuum K10+ / K10+ Pro Automatically Transport Trash to the Auto-Empty Station?
 
-Last Updated：
-
-2023 Apr 28
-
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-The SwitchBot Mini Robot Vacuum K10+ / K10+ Pro will automatically return at intervals of 60, 75, or 90 minutes to pick up debris, Please feel free to set your own smart dust collection time on your SwitchBot App.
+1. The Mini Robot Vacuum K10+ will automatically return to the charging station to empty its trash when it's time for Smart Dust Collection. If the cleaning task isn't finished, it will continue cleaning after collecting the dust.
+SwitchBot App -> Mini Robot Vacuum K10+ -> Gear iron -> "Dust Collection Settings" on the Settings screen -> Smart Dust Collection time can be set to 60/75/90 minutes.
 
 
 
