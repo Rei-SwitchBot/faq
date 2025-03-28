@@ -2519,3 +2519,22 @@ SwitchBot Pan/Tilt Cam Plus 3K: Approximately 11 MB per minute.
  
 
 For the best experience when watching live videos, we recommend using a stable Wi-Fi connection. Mobile data or mobile Wi-Fi hotspots may not provide consistent performance for real-time streaming.
+
+
+---
+### How to Turn Off SwitchBot Camera Cloud Storage Subscription Ads
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. You can disable the promotional advertisement as follows:
+- Launch SwitchBot App and log in.
+- Tap your camera.
+- Tap the gear icon in the upper right corner.
+- Tap basic settings.
+- Tap personalized recommandations.
+- Switch On to Off.
+
+
+3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
+
+
