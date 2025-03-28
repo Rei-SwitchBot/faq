@@ -2881,3 +2881,9 @@ We wanted to let you know that when the S10 operates in MAX mode for more than 1
 This adjustment is designed to protect the fan’s lifespan and extend the battery life, as MAX mode consumes a significant amount of power quickly. Please rest assured that this is a standard feature of the product and not a malfunction.
 We appreciate your understanding and apologize for any confusion this might cause. If you have any further questions, please feel free to reach out.
 
+---
+### How Many SwitchBot Evaporative Humidifiers (Auto-refill) Can Be Paired With SwitchBot Floor Cleaning Robot S10?
+
+Currently, only one SwitchBot Evaporative Humidifier (Auto-refill) can be paired with Floor Cleaning Robot S10.
+We have noted your interest and will pass it on to our product development team for future consideration. Your input is instrumental in helping us enhance our product line.
+
