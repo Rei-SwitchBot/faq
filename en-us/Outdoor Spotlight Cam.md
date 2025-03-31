@@ -1121,5 +1121,16 @@ Regarding the issue of the camera not charging with the solar panel, could you p
 
 3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
+---
+### Troubleshooting All Detected Events Show Incorrect Date (March 1, 2024) on SwitchBot Outdoor Spotlight Cam
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue that all events detected by the Outdoor Spotlight Cam display the incorrect date (March 1, 2024), could you please check the following points?
+1. Please verify the firmware version is 2.1.26-1.3 by going to SwitchBot App -> Outdoor Spotlight Cam -> Gear Icon → Firmware & Battery. If the version is different, a firmware update is required and our support team will contact you shortly. 
+Please note that the incorrect dates cannot be fixed, this means that you will need to manually delete the affected events. We apologize for any inconvenience and appreciate your understanding.
+2. If your firmware is already version 2.1.26-1.3, please provide a screen recording showing: you opening the SwitchBot App, selecting the outdoor spotlight camera, and scrolling through the event list where the incorrect dates are visible. This will help our R&D team investigate the issue.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
