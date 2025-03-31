@@ -2887,3 +2887,13 @@ We appreciate your understanding and apologize for any confusion this might caus
 Currently, only one SwitchBot Evaporative Humidifier (Auto-refill) can be paired with Floor Cleaning Robot S10.
 We have noted your interest and will pass it on to our product development team for future consideration. Your input is instrumental in helping us enhance our product line.
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Said It Would Wet the Mop Before Cleaning, but It Skipped That Step and Started Cleaning Instead. I’m Using the Custom Mode.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we want to clarify how certain features work in different cleaning modes.
+If you’ve selected Custom Mode and notice that the robot starts cleaning directly without going to the water station to dampen the mop or wash the mop, this is expected behavior. In Custom Mode, the dampen mop and wash mop functions are temporarily disabled as part of the current product design—this is not a malfunction.
+For these features to work as intended, please switch to the standard Vac & Mop Mode. This will ensure the robot visits the water station to prepare the mop before cleaning.
+We understand this may differ from your expectations, and we appreciate your patience as we continue to improve our products. If you have any further questions, our support team is happy to help.
+Thank you for your understanding!
+
