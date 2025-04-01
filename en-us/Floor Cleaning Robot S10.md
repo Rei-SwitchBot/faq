@@ -2897,3 +2897,13 @@ For these features to work as intended, please switch to the standard Vac & Mop 
 We understand this may differ from your expectations, and we appreciate your patience as we continue to improve our products. If you have any further questions, our support team is happy to help.
 Thank you for your understanding!
 
+---
+### What Is the Virtual Wall Thickness Setting for SwitchBot Floor Cleaning Robot S10?
+
+The Floor Cleaning Robot S10 creates virtual walls with a default thickness of 45 cm in its map settings.
+
+---
+### How Long Does the Auto-Empty Station of SwitchBot Floor Cleaning Robot S10 Typically Last?
+
+The lifespan of the auto-empty station depends mainly on the durability of its internal dust collection fan. With normal use (emptying about 3-4 times per day), the station can typically last around 2 years.
+
