@@ -1815,3 +1815,20 @@ Note:
 
 SwitchBot Hub products: SwitchBot Hub Mini, SwitchBot Hub 2
 
+---
+### What to Do if the Cable Included with SwitchBot Meter Pro (CO2 Monitor) Is Too Short for My Needs?
+
+If the cable included with your CO2 Monitor is too short, you can use the 2-meter charging cable that comes with the SwitchBot Hub 2. However, please note that when you use this longer cable, the temperature and humidity measurements will be taken from the temperature and humidity sensor built into the Hub 2's charging cable, not from the CO2 Monitor itself. 
+We're happy to provide this charging cable at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request a cable, please contact us and we'll provide a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
