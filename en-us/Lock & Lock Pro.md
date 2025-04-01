@@ -3943,3 +3943,23 @@ If you have any questions, please contact us via SwitchBot App -> Profile -> Sup
  8. 
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
+
+
+---
+### Troubleshooting Unable to Add SwitchBot Lock to SwitchBot App Due to "invalid ciphertext" Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Our R&D team is currently investigating the issue of being unable to add the Lock to SwitchBot App due to an invalid ciphertext error. To resolve this for you immediately, we can arrange a replacement for your current product. Please provide the following details to help us process your replacement unit:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
