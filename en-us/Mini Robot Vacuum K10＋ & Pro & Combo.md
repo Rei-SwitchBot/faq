@@ -3541,4 +3541,9 @@ Regarding the issue, to better assist you, could you please capture a video show
 - The device will be searched and connected automatically.
 3. Please perform dust collection again after repairing.
 
+---
+### What Is the Virtual Wall Thickness Setting for SwitchBot Mini Robot Vacuum K10+?
+
+The Mini Robot Vacuum K10+ creates virtual walls with a default thickness of 10 cm in its map settings.
+
 
