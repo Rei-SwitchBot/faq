@@ -9595,3 +9595,31 @@ For more details, please contact Apple.
 
 
 5. The above steps will help you activate Siri shortcuts on your Mac.
+
+
+---
+### Troubleshooting I'm Using Multiple iPhones and Randomly Getting Logged out of the SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of getting automatically logged out of our app, could you please check the following points?
+Reason:
+When using the same iCloud account across multiple devices, the Device ID gets synced, causing the system to recognize it as a single device. As a result, logging into the same account on another device may lead to being logged out of the first one.
+Solutions:
+1. Temporary Solution: 
+You can create a new account on the other iPhone and share the home with the new account. However, please note that some editing permissions will be unavailable on the new account.  If necessary, you can change the user type of the home member to Admin. The admin has almost the same permissions as the homeowner.
+https://support.switch-bot.com/hc/en-us/articles/27427300701207
+
+2. Permanent Solution: 
+We have a special beta version for iOS that addresses this issue. Here's how to use it:
+- First, download and install TestFlight from the App Store (Apple's official beta platform).
+- Next, click this link to join the beta: TestFlight Link.
+- Once installed, open the app, go to "Profile" and log out.
+- After logging out, log back in to complete the process of clearing the device ID.
+
+Important Notes:
+- After performing this whole process, you may receive a push notification saying, “Your account has logged in on a new device” or an email with the same message.
+- Once the steps are complete, we recommend upgrading to the latest version from the App Store. You can continue using the beta version if you prefer.
+-  If you encounter errors like "App not found" or "Connection expired," please contact us for assistance in updating the version.
+
+If you have any other questions, please don't hesitate to contact us. We are here to help!
+
