@@ -3963,3 +3963,33 @@ Our R&D team is currently investigating the issue of being unable to add the Loc
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting Can't Connect SwitchBot Lock Pro to Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue that the Lock Pro can't connect to the Hub, could you please check the following points?
+1. Make sure you are using the most recent firmware for your Lock Pro and Hub. If not, we have made arrangements to update them to the latest version. Please ensure that you perform the update in close proximity to the device.
+2. Please ensure that the Lock Pro is within Bluetooth range (recommended 5 meters) of the Hub.
+3. Please check if unplugging and plugging in the power supply of the Hub improves the problem.
+4. Reinsert the batteries into the Lock Pro.
+5. If the problem persists, we will escalate your feedback to our R&D team. We would appreciate it if you could provide us with the following information:
+- A screenshot showing the connection signal by navigating to SwitchBot App -> Profile -> Manage Hub -> the relevant Hub 
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### How to Install the magnet of SwitchBot Lock Pro
+
+1. Unlike SwitchBot Lock, the magnetic sensing area of the Lock Pro is located at the bottom left of the dial knob.
+2. You can place the magnet on either side of the Lock Pro main unit dial knob. Also, make sure that the horizontal distance from the Lock Pro main body is between 20mm and 40mm.
+Notes:
+If the magnet is closer than 20mm, the magnetic force may be too strong and interfere with proper detection.
+If the magnet is farther than 40mm, the door sensor may not function correctly.
+Please make sure that the magnet is facing the right way. The magnet can be detected on both sides, except for the side with double-sided tape and its opposite side.
+3. If the magnet is not detected by your Lock Pro, please feel free to contact us. When contacting us, please provide with the following information:
+- A photo of the Lock Pro installation with the magnet
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
