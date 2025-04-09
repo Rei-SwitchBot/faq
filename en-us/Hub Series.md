@@ -3784,3 +3784,40 @@ Use the "Duplicate remotes" function.
 SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
 This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
 
+---
+### Troubleshooting Unexpected Beeping from SwitchBot Hub 2
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the unexpected beeping from Hub 2, could you please check the following points?
+1. If you set an alert range for your Hub 2, it will beep when it reaches the range. Open the SwitchBot App and follow these steps:
+- Go to Hub 2
+- Tap the gear icon (Settings)
+- Select Alert Conditions
+- Under Alert Sound & Light , check if the flash and sound item is enabled. If you don’t need this sound, you can set "flash only" or directly turn off the Alert Sound & Light here.
+
+![image](https://github.com/user-attachments/assets/cad7c419-329a-495d-b386-f98be85bb03e)
+
+2. Hub 2 may emit a short beep when it receives power. Please ensure the charging cable is securely connected to avoid unintended power interruptions.
+
+Please try the solutions below.
+If the beeping persists, please try the following steps to reset the device:
+1. Remove Hub 2 from the App: Long-press Hub 2 in the SwitchBot App and select Delete.
+2. Unplug Hub 2 and then plug it back in.
+3. On Hub 2’s display, simultaneously press and hold the on/off button for 15 seconds to reset the device.
+4. After resetting, re-add Hub 2 to the SwitchBot App.
+Note: Removing Hub 2 will not delete any infrared remote settings, scenes, or automations already configured, so you can safely proceed.
+5. If the problem is still not resolved, please record a video of the beeping sound from Hub 2. This will help our R&D team further investigate the issue.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Air Conditioner Status Doesn’t Sync to Apple Home App After Controlling It via SwitchBot App
+
+Thank you for reaching out to us. 
+We sincerely apologize for this inconvenience. 
+Currently, any air conditioner status changes made through the SwitchBot App (whether via direct IR remote control or scene/automation) cannot be synchronized with Apple Home App.
+We fully understand how frustrating this limitation is for your smart home experience. Please rest assured we've documented your feedback and escalated it to our R&D team for future improvements. However, due to technical complexities, we regrettably cannot provide a specific timeline for resolution at this time.
+We deeply appreciate your understanding and patience as we work to enhance our services. If you have any further questions, please don't hesitate to contact us. Our team remains fully committed to improving your smart home experience.
+
+
