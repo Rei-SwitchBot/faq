@@ -1512,24 +1512,46 @@ https://support.switch-bot.com/hc/en-us/articles/25122838665111
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Won’t Turn On?
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Won’t Turn On
 
-Last Updated：
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the robot not turning on, could you please check the following points?
+1. Make sure that the auto-empty station is properly connected to a power source.
+2. Make sure that the auto-empty station is placed on a hard, level surface, away from heat sources, direct sunlight, or soft surfaces like carpets or rugs.
+3. Gently wipe the charging terminals on both the robot and the auto-empty station with a soft tissue, then manually dock the robot to the auto-empty station and switch the power to I position.
 
-2024 Jun 27
+![image](https://github.com/user-attachments/assets/846d0188-f4dc-402a-ae48-45f656b0684b)
 
-Related Products: SwitchBot Floor Cleaning Robot S10
+*When the robot properly docks with the auto-empty station, the station's white light will blink three times while the robot's indicator light pulses in a breathing pattern (gradually brightening and dimming).
 
-1. Make sure the battery is sufficiently charged. Please dock the robot S10 onto the auto-empty station to charge before use.
+4. If the robot successfully docks but its indicator light fails to illuminate, we'll need to evaluate whether it requires repair (likely battery replacement). To assist with diagnosis, please send us a video showing the robot docked at the station with its indicator light remaining off.
 
-2. Make sure your S10 is being used in an environment with a temperature range of 0℃ to 40℃.
+5. If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
+Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
 
-3. Make sure the power switch of S10 is turned on. The main power switch is located under the faceplate. Ensure it is switched to the I position.
+How to replace the battery:
+Video: https://drive.google.com/file/d/1uq68G2g_DyknENPMv_WdDrbFqvs2h_9R/view?usp=sharing
+Tips:
+- Turn the S10 unit over. If there is water in the waste water box, remove it to prevent leakage.
+- Use a screwdriver to unscrew and remove the back cover's seven screws.
+- Use a pry bar or similar tool to carefully extract the battery from its compartment. Disconnect the battery connection terminals and remove the old battery.
+- Install a new battery following the same procedure, then reattach the chassis cover.
+- Once you have replaced the battery, update your robot's firmware to ensure optimal performance.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/24467514207383)
 
-4. If you have tried the above steps and the issue persists, please contact our support team. We will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with a video of your S10 not turning on.
+6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
@@ -1959,14 +1981,17 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 ---
 ### Troubleshooting One of SwitchBot Floor Cleaning Robot S10's Wheels Is Not Functioning
 
+Thank you for reaching out to us. 
 We’re sorry to hear that your SwitchBot Floor Cleaning Robot S10 is experiencing an issue where it spins in circles and cannot move in a straight line.
-If only one drive wheel is rotating, your S10 may need to be repaired or replaced. To help us diagnose the problem, could you please send us a video showing the robot spinning in circles and not moving straight?
-Also, if you would like to replace the wheel yourself, we can send you the parts and a video for you to perform the process.
+If only one drive wheel is rotating, your S10 may need to be repaired or replaced. To help us diagnose the problem, could you please check the following points?
+1. Please go to SwitchBot App -> S10 -> Gear Icon (settings) -> More Features -> Manual Control to control your robot to check if it can move in a straight line.
+2. Could you please send us a video showing the robot spinning in circles and not moving straight?
+3. Also, if you would like to replace the wheel yourself, we can send you the parts and a video for you to perform the process.
 S10 Wheel Replacement Video
 https://drive.google.com/file/d/1CintEmtbERxc4rcvy-JOnwc5Qp1EK7_X/view?usp=sharing
 https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=sharing
 
-To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+4. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -2263,9 +2288,11 @@ Note: The S10 can store a maximum of 5 maps, each with one water station configu
 
 
 ---
-### Matter Compatibility for SwitchBot Floor Cleaning Robot S10
+### Does SwitchBot Floor Cleaning Robot S10 Support Matter?
 
-Yes, SwitchBot Floor Cleaning Robot S10 supports Matter. You can sync it to the Apple Home app or Google Home app as a secondary device through Hub 2 or Hub Mini Matter Enabled. In the Apple/Google Home app, you can control cleaning and recharging.
+Yes, the S10 supports Matter. You can sync it to either the Apple Home app or Google Home app as a secondary device through a Hub 2 or Hub Mini Matter. This lets you control cleaning and recharging from either app.
+With firmware version 1.0.984 or later, the S10 works directly with Matter as a standalone device. This means you can add it straight to your Apple Home app to control mapping, start cleaning, and check standby status. Currently, room-specific cleaning isn't available as the S10 supports Matter 1.2 features, and we're working on adding Matter 1.4 support in future updates.
+Important note: Google Home app is not yet compatible with the device type of robot vacuum cleaner, so the S10 cannot be used with the Google Home app via mater. For more information, we recommand contacting Google directly.
 
 
 ---
@@ -2920,4 +2947,20 @@ The Floor Cleaning Robot S10 creates virtual walls with a default thickness of 4
 ### How Long Does the Auto-Empty Station of SwitchBot Floor Cleaning Robot S10 Typically Last?
 
 The lifespan of the auto-empty station depends mainly on the durability of its internal dust collection fan. With normal use (emptying about 3-4 times per day), the station can typically last around 2 years.
+
+---
+### Troubleshooting Apple Home App Says “Product Not Supported” When Adding SwitchBot Floor Cleaning Robot S10 via Matter on iOS 18.4
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of not being able to add the S10 to the Home app directly via matter, could you please check the following points?
+1. Follow the in-app instructions to add your S10 to the Apple Home app by navigating SwitchBot App -> S10 -> Gear icon (Settings) -> Matter Setup (Beta).
+
+2. Make sure both your  iOS device, S10 and Homepod are connected to the same 2.4GHz Wi-Fi network.
+
+3. Verify your S10 has stable internet connection with no network errors.
+
+4. If issues persist after these steps, please contact Apple Support directly for further investigation.
+Contact Apple Support:
+
+https://support.apple.com/en-us/106932?choose-your-country=united-states
 
