@@ -744,4 +744,10 @@ The power consumption of SwitchBot Blind Tilt increases significantly when group
 When used individually, the Blind Tilt only needs to communicate with the phone or SwitchBot Hub Mini. However, when grouped, the Blind Tilts form a link and need to communicate with each other, which increases the constant power consumption.
 
 
+---
+### How Can I Check the Battery Status of Sub-Devices After Grouping SwitchBot Blind Tilts?
+
+After grouping Blind Tilt devices, only the main device will be displayed in the SwitchBot app, while sub-devices are automatically hidden. The app only shows the charging status and battery level of the main device, not the sub-devices. If you want to check the battery level of a sub-device, you’ll need to ungroup the devices first and then select the specific device individually to view its status.
+
+
 
