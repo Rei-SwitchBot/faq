@@ -2971,3 +2971,8 @@ No, the water station does not have an automatic pressure-boosting function duri
 The water station is equipped with a built-in pump that directly draws wastewater from the robot's waste water tank and discharges it into your home's drainage pipe. While the drain hose can be installed with a maximum height difference of 2 meters, we recommend keeping it within 1 meter for the most reliable drainage performance.
 Laboratory tests show that the drainage system maintains an end-point water pressure of 35kPa. As long as the height does not exceed 2 meters, no additional pressurization equipment is needed, the system will work properly under normal conditions.
 
+---
+### What Is the Maximum Height at Which SwitchBot Floor Cleaning Robot S10 Sewage Pipe Can Be Installed?
+
+The built-in pump drainage system in the S10 water station can drain water up to a maximum level of 2m. For optimal drainage, it is recommended that the installation location of the sewage pipe should not exceed a height of 1m. The R&D laboratory measured the water pressure at the end of the drain pipe to be 35kPa.
+
