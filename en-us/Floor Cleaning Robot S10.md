@@ -2964,3 +2964,10 @@ Contact Apple Support:
 
 https://support.apple.com/en-us/106932?choose-your-country=united-states
 
+---
+### Does SwitchBot Floor Cleaning Robot S10's Water Station Automatically Increase Water Pressure for Faster Drainage?
+
+No, the water station does not have an automatic pressure-boosting function during drainage.
+The water station is equipped with a built-in pump that directly draws wastewater from the robot's waste water tank and discharges it into your home's drainage pipe. While the drain hose can be installed with a maximum height difference of 2 meters, we recommend keeping it within 1 meter for the most reliable drainage performance.
+Laboratory tests show that the drainage system maintains an end-point water pressure of 35kPa. As long as the height does not exceed 2 meters, no additional pressurization equipment is needed, the system will work properly under normal conditions.
+
