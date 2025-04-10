@@ -457,4 +457,12 @@ Long press the button on the Wallet Finder Card body for 45 seconds to reset it.
 If the Finder Card freezes and doesn't respond, try holding the button for 45 seconds to initialize the device.
 
 
+---
+### Troubleshooting Not Receiving Notifications When Leaving My Wallet Finder Card at Home
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, I'd like to explain how the Wallet Finder Card notifications work on Android:
+When your finder card is within Bluetooth range of your smartphone (nearby), the SwitchBot app updates its location every 10 minutes. However, if the card is placed where your phone can't detect it (out of Bluetooth range), the app will only show the last known location where the connection was active. After that, the position won't update until the card is back in range.
+If you want to get notifications when you leave your finder card behind, make sure you're using SwitchBot app version 9.9 or later. Then, tap the finder card on the app and enable the "Lost Notifications (Beta)" feature.
+If you have any other questions, feel free to contact us for help.
 
