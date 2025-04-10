@@ -4012,4 +4012,16 @@ Regarding the issue of being unable to get home due to a jammed lock, could you 
 We sincerely apologize, but the cost for locksmith services would need to be covered by you. However, if you encounter any further issues with your Lock, please know that we will continue to assist you and investigate the matter thoroughly.
 
 
+---
+### Troubleshooting Unable to Add SwitchBot Lock to the App Due to an "Device Initialization is Abnormal" Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue, could you please check the following points?
+1. For security reasons, each Lock can only be added to one account at a time. If a Lock was previously added to another account (such as your own, a family member’s, or a friend’s), you must first remove it from that account before adding it to a new one.
+※Long press the SwitchBot Lock icon→tap the Delete button→confirm deletion
+2. If you receive a reset request, please upload proof of purchase (such as an Amazon order confirmation, receipt from our official website, or a retailer’s invoice). Once verified in the app, the lock will automatically unbind from the previous account, allowing you to add it to a new one.
+3. If the app fails to recognize the lock or if you acquired it secondhand, please contact our customer support team with your order documentation for further assistance.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
