@@ -2181,13 +2181,27 @@ If the robot does not move even in manual control mode, we will escalate the iss
 1. Make sure your SwitchBot App version is up to date. 
 2. Make sure SwitchBot Floor Cleaning Robot has been added to your App and your device firmware version is up to date.
 3. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
-![image](https://github.com/user-attachments/assets/794a2aef-4a43-42c6-a554-88dc2d094e20)
 
-4. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
-![image](https://github.com/user-attachments/assets/c6851997-8ee2-465e-961c-a5ef591d683b)
+![image](https://github.com/user-attachments/assets/c350bc2d-b622-4c75-a34e-9a9c8a369a86)
 
-5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
-6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with the information below:
+Maintenance video 1: 
+
+https://www.youtube.com/watch?v=ikUtZlHQUQU
+
+Maintenance video 2: 
+
+https://drive.google.com/file/d/1JMtJ7sA5jbO_kTp2nhE2CZXunxSfQZnR/view?usp=sharing
+
+4. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
+
+![image](https://github.com/user-attachments/assets/676d9920-5ea2-4ef5-9486-8bf019d2005e)
+
+5. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
+
+![image](https://github.com/user-attachments/assets/15812663-9957-462d-9b4f-ce31c1195517)
+
+6. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
+7. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with the information below:
 - Photo or video of water leak
 - Photo showing inside of the waste water box
 - Photo of the bottom of your S10
