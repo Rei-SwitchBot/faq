@@ -9623,3 +9623,29 @@ Important Notes:
 
 If you have any other questions, please don't hesitate to contact us. We are here to help!
 
+---
+### Troubleshooting SwitchBot Scene Fails to Trigger
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To better assist you with the Scene issue, could you please provide us the following information?
+1. Name of the Scene that is not working properly
+2. Time of day when it does not run
+3. Screenshot of the Scene settings screen
+4. Screenshot of the execution history
+Way to check the Scene logs: SwitchBot App -> "..." in the upper right corner -> Manage Scenes -> "⋮" in the upper right corner -> Scene logs
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Automation Fails to Trigger
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To better assist you with the automation issue, could you please provide us the following information?
+1. Name of the automation that is not working properly
+2. Time of day when it does not run
+3. Screenshot of the automation settings screen
+4. Screenshot of the execution history
+Way to check the automation logs: SwitchBot App -> "Automation" at the bottom of the home screen -> "..." in the upper right corner -> automation logs
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
