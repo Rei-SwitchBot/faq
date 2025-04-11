@@ -211,6 +211,8 @@ Currently, SwitchBot Meter, Hub 2, and Hub Mini Matter Enabled do not support co
 
 
 
+
+
 ---
 ### Data Synchronization, Saving, and Deletion for SwitchBot Meter
 
@@ -1831,4 +1833,47 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
+
+---
+### How to Sync Temperature and Humidity Data Stored in SwitchBot Meter to Cloud?
+
+Related Products: SwitchBot Outdoor Meter, SwitchBot Meter, SwitchBot Meter Plus
+SwitchBot App Version：9.0 or newer
+Precondition
+
+Normally, I use my Meter connected to a Hub at home, syncing all the data to the cloud. One day, I took it out with me, and when I got back, I realized I couldn’t view the data recorded while I was away. Why does this happen?
+
+Reason
+
+Starting from SwitchBot App V9.0, the "Cloud Service" option was removed from the settings. Instead, when you tap on the Meter in the app, a “Store Data to Cloud” button now appears at the bottom of the graph screen. Tapping this button enables the cloud storage of temperature and humidity data, functioning the same as activating the previous "Cloud Service" option.
+
+However, data recorded via Bluetooth and data saved to the cloud are stored through separate processes and do not merge. Once you enable the “Store Data to Cloud” feature, the app will prioritize displaying data stored in the cloud. As a result, data recorded via Bluetooth while away from the Hub will no longer appear on the graph screen.
+
+Solution
+
+If you often take the Meter away from home, here are some tips to ensure you can access all your data:
+
+1. Do not tap the “Store Data to Cloud” button to avoid saving data to the cloud.
+
+2. Consider purchasing a  second Meter to use exclusively when on the go.
+
+3. If you’ve already enabled the “Store Data to Cloud” feature and want to view Bluetooth data recorded while away, try below:
+
+SwitchBot App≤9.5
+
+You can remove the device from the app and re-add it to access the data recorded while away. However, if the device remains connected to the Hub (meaning you have enabled the “Store Data to Cloud” feature again), you’ll need to repeat this process of removing and re-adding it each time you take it out.
+
+SwitchBot App≥V9.6:
+
+If the Meter has been disconnected from the Hub for over one hour, you can recover and sync the missing temperature and humidity data to the chart.
+After reconnecting the Meter to the Hub, ensure the device is within Bluetooth range. Open the SwitchBot App, select the Meter, and follow the data recovery message displayed at the top of the chart screen to complete the recovery process.
+Only Home Owner and Administrators have permission to recover data. Members will not see the data recovery message on their smartphones.
+If your Meter has been disconnected from the Hub for less than one hour, the data recovery message will not appear. Additionally, there may be a delay of approximately 10 minutes before the server detects and confirms the disconnection with the Hub. It is possible to sync the data for the last 20 days.
+
+![image](https://github.com/user-attachments/assets/5ea56dfb-9faf-4f0e-93fb-5afbc15342e5)
+
+Note:
+
+The Meter can store up to 36 days of data locally when connected via Bluetooth. After this, older data will be overwritten. To prevent data loss, ensure you load and export the data in time.
+
 
