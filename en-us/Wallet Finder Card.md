@@ -466,3 +466,9 @@ When your finder card is within Bluetooth range of your smartphone (nearby), the
 If you want to get notifications when you leave your finder card behind, make sure you're using SwitchBot app version 9.9 or later. Then, tap the finder card on the app and enable the "Lost Notifications (Beta)" feature.
 If you have any other questions, feel free to contact us for help.
 
+---
+### Can I Use One SwitchBot Wallet Finder Card with Multiple iPhones' Find My App?
+
+For security reasons, each Wallet Finder Card can only be added with one iPhone's Find My app at a time.
+Note: If you get a new iPhone but use the same Apple ID, your added finder card will automatically sync to the Find My app on your new device.
+
