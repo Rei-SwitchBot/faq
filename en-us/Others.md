@@ -1152,85 +1152,35 @@ Note: Please contact Samsung if you have any questions about the SmartThings App
 
 
 ---
-### How can I join other users in Home Sharing?
+### How to Join Other User’s Home
 
-If you want to join other user Home Sharing accounts to control their devices, you need to be invited first. Please refer to the article below to see how to be invited.
-
-Once you have received your invitation message, please use the following steps to join:
-
-1. Navigate to the
-
-Home Management
-
-page
-
-![Image](https://support.switch-bot.com/hc/article_attachments/15699453247255)
-
-2. Tap on the
-
-Join Home
-
-button
-
-3. Enter the invitation code and you should be good to go!
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25991474685463)
-
-When you successfully join other user
-
-Home Sharing
-
-accounts, you can switch to their homes in the
-
-Shared Home
-
-column.
-
-You'll now be able to access and control their devices.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25991471910167)
+1. Make sure your SwitchBot App version is up to date.
+2. Please join home in the folllowing order:
+- Launch SwitchBot App and log in.
+- Tap "Profile" in the lower right corner.
+- Tap "Manage Homes".
+- Tap "Join Home" in the lower right corner.
+- Join home by scaning QR code or entering invitation code.
+3. After successfully joining the home, you can switch to the shared home on the "my home" section at the top left corner of the SwitchBot App home screen to access and control devices.
 
 
 
 ---
-### How do I share devices with other users?
+### How to Invite Other Users to My Home
 
-1. First, navigate to the Home Management page.
+1. Make sure your SwitchBot App version is up to date.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/26002376437143)
+2. You can share your home to your family and friends in the following order:
+- Launch the SwitchBot app and log in.
+- Tap Home in the upper left corner. (The default home name will be My Home.)
+- Tap "Manage Homes".
+- Tap the target home you want to share in My Home list.
+- Tap the "+" icon to the right of "Home member".
+- Select the user type (Admin, Member, or Member Limited Permissions) and tap Next.
+- Select the invitation method.
+- Notify your family and friends.
 
-2. Choose a
-
-Home
-
-that you want to share.
-
-3. You can leave a note to remind yourself who or what you are sharing.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26002376439831)
-
-4. Tap
-
-Next
-
-to generate an invitation
-
-5. Share the invitation message with the people you want to invite to your
-
-Home
-
-.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26002376442135)
-
-When your friends receive the message, they can use the invitation code to join your Home.
-
-Please refer to the article below to see how you can join a
-
-Home
-
-using an invitation code.
-
+3. When your friends receive the message, they can use the QR code or invitation code to join your Home.
 
 
 ---
