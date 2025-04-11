@@ -3842,3 +3842,43 @@ Regarding the issue of having trouble with Bluetooth remote control via Hub 2, c
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Failed to Update SwitchBot Hub Mini, Hub Mini Matter Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Make sure you're using the latest version of the SwitchBot app.
+2. Perform the firmware update near the device to ensure a stable connection.
+3. Unplug the Hub Mini, wait a few seconds, then plug it back in.
+4. Turn off your home router, wait about 30 seconds, then turn it back on.
+5. Switch to a mobile hotspot connection and attempt the update again.
+6. Try recovering the firmware of your Hub Mini.
+- Unplug the Hub Mini.
+- Hold the button on the devive while plugging it back in.
+- Open the SwitchBot app, go to Profile > Firmware recovery, and follow the instructions.
+
+7. Remove and reset Hub Mini.
+- Delete the device from the SwitchBot app by long-pressing it.
+- Press and hold the button on the Hub Mini for 15 seconds to reset.
+- Re-add the device to the app.
+
+8. If the issue persists after trying these steps, our R&D team will investigate further. Please wait while we process your request.
+
+
+---
+### Troubleshooting Failed to Update SwitchBot Hub 2 Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Make sure you're using the latest version of the SwitchBot app.
+2. Perform the firmware update near the device to ensure a stable connection.
+3. Unplug the Hub 2, wait a few seconds, then plug it back in.
+4. Turn off your home router, wait about 30 seconds, then turn it back on.
+5. Switch to a mobile hotspot connection and attempt the update again.
+6. Remove and reset Hub 2.
+- Delete the device from the SwitchBot app by long-pressing it.
+- Press and hold the on/off button on the Hub 2 simultaneously for 15 seconds to reset.
+- Re-add the device to the app.
+7. If the issue persists after trying these steps, our R&D team will investigate further. Please wait while we process your request.
+
+
