@@ -1891,14 +1891,26 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
 2. Make sure that the fresh water hose is not damaged or folded.
 3. Make sure that the water station's auto-fill port is attached and undamaged.
-![image](https://github.com/user-attachments/assets/fa6f88a1-5750-4d41-a2b2-901bdc2a371c)
+
+![image](https://github.com/user-attachments/assets/0af9de9e-b731-445c-9438-6a22bfd61b06)
+
 4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
 https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
 5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-6. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
+6. Please refer to the video below to verify whether your water station’s fresh water pump is functioning correctly.
+https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
+Tips:
+- Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+- Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet at the back of the S10 to check if you can hear airflow or feel suction.
+- If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+- Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
+
+
+7. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
 - A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
 - Photos showing fresh water hose and sewage hose in place
 - How long after using the Water Station is unable to auto-refill
+- A video demonstrating the testing of the fresh water pump (step 6)
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Stuck Frequently
