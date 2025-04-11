@@ -300,4 +300,21 @@ doorbells
 , allowing for remote activation of these devices. This provides a simple, flexible setup for integrating automated control in your home.
 
 
+---
+### Wiring Diagram for SwitchBot Relay Switch 2PM
+
+![image](https://github.com/user-attachments/assets/d588171b-1d8f-41f1-bb2b-55fed6ebf656)
+
+
+---
+### Wiring Diagram for SwitchBot Relay Switch 1
+
+![image](https://github.com/user-attachments/assets/17c55b5d-5b7f-4f74-94d2-4aee597bcb9f)
+
+
+---
+### Wiring Diagram for SwitchBot Relay Switch 1PM
+
+![image](https://github.com/user-attachments/assets/6e8a1892-bc14-472b-8678-04558f65a24f)
+
 
