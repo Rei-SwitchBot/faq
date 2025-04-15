@@ -1765,14 +1765,33 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Radar Is Blocked
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the robot radar blockage error, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
-2. Start a cleaning task then check if the top radar is rotating.
-Note: We recommend placing your robot on a large table for easy access to the radar area during operation.
-3. Check the radar area for any foreign objects and, if needed, delicately clean it with a cotton swab.
-4. If the issue persists, please submit feedback to contact us. We will forward your feedback to our R&D team for further assistance. When contacting us, please provide with the following information:
+
+2. Please check if pushing the radar cover of the S10 with your hand improves it.
+
+3. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
+
+![image](https://github.com/user-attachments/assets/94613435-d456-4ee1-b077-b28f89471ffe)
+
+4. Check the radar area for any foreign objects and, if needed, delicately clean it with a cotton swab.
+
+5. If the issue persists, to determine whether your robot needs to be replaced or repaired, could you please provide with the following information:
 - A video demonstrating the radar error voice broadcast
 - A screenshot showing radar blocked error
+
+6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Fan Isn't Working Properly
@@ -2987,4 +3006,36 @@ Laboratory tests show that the drainage system maintains an end-point water pres
 ### What Is the Maximum Height at Which SwitchBot Floor Cleaning Robot S10 Sewage Pipe Can Be Installed?
 
 The built-in pump drainage system in the S10 water station can drain water up to a maximum level of 2m. For optimal drainage, it is recommended that the installation location of the sewage pipe should not exceed a height of 1m. The R&D laboratory measured the water pressure at the end of the drain pipe to be 35kPa.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying "Please check for any blockages around the radar"
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the robot radar blockage error, could you please check the following points?
+1. Remove the robot's faceplate and restart it.
+
+2. Please check if pushing the radar cover of the S10 with your hand improves it.
+
+3. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
+
+![image](https://github.com/user-attachments/assets/b98dfbc0-f625-4697-9c7a-4aba43b04888)
+
+4. Check the radar area for any foreign objects and, if needed, delicately clean it with a cotton swab.
+
+5. If the issue persists, to determine whether your robot needs to be replaced or repaired, could you please provide with the following information:
+- A video demonstrating the radar error voice broadcast
+- A screenshot showing radar blocked error
+
+6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
 
