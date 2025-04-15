@@ -1454,3 +1454,22 @@ Yes, you can control a SwitchBot Bot with a passcode using Alexa or Google assis
 
 Yes, you can control a SwitchBot Bot with a passcode using Alexa or Google assistant voice commands. The passcode is only required when operating the Bot through the SwitchBot app. When using voice commands, there's no need for additional code input or speaking the passcode. Simply issue the voice command to control the Bot directly.
 
+---
+### Troubleshooting SwitchBot Bot Suddenly Lost Power and Could not Turn the Switch on or off.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the Bot's inability to turn the switch on or off suddenly, could you please check the following points?
+1. Make sure that the firmware version of your Bot is 6.6 or later. If not, please update the firmware near your device by going to SwitchBot App -> Bot -> Firmware & Battery.
+2. Take the batteries out of your Bot and then put them back in to reset the power.
+Kindly note: You may need to replace the batteries if they are low and we recommand using Panasonic CR2 3V batteries.
+3. Open the cover of the Bot and press the reset button once to perform a reset.
+4. Follow these steps to recover the Bot’s firmware:
+- Remove the batteries from the Bot.
+- While pressing and holding the reset button, reinsert the batteries.
+- Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
+
+5. If the problem remains unresolved after these steps, to determin if your Bot needs to be replaced, could you kindly provide a short video showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
