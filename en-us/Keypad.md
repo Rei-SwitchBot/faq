@@ -1558,3 +1558,26 @@ SwitchBot App Version：9.8 or newer
 6. If the above steps do not improve the situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide with the following information:
 
 A video of two devices within a meter of each other but unable to lock and unlock the Lock using Keypad
+
+
+---
+### Troubleshooting When Entering a Password to Unlock the Door, SwitchBot Keypad Will Automatically Stop Accepting Input Before All Numbers Are Entered.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the batteries and reinsert them.
+2. To determine whether your Keypad needs to be replaeced, could you please provide us with a video demonstrating the issue?
+3. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
