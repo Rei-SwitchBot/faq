@@ -3882,3 +3882,11 @@ Regarding the firmware update issue, could you please check the following points
 7. If the issue persists after trying these steps, our R&D team will investigate further. Please wait while we process your request.
 
 
+---
+### When Will My Infrared Appliance Be Added to the Compatible List?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience caused.
+SwitchBot’s infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
+Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub 2 by learning your remote via "Learn Buttons" or "Others" in the app. We encourage you to give these methods a try.
+If you have any further questions, feel free to contact us anytime. We’re happy to help!
+
