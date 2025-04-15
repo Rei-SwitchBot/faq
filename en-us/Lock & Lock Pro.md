@@ -4025,3 +4025,14 @@ Regarding the issue, could you please check the following points?
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting the Status of SwitchBot Lock on the App Does Not Match In Real-Life Situation When Using the Key
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Possible Cause
+When setting up the Lock, you may have chosen 90 degrees as the unlocked position. However, when unlocking with a key, the Lock may disengage at around 89 degrees instead. This slight difference can cause the app to display the wrong status even though the door is actually unlocked.
+Solution
+If the Lock's state cannot be synced to the SwitchBot App after locking and unlocking with the key, please recalibrate it using the physical key instead of the thumbturn on the lock.
+SwitchBot App -> the Lock -> gear icon -> recalibrate
+
