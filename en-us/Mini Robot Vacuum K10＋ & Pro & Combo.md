@@ -3385,12 +3385,27 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the stuck laser radar error issue of the robot, could you please check the following points?
 1. Try to clean the lidar sensor with swabs.
 2. After cleaning, restart the K10+ and check if the error is resolved.
-3. If the issue persists, to determine whether if your robot needs to be replaced or repaired, we appreciate it if you could provide the following information:
+3. Please check if pushing the radar cover of the 10+ with your hand improves it.
+4. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
+5. If the issue persists, to determine whether if your robot needs to be replaced or repaired, we appreciate it if you could provide the following information:
 - A screenshort showing the laser sensor error pop-up appeared on the SwitchBot app.
 - A video of the robot stops operating due to laser sensor error
 
+6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Stopped Working Due to a Stuck Radar Error
