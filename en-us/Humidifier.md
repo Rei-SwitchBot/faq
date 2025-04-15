@@ -578,45 +578,25 @@ Please note that items that are out of warranty or have been purchased as used a
 
 
 ---
-### What to Do When SwitchBot Humidifier Won't Emit Mist
+### Troubleshooting SwitchBot Humidifier Won't Emit Mist
 
-Last Updated：
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this, could you please check the following points?
+1. Please ensure that the SwitchBot Humidifier is positioned on a level surface, such as a chair or table, to prevent it from ceasing to emit mist when placed at an angle.
+2. To determin if there is a hardware issue with your Humidifier, could you kindly provide a short video showing the issue?
+3. Also, if the device is defective and needs to be replaced, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
-2023 Dec 27
-
-Related Products: SwitchBot Humidifier
-
-1． Please ensure that the SwitchBot Humidifier is positioned on a level surface, such as a chair or table, to prevent it from ceasing to emit mist when placed at an angle.
-
-2． If the SwitchBot Humidifier fails to produce mist after being filled with water and powered on, please reach out to our after-sales service team. Should this occur within the one-year warranty period from the date of purchase, we are prepared to replace it with a new unit. We kindly request that you have the following information available when you contact us.
-
-Request for SwitchBot Humidifier replacement
-
-Order Information
-
-Purchase channel:
-
-Order ID:
-
-Recipient Full name:
-
-Address:
-
-ZIP/Postal code:
-
-A screenshot of your order:
-
-Video showing the absence of mist from the SwitchBot Humidifier
-
-(after removing the top lid with the vent, no mist is visible)
-
-.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26002261827607)
-
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-Please note that items that are out of warranty or have been purchased as used are not covered by our after-sales services. We appreciate your understanding.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
