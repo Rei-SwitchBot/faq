@@ -697,87 +697,64 @@ The remotes added with the customize mode can also be edited.
 ---
 ### How to Learn IR Appliance Remote Control? (SwitchBot Hub 2)
 
-Last Updated: 2023 Oct 20
-
 Related Products: SwitchBot Hub 2
-
-SwitchBot App Version: 7.7 or newer
-
-Firmware Version: 1.0-0.9 or later
-
+SwitchBot App Version: 9.3 or newer
+Firmware Version: 2.3-1.4 or later
 1. Before registering the home appliance remote control, please add Hub 2 to the SwitchBot App first.
 
-Related Post:
+Related Post: Setting Up Hub 2
 
-[Setting Up Hub 2](https://support.switch-bot.com/hc/en-us/articles/17784047699479)
+https://support.switch-bot.com/hc/en-us/articles/17784047699479
 
 2. Open SwitchBot App, please register the home appliance remote control in the order of "+" in the center right of the corresponding Hub →2 screen.
 
 3. Since the learning method may differ depending on the model number of the infrared remote control, we will guide you through the following four learning modes "Smart Matching", "Select Manually", "Learn Buttons" and "Others".
 
 "Smart Matching"
-
 Select the appropriate Hub 2
-
-Tap the "+" in the center right of the screen.
-
+Tap the "+" icon to add remote control
 Select Home Appliances
-
-Tap Remote Control Auto Learn
-
-Move the home appliance remote control closer to Hub 2 and press the power button.
-
+Tap "Smart Matching"
+Move the home appliance remote control closer to Hub 2 and press the power button
 Test the template that came out until it works
-
 Save remote control that works flawlessly
-
-"Select Manually"
-
+"Select Manually" 
 Select the appropriate Hub 2
-
-Tap the "+" in the center right of the screen.
-
+Tap the "+" icon to add remote control
 Select Home Appliances
-
-Tap Remote Control Manual Learning
-
+Tap "Select Manually"
 Search by entering manufacturer and model number
-
 Test the template that comes out
-
 If it works fine, save the remote
-
-"Learn Buttons"
-
+"Learn Buttons" 
 Select the appropriate Hub 2
-
-Tap "Add Remote"
-
+Tap the "+" icon to add remote control
 Select Home Appliances
-
-Tap the button Learn on the remote control
-
+"Learn Buttons"
 Learn each button one by one
-
 Save Remote Control
-
-"Others"
-
+"Others" 
 In "Others" mode, you can freely add buttons for the remote control, and you can also freely name the learned buttons. It is most recommended for those who have a DIY remote control or button.
 
-Slide to the bottom of the IR Appliances list, then tap More. Give your button a name and start learning.
+Select the Hub 2
+Tap the "+" icon to add remote control
+Tap "Others" at the bottom of the "Choose an appliance" screen
+Name and save the remote
+Tap the  edit icon in the upper right corner
+Give your button a name and start learning
+After the indicator lamp on the Hub 2 unit turns off, press the remote control button once and wait until the indicator lamp flashes.
+If the button is recognized, you will see a success suggestion, tap "Test" to check if the appliance is actually working. If it doesn't respond, re-register with "Learn Again".
+After learning all the buttons, name and save the remote control. This completes the registration.
+Note:
 
-After the indicator lamp in the upper left corner of the Hub 2 unit turns off, press the remote control button once and wait until the indicator lamp flashes.
-
-If the button is recognized, you will see a success suggestion, tap "Test" to check if the appliance is actually working. If it doesn't respond, re-register with "Learn Again". After learning all the buttons, name and save the remote control. This completes the registration.
+For Others modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
 
 Air conditioner customization mode
-
 Please refer to the following because the customization mode of the air conditioner is different from the customization mode of ordinary home appliances.
 
-[How to register the air conditioner remote control in "Customize"](https://support.switch-bot.com/hc/en-us/articles/360038373593-How-to-add-Air-Conditioner-by-Customize-mode-)
+How to register the air conditioner remote control in "Customize"
 
-
+https://support.switch-bot.com/hc/en-us/articles/360038373593-How-to-add-Air-Conditioner-by-Customize-mode-
 
 ---
 ### How to Reconfigure/Change WiFi Network for SwitchBot Hub Plus?
