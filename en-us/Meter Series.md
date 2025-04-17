@@ -1877,3 +1877,15 @@ Note:
 The Meter can store up to 36 days of data locally when connected via Bluetooth. After this, older data will be overwritten. To prevent data loss, ensure you load and export the data in time.
 
 
+---
+### How often is the temperature and humidity data updated on the Android widget for SwitchBot?
+
+The SwitchBot Meter collects data every 4 seconds and saves it every minute.
+When using the widget, due to limitations of the smartphone system, it may take at least 15 minutes for the data to update.
+There is a time delay between the temperature and humidity data in the widget compared to that displayed in the SwitchBot app and device. We apologize for any inconvenience this may cause.
+
+---
+### How often is the temperature and humidity data updated on the widget for SwitchBot?
+
+Apple hasn’t officially specified how often widgets refresh their data. However, we can confirm that when the SwitchBot App is open, the iOS widget updates the temperature and humidity data approximately every 5 minutes. Since the SwitchBot Meter collects data every 4 seconds and saves it every minute, there may be a slight delay between what you see in the widget and the actual readings in the app or on the device itself. We apologize for any inconvenience this might cause and appreciate your understanding.
+
