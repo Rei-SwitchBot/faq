@@ -1911,7 +1911,7 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 2. Make sure that the fresh water hose is not damaged or folded.
 3. Make sure that the water station's auto-fill port is attached and undamaged.
 
-![image](https://github.com/user-attachments/assets/0af9de9e-b731-445c-9438-6a22bfd61b06)
+![image](https://github.com/user-attachments/assets/f058d374-8d0d-45c8-b5c9-360c46875b67)
 
 4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
 https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
@@ -1919,11 +1919,13 @@ https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=shari
 6. Please refer to the video below to verify whether your water station’s fresh water pump is functioning correctly.
 https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
 Tips:
-- Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-- Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet at the back of the S10 to check if you can hear airflow or feel suction.
-- If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-- Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
+  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
 
+![image](https://github.com/user-attachments/assets/1c34b334-9914-41c0-8b0b-9b974f5ffa9a)
+
+  c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 
 7. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
 - A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
@@ -3041,5 +3043,7 @@ Regarding the robot radar blockage error, could you please check the following p
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
+
+
 
 
