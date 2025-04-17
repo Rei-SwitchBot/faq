@@ -3592,4 +3592,21 @@ Sleep: If the robot remains in "Standing By" mode for 10 minutes, it will enter 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Maps Already Saved on SwitchBot Mini Robot Vacuum K10+ Suddenly Disappear
+
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the robot from your SwitchBot app.
+2. Reset the robot.
+Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
+Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be lost.
+Reset video: https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
+3. Add the robot back to the app and create a new map.
+4. If the issue persists after trying these steps and using the robot for a while, we may need to check if a replacement is necessary. To help us assist you better, please provide:
+- When the map disappeared (date & time)
+- Screenshots of the map before & after it was lost
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
