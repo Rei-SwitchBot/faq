@@ -3866,3 +3866,12 @@ SwitchBot’s infrared (IR) remote code database is typically updated every six 
 Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub 2 by learning your remote via "Learn Buttons" or "Others" in the app. We encourage you to give these methods a try.
 If you have any further questions, feel free to contact us anytime. We’re happy to help!
 
+---
+### Troubleshooting Changed the Humidity Unit to “Absolute Humidity” in the Switchbot App, but SwitchBot Hub 2 Still Displays “Relative Humidity”
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When you set the humidity unit to absolute humidity (g/m³) in the app under "Profile," this setting only applies to the app display. Unfortunately, Hub 2’s screen is not designed with an LED capable of showing absolute humidity values. Because of this hardware limitation, Hub 2 can only display relative humidity (%).
+We sincerely apologize for any inconvenience this may cause. This is due to product design specifications, and we appreciate your understanding.
+If you have any further questions, please don’t hesitate to contact us. We’re happy to help!
+
