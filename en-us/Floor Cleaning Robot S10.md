@@ -2023,12 +2023,7 @@ We’re sorry to hear that your SwitchBot Floor Cleaning Robot S10 is experienci
 If only one drive wheel is rotating, your S10 may need to be repaired or replaced. To help us diagnose the problem, could you please check the following points?
 1. Please go to SwitchBot App -> S10 -> Gear Icon (settings) -> More Features -> Manual Control to control your robot to check if it can move in a straight line.
 2. Could you please send us a video showing the robot spinning in circles and not moving straight?
-3. Also, if you would like to replace the wheel yourself, we can send you the parts and a video for you to perform the process.
-S10 Wheel Replacement Video
-https://drive.google.com/file/d/1CintEmtbERxc4rcvy-JOnwc5Qp1EK7_X/view?usp=sharing
-https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=sharing
-
-4. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+3. If repair or replacement is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -2040,7 +2035,7 @@ https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=shari
 - ZIP/Postal Code
 - A screenshot of your order
 
-If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting I Cannot Add My Newly Purchased Floor Cleaning Robot S10 to SwitchBot App (iOS)
