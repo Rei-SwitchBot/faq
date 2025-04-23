@@ -3187,13 +3187,30 @@ You can sync your K10+ Pro Combo robot with the Apple Home app or Google Home ap
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Suddenly Stopped Broadcasting Voice Prompts
 
-1. Please make sure that the sound volume setting hasn't been silent.
-2. Could you please provide us with a screenshot showing volume setting?
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if you have set the Do-Not-Disturb time for your robot.  The device will not emit sound during the Do-Not-Disturb time period.
+2. To determin if your robot needs to be replaced or repaired, could you kindly provide the following information?
+- A screenshot showing the sound volume setting
 
-![image](https://github.com/user-attachments/assets/8edd4209-4146-463b-a99e-7965d8c45b63)
+![image](https://github.com/user-attachments/assets/29215f4e-e617-4dfa-a765-514fd1e2220e)
 
-3. Also, if it is okay, a video showing silent wi-fi settings on the K10+ would be helpful for us as we escalate this issue to our development team.
+- A video showing silent wi-fi settings on the K10+
 
+3. If repair or replacement is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Why Is the No-Go Zone Button of SwitchBot Mini Robot Vacuum K10+ Grey and Unable to Be Set on the SwitchBot App?
