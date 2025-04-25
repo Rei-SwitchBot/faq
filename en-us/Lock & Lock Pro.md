@@ -3793,12 +3793,12 @@ NTAG 216
 ---
 ### Why Are Some of the SwitchBot Lock Setting Options Grayed Out?
 
-When we are out of the Bluetooth range of the SwitchBot Lock, some of the options on the settings page will be greyed out.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, to ensure security and that the settings take effect properly, basic settings must be adjusted while your phone is within Bluetooth range of the Lock and Bluetooth is enabled on your device.  If you are out of range, settings will be grayed out and cannot be modified.
 
-Please be near the SwitchBot Lock to access these options, even if the Lock has turned on the Cloud Service.
+![image](https://github.com/user-attachments/assets/d8596489-9bc1-489d-b82c-e685c80d7932)
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25998228602647)
-
+We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
 ---
