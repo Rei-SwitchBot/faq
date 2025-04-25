@@ -145,3 +145,9 @@ If your home doesn’t have Wi-Fi, you can still use basic functions. When someo
 
 
 
+---
+### Can I Unlock My Lock with SwitchBot Smart Video Doorbell by Touching My iPhone? (Only for Japan)
+
+Yes! Simply add your Suica or PASMO to the Apple Wallet app, then use your iPhone to unlock the door lock by touching it against the Smart Video Doorbell.
+
+
