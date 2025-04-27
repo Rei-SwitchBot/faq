@@ -151,3 +151,12 @@ If your home doesn’t have Wi-Fi, you can still use basic functions. When someo
 Yes! Simply add your Suica or PASMO to the Apple Wallet app, then use your iPhone to unlock the door lock by touching it against the Smart Video Doorbell.
 
 
+---
+### Voice Commands for Controlling SwitchBot Smart Video Doorbell Using Alexa and Google Assistant
+
+Alexa
+Alexa, show my [Device Name].
+ 
+Google Assistant
+Hey Google, show my [Device Name].
+
