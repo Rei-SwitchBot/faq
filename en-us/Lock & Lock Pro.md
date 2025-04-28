@@ -1302,29 +1302,16 @@ The same settings can be applied to SwitchBot Lock Pro.
 ---
 ### How to Lock and Unlock SwitchBot Lock Pro Remotely (Connect to SwitchBot Hub)
 
-Last Updated：
+To enable remote locking and unlocking for your Lock Pro, please check the following:
+1. You'll need our Hub device for this feature.
 
-2024 Apr 26
+2. Make sure both the Lock Pro and Hub are added to your SwitchBot app.
 
-Related Products: SwitchBot Lock Pro, SwitchBot Hub Mini or SwitchBot Hub 2
+3. The Lock product communicates with the Hub via Bluetooth, so keep both devices within close range (recommended within 5 meters).
 
-SwitchBot App Version: 8.3 or newer
+4. Starting with SwitchBot app version 9.0, cloud services are enabled automatically, no manual setup is needed (the cloud service option has been removed). Once the Lock product is placed near the Hub, they will connect automatically, allowing remote control via the app.
 
-1.
-
-Make sure your SwitchBot App version is up to date.
-
-2.
-
-Make sure SwitchBot Lock Pro and SwitchBot Hub products have been added to your App.
-
-3. After step 3, you can lock and unlock Lock Pro outside the Bluetooth range.
-
-Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near the installed Lock, within Bluetooth range, and it will automatically connect to the Hub.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+*You can check the communicaiton signals by navigating to SwitchBot App -> Profile -> Manage Hub.
 
 
 
