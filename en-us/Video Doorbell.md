@@ -160,3 +160,9 @@ Alexa, show my [Device Name].
 Google Assistant
 Hey Google, show my [Device Name].
 
+
+---
+### Can Multiple Monitors Be Connected to One Doorbell?
+
+We regret to inform you that only one monitor can be connected to one doorbell at a time for security reasons. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
