@@ -1581,3 +1581,22 @@ Regarding this issue, could you please check the following points?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Troubleshooting SwitchBot Keypad Touch Is Unresponsive and Cannot Be Added to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the insulating seal from the Keypad Touch battery before pairing.
+2. Make sure your SwitchBot App version is up to date.
+3. Turn off the smartphone's Bluetooth, then turn it back on.
+4. Log out your SwitchBot App, then log in again.
+5. Restart your SwitchBot App.
+6. If you have other smartphones at hand, try using a different device.
+7. Remove and reinsert the batteries.
+8. Change to new CR123A 3V (Panasonic recommended) batteries and test if the device can power on.
+9. If the above does not resolve the issue, please provide us with the following information so we can determine whether the problem lies with the device or is a bug in the application.
+  1. A video demonstrating the lack of beeping or lighting on the keypad when batteries are removed and reinserted.
+  2. a screenshot of the app showing that the app failed to add the keypad
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
