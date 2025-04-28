@@ -1322,3 +1322,18 @@ The SwitchBot Universal Remote is a device that allows you to add multiple infra
 
 If you have a SwitchBot Hub 2, you can sync the Universal Remote as a sub-device to the Apple Home App, allowing the Universal Remote ABCD buttons to trigger other devices or siri shortcuts as automation conditions.
 
+---
+### Troubleshooting The Battery of SwitchBot Universal Remote Drains Quickly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by navigating to the SwitchBot app -> Universal Remote -> gear icon in the upper right corner -> Firmware & Battery -> blue or red "Update" button. 
+*If the firmware upgrade fails, click on the link below to attempt firmware recovery.
+https://support.switch-bot.com/hc/en-us/articles/25438735905943
+
+2. If the issue persists after trying step 1, to determin if your device needs to be replaced or repaired, could you kindly provide the following information?
+  1. How many days the battery can last on a full charge
+  2. Screenshot of the universal remote low power notification that can be viewed from the SwitchBot app -> profile -> bell icon in the upper right corner
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
