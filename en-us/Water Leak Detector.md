@@ -570,3 +570,22 @@ SwitchBot Water Leak Detector will issue a low battery notification when the bat
 1. When the battery level drops to 20% or below
 2. When a water leak is detected
 While basic operations are maintained even in low battery mode, to ensure stable performance, we recommend replacing the batteries as soon as you receive a low battery notification. For continuous usage or critical installation locations, proactive maintenance is highly advised.
+
+
+---
+### Troubleshooting Don't Get Real-time Notifications When SwitchBot Water Leak Detector Detects a Leak
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure you've already enabled all notification settings for your water leak detector.
+https://support.switch-bot.com/hc/en-us/articles/28675353699991-How-to-Enable-the-Notification-Settings-of-SwitchBot-Water-Leak-Detector
+2. For the notifications issue, please refer to the below for how it works.
+https://support.switch-bot.com/hc/en-us/articles/27987004502551-About-the-Alert-Notification-Process-for-SwitchBot-Water-Leak-Detector
+3. Please note it takes about 20 seconds from detection to notification, so there may be cases where a brief water leak is detected but no notification is received due to splashing or something like that. Please refer to the link below to test your device and see if there is any issue with it.
+https://support.switch-bot.com/hc/en-us/articles/28199405040791-How-to-Test-and-Verify-SwitchBot-Water-Leak-Detector-Alerts-and-Notifications
+4. If the issue persists, we will forward your feedback to our R&D team for further investigation. We would apprecaite it if you could provide with the following information:
+  1. Photos showing the installation environment of the device
+  2. Screen recording confirming whether the alert functions in the app by pressing two metal sensors with your thumb for 20 seconds or more
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
