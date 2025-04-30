@@ -166,3 +166,13 @@ Hey Google, show my [Device Name].
 
 We regret to inform you that only one monitor can be connected to one doorbell at a time for security reasons. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
+
+---
+### Can I Lock My Lock Using the Monitor of SwitchBot Smart Video Doorbell?
+
+Unfortunately, locking your door lock directly through the monitor is not supported at this time. Here’s how you can use your Smart Video Doorbell to control your lock:
+1. Hold the NFC card against the doorbell to unlock the door.
+2. Press the "Electric Lock" button on the monitor to unlock the door. 
+3. For full control, open the SwitchBot app, select your Video Doorbell, tap "Features" at the bottom, then choose "Lock or Unlock" to secure or open your door.
+
+
