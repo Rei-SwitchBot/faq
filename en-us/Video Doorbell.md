@@ -176,3 +176,9 @@ Unfortunately, locking your door lock directly through the monitor is not suppor
 3. For full control, open the SwitchBot app, select your Video Doorbell, tap "Features" at the bottom, then choose "Lock or Unlock" to secure or open your door.
 
 
+---
+### Will My Echo Pop Ring When Someone Presses the Doorbell?
+
+Yes, when someone presses your doorbell, your linked Amazon Echo Pop will play the doorbell chime to alert you.
+Please note that speakers like Echo Pop or Dot only function as chime devices. They do not support two-way audio or video display. For features, including video display and conversation capability, please use an Echo Show.
+
