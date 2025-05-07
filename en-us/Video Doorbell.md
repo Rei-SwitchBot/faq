@@ -182,3 +182,24 @@ Unfortunately, locking your door lock directly through the monitor is not suppor
 Yes, when someone presses your doorbell, your linked Amazon Echo Pop will play the doorbell chime to alert you.
 Please note that speakers like Echo Pop or Dot only function as chime devices. They do not support two-way audio or video display. For features, including video display and conversation capability, please use an Echo Show.
 
+
+---
+### What Is the Storage Capacity of the Memory Card Included with SwitchBot Video Doorbell?
+
+SwitchBot Video Doorbell comes with a standard 4GB micro SD card. This allows you to store approximately 3,500 recorded events, assuming each event is about 10 seconds long. Once the SD card is full, the system will automatically overwrite the oldest recordings to save new ones.
+If you prefer more storage, the Video Doorbell supports micro SD cards with up to 512GB capacity. For the best performance, make sure to use a card that does not exceed this limit.
+
+
+---
+### Do I Get a Notification on My Cell Phone When Someone Rings the Doorbell?
+
+Yes, when someone rings your doorbell, the real-time video from the doorbell is automatically displayed on the monitor and you will also receive notifications on your smartphone. It takes about 3 seconds* for the notification to reach your smartphone.
+Note:
+Depending on the network environment, notifications may take some time to reach your smartphone.
+
+---
+### Do I Still Need to Charge the Doorbell If the Doorbell and Monitor Are Connected with Low-Voltage Lines? (Only for Japan)
+
+No, once you've connected your doorbell to the monitor using low-voltage wiring, regular charging is no longer needed. The monitor will provide continuous power to the doorbell through this connection.
+Please note: For this setup to work, the monitor must remain plugged into a power source at all times.
+
