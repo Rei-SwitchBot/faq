@@ -9599,3 +9599,12 @@ Way to check the automation logs: SwitchBot App -> "Automation" at the bottom of
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Which SwitchBot Products Work with Homey?
+
+To see the full list of SwitchBot devices compatible with Homey, please visit Homey’s official integration page for SwitchBot:
+
+Homey App – SwitchBot Integration: https://homey.app/en-us/app/com.switchbot/SwitchBot/
+
+This page is maintained by Homey and reflects their latest supported products. If you’re unsure whether your specific SwitchBot device is compatible, we suggest contacting Homey Support directly for confirmation.
+
