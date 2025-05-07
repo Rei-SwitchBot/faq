@@ -203,3 +203,13 @@ Depending on the network environment, notifications may take some time to reach 
 No, once you've connected your doorbell to the monitor using low-voltage wiring, regular charging is no longer needed. The monitor will provide continuous power to the doorbell through this connection.
 Please note: For this setup to work, the monitor must remain plugged into a power source at all times.
 
+
+---
+### Will the Live Video From the Doorbell Automatically Show Up on My Google Nest Hub When Someone Rings the Doorbell?
+
+We regret to inform you that our video doorbell does not support live video display or chime notifications on Google Nest Hub when the doorbell is pressed.
+Note:
+This feature is available on Amazon Echo Show devices.
+Due to Google’s platform restrictions, including the video doorbell, all SwitchBot devices cannot be set as a trigger for Google Routines. For more information, we recommend contacting Google Support directly.
+We truly appreciate your feedback and will internally review this limitation for potential improvements in future products. Thank you for your understanding.
+
