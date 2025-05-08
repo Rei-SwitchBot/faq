@@ -213,3 +213,16 @@ This feature is available on Amazon Echo Show devices.
 Due to Google’s platform restrictions, including the video doorbell, all SwitchBot devices cannot be set as a trigger for Google Routines. For more information, we recommend contacting Google Support directly.
 We truly appreciate your feedback and will internally review this limitation for potential improvements in future products. Thank you for your understanding.
 
+
+
+---
+### Troubleshooting Cannot Insert the SD Card to the Monitor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app → video doorbell → gear icon → local storage.
+If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
+If you still cannot insert the SD card all the way into the card slot, to determine if there is a device malfunction, could you provide us with videos showing that the SD card cannot be inserted?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
