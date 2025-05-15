@@ -1808,7 +1808,7 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 1. Remove the robot's faceplate and restart it.
 2. Remove the rubber brush from the S10 and check for any debris. Hair or other materials may become tangled around the bearing of the rubber brush. If necessary, clean it thoroughly. Also, if you have a spare main brush, try replacing it to see if the error message is resolved.
 3. Run your S10 without attaching the rubber brush and check if the "my anti tangle brush seems to be stuck" error still appears.
-4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+4. If the issue persists after completing the above steps, to determine if your robot needs to be replaced or repaired, could you kindly provide the following:
 - A screenshot of the error message related to the rubber brush issue.
 - A video with sound capturing the "my anti tangle brush seems to be stuck" error message being announced.
 
