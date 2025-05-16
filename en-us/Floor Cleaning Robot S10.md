@@ -1747,7 +1747,7 @@ Way to open the waste filter cover: Hold the main body of the water station with
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
-2. Remove the dust box and then replace it.
+2. Remove the dust box and then reinsert it.
 3. If the issue persists, to determine if your robot needs to be replaced or repaired, could you kindly provide with the following information:
 - A screenshot showing the error message notificaiton
 - A video demonstrating voice broadcasting
