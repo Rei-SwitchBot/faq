@@ -31,4 +31,8 @@ Tap your Keypad Vision.
 Tap "Pair".
 Complete the pairing according to the on-screen instructions.
 
+---
+### Why Is Facial Recognition Registration Unsuccessful When I Have a Beard?
+
+We sincerely apologize for the inconvenience. Currently, facial registration may occasionally be affected by facial hair conditions. Our R&D team is actively working to optimize the system, but the improvement may take some time. We truly appreciate your patience and understanding during this process.
 
