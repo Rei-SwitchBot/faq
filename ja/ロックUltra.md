@@ -1,9 +1,12 @@
 ---
 
-## Hub 3
+## ロックUltra
 
 ---
 
 ---
-### About the HEPA Filter in SwitchBot Air Purifier
+### ロックUltraをロックと一緒に使ってツインロックに設定することはできますか
+
+ロックUltraはロック、または、ロックProとは違うバージョンの製品となりますので、ツインロックとして設定することができかねます。
+
 
