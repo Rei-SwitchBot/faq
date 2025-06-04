@@ -176,4 +176,13 @@ After successful synchronization, you can view and control the devices on the Hu
 Note:
 15 Bluetooth communication devices: 12 SwitchBot devices + 3 Bluetooth remote controls
 
+---
+### How to Use the Buttons of SwitchBot Hub 3 to Control Other Brands Product in Apple Home (Video)
+
+1. Please add Hub 3 and products from other brands* to the Apple Home App in advance.
+2. Using the automation feature of Apple Home can achieve this goal, please refer to the video below.
+Note:
+Please consult the corresponding brand's customer service for information on how to add other brand products to Apple Home.
+Video: https://youtu.be/RtuDIwddU2Y
+
 
