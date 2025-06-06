@@ -1889,3 +1889,8 @@ There is a time delay between the temperature and humidity data in the widget co
 
 Apple hasn’t officially specified how often widgets refresh their data. However, we can confirm that when the SwitchBot App is open, the iOS widget updates the temperature and humidity data approximately every 5 minutes. Since the SwitchBot Meter collects data every 4 seconds and saves it every minute, there may be a slight delay between what you see in the widget and the actual readings in the app or on the device itself. We apologize for any inconvenience this might cause and appreciate your understanding.
 
+---
+### Can I View CO2 Readings in Apple Home App?
+
+If you sync your CO2 Monitor to Apple Home via Hub 2 or Hub Mini Matter, the app will not display CO2 readings or air quality data. However, if connected through Hub 3, you can view air quality metrics in the Apple Home app.
+
