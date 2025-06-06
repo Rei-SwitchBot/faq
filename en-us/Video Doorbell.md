@@ -226,3 +226,10 @@ If you still cannot insert the SD card all the way into the card slot, to determ
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Can I Use SwitchBot Smart Video Doorbell to Operate Dual-Lock?
+
+Yes, you can use the video doorbell to control a single lock or dual-lock.
+Note: 
+Lock, Lock Pro and Lock Ultra can all be operated by the video doorbell.
+
