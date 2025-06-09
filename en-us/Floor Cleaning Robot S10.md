@@ -3042,4 +3042,18 @@ Regarding the robot radar blockage error, could you please check the following p
 
 
 
+---
+### Can I Use SwitchBot Floor Cleaning Robot S10 Overseas?
+
+The S10 robot has region-specific voltage specifications:
+- Japan: 100V~ 50/60Hz
+- North America: 120V~ 60Hz
+- Europe: 220–240V~ 50/60Hz
+- Taiwan: 120V~ 60Hz
+
+To safely use your S10 abroad, you need to buy a model that matches the voltage of your destination or use a voltage transformer with your current unit. Failure to convert the voltage properly could cause the vacuum's auto-empty station to short-circuit.
+
+Note:
+If you plan to bring the robot vacuum cleaner on a plane, check with the airline or airport staff about its built-in lithium battery.
+
 
