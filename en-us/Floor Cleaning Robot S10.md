@@ -3057,3 +3057,37 @@ Note:
 If you plan to bring the robot vacuum cleaner on a plane, check with the airline or airport staff about its built-in lithium battery.
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Not Sucking the Dirty Water After Mopping
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Remove the robot's faceplate and restart it.
+
+2. Make sure that the drain hose is properly installed.
+
+3. Make sure that the drain hose is not damaged or folded.
+
+4. Make sure that the water station's auto-drain port is attached and undamaged.
+
+![image](https://github.com/user-attachments/assets/044c10fb-6f58-4bf1-b7c1-86d49e8f012d)
+
+5. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
+
+![image](https://github.com/user-attachments/assets/29a3239a-63d3-4731-bd9b-fdac72719b1c)
+
+6. Please check if the waste water box is full or empty. 
+
+7. Manually clean the waste water box.
+
+8. Open the waste filter cover on the Water Station and then clean the waste filter.
+
+Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
+
+![image](https://github.com/user-attachments/assets/316c0001-38cc-43f2-ae74-341bcc7dd963)
+
+9. We will forward your feedback to our R&D team for further assistance. If possible, please provide us with the following information:
+- Remove the waste water box and take a photo for us
+- A video showing the robot not being able to drain water
+
+
+
