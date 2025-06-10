@@ -185,4 +185,27 @@ Note:
 Please consult the corresponding brand's customer service for information on how to add other brand products to Apple Home.
 Video: https://youtu.be/RtuDIwddU2Y
 
+---
+### How to Display Local Weather on SwitchBot Hub 3 Screen
 
+Set the Weather Forecast for your Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Displayed Info".
+- Enable "Weather Data".
+SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 is located -> Set up home location
+Once completed, the Hub 3 will update the weather forecast for the next 12 hours every 12 hours starting from the time it was added to the app. This includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
+
+---
+### How Often Is the Local Weather on SwitchBot Hub 3 Screen Updated?
+
+1. You can set the Weather Forecast for your Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Displayed Info".
+- Enable "Weather Data".
+- SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 is located -> Set up home location
+2. Once completed, the Hub 3 will update the weather forecast for the next 12 hours every 12 hours starting from the time it was added to the app. This includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
+
+
+  
