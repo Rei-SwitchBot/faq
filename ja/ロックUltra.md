@@ -18,3 +18,9 @@
 
 ![image](https://github.com/user-attachments/assets/6344b839-f955-4ccb-be8f-6f2dbd4c5684)
 
+---
+### ロックUltraをツインロックに設定して使用できますか
+
+二台の日本バージョンのロックUltraをツインロックに設定することが可能です。
+
+
