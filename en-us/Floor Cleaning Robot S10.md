@@ -2325,7 +2325,7 @@ Note: The S10 can store a maximum of 5 maps, each with one water station configu
 
 Yes, the S10 supports Matter. You can sync it to either the Apple Home app or Google Home app as a secondary device through a Hub 2 or Hub Mini Matter. This lets you control cleaning and recharging from either app.
 With firmware version 1.0.984 or later, the S10 works directly with Matter as a standalone device. This means you can add it straight to your Apple Home app to control mapping, start cleaning, and check standby status. Currently, room-specific cleaning isn't available as the S10 supports Matter 1.2 features, and we're working on adding Matter 1.4 support in future updates.
-Important note: Google Home app is not yet compatible with the device type of robot vacuum cleaner, so the S10 cannot be used with the Google Home app via mater. For more information, we recommand contacting Google directly.
+The Google Home app now supports the "robot vacuum cleaner" device type. Connect your Google Home hub and the S10 robot to the same 2.4 GHz network , then add it to the Google Home app using Matter. Also, since the S10 is compatible with Matter V1.2 specifications, some features may not be available yet. Thank you for your understanding.
 
 
 ---
@@ -3105,4 +3105,12 @@ Way to open the waste filter cover: Hold the main body of the water station with
 - A video showing the robot not being able to drain water
 
 
+---
+### Can SwitchBot Floor Cleaning Robot S10 Be Added to Home Assistant?
+
+Currently, the S10 does not support integration with Home Assistant through SwitchBot Cloud. If you try to add it via Cloud, the device won't be detected.
+
+To add the S10 through Home Assistant, you'll need to use SwitchBot Bluetooth mode instead. This requires your Home Assistant setup to have a compatible Bluetooth module for proper pairing and control.
+
+If you run into issues setting up via Bluetooth or Matter, feel free to reach out to our support team for help.
 
