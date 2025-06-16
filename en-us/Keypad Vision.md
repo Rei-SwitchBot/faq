@@ -55,3 +55,43 @@ If you experience any battery issues like charging failure or abnormal power dra
 
 The button at the bottom of the Keypad Vision can be customized in the SwitchBot app's button settings screen. When selecting the doorbell function, you can specify either an added Lock Ultra or Hub 3 in your account, and pressing the button will make a chime sound from your Lock Ultra or Hub 3.
 Setting up the button by going to SwitchBot App -> Keypad Vision -> Gear Icon -> Button Settings -> Rings -> Paired Device
+
+---
+### Troubleshooting SwitchBot Keypad Vision Won't Power on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please charge the Keypad Vision for over an hour.
+2. Please turn on the power button located on the back of the Keypad Vision.
+3. To determine if your Keypad Vision needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  1. Video of Keypad Vision not responding when the power switch is turned on
+
+4. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Keypad Vision Battery Drains Very Quickly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please update the firmware of your Keypad Vision to V1.4* to see if it helps.
+*If you have not received the latest firmware version, please feel feel to contact our support team.
+If the issue persists, we would appreciate it if you could submit a feedback though the SwitchBot App. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
