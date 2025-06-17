@@ -116,3 +116,55 @@ Regarding this issue, could you please check the following points?
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### What Charging Adapter Should I Use to Charge SwitchBot Keypad Vision?
+
+Please use a 5V2A charging adapter for the Keypad Vision. 
+It takes about 6 hours to fully charge the Keypad Vision. While charging, the indicator will light up in red and change to green when charging is complete. If an adapter below specifications (for example, 5V1A) is used, the indicator on the device will flash alternately between red and green to indicate a charging abnormality.
+
+
+
+---
+### Troubleshooting Facial Recognition of Keypad Vision Doesn't Work During Charging.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When Keypad Vision is connected to power, both face registration and recognition features are temporarily unavailable. This is a proactive safety precaution we've implemented to prevent extremely rare cases where simultaneous charging and facial recognition processing could potentially create electrical conflicts.
+Rest assured, this limitation is purely temporary. Full functionality will automatically restore as soon as charging completes, you'll know it's ready when the indicator light turns green. We recommend using your passcode, fingerprint, or NFC card for uninterrupted access while charging.
+We want to emphasize that this design choice was made with your long-term product safety and reliability in mind. We understand that this may sometimes be inconvenient, but we appreciate your patience and understanding. Please rest assured that we will take your feedback into consideration for future product improvements.
+If you have any other questions or need assistance, our support team is always here to help.
+
+
+---
+### How Long Does It Take to Fully Charge SwitchBot Keypad Vision?
+
+It takes about 6 hours to fully charge the Keypad Vision.
+While charging, the indicator will light up in red and change to green when charging is complete. 
+Please use a 5V2A charging adapter for the Keypad Vision. 
+
+
+---
+### Troubleshooting Cannot Add SwitchBot NFC Card Which Has Already Been Added to the Keypad Touch to SwitchBot Keypad Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please hold the NFC card horizontally against the Keypad Vision's reading area (indicated by the NFC symbol).
+Below is the Suica card, but the method for adding other NFC cards is the same.
+
+![image](https://github.com/user-attachments/assets/b8490f88-9ace-48c3-9a15-f91f68137f8d)
+
+2. If the issue persists, to better understand the situation, we would appreciate it if you could share a video showing the problem. 
+  1. A video showing the Keypad Vision indicator lamp status while scanning SwitchBot NFC card.
+
+3. Also, if additional service replacement is required, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
