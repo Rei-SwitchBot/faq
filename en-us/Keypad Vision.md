@@ -95,3 +95,24 @@ If the issue persists, we would appreciate it if you could submit a feedback tho
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Troubleshooting SwitchBot Keypad Vision's Face Recognition Failed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you are wearing a beard, it might occasionally affect recognition accuracy. We are enhancing our facial recognition algorithm in the upcoming firmware update (expected in approximately 2 months). Thank you for your understanding!
+
+2. Direct sunlight on the device or your face (including backlight situations) can mess with recognition. Try installing it on the side of your doorframe using the included A+B mounting plates to see if it helps.
+
+![image](https://github.com/user-attachments/assets/624177d0-e393-44d3-9581-87bb561a9142)
+
+3. For optimal facial recognition performance when wearing glasses, sunglasses, helmets or hats, we recommend registering your face twice - once while wearing these items and once without. Similarly, please create separate facial profiles for daytime and nighttime conditions to ensure reliable recognition in different lighting environments. 
+
+4. If your kids are having trouble with face recognition, try having them stand about 80–90 cm (31–35 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.3 meters (4.3 feet), which works well for both adults and kids. If needed, you can also try increasing the recognition sensitivity in the settings for better results.
+
+5. If the issue persists, to determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  1. A video showing whether the infrared light blinks during recognition
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
