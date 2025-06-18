@@ -108,7 +108,7 @@ Regarding this issue, could you please check the following points?
 
 3. For optimal facial recognition performance when wearing glasses, sunglasses, helmets or hats, we recommend registering your face twice - once while wearing these items and once without. Similarly, please create separate facial profiles for daytime and nighttime conditions to ensure reliable recognition in different lighting environments. 
 
-4. If your kids are having trouble with face recognition, try having them stand about 80–90 cm (31–35 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.3 meters (4.3 feet), which works well for both adults and kids. If needed, you can also try increasing the recognition sensitivity in the settings for better results.
+4. If your kids are having trouble with face recognition, try having them stand about 90–100 cm (35–39 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.2 meters (47 inches), which works well for both adults and kids. If needed, you can also try increasing the recognition sensitivity in the settings for better results.
 
 5. If the issue persists, to determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
   1. A video showing whether the infrared light blinks during recognition
