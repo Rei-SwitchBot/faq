@@ -171,7 +171,7 @@ Below is the Suica card, but the method for adding other NFC cards is the same.
 
 
 ---
-### How to Add the Suika Transportation Card to SwitchBot Keypad Vision (Only for Japan)
+### How to Add the Suica Transportation Card to SwitchBot Keypad Vision (Only for Japan)
 
 Physical transportation card
 Launch SwitchBot App and log in.
@@ -193,7 +193,7 @@ Go to SwitchBot App -> Keypad Vision -> NFC card in the center right -> "+" icon
 ![image](https://github.com/user-attachments/assets/8c1de01b-3505-4593-ac47-955433349c77)
 
 Note: 
-The iPhone Wallet app allows you to add ICOCA, Suika and PASMO in Japan. The above illustration is for ICOCA, but the method to turn other transportation cards into express transit card is the same.
+The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. The above illustration is for ICOCA, but the method to turn other transportation cards into express transit card is the same.
 
 
 ---
