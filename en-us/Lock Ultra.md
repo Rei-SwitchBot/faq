@@ -81,20 +81,5 @@ During charging, the backup battery will be automatically activated, and the aut
 ![image](https://github.com/user-attachments/assets/5bdf02f5-2a5a-45bd-b558-c2cc9cc809ba)
 
 
----
-### Is It Possible to Purchase the Rechargeable Battery for SwitchBot Lock Ultra Separately?
-
-We regret to inform you that the rechargeable battery for Lock Ultra is not sold separately at the moment. However, we're happy to provide the rechargeable battery at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request the battery, please contact us and we'll provide a shipping quote.
-Also, to help us arrange the shipment quickly, please provide the following details:
-Purchase channel
-Order ID
-Recipient's full name
-Phone number
-Country
-Street address
-City
-State/Province
-ZIP/Postal Code
-A screenshot of your order
 
 
