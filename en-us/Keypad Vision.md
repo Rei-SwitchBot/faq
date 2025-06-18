@@ -168,3 +168,46 @@ Below is the Suica card, but the method for adding other NFC cards is the same.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
+
+
+---
+### How to Add the Suika Transportation Card to SwitchBot Keypad Vision (Only for Japan)
+
+Physical transportation card
+Launch SwitchBot App and log in.
+Tap your Keypad Vision.
+Tap the NFC card in the center right.
+Tap the "+" icon.
+Select the card type.
+Hold the card over the detection area of the Keypad Vision to register it.
+
+
+Electronic transportation card
+Add the e-card in advance via the Wallet App on your smartphone.
+Tap the appropriate card, then tap "..." in the upper right corner. 
+Tap "Card Details".
+Tap "Espress Transit Settings". 
+Turn on "Express Transit Card".
+Go to SwitchBot App -> Keypad Vision -> NFC card in the center right -> "+" icon -> Card Type -> Hold your smartphone over the detection area of the Keypad Vision to register it.
+
+![image](https://github.com/user-attachments/assets/8c1de01b-3505-4593-ac47-955433349c77)
+
+Note: 
+The iPhone Wallet app allows you to add ICOCA, Suika and PASMO in Japan. The above illustration is for ICOCA, but the method to turn other transportation cards into express transit card is the same.
+
+
+---
+### My NFC card is a third-party card, not SwitchBot's NFC card, so I cannot add this card to Keypad Vision.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please hold the NFC card horizontally against the Keypad Vision's reading area (indicated by the NFC symbol).
+Below is the Suica card, but the method for adding other NFC cards is the same.
+
+![image](https://github.com/user-attachments/assets/a8d3e9aa-20fc-475f-ae3e-22d425974f59)
+
+2. If the issue persists, we would appreciate it if you could share the following information. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
+  1. A video showing the Keypad Vision indicator lamp status while scanning the NFC card.
+  2. A Phone of your NFC card.
+
+
