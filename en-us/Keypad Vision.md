@@ -55,6 +55,7 @@ If you experience any battery issues like charging failure or abnormal power dra
 
 The button at the bottom of the Keypad Vision can be customized in the SwitchBot app's button settings screen. When selecting the doorbell function, you can specify either an added Lock Ultra or Hub 3 in your account, and pressing the button will make a chime sound from your Lock Ultra or Hub 3.
 Setting up the button by going to SwitchBot App -> Keypad Vision -> Gear Icon -> Button Settings -> Rings -> Paired Device
+Please enable Quick Unlocking feature by going to SwitchBot app -> Keypad Vision -> Gear icon to communicate faster with Ultra or Hub 3.
 
 ---
 ### Troubleshooting SwitchBot Keypad Vision Won't Power on
@@ -89,9 +90,11 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-Please update the firmware of your Keypad Vision to V1.4* to see if it helps.
+1. Make sure tigger face recognition has been set to manual. If set to automatic, face recognition will be activated just by passing in front of the device, increasing battery consumption.
+Setting method: Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Tigger Face Recognition -> Manual
+2. Please update the firmware of your Keypad Vision to V1.4* to see if it helps.
 *If you have not received the latest firmware version, please feel feel to contact our support team.
-If the issue persists, we would appreciate it if you could submit a feedback though the SwitchBot App. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
+3. If the issue persists, we would appreciate it if you could submit a feedback though the SwitchBot App. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
