@@ -198,6 +198,6 @@ B. お持ちのロックUltraの台数に合わせて、サムターンホルダ
 
 3．必要なパーツが揃ったら、ロックUltraを取り付ける際に、下図赤印で示された部品を外してください。
 
-![image](https://github.com/user-attachments/assets/efc11e32-299e-4246-8eba-6e1ec966e40e)
+![image](https://github.com/user-attachments/assets/4dafcb1d-8ed0-42a7-a643-2152a8e8e450)
 
 ほかにご不明な点などがございましたら、お気軽にご連絡ください。
