@@ -82,4 +82,9 @@ During charging, the backup battery will be automatically activated, and the aut
 
 
 
+---
+### Which Type of Double-Sided Tape Should I Buy for Lock Ultra?
+
+Both 3M 4910 and GPH110 specifications of double-sided tape can be used with Lock Ultra.
+
 
