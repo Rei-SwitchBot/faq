@@ -174,7 +174,7 @@ Below is the Suica card, but the method for adding other NFC cards is the same.
 
 
 ---
-### How to Add the Suica Transportation Card to SwitchBot Keypad Vision (Only for Japan)
+### How to Add the Suica Transportation Card to SwitchBot Keypad Vision  (iOS)
 
 Physical transportation card
 Launch SwitchBot App and log in.
