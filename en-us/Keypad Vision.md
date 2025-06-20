@@ -197,6 +197,7 @@ Go to SwitchBot App -> Keypad Vision -> NFC card in the center right -> "+" icon
 
 Note: 
 The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. The above illustration is for ICOCA, but the method to turn other transportation cards into express transit card is the same.
+There are currently no compatible European or American transit cards in the SwitchBot Lab data. As a temporary solution, you can add a Japanese transportation card in the Wallet app to achieve smartphone attachment Keypad Vision unlocking.
 
 
 ---
