@@ -208,4 +208,36 @@ Once completed, the Hub 3 will update the weather forecast for the next 12 hours
 2. Once completed, the Hub 3 will update the weather forecast for the next 12 hours every 12 hours starting from the time it was added to the app. This includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
 
 
-  
+---
+### How Often Is the Local Weather on SwitchBot Hub 3 Screen Updated?
+
+1. Yes, the infrared remotes learned on Hub 2, Hub Mini, etc. can be transferred to Hub 3. Please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-Learned-Infrared-Remotes-From-One-Hub-Mini-to-Another
+2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
+3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
+
+
+---
+### How Often Is the Local Weather on SwitchBot Hub 3 Screen Updated?
+
+1. Yes, the infrared remotes learned on Hub 2, Hub Mini, etc. can be transferred to Hub 3. Please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-Learned-Infrared-Remotes-From-One-Hub-Mini-to-Another
+2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
+3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
+
+
+---
+### How to Display the Clock on the Screen of Hub 3 When on Standby
+
+Display the clock on Hub 3's screen in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap the gear icon (settings screen).
+- Tap "Device Settings".
+- Scroll down and activate the "standby screen" option.
+- Set a standby time.
+- Select the clock.
+
+![image](https://github.com/user-attachments/assets/4f7a3927-dad5-41ff-8e5c-fcb7b2ed9f70)
+
+
