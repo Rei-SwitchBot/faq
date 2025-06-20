@@ -3627,3 +3627,8 @@ Reset video: https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/v
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### What Is the Effective Aisle Width for SwitchBot Mini Robot Vacuum K10+ Pro?
+
+The optimal aisle width for the K10+ Pro is 30cm.
+
