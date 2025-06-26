@@ -88,3 +88,10 @@ During charging, the backup battery will be automatically activated, and the aut
 Both 3M 4910 and GPH110 specifications of double-sided tape can be used with Lock Ultra.
 
 
+---
+### How to Set up SwitchBot Lock Ultra Night Latch
+
+The night latch feature is only available in the EU version of Lock Ultra. If you have purchased the US version and want to use this feature, switch to the EU version in the SwitchBot App by going to Lock Ultra -> Gear Icon -> Basic Settings -> Door Lock Type. 
+
+Setup Guide: https://youtu.be/GIdd9iFllDA
+
