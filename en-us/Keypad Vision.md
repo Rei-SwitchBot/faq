@@ -64,26 +64,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please charge the Keypad Vision for over an hour.
 2. Please turn on the power button located on the back of the Keypad Vision.
-3. To determine if your Keypad Vision needs to be replaced or repaired, could you kindly provide a short video showing the issue?
-  1. Video of Keypad Vision not responding when the power switch is turned on
-
-4. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
----
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
----
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Keypad Vision Battery Drains Very Quickly
@@ -110,10 +90,7 @@ Regarding this issue, could you please check the following points?
 
 4. If your kids are having trouble with face recognition, try having them stand about 90–100 cm (35–39 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.2 meters (47 inches), which works well for both adults and kids. If needed, you can also try increasing the recognition sensitivity in the settings for better results.
 
-5. If the issue persists, to determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
-  1. A video showing whether the infrared light blinks during recognition
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+5. Please update the firmware to V1.5 and set the face recognition sensitivity to high if automatic face recognition activation does not work and manual activation is possible for authentication. 
 
 
 ---
@@ -152,22 +129,6 @@ Regarding this issue, could you please check the following points?
 Below is the Suica card, but the method for adding other NFC cards is the same.
 
 ![image](https://github.com/user-attachments/assets/b8490f88-9ace-48c3-9a15-f91f68137f8d)
-
-2. If the issue persists, to better understand the situation, we would appreciate it if you could share a video showing the problem. 
-  1. A video showing the Keypad Vision indicator lamp status while scanning SwitchBot NFC card.
-
-3. Also, if additional service replacement is required, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
 
 
 ---
@@ -220,4 +181,105 @@ Regarding this issue, could you please check the following points?
 1. If you lock the door without using the Keypad Vision, the Lock status will not sync automatically with it. This means that setting a sleep period on the Keypad Vision won't work, and the Lock will unlock when your face is scanned.
 2. To enable communication between the Keypad Vision and the lock product, go to the SwitchBot App -> Keypad Vision -> Gear Icon -> Turn on Quick Unlocking. This setting ensures that after manually locking the door, the status will be synced to the Keypad Vision via Bluetooth. Your Lock will not unlock during sleep mode, even if your face is scanned.
 3. If the problem persists, temporarily set the face recognition method to manual by navigating to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition. The SwitchBot app V9.13 and firmware V15, scheduled for release at the end of March, will allow you to customize the time of day when you set the facial recognition activation method to automatic. We appreciate your patience and understanding.
+
+
+---
+### Troubleshooting Cannot Add Non-SwitchBot NFC Card to SwitchBot Keypad Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please hold the NFC card horizontally against the Keypad Vision's reading area (indicated by the NFC symbol).
+Below is the Suica card, but the method for adding other NFC cards is the same.
+
+![image](https://github.com/user-attachments/assets/7d400f2a-9580-459d-a560-ec4da606df2b)
+
+
+---
+### Troubleshooting SwitchBot Keypad Vision's Face Registration Failed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you are wearing a beard, it might occasionally affect registration accuracy. We are enhancing our facial registration algorithm in the upcoming firmware update (expected in approximately 2 months). Thank you for your understanding!
+
+2. Direct sunlight on the device or your face (including backlight situations) can mess with registration. Try installing it on the side of your doorframe using the included A+B mounting plates to see if it helps.
+
+![image](https://github.com/user-attachments/assets/32ed5ffc-14d6-4cdd-8f1c-8cc7285e7147)
+
+3. When wearing glasses, sunglasses, hats, or helmets, please expose your face as much as possible. There is a possibility of registration failure if it is too tightly hidden.
+
+4. If your kids are having trouble with face registration, try having them stand about 90–100 cm (35–39 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.2 meters (47 inches), which works well for both adults and kids. If needed, you can also try increasing the registration sensitivity in the settings for better results.
+
+5. Please do not wear a mask when registering faces.
+
+
+---
+### Troubleshooting the Lock Was Unlocked Again After Being Scanned by SwitchBot Keypad Vision When I Locked It with a Key.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you lock the door without using the Keypad Vision, the Lock status will not sync automatically with it. This means that setting a sleep period on the Keypad Vision won't work, and the Lock will unlock when your face is scanned.
+2. To enable communication between the Keypad Vision and the lock product, go to the SwitchBot App -> Keypad Vision -> Gear Icon -> Turn on Quick Unlocking. This setting ensures that after manually locking the door, the status will be synced to the Keypad Vision via Bluetooth. Your Lock will not unlock during sleep mode, even if your face is scanned.
+3. If the problem persists, consider setting activation times for your Keypad Vision by navigating to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition -> Custom (required SwitchBot app V9.13 and firmware V15). Once you set a custom activation time, the Keypad Vision will automatically activate when your face is scanned during that time. Outside this specified time, you will need to manually activate the device.
+
+---
+### Troubleshooting the Lock Was Unlocked Again After Being Scanned by SwitchBot Keypad Vision When I Locked It with a Key.
+
+Electronic transportation card
+Add the e-card in advance via the Wallet App on your Apple Watch.
+Tap the appropriate card, then tap "..." in the upper right corner. 
+Tap "Card Details".
+Tap "Espress Transit Settings". 
+Turn on "Express Transit Card".
+Go to SwitchBot App -> Keypad Vision -> NFC card in the center right -> "+" icon -> Card Type -> Hold your Apple Watch over the detection area of the Keypad Vision to register it.
+After registering, you can unlock your door by holding your smartwatch against the Keypad Vision.
+
+
+Note: 
+The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. 
+There are currently no compatible European or American transit cards in the SwitchBot Lab data. As a temporary solution, you can add a Japanese transportation card in the Wallet app to achieve smartwatch attachment Keypad Vision unlocking.
+
+---
+### How to Set SwitchBot Keypad Vision to Automatically Wake Up at a Specific Time
+
+1. You can set your Keypad Vision to automatically wake up at a specific time in the following order:
+Launch SwitchBot App and log in.
+Tap your Keypad Vision.
+Tap the gear icon in the upper right corner.
+Tap "Face Entry Settings".
+Tap "Trigger Face Recognition".
+Tap "Custom".
+Tap "Add".
+Set the activation time period as needed.
+
+Note:
+Up to ten activation times can be set.
+Once you set a custom activation time, the Keypad Vision will automatically activate when your face is scanned during that time. Outside this specified time, you will need to manually activate the device.
+
+
+---
+### What Is the QR Code on the Side of SwitchBot Keypad Vision Used For?
+
+Scanning the QR code on Keypad Vision's side allows you to verify the device's MAC address. This information is used for factory production management and does not require any special operations or settings for customer use.
+
+
+---
+### What Do the Different Colored Indicator Lights on Keypad Vision Mean?
+
+We'll explain what each indicator color represents.
+Green:
+- Charging is complete
+- Successful face, fingerprint or NFC card registration
+- Successful door locking/unlocking
+- Someone pressed the doorbell button at the bottom of the Keypad Vision
+
+Red:
+- Device is currently charging
+- Low battery warning
+- Failed face, fingerprint or NFC card registration
+- Unsuccessful door locking/unlocking attempt
+
+
+White:
+- Device wakeup process
+- Firmware updating
 
