@@ -439,29 +439,24 @@ Related Products: SwitchBot Floor Cleaning Robot S10
 ---
 ### How to Re-pair the Floor Cleaning Robot S10 with the Water Station
 
-Last Updated：
-
-2024 Aug 29
-
-Related Products: SwitchBot Floor Cleaning Robot S10
-
-1. Make sure that the S10 is powered on by removing the main unit's faceplate and switching the power to I. If the S10 does not turn on, dock it at the auto-empty station and  for 30 minutes.
-
+1. Make sure that the S10 is powered on by removing the main unit's faceplate and switching the power to I.  If the S10 does not turn on, dock it at the auto-empty station and charge for 30 minutes.
 2. Manually dock the S10 to the water station and make sure the charging terminals are fully contacted.
-
 3. Press and hold the Bluetooth button on the side of the water station for 6 seconds. If the water station indicator is not flashing, recharge it using a 5V3A adapter for 0.5 hours.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25122838663447)
+![image](https://github.com/user-attachments/assets/34bcec54-3be0-4910-a34a-204ed65df1fd)
 
 4. Press the home button on the main unit of the S10 for 6 seconds, and you will hear a voice from the S10 saying, "Entering Bluetooth pairing mode".
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25122885546647)
+![image](https://github.com/user-attachments/assets/2b4fa071-03b3-4ec9-b001-e6961eebddf9)
 
 5. Wait 10 to 20 seconds, then the S10 will announce the success of Bluetooth pairing.
-
-6. If pairing fails, restart the S10 and try again following the steps above.
-
-
+6. If pairing fails, please check the following:
+  1. Restart the S10 and try the above steps again.
+  2. Clean the charging terminals of the S10 and the water station with tissue paper. 
+  3. If pairing is successful, please update the firmware of the water station to the latest version by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery -> Water Station
+  4. If pairing or communication failure still occurs, please provide us with the following information so that our R&D team can investigate.
+    1. A picture of the MAC address on the back of the water station
+    2. A video showing the S10 failing to dock at the water station
 
 ---
 ### How to Reset SwitchBot Floor Cleaning Robot S10
