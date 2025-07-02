@@ -568,3 +568,13 @@ Rest assured, there is no issue. The built-in lithium battery remains unaffected
 3. With the AC power cable plugged in, press and hold the power button on the Circulator Fan control panel for 15 seconds to reset it.
 
 4. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When reaching out to us, please send us a video demonstrating the circulator fan not turning on after connecting the AC charging cable and pressing the power button for 15 seconds.
+
+
+
+---
+### Troubleshooting All Other Buttons Work Fine, but the Power Button of SwitchBot Circulator Fan Responds Very Slowly When Pressed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The power button is designed to prevent accidental operation. If the power button is touched improperly continuously, it will be judged as an accidental operation. In this case, wait 5 seconds and then touch the power button so that your finger covers the button as completely as possible.
+
