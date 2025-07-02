@@ -471,3 +471,19 @@ Air Purifier Table
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting Pet Hair Not Being Drawn into SwitchBot Air Purifier
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the pet hair not being drawn into the Air Purifier, could you please check the following points?
+1. Set the air purifier to Pet Mode, then check if it draws in air by holding a tissue near the vent as shown in the image below. If the tissue is pulled in, the unit is functioning normally.
+
+![image](https://github.com/user-attachments/assets/ae713a2e-3542-4812-8e36-c7fbde329093)
+
+2. While the air purifier can capture floating pet hair, its structure differs from a vacuum cleaner, so it cannot fully pick up hair in your home. We appreciate your understanding and recommand checking the pre-filter after two or three months of use.
+
+![image](https://github.com/user-attachments/assets/e2c909c9-9572-410f-8d63-0f4b65205140)
+
+
+
