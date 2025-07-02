@@ -95,3 +95,14 @@ The night latch feature is only available in the EU version of Lock Ultra. If yo
 
 Setup Guide: https://youtu.be/GIdd9iFllDA
 
+
+---
+### What Is the Smallest Unlocking and Locking Angle That SwitchBot Lock Ultra Can Support?
+
+Lock Ultra is compatible with entrance locks with a locking and unlocking rotation angle of 40 degrees or more. If you have any pre-purchase queries, please feel free to contact our support team.
+
+![image](https://github.com/user-attachments/assets/02614a54-434b-472b-b716-b724af2a40a4)
+
+
+
+
