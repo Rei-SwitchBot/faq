@@ -241,3 +241,38 @@ Display the clock on Hub 3's screen in the following order:
 ![image](https://github.com/user-attachments/assets/4f7a3927-dad5-41ff-8e5c-fcb7b2ed9f70)
 
 
+---
+### How to Recover the Firmware of SwitchBot Hub 3
+
+If your Hub 3 doesn't respond, or the firmware upgrade fails, try to recover the firmware of your Hub 3.
+- Unplug the Hub 3 power cord from the main unit.
+- Insert the power cord while holding down the Kata button on the Hub 3.
+- Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+Note: It takes approximately 15-30 minutes to complete the firmware recovery.
+
+![image](https://github.com/user-attachments/assets/2a2ae8a2-be47-4b43-94ac-46d2a4b7869f)
+
+---
+### How to Use the Button on SwitchBot Hub 3 to Control Other Brands Product in Apple Home (Video)
+
+1. Please add Hub 3 and products from other brands* to the Apple Home App in advance.
+2. Using the automation feature of Apple Home can achieve this goal, please refer to the video below.
+Note:
+- Please consult the corresponding brand's customer service for information on how to add other brand products to Apple Home.
+- The Google Home App does not support buttons, so controlling devices from other brands in Google Home with Hub 3 is not supported.
+Video: https://youtu.be/RtuDIwddU2Y
+
+
+---
+### Can Apple TV and Fire TV Paired to Hub 3 Be Operated on SwitchBot App?
+
+We regret to inform you that controlling Bluetooth remotes like Apple TV or Fire TV on the SwitchBot App is not available. You can only control them through the Hub 3 main body.
+
+
+
+---
+### Can Apple TV and Fire TV Paired to Hub 3 Be Used in SwitchBot Scene and Automation?
+
+We regret to inform you that Bluetooth remotes like Apple TV or Fire TV can not be used in SwitchBot Scene and Automation. Currently, you can only operate them through the Hub 3 main body.
+
+
