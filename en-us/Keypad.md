@@ -1623,3 +1623,39 @@ Regarding this issue, could you please check the following points?
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Keypad touch fingerprint function stops working
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the finger and fingerprint module are clean and dry. If there is dust or dirt on the fingerprint module, wipe it clean with a clean, lint-free soft cloth.
+2. If a particular finger cannot be recognized, try registering the fingerprint again.
+3. Try unlocking the Lock using other fingers.
+4. Please launch the SwitchBot application and deactivate the Keypad/Keypad Touch removal alert.
+SwitchBot App -> the Keypad/Keypad Touch -> Gear Icon -> Keypad Touch Removal Alerts -> disable the removal alerts.
+5. Remove the Keypad Touch.
+Video: https://youtube.com/shorts/a5qlr2iKTOo
+6. Reinsert the battery to see if it helps.
+7. Unpair the Keypad touch and Lock.
+8. Delete the Keypad touch then pair it with your Lock again.
+
+---
+### Troubleshooting Unable to Unlock SwitchBot Lock Using Fingerprints
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure both your finger and the fingerprint sensor are clean and dry. If necessary, gently wipe the sensor area with a soft cloth.
+2. Try registering a different finger then unlock your Lock.
+3. When unlocking with fingerprint, try using both light and firm pressure to complete the process.
+4. Remove and reinsert the batteries in the Keypad Touch, then try to unlock your Lock again.
+5. If a specific finger cannot unlock, please try registering your fingerprint again. Try enhancing fingerprint feature by re-adding the fingerprint that fails to unlock your Lock. Follow the guide below to set it up.
+
+![image](https://github.com/user-attachments/assets/f0600b57-df75-4377-b7e7-e2d0773c9da0)
+
+6. After unlocking the Lock with a passcode, press your finger against the fingerprint sensor and check if there is a sound and indicator light from the Keypad Touch.
+7. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, like one from your pinky finger, to unlock your Lock.
+
+
+
+
+
