@@ -3109,3 +3109,19 @@ To add the S10 through Home Assistant, you'll need to use SwitchBot Bluetooth mo
 
 If you run into issues setting up via Bluetooth or Matter, feel free to reach out to our support team for help.
 
+
+
+---
+### How to Use SwitchBot Floor Cleaning Robot S10 to Clean a Room not on the Map
+
+Same floor 
+Method 1: Go to SwitchBot App -> S10 -> Area, add this room as a cleaning area, and then start cleaning.
+Method 2: Manually bring the robot to the relevant room, close the door, and then start cleaning.
+Method 3 (recommended): Open the doors of all rooms on the floor and re-map the whole floor. Accurately mapping the rooms will make future cleaning more efficient.
+
+Different floors 
+Please take the robot to the appropriate floor and clean it manually using the link provided.
+
+https://support.switch-bot.com/hc/en-us/articles/32681888413463
+
+
