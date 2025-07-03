@@ -58,3 +58,55 @@ https://www.youtube.com/watch?v=o5413fr7R2U
 6. Try lifting one side of the water station and checking if any water leaks from the opposite side.
 
 
+---
+### Is It Possible to Connect SwitchBot Floor Cleaning Robot S20 to Home Water Pipe for Automatic Water Refill and Drainage?
+
+Yes, if you want to connect the S20 directly to the water pipe for automatic water supply and drainage, consider using a water station (sold separately).
+After installing the water station, go to SwitchBot App -> S20 -> Function -> Settings to select the water station and mark it with the robot S20.
+
+
+---
+### How to Use SwitchBot Floor Cleaning Robot S20 to Clean Multi-floor
+
+Floor Cleaning Robot S20+the Base Station one set:
+Before cleaning different floors, please activate the "Water Station Not Marked (Beta)" feature in the SwitchBot App by going to S20 -> Vac & Mop. Wait for water to be supplied to the robot, then manually move it to the target floor. After completing the Vac & Mop, manually move the robot again to where the Auto-empty Station is located and use the app for trash collection and mop drying.
+
+Important Notice:
+When using the Water Station Not Marked (Beta) feature, please note that if the fresh water box runs out of water, the Vac & Mop task will automatically stop. We apologize for any inconvenience this may cause and appreciate your understanding.
+
+Water Stations have already been placed on each floor:
+1. You can choose to purchase water stations and install them on different floors for automatic water refill and drainage with S20.
+2. After installation, Mark each water station on each floor on the S20 by going to SwitchBot App -> S20 -> Functions -> Settings -> Mark Water Station Position.
+
+![image](https://github.com/user-attachments/assets/87313d3c-8d9f-4de3-98e8-24430ffd93ee)
+
+Note: Tap "⋮" in the upper right corner to unpaire the water station if needed.
+3. Manually move the S20 to the target floor and select the cleaning mode in the SwitchBot app. After finishing vacuuming and mopping, the S20 will automatically go to the marked water station to drain and mop clean. If there is no auto-empty station, you must move the robot to where it is located and then use the app for trash collection and mop drying.
+
+
+---
+### Can I Use SwitchBot Floor Cleaning Robot S20 Overseas?
+
+The S20 robot has region-specific voltage specifications:
+- Japan: 100V~ 50/60Hz
+- North America: 120V~ 60Hz
+- Europe: 220–240V~ 50/60Hz
+- Taiwan: 120V~ 60Hz
+
+To safely use your S20 abroad, you need to buy a model that matches the voltage of your destination or use a voltage transformer with your current unit. Failure to convert the voltage properly could cause the vacuum's auto-empty station to short-circuit.
+
+Note:
+If you plan to bring the robot vacuum cleaner on a plane, check with the airline or airport staff about its built-in lithium battery.
+
+
+---
+### Can SwitchBot Floor Cleaning Robot S20 Be Added to Home Assistant?
+
+You can add your S20 to Home Assistant App through matter. Please refer to the following link for detailed connection instructions.
+https://www.home-assistant.io/integrations/switchbot/
+Note:
+Currently, the S20 does not support integration with Home Assistant through SwitchBot Bluetooth and Cloud. 
+
+
+
+
