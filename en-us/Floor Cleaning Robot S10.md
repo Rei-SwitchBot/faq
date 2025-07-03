@@ -1864,18 +1864,25 @@ Note: Replacement services may incur a fee if the water hose is not naturally da
 ---
 ### Troubleshooting Water Leakage on SwitchBot Floor Cleaning Robot S10 Water Station
 
-We apologize for the inconvenience caused by our product. Please follow the steps below to help us troubleshoot the water leakage issue:
-1. Check the Auto-Drain/Auto-Fill Port: Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
-![image](https://github.com/user-attachments/assets/fce91ac7-2a57-4ce9-87c9-c4e26fad5bf6)
-![image](https://github.com/user-attachments/assets/0b2f602b-45a4-494e-8d71-65e4cf328636)
-2. Ensure Proper Installation of Gaskets: When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
-3. For External Water Tank Users: If you're using an external water tank, ensure that the gasket is properly installed on the rear quick connector. Please check that both the water inlet and outlet hoses have the correct gaskets in place, as shown in the provided video.
-[Embedded Content](//youtube.com/watch?v=o5413fr7R2U)
-![image](https://github.com/user-attachments/assets/79c9ff34-d241-46dd-a67f-f5ebb2aaa8ed)
-4. Lift the Water Station: Try lifting one side of the water station and checking if any water leaks from the opposite side.
-5. If the issue persists, could you please assist us by providing the following:
-- A picture showing the water hose installation.
-- A video demonstrating water leakage.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When changing the water, some dripping may occur, which is normal. It is recommended to place a waterproof mat or diatomaceous earth mat in front of the water station.
+2. Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
+
+![image](https://github.com/user-attachments/assets/f52c28a1-ad1a-499a-99e6-0ce92ec5aa45)
+
+![image](https://github.com/user-attachments/assets/3519f5c9-650e-46ff-8368-6b6fe96d24f2)
+
+3. Make sure the waste filter cover on the Water Station is securely closed.
+4. When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
+5. If you're using an external water tank, make sure the gasket is properly installed on the rear quick connector of the external water tank. Check that both the water inlet and outlet hoses have correct gaskets as shown in the video. Verify that the sewage tank and fresh water tank are correctly installed.
+
+https://www.youtube.com/watch?v=o5413fr7R2U
+
+![image](https://github.com/user-attachments/assets/e59dc26b-dfb9-4b45-93fb-7b17c160ab90)
+
+6. Try lifting one side of the water station and checking if any water leaks from the opposite side.
+
 
 
 ---
