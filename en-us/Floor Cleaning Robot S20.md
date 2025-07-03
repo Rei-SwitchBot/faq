@@ -24,3 +24,5 @@ Different floors
 Please take the robot to the appropriate floor and clean it manually using the link provided.
 
 https://support.switch-bot.com/hc/en-us/articles/32681888413463
+
+
