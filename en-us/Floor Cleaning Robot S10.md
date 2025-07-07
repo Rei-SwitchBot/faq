@@ -1798,13 +1798,11 @@ If the fan is not working properly, your robot may need to be repaired or replac
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Anti-Tangle Brush Seems to Be Stuck
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Remove the rubber brush from the S10 and check for any debris. Hair or other materials may become tangled around the bearing of the rubber brush. If necessary, clean it thoroughly. Also, if you have a spare main brush, try replacing it to see if the error message is resolved.
 3. Run your S10 without attaching the rubber brush and check if the "my anti tangle brush seems to be stuck" error still appears.
-4. If the issue persists after completing the above steps, to determine if your robot needs to be replaced or repaired, could you kindly provide the following:
-- A screenshot of the error message related to the rubber brush issue.
-- A video with sound capturing the "my anti tangle brush seems to be stuck" error message being announced.
 
 ---
 ### Why Is There Water in the Water Station of My Newly Purchased SwitchBot Floor Cleaning Robot S10?
