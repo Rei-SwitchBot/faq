@@ -2502,7 +2502,10 @@ We regret to inform you that copying the created map by S10 is not currently sup
 ---
 ### Why Does SwitchBot Floor Cleaning Robot S10 Make a Sound Every Ten Minutes While Drying the Roller Mop?
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 The Floor Cleaning Robot S10 emits a sound every ten minutes while drying the mop. This is because the robot rotates the mop at regular intervals to achieve optimal drying. Please note that this is an intentional design feature and not a malfunction. You can safely continue using the product without any concerns.
+If you have any other questions, please feel free to contact us.
 
 ---
 ### About the Temperature of SwitchBot Floor Cleaning Robot S10 When Drying Mop
