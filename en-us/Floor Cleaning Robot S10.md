@@ -3198,3 +3198,17 @@ After moving the auto-empty station to a new location, simply start a cleaning t
 
 For the Water Station
 After moving the water station, you will need to remark its location in the app. This ensures the robot knows the updated position of the water station.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Has a Dust Collection Sound but Doesn’t Actually Collect Dust
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Clean the dust box manually.
+2. Please flip the auto-empty station and check if the debris evacuation tube is clogged with trash. Unscrew the four screws located at the bottom of the auto-empty station and use the provided cleaning tool to clean the tube.
+
+![image](https://github.com/user-attachments/assets/a33ee2ea-5020-4aa4-afc9-58e730fc99b5)
+
+
+3. Replace the dust bag.
