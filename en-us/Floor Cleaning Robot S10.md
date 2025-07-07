@@ -3188,3 +3188,13 @@ https://support.switch-bot.com/hc/en-us/articles/29380587994135
 6．On uneven floors or floors with height differences, it is inevitable that water marks will remain, and the situation can be remedied by increasing the number of water wipes.
 
 
+---
+### Notes on Moving the Water Station and Auto-Empty Station for Your Floor Cleaning Robot S10 After Mapping
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+If you need to move the Floor Cleaning Robot S10's stations, here’s what to do:
+For the Auto-Empty Station
+After moving the auto-empty station to a new location, simply start a cleaning task from the station. The robot will automatically update its location on the map during the cleaning process.
+
+For the Water Station
+After moving the water station, you will need to remark its location in the app. This ensures the robot knows the updated position of the water station.
