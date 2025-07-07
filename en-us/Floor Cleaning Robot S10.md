@@ -1747,6 +1747,7 @@ Regarding this issue, could you please check the following points?
 - A screenshot showing the error message notificaiton
 - A video demonstrating voice broadcasting
 
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Fails to Clean Because of a Bumper Stuck Error
 
@@ -1755,6 +1756,7 @@ Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Please check if any foreign object is caught in the S10.
 3. Gently pat the bumper and see if it helps with the issue.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Radar Is Blocked
@@ -1767,25 +1769,11 @@ Regarding the robot radar blockage error, could you please check the following p
 
 3. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
 
-![image](https://github.com/user-attachments/assets/94613435-d456-4ee1-b077-b28f89471ffe)
+![image](https://github.com/user-attachments/assets/dac6c1ca-4376-4355-af79-cd1fe1546b28)
 
 4. Check the radar area for any foreign objects and, if needed, delicately clean it with a cotton swab.
 
-5. If the issue persists, to determine whether your robot needs to be replaced or repaired, could you please provide with the following information:
-- A video demonstrating the radar error voice broadcast
-- A screenshot showing radar blocked error
 
-6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Fan Isn't Working Properly
