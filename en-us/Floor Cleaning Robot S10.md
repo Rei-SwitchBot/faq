@@ -2325,11 +2325,12 @@ Regarding this issue, could you please check the following points?
 ---
 ### Troubleshooting Can't Remove the Waste Water Box on SwitchBot Floor Cleaning Robot S10
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Turn the S10 over, tap the robot's tail with a tool, and then try to remove the waste water box while the robot is still upside down.
-![image](https://github.com/user-attachments/assets/315b0d93-b339-4217-b080-b6ee60080b84)
 
-2. If the issue persists, your robot may need repair or replacement. Please submit feedback to contact us.
+![image](https://github.com/user-attachments/assets/a9611f67-2198-4042-a713-72b5d462ca7a)
+
 
 ---
 ### It Possible to Pair Multiple Water Stations for One Floor Cleaning Robot S10?
