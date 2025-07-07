@@ -2192,24 +2192,27 @@ If your S10 is making a whistling sound during water changing, please check the 
 We appreciate your cooperation and are here to assist you.
 
 ---
-### What to Do If Roller Mop Doesn't Get Wet and My Floor Cleaning Robot S10 Isn't Mopping?
+### Troubleshooting Roller Mop Doesn't Get Wet and SwitchBot Floor Cleaning Robot S10 Isn't Mopping
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Please operate the wash-mop by going to SwitchBot App -> S10 -> Functions -> Control -> Wash Mop to see if the roller mop gets wet.
-![image](https://github.com/user-attachments/assets/c027d5c0-675d-492a-bb4b-97a051291c03)
 
-2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the related post below.
+![image](https://github.com/user-attachments/assets/b260cf55-d0f7-429a-8c18-d46d8b7b1dff)
 
-Related Post: What to Do If My Floor Cleaning Robot S10 Roller Mop Is Not Lowering to Touch the Floor?
+2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the following:
+  a. Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
+https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link
+  b. Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
 
-https://support.switch-bot.com/hc/en-us/articles/29380587994135
+![image](https://github.com/user-attachments/assets/669aa860-eb70-47c3-9051-2b3b6753ca0c)
+
+  c. Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
+
+https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing
 
 3. If the roller mop is wet and in contact with the ground, please enable dampen mop feature by going to SwitchBot App -> S10 -> Functions -> Settings -> Mop Cleaning -> Dampen Mop.
 
-Related Post: What to Do If My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping?
-
-https://support.switch-bot.com/hc/en-us/articles/25154313888151
-
-4. If the issue persists after completing the above steps, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will escalate the matter to our R&D team for further investigation.
 
 ---
 ### Diameters of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S10
