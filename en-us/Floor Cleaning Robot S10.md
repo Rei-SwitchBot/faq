@@ -1973,7 +1973,8 @@ Tips:
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Stuck Frequently
 
-If your SwitchBot Floor Cleaning Robot S10 is experiencing issues with the roller mop frequently getting stuck, follow the steps below to diagnose and resolve the problem.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Check for Debris Around the Roller Mop: Sometimes, hair, dirt, or other small particles can get caught around the roller, causing it to jam. Please refer to the video to clean it if necessary.
 https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view
 2. Listen to Unusual Noises During the Jam: If the roller gets stuck and you hear any strange sounds, please record a video of the issue.
@@ -1981,12 +1982,12 @@ https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view
 Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
 https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link
 Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-![image](https://github.com/user-attachments/assets/cbbbbcf4-e847-406b-8dcd-8a449bc8f51f)
+
+![image](https://github.com/user-attachments/assets/42e84b5c-bf5c-45bb-95a5-f30d06237113)
+
 Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
 https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing
 
-4. If you're unsure or need further assistance, please remove the Waste Water Collection Gutter and take a photo of the back of the unit. We are glad to check it for you.
-5. By following these steps, if the problem persists, feel free to reach out to our customer support team for further assistance.
 
 
 ---
