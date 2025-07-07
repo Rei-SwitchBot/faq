@@ -1701,10 +1701,10 @@ To maintain the lifespan of the built-in lithium battery, it is recommended to r
 ---
 ### Troubleshooting It Seems Like the Cleaning Solution Wasn’t Used
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Make sure that you have enabled the auto-add solution function by Navigating SwitchBot App -> your S10 -> Functions -> Settings -> Maintenance -> auto-add solution.
 2. During a cleaning and mopping task, approximately 1.5-2ml of cleaning solution is used each time. A 150ml bottle of detergent can last around 3-6 months, so the consumption may not feel noticeable during normal use.
-3. Please go to SwitchBot App -> Floor Cleaning Robot S10 -> Functions -> Control -> Wash Mop and run a mop-washing task. Record a video (with sound) showing the robot at the water station performing water intake and discharge. We will forward your feedback to our R&D team for further assistance.
 
 ---
 ### Troubleshooting My Floor Smells After Mopping with SwitchBot Floor Cleaning Robot S10 
