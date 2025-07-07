@@ -1750,13 +1750,11 @@ Regarding this issue, could you please check the following points?
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Fails to Clean Because of a Bumper Stuck Error
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Please check if any foreign object is caught in the S10.
 3. Gently pat the bumper and see if it helps with the issue.
-4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
-- A screenshot of the error message related to the bumper issue.
-- A video with sound capturing the "My bumper seems to be stuck" error message being announced.
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Radar Is Blocked
