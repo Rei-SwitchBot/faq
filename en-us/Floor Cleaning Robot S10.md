@@ -1743,9 +1743,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Remove the dust box and then reinsert it.
-3. If the issue persists, to determine if your robot needs to be replaced or repaired, could you kindly provide with the following information:
-- A screenshot showing the error message notificaiton
-- A video demonstrating voice broadcasting
 
 
 ---
