@@ -1869,9 +1869,9 @@ Regarding this issue, could you please check the following points?
 1. When changing the water, some dripping may occur, which is normal. It is recommended to place a waterproof mat or diatomaceous earth mat in front of the water station.
 2. Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
 
-![image](https://github.com/user-attachments/assets/f52c28a1-ad1a-499a-99e6-0ce92ec5aa45)
+![image](https://github.com/user-attachments/assets/a10bfe93-a617-405b-96b3-2468f91bb302)
 
-![image](https://github.com/user-attachments/assets/3519f5c9-650e-46ff-8368-6b6fe96d24f2)
+![image](https://github.com/user-attachments/assets/263a8df9-ba3a-4ea0-a664-d4c083456fff)
 
 3. Make sure the waste filter cover on the Water Station is securely closed.
 4. When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
@@ -1879,7 +1879,7 @@ Regarding this issue, could you please check the following points?
 
 https://www.youtube.com/watch?v=o5413fr7R2U
 
-![image](https://github.com/user-attachments/assets/e59dc26b-dfb9-4b45-93fb-7b17c160ab90)
+![image](https://github.com/user-attachments/assets/b40e6aa9-f907-4c9c-a4d5-fdfbf9945ca1)
 
 6. Try lifting one side of the water station and checking if any water leaks from the opposite side.
 
