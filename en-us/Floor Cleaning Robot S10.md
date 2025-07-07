@@ -2292,11 +2292,12 @@ To address this issue, please consider the following solutions:
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Draining Battery Quickly
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 Please check the following points regarding the battery consumption of your Floor Cleaning Robot S10:
 1. When cleaning carpets, the robot automatically operates at maximum suction power by default, which may result in faster battery consumption than usual.
 2. Cleaning in "Max" mode consumes battery power more quickly compared to other modes.
 3. If the mop washing and dust collection frequencies are set, the robot will frequently return to the station during cleaning. This can lower cleaning efficiency and lead to higher power consumption than normal.
-4. If none of the above applies to your situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. Our R&D team will investigate the issue. If possible, please provide a screenshot showing a sudden drop in battery level within a short period.
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Makes a Loud Beeping Noise When Charging
