@@ -3213,3 +3213,18 @@ Regarding this issue, could you please check the following points?
 
 
 3. Replace the dust bag.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 not docking at the water station
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure you have marked the water station's position on the created map. If not, please go to SwitchBot App -> your S10 -> Functions -> Settings -> Mark Water Station Position after mapping.
+2. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging adaptor to charge the station for 0.5 to 1 hour.
+3. Press and hold the Bluetooth button for 6 seconds until the indicator light flashes white to confirm it is activated.
+4. Clean the charging contacts on the water station with dry tissue to remove any dirt or water droplets.
+5. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
+https://support.switch-bot.com/hc/en-us/articles/25122838665111
+6. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
+7. Once docked, make sure the water station's firmware version is up to date. If not, go to SwitchBot App -> Floor Cleaning Robot S10 -> Gear Icon -> Firmware & Battery to update the firmware. 
