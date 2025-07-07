@@ -2672,6 +2672,7 @@ If your robot is unable to operate due to hair entanglement, please provide a de
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting There’s an Unpleasant Odor Coming From the Auto-Empty Station of My Floor Cleaning Robot S10
 
@@ -2680,10 +2681,6 @@ We sincerely apologize for any inconvenience our product caused. Please try belo
 1. Please check if the dust bag needs to be replaced.
 2. Please refer to the maintenance video to clean and maintain the auto-empty station.
 Video: https://youtu.be/oBFspfMKsKA
-3. If the issue persists, kindly provide a detailed description of where the odor is coming from in theauto-empty station, and we will escalate the matter to our R&D team for further investigation.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
 
 
 ---
