@@ -3009,11 +3009,6 @@ Regarding the issue of not being able to add the S10 to the Home app directly vi
 
 3. Verify your S10 has stable internet connection with no network errors.
 
-4. If issues persist after these steps, please contact Apple Support directly for further investigation.
-Contact Apple Support:
-
-https://support.apple.com/en-us/106932?choose-your-country=united-states
-
 ---
 ### Does SwitchBot Floor Cleaning Robot S10's Water Station Automatically Increase Water Pressure for Faster Drainage?
 
