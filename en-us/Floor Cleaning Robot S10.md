@@ -1888,11 +1888,10 @@ https://www.youtube.com/watch?v=o5413fr7R2U
 ---
 ### Troubleshooting The Water Station of SwitchBot Floor Cleaning Robot S10 Is Unresponsive and Cannot Be Activated.
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging adaptor to charge the station for 0.5 to 1 hour.
 2. Press and hold the Bluetooth button for 6 seconds until the indicator light flashes white to confirm it is activated.
-3. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
-- A video showing the water station LED indicator not flashing white after long pressing the Bluetooth button
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Not Automatically Returning to the Auto-Empty Station
