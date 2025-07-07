@@ -1790,10 +1790,29 @@ Regarding the robot radar blockage error, could you please check the following p
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Fan Isn't Working Properly
 
-We apologize for any inconvenience caused. 
-If the fan is not working properly, your robot may need to be repaired or replaced. To help us assist you better, please provide the following information for investigation:
-- A video showing any issues with the fan
-- A screenshot of any error messages related to the fan
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  1. A video showing any issues with the fan
+  2. A screenshot of any error messages related to the fan
+2. Also, if the replacement or repair service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Anti-Tangle Brush Seems to Be Stuck
