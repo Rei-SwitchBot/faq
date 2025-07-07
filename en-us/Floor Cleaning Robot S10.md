@@ -1839,9 +1839,12 @@ Hold the main body of the water station with your hand, then use a pliers or som
 ---
 ### Daylight Saving Time with SwitchBot Floor Cleaning Robot S10
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 Currently, the schedule and "Do Not Disturb" times set for SwitchBot Floor Cleaning Robot S10 are stored locally, meaning they don’t automatically adjust with Daylight Saving Time changes. We understand this may be an inconvenience, as users will need to manually update these times to align with seasonal time changes. We apologize for any disruption this may cause.
 As an alternative, if you are running a full-house clean, you can use SwitchBot’s automation feature to schedule this. Please note that automation currently does not support selecting specific rooms for cleaning.
 Our R&D team is actively working on this and exploring ways to improve scheduling for future updates. Thank you for your understanding, and please don’t hesitate to reach out with any additional questions or feedback.
+
 
 ---
 ### What to Do If My Floor Cleaning Robot S10 Doesn't Dock at the Water Station Frequently?
