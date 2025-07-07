@@ -2231,9 +2231,9 @@ However, we do not recommend the use of extended hoses, as there is a risk of le
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Stays in the Same Spot and Won’t Move
 
-We apologize for any inconvenience this may have caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 Open the SwitchBot App -> Tap your S10 -> Tap the gear icon in the top right corner -> More Features -> Manual Control to manually control the robot and check if it moves correctly.
-If the robot does not move even in manual control mode, we will escalate the issue to our R&D team for further investigation. Kindly provide a video showing the S10 remaining stuck in the same spot.
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves a Few Centimeters of Water Drops While Mopping the Floor
