@@ -2269,24 +2269,20 @@ https://drive.google.com/file/d/1JMtJ7sA5jbO_kTp2nhE2CZXunxSfQZnR/view?usp=shari
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves Dirt on Uneven Surfaces and Floor Gaps
 
-1. Make sure your SwitchBot App version is up to date. 
-2. Make sure SwitchBot Floor Cleaning Robot has been added to your App and your device firmware version is up to date.
-3. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
-![image](https://github.com/user-attachments/assets/22d839e7-ea9d-47dd-b79a-32fa047062d8)
-4. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
-![image](https://github.com/user-attachments/assets/74f74416-f175-4399-87ee-8d13cc10de6b)
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
 
-5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
-6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with the information below:
-- Photo or video of water leak
-- Photo showing inside of the waste water box
-- Photo of the bottom of your S10
+![image](https://github.com/user-attachments/assets/9c835e48-6d9a-46fc-908e-bdc34be28cae)
 
-Note
-The Floor Cleaning Robot S10 automatically cleans its roller mop while mopping. However, when operating on uneven surfaces or areas with height differences, some dirt from the roller mop may be left on floor joints or gaps.
-To address this issue, please consider the following solutions:
-1. Set the affected area as a No-Mop Zone or mark it as a Carpet Area in the app. This will allow the robot to automatically lift the mop when passing through the area, preventing dirt from being dragged onto the surface.
-2. Perform multiple mopping cycles in the affected area to gradually reduce any residual dirt.
+2. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
+
+![image](https://github.com/user-attachments/assets/c72d1930-4558-41a6-8abb-daf0bc341ca8)
+
+3. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
+4. The S10 automatically cleans its roller mop while mopping. However, when operating on uneven surfaces or areas with height differences, some dirt from the roller mop may be left on floor joints or gaps. To address this issue, please consider the following solutions:
+- Set the affected area as a No-Mop Zone or mark it as a Carpet Area in the app. This will allow the robot to automatically lift the mop when passing through the area, preventing dirt from being dragged onto the surface.
+- Perform multiple mopping cycles in the affected area to gradually reduce any residual dirt.
 
 
 ---
