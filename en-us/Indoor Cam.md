@@ -1312,13 +1312,4 @@ For example, if you purchase a 30-day event package, the cloud stores your video
 
 
 
----
-### Troubleshooting Can't Remove the Waste Water Box on SwitchBot Floor Cleaning Robot S10
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Turn the S10 over, tap the robot's tail with a tool, and then try to remove the waste water box while the robot is still upside down.
-
-![image](https://github.com/user-attachments/assets/ed924654-5d6e-4428-bdf7-5e7fb6de2a77)
-
 
