@@ -2148,7 +2148,8 @@ Once you have replaced the battery, update your robot's firmware to ensure optim
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Not Automatically Emptying the Dustbin
 
-If your Floor Cleaning Robot S10 is not automatically emptying the dustbin after cleaning, please follow these steps to troubleshoot:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Automatic dust collection only triggers if the cleaning session lasts more than 5 minutes. If the robot returns to the base before 5 minutes, it will not automatically collect debris.
 2. If Do-Not-Disturb schedules are enabled, the robot won't automatically collect dust during that time.
 3. Make sure that the dust bag in the auto-empty station is not full. The dust bag should be replaced approximately every 2–3 months.
@@ -2157,9 +2158,6 @@ If your Floor Cleaning Robot S10 is not automatically emptying the dustbin after
 6. Make sure the input voltage listed at the bottom of the auto-empty station matches your household voltage.
 7. Open the lid of the auto-empty station and inspect the interior for any signs of moisture.
 8. If the dust is not being collected properly, please open the lid of the auto-empty station and check if there is an attached dustbag or similar item inside. If present, remove it and try emptying the dustbin again.
-9. If the problem is not resolved after following the above steps, please provide the following information to our support team for further investigation:
-- A video showing the robot not automatically collecting debris after completing a cleaning task.
-- A photo of the inside of the auto-empty station with the lid open.
 
 
 ---
