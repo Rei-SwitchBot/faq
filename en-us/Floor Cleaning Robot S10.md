@@ -2105,62 +2105,33 @@ https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=shari
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Cannot Auto-refill My Evaporative Humidifier (Auto-refill)?
+### Troubleshooting My Floor Cleaning Robot S10 Cannot Auto-refill My Evaporative Humidifier (Auto-refill)
 
-Last Updated: 2024 Dec 04
-
-Related Product: SwitchBot Floor Cleaning Robot S10, SwitchBot Evaporative Humidifier (Auto-refill)
-SwitchBot App Version: 9.4 or newer
-Firmware Version: Floor Cleaning Robot S10 1.0.952 or newer, Evaporative Humidifier (Auto-refill) 1.0 or newer
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure SwitchBot Floor Cleaning Robot S10 and SwitchBot Evaporative Humidifier (Auto-refill) have been added to your App.
-
-3. Make sure you have already marked the Evaporative Humidifier (Auto-refill) for your S10.
-
-Related Post: How to Mark SwitchBot Evaporative Humidifier (Auto-refill) for SwitchBot Floor Cleaning Robot S10：
-https://support.switch-bot.com/hc/en-us/articles/26636176754711
-
-4. If the Evaporative Humidifier (Auto-refill) hasn't been filled, please adjust the refilling settings in SwitchBot App by going to your S10 -> Gear Icon -> More Features -> Humidifier Settings and changing from Refill 10 times to Fill up.
-
-![image](https://github.com/user-attachments/assets/1ab69458-13da-45c0-8115-ff3827ce2c50)
-
-5. Please check if the S10 unit is working properly by going to the SwitchBot App -> your S10 -> Functions -> Wash Mop under Control. If the S10 can wash its mop, then there's nothing wrong with the robot.
-
-![image](https://github.com/user-attachments/assets/d7b0489d-818d-4c1f-a8b4-ad43d74b67fc)
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure you have already marked the Evaporative Humidifier (Auto-refill) for your S10.
+How to Mark SwitchBot Evaporative Humidifier (Auto-refill) for SwitchBot Floor Cleaning Robot S10
 
 
-6. Please watch the video to check if the Evaporative Humidifier (Auto-refill) is functioning properly.
+2. If the Evaporative Humidifier (Auto-refill) hasn't been filled, please adjust the refilling settings in SwitchBot App by going to your S10 -> Gear Icon -> More Features -> Humidifier Settings and changing from Refill 10 times to Fill up.
 
-https://drive.google.com/file/d/1-Ka0UOKXSyZh35fZfG01tsqSi5fxSkIV/view?usp=sharing
+3. Please check if the S10 unit is working properly by going to the SwitchBot App -> your S10 -> Functions -> Wash Mop under Control. If the S10 can wash its mop, then there's nothing wrong with the robot.
 
+4. Please watch the video to check if the Evaporative Humidifier (Auto-refill) is functioning properly.
 Tips:
+- Fill the water tank manually to about 1/4 full. Then, disconnect the top fixed end of the water tank hose and submerge the tube in the water.
+- Turn on the S10 to refill water to the humidifier, and after a successful connection, check for air bubbles in the mouth of the water tube.
+- If there are no air bubbles, move the S10 away from the humidifier manually, remove the auto-fill port of the humidifier, wait for automatic re-docking by S10, and check for any air bubbles in the mouth of the tube.
+- Attach auto-fill port to humidifier.
 
-Fill the water tank manually to about 1/4 full. Then, disconnect the top fixed end of the water tank hose and submerge the tube in the water.
-Turn on the S10 to refill water to the humidifier, and after a successful connection, check for air bubbles in the mouth of the water tube.
-If there are no air bubbles, move the S10 away from the humidifier manually, remove the auto-fill port of the humidifier, wait for automatic re-docking by S10, and check for any air bubbles in the mouth of the tube.
-Attach auto-fill port to humidifier.
-7. If no air bubbles are visible, follow the video to manually add water to the humidifier using a syringe.
-
-https://drive.google.com/file/d/15ZHVEWyKAt-k_GogngTq1yHoUuhouuEB/view?usp=sharing
-
+5. If no air bubbles are visible, follow the video to manually add water to the humidifier using a syringe.
 Tips:
-
-Disconnect the soft hose inside the water tank from both the upper and lower ends (video).
-
-https://drive.google.com/file/d/12G1uoL5O6rdcSyUzxTKTq5Krl5RG2d77/view
-
-Attach a syringe to one end of the hose (available upon request from our support team) and draw in 50ml of purified water.
-Remove the port from the humidifier’s water inlet and connect the other end of the hose to the inlet.
-Slowly press the syringe to inject the water, ensuring it flows through the system.
-Reattach the port and reconnect the hose to the water tank.
-Turn on the S10 and let it attempt to refill the humidifier to confirm the issue is resolved.
-*Please contact us via SwitchBot App -> Profile -> Support ->Feedback to get a syringe.
-
-8. If the above didn't help, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, it would be helpful if you could provide us with the information below.
-
-A phone showing the serial number of your S10 (open the faceplate of your S10 to view its serial number.)
-A video demonstrating auto-refill failure.
+  1. Disconnect the soft hose inside the water tank from both the upper and lower ends (video).
+  2. Attach a syringe to one end of the hose (available upon request from our support team) and draw in 50ml of purified water.
+  3. Remove the port from the humidifier’s water inlet and connect the other end of the hose to the inlet.
+  4. Slowly press the syringe to inject the water, ensuring it flows through the system.
+  5. Reattach the port and reconnect the hose to the water tank.
+  6. Turn on the S10 and let it attempt to refill the humidifier to confirm the issue is resolved.
 
 
 ---
