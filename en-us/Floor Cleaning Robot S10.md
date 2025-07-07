@@ -3133,11 +3133,16 @@ https://support.switch-bot.com/hc/en-us/articles/32681888413463
 
 
 ---
-### How to Use SwitchBot Floor Cleaning Robot S10 to Clean a Room not on the Map
+### Troubleshooting My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
+1．Please deep clean the roller mop before mopping by going to SwitchBot App -> S10 -> Functions in the lower left corner -> Control -> Wash Mop.
+2．Adjust the amount of water for mopping as needed by going to SwitchBot App -> S10 -> Cleaning Mode in the lower right corner -> Vac & Mop -> Mopping water level.
+3．Please enable "dampen mop" feature by going to SwitchBot App -> S10 -> Functions in the lower left corner -> Settings -> Mop Cleaning.
+4．Please check the tires of the S10 for dirt. Also, clean them manually if necessary.
+5．Please check if the roller mop of the S10 is touching the ground properly. If not, please follow the link below for troubleshooting.
+https://support.switch-bot.com/hc/en-us/articles/29380587994135
+6．On uneven floors or floors with height differences, it is inevitable that water marks will remain, and the situation can be remedied by increasing the number of water wipes.
 
-1. Turn the S10 over, tap the robot's tail with a tool, and then try to remove the waste water box while the robot is still upside down.
 
-![image](https://github.com/user-attachments/assets/e0750263-c6e8-422a-9e47-b12c7ed50381)
