@@ -108,5 +108,27 @@ Note:
 Currently, the S20 does not support integration with Home Assistant through SwitchBot Bluetooth and Cloud. 
 
 
+---
+### Troubleshooting the Diatom Mud Mat in the Packaging of SwitchBot Floor Cleaning Robot S20 Is Damaged.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Could you kindly provide a photo showing the broken diatom mud mat?
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
