@@ -3132,3 +3132,12 @@ Please take the robot to the appropriate floor and clean it manually using the l
 https://support.switch-bot.com/hc/en-us/articles/32681888413463
 
 
+---
+### How to Use SwitchBot Floor Cleaning Robot S10 to Clean a Room not on the Map
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+
+1. Turn the S10 over, tap the robot's tail with a tool, and then try to remove the waste water box while the robot is still upside down.
+
+![image](https://github.com/user-attachments/assets/e0750263-c6e8-422a-9e47-b12c7ed50381)
