@@ -3215,3 +3215,20 @@ Regarding this issue, could you please check the following points?
 4. To better assit you, could you please provide a photo showing the issue?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Poop Entrapment
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Stop the operation of the S10. 
+2. Turn off the power of the auto-empty station. 
+3. Disable any schedules or automations that have been set in the SwitchBot App. 
+4. Do not flip the S10 robot body.
+5. Clean up the excrement entrapped in the main body of the S10 Robot to the extent possible with a tissue. 
+6. Carefully clean the tire spaces with a soft brush.
+7. Leave the S10 for one week to allow the interior to dry naturally.
+Note: 
+Do not dismantle the S10 Cleaning Robot by yourself.
+8. We are very sorry to tell you that the S10 cannot avoid pet excrement. If your robot malfunctions due to pet excrement, we regret to inform you that the cost of repairing the floor sweeper needs to be borne by the customer. Our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
