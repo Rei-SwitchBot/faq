@@ -1894,10 +1894,6 @@ Regarding the issue of the robot side brush not rotating properly, could you ple
 1. Remove the robot's faceplate and restart it.
 2. Make sure the side brush is properly installed.
 3. Remove the side brush, clean the hair, etc., and then reattach it. You will hear a click when properly attached.
-4. If the issue persists after completing the above steps, your robot may need to be repaired or replaced. To assist us, please provide the following:
-- A video showing the movement of the side brush
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
