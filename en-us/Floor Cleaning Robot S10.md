@@ -1440,15 +1440,15 @@ A video showing S10 is silent while tapping "Find Robot" on the SwitchBot App
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Won't Charge?
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Won't Charge
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Make sure that the Auto-empty station is placed on a hard, level surface, away from soft surfaces like carpets or foam mat.
 2. Make sure the auto-empty station is properly plugged into a power source (When the Auto-empty station is connected to power, the indicator light will remain solid white.). 
 3. Try unplugging and then plugging back in the auto-empty station.
-4. Clean the charging terminals between the S10 main unit and the auto-empty station. Then manually dock the robot to the base to check if it improves.
+4. Clean the charging terminals between the S10 main unit and the auto-empty station. Then manually dock the robot to the base to check if it improves (When properly docked, the station will blink white three times and then turn off the light).
 5. Please update the firmware version of the S10 and auto-empty station to the latest version if you have already added them to the SwitchBot app.
-6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, please provide with the following information:
-- The Serial Number of your S10 (open the faceplate you will find the SN)
 
 
 ---
