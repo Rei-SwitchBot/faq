@@ -1413,29 +1413,12 @@ et up a room-by-room cleaning or area-by-area cleaning to meet your needs
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Stopped Voice Broadcasting?
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Stopped Voice Broadcasting
 
-Last Updated：
-
-2024 Jul 05
-
-Related Products: SwitchBot Floor Cleaning Robot S10
-
-SwitchBot App Version: 8.6 or newer
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure SwitchBot Floor Cleaning Robot has been added to your App and your device firmware version is up to date.
-
-3. SwitchBot App -> Floor Cleaning Robot -> Gear icon -> Audio Settings -> adjust the sound and volume and check if the sound comes on.
-
-4. SwitchBot App -> Floor Cleaning Robot -> Gear icon -> tap "Find Robot" and check if the sound comes on.
-
-5. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, we would greatly appreciate your cooperation in providing the information below.
-
-A screenshot showing audio settings
-
-A video showing S10 is silent while tapping "Find Robot" on the SwitchBot App
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. SwitchBot App -> Floor Cleaning Robot -> Gear icon -> Audio Settings -> adjust the sound and volume and check if the sound comes on.
+2. SwitchBot App -> Floor Cleaning Robot -> Gear icon -> tap "Find Robot" and check if the sound comes on.
 
 
 
