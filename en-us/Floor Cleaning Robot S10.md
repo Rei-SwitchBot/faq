@@ -1287,33 +1287,25 @@ SwitchBot App Version: 8.8 or newer
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Firmware Upgrade Failed?
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Firmware Upgrade Failed
 
-Last Updated：
-
-2024 Jun 27
-
-Related Products: SwitchBot Floor Cleaning Robot S10
-
-SwitchBot App Version: 8.5 or newer
-
-1.
-
-Make sure your SwitchBot App version is up to date.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please download the latest version of the SwitchBot App from the App Store.
 
 2. Make sure you are performing the firmware upgrade near the S10 to maintain a stable connection.
 
 3. If the firmware upgrade for the S10 main unit fails, try turning off the main unit and then turning it back on before attempting the upgrade again. The power switch is located under the faceplate.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/24468104588951)
+![image](https://github.com/user-attachments/assets/9e314c3d-bfd1-48a6-ba1b-e5bef6277109)
 
 4. If the firmware upgrade for the water station fails, press the Bluetooth reset button located on the side of the water base and then try the upgrade again.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/24468025640471)
+![image](https://github.com/user-attachments/assets/9f41263d-03af-4172-b7cd-b02499c7457a)
 
 5. If your home Wi-Fi is unstable or fails, try using your mobile hotspot to perform the firmware upgrade.
 
-6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation.
+
 
 
 
