@@ -3165,3 +3165,23 @@ Regarding this issue, could you please check the following points?
 We understand that you’ve noticed some scratches on the waste water collection gutter of your SwitchBot Floor Cleaning Robot S10. These marks are a result of the manufacturing process and do not affect the functionality of the product.
 We have already reported this issue to our technical team and are working on improvements. If these marks are a concern for you, we’d be happy to send you a replacement part.
 We apologize for any inconvenience this may cause and appreciate your understanding. Please let us know if you’d like to proceed with a replacement or if you have any other questions.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 not recognizing the water station
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging cable to charge the station for 0.5 to 1 hour.
+2. Press and hold the Bluetooth Reset Button for 6 seconds until the indicator light flashes white to confirm it is activated.
+3. Gently clean the charging contacts of the water station with tissue paper.
+4. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
+https://support.switch-bot.com/hc/en-us/articles/25122838665111
+5. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
+6. Update the water station firmware using your Android smartphone.
+Tips:
+  1. Download the attached file.
+  2. Locate the MAC address on the back of the water station.
+  3. Update the firmware as per the video.
+  4. Do not support upgrading using iPhone.
+Video: https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?usp=sharing
