@@ -3020,9 +3020,13 @@ Laboratory tests show that the drainage system maintains an end-point water pres
 
 The built-in pump drainage system in the S10 water station can drain water up to a maximum level of 2m. For optimal drainage, it is recommended that the installation location of the sewage pipe should not exceed a height of 1m. The R&D laboratory measured the water pressure at the end of the drain pipe to be 35kPa.
 
+
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying "Please check for any blockages around the radar"
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the robot radar blockage error, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
@@ -3031,25 +3035,9 @@ Regarding the robot radar blockage error, could you please check the following p
 
 3. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
 
-![image](https://github.com/user-attachments/assets/b98dfbc0-f625-4697-9c7a-4aba43b04888)
+![image](https://github.com/user-attachments/assets/18159d32-6221-422e-8836-8b1c3859c79b)
 
 4. Check the radar area for any foreign objects and, if needed, delicately clean it with a cotton swab.
-
-5. If the issue persists, to determine whether your robot needs to be replaced or repaired, could you please provide with the following information:
-- A video demonstrating the radar error voice broadcast
-- A screenshot showing radar blocked error
-
-6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
 
 
 
