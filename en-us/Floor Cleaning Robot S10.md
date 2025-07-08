@@ -2094,15 +2094,19 @@ Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Remove the waste water box and then replace it.
 
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Makes a Loud Noise During the Water Change Process
 
-If your S10 is making a whistling sound during water changing, please check the following:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Verify whether the valves are properly attached to both the water outlet and the water inlet on the water exchange station. If the inlet or drain valve is missing, we can arrange for a replacement.
-![image](https://github.com/user-attachments/assets/f5cad704-8f6f-4ae6-bc24-2f79ef2904c9)
-![image](https://github.com/user-attachments/assets/a608ddd5-5ccb-4816-b1c8-1e7216073bf5)
-2. If the issue persists after checking the valves, please contact us again. To help us investigate further, we kindly ask for a photo of the entire water exchange station and a video capturing the sound.
-We appreciate your cooperation and are here to assist you.
+
+![image](https://github.com/user-attachments/assets/001377c6-7598-46ed-b603-73bc9d8c22df)
+
+![image](https://github.com/user-attachments/assets/a4d93b61-7d0d-4bfb-99f6-2ae5a7a112bb)
+
+
 
 ---
 ### Troubleshooting Roller Mop Doesn't Get Wet and SwitchBot Floor Cleaning Robot S10 Isn't Mopping
