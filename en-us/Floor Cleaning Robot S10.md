@@ -1483,47 +1483,18 @@ https://support.switch-bot.com/hc/en-us/articles/25122838665111
 7. If the above does not improve the situation, please contact us with a video of the S10 failing to recognize the water station via SwitchBot App -> Profile -> Support ->Feedback.
 
 
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Won’t Turn On
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding the robot not turning on, could you please check the following points?
-1. Make sure that the auto-empty station is properly connected to a power source.
-2. Make sure that the auto-empty station is placed on a hard, level surface, away from heat sources, direct sunlight, or soft surfaces like carpets or rugs.
-3. Gently wipe the charging terminals on both the robot and the auto-empty station with a soft tissue, then manually dock the robot to the auto-empty station and switch the power to I position.
+Regarding this issue, could you please check the following points?
+1. Make sure that the Auto-empty station is placed on a hard, level surface, away from soft surfaces like carpets or foam mat.
+2. Make sure the auto-empty station is properly plugged into a power source (When the Auto-empty station is connected to power, the indicator light will remain solid white.). 
+3. Try unplugging and then plugging back in the auto-empty station.
+4. Clean the charging terminals between the S10 main unit and the auto-empty station. Then manually dock the robot to the base to check if it improves (When properly docked, the station will blink white three times and then turn off the light).
+5. Please update the firmware version of the S10 and auto-empty station to the latest version if you have already added them to the SwitchBot app.
 
-![image](https://github.com/user-attachments/assets/846d0188-f4dc-402a-ae48-45f656b0684b)
-
-*When the robot properly docks with the auto-empty station, the station's white light will blink three times while the robot's indicator light pulses in a breathing pattern (gradually brightening and dimming).
-
-4. If the robot successfully docks but its indicator light fails to illuminate, we'll need to evaluate whether it requires repair (likely battery replacement). To assist with diagnosis, please send us a video showing the robot docked at the station with its indicator light remaining off.
-
-5. If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
-Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
-
-How to replace the battery:
-Video: https://drive.google.com/file/d/1uq68G2g_DyknENPMv_WdDrbFqvs2h_9R/view?usp=sharing
-Tips:
-- Turn the S10 unit over. If there is water in the waste water box, remove it to prevent leakage.
-- Use a screwdriver to unscrew and remove the back cover's seven screws.
-- Use a pry bar or similar tool to carefully extract the battery from its compartment. Disconnect the battery connection terminals and remove the old battery.
-- Install a new battery following the same procedure, then reattach the chassis cover.
-- Once you have replaced the battery, update your robot's firmware to ensure optimal performance.
-
-
-6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
