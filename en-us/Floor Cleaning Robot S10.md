@@ -1195,51 +1195,24 @@ The dust box capacity of the S10 is
 
 
 ---
-### What to Do If I Cannot Add My Newly Purchased Floor Cleaning Robot S10 to SwitchBot App (iOS)？
+### Troubleshooting I Cannot Add My Newly Purchased Floor Cleaning Robot S10 to SwitchBot App (iOS)
 
-Last Updated: 2024/09/30
-
-Related Product: SwitchBot Floor Cleaning Robot S10
-
-Smart Phone OS: iOS
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Restart your phone’s Bluetooth and lift the S10’s faceplate to toggle the switch from "o" to "I".
 
-![Image](https://support.switch-bot.com/hc/article_attachments/26716751080855)
+![image](https://github.com/user-attachments/assets/baaa122c-24ed-48c9-8dda-c4d85eeb4fdd)
 
-2. Download TestFlight link from
+2. Bring your phone close to your S10 and check if it needs a firmware recovery by navigating to SwitchBot App -> Profile -> Firmware Recovery -> Recovery.
+Note: Keep your phone near the robot and don’t leave the page during the update.
 
-[here](https://testflight.apple.com/join/UrtQG4me)
+![image](https://github.com/user-attachments/assets/7fc0a300-0d59-47e4-be18-c821c2249d9f)
 
-and then log in with your SwitchBot App account and password.
-
-3. Bring your phone close to the S10. If the device is detected, recover the firmware of the S10 by navigating to SwitchBot App -> Profile -> Firmware Recovery -> Recovery.
-
-Note:
-
-Keep your phone near the robot and don’t leave the page during the update.
-
-Please make sure that the MAC address that appears in the firmware recovery section matches the one on the back of the S10 unit.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26716751082775)
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26993500953239)
-
-4. If the recovery fails at any point,
-
-Turn your phone's Bluetooth off and on again.
-
-Restart SwitchBot app.
-
-Restart the robot by toggling its power switch.
-
-Repeat step 3 several times.
-
-5. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will forward your feedback to our research & development team for further assistance.
-
-Note:
-
-If you’ve previously participated in another TestFlight program, you may be prompted for a password during the upgrade. To resolve this, delete the old TestFlight app, exit any previous tests, and try again by following step 2.
+3. If the recovery fails at any point, 
+- Turn your phone's Bluetooth off and on again.
+- Restart SwitchBot app.
+- Restart the robot by toggling its power switch.
+- Repeat step 2 several times.
 
 
 
