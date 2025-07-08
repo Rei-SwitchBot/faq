@@ -1244,39 +1244,16 @@ If you’ve previously participated in another TestFlight program, you may be pr
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Cannot Connect to Wi-Fi Network?
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Cannot Connect to Wi-Fi Network
 
-Last Updated：
-
-2024 May 8
-
-Related Products: SwitchBot Floor Cleaning Robot S10
-
-SwitchBot App Version: 8.3 or newer
-
-1.
-
-Make sure your SwitchBot App version is up to date.
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please download the latest version of the SwitchBot App from the App Store.
 2. Make sure your S10 is connected to 2.4GHz Wi-Fi.
-
-3.
-
-For mesh Wi-Fi, disable the Fast Roaming feature.
-
-4. Please try connecting your S10 to your smartphone's tethering. Once you've successfully connected via tethering, please update the firmware to version 1.0.460 and then attempt to connect to your home Wi-Fi again.
-
-Note: If your S10 is successfully added to your account, you will automatically receive a firmware update invitation.
-
-5. If the above does not resolve the issue, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. When contacting us, please provide the following information so that we can escalate your feedback to our development team for further assistance.
-
-Whether your smartphone and the S10  were connected to the same Wi-Fi when the Wi-Fi connection failed
-
-A photo or screenshot showing your home Wi-Fi SSID
-
-Voice content played from the S10 at the time of Wi-Fi connection failure
-
-The brand and model of your router (screenshots of the Wireless and Wan setup would also be helpful)
+3. Make sure that your Wi-Fi SSID and password do not include any special characters.
+4. For mesh Wi-Fi, disable the Fast Roaming feature.
+5. Please try connecting your S10 to your smartphone's tethering. Once you've successfully connected via tethering, please update the firmware to version 1.0.460 and then attempt to connect to your home Wi-Fi again.
+1. Make sure your S10 is connected to 2.4GHz Wi-Fi.
 
 
 
