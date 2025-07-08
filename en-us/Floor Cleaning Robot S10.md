@@ -3145,3 +3145,13 @@ Remove the faceplate of the S10 cleaning robot body to access a small maintenanc
 
 Please remove the bearing and clean it to untangle the hair on both ends of the main brush.
 If you have any other questions, please feel free to contact us!
+
+
+---
+### Troubleshooting It Appears That There Are Some Scratches on the Waste Water Collection Gutter of SwitchBot Floor Cleaning Robot S10
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We understand that you’ve noticed some scratches on the waste water collection gutter of your SwitchBot Floor Cleaning Robot S10. These marks are a result of the manufacturing process and do not affect the functionality of the product.
+We have already reported this issue to our technical team and are working on improvements. If these marks are a concern for you, we’d be happy to send you a replacement part.
+We apologize for any inconvenience this may cause and appreciate your understanding. Please let us know if you’d like to proceed with a replacement or if you have any other questions.
