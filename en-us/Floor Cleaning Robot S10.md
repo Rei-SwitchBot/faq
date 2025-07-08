@@ -1837,17 +1837,23 @@ Regarding this issue, could you please check the following points?
 1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging adaptor to charge the station for 0.5 to 1 hour.
 2. Press and hold the Bluetooth button for 6 seconds until the indicator light flashes white to confirm it is activated.
 
+
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Not Automatically Returning to the Auto-Empty Station
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Make sure that the Auto-empty station is properly connected to a power source.
 2. Make sure that the Auto-empty station has not been moved and that the robot is correctly oriented for returning. If the Auto-empty station has been moved, you will need to manually move the robot back to it.
 3. Make sure there are no obstacles near the Auto-empty station and that there is a 0.5m space on both sides, as well as 1m in front of and above the station. Also, be mindful that closed doors and other obstructions may disrupt the return path.
 4. Make sure that the Auto-empty station is placed on a hard, level surface, away from heat sources, direct sunlight, or soft surfaces like carpets or rugs.
 5. Use a soft cloth to wipe the signal emitter area on the Auto-empty station to remove any dust or debris that might be interfering with the robot’s ability to return.
-![image](https://github.com/user-attachments/assets/26b5d45c-398f-4513-97bc-34d17aa3ab7d)
+
+![image](https://github.com/user-attachments/assets/4336634a-5772-48e5-adb1-5bfac33d883a)
+
 6. Gently clean the front docking sensor on the robot S10 with a soft, dry cloth to ensure it is free of dirt or obstructions.
-7. If the above does not improve the situation, please contact us with a video of the S10 failing to return automatically via SwitchBot App -> Profile -> Support ->Feedback.
+
 
 
 ---
