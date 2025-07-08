@@ -105,4 +105,23 @@ Lock Ultra is compatible with entrance locks with a locking and unlocking rotati
 
 
 
+---
+### Use SwitchBot NFC Tags to Lock and Unlock SwitchBot Lock Ultra
 
+1. Lock Ultra does not have NFC functionality and cannot be locked or unlocked by holding a smartphone or NFC tag over the main body.
+2. Set up SwitchBot NFC Tags to Lock and Unlock SwitchBot Lock Ultra in the following order.
+- Launch SwitchBot App and login.
+- Tap your Lock Ultra.
+- Tap the gear icon in the upper right corner.
+- Tap "NFC" on the setting screen.
+- Tap "Lock".
+- You will see instructions on how to use NFC, tap "Got it".
+- Place a NFC tag over the NFC reading position on your smartphone to scan.
+- The message "written successfully" will be displayed.
+- Tap "Unlock".
+- You will see instructions on how to use NFC, tap "Got it".
+- Place the other NFC tag over the NFC reading position on your smartphone to scan.
+- The message "written successfully" will be displayed.
+
+3. In step 2, the Lock Ultra can be locked or unlocked by holding the smartphone over the successfully written NFC tag within Bluetooth range.
+Note: Only one action can be written to an NFC Tag. It is not possible to delete an already registered action. Writing a second action will automatically overwrite the previous action. Therefore, at least two NFC tags are required to lock or unlock your door.
