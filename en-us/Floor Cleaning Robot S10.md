@@ -1629,20 +1629,33 @@ Regarding this issue, could you please check the following points?
 1. Make sure that you have enabled the auto-add solution function by Navigating SwitchBot App -> your S10 -> Functions -> Settings -> Maintenance -> auto-add solution.
 2. During a cleaning and mopping task, approximately 1.5-2ml of cleaning solution is used each time. A 150ml bottle of detergent can last around 3-6 months, so the consumption may not feel noticeable during normal use.
 
+
+
 ---
 ### Troubleshooting My Floor Smells After Mopping with SwitchBot Floor Cleaning Robot S10 
-1. I can smell an unpleasant odor after mopping with the S10.
 
-Diagnose:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Please check the roller mop, mop case, waste water collection gutter and waste water box for foreign matter. If necessary, please clean them manually.
-Video on cleaning: [Embedded Content](//youtu.be/ikUtZlHQUQU)
-Maintenance video: [Embedded Content](//youtu.be/N3ueD8hJcEg)
-![image](https://github.com/user-attachments/assets/db445444-6393-4258-a8ff-4ff622a81eba)
+Video on cleaning: https://youtu.be/ikUtZlHQUQU
+Maintenance video: https://youtu.be/N3ueD8hJcEg
+
+![image](https://github.com/user-attachments/assets/6368fbe5-28ab-4da6-9180-270ca7b82203)
+
 2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
-![image](https://github.com/user-attachments/assets/054aeb95-44c8-4178-b6bf-a776c9d940d0)
+
+![image](https://github.com/user-attachments/assets/fdea7cd4-491f-4f65-9dbe-7f90e831174c)
+
+![image](https://github.com/user-attachments/assets/6b221ea0-6e7e-4185-a081-9c91f3becaf8)
+
 3. Put each component back together and see if it helps.
 4. We normally recommend hand washing the roller mop once a month and replacing it with a new mop every three months.
-You can also try using the dampen mop function to see if it helps.
+5. You can also try using the dampen mop function to see if it helps.
+Please enable "dampen mop" feature by going to SwitchBot App -> S10 -> Functions in the lower left corner -> Settings -> Mop Cleaning.
+6. Increase the mop drying time by going to SwitchBot App -> S10 -> Functions -> Settings -> Drying Time.
+7. Check if warm air is coming out from the bottom of the auto-empty station when drying the mop. When the drying time is up, manually check if the mop is dry.
+
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Not Sucking the Dirty Water After Mopping
