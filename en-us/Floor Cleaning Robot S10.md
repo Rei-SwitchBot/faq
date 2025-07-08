@@ -1924,17 +1924,12 @@ We sincerely apologize for any inconvenience this may cause and appreciate your 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Reporting Cliff Sensor abnormal
 
-Thank you for reaching out to us. 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. If the cliff sensor error happens when cleaning thresholds and thick carpets, we recommend setting up no-go zones in these areas.
 2. Remove the robot's faceplate and restart it.
 2. Please clean your robot's cliff sensors with a soft cloth.
 3. Press the Clean button in SwitchBot App and check if the robot starts properly.
-4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
-- A screenshot of the error message related to the cliff sensor issue.
-- A video with sound capturing the "Cliff Sensor abnormal" error message being announced.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
