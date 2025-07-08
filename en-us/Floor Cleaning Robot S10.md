@@ -3197,3 +3197,16 @@ Regarding this issue, could you please check the following points?
 Note: 
 Do not dismantle the S10 Cleaning Robot by yourself.
 8. We are very sorry to tell you that the S10 cannot avoid pet excrement. If your robot malfunctions due to pet excrement, we regret to inform you that the cost of repairing the floor sweeper needs to be borne by the customer. Our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Hair Tangled in the Main Brush of SwitchBot Floor Cleaning Robot S10
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Remove the faceplate of the S10 cleaning robot body to access a small maintenance tool. Use it to clean up any tangled hair.
+
+![image](https://github.com/user-attachments/assets/2864ba7c-c7a8-4a30-9846-2c23c7bef14c)
+
+Please remove the bearing and clean it to untangle the hair on both ends of the main brush.
+If you have any other questions, please feel free to contact us!
