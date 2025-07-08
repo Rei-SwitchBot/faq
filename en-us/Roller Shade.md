@@ -315,3 +315,16 @@ To synchronize the opening and closing of the Roller Shade with sunrise and suns
 You can check the scheduled open and close logs by going to SwitchBot App -> Roller Shade -> Gear icon (setting screen) -> Logs.
 
 
+---
+### Troubleshooting SwitchBot Roller Shade Fabric Has Creases or Wrinkles
+
+We’re sorry to hear that your SwitchBot Roller Shade has developed creases. Fabric wrinkles can sometimes occur due to packaging, shipping, prolonged rolling, or even during installation, but don’t worry—there are ways to smooth them out.
+The best way to remove creases is by gently steaming the fabric with a garment steamer. Lightly run the steamer along the wrinkled areas while keeping the fabric taut. This method has been tested and works effectively.
+If steaming does not fully remove the creases or you don’t have a garment steamer, we can arrange a fabric replacement for you. However, since the fabric is shipped from our Hong Kong warehouse, delivery may take some time. For a faster solution, we recommend purchasing the fabric locally, and we will cover the cost.
+Note: When choosing your shade fabric, remember:
+1. Fabric Roll Diameter: The diameter of the rolled-up fabric, including the rod, should not exceed 66mm.
+2. Fabric Weight: Keep the fabric weight under 3kg to avoid putting too much strain on the Roller Shade and affecting its performance.
+
+![image](https://github.com/user-attachments/assets/ee89d0e9-99d3-4165-96a1-685ee499a880)
+
+If you need further assistance, feel free to reach out to our support team. We’re happy to help!
