@@ -1933,6 +1933,8 @@ Regarding the issue of the robot side brush not rotating properly, could you ple
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot Won’t Enter Dark Carpet Areas
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 The S10 is equipped with highly sensitive cliff sensors designed to ensure your robot’s safety by preventing falls. These sensors are so precise that they may occasionally recognize dark-colored carpets as a drop, triggering the fall-prevention function and causing the robot to stop working on those areas. While we work on a permanent solution, we can offer a temporary workaround to help maintain uninterrupted cleaning.
 You can use the SwitchBot App to mark the dark carpet areas, allowing the S10 to continue cleaning those zones without interruption. Here’s how you can set it up:
 - Open the SwitchBot App.
@@ -1945,6 +1947,8 @@ Important Note:
 When you mark dark-colored areas for cleaning, the cliff sensor sensitivity will decrease. If you have staircases or other potential hazards nearby, we recommend setting those areas as "No-Go Zones" instead of marking them as dark carpet areas to prevent accidents.
 
 We sincerely apologize for any inconvenience this may cause and appreciate your understanding as we work towards a permanent solution. If you need further assistance or have any questions, please don’t hesitate to reach out.
+
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Reporting Cliff Sensor abnormal
