@@ -223,6 +223,7 @@ Regarding this issue, could you please check the following points?
 The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app → video doorbell → gear icon → local storage.
 If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
 
+
 ---
 ### Can I Use SwitchBot Smart Video Doorbell to Operate Dual-Lock?
 
@@ -230,3 +231,18 @@ Yes, you can use the video doorbell to control a single lock or dual-lock.
 Note: 
 Lock, Lock Pro and Lock Ultra can all be operated by the video doorbell.
 
+
+---
+### Troubleshooting the Video of the Doorbell Has Been Loading Continuously, Unable to View from the Monitor.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We have confirmed with our R&D team that the problem you have indicated is a bug in the firmware V2.01.020 and 2.01.022. We have arranged a firmware update to fix the issue, please follow the steps below to upgrade.
+- Turn off the router.
+- Place the doorbell close to the monitor and press the "monitor" button on the monitor unit several times until the image appears.
+- After the image appears, press the "monitor" button three to five more times.
+- After that, turn the router back on and once the device is online, update to the repair version from the app.
+Please note: 
+Make sure that your smartphone and device are in close proximity when updating.
+If the update does not appear, please restart the app.
+Please update in the following order: SwitchBot App -> Smart Video Doorbell -> Gear Icon in the upper right corner -> "Firmware & Battery".
