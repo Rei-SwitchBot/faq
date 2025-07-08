@@ -1368,47 +1368,17 @@ Photo of the bottom of your S10
 
 
 ---
-### What to Do If My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping?
+### Troubleshooting My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping
 
-Last Updated：
-
-2024 Jul 25
-
-Related Products: SwitchBot Floor Cleaning Robot S10
-
-SwitchBot App Version: 8.7 or newer
-
-Firmware Version: 1.0.717 or newer
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
-
-3. We recommand using the "cleaning frequency" feature in the following order:
-
-Launch SwitchBot App and log
-
-in
-
-Tap your S10
-
-Tap station
-
-Tap "settings"
-
-Tap "Cleaning Frequency"
-
-Enable "Dampen Mop
-
-"
-
-Also you can disable the auto-cleaning and s
-
-et up a room-by-room cleaning or area-by-area cleaning to meet your needs
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25154264179223)
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1．Please deep clean the roller mop before mopping by going to SwitchBot App -> S10 -> Functions in the lower left corner -> Control -> Wash Mop.
+2．Adjust the amount of water for mopping as needed by going to SwitchBot App -> S10 -> Cleaning Mode in the lower right corner -> Vac & Mop -> Mopping water level.
+3．Please enable "dampen mop" feature by going to SwitchBot App -> S10 -> Functions in the lower left corner -> Settings -> Mop Cleaning.
+4．Please check the tires of the S10 for dirt. Also, clean them manually if necessary.
+5．Please check if the roller mop of the S10 is touching the ground properly. If not, please follow the link below for troubleshooting.
+https://support.switch-bot.com/hc/en-us/articles/29380587994135
+6．On uneven floors or floors with height differences, it is inevitable that water marks will remain, and the situation can be remedied by increasing the number of water wipes.
 
 
 
