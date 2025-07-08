@@ -2183,36 +2183,42 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 Open the SwitchBot App -> Tap your S10 -> Tap the gear icon in the top right corner -> More Features -> Manual Control to manually control the robot and check if it moves correctly.
 
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves a Few Centimeters of Water Drops While Mopping the Floor
 
-1. Make sure your SwitchBot App version is up to date. 
-2. Make sure SwitchBot Floor Cleaning Robot has been added to your App and your device firmware version is up to date.
-3. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
 
-![image](https://github.com/user-attachments/assets/c350bc2d-b622-4c75-a34e-9a9c8a369a86)
+![image](https://github.com/user-attachments/assets/01dcd11b-457e-4bac-9bcb-136d7cc04d45)
 
-Maintenance video 1: 
+Maintenance video 1: https://www.youtube.com/watch?v=ikUtZlHQUQU
+Maintenance video 2: https://drive.google.com/file/d/1JMtJ7sA5jbO_kTp2nhE2CZXunxSfQZnR/view?usp=sharing
 
-https://www.youtube.com/watch?v=ikUtZlHQUQU
+2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
 
-Maintenance video 2: 
+![image](https://github.com/user-attachments/assets/ca65ceaf-43a1-4854-966c-a173d3c3265a)
 
-https://drive.google.com/file/d/1JMtJ7sA5jbO_kTp2nhE2CZXunxSfQZnR/view?usp=sharing
+![image](https://github.com/user-attachments/assets/fe947821-6078-461e-a393-65dec5e76379)
 
-4. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
+3. Make sure you are using the latest firmware version for the S10. Check for updates by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery.
+4. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
 
-![image](https://github.com/user-attachments/assets/676d9920-5ea2-4ef5-9486-8bf019d2005e)
+![image](https://github.com/user-attachments/assets/4f90e8b9-9d3f-4b0a-856d-c4418f1fbe5a)
 
-5. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
+5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
+6. Please refer to the video below to verify whether your S10 robot's waste water pump is functioning correctly.
+Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
+Tips:
+  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
 
-![image](https://github.com/user-attachments/assets/15812663-9957-462d-9b4f-ce31c1195517)
+![image](https://github.com/user-attachments/assets/d0ac4a60-bbfb-45a4-858b-5a1a8692287a)
 
-6. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
-7. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with the information below:
-- Photo or video of water leak
-- Photo showing inside of the waste water box
-- Photo of the bottom of your S10
+  c. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves Dirt on Uneven Surfaces and Floor Gaps
