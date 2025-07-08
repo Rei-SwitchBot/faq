@@ -3202,3 +3202,16 @@ Regarding this issue, could you please check the following points?
 https://support.switch-bot.com/hc/en-us/articles/25122838665111
 6. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
 7. Once docked, make sure the water station's firmware version is up to date. If not, go to SwitchBot App -> Floor Cleaning Robot S10 -> Gear Icon -> Firmware & Battery to update the firmware. 
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10’s Main Wheel Is Entangled With Knitted Material
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please do not attempt to remove the main wheel of the S10 by yourself.
+2. Before cleaning, please ensure that power cords and other easily entangled items are tidied away to prevent entanglement.
+3. If the customer cannot remove the object, the S10 may need to be repaired. Free repair service is not available for malfunctions caused by easily entangled objects other than hair. Costs incurred for robot cleaner repairs need to be borne by the customer. Our team will contact you later for details, thank you for your patience and understanding!
+4. To better assit you, could you please provide a photo showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
