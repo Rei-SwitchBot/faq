@@ -1519,37 +1519,29 @@ Related Post:
 
 
 ---
-### What to Do If SwitchBot Floor Cleaning Robot S10 Auto-refill Failed?
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Auto-refill Failed
 
-Last Updated: 2024 Oct 24
-
-Related Product: SwitchBot Floor Cleaning Robot S10
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
-
 2. Make sure that the fresh water hose is not damaged or folded.
+3. Make sure that the water station's auto-fill port is attached and undamaged.
 
-3. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
+![image](https://github.com/user-attachments/assets/52346197-142f-4faf-8c09-0540efa6d71d)
 
-4. Make sure that the water station's auto-fill port is attached and undamaged.
+4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
+https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
+5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
+6. Please refer to the video below to verify whether your S10 robot ’s fresh water pump is functioning correctly.
+https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
+Tips:
+  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/27295152426647)
+![image](https://github.com/user-attachments/assets/76ba8729-7f3f-4a3a-9252-f969559494bd)
 
-5. Refer to the
-
-[linked video](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing)
-
-and check for any unusual noises by shaking the water station up and down.
-
-6. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-
-7. If the above does not improve the situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
-
-A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
-
-Photos showing fresh water hose and sewage hose in place
-
-How long after using the Water Station is unable to auto-refill
+  c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 
 
 
