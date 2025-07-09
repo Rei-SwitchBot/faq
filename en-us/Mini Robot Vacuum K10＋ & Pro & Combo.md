@@ -2420,24 +2420,22 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting My Cordless Vacuum Cleaner Is Not Being Recognized by SwitchBot App
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. 
 1. Please ensure the battery is securely inserted into the cordless vacuum cleaner. Note that the battery will not be fully inserted during factory shipment, so kindly insert it properly before use.
 2. Check if the cordless vacuum cleaner can charge. Typically, the indicator light will blink during charging and remain solid when fully charged.
-3. If the vacuum cleaner charges properly, please try using it as shown in this video:
-4. 
+3. If the vacuum cleaner charges properly, please try using it as shown in this video: 
 Video Link: https://drive.google.com/file/d/1uJU_ZatTGlkH73SFk7Zpyo6fUiN8bpEG/view
-
-6. If the vacuum cleaner does not start, we may need to assess whether a replacement is required. In this case, kindly provide a video showing the issue.
-7. If the vacuum cleaner starts but still has issues, please follow the steps in this video to remove the battery and reset the battery:
-8. 
+4. If the vacuum cleaner does not start, we may need to assess whether a replacement is required. In this case, kindly provide a video showing the issue.
+5. If the vacuum cleaner starts but still has issues, please follow the steps in this video to remove the battery and reset the battery:
 Video Link: https://drive.google.com/file/d/1P5kvccENpRTCBZg3XPqmGbvdYmo6vhf0/view
 
-10. If the issue persists after following the above steps, please let us know. We will escalate the matter to our R&D team for further investigation.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Stops Running Immediately after Leaving the Station
