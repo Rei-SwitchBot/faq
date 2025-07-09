@@ -2416,9 +2416,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 1. Please turn the robot over and check if there is any foreign object stuck in the side brush. If necessary, remove the side brush and clean it manually.
 2. Manually rotate the side brush to see if it feels difficult to turn.
 3. Start a cleaning task and check if the side brush rotates normally.
-4. If the issue persists after following the above steps, we may need to assess whether the robot vacuum requires repair or replace. Could you kindly provide a video showing the side brush not rotating properly?
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
