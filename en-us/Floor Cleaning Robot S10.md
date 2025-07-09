@@ -3152,3 +3152,11 @@ Video: https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?us
 ### Is It Possible to Pair Multiple Auto-empty Stations for One Floor Cleaning Robot S10?
 
 In the case of multi-floor use, it is possible to install multiple water stations and pair them on each floor. However, one S10 robot cannot be paired with multiple auto-empty stations. Please manually carry the S10 to a different floor for cleaning, then dock it at the auto-empty station for waste collection.
+
+
+---
+### Is It Possible to Pair Multiple Water Stations for One Floor Cleaning Robot S10?
+
+With firmware version 1.0.946, one S10 can now be paired with multiple water stations. You can manually take the S10 to different floors for cleaning purposes. The water station is available for purchase on our official website.
+https://www.switch-bot.com/products/switchbot-water-station-for-s10
+Note: The S10 can store a maximum of 5 maps, each with one water station configuration. As a result, you can currently place up to 5 water stations.
