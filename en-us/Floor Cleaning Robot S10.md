@@ -3146,3 +3146,9 @@ Tips:
   3. Update the firmware as per the video.
   4. Do not support upgrading using iPhone.
 Video: https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?usp=sharing
+
+
+---
+### Is It Possible to Pair Multiple Auto-empty Stations for One Floor Cleaning Robot S10?
+
+In the case of multi-floor use, it is possible to install multiple water stations and pair them on each floor. However, one S10 robot cannot be paired with multiple auto-empty stations. Please manually carry the S10 to a different floor for cleaning, then dock it at the auto-empty station for waste collection.
