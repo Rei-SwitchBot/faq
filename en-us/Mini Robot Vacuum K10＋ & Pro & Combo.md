@@ -2335,27 +2335,19 @@ Thank you for your understanding and continued support.
 ---
 ### Troubleshooting Guide for Constant Orange Light on Dual Dust Collection Station
 
-We sincerely apologize for the inconvenience caused by the constant orange light on your SwitchBot Robot Vacuum K10+ Pro Combo. Below are steps to identify and resolve the issue:
-1. Make sure the dust bag is correctly installed. Open the lid of the dual empty station, remove and reinsert the dust bag, and adjust its position if necessary. Proper installation will cause the orange light to blink three times as confirmation.
-
-video: https://drive.google.com/file/d/1x8uw7jBzZwsT0Hl8swe2kYFxZOP-iUMz/view
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the dust bag is correctly installed. Open the lid of the dual empty station, remove and reinsert the dust bag, and adjust its position if necessary. Proper installation will cause the orange light to blink three times as confirmation ([video](https://drive.google.com/file/d/1x8uw7jBzZwsT0Hl8swe2kYFxZOP-iUMz/view)).
 2. Make sure the lid of the dual empty station is properly positioned. Avoid reversing the front and back sides, as this can interfere with detection.
 
-![image](https://github.com/user-attachments/assets/c64ef8c8-48e9-498c-9426-68eba55b97f7)
+![image](https://github.com/user-attachments/assets/33d8b4c3-c684-48c0-80f2-95caf571004e)
 
-3. Remove the dust bag and close the lid of the dual empty station. If the lid is correctly detected, the orange light will blink three times.
-
-video: https://drive.google.com/file/d/1fO6RbkA_VQiXQH-BbipsSUgJMxAKikHS/view
-
+3. Remove the dust bag and close the lid of the dual empty station. If the lid is correctly detected, the orange light will blink three times ([video](https://drive.google.com/file/d/1fO6RbkA_VQiXQH-BbipsSUgJMxAKikHS/view)).
 Note: Since the dust bag is not installed, the orange light will remain constantly on afterward.
+4. Remove the rubber on the back of the lid and use a magnet or metal object to check for the built-in magnet ([video](https://drive.google.com/file/d/1fE3p34CjozYwWOxRd4Pb5yOr62rmFwlf/view)). If it's missing, please contact our support team through the SwitchBot App to get a replacement lid.
 
-4. Remove the rubber on the back of the lid and use a magnet or metal object to check for the built-in magnet. If it's missing, please contact our support team through the SwitchBot App to get a replacement lid.
+![image](https://github.com/user-attachments/assets/30014f82-ac36-46b7-aa65-13bcf8b81fd2)
 
-![image](https://github.com/user-attachments/assets/09ee9889-02ee-4ff1-86ba-ee5a7aa127b2)
-
-5. If the dust bag and lid are properly installed, and the magnet is in place, but the orange light stays on, please kindly provide a brief video demonstrating how to install the dust bag so that our team can assist you in arranging repairs.
-Thank you for your understanding and cooperation. If you need further assistance, please don’t hesitate to reach out.
 
 ---
 ### Instructions for SwitchBot Robot Vacuum K10+ Pro Combo Do-Not-Disturb Time Feature
