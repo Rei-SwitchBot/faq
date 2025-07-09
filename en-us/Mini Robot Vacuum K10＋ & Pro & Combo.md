@@ -2314,13 +2314,15 @@ Note: When choosing your shade fabric, remember:
 ![image](https://github.com/user-attachments/assets/1eedcd10-0b05-40d1-b720-27f8319fec33)
 If you need further assistance, feel free to reach out to our support team. We’re happy to help!
 
+
 ---
 ### Can I Use SwitchBot Remote to Open and Close SwitchBot Roller Shade?
 
 Yes, you can add open and close actions for the Roller shade to the Remote by tapping it in the SwitchBot app and assigning them to the convex and concave buttons.
 
+
 ---
-### The Brush on SwitchBot Robot Vacuum K10+ Pro Combo Nozzle Appears to Be Bent Out of Shape.
+### Troubleshooting The Brush on SwitchBot Robot Vacuum K10+ Pro Combo Nozzle Appears to Be Bent Out of Shape.
 
 We sincerely apologize for any inconvenience caused by our product.
 Upon checking, we found that the deformation of the brush on the nozzle was caused by pressure from the screwdriver inside the packaging.
@@ -2328,6 +2330,7 @@ To restore the brush to its original shape, please try softening the bristles wi
 If the brush does not return to its original condition after trying the above method, we will arrange for a replacement nozzle to be sent to you. Please feel free to contact us.
 Once again, we sincerely apologize for the inconvenience. Please rest assured that we have already improved the packaging to prevent this issue from happening in the future.
 Thank you for your understanding and continued support.
+
 
 ---
 ### Troubleshooting Guide for Constant Orange Light on Dual Dust Collection Station
