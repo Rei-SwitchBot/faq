@@ -167,7 +167,7 @@ Once the device is connected, tap "Start Using".
 
 The device has been successfully added.
 
-4． Should you have any inquiries, kindly access the SwitchBot application. Navigate through "Profile" then "Help & Feedback", and lastly, select "Feedback".
+4． Should you have any inquiries, kindly access the SwitchBot application. Navigate through "Profile" then "Support ", and lastly, select "Feedback".
 
 
 
@@ -343,7 +343,7 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+6． If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Ceiling Light, SwitchBot Ceiling Light Pro
 
@@ -390,7 +390,7 @@ Tap continue and then login to your SwitchBot account in the browser.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996942442391)
 
-5．If the above does not solve your issue, please submit a feedback ticket via our App for more assistance. When contacting us, we would appreciate it if you could provide a description of your issue. To leave feedback, simply navigate to SwitchBot App > Profile > Help & Feedback > Feedback > Create a New Ticket > Select the product you need support for > describe your issue in detail, and attach media should need be.
+5．If the above does not solve your issue, please submit a feedback ticket via our App for more assistance. When contacting us, we would appreciate it if you could provide a description of your issue. To leave feedback, simply navigate to SwitchBot App > Profile > Support  > Feedback > Create a New Ticket > Select the product you need support for > describe your issue in detail, and attach media should need be.
 
 
 
@@ -493,7 +493,7 @@ Last Updated：
 
 Related Products: SwitchBot Battery Circulator Fan
 
-Please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. Once our after-sales service team confirms the noise, we can arrange for a replacement. When contacting us, we would greatly appreciate it if you could provide the following information.
+please contact us via SwitchBot App -> Profile -> Support ->Feedback. Once our after-sales service team confirms the noise, we can arrange for a replacement. When contacting us, we would greatly appreciate it if you could provide the following information.
 
 Order Information
 
@@ -540,7 +540,7 @@ Set the power switch at the bottom to "I" again.
 
 Reconnect the power cable of the SwitchBot Battery Circulator Fan.
 
-3． If the issue persists even after the above steps, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will provide exchange service during the warranty period. When contacting us, it would be helpful if you could provide the following information:
+3． If the issue persists even after the above steps, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will provide exchange service during the warranty period. When contacting us, it would be helpful if you could provide the following information:
 
 A video of the constant on/off behavior of the night light.
 
