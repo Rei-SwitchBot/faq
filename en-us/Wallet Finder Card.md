@@ -245,33 +245,16 @@ SwitchBot Wallet Finder Card also functions as a standard NFC card. You can add 
 
 
 ---
-### What to Do If I Can't Add SwitchBot Wallet Finder Card to My Keypad?
+### Troubleshooting Can't Add SwitchBot Wallet Finder Card to SwitchBot Keypad Touch
 
-Last Updated: 2024 Aug 27
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. An NFC card is attached to the Keypad. Please check if the NFC card can be added to the Keypad.
+2. If you are using an Android phone, activate the NFC function and hold the Wallet Finder Card over the NFC reading position to check for a response. If you are using iPhone XS or later, download an App called NFC Tools from the App Store to test your Finder Card's NFC function.
+3. Try adding the Smart Finder Card by touching the lightning area with your Keypad to see if it helps.
 
-Related Product: SwitchBot Wallet Finder Card, SwitchBot Keypad
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/64871f9f-7712-4aaa-b803-2ab9847a47a2" />
 
-SwitchBot App Version: 8.8 or newer
-
-Firmware version: Keypad 2.0 or newer
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure your Keypad has been added to your App and your device firmware version is up to date.
-
-3. An NFC card is attached to the Keypad. Please check if the NFC card can be added to the Keypad.
-
-4. If you are using an Android phone, activate the NFC function and hold the Wallet Finder Card over the NFC reading position to check for a response. If you are using iPhone XS or later, download an App called NFC Tools from the App Store to test your Finder Card's NFC function.
-
-5. Try adding the Smart Finder Card by touching the lightning area with your Keypad to see if it helps.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25933002180503)
-
-6. If the issue persists, please submit feedback via SwitchBot App. We will forward your feedback to our R&D team for further assistance. When contacting us, we would appreciate your cooperation if you could provide us with the information below.
-
-A video of adding the smart finder card to your Keypad
-
-A photo showing the four-digit serial number on the bottom of the Keypad
 
 
 
