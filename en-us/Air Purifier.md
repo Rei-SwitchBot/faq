@@ -415,8 +415,9 @@ Regarding the pet hair not being drawn into the Air Purifier, could you please c
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+
 ---
-### Troubleshooting Even When Smoking Next to SwitchBot Air Purifier, the Air Quality Continues to Show “Very Good”
+### Troubleshooting Even When Smoking Next to SwitchBot Air Purifier, the Air Quality Continues to Show "Very Good"
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
@@ -424,20 +425,9 @@ Regarding this issue, could you please check the following points?
 - Gently introduce some dust near the sensor (lightly tapping a feather duster nearby would work)
 - Direct some mist from an ultrasonic humidifier toward the sensor area
 
-![image](https://github.com/user-attachments/assets/f6db5fc3-631a-411f-a3ee-3cfbb886cc1e)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5c9ccaaf-212e-4254-ae13-20a03c55d411" />
 
-2. If the issue persists after testing, we will escalate it to our R&D team for further investigation.
 
----
-### Troubleshooting Even When Smoking Next to SwitchBot Air Purifier, the Air Quality Continues to Show “Very Good”
-
-Long press the power button on SwitchBot Air Purifier for 15 seconds to reset it.
-
-![image](https://github.com/user-attachments/assets/e89ff4ec-afbb-4b1e-808f-24fc901d9e67)
-
-Note:
-
-With firmware version 23, holding down the power button for 15 seconds will reset the device and automatically enter Matter accessory pairing mode. In this mode, the air purifier cannot be detected by SwitchBot app. To exit Matter pairing mode and return to normal operation, hold the power button for 2 seconds.
 
 ---
 ### Troubleshooting SwitchBot Air Purifier Cannot Be Turned on
