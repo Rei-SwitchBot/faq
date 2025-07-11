@@ -1382,3 +1382,14 @@ Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmwa
 
 3. Please confirm that the firmware version is 4.6 or later by going to SwitchBot app > Universal Remote > Gear Icon > Firmware & Battery.
 
+
+
+---
+### IR Remotes Supported by SwitchBot Universal Remote without Using SwitchBot Hub
+
+SwitchBot Universal Remote was designed to control various infrared (IR) devices. However, the standalone SwitchBot Universal Remote supports a limited range of IR device brands and models. You can check the supported brands and models in SwitchBot App.
+
+<img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/5c5018b9-9e73-4e5b-a785-2ae8340c1f45" />
+
+To provide you with a more seamless and complete experience, we truly recommend using the Universal Remote together with SwitchBot Hub. When connected to SwitchBot Hub, the Universal Remote’s compatibility and functionality are greatly expanded. You can control a wider variety of IR devices, manage SwitchBot devices and scenes, and access advanced features such as Matter integration. This combination ensures you can fully enjoy all the features that SwitchBot Universal Remote has to offer.
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, , SwitchBot Hub 3
