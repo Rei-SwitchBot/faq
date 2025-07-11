@@ -1125,3 +1125,15 @@ Regarding this issue, could you please check the following points?
 If the battery only lasts about two weeks, take these precautions:
 In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
 The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, sensitivity, or limit detection to people to improve this.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Won't Turn on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We apologize for any inconvenience our product caused.
+Please follow the steps below to troubleshoot:
+1. Please use the 5V1A charging adapter to charge your camera for at least one hour.
+2. Open the cover on the back of the camera, then you will see an on/off button, switch it to off then back on.
+3. Try long pressing the reset button for 5 seconds to reset your camera.
