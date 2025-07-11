@@ -1938,3 +1938,23 @@ If you have noticed differences in CO2 readings between the SwitchBot CO2 Monito
 Note:
 The calibration process will take 5 minutes. Please refrain from moving your device during this time.
 Calibration can only be performed within the Bluetooth range of the Meter Pro (CO2 Monitor).
+
+
+---
+### Troubleshooting the Temperature and Humidity Reading Is Different on My SwitchBot Meter Pro and CO2 Monitor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the device itself is selected as the data source by going to SwitchBot App -> Meter Pro or CO2 Monitor -> Settings (gear icon) -> Panel Display -> Temp and Humidity Source.
+2. Place your Meter Pro and CO2 Monitor in the same location, keeping at least 1 cm (0.4 inches) of distance between them to avoid interference.
+3. Wait 30 minutes after placement and check the readings again. 
+Normal differences in accuracy:
+  1. Temperature:
+    1. ±0.4°C at -20°C to 0°C
+    2. ±0.2°C at 0°C to 65°C
+    3. ±0.3°C at 65°C to 80°C
+  2. Humidity:
+    1. ±2% (at 25°C, 10%~90%RH)
+    2. ±4% (at 25°C, 0%~10%, 90%~99%RH)
+4. If the readings still differ significantly, you can manually calibrate the devices by opening SwitchBot App -> Meter Pro or CO2 Monitor -> Settings (gear icon) -> Calibration, and adjust the temperature and humidity readings to match.
+Note: When the CO2 update frequency is set to less than 1 minute, the CO2 sensor is continuously active, which may cause the device to heat up slightly and affect the sensor's accuracy. In such cases, you may need to reset the sample frequency interval.
