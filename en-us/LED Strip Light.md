@@ -188,3 +188,17 @@ Please make sure that the LED Strip Light and the adapter are properly connected
 
 If the LED Strip Light still does not light up after checking the above, could you please provide us with a video showing that the main unit does not glow when the LED Strip Light is plugged into an outlet?
 If the LED Strip Light still does not light up after checking the above, could you please provide us with a video showing that the main unit does not glow when the LED Strip Light is plugged into an outlet?
+
+
+
+---
+### Troubleshooting SwitchBot LED Strip Light Glows Weakly in Total Darkness Even When Turned Off
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please attempt to reset the strip light and observe if it resolves the issue.
+1. Turn on the LED Strip Light.
+2. Press and hold the power (on/off) button and the music mode button on the controller at the same time for 8 seconds.
+3. The LED Strip Light will flash red, green, and blue in sequence to indicate that the reset is complete.
+
+<img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/0dd0fa40-316a-4a51-a8f7-e90505f83244" />
