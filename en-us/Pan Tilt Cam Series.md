@@ -2527,3 +2527,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Launch SwitchBot app → Pan/Tilt Cam Plus 3K → Turn on/off Night Vision under the features on the bottom right corner of the screen.
 2. Turn on/off the power to the Pan/Tilt Cam Plus 3K.
+
+
+---
+### Troubleshooting SwitchBot Pan/Tilt Cam Plus 2K Frequently Goes Offline
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have other SwitchBot cameras, please check if they are also experiencing the same issue. If so, it may be worth reviewing your home Wi-Fi connection.
+2. If only the Pan Tilt Cam Plus 2K is frequently losing connection, please try placing the camera within 3 meters of your router to see if this improves stability.
+3. Check if there are any other wireless electronic devices near the camera that could be causing interference. You can try moving the camera to a different location or adjusting its angle to see if that helps.
+4. Try switching your phone’s Wi-Fi network or using mobile data to see if the camera still disconnects.
