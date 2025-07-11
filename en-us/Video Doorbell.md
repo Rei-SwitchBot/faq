@@ -246,3 +246,37 @@ Please note:
 Make sure that your smartphone and device are in close proximity when updating.
 If the update does not appear, please restart the app.
 Please update in the following order: SwitchBot App -> Smart Video Doorbell -> Gear Icon in the upper right corner -> "Firmware & Battery".
+
+
+---
+### Installation Precautions for SwitchBot Smart Video Doorbell
+
+Villas and Houses: 10 meters away from the entrance door without any obstruction. For example, installed in a bedroom doorway or living room. If the entrance door is made of iron, please install the device within 5 meters for a stable connection.
+Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
+Please note: 
+- Do not place the monitor on a metal table.
+- Install the monitor as close to the router as possible.
+
+Doorbell:
+1. It's recommended to position your device 1.2 m to 1.5 m (44 ft to 4.9 ft) off the ground. To get a better signal strength, please avoid installation on metal door or surface.
+
+<img width="289" height="260" alt="image" src="https://github.com/user-attachments/assets/9fcfc1b2-187d-4abc-8910-5cb97ed42a66" />
+
+2. Use the provided wall mounting kit and corner kit to angle your device properly and avoid unwanted motion events.
+
+<img width="566" height="207" alt="image" src="https://github.com/user-attachments/assets/bac83391-d4fa-4f8f-868f-d66e52cb37a8" />
+
+3. Ensure your Doorbell's camera is not directed at light-coloreed walls, and keep it away from direct sunlight.
+
+<img width="782" height="257" alt="image" src="https://github.com/user-attachments/assets/f206cb86-2887-4b39-bf97-f4d1b116637b" />
+
+4. Leave at least 6 cm (2.4 in.) of clearance on the right side of your Doorbell for easy clamping and removal.
+
+<img width="276" height="257" alt="image" src="https://github.com/user-attachments/assets/988b14f6-390d-4cdf-8f21-8f4af9f7669a" />
+
+5. To ensure a stable connectivity, keep an appropriate distance beetween your Doorbell, Monitor, SwitchBot Lock devices, and the router.
+
+
+
+
+
