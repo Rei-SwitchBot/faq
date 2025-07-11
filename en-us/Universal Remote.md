@@ -1436,3 +1436,16 @@ Regarding this issue, could you please check the following points?
 Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
 
 <img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/5fe91fb9-ecbb-442c-b9c7-52bf9e7c9cf5" />
+
+
+---
+### Troubleshooting Can't Pair SwitchBot Universal Remote Due to Error Message "Device initialization is abnormal"
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Universal Remote can only be added to one account. If a Universal Remote is added to another account of yours, please delete the Universal Remote from that account first and then add it to a new account.
+※Long press the SwitchBot Universal Remote icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+https://support.switch-bot.com/hc/en-us/articles/4424755304215
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Universal Remote will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
