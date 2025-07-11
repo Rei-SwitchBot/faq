@@ -259,7 +259,7 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### What to Do If the Location Information for My Wallet Finder Card Is Not Updated?
+### Troubleshooting the Location Information for My Wallet Finder Card SwitchBot on SwitchBot App Is Not Updated
 
 Related Product: SwitchBot Wallet Finder Card
 SwitchBot App Version: 9.0 or newer
