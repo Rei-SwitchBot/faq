@@ -1347,26 +1347,9 @@ Regarding this issue, could you please check the following points?
 2. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. 
 Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
 
-![image](https://github.com/user-attachments/assets/c96dbe7d-c2c0-4d4a-ae1e-ecf118e8295b)
+<img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/d2b31fcd-4ee9-472e-9427-830e64af816c" />
 
-
-3. If the issue persists, to determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
-
-4. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
+3. Please update the firmware of the universal remote to the latest version if the device is booted by firmware recovery.
 
 
 ---
