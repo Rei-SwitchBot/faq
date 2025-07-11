@@ -1834,6 +1834,7 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - ZIP/Postal Code
 - A screenshot of your order
 
+
 ---
 ### How to Sync Temperature and Humidity Data Stored in SwitchBot Meter to Cloud?
 
@@ -1884,13 +1885,27 @@ The SwitchBot Meter collects data every 4 seconds and saves it every minute.
 When using the widget, due to limitations of the smartphone system, it may take at least 15 minutes for the data to update.
 There is a time delay between the temperature and humidity data in the widget compared to that displayed in the SwitchBot app and device. We apologize for any inconvenience this may cause.
 
+
 ---
 ### How often is the temperature and humidity data updated on the widget for SwitchBot?
 
 Apple hasn’t officially specified how often widgets refresh their data. However, we can confirm that when the SwitchBot App is open, the iOS widget updates the temperature and humidity data approximately every 5 minutes. Since the SwitchBot Meter collects data every 4 seconds and saves it every minute, there may be a slight delay between what you see in the widget and the actual readings in the app or on the device itself. We apologize for any inconvenience this might cause and appreciate your understanding.
+
 
 ---
 ### Can I View CO2 Readings in Apple Home App?
 
 If you sync your CO2 Monitor to Apple Home via Hub 2 or Hub Mini Matter, the app will not display CO2 readings or air quality data. However, if connected through Hub 3, you can view air quality metrics in the Apple Home app.
 
+
+---
+### Troubleshooting SwitchBot  Meter Pro (CO2 Monitor) Is Not Showing the CO2 Readings
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the batteries from the CO2 Monitor (or unplug the power adapter if using the charging cable) and wait for about one minute.
+2. Power the CO2 Monitor back on.
+3. Remove the device from your app, reset it, and then re-add it.
+  a. In the SwitchBot app, long press the CO2 Monitor (Meter Pro) to remove it.
+  b. Press and hold the button at the top of the CO2 Monitor for 15 seconds to reset it.
+  c. After resetting, try re-adding the CO2 Monitor to the SwitchBot app.
