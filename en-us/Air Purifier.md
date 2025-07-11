@@ -1,4 +1,4 @@
----
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b5bd38fb-a595-4751-8b8c-439688282c50" />---
 
 ## Air Purifier
 
@@ -435,36 +435,16 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting SwitchBot Air Purifier Cannot Be Turned on
+### Troubleshooting SwitchBot Air Purifier Table Cannot Be Turned on
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the air purifier not powering on, could you please check the following points?
-1. Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet.
-2. Check if there is any visible damage to the Air Purifier’s power cord.
-3. Confirm that the air intake (as shown in the diagram, Air Purifier is number 6 while Air Purifier Table is number 7) is properly attached to the Air Purifier.
+1. Ensure that the provided power cord is securely connected to the Air Purifier Table and plugged into a working power outlet.
+2. Check if there is any visible damage to the Air Purifier Table’s power cord.
+3. Confirm that the air intake (as shown in the diagram, number 7) is properly attached to the Air Purifier Table.
 
-Air Purifier
-![image](https://github.com/user-attachments/assets/f98e911e-22ea-48e7-964e-28b3593ca831)
+<img width="671" height="553" alt="image" src="https://github.com/user-attachments/assets/3c5978dc-5e2c-4239-9c4d-67d7e067ea94" />
 
-Air Purifier Table
-
-![image](https://github.com/user-attachments/assets/552e6156-ae98-47e6-9d8e-002c3030b93a)
-
-4. To determine if your device needs to be replaced or repaired, could you please provide us with a video showing the air purifier not powering on?
-5. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
@@ -514,3 +494,21 @@ Regarding this issue, could you please check the following points?
 3. Clear any dust or debris from the intake and exhaust vents, as well as the pre-filter.
 4. Set the Air Purifier Table to its highest mode or pet mode for stronger air purification.
 5. If the filter has been in use for a while, it may be time to replace it for optimal performance.
+
+
+---
+### Troubleshooting SwitchBot Air Purifier Table's Mood Light Won't Turn on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the mood light not turning on, could you please check the following points?
+1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
+
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/55e9752e-9614-4bdf-9116-f35e9a0f5367" />
+
+In the "Off" setting, the light will not turn on.
+In the "Auto" setting, the light will automatically turn off when the area around the air purifier becomes dark. Also, please ensure the light sensor is not covered during normal use.
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/fe91cd10-360c-4777-b7c6-387f313355d0" />
+
+In the "On" setting, the light will stay on continuously.
+
