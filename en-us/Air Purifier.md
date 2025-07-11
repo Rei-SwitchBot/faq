@@ -491,3 +491,14 @@ Regarding this issue, could you please check the following points?
 2. Make sure that the plastic bag around the filter has been removed and that the filter is properly installed.
 3. Inspect the Air Purifier Table for any foreign objects that may have entered the device.
 4. Depending on the environment, we recommend replacing the filter every 6 to 12 months. If it's been a while, you may want to replace the filter.
+
+
+---
+### Troubleshooting SwitchBot Air Purifier Table Has a Strange Odor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check the filter to see if it’s dirty. If needed, please replace the filter.
+2. If the Air Purifier Table has been used in a high-humidity environment (over 70% humidity) for a long period, bacteria may grow, leading to odors. We recommend using the purifier in a less humid environment.
+3. If the Air Purifier Table is used in a room with strong odors (like cigarette smoke or barbecue), the　Air Purifier Table may emit odors for several weeks. In this case, replacing the filter can help.
+Please note: Depending on the environment, it is recommended to replace the filter every 6 to 12 months to ensure optimal performance.
