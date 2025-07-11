@@ -357,22 +357,27 @@ You can sync your Air Purifier with the Apple Home app or Google Home app as a s
 2. Direct Matter Compatibility
 Under firmware V2.2-2.2, you can use SwitchBot Air Purifier as a standalone device directly compatible with Matter. With this method, Hub 2 or Hub Mini Matter Enabled is not required.
 
+
 ---
 ### Troubleshooting Slow Wireless Charging on SwitchBot Air Purifier Table
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 The wireless charging pad on the SwitchBot Air Purifier Table supports up to 15W for Android devices and 7.5W for Apple devices. However, charging times may vary depending on your smartphone model, and several factors can influence charging speed. Here are some tips to help you optimize the charging experience:
 1. For the best charging performance, make sure the charging coil in your phone is properly aligned with the coil on the charging pad. Since the position of the coil varies between devices, we recommend checking your smartphone’s manual for specific alignment instructions.
 2. If your phone has a protective case, especially a thicker one, it may reduce charging efficiency and result in slower charging times. Thicker cases can also cause slight heating during charging. For faster charging, try removing the case or using a thinner one.
 3. If your phone case includes a metal plate (as shown in the image), it may prevent wireless charging altogether. We recommend using a case without a metal plate or removing the case entirely before placing your phone on the charging pad.
 
-![image](https://github.com/user-attachments/assets/e3f10df0-4093-4721-885e-b2214b11a024)
+<img width="1037" height="1280" alt="image" src="https://github.com/user-attachments/assets/7d590a13-e740-4829-82b9-4942f4006ae0" />
 
-If you’ve checked the above factors and still find the wireless charging speed unusually slow, please feel free to reach us again, we will forward your feedback to our R&D team for further assistance.
+4. The time required to fully charge the battery may vary depending on the smartphone model. If the battery is able to reach full capacity, there should be no issues with the air purifier. If charging stops before reaching full capacity, please feel free to contact us.
+
 
 ---
 ### Will SwitchBot Air Purifier Reduce Its Fan Speed After Odors Dissipate When Set to Pet Mode?
 
 In Pet Mode, the air purifier operates at a minimum speed of 1800 rpm and a maximum speed of 2250 rpm. When set to Pet Mode, the fan speed automatically adjusts between 1800 and 2250 rpm based on changes in odor levels. As the odor weakens, the fan speed will gradually decrease to the minimum speed of 1800 rpm.
+
 
 ---
 ### Will SwitchBot Air Purifier Reduce Its Fan Speed After Odors Dissipate When Set to Pet Mode?
