@@ -449,11 +449,13 @@ When your finder card is within Bluetooth range of your smartphone (nearby), the
 If you want to get notifications when you leave your finder card behind, make sure you're using SwitchBot app version 9.9 or later. Then, tap the finder card on the app and enable the "Lost Notifications (Beta)" feature.
 If you have any other questions, feel free to contact us for help.
 
+
 ---
 ### Can I Use One SwitchBot Wallet Finder Card with Multiple iPhones' Find My App?
 
 For security reasons, each Wallet Finder Card can only be added with one iPhone's Find My app at a time.
 Note: If you get a new iPhone but use the same Apple ID, your added finder card will automatically sync to the Find My app on your new device.
+
 
 ---
 ### Troubleshooting SwitchBot Wallet Finder Card Emits a Sound When I Pick up My Wallet
@@ -470,3 +472,12 @@ Note: This function relies on Apple's network so it can only be experienced with
 
 If you have any further questions, please don't hesitate to ask.
 
+
+---
+### Troubleshooting the Location Information for My Wallet Finder Card SwitchBot on Find My App Is Not Updated
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+In Apple’s Find My App, the Wallet Finder Card does not update its location in real-time. Instead, it relies on nearby Apple devices to track its location. The frequency of updates depends on the availability of Apple’s network and whether an iPhone detects the signal from the Finder Card.
+In places with lots of iPhones around, the location may update every few minutes. However, in areas where there are fewer iPhones, it might take longer—sometimes 15 or 30 minutes, or even more. These intervals are not consistent and can be influenced by external factors beyond your control.
+For more information about how Find My App works, we recommend checking [Apple’s official documentation](https://support.apple.com/en-us/104978).
