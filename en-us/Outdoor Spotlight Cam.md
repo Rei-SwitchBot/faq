@@ -1129,3 +1129,12 @@ Please follow the steps below to troubleshoot:
 1. Please use the 5V1A charging adapter to charge your camera for at least one hour.
 2. Open the cover on the back of the camera, then you will see an on/off button, switch it to off then back on.
 3. Try long pressing the reset button for 5 seconds to reset your camera.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Real-time Monitoring Screen Turned pink
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Launch SwitchBot app → Outdoor Spotlight Cam 2K → Turn on/off Night Vision under the features on the bottom right corner of the screen.
+2. Turn on/off the power to the Outdoor Spotlight Cam 2K.
