@@ -1403,3 +1403,15 @@ Regarding this issue, could you please check the following points?
 5. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
 
 <img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/32a39d5d-29e7-492b-8c3f-b1b4594c2be0" />
+
+
+---
+### Troubleshooting My New Universal Remote Showing Red Broken File Icon
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please charge the device using the provided cable for at least one hour and ensure it can power on.
+2. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. 
+Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+
+<img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/8964c4f2-e9a9-4cbf-bdd1-b9034949a9cd" />
