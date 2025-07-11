@@ -2395,13 +2395,24 @@ If you have any questions, please don't hesitate to contact us.
 ---
 ### Troubleshooting Debris Left in the Dust Cup of SwitchBot Cordless Vacuum Cleaner
 
-Thank you for reaching out to us. We’re truly sorry for any inconvenience caused by finding debris in the dust cup of your cordless vacuum cleaner. To assist you better, could you please provide a photo showing the debris left in the dust cup of your cordless vacuum cleaner? This will help us better understand the issue and provide a suitable solution.
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-If it's the tangled hairs that aren't completely vacuumed up, please press the button on the dust cup to open the lid, then manually remove any remaining debris, such as hair or dust.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the cordless vacuum cleaner is paired with the dual empty station. If either of the following can be confirmed, it means they are already paired:
+  1. When the cordless vacuum cleaner is collecting dust, both fans of the cordless vacuum cleaner and the dual empty station are operating.
+  2. Access a dust collection item for the cordless vacuum cleaner by going to SwitchBot app -> K10+ Pro Combo -> Functions.
+2. Check if the dust bag is full.
+3. If the dust bag is full, replace the dust bag with a new one. Also manually clean the bottom of the dust cup.
 
-![image](https://github.com/user-attachments/assets/83e5f9f9-8b58-40b2-b2b1-7b0650519cde)
+<img width="551" height="447" alt="image" src="https://github.com/user-attachments/assets/33b52ef4-e06f-4eec-a128-53f17eeb4f1e" />
 
-In other cases, our customer team will get back to you after confirmation.
+4. It is recommended to collect dust when the dust cup reaches the MAX line.
+
+<img width="614" height="686" alt="image" src="https://github.com/user-attachments/assets/f6087cd0-f7e4-43f3-aae5-227fe7f7a99d" />
+
+5. If it's the tangled hairs that aren't completely vacuumed up, please press the button on the dust cup to open the lid, then manually remove any remaining debris, such as hair or dust.
+
+<img width="1062" height="675" alt="image" src="https://github.com/user-attachments/assets/db6becae-32a6-425d-a631-c5f68e0de30a" />
+
 
 
 ---
