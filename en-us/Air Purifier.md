@@ -482,3 +482,12 @@ Regarding the pet hair not being drawn into the Air Purifier, could you please c
 
 
 
+---
+### Troubleshooting SwitchBot Air Purifier Table Keeps Making Noise While Running
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure your Air Purifier Table is placed on a firm, flat surface.
+2. Make sure that the plastic bag around the filter has been removed and that the filter is properly installed.
+3. Inspect the Air Purifier Table for any foreign objects that may have entered the device.
+4. Depending on the environment, we recommend replacing the filter every 6 to 12 months. If it's been a while, you may want to replace the filter.
