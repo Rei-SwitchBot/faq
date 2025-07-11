@@ -417,13 +417,10 @@ Regarding the issue of not being able to add the Wallet Finder Card to your app,
 1. Make sure your SwitchBot App version is up to date.
 2. Press the button on the finder card 5 times rapidly, then hold it down for 15 seconds on the 5th press to reset the background cache. When you hear 3 beeps, the reset process is complete.
 
-![image](https://github.com/user-attachments/assets/164e7b01-a530-4f1c-9c5e-eaa3d1eaac29)
+<img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/5bed0300-3241-4773-9b43-f1b09625d7de" />
 
 3. To re-add the card, press and hold the button for two seconds.
-4. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, we would appreciate it if you could share a video showing the failed pairing process. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
 
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### How to Reset SwitchBot Wallet Finder Card
