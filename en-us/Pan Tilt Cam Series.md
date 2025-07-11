@@ -2534,7 +2534,13 @@ For the best experience when watching live videos, we recommend using a stable W
 - Tap personalized recommandations.
 - Switch On to Off.
 
-
 3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 
+---
+### Troubleshooting SwitchBot Pan/Tilt Cam Plus 3K Real-time Monitoring Screen Turned pink
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Launch SwitchBot app → Pan/Tilt Cam Plus 3K → Turn on/off Night Vision under the features on the bottom right corner of the screen.
+2. Turn on/off the power to the Pan/Tilt Cam Plus 3K.
