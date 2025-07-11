@@ -1060,7 +1060,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the camera not charging with the solar panel, could you please check the following points?
 1. Turn off the camera's power button, wait for 2 minutes, then turn it back on.
 
-![image](https://github.com/user-attachments/assets/eb23890a-e871-4cf8-af19-ddfcbe167b9d)
+<img width="415" height="284" alt="image" src="https://github.com/user-attachments/assets/5cde5fa6-2459-40e8-8761-1889aa62445f" />
 
 2. Please ensure the following when using solar panels to charge your device:
 - The solar panel must be securely connected to your camera
@@ -1071,18 +1071,10 @@ Regarding the issue of the camera not charging with the solar panel, could you p
 3. If the battery drains quickly, you may not be able to reach 100% even with continuous charging. Any of the following settings may drain the battery at a high rate, so adjust settings as needed to prevent high battery drain.
 - Make sure that the recording mode is not set to "Continuous" or "Pre-event" as these modes will deplete the battery more quickly. To check, go to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear icon -> Local Storage -> Recording.
 
-![image](https://github.com/user-attachments/assets/d431b117-d51a-4963-9bd7-1aeec3c2c016)
+<img width="1121" height="2152" alt="image" src="https://github.com/user-attachments/assets/ac2fca1c-afa2-4206-ab62-ee2743e81af9" />
 
 - Check the motion sensitivity setting by going to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear icon -> Motion Detection -> Sensitivity. If the detection sensitivity is set to high, the battery will drain faster.
 - Check the detection mode setting by going to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear icon -> Motion Detection -> Detection Mode. If the detection mode is set to "more protection", the battery will be drained faster.
-
-4. If the issue persists after checking above, we would appreciate it if you could provide the following information so we can assess if the camera needs to be replaced.
-- Screenshots showing the recording mode, detection sensitivity, and detection mode settings of the camera
-- A photo showing your camera's installation environment
-
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
