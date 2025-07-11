@@ -1446,6 +1446,6 @@ Regarding this issue, could you please check the following points?
 1. One SwitchBot Universal Remote can only be added to one account. If a Universal Remote is added to another account of yours, please delete the Universal Remote from that account first and then add it to a new account.
 ※Long press the SwitchBot Universal Remote icon→tap the Delete button→confirm deletion
 2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
-https://support.switch-bot.com/hc/en-us/articles/4424755304215
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
 3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Universal Remote will be automatically unbinded and you will be able to add it.
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
