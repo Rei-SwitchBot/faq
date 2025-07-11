@@ -1393,3 +1393,16 @@ SwitchBot Universal Remote was designed to control various infrared (IR) devices
 
 To provide you with a more seamless and complete experience, we truly recommend using the Universal Remote together with SwitchBot Hub. When connected to SwitchBot Hub, the Universal Remote’s compatibility and functionality are greatly expanded. You can control a wider variety of IR devices, manage SwitchBot devices and scenes, and access advanced features such as Matter integration. This combination ensures you can fully enjoy all the features that SwitchBot Universal Remote has to offer.
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, , SwitchBot Hub 3
+
+
+---
+### Troubleshooting Can't Add SwitchBot Universal Remote to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Press the ON and OFF buttons on the Universal Remote simultaneously for 2 seconds to enter pairing mode.
+3. Press the reset pin into the hole at the bottom of the Universal Remote once to restart the device.
+3. Turn off and then back on your smartphone's Bluetooth.
+4. Restart your smartphone.
+5. Please check if the storage capacity of your smartphone is sufficient. If you have another smartphone, try using it to add the device.
