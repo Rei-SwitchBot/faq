@@ -1424,3 +1424,15 @@ Regarding this issue, could you please check the following points?
 5. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
 
 <img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/8e79aea9-937c-41e9-ac49-23eb2279b807" />
+
+
+---
+### Troubleshooting After the Update, a Few Seconds Later the Universal Remote Shows the Red Symbol Again
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version is 4.6 or later by going to SwitchBot app > Universal Remote > Gear Icon > Firmware & Battery.
+2. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. 
+Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+
+<img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/5fe91fb9-ecbb-442c-b9c7-52bf9e7c9cf5" />
