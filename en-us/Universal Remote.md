@@ -1389,3 +1389,17 @@ Regarding this issue, could you please check the following points?
 3. Turn off and then back on your smartphone's Bluetooth.
 4. Restart your smartphone.
 5. Please check if the storage capacity of your smartphone is sufficient. If you have another smartphone, try using it to add the device.
+
+
+---
+### Troubleshooting Can't Synchronize the Added Infrared Remote Control to SwitchBot Universal Remote
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version is 4.6 or later by going to SwitchBot app > Universal Remote > Gear Icon > Firmware & Battery.
+2. Synchronization may fail due to connection instability, please wait a moment and attempt syncing again.
+3. Remove the Universal Remote from the SwitchBot app and then add it back.
+4. Restart the device by pressing the reset pin once in the hole located on the bottom of the Universal Remote.
+5. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+
+<img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/32a39d5d-29e7-492b-8c3f-b1b4594c2be0" />
