@@ -1369,4 +1369,16 @@ Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmwa
 
 
 
+---
+### Troubleshooting SwitchBot Universal Remote Doesn't Charge
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please charge the device using the provided cable for at least one hour and ensure it can power on.
+2. Press and hold the kata button on the Universal Remote and use the reset pin to shortpress the reset hole on the bottom of the device. 
+Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+
+<img width="568" height="605" alt="image" src="https://github.com/user-attachments/assets/7b2f915a-6945-4af7-9d40-7c67014f1c0f" />
+
+3. Please confirm that the firmware version is 4.6 or later by going to SwitchBot app > Universal Remote > Gear Icon > Firmware & Battery.
 
