@@ -1897,3 +1897,24 @@ Regarding this issue, could you please check the following points?
   a. In the SwitchBot app, long press the CO2 Monitor (Meter Pro) to remove it.
   b. Press and hold the button at the top of the CO2 Monitor for 15 seconds to reset it.
   c. After resetting, try re-adding the CO2 Monitor to the SwitchBot app.
+
+
+---
+### Troubleshooting: Differences in CO2 Readings Between Multiple SwitchBot Meter Pro (CO2 Monitors)
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+If you have purchased multiple SwitchBot Meter Pro (CO2 Monitors) and notice differences in their CO2 readings, please follow the steps below to determine if the readings are within the acceptable range and resolve any discrepancies.
+1. Position the CO2 monitors in the same location, ensuring there is at least 1 cm of space between each device. Avoid blocking the ventilation ports.
+2. Leave the devices undisturbed for five minutes. Then, press the button on the top of each CO2 monitor once to update the display.
+3. Check the measurement tolerance.
+The CO2 Monitor’s measurement tolerance is ±(50 ppm + 5% of the reading). For example, if Monitor A shows a CO2 concentration of 800 ppm, the acceptable range for the other monitors would be 710–890 ppm. If all readings fall within this range, the devices function correctly.
+4. If the readings are outside the acceptable range, use SwitchBot App to calibrate the CO2 monitors.
+- Launch SwitchBot App and log in.
+- Tap your Meter Pro (CO2 Monitor) .
+- Tap the gear icon in the upper right corner.
+- Tap "Calibrate" on the settings screen.
+- Tap "CO2 Monitor".
+- Follow the on-screen instructions and place your Meter Pro (CO2 Monitor) in a well-ventilated area for 1 minute and then tap "Calibrate".
+Note:
+The calibration process will take 5 minutes. Please refrain from moving your device during this time.
+Calibration can only be performed within the Bluetooth range of the Meter Pro (CO2 Monitor).
