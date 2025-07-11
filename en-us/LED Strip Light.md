@@ -176,3 +176,15 @@ The link will be automatically established.
 3. Please kindly note that the remote control can only be operated at a distance of approximately 4 meters from the controller's IR(infrared) signal receiver.
 
 
+
+---
+### Troubleshooting SwitchBot LED Strip Light Won't Turn on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please make sure that the LED Strip Light and the adapter are properly connected.
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c68576a8-62ae-40d6-b3df-3a1a554ee283" />
+
+If the LED Strip Light still does not light up after checking the above, could you please provide us with a video showing that the main unit does not glow when the LED Strip Light is plugged into an outlet?
+If the LED Strip Light still does not light up after checking the above, could you please provide us with a video showing that the main unit does not glow when the LED Strip Light is plugged into an outlet?
