@@ -3617,8 +3617,28 @@ Reset video: https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/v
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### What Is the Effective Aisle Width for SwitchBot Mini Robot Vacuum K10+ Pro?
 
 The optimal aisle width for the K10+ Pro is 30cm.
+
+
+---
+### Troubleshooting the Dust in the Cordless Vacuum Cleaner Is not Automatically Collected After Placing it in the Dual Empty Station
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please note that the cordless vacuum cleaner can only collect dust twice within a five-minute period.
+2. Please make sure the battery of the cordless vacuum cleaner is securely inserted. It will not be fully inserted when shipped from the factory, so please insert it yourself before use.
+3. Try repairing the Cordless Vacuum Cleaner and the Dual Empty Station in the following order:
+- Launch SwitchBot app and log in.
+- Tap Robot Vacuum K10+ Pro Combo.
+- Tap the gear icon in the upper right corner.
+- Tap "Pair Device" on the Settings screen.
+- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap “next”.
+- The device will be searched and connected automatically.
+4. Press the button in the middle of the dust collection bracket to check if the cordless vacuum cleaner is collecting dust.
+
+<img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/f185bedd-7585-4597-b7d7-0c01dc436b6e" />
 
