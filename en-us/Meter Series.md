@@ -1918,3 +1918,23 @@ The CO2 Monitor’s measurement tolerance is ±(50 ppm + 5% of the reading). For
 Note:
 The calibration process will take 5 minutes. Please refrain from moving your device during this time.
 Calibration can only be performed within the Bluetooth range of the Meter Pro (CO2 Monitor).
+
+
+---
+### Troubleshooting: Differences in CO2 Readings Between SwitchBot Meter Pro (CO2 Monitor) and Other Brands' CO2 Sensors
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+If you have noticed differences in CO2 readings between the SwitchBot CO2 Monitor and other sensors, please follow the steps below to determine if the readings are within an acceptable range and resolve any discrepancies.
+1. Position the CO2 monitors in a well-ventilated location (outdoors recommended), ensuring there is at least 1 cm of space between each device. Avoid blocking the ventilation ports.
+2. Leave the devices undisturbed for five minutes. Then, press the button on the top of SwitchBot CO2 monitor once to update the display.
+3. Check the measurement tolerance. If the CO2 concentration on the SwitchBot CO2 Monitor reads 400-500 ppm, the device functions correctly.
+4. If the readings exceed 500, calibrate the CO2 monitor using the SwitchBot App and retry steps 1 and 2.
+- Launch SwitchBot App and log in.
+- Tap your Meter Pro (CO2 Monitor) .
+- Tap the gear icon in the upper right corner.
+- Tap "Calibrate" on the settings screen.
+- Tap "CO2 Monitor".
+- Follow the on-screen instructions and place your Meter Pro (CO2 Monitor) in a well-ventilated area for 1 minute and then tap "Calibrate".
+Note:
+The calibration process will take 5 minutes. Please refrain from moving your device during this time.
+Calibration can only be performed within the Bluetooth range of the Meter Pro (CO2 Monitor).
