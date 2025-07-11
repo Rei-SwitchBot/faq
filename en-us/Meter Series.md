@@ -1779,24 +1779,12 @@ SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini 
 
 
 ---
-### Troubleshooting The Numbers on SwitchBot Meter’s Screen Are Partially Missing
+### Troubleshooting SwitchBot Meter Pro (CO2 Monitor) Display is partially missing
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding the issue you mentioned, could you please provide a photo showing the missing numbers on the Meter screen so that we can determine whether the device needs to be replaced?
-Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+Regarding this issue, could you please check the following points?
+1. Remove the batteries from the CO2 Monitor (or unplug the power adapter if using the charging cable) and wait for about one minute.
+2. Power the CO2 Monitor back on.
 
 
 ---
