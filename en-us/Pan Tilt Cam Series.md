@@ -2101,31 +2101,14 @@ Video that doesn't turn on when plugged in
 
 
 ---
-### What to Do If My Pan/Tilt Cam Stays Offline?
+### Troubleshooting SwitchBot Pan/Tilt Cam Plus 3K Frequently Goes Offline
 
-Last Updated: 2024/08/08
-
-Related Products: SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Pan/Tilt Cam Plus 2K, SwitchBot Pan/Tilt Cam Plus 3K,
-
-SwitchBot App Version: 8.7 or newer
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Please check the indicator light status by unplugging and then plugging in the power supply for your Pan/Tilt Cam.
-
-3. If the indicator light is red:
-
-[My SwitchBot camera indicator light is always red, what should I do?](https://support.switch-bot.com/hc/en-us/articles/12141826044695)
-
-4. If the indicator light is green and there is nothing wrong with other Wi-Fi products in your home, please remove the camera from SwitchBot App and try adding it again.
-
-5. If the camera is offline on your home Wi-Fi, please switch to cellular on your smartphone and see if you can view the video.
-
-6. If you are using a VPN, please disconnect the VPN connection and see if the problem improves.
-
-7. If the above does not resolve the issue, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.  We will forward your feedback to our development team for further assistance. When contacting us, we would appreciate it if you could provide us with the following information.
-
-A screenshot showing that your camera's live stream is offline
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have other SwitchBot cameras, please check if they are also experiencing the same issue. If so, it may be worth reviewing your home Wi-Fi connection.
+2. If only the Pan Tilt Cam Plus 3K is frequently losing connection, please try placing the camera within 3 meters of your router to see if this improves stability.
+3. Check if there are any other wireless electronic devices near the camera that could be causing interference. You can try moving the camera to a different location or adjusting its angle to see if that helps.
+4. Try switching your phone’s Wi-Fi network or using mobile data to see if the camera still disconnects.
 
 
 
