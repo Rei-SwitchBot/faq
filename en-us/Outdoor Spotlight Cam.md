@@ -1101,6 +1101,7 @@ Regarding the issue of the camera not charging with the solar panel, could you p
 
 3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
+
 ---
 ### Troubleshooting All Detected Events Show Incorrect Date (March 1, 2024) on SwitchBot Outdoor Spotlight Cam
 
@@ -1113,4 +1114,14 @@ Please note that the incorrect dates cannot be fixed, this means that you will n
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Suddenly Drains All Batteries
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure you are using the power adapter when using continuous recording or pre-event recording modes. The battery may drain completely within a day, even if a solar panel is connected under these two recording modes. You can check the recording mode by going to -> SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear Icon -> Local Storage.
+2. Open the cover on the back of the camera, then you will see an on/off button, switch it off, wait two minutes, then turn it back on.
+
+If the battery only lasts about two weeks, take these precautions:
+In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
+The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, sensitivity, or limit detection to people to improve this.
