@@ -4059,3 +4059,17 @@ Regarding this issue, could you please check the following points?
 https://support.switch-bot.com/hc/en-us/articles/4424755304215
 3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Lock Pro will be automatically unbinded and you will be able to add it.
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Lock Pro JP Version Gets Jammed Frequently
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+2. Please recalibrate your Lock Pro.
+[https://support.switch-bot.com/hc/en-us/articles/20338729091223](https://support.switch-bot.com/hc/en-us/articles/20338729091223-How-to-Calibrate-or-Recalibrate-SwitchBot-Lock-Pro)
+
+3. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
+5. Tap the emergency unlock button in the SwitchBot App under Lock Pro to ensure proper latching.
+6. Remove Lock Pro from the app, re-add it, and calibrate again.
