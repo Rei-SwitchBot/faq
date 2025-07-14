@@ -1958,3 +1958,12 @@ Normal differences in accuracy:
     2. ±4% (at 25°C, 0%~10%, 90%~99%RH)
 4. If the readings still differ significantly, you can manually calibrate the devices by opening SwitchBot App -> Meter Pro or CO2 Monitor -> Settings (gear icon) -> Calibration, and adjust the temperature and humidity readings to match.
 Note: When the CO2 update frequency is set to less than 1 minute, the CO2 sensor is continuously active, which may cause the device to heat up slightly and affect the sensor's accuracy. In such cases, you may need to reset the sample frequency interval.
+
+
+---
+### Troubleshooting SwitchBot Meter Pro Display is partially missing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the batteries from the Meter Pro and wait for about one minute.
+2. Power the Meter Pro back on.
