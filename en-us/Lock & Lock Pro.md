@@ -4029,3 +4029,22 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please try replacing all four 1.5V AA batteries with new ones to troubleshoot the issue.
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Cannot Detect the Magnet During Calibration
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the Lock Pro magnet installation.
+  a. Keep a distance of 20-40mm from the Lock Pro main body.
+  b. The side with the white line on the magnet should face towards the Lock Pro main body.
+
+<img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/338b9442-867c-4cd5-948d-4b8d879cb8c9" />
+
+<img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/1fa49688-5c42-4080-904f-4009085caaf4" />
+
+2. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
+3. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+
+
