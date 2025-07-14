@@ -2547,3 +2547,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Launch SwitchBot app → Pan/Tilt Cam Plus 2K → Turn on/off Night Vision under the features on the bottom right corner of the screen.
 2. Turn on/off the power to the Pan/Tilt Cam Plus 2K.
+
+
+---
+### How to Download Cloud Storage Video
+
+Please download cloud storage video in the following order:
+- Launch SwitchBot App and log in.
+- Tap the relevant cam.
+- Tap "Playback" in the lower right corner.
+- Tap "Cloud Videos".
+- Choose the video you want and tap the the "↓" icon to download.
