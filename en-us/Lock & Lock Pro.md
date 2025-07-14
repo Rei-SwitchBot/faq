@@ -4040,14 +4040,20 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check the Lock Pro magnet installation.
   a. Keep a distance of 20-40mm from the Lock Pro main body.
+
+ <img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/579e2872-ba3e-434b-882f-747213df2cd0" />
+
   b. The side with the white line on the magnet should face towards the Lock Pro main body.
 
-<img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/338b9442-867c-4cd5-948d-4b8d879cb8c9" />
+ <img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/0f5db457-3a48-4b74-b5f3-f1d4ae4e93f9" />
 
-<img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/1fa49688-5c42-4080-904f-4009085caaf4" />
+  c. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
+
+ <img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/d6f92a58-bca4-4f2d-a248-2d0e840fd148" />
 
 2. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
-3. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+3. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
 ---
