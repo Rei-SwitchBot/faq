@@ -1439,7 +1439,7 @@ Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmwa
 
 
 ---
-### Troubleshooting Can't Pair SwitchBot Universal Remote Due to Error Message "Device initialization is abnormal"
+### [Request Handling]Universal Remote
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
