@@ -4557,12 +4557,17 @@ B. ロックの再校正の動画
 - ロックPro本体との距離を20~40mmに控える
 - 磁石の白い線にある側面をロックPro本体に向く
 
-<img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/31ddfba8-f30d-4129-a2d1-0b591ea040dd" />
+<img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/fdccbbba-bfee-4061-9b75-79990cef0c5a" />
 
-<img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/f8294605-5ffa-45e7-8e04-d030bdcc9e03" />
+<img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/054c57eb-5271-474a-b270-f313f58c66a0" />
+
+- ご使用環境により、予備両面テープを磁石の側面に貼り付けドア枠などに設置することも可能です
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/89a03f58-0c84-423d-aeb2-0d71763a7553" />
 
 2．ロックProの施錠・解錠位置を記録する時に、ステップ1施錠→ステップ2解錠→ステップ3施錠、握りこぶし一つ分の距離(約10cm)をおいてまでドアを閉め、SwitchBotアプリで「次へ」をタップします。記録中に、信号干渉のないように、スマートフォンや腕時計などの金属物をロックProから30cm離れてください。
-3．SwitchBotアプリからロックProを削除し、再度追加してから施錠・解錠位置を記録してください。
+3．SwitchBotアプリ→ロックPro→歯車マーク→ファームウェア&バッテリーの順番で、ファームウェアバージョンが3.0以降であることをご確認ください。アップデート後、ロック Proの再校正をお忘れなくお願いいたします。
+4．SwitchBotアプリからロックProを削除し、再度追加してから施錠・解錠位置を記録してください。
 
 
 ---
