@@ -4029,6 +4029,8 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please try replacing all four 1.5V AA batteries with new ones to troubleshoot the issue.
+2. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+3. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
 ---
