@@ -69,3 +69,80 @@ Name your Safety Alarm then tap "Continue".
 Select an emoji to represent your Safety Alarm then tap "Continue".
 Your Safety Alarm will be linked to your Apple ID, tap "Agree".
 Setup will be finished automatically.
+
+
+---
+### [Request Handling]Safety Alarm
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Safety Alarm can only be added to one account. If a Safety Alarm is added to another account of yours, please delete the Safety Alarm from that account first and then add it to a new account.
+※SwitchBot App -> Long press the Safety Alarm icon -> tap the Delete button -> confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Safety Alarm will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### How to Set SwitchBot App’s Battery Usage to Unrestricted in Order to Update the Status of SwitchBot Safety Alarm
+
+Go to Android System Settings App → Apps → All Apps → SwitchBot → Battery → Change from Optimization to "Unrestricted".
+Note: 
+The exact steps may vary depending on your device model. We will provide you with some answers from Google Help community.
+[https://support.google.com/pixelphone/search?q=Unrestricted+Battery+Usage&from_promoted_search=true&sjid=11563758428144616817-AP](https://support.google.com/pixelphone/search?q=Unrestricted+Battery+Usage&from_promoted_search=true&sjid=11563758428144616817-AP)
+For iOS users, please go to SwitchBot App -> Profile -> Preferences -> Permissions -> Allow background app refresh.
+
+
+---
+### How to Reset SwitchBot Safety Alarm
+
+Unscrew and remove the battery cover.
+Use the screwdriver to press and hold the pairing button for 15s until you hear 5 "beeps" to complete the reset process.
+
+<img width="872" height="724" alt="image" src="https://github.com/user-attachments/assets/955342e6-d8ac-48d2-8d73-018e7673fbd5" />
+
+Note:
+If you need to re-add your device to the app, press the button for 2 seconds to enter pairing mode.
+
+
+---
+### Troubleshooting Unable to Add SwitchBot Safety Alarm to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Reset your device.
+  a. Unscrew and remove the battery cover.
+  b. Use the screwdriver to press and hold the pairing button for 15s until you hear 5 "beeps" to complete the reset process.
+
+<img width="872" height="724" alt="image" src="https://github.com/user-attachments/assets/7c2b7679-dcf8-4498-87a1-2a75ee377646" />
+
+3. Press the button for 2 seconds to enter pairing mode, then try again.
+
+
+---
+### Troubleshooting Can't Add SwitchBot Safety Alarm to SwitchBot Keypad Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. An NFC card is attached to the Keypad. Please check if the NFC card can be added to the Keypad.
+2. If you are using an Android phone, activate the NFC function and hold the Safety Alarm over the NFC reading position to check for a response. If you are using iPhone XS or later, download an App called NFC Tools from the App Store to test your Safety Alarm's NFC function.
+3. Try adding the Safety Alarm by touching the NFC reading area with your Keypad to see if it helps.
+
+<img width="247" height="364" alt="image" src="https://github.com/user-attachments/assets/b181c0a3-3dc6-41a2-ac2d-c5fc661e53be" />
+
+
+---
+### Troubleshooting Can't Add SwitchBot Safety Alarm to SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. An NFC card is attached to the Keypad. Please check if the NFC card can be added to the Keypad.
+2. If you are using an Android phone, activate the NFC function and hold the Safety Alarm over the NFC reading position to check for a response. If you are using iPhone XS or later, download an App called NFC Tools from the App Store to test your Safety Alarm's NFC function.
+3. Try adding the Safety Alarm by touching the NFC reading area with your Keypad to see if it helps.
+
+<img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/a8d65f84-2610-4f2d-8bfb-5490dca32585" />
+
+
+
