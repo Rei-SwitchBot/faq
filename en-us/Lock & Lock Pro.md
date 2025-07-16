@@ -4205,7 +4205,4 @@ Regarding this issue, could you please check the following points?
 2. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
 3. Recalibrate your Lock Pro.
 [https://support.switch-bot.com/hc/en-us/articles/20338729091223](https://support.switch-bot.com/hc/en-us/articles/20338729091223-How-to-Calibrate-or-Recalibrate-SwitchBot-Lock-Pro)
-5. Please note that in winter, lower temperatures shorten battery life and it is normal to use emergency power.  take note of this.
-6. Confirm if your Lock Pro remains unlocked at all times during daily use. When the door is unlocked, it will continuously detect open/close information, leading to higher power consumption and potential use of emergency power.
-7. Verify the battery level by locking and unlocking the Lock Pro using the SwitchBot app.
-8. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
