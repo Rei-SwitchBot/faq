@@ -4753,7 +4753,4 @@ https://support.switch-bot.com/hc/ja/articles/20161956134295
 [https://support.switch-bot.com/hc/ja/articles/20489870767127](https://support.switch-bot.com/hc/ja/articles/20489870767127-%E3%83%AD%E3%83%83%E3%82%AFPro%E3%81%8C%E5%BC%95%E3%81%A3%E3%81%8B%E3%81%8B%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F-%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B)
 4．ロック Proの再校正をお願いいたします。
 [https://support.switch-bot.com/hc/ja/articles/20338729091223](https://support.switch-bot.com/hc/ja/articles/20338729091223-%E3%83%AD%E3%83%83%E3%82%AFPro%E3%81%AE%E6%A0%A1%E6%AD%A3-%E6%96%BD%E9%8C%A0-%E8%A7%A3%E9%8C%A0%E4%BD%8D%E7%BD%AE%E3%82%92%E8%A8%98%E9%8C%B2)
-5．冬は温度の低下により、バッテリーの持ち時間は短くなり、非常用電力が使用されるのが正常となります。ご了承お願いいたします。
-6．日常生活において、ロックProはずっと解錠状態であるかご確認ください。解錠状態では、ドアの開閉情報を常時検出する必要があるため、消費電力が大きくなり、非常用電力が使用されるのが正常となります。
-7．SwitchBotアプリでロックProの施錠・解錠を行ってバッテリー残量をご確認ください。
-8．SwitchBotアプリからロックProを削除し、再度追加してから施錠・解錠位置を記録してください。
+5．SwitchBotアプリからロックProを削除し、再度追加してから施錠・解錠位置を記録してください。
