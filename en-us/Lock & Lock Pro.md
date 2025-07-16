@@ -4098,3 +4098,27 @@ Note:
 Please refrain from using commercially available rechargeable batteries.
 Use 1.5V batteries with the highest battery capacity possible.
 
+
+---
+### Troubleshooting SwitchBot Lock Pro Auto-Lock Stops Working
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the auto-lock function of the Lock Pro is enabled.
+2. Please make sure the magnet is installed within 20mm~40mm from the main body of the Lock Pro.
+
+<img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/60ee40d6-1eda-46de-a2f0-895e2917d19c" />
+
+3. The magnet must be oriented correctly (the side with the white line drawn on it is more likely to be detected, so it must be placed facing the Lock Pro).
+
+<img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/58c527a0-3f3d-4ae2-bf73-eb12ee564eaa" />
+
+4. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/49096064-514b-49ee-bb86-be846b675845" />
+
+5. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
+6. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+7. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+
+
