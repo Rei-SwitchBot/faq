@@ -4173,3 +4173,14 @@ Regarding this issue, could you please check the following points?
 1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 2. Long press the Lock Pro on the app to delete it and then re-add it to see if it helps.
 Important Note: Deleting and re-adding the Lock Pro will clear all previous logs.
+
+
+---
+### Troubleshooting The Locking and Unlocking Log of SwitchBot Lock Pro Is No Longer Updated.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Go to the SwitchBot App, tap your Lock Pro to access the operation screen, and lock/unlock it once to check if the logs can be synced.
+2. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+3. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+Important Note: Deleting and re-adding the Lock Pro will clear all previous logs.
