@@ -4156,3 +4156,10 @@ Regarding this issue, could you please check the following points?
 7. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
+---
+### Troubleshooting Unable to Add SwitchBot Lock Pro to the App Even Though Its Light Flashes Blue
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure you don't hold down the quick key when inserting the batteries into the Lock Pro. If you do, the Lock Pro will flash a blue light.
+2. Please go to the SwitchBot App, then navigate to Profile and select Firmware Recovery. Check if the recover button for the Lock Pro is displayed. If it is, press the button to recover the firmware.
