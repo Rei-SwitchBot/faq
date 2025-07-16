@@ -4163,3 +4163,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Make sure you don't hold down the quick key when inserting the batteries into the Lock Pro. If you do, the Lock Pro will flash a blue light.
 2. Please go to the SwitchBot App, then navigate to Profile and select Firmware Recovery. Check if the recover button for the Lock Pro is displayed. If it is, press the button to recover the firmware.
+
+
+---
+### Troubleshooting The Locking and Unlocking Time Shown on SwitchBot App Doesn’t Match Reality
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+2. Long press the Lock Pro on the app to delete it and then re-add it to see if it helps.
+Important Note: Deleting and re-adding the Lock Pro will clear all previous logs.
