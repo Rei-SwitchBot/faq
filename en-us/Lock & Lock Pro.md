@@ -4133,3 +4133,26 @@ Regarding this issue, could you please check the following points?
 4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
+---
+### Troubleshooting SwitchBot Lock Pro Keeps Saying Door Is Open.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the auto-lock function of the Lock Pro is enabled.
+2. Please make sure the magnet is installed within 20mm~40mm from the main body of the Lock Pro.
+
+<img width="753" height="781" alt="image" src="https://github.com/user-attachments/assets/826e62b5-dcf7-4d4c-92a0-10dc581f1431" />
+
+3. The magnet must be oriented correctly (the side with the white line drawn on it is more likely to be detected, so it must be placed facing the Lock Pro).
+
+<img width="1224" height="584" alt="image" src="https://github.com/user-attachments/assets/2f52dfac-73b3-458e-a63f-7c15f8d14a11" />
+
+4. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/632a9cc4-65ba-4b6b-9859-580678742773" />
+
+5. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
+6. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+7. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+
+
