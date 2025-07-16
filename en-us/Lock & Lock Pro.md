@@ -4122,3 +4122,14 @@ Regarding this issue, could you please check the following points?
 7. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
+---
+### Troubleshooting SwitchBot Lock Pro Appears to Be Using Power from Both Battery A and Battery B Rather Than Alternating Between Them
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Pull out the rechargeable batteries A and B and then reattach them.
+2. Lock and unlock the Lock Pro.
+3. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+
+
