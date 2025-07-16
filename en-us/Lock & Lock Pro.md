@@ -3941,10 +3941,7 @@ Regarding the issue that the Lock Pro can't connect to the Hub, could you please
 2. Please ensure that the Lock Pro is within Bluetooth range (recommended 5 meters) of the Hub.
 3. Please check if unplugging and plugging in the power supply of the Hub improves the problem.
 4. Reinsert the batteries into the Lock Pro.
-5. If the problem persists, we will escalate your feedback to our R&D team. We would appreciate it if you could provide us with the following information:
-- A screenshot showing the connection signal by navigating to SwitchBot App -> Profile -> Manage Hub -> the relevant Hub 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### How to Install the magnet of SwitchBot Lock Pro
@@ -4081,3 +4078,23 @@ Regarding this issue, could you please check the following points?
 3. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
 5. Tap the emergency unlock button in the SwitchBot App under Lock Pro to ensure proper latching.
 6. Remove Lock Pro from the app, re-add it, and calibrate again.
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Does Not Power on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the batteries in the Lock Pro are in firm contact with the battery terminals in the battery holder.
+
+<img width="951" height="445" alt="image" src="https://github.com/user-attachments/assets/90aae517-2b19-4f34-b022-063e6e2f3ac2" />
+
+2. Make sure that the four batteries are oriented correctly.
+
+<img width="887" height="392" alt="image" src="https://github.com/user-attachments/assets/06ae6af4-fb7d-4452-a9aa-47f6b120ab72" />
+
+3. Replace the batteries with new AA batteries (1.5V) that you have on hand and see if the problem improves.
+Note:
+Please refrain from using commercially available rechargeable batteries.
+Use 1.5V batteries with the highest battery capacity possible.
+
