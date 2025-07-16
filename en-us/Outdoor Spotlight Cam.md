@@ -1078,23 +1078,6 @@ Regarding the issue of the camera not charging with the solar panel, could you p
 
 
 ---
-### Troubleshooting Unable to Charge SwitchBot Outdoor Spotlight Cam 2K with the Solar Panel
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. You can disable the promotional advertisement as follows:
-- Launch SwitchBot App and log in.
-- Tap your camera.
-- Tap the gear icon in the upper right corner.
-- Tap basic settings.
-- Tap personalized recommandations.
-- Switch On to Off.
-
-
-3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
----
 ### Troubleshooting All Detected Events Show Incorrect Date (March 1, 2024) on SwitchBot Outdoor Spotlight Cam
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
