@@ -132,10 +132,12 @@ Note: Only one action can be written to an NFC Tag. It is not possible to delete
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Ensure the thumbturn holder of Lock Ultra is securely attached to the door lock knob to prevent it from spinning if loose.
-2. If the thumbturn holder installation is fine, navigate to SwitchBot App → Lock Ultra → Gear Icon → Basic Settings → Turning Force (firmware V1.8 or newer required) → adjust to gentle.
+1. After installing the Lock Ultra on the door lock, it will automatically stop rotating at the locking and unlocking positions due to resistance. If you accidentally press the button on the main body before installation, continuous free rotation is normal, and you can manually stop it by gripping the dial knob.  
+Note: Please grip the dial knob firmly to avoid injury.
+2. Ensure the thumbturn holder of Lock Ultra is securely attached to the door lock knob to prevent it from spinning if loose.
+3. If the thumbturn holder installation is fine, navigate to SwitchBot App → Lock Ultra → Gear Icon → Basic Settings → Turning Force (firmware V1.8 or newer required) → adjust to gentle.
 Note: If you are using dual-lock, please disable dual-lock and set each Lock Ultra to gentle.
-3. Re-calibrate Lock Ultra.
+4. Re-calibrate Lock Ultra.
 
 
 ---
