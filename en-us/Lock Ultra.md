@@ -125,3 +125,14 @@ Lock Ultra is compatible with entrance locks with a locking and unlocking rotati
 
 3. In step 2, the Lock Ultra can be locked or unlocked by holding the smartphone over the successfully written NFC tag within Bluetooth range.
 Note: Only one action can be written to an NFC Tag. It is not possible to delete an already registered action. Writing a second action will automatically overwrite the previous action. Therefore, at least two NFC tags are required to lock or unlock your door.
+
+
+---
+### Troubleshooting SwitchBot Lock Ultra Keeps Spinning During Calibration
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Ensure the thumbturn holder of Lock Ultra is securely attached to the door lock knob to prevent it from spinning if loose.
+2. If the thumbturn holder installation is fine, navigate to SwitchBot App → Lock Ultra → Gear Icon → Basic Settings → Turning Force (firmware V1.8 or newer required) → adjust to gentle.
+Note: If you are using dual-lock, please disable dual-lock and set each Lock Ultra to gentle.
+3. Re-calibrate Lock Ultra.
