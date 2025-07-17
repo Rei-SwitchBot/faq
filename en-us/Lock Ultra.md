@@ -136,3 +136,15 @@ Regarding this issue, could you please check the following points?
 2. If the thumbturn holder installation is fine, navigate to SwitchBot App → Lock Ultra → Gear Icon → Basic Settings → Turning Force (firmware V1.8 or newer required) → adjust to gentle.
 Note: If you are using dual-lock, please disable dual-lock and set each Lock Ultra to gentle.
 3. Re-calibrate Lock Ultra.
+
+
+---
+### Troubleshooting SwitchBot Lock Ultra Fell off the Door
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the installation surface is flat and dry as the adhesive tape does not work well on uneven surfaces.
+2. If the door has an oleophobic or frosted finish, do not use double-sided tape to secure Lock Ultra.
+3. Use an alcohol swab to clean the surface before installation. 
+4. When attaching Lock Ultra, firmly press down the entire length of the double-sided tape onto the door.
+5. Hold Lock Ultra in place for one minute after applying the tape.
