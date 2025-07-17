@@ -203,3 +203,12 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check whether the quick key is enabled or set to activate with a double click in the following order: SwitchBot app → Lock Ultra → Gear Icon → Quick Key Settings.  
 2. Remove the Lock Ultra from the SwitchBot app, remove and reinsert the battery, then add it again to see if the issue improves.
+
+
+---
+### Troubleshooting the Settings Screen of SwitchBot Lock Ultra Does Not Have the Night-Latch Option
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please note that only the EU version of Lock Ultra can experience the night latch feature. The US version does not support this feature, but you can switch it to the EU version in the settings page to use night latch:
+SwitchBot App -> Lock Ultra -> Gear Icon -> Basic Settings -> Door Lock Type
