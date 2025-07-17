@@ -173,3 +173,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please do not forget to remove the insulation seal from the backup battery.  
 2. Remove and reinsert the backup battery.  
+
+
+---
+### Troubleshooting After Inserting the Battery into SwitchBot Lock Ultra, the Blue Light Does Not Flash and the Device Does Not Turn On.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. It takes about 6 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete. Please fully charge the rechargeable battery and check if the indicator turns green.
