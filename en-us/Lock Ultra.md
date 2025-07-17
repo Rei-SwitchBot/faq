@@ -183,3 +183,14 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. It takes about 6 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete. Please fully charge the rechargeable battery and check if the indicator turns green.
+
+
+---
+### Troubleshooting the Settings Screen of SwitchBot Lock Ultra Does Not Have a Dual-Lock Option
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please note that only the US and JP versions of Lock Ultra can be paired to create a dual lock. The EU version does not support this feature, but you can switch it to the US version in the settings page to enable dual lock functionality:
+SwitchBot App -> Lock Ultra -> Gear Icon -> Basic Settings -> Door Lock Type
+Important note: The EU version of Lock Ultra with night latch feature does not support dual lock.
+2. Please set two Lock Ultra to dual-lock in the order: SwitchBot app → Lock Ultra → Gear Icon → Dual-Lock Settings.
