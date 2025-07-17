@@ -148,3 +148,11 @@ Regarding this issue, could you please check the following points?
 3. Use an alcohol swab to clean the surface before installation. 
 4. When attaching Lock Ultra, firmly press down the entire length of the double-sided tape onto the door.
 5. Hold Lock Ultra in place for one minute after applying the tape.
+
+
+---
+### Troubleshooting SwitchBot App Keeps Displaying an Error Indicating That the Lock Ultra Backup Battery Is Low and Needs to Be Replaced
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if replacing it with a new CR123A 3V battery improves the situation.
