@@ -4206,3 +4206,13 @@ Regarding this issue, could you please check the following points?
 3. Recalibrate your Lock Pro.
 [https://support.switch-bot.com/hc/en-us/articles/20338729091223](https://support.switch-bot.com/hc/en-us/articles/20338729091223-How-to-Calibrate-or-Recalibrate-SwitchBot-Lock-Pro)
 4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
+
+
+---
+### Troubleshooting It Takes a While to Activate SwitchBot Lock From Home Assistant App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
