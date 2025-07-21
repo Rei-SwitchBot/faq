@@ -4267,3 +4267,27 @@ Only the homeowner and admin have the authority to control the Lock remotely. If
 [https://support.switch-bot.com/hc/en-us/articles/27427300701207](https://support.switch-bot.com/hc/en-us/articles/27427300701207-How-to-Change-User-Type-from-Home-Member-to-Admin)
 
 
+---
+### What to do If I Want to Purchase the Adhesive Tape for SwitchBot Lock?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the adhesive tape for Lock is not currently sold separately. However, we can provide the parts free of charge if you cover the shipping costs.
+If this is okay for you, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
