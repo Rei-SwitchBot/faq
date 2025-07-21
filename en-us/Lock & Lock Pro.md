@@ -3958,18 +3958,19 @@ Please make sure that the magnet is facing the right way. The magnet can be dete
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting My Door Lock Is Jammed and I’m Lock Out Without Keys
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of being unable to get home due to a jammed lock, could you please check the following points?
-1. Reconnect data: Try to restart your smartphone's Bluetooth, restart the smartphone itself, log out of the SwitchBot Application and log in again.
+1. Try to restart your smartphone's Bluetooth, restart the smartphone itself, log out of the SwitchBot Application and log in again.
 
-2. Update the Firmware: Please check for firmware updates by going to SwitchBot App -> Lock -> Gear Icon (settings) -> Firmware & Battery. If you’re within Bluetooth range, you can update the firmware even from outside the door. Please make sure to perform this update, as it could resolve the issue. After the update is finished, you will see "recalibrate." Please ignore it and tap the back icon in the top left corner.
+2. Please check for firmware updates by going to SwitchBot App -> Lock -> Gear Icon (settings) -> Firmware & Battery. If you’re within Bluetooth range, you can update the firmware even from outside the door. Please make sure to perform this update, as it could resolve the issue. After the update is finished, you will see "recalibrate." Please ignore it and tap the back icon in the top left corner.
 
-![image](https://github.com/user-attachments/assets/55236c38-d36b-45de-8997-a289fd788981)
+<img width="1124" height="2127" alt="image" src="https://github.com/user-attachments/assets/9c065c2e-9239-4e48-ba83-10be0c0a8b05" />
 
-3. Use the Emergency Unlock Feature: In the SwitchBot App, navigate to Lock → Emergency Unlock. We strongly suggest trying this feature several times to unlock the door.
+3. In the SwitchBot App, navigate to Lock → Emergency Unlock. We strongly suggest trying this feature several times to unlock the door.
 
 4. If you have given a spare key to a family member or friend, try using it to unlock the door.
 
