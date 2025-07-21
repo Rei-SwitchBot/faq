@@ -262,3 +262,24 @@ Regarding this issue, could you please check the following points?
 <img width="736" height="1280" alt="image" src="https://github.com/user-attachments/assets/5496d10f-2175-41d3-ad55-21042c3e341a" />
 
 3. If the Bluetooth signal drops below two bars, remove Lock Ultra from the SwitchBot app and re-add it to see if that resolves the issue.
+
+
+---
+### Troubleshooting SwitchBot Lock Ultra Keeps Saying Door Is Open.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the placement of the magnet for your Lock Ultra. If the distance between the magnet and the Lock Ultra main unit is within 1 cm, please attach the magnet a little farther away.
+
+<img width="388" height="167" alt="image" src="https://github.com/user-attachments/assets/22e320a9-b916-4aa7-85a4-ba3eea64f47c" />
+
+2. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/c655a0b0-b224-4fc3-84bf-64cb24719f1b" />
+
+3. When calibrating the magnet, close the door about two fists away (approximately 20cm) to see if that resolves the issue.
+
+4. Please remove Lock Ultra from the SwitchBot app.
+  
+5. Remove and reinsert the rechargeable and backup batteries of the Lock Ultra, then re-add it to the app and calibrate.
+
