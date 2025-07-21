@@ -4309,5 +4309,27 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
   3. Add Lock to the app again.
 
 
+---
+### Troubleshooting Suddenly Stopped Receiving Notifications from SwitchBot Lock
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Open the SwitchBot App, go to Profile > Preferences > App Notifications, ensure that App Notifications are turned on and that any Do Not Disturb periods are set correctly.
+
+2. In the same App Notifications menu, scroll to "Notifications Management" under "Device Notifications", find Lock, and make sure notifications are allowed.
+
+3. Make sure that your phone's system allows push notifications from the SwitchBot App. This can usually be found in your phone's notification settings.
 
 
+4. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
+Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.1. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.1. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+ 
+5. After updating, recalibrate your Lock.
+*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
+ 
+6. Delete the Lock from your app and then re-add it.
+  1. Long press your Lock icon on the app to delete it.
+  2. Remove the batteries and then reinsert them.
+  3. Add Lock to the app again.
+
+Important Note: To receive lock notifications on your smartphone, you need our hub product. Thank you for understanding.
