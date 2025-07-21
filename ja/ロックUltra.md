@@ -404,3 +404,26 @@ B. お持ちのロックUltraの台数に合わせて、サムターンホルダ
 3．Bluetooth信号が二本より弱い場合、SwitchBotアプリからロックUltraを削除し、再度追加して改善されるかご確認ください。
 
 <img width="1121" height="2199" alt="image" src="https://github.com/user-attachments/assets/f40ec7be-594a-47bf-9c61-cffc9b36e827" />
+
+
+---
+### トラブルシューティング実際は扉は閉まっているが、ロックUltraは開いている状態で誤った表示がされている
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1．ロックUltraの磁石の設置をご確認ください。磁石とロックUltra本体の距離が1cm以内であれば、もう少し磁石を離れた所に貼り付けてください。
+
+<img width="870" height="593" alt="image" src="https://github.com/user-attachments/assets/1228166b-425a-4bd2-9784-b6012a4c08b2" />
+
+2．ご使用環境により、予備両面テープを磁石の側面に貼り付けドア枠などに設置することも可能です
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/426524e1-6687-4785-9208-d4a7bdf64f63" />
+
+3．ロックUltraの磁石位置を記録する時に、握りこぶし二つ分の距離(約20cm)をおいて改善されるかご確認ください。
+動画：[https://support.switch-bot.com/hc/ja/articles/33471327565079](https://support.switch-bot.com/hc/ja/articles/33471327565079-%E3%83%AD%E3%83%83%E3%82%AFUltra%E3%81%AE%E6%A0%A1%E6%AD%A3%E5%8B%95%E7%94%BB-%E6%96%BD%E9%8C%A0-%E8%A7%A3%E9%8C%A0%E4%BD%8D%E7%BD%AE%E3%82%92%E8%A8%98%E9%8C%B2)
+
+4．SwitchBotアプリからロックUltraを削除してください。
+
+5．ロックUltraの充電電池と予備電池を抜き差しして、再度アプリに追加してから施錠・解錠位置を記録してください。
+
