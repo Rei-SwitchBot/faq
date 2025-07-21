@@ -212,3 +212,19 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please note that only the EU version of Lock Ultra can experience the night latch feature. The US version does not support this feature, but you can switch it to the EU version in the settings page to use night latch:
 SwitchBot App -> Lock Ultra -> Gear Icon -> Basic Settings -> Door Lock Type
+
+
+---
+### Troubleshooting When Setting Two Lock Ultra Units to Dual-Lock, It Failed to Start and Couldn't Be Configured.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the Bluetooth on your smartphone is turned on.  
+2. Stand about 2 meters away from the door lock in a place without obstacles, launch the SwitchBot app, tap Lock Ultra, and make sure the Bluetooth signal in the upper-right corner of the operation screen shows at least two bars.
+
+<img width="736" height="1280" alt="image" src="https://github.com/user-attachments/assets/6c77bbb5-4970-4201-b82b-8b893fe27a58" />
+
+3. If the Bluetooth signal drops below two bars, remove Lock Ultra from the SwitchBot app and re-add it to see if that resolves the issue.
+
+
+
