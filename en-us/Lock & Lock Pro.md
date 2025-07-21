@@ -4231,3 +4231,18 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
   a. Long press your Lock icon on the app to delete it.
   b. Remove the batteries and then reinsert them.
   c. Add Lock to the app again.
+
+
+---
+### Troubleshooting Can't Connect SwitchBot Lock to the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that you are using the latest* firmware version of your Lock and Hub. If not, please update the firmware near your device by going to SwitchBot App -> Lock/Hub -> Gear Icon -> Firmware & Battery.
+Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.1. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.1. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+2. Make sure that the hub is connected to a stable Wi-Fi network.
+3. Make sure that the lock is within Bluetooth range (recommended 5 meters) of the Hub.
+4. Log out of the SwitchBot app, then log in again to confirm that you can connect the lock to the hub.
+5. Check if unplugging and plugging in the power supply of the Hub improves the problem.
+6. Reinsert the batteries into the lock.
+
