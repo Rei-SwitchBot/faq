@@ -4246,3 +4246,12 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
 5. Check if unplugging and plugging in the power supply of the Hub improves the problem.
 6. Reinsert the batteries into the lock.
 
+
+---
+### Troubleshooting SwitchBot Lock Automatically Locks Itself Even When the Door Is Opened.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Lock has two auto-lock options: one locks automatically after a set time since the door was closed, and the other locks regardless of whether the door is open or closed. If you enable the "re-lock", your door lock will lock itself after a set time. Disable this feature by going to SwitchBot App -> Lock -> Gear icon -> Auto-lock if not needed.
+If you have any other questions, please do not hesitate to contact us.
+
