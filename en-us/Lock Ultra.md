@@ -227,4 +227,12 @@ Regarding this issue, could you please check the following points?
 3. If the Bluetooth signal drops below two bars, remove Lock Ultra from the SwitchBot app and re-add it to see if that resolves the issue.
 
 
+---
+### Troubleshooting After Using SwitchBot Lock Ultra for a Period of Time, the Locking and Unlocking Positions Have Shifted.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version is 1.8 or later by going to SwitchBot app > Lock Ultra > Gear Icon > Firmware & Battery. After updating, please recalibrate your Lock Ultra.
+2. The Lock Ultra has a stronger rotational force than previous models, which may cause slight misalignment during regular use. As long as you can lock and unlock it normally, there is no issue. Please feel free to use it.
+3. If the lock cannot be opened or locked properly due to offset positioning, our R&D team will investigate for you.It would be helpful if you could provide the following:  
+  1. A video showing the misalignment and inability to lock or unlock
