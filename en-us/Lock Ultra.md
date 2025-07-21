@@ -283,3 +283,23 @@ Regarding this issue, could you please check the following points?
   
 5. Remove and reinsert the rechargeable and backup batteries of the Lock Ultra, then re-add it to the app and calibrate.
 
+
+---
+### Troubleshooting SwitchBot Lock Ultra Auto-Lock Is Not Working
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the placement of the magnet for your Lock Ultra. If the distance between the magnet and the Lock Ultra main unit is within 1 cm, please attach the magnet a little farther away.
+
+<img width="388" height="167" alt="image" src="https://github.com/user-attachments/assets/fe5970f4-7b36-4cbb-a3dc-1dbd59dc5f88" />
+
+2. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/ebd69a97-c7d9-460d-82cf-b3dcebd1c121" />
+
+3. When calibrating the magnet, close the door about two fists away (approximately 20cm) to see if that resolves the issue.
+
+4. Please remove Lock Ultra from the SwitchBot app.
+  
+5. Remove and reinsert the rechargeable and backup batteries of the Lock Ultra, then re-add it to the app and calibrate.
+
