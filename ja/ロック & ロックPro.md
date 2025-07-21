@@ -4838,4 +4838,14 @@ SwitchBotアプリ→ロック→歯車マーク→自動施錠→解錠後自�
 
 
 
+---
+### ロック専用の両面テープを購入したいです、どうしたらいいでしょうか。
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+弊社の公式ホームページにてご購入いただけます。ご検討宜しくお願い致します。
+[https://www.switchbot.jp/collections/switchbot-smart-lock-accessory/products/switchbot-lock-accessories](https://www.switchbot.jp/collections/switchbot-smart-lock-accessory/products/switchbot-lock-accessories)
+また他にご不明な点がございましたら、お気軽にお問い合わせくださいませ。
+今後とも弊社製品をよろしくお願いいたします。
+
 
