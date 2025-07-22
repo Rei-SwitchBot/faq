@@ -4469,3 +4469,29 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
   3. Add Lock to the app again.
 
 
+---
+### Troubleshooting SwitchBot Lock Auto-Lock Stops Working
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that auto-lock is turned on by going to SwitchBot app → Lock → Gear Icon → Auto-Lock.
+2. When installing the magnet, please attach it to the door frame with the side containing the white mark or the opposite side facing the lock body as shown in the figure below.
+Note: The side with double-sided tape and the opposite side can't be detected.
+
+<img width="1025" height="1213" alt="image" src="https://github.com/user-attachments/assets/55d6c501-2512-4c00-9641-b2ddddcb5424" />
+
+3. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/46bff786-1ab9-4572-a197-819d03ad1184" />
+
+4. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
+Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.1. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.1. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+ 
+5. After updating, recalibrate your Lock.
+*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
+ 
+6. Delete the Lock from your app and then re-add it.
+Long press your Lock icon on the app to delete it.
+Remove the batteries and then reinsert them.
+Add Lock to the app again.
+
