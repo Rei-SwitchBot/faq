@@ -4333,3 +4333,14 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
   3. Add Lock to the app again.
 
 Important Note: To receive lock notifications on your smartphone, you need our hub product. Thank you for understanding.
+
+
+---
+### Troubleshooting After Inserting Two CR123A 3V Batteries, SwitchBot Lock Is Not Powering On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have a SwitchBot Keypad, use its batteries to test if the Lock powers on. If not, replace the current batteries with new CR123A 3V batteries.
+2. Make sure the batteries are inserted in the correct direction to avoid power issues.
+
+
