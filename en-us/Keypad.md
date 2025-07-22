@@ -1609,7 +1609,7 @@ Regarding this issue, could you please check the following points?
 4. Please launch the SwitchBot application and deactivate the Keypad/Keypad Touch removal alert.
 SwitchBot App -> the Keypad/Keypad Touch -> Gear Icon -> Keypad Touch Removal Alerts -> disable the removal alerts.
 5. Remove the Keypad Touch.
-Video: https://youtube.com/shorts/a5qlr2iKTOo
+Video: [https://youtube.com/shorts/a5qlr2iKTOo](https://www.youtube.com/watch?v=WsDyRAPFBC8)
 6. Reinsert the battery to see if it helps.
 7. Unpair the Keypad touch and Lock.
 8. Delete the Keypad touch then pair it with your Lock again.
