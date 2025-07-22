@@ -1724,4 +1724,10 @@ Regarding this issue, could you please check the following points?
 <img width="434" height="811" alt="image" src="https://github.com/user-attachments/assets/1f105b47-6890-4103-ac53-827a84e0fc11" />
 
 
+---
+### Troubleshooting the nail of the battery cover under the Keypad Touch steel plate is broken
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a photo showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
