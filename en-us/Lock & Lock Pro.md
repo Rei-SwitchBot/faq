@@ -4344,3 +4344,11 @@ Regarding this issue, could you please check the following points?
 2. Make sure the batteries are inserted in the correct direction to avoid power issues.
 
 
+---
+### Troubleshooting After Removing the Four Screws, Still Impossible to Remove the Metal Bracket From SwitchBot Lock Body.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To determine if your device needs to be replaced, could you kindly provide us with a video showing the issue?
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
