@@ -3746,19 +3746,12 @@ Note: Email us (
 
 
 ---
-### What to Do if the Screw of SwitchBot Lock Base Adaptor Slips and Won’t Unscrew?
+### Troubleshooting the Screw of SwitchBot Lock Base Adaptor Slips and Won’t Unscrew
 
-Last Updated: 2024 Jun 04
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide a video of the screws not being able to be removed?
 
-Related Products: SwitchBot Lock
-
-1. Please use another larger screwdriver to see if you can get it to catch on some part of the stripped screw.
-
-2. Please hold the Lock body with your left hand and press the screwdriver firmly into the screw hole with your right hand counterclockwise.
-
-3. If you sitll can't unscrew the screw, please feel free to submit a feedback to us. When contacting us, we would appreciate it if you can provide us with the information below.
-
-A video showing can't unscrew the screw
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
@@ -4410,4 +4403,17 @@ Regarding the issue, could you please check the following points?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting Can't Update SwitchBot Lock Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please download the latest version of the SwitchBot App from the app store.
+2. Make sure SwitchBot Lock has been added to your App.
+3. To avoid a home lockout, please update at the indoor side of your door.  
+4. Make sure you have the Lock upgraded with your smartphone within Bluetooth range.
+5. Log out your SwitchBot App, then log in again.
+6. Restart your SwitchBot App.
+7. If you have multiple phones, try updating the firmware using a different phone to see if it helps.
 
