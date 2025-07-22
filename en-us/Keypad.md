@@ -1779,3 +1779,22 @@ Note: Deleting the Keypad Touch from the app will automatically erase all regist
 4. If you have multiple NFC cards available, please check if other cards can be registered as part of troubleshooting.
 5. For non-SwitchBot NFC cards, please ensure you are using a non-encrypted MIFARE Classic 1K card.
 
+
+---
+### Troubleshooting Can’t Unlock My Lock with the Paired NFC Card
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
+
+2. Remove and reinsert the batteries in the Keypad Touch, then try unlocking your Lock with the NFC card again.
+
+3. Remove the Keypad Touch from the SwitchBot App, then re-add it along with the NFC card to unlock your Lock.
+Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
+
+4. If five consecutive attempts to unlock with the NFC card fail, the NFC card unlocking function will be temporarily disabled. Use a passcode or fingerprint to unlock successfully, then try unlocking your Lock using the NFC card again.
+
+5. If you have multiple NFC cards, please check if any other cards can be used for troubleshooting.
+
+
+
