@@ -1682,3 +1682,11 @@ Regarding this issue, could you please check the following points?
 Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
 
 
+---
+### Troubleshooting after Pressing the Number 8 Button on SwitchBot Keypad Touch, the Lock Will Automatically Lock.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a video showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
