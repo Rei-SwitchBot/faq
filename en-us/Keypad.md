@@ -1614,6 +1614,7 @@ Video: [https://youtube.com/shorts/a5qlr2iKTOo](https://www.youtube.com/watch?v=
 7. Unpair the Keypad touch and Lock.
 8. Delete the Keypad touch then pair it with your Lock again.
 
+
 ---
 ### Troubleshooting Unable to Unlock SwitchBot Lock Using Fingerprints
 
@@ -1625,7 +1626,7 @@ Regarding this issue, could you please check the following points?
 4. Remove and reinsert the batteries in the Keypad Touch, then try to unlock your Lock again.
 5. If a specific finger cannot unlock, please try registering your fingerprint again. Try enhancing fingerprint feature by re-adding the fingerprint that fails to unlock your Lock. Follow the guide below to set it up.
 
-![image](https://github.com/user-attachments/assets/f0600b57-df75-4377-b7e7-e2d0773c9da0)
+<img width="1280" height="518" alt="image" src="https://github.com/user-attachments/assets/0c1341ed-e769-462e-8ff3-1f81821fa841" />
 
 6. After unlocking the Lock with a passcode, press your finger against the fingerprint sensor and check if there is a sound and indicator light from the Keypad Touch.
 7. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, like one from your pinky finger, to unlock your Lock.
