@@ -4417,3 +4417,26 @@ Regarding this issue, could you please check the following points?
 6. Restart your SwitchBot App.
 7. If you have multiple phones, try updating the firmware using a different phone to see if it helps.
 
+
+---
+### Troubleshooting the Double-Sided Tape for Attaching SwitchBot Lock to the Front Door Has Come Off.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the installation surface is flat and dry as the adhesive tape does not work well on uneven surfaces.
+2. If the door has an oleophobic or frosted finish, do not use double-sided tape to secure Lock.
+3. Use an alcohol swab to clean the surface before installation. 
+4. When attaching Lock, firmly press down the entire length of the double-sided tape onto the door.
+5. Hold Lock in place for one minute after applying the tape.
+
+
+---
+### Troubleshooting SwitchBot Lock Unlocked Itself
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
+Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.1. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.1. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+ 
+2. After updating, recalibrate your Lock.
+*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
