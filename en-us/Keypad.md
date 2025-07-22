@@ -1683,3 +1683,14 @@ Note: Deleting the Keypad Touch from the app will automatically erase all regist
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Keypad Touch Logs Suddenly Stopped Updating
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
+2. Open the SwitchBot app near the device and tap the Keypad Touch to reconnect via Bluetooth.
+3. Delete the Keypad Touch from SwitchBot app, and re-add it.
+Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
+
+
