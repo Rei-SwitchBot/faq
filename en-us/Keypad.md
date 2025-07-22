@@ -1659,6 +1659,16 @@ Regarding this issue, could you please check the following points?
 5. Pair the dual-lock with Keypad Touch.
 
 
+---
+### Troubleshooting After Replacing with New Batteries, SwitchBot Keypad Touch Still Appears the Low Battery Notification
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure you are using two Panasonic or SwitchBot original CR123A 3V batteries.
+2. Remove the batteries from the Keypad Touch, wait for 1 minute, and then reinsert them.
+3. Use the Keypad Touch to operate the Lock product again.  
+4. Delete the Keypad Touch from SwitchBot app, and re-add it.
+Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
+5. If the battery level is displayed correctly, please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
 
 
