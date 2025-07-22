@@ -4379,6 +4379,35 @@ If the issue persists, please record a short video showing the calibration proce
 
 
 
+---
+### Troubleshooting Can't Finish the Recalibration of SwitchBot Lock Due to Error
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
+Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.1. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.1. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+
+2. After updating, recalibrate your Lock.
+*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
+
+3. Remove the Lock from the app and then add it again.
+  1. Long press your Lock icon on the app to delete it.
+  2. Remove the batteries and then reinsert them.
+  3. Add Lock to the app again.
+
+
+---
+### Troubleshooting Unable to Add SwitchBot Lock to the App Due to an "Device Initialization is Abnormal" Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue, could you please check the following points?
+1. For security reasons, each Lock can only be added to one account at a time. If a Lock was previously added to another account (such as your own, a family member’s, or a friend’s), you must first remove it from that account before adding it to a new one.
+※Long press the SwitchBot Lock icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
+3. If you receive a reset request, please upload proof of purchase (such as an Amazon order confirmation, receipt from our official website, or a retailer’s invoice). Once verified in the app, the lock will automatically unbind from the previous account, allowing you to add it to a new one.
+4. If the app fails to recognize the lock or if you acquired it secondhand, please contact our customer support team with your order documentation for further assistance.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
