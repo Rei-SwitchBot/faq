@@ -4495,3 +4495,27 @@ Long press your Lock icon on the app to delete it.
 Remove the batteries and then reinsert them.
 Add Lock to the app again.
 
+
+---
+### Troubleshooting the Logs of Unlocking and Locking SwitchBot Lock Suddenly Stopped Updating
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app available on the app store.  
+2.  Make sure the lock's battery level is sufficient. If necessary, replace with the two Panasonic CR123A 3V batteries and check if the issue is resolved.  
+3. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
+Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.1. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.1. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+ 
+4. After updating, recalibrate your Lock.
+*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
+ 
+5. Delete the Lock from your app and then re-add it.
+Long press your Lock icon on the app to delete it.
+Remove the batteries and then reinsert them.
+Add Lock to the app again.
+
+
+---
+### What Is the Torque of SwitchBot Lock?
+
+The torque of the lock during normal operation is 4.0~4.5kgf.cm, and the torque when it is jammed is 9kgf.cm.
