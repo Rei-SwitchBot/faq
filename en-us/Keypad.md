@@ -1591,11 +1591,6 @@ Regarding this issue, could you please check the following points?
 6. If you have other smartphones at hand, try using a different device.
 7. Remove and reinsert the batteries.
 8. Change to new CR123A 3V (Panasonic recommended) batteries and test if the device can power on.
-9. If the above does not resolve the issue, please provide us with the following information so we can determine whether the problem lies with the device or is a bug in the application.
-  1. A video demonstrating the lack of beeping or lighting on the keypad when batteries are removed and reinserted.
-  2. a screenshot of the app showing that the app failed to add the keypad
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
