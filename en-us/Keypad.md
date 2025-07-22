@@ -1802,4 +1802,19 @@ Note: Deleting the Keypad Touch from the app will automatically erase all regist
 5. If you have multiple NFC cards, please check if any other cards can be used for troubleshooting.
 
 
+---
+### Troubleshooting Unable to Remove SwitchBot Keypad from the Wall
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Detach the device by lifting it upward and utilizing the provided removal pin. Insert the pin into the hole located at the bottom of the Keypad/Keypad Touch.
+
+<img width="590" height="292" alt="image" src="https://github.com/user-attachments/assets/24e1d226-208d-4044-9710-233bf1704ada" />
+
+2. If it does not come off even after inserting the removal pin, try using a screwdriver with a tip width of 2 mm or less and a shaft length of 8 mm or longer.
+Tips:
+Press down on the Keypad with your finger, apply slight pressure to the device, and insert the screwdriver into the hole at the bottom.
+Video: [https://youtu.be/a5qlr2iKTOo](https://www.youtube.com/watch?v=a5qlr2iKTOo)
+
+3. If the device gets damaged during removal, please contact us again with a video that can confirm the situation.
 
