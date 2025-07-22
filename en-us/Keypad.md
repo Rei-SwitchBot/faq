@@ -1741,3 +1741,14 @@ Regarding this issue, could you please provide us with a photo of the broken hoo
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting After Pressing the Lock Button on SwitchBot Keypad Touch, the Lock Didn't Lock.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Set the lock button to "Enable" by going to SwitchBot app → Keypad Touch → Gear Icon → Lock Button Settings. Turn off the "Enable when the door closed" option.  
+2. If you need to press the lock button multiple times to lock it, please close the door and check if you can control the lock using the SwitchBot App from about 1m outside*. If yes, it's a signal issue with the Keypad Touch; if no, it's a signal issue with the Lock device.
+Note: Please take the front door key and check from the outside of the door.
+
+
