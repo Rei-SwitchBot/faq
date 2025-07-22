@@ -1698,3 +1698,15 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Remove and Reinsert the batteries to see if it helps.
 2. Replace the batteries in your Keypad with two Panasonic or SwitchBot original CR123A 3V batteries.
+
+
+---
+### Troubleshooting SwitchBot Keypad Touch Battery Drains Very Quickly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
+2. Please make sure you are using two Panasonic or SwitchBot original CR123A 3V batteries.
+3. Remove and reinsert the batteries of the Keypad Touch, then operate the Lock product again.  
+4. Delete the Keypad Touch from SwitchBot app, and re-add it.
+Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
