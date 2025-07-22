@@ -4352,3 +4352,33 @@ To determine if your device needs to be replaced, could you kindly provide us wi
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Lock Makes a Motor Sound But Gets Stuck Midway When Locking or Unlocking
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If your SwitchBot Lock makes a motor sound but stops midway and cannot complete the locking or unlocking action, please follow these steps:
+1. Verify that the Lock is installed correctly.
+Correct installation
+
+<img width="1258" height="824" alt="image" src="https://github.com/user-attachments/assets/9eaca762-7a19-49e4-8337-6c00071502e3" />
+
+Incorrect installation
+
+<img width="1255" height="822" alt="image" src="https://github.com/user-attachments/assets/ea414321-9eaa-4b5d-80c1-6521431d3ff6" />
+
+[https://support.switch-bot.com/hc/en-us/articles/7911260542999](https://support.switch-bot.com/hc/en-us/articles/7911260542999-What-to-Do-If-My-SwitchBot-Lock-Gets-Jammed)
+
+2. Remove the Lock from the mounting adapter and try to operate the lock (or emergency unlocking) function using our app.
+
+<img width="543" height="390" alt="image" src="https://github.com/user-attachments/assets/dd51e113-4eed-448b-8447-ec2650cff3ee" />
+
+If the issue persists, please record a short video showing the calibration process, as well as the Lock getting stuck during locking or unlocking. This will help us investigate further.
+
+
+
+
+
+
