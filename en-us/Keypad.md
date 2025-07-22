@@ -1766,3 +1766,16 @@ Regarding this issue, could you please check the following points?
 6. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, such as one from your pinky finger.
 7. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
 
+
+---
+### Troubleshooting Unable to Add NFC Cards to SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
+2. Remove and reinsert the batteries in the Keypad Touch, then try adding the NFC card again.
+3. Delete the Keypad Touch from SwitchBot App, add it back, and then attempt to register the NFC card again.
+Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
+4. If you have multiple NFC cards available, please check if other cards can be registered as part of troubleshooting.
+5. For non-SwitchBot NFC cards, please ensure you are using a non-encrypted MIFARE Classic 1K card.
+
