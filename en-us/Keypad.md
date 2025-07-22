@@ -1710,3 +1710,18 @@ Regarding this issue, could you please check the following points?
 3. Remove and reinsert the batteries of the Keypad Touch, then operate the Lock product again.  
 4. Delete the Keypad Touch from SwitchBot app, and re-add it.
 Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
+
+
+---
+### Troubleshooting cannot add an NFC card made by another company to SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you are using an NFC card from another company, please make sure that it is not an encrypted card. There is a possibility that reading and writing may not be possible with encrypted cards.
+2. Please use your android phone to download the App from the URL below and read your NFC card, and provide us with a screenshot of the following screen after reading it.
+[https://drive.google.com/file/d/1exigMwXQgO75qGDRGozq4I7lzpVk9yZx/view?usp=share_link](https://drive.google.com/file/d/1exigMwXQgO75qGDRGozq4I7lzpVk9yZx/view)
+
+<img width="434" height="811" alt="image" src="https://github.com/user-attachments/assets/1f105b47-6890-4103-ac53-827a84e0fc11" />
+
+
+
