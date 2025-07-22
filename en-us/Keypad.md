@@ -1752,3 +1752,16 @@ Regarding this issue, could you please check the following points?
 Note: Please take the front door key and check from the outside of the door.
 
 
+---
+### Troubleshooting Unable to Add My Fingerprints to SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure both your finger and the fingerprint sensor are clean and dry. If necessary, gently wipe the sensor area with a soft cloth.
+2. Try registering a different finger.
+3. When registering a fingerprint, experiment with both light and firm pressure to complete the process.
+4. Remove and reinsert the batteries in the Keypad Touch, then try registering the fingerprint again.
+5. After unlocking the Lock with a passcode, press your finger against the fingerprint sensor and check if there is a sound and indicator light from the Keypad Touch.
+6. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, such as one from your pinky finger.
+7. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
+
