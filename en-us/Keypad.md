@@ -1566,20 +1566,7 @@ A video of two devices within a meter of each other but unable to lock and unloc
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Remove the batteries and reinsert them.
-2. To determine whether your Keypad needs to be replaeced, could you please provide us with a video demonstrating the issue?
-3. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Keypad Touch Is Unresponsive and Cannot Be Added to SwitchBot App
@@ -1654,6 +1641,22 @@ Regarding this issue, could you please check the following points?
 
 6. After unlocking the Lock with a passcode, press your finger against the fingerprint sensor and check if there is a sound and indicator light from the Keypad Touch.
 7. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, like one from your pinky finger, to unlock your Lock.
+
+
+---
+### Troubleshooting Only One Lock Responds When Operating Dual-Lock with SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
+
+2. Check if you can control the Dual-Lock using SwitchBot app.
+
+3. Cancel the dual-lock in the following order: SwitchBot App → Lock → gear icon→ Dual Lock mode → cancel Dual Lock mode.
+  
+4. Set up dual-lock one more time.
+
+5. Pair the dual-lock with Keypad Touch.
 
 
 
