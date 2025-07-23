@@ -3167,3 +3167,28 @@ Tips:
   3. Update the firmware as per the video.
   4. Do not support upgrading using iPhone.
 Video: https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?usp=sharing
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Failed to Refill Water
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When using the S20's base station:
+1. Make sure that the auto-fill ports on the base station is properly installed and not damaged.
+
+<img width="1137" height="914" alt="image" src="https://github.com/user-attachments/assets/41838107-27bf-4de0-b209-f1d28f9ea66d" />
+
+2. Please make sure that there is water in the fresh water tank and that it is securely attached. As a precaution, lift the fresh water tank once and then place it back.
+
+3. Please refer to the video below to verify whether your S20 robot ’s fresh water pump is functioning correctly.
+[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view)
+Tips:
+  1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/d1e23587-9c45-427e-938d-0411f5b7dc5d" />
+
+  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
