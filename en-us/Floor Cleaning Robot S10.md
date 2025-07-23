@@ -1500,18 +1500,20 @@ Regarding this issue, could you please check the following points?
 2. Make sure that the fresh water hose is not damaged or folded.
 3. Make sure that the water station's auto-fill port is attached and undamaged.
 
-![image](https://github.com/user-attachments/assets/52346197-142f-4faf-8c09-0540efa6d71d)
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/b867287b-648c-41ed-baa5-ee4d82b911d8" />
+
 
 4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
-https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
+[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view)
 5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
 6. Please refer to the video below to verify whether your S10 robot ’s fresh water pump is functioning correctly.
-https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
+[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view)
 Tips:
-  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
+  1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
 
-![image](https://github.com/user-attachments/assets/76ba8729-7f3f-4a3a-9252-f969559494bd)
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/c0e31b31-5102-45c2-9ac5-97068d34fc0d" />
+
 
   c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
