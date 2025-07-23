@@ -2559,21 +2559,6 @@ Regarding the issue of the robot making clicking noise when it starts cleaning, 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 About this issue, please check the following to troubleshoot:
 1. When cleaning carpets, ensure they have a pile of 2cm or less to avoid damage from the side brush.
-2. Please provide a photo of the broken side brush for us to assess if replacement parts are needed. Additionally, please include a photo of the carpet if you are cleaning on one.
-
-Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
