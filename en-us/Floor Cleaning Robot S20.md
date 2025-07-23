@@ -3177,7 +3177,7 @@ Regarding this issue, could you please check the following points?
 When using the S20's base station:
 1. Make sure that the auto-fill ports on the base station is properly installed and not damaged.
 
-<img width="1137" height="914" alt="image" src="https://github.com/user-attachments/assets/41838107-27bf-4de0-b209-f1d28f9ea66d" />
+<img width="673" height="669" alt="image" src="https://github.com/user-attachments/assets/0c0d36b8-1282-4a93-a4f8-3548b809502f" />
 
 2. Please make sure that there is water in the fresh water tank and that it is securely attached. As a precaution, lift the fresh water tank once and then place it back.
 
