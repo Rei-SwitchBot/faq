@@ -2711,6 +2711,7 @@ Regarding the issue of the robot starting the cleaning task automatically at a s
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Avoids Cleaning No-Mop Zones While Vacuuming
 
@@ -2718,7 +2719,6 @@ Thank you for reaching out to us. We sincerely apologize for the inconvenience c
 Regarding the issue of the robot not vacuuming the No-Mop areas, could you please check the following points?
 1. Ensure that the mop bracket is not attached during cleaning. Attaching the mop bracket automatically switches the device to mopping mode, preventing it from entering no-mop areas.
 2. Delete the No-Mop Zone and then re-set it.
-3. If the issue persists, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance.
 
 
 ---
