@@ -2584,12 +2584,8 @@ Regarding the issue of multiple K10+ robots not automatically emptying the dustb
 1. The auto-empty function will not activate if the robot returns within 10 minutes of starting a cleaning session. Please note this limitation.
 2. The auto-empty function is disabled during the do-not-disturb period. Please ensure this mode is turned off if you want the robot to empty the dustbin automatically.
 3. The robot vacuum body is attached to the auto-empty station by default. When using multiple units, please do not change the combination of the vacuum cleaner body and the auto-empty station. If the second robot collects garbage instead of the first one that should be collecting garbage, please replace the robot vacuum cleaner and see if it improves.
-4. If the issue persists after trying the above steps, we may need to assess whether a repair is required. Could you please provide the following information?
-- A video showing the robot failing to auto-empty after returning to the station
-- A screenshot displaying the BLE MAC addresses of your auto-empty stations. (SwitchBot App -> K10+ -> Gear Icon -> Device Info ->)
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Falling Down Stairs During Cleaning
