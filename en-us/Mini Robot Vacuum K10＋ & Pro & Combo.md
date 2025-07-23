@@ -2597,11 +2597,6 @@ Regarding the issue of your Mini Robot Vacuum K10+ falling from stairs, please c
 3. Avoid using the robot in narrow spaces near steps or stairs. Set these areas as no-go zones in the app.
 4. Do not use the robot around sunken floors. The sensors may not recognize the edges, leading to a fall. Set these areas as no-go zones in the app.
 5. Avoid using the robot in areas without guardrails, such as lofts, hallways overlooking open spaces, or stair landings. Falls in these areas could cause damage or injury. Set these areas as no-go zones in the app.
-6. To help our R&D team investigate, please provide:
-- A photo of the steps or area where the robot fell.
-- A screenshot of the map from the SwitchBot app.
-
-If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
