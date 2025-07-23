@@ -2691,12 +2691,9 @@ Thank you for contacting us. We apologize for any inconvenience and are grateful
 We would like to walk you through some troubleshooting steps to fix the spinning problem with the K10+.
 1. Flip the Mini Robot K10+ and examine the tires for any foreign objects. If you notice anything, proceed with caution and cleanly remove the debris.
 2. Please refer to the video guide from the link provided, and mildly shake the robot by holding it in both hands for approximately 5 seconds. Afterwards, lightly vibrate the cleaner on the ground, restart it and then test it again.
-Link: https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M?usp=drive_link
+Link: [https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M?usp=drive_link](https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M)
 3. Manually rotate both the left and right tires to check for any differences in stiffness.
 4. If both tires can be manually rotated without any issues, kindly check through the SwitchBot App -> Mini Robot Vacuum K10+ -> More -> Remote Control Mode. Test if the robot can travel in a straight line.
-5. If you have tried all the steps above without any improvement, please send us a video to help us determine if your robot needs repair or replacement.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
