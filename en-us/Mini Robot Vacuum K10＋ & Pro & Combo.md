@@ -2720,6 +2720,7 @@ Regarding the issue of the robot not vacuuming the No-Mop areas, could you pleas
 2. Delete the No-Mop Zone and then re-set it.
 3. If the issue persists, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance.
 
+
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Map Is Overlapping
 
@@ -2728,12 +2729,9 @@ Regarding the issue of your Mini Robot Vacuum K10+ map overlapping, please check
 1. Check if the K10+ was moved during cleaning.
 2. Check if the K10+ was lifted, floated, or tilted during cleaning.
 3. Press and hold the front collision guard + power button + sensor part of the robot vacuum for more than 10 seconds to reset it.
-https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view
+[https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
 4. Perform the mapping again (try mapping three times).
-5. If the issue persists, we will forward your feedback to our R&D team for further assistance. To help our technical team investigate the issue, please provide the following:
-- A screenshot displaying the overlapping maps
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Return to the Auto-empty Station
