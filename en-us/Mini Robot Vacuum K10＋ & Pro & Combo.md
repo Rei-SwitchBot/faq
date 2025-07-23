@@ -2508,13 +2508,10 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 To assess whether your robot requires repair or replace, could you kindly confirm the following below?
 1. Check if air is flowing from the exhaust of the robot.
 
-![image](https://github.com/user-attachments/assets/66fb79a7-0cb6-43a7-9de3-4236938fbd57)
+<img width="830" height="226" alt="image" src="https://github.com/user-attachments/assets/8409c782-76d8-4244-8a04-5818d1764f81" />
 
 2. Change the cleaning mode in the SwitchBot App and verify if the sound of the airflow from the exhaust increases.
-3. Check if notifications of fan malfunctions occur frequently. We would also appreciate it if you could provide us with a fan error message screenshot.
-Check the notification messages by going to SwitchBot App -> Home screen -> "..." in the upper right corner -> Notifications
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+3. Check if notifications of fan malfunctions occur frequently. 
 
 
 ---
