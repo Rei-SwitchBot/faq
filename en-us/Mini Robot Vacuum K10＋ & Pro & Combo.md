@@ -2569,14 +2569,11 @@ Regarding the issue of the robot not automatically emptying the dustbin, could y
 1. The auto-empty function will not activate if the robot returns within 10 minutes of starting a cleaning session. Please note this limitation.
 2. The auto-empty function is disabled during the do-not-disturb period. Please ensure this mode is turned off if you want the robot to empty the dustbin automatically.
 3. Make sure the lid of the auto-empty station is properly closed. If the lid is open, the station’s indicator light will turn red.
-4. Ensure the dustbag is correctly installed. If it’s not properly placed, the station’s indicator light will also turn red. If the red light remains on even after installing the dustbag, try adjusting the dustbag slightly to the right, as shown in this video: https://youtu.be/y13cJRifAw8.
+4. Ensure the dustbag is correctly installed. If it’s not properly placed, the station’s indicator light will also turn red. If the red light remains on even after installing the dustbag, try adjusting the dustbag slightly to the right, as shown in this video: [https://youtu.be/y13cJRifAw8](https://www.youtube.com/watch?v=y13cJRifAw8).
 5. Please make sure the protective film on the charging station has been removed.
 6. Try turning off the auto-empty station and then turning it back on.
 7. Turn the Mini Robot Vacuum K10+ off and then on again.
 8. Open the SwitchBot app, go to the Mini Robot Vacuum K10+ control panel, and tap “Empty Dust” to see if the robot can empty the dustbin manually.
-9. If the issue persists after trying the above steps, we may need to assess whether a repair is required. Could you please provide a video showing the robot failing to auto-empty after returning to the station?
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
