@@ -2736,7 +2736,7 @@ Regarding the issue of your Mini Robot Vacuum K10+ map overlapping, please check
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Return to the Auto-empty Station
 
-Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+TThank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding the issue of the robot not automatically returning to the auto-empty station, could you please check the following points?
 1. Please make sure to remove the protective film from the auto-empty station of your K10+.
 2. Check that there are no obstacles or strong light sources in the area where the K10+ is placed, as they may interfere with infrared communication.
@@ -2744,15 +2744,13 @@ Regarding the issue of the robot not automatically returning to the auto-empty s
 4. Gently wipe the charging contacts on both the Mini Robot Vacuum K10+ and the auto-empty station with a clean cloth.
 5. Unplug the power cord from the auto-empty station and then plug it back in.
 6. Place the K10+ about 1 meter in front of the auto-empty station, then open the SwitchBot app, go to the Mini Robot Vacuum K10+ section, and tap the "Charge" button to see if it returns to the auto-empty station.
-7. If the issue persists after following these steps, we’ll determine if the robot needs repair or replacement. Please provide a video showing the robot failing to return to the auto-empty station.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
 ### Can I Copy the Existing Map to Create Multiple Floor Maps with SwitchBot Mini Robot Vacuum K10+?
 
 Unfortunately, the K10+ does not currently support creating new maps directly through duplication or copying, even if the rooms are very similar in size. The K10+ robot requires separate maps to be created for different floors in practical use.
+
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Auto-Empty Station Is Not Powering On
