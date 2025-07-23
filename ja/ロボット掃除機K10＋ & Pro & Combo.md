@@ -2707,7 +2707,7 @@ https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M?usp=dri
 
 
 ---
-### ロボット掃除機K10+のマップの一部が横ずれする
+### トラブルシューティングロボット掃除機K10+のマップの一部が横ずれする
 
 お問い合わせいただき、ありがとうございます。
 弊社の製品で大変ご迷惑をおかけしております。
@@ -2715,11 +2715,9 @@ https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M?usp=dri
 1．清掃中にロボット掃除機K10+を移動したか
 2．清掃中にロボット掃除機K10+は浮いたり、持ち上げられたり、傾いたりしたか
 3．ロボット掃除機本体の前衝突防止ガード＋電源ボタン＋センサー部分を10秒以上長押して、リセットします。
-https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing
+[https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
 4．再度マッピングします(三回マッピングしてみます)。
-5．上記で改善されない場合、再度フィードバックをご提出ください。ご連絡の際、横ずれするマップのスクリーンショットをご協力お願いいたします。技術チームへエスカレーションして調査させていただきます。
 
-※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
 
 ---
 ### 既存のマップをコピーして、ロボット掃除機K10+でマルチフロアマッピングしていいでしょうか。
@@ -2727,6 +2725,7 @@ https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=shari
 ご自宅のレイアウトを問わず、既存マップをコピーしてマルチフロアマッピングするのに対応しません。ロボット掃除機K10+のマルチフロアマッピング方法について、下記のリンクをご参考ください。
 
 https://support.switch-bot.com/hc/ja/articles/18360936312727
+
 
 ---
 ### ロボット掃除機K10+のゴミ収集ステーションは電源を入れても表示ランプが点灯せず、ロボットへの給電ができない
