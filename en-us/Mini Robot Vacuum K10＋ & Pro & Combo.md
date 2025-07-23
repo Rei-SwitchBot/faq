@@ -2698,6 +2698,7 @@ Link: https://drive.google.com/drive/folders/1DLZ85h27Am9Na0xvLaslvMr4343J2P9M?u
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+'s Schedule Has Been Deleted But Still Initiates Daily Cleaning
 
@@ -2706,10 +2707,6 @@ Regarding the issue of the robot starting the cleaning task automatically at a s
 1. Please comfirm if the schedule has been set through the following steps in the SwitchBot App -> K10+ -> More -> Scheduled. Delete any unnecessary schedules.
 2. Please verify if any automations are scheduled to perform cleaning tasks. Delete any unnecessary automations.
 3. Check if there are any Alexa routines scheduled for cleaning. Delete any unnecessary routines.
-4. If the issue persists, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When contacting us, please provide with the following information:
-- A screenshot of the cleaning report (Go to SwitchBot App -> K10+ -> More -> cleaning report)
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
