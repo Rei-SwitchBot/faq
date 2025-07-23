@@ -2654,9 +2654,6 @@ Thank you for reaching out to us. We sincerely apologize for the inconvenience c
 Regarding the robot's inability to overcome steps, could you please check the following points?
 1. Verify that the step is within 2 centimeters in height.
 2. The K10+ robot can travel on slopes with a maximum angle of 17 degrees. It is recommended to use a non-slip surface for better performance.
-3. To better assist you, could you please kindly provide a video of the K10+ robot struggling to climb over a step?
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
