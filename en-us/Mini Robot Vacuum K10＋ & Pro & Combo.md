@@ -3650,3 +3650,13 @@ Regarding this issue, could you please check the following points?
 
 <img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/f185bedd-7585-4597-b7d7-0c01dc436b6e" />
 
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Brush Frame Rattles
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. 
+About this issue, please check the following to troubleshoot:
+1. Remove the brush frame and check if the robot makes any unusual noise during cleaning.
+
+<img width="815" height="806" alt="image" src="https://github.com/user-attachments/assets/25540aa2-6923-490a-8389-44f7586ea1b1" />
