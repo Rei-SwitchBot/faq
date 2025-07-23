@@ -1607,23 +1607,23 @@ Regarding this issue, could you please check the following points?
 
 4. Make sure that the water station's auto-drain port is attached and undamaged.
 
-![image](https://github.com/user-attachments/assets/76bca5fb-f651-4639-8e52-86276aadc74d)
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/2c7bc66a-702f-4ca8-95cb-7be81d8627b3" />
 
 5. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
 
-![image](https://github.com/user-attachments/assets/be7360ad-9255-4cb8-b33e-163fdd4ab3d9)
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/aa272f5c-1399-4457-a6d1-16f5832fffee" />
 
 6. Please check if the waste water box is full or empty. 
 
-7. Manually clean the waste water box.
+7. Please refer to the video below to verify whether your S10 robot's waste water pump is functioning correctly.
+Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
+Tips:
+  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
 
-8. Open the waste filter cover on the Water Station and then clean the waste filter.
-
-Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
-
-![image](https://github.com/user-attachments/assets/bbf37a44-78aa-4903-8845-458f196194e1)
-
-
+<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/6f35beda-90aa-4f3f-af37-eb3e6e523e0e" />
+  c. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Dustbin Has Been Removed Even When It Isn't
