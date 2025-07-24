@@ -3587,3 +3587,11 @@ About this issue, please check the following to troubleshoot:
 1. Remove the brush frame and check if the robot makes any unusual noise during cleaning.
 
 <img width="815" height="806" alt="image" src="https://github.com/user-attachments/assets/25540aa2-6923-490a-8389-44f7586ea1b1" />
+
+
+---
+### Troubleshooting Can't Create A Map with SwitchBot Mini Robot Vacuum K10+ Even Though I Have Cleaned Many Times.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the problem of the robot being unable to create a map despite multiple cleaning attempts, please check the following:
+If you are using an OPPO device, ensure that it has at least 10GB of available storage space. Devices with less than 10GB of free storage may not support the mapping feature.
