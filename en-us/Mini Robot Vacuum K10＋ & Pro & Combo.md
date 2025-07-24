@@ -2641,10 +2641,6 @@ MAX Mode: Lasts for 70 minutes.
 2. Please check if the robot K10+ can be powered on when it is not docked at the auto-empty station.
 3. Please remove the faceplate of the robot K10+, switch the power to "o", manually dock the robot to the auto-empty station, and check if it can be powered on.
 4. Please check if the indicator on the auto-empty station blinks three times when the robot is manually docked to it.
-5. Please contact us again with the results of the above checks so we can determine if the robot needs repair or replacement.
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
