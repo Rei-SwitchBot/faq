@@ -587,3 +587,16 @@ Regarding this issue, could you please check the following points?
 <img width="796" height="648" alt="image" src="https://github.com/user-attachments/assets/2a5278cf-6475-4e26-a83a-18ffec55d600" />
 
 2. Wait two seconds, then press and hold the power button on the control panel for 15 seconds.
+
+
+---
+### Troubleshooting SwitchBot Battery Circulator Fan Will Suddenly Turn Itself off
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Open the SwitchBot App and tap your Circulator Fan to see if any schedules are set that might turn the fan off automatically.
+2. Look for any SwitchBot Automations that may include the fan. Disable or delete any unnecessary settings.
+3. If you use Amazon Alexa, check if any Routines might be controlling the fan. Adjust or remove them if needed.
+4. If you’ve shared your SwitchBot account or home with family or friends, check if they might be controlling the fan unintentionally.
+
+
