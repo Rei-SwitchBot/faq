@@ -578,15 +578,11 @@ The power button is designed to prevent accidental operation. If the power butto
 
 
 ---
-### Troubleshooting the touch panel of SwitchBot Battery Circulator Fan not responding, so cannot add it to the app
+### Troubleshooting the touch panel of SwitchBot Battery Circulator Fan Has Stopped Responding
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Turn off and then back on the switch underneath the battery circulator fan.
-
-<img width="796" height="648" alt="image" src="https://github.com/user-attachments/assets/2a5278cf-6475-4e26-a83a-18ffec55d600" />
-
-2. Wait two seconds, then press and hold the power button on the control panel for 15 seconds.
+1. Please check if the child lock is activated on the SwitchBot App for the Battery Circulator Fan. If it is enabled, please turn it off.
 
 
 ---
