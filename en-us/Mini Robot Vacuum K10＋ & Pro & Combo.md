@@ -3053,10 +3053,12 @@ You can set the cleaning frequency in the following ways
 1. SwitchBot App -> K10+ -> cleaning times.
 2. SwitchBot App -> K10+ -> more -> Scheduled.
 
+
 ---
 ### Can I Use the Cleaning Sheets From SwitchBot Mini Robot Vacuum K10+ for SwitchBot Robot Vacuum Cleaner S1?
 
 Cleaning sheets for the K10+ should not be used for the S1 or S1 Plus. The cleaning sheets for the K10+ are disposable and can be used with any commercially available 20 x 15 cm size, but the S1/S1 Plus requires a SwitchBot-specific mop.
+
 
 ---
 ### How to Check if SwitchBot Mini Robot Vacuum K10+ Is Fully Charged
@@ -3067,6 +3069,7 @@ Open SwitchBot app and on the home screen, you can check whether the K10+ robot 
 Method 2
 When the K10+ Robot is fully charged, the home button and clean button on its body will light up white. If the two buttons are slowly flashing white, it means that the K10+ robot is charging.
 
+
 ---
 ### Troubleshooting One of Two Mini Robot Vacuum K10+ Units Is Not Charging
 
@@ -3074,8 +3077,7 @@ Thank you for reaching out to us. We sincerely apologize for the inconvenience c
 To help us determine whether the robot or the charging station requires repair, could you please perform the following steps:
 1. Place the robot that can charge onto the charging station that cannot charge. Check if the robot charges normally.
 2. Place the robot that cannot charge onto the charging station that can charge. Check if the robot charges normally.
-Once you’ve completed these steps, please share the results with us. Our team will then follow up with you shortly.
-We appreciate your patience and cooperation. If you have any questions or need further assistance, feel free to let us know!
+
 
 ---
 ### Understanding the Status of SwitchBot Mini Robot Vacuum K10+ in the SwitchBot App
