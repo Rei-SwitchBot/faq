@@ -3544,7 +3544,6 @@ SwitchBotアプリのホームシェアリング機能を利用して、ご家�
 <img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/9d31949c-04cb-45e5-b9fb-98e1ab453643" />
 
 
-
 ---
 ### トラブルシューティングロボット掃除機K10+のブラシフレームがカタカタと音を立ててしまう
 
@@ -3556,3 +3555,14 @@ SwitchBotアプリのホームシェアリング機能を利用して、ご家�
 <img width="815" height="806" alt="image" src="https://github.com/user-attachments/assets/7f5a561b-5135-4306-a5e8-eeaf43ba555e" />
 
 
+---
+### トラブルシューティングロボット掃除機K10+は落下防止センサーが汚れているという音声が流れている
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+ロボット落下防止センサーの件について、以下をご確認いただけますでしょうか。
+1．念のため、落下防止センサーを再度クリーニングしてください。
+2．落下防止センサーを掃除した後、SwitchBotアプリ→ロボット掃除機K10+→詳細→部品使用期限→センサー→お手入れしましたの順番で操作したかご確認ください。
+3．ロボット掃除機K10+の電源を入れ直してください（フェースプレートを取り外して電源をoff→onします）。
+4．ロボット掃除機K10+を初期化してください。
+動画：[https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
