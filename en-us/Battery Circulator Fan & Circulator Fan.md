@@ -612,3 +612,15 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 - If you have another USB Type C cable available, please try using it instead and see if the issue improves.
 - Please video that the battery mark on the main unit does not light up or the battery cage does not increase when charging with the type C cable.
+
+
+---
+### Troubleshooting SwitchBot Battery Circulator Fan's Battery Lasts Only a few Hours
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please review the link below for information on the operation time of the battery circulator fan.
+[https://support.switch-bot.com/hc/en-us/articles/25125725966231](https://support.switch-bot.com/hc/en-us/articles/25125725966231-About-the-Operation-Time-of-SwitchBot-Battery-Circulator-Fan)
+2. When fully charged and used without oscillation at fan speed 2, the circulator's battery lasts approximately 30 hours. If the battery only lasts a few hours, please fully charge the circulator, set it to no oscillation and fan speed 2, and check its duration.
+
+
