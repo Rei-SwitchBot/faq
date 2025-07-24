@@ -2756,9 +2756,7 @@ Regarding the issue of the robot vacuum colliding forcefully with obstacles, let
 Therefore, we would like to suggest the following solutions:
 1. Open the SwitchBot app → select the Robot Vacuum K10+ → tap the gear icon → turn on the " Reduce Collision Mode" in the settings.
 2. Set up a virtual wall in front of the black or movable door.
-3. If the issue persists after trying the above steps, please provide us with a video of the robot vacuum colliding forcefully with the obstacle so that our R&D team can further investigate the matter.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Customize Room Cleaning Sequence with Schedule Feature of SwitchBot Mini Robot K10+
