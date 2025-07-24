@@ -2604,11 +2604,7 @@ Regarding the issue of your Mini Robot Vacuum K10+ falling from stairs, please c
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the robot not fully charging, could you please check the following points?
-It takes approximately 3 hours to fully charge the K10+ robot. Please dock the robot to the charging station and charge it for four hours to see if it can be charged to 100%, so we can determine if the robot needs repair or replacement. If this does not improve the situation, please tap the SwitchBot app -> K10+ and provide us with a screenshot of the charging status.
-
-![image](https://github.com/user-attachments/assets/4c0dc8fc-4624-43d3-aa05-b09c8d3d29da)
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+It takes approximately 3 hours to fully charge the K10+ robot. Please dock the robot to the charging station and charge it for four hours to see if it can be charged to 100%, so we can determine if the robot needs repair or replacement. 
 
 
 ---
