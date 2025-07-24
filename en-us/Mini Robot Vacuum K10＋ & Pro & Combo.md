@@ -2805,11 +2805,13 @@ Here’s how to do it:
 4. Once the cleaning is complete, a new map will be generated.
 5. If there are any issues with the new map, simply run another whole house cleaning to update it again.
 
+
 ---
 ### How to Replace the Battery When It Degrades in SwitchBot Mini Robot Vacuum K10+
 
 Please note that the K10+ uses a built-in lithium battery, and we kindly ask customers not to attempt replacing the battery yourselves. If you experience any battery-related issues during the warranty period, please contact our after-sales team for assistance.
 For damages caused by human error or natural degradation outside the warranty period, paid repairs are available. For details on repair costs, please reach out to our after-sales service.
+
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Detects a Dirty Anti-Drop Sensor
@@ -2820,13 +2822,8 @@ Regarding the issue with the cliff sensor on your Mini Robot Vacuum K10+, could 
 2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ → Details → Component Lifespan → Sensor → Mark as "Cleaned."
 3. Restart the Mini Robot Vacuum K10+ by turning the power off and on (remove the faceplate to access the power switch).
 4. Reset the Mini Robot Vacuum K10+ to its factory settings.
+Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
 
-Video guide: https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing
-
-
-6. If the issue persists after trying the above steps, we may need to determine if the robot requires repair or replacement. To assist us further, please provide the following:
-- A screenshot of the cliff sensor error message from the app.
-- A video of the Mini Robot Vacuum K10+ announcing, "Please wipe the cliff sensor and restart me somewhere else."
 
 ---
 ### Troubleshooting the Virtual Wall Keeps Jumping to Unexpected Locations on the Map Created by SwitchBot Mini Robot Vacuum K10+
