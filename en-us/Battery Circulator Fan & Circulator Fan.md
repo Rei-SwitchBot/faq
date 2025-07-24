@@ -604,3 +604,11 @@ Regarding this issue, could you please check the following points?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting my SwitchBot Battery Circulator Fan cannot be charged from USB Type-C port
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+- If you have another USB Type C cable available, please try using it instead and see if the issue improves.
+- Please video that the battery mark on the main unit does not light up or the battery cage does not increase when charging with the type C cable.
