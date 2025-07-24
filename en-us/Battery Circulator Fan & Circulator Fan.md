@@ -514,35 +514,15 @@ A video showing that the Battery Circulator Fan is making noise
 
 
 ---
-### What to Do When the Night Light on the SwitchBot Battery Circulator Fan Turns On and Off Repeatedly by Itself
+### Troubleshooting the night light on SwitchBot Battery Circulator Fan turns on and off without any operation
 
-Last Updated：
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn the Battery Circulator Fan back on.
+Battery Circulator Fan: Turn the power button on the bottom to "o" and then to "I" again.
+Circulator Fan: Unplug and then plug back in the charging cable.
 
-2024 Jun 18
-
-Related Products: SwitchBot Battery Circulator Fan
-
-1
-
-． Do the reset of the SwitchBot Battery Circulator Fan.
-
-*Related Posts：
-
-[How to Reset SwitchBot Battery Circulator Fan](https://support.switch-bot.com/hc/en-us/articles/17784801004695)
-
-2． Please follow the steps below to active the SwitchBot Battery Circulator Fan once more:
-
-Unplug the power cable from the SwitchBot Battery Circulator Fan.
-
-Set the power switch at the bottom of the circulator to "o."
-
-Set the power switch at the bottom to "I" again.
-
-Reconnect the power cable of the SwitchBot Battery Circulator Fan.
-
-3． If the issue persists even after the above steps, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will provide exchange service during the warranty period. When contacting us, it would be helpful if you could provide the following information:
-
-A video of the constant on/off behavior of the night light.
+2. Press and hold the operation ON/OFF button on the main unit operation panel for 15 seconds to reset the Battery Circulator Fan.
 
 
 
