@@ -2735,6 +2735,7 @@ Regarding the issue of the robot auto-empty station not powering on, could you p
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+'s Charging Station Constantly Illuminates Red (Actually Orange) Light and Does Not Collect Dust
 
@@ -2743,13 +2744,10 @@ Regarding the issue of the robot charging station consistently lighting up red, 
 1. Please make sure the charging station lid is properly closed.
 2. Please make sure that the dust pack is properly attached. If you have multiple dustpacks, try replacing another one to see if it helps.
 3. If the red light does not go out even after attaching the dust pack, please adjust the position of the dust pack slightly to the right, as shown in the video below.
-Video: https://youtu.be/y13cJRifAw8
+Video: [https://youtu.be/y13cJRifAw8](https://www.youtube.com/watch?v=y13cJRifAw8)
 
 4. Restart the power of the charging station.
-5. If you have completed all the checks mentioned above and the issue still persists, please provide us with a video showing the robot charging station consistently lighting up red to help us determine if your robot needs repair or replacement.
 
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Collides Forcefully with Obstacles
