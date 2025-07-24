@@ -2872,13 +2872,7 @@ Regarding the issue of the robot not switching to vacuuming mode, could you plea
 1. Try to reset your K10+.
 Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
 Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be lost.
-
-Video: https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
-
-3. If the issue persists, we would appreciate it if you could share a video showing the problem. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+Video: [https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 
 
 ---
