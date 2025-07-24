@@ -2778,21 +2778,21 @@ Please see the video at 2:12.
 
 https://www.youtube.com/watch?v=ieeh4XtugdI&t=84s
 
+
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Is Continuously Cleaning the Same Area
 
 Thank you for contacting us. We deeply apologize for the inconvenience caused by our product.
 Regarding the issue of the robot vacuum repeatedly cleaning the same area, could you please check the following:
 1. Near carpets or transparent glass surfaces, the robot vacuum may activate its escape mode more frequently, which can cause unstable movement. We appreciate your understanding of this matter.
-2. To further investigate, we would like to escalate this to our R&D team. Could you please provide us with a video of the Robot Vacuum K10+ repeatedly cleaning the same area?
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Can the Laser Sensor of SwitchBot Mini Robot Vacuum K10+ Be Removed?
 
 The laser sensor on the K10+ cannot be removed. This sensor is a critical component that uses LiDAR technology to locate the robot and create a map of the room. If the sensor is removed, the robot will not function properly, so please be cautious.
 The K10+ has a body height of 9.2cm, allowing it to clean under low spaces such as cabinets or sofas. However, for areas with a height of less than 9.2cm where the robot cannot fit, we recommend manual cleaning.
+
 
 ---
 ### How to Update the Map on SwitchBot Mini Robot Vacuum K10+ After Rearranging Furniture
