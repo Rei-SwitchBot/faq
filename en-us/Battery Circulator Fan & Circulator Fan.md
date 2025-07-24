@@ -576,7 +576,6 @@ Regarding this issue, could you please check the following points?
 4. If you’ve shared your SwitchBot account or home with family or friends, check if they might be controlling the fan unintentionally.
 
 
-
 ---
 ### Troubleshooting the night light on SwitchBot Battery Circulator Fan keeps making noise when running
 
@@ -584,3 +583,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please provide us with a video showing the issue?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the power button label on the SwitchBot Smart Circulator fades away
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provdie us with a phone showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
