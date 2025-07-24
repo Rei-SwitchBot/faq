@@ -2839,11 +2839,6 @@ When setting up a virtual wall on the generated map, the virtual wall cannot spa
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the robot announcing "Charging" when you pass by, please check the following:
 1. Ensure that the charging station is placed on a hard, flat surface. If it is placed on a soft carpet or foam mat, even slight vibrations can cause the robot to reconnect to the charging base, triggering the "Charging" announcement.
-2. If the above does not apply to your situation, we kindly ask for your assistance in providing a video capturing the issue. This will allow our R&D team to escalate and conduct a detailed investigation.
-
-We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
