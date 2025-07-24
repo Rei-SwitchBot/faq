@@ -2069,11 +2069,8 @@ Regarding the issue of the robot not being able to connect to Wi-Fi, could you p
 8. Attempt network setup again at a different time of day, such as at night.
 9. Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
 Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be lost.
-Reset video: https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
+Reset video: [https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 10. Please wait a few days before attempting to connect to Wi-Fi again.
-11. If you have completed all the checks mentioned above and the issue still persists, please provide us with a video showing the Wi-Fi network connection failure to help us determine if your robot needs repair or replacement.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
