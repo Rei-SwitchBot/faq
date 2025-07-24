@@ -2731,9 +2731,6 @@ Unfortunately, the K10+ does not currently support creating new maps directly th
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the robot auto-empty station not powering on, could you please check the following points?
 1. Please try plugging the auto-empty station into a different outlet in your home to check if it powers on.
-2. If the issue persists after trying this, we’ll need to determine if a repair or replacement is required. Could you please provide a video showing that other devices work when plugged into the same outlet, but the auto-empty station’s indicator light does not turn on when connected?
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
