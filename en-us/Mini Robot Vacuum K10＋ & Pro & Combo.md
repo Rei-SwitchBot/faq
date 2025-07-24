@@ -3589,3 +3589,12 @@ About this issue, please check the following to troubleshoot:
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the problem of the robot being unable to create a map despite multiple cleaning attempts, please check the following:
 If you are using an OPPO device, ensure that it has at least 10GB of available storage space. Devices with less than 10GB of free storage may not support the mapping feature.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Stops Working Due to Side Brush Frequent Foreign Object Errors, Even When There Are No Foreign Objects Present.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot not operating due to a side brush foreign object error, could you please check the following steps?
+1. Remove the side brush and clean it manually.
+2. Check if the robot can operate without the side brush and without triggering any errors. If it operates normally, please replace the side brush.
