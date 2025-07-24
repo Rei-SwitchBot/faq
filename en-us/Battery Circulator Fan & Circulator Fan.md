@@ -578,3 +578,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 The power button is designed to prevent accidental operation. If the power button is touched improperly continuously, it will be judged as an accidental operation. In this case, wait 5 seconds and then touch the power button so that your finger covers the button as completely as possible.
 
+
+---
+### Troubleshooting the touch panel of SwitchBot Battery Circulator Fan not responding, so cannot add it to the app
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Turn off and then back on the switch underneath the battery circulator fan.
+
+<img width="796" height="648" alt="image" src="https://github.com/user-attachments/assets/2a5278cf-6475-4e26-a83a-18ffec55d600" />
+
+2. Wait two seconds, then press and hold the power button on the control panel for 15 seconds.
