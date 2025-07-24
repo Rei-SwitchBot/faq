@@ -2831,10 +2831,7 @@ Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the virtual wall setting on the Mini Robot Vacuum K10+, please note the following:
 When setting up a virtual wall on the generated map, the virtual wall cannot span across walls or rooms. If you attempt to force the virtual wall into such positions, it may automatically jump to an unexpected location. This behavior is due to the robot's design specifications and is not a product defect.
-If the issue you’re experiencing is unrelated to the above, we kindly ask for your assistance in providing a video showing the problem with setting up the virtual wall. This will allow our R&D team to escalate and investigate the matter further.
-We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Announces "Charging" When Passing By
@@ -2847,6 +2844,7 @@ Regarding the robot announcing "Charging" when you pass by, please check the fol
 We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Can I Use a Rubber Brush with SwitchBot Mini Robot Vacuum K10+?
