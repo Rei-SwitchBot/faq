@@ -472,7 +472,6 @@ Ceiling Light Pro 12 Mats
 [Download](https://support.switch-bot.com/hc/en-us/article_attachments/23111233576343)
 
 
-
 ---
 ### Troubleshooting SwitchBot ceiling light's night light can be turned on and off, but the full light setting cannot be used.
 
@@ -482,3 +481,36 @@ Regarding this issue, could you please check the following points?
 2. Reset your Ceiling Light.
 Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
+
+
+---
+### Troubleshooting SwitchBot Ceiling Light Pro Shade Is Broken
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Our support team can assist you with a replacement shade. Please note, the shade is not sold separately, but we can send one to you for free, with the shipping cost to be covered by you.
+- Shipping fees:
+  - For the Ceiling Light Pro Shade, the shipping cost is 3800 Japanese yen.
+  - For the Ceiling Light Pro Shade, the shipping cost is 4800 Japanese yen.
+
+If you wish to proceed, please use the following link to pay the shipping fee:
+[https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239](https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239)
+After completing the payment, kindly provide the order number starting with #JP and the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+Thank you for your understanding, and we're here to support you if you need further assistance!
