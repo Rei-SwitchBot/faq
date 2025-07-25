@@ -3556,4 +3556,16 @@ Regarding the issue of the robot not actually emptying the dustbin, could you pl
 3. Replace the dust bag.
 
 
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Keeps Reporting "Main Brush Stuck" and Fails to Clean
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue that the robot fails to clean due to a main brush stuck error, could you please check the following points?
+1. Remove the main brush and check if the marked area (main brush mounting part) shows signs of melting, as indicated in the red arrow in the diagram below.
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f3a65480-9649-4098-9972-c32361a79935" />
+
+2. Remove the main brush and brush frame, then run the robot to check if the same error persists.
+
+3. After a full charge, test the robot and confirm whether the main brush rotates properly.
+※Note: Instead of flipping the robot over, place your hand directly on the main brush area to check rotation.
