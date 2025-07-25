@@ -3344,12 +3344,14 @@ You can watch the video linked below to confirm how to replace the front wheels 
 
 https://drive.google.com/file/d/1LSlVjjB5bKN6JWPQT-BkvfKmj7BVPJ8b/view?usp=drive_link
 
+
 ---
 ### Instructions for Do-Not-Disturb-Time Schedules of SwitchBot Mini Robot Vacuum K10+
 
 Set the Do-Not-Disturb-Time in the following order: SwitchBot app -> K10+ -> Gear Icon -> Do-Not-Disturb-Time.
 Up to 10 Do-Not-Disturb-Time Schedules can be set for Mini Robot Vacuum K10+.
 During the set Do-Not-Disturb-Time, the K10+ will not perform automatic cleaning (including scheduled cleaning and automation you have set), voice guidance or automatic garbage collection.
+
 
 ---
 ### Troubleshooting After turning off the base from the power source, the robot leaves the base and starts spinning around itself forever
@@ -3361,6 +3363,7 @@ If you need to shut off the power to the auto-empty station for any reason, we c
 If your robot does not match the description provided, it would be helpful if you could provide us with a video showing the issue.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting The Main Brush Frame of SwitchBot Mini Robot Vacuum K10+ Is Broken
