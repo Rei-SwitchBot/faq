@@ -539,7 +539,7 @@ Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHo
 
 
 ---
-### TTroubleshooting SwitchBot Ceiling Light Pro Turns on by Itself. When Checking the Logs, It Shows as the Wall Switch.
+### Troubleshooting SwitchBot Ceiling Light Pro Turns on by Itself. When Checking the Logs, It Shows as the Wall Switch.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
@@ -548,4 +548,16 @@ Turn/off the main switch ( eg: wall switch) eight times in succession with an op
 Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHok)
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting  Unable to Use SwitchBot Ceiling Light Pro to Learn the Remote Control
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the home appliance you are using has an infrared remote control, remote control learning and operation are possible. Please note that for remotes combining infrared and Bluetooth, only the infrared buttons are supported. For details about the specifications of the remote control, please contact the manufacturer.
+2. Please use the latest version of the SwitchBot app from the app store. You may not be able to learn with the beta version.
+3. If "Smart Matching" and "Select Manually" fail, we strongly recommend that you use "Learn Buttons"  or "Others" methods to learn your remote control.
+4. Make sure that you are using the latest* firmware version of your Ceiling Light Pro. If not, please update the firmware near your device by going to SwitchBot App -> Ceiling Light Pro -> Gear Icon -> Firmware & Battery.
+
 
