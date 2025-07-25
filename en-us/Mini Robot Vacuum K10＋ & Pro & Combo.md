@@ -3552,3 +3552,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the robot not operating due to a side brush foreign object error, could you please check the following steps?
 1. Remove the side brush and clean it manually.
 2. Check if the robot can operate without the side brush and without triggering any errors. If it operates normally, please replace the side brush.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Charging Port Is Rusty And Unable to Charge
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the robot's rusty charging port issue, could you please check the following points?
+1. Please use a damp cloth to remove the rust with some pressure and check if it gets better.
+
+
