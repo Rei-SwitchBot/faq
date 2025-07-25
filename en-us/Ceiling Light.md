@@ -590,3 +590,11 @@ Please check the following to determine if it is an issue with the included remo
 
 <img width="1018" height="1111" alt="image" src="https://github.com/user-attachments/assets/c28a644e-f78f-4bac-9b50-85a3190dd6f4" />
 
+
+---
+### Troubleshooting SwitchBot Ceiling Light Pro will Turn on and off by Itself During Use.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
+
