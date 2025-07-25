@@ -3162,3 +3162,15 @@ In the case of multi-floor use, it is possible to install multiple water station
 With firmware version 1.0.946, one S10 can now be paired with multiple water stations. You can manually take the S10 to different floors for cleaning purposes. The water station is available for purchase on our official website.
 https://www.switch-bot.com/products/switchbot-water-station-for-s10
 Note: The S10 can store a maximum of 5 maps, each with one water station configuration. As a result, you can currently place up to 5 water stations.
+
+
+---
+### Can I Use the Auto-empty Station from SwitchBot Floor Cleaning Robot S10 with the S20?
+
+Regarding the compatibility between Floor Cleaning Robot S10 and S20, please refer to the following information:  
+1. The S10 cannot be used with the base station of the S20.
+2. When docking the S20 with the auto-empty station of the S10, charging is possible (requires auto-empty station firmware V23 or later), but functions like waste collection and mop drying are not available.
+3. Both robot models, S10 and S20, can utilize the water station. If you upgrade to the S20, you can designate the water station from your S10 for use with the new model.
+Multi-floor cleaning: [https://support.switch-bot.com/hc/en-us/articles/32681888413463](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+Where to buy the water station: [https://www.switch-bot.com/products/switchbot-water-station-for-s10](https://www.switch-bot.com/products/switchbot-water-station-for-s10)
+
