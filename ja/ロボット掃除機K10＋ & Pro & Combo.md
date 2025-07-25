@@ -3204,22 +3204,22 @@ https://support.switch-bot.com/hc/ja/articles/14434474611863
 
 https://support.switch-bot.com/hc/ja/articles/14543507386775
 
+
 ---
-### K10+の部品交換使用期限の表示がリセットされません
+### トラブルシューティングロボット掃除機K10+の部品交換使用期限の表示がリセットされません
 
 お問い合わせいただき、ありがとうございます。
 弊社の製品でご迷惑をおかけしております。
 恐れ入りますが、以下をご確認いただけますでしょうか。
 1．ロボット掃除機K10+本体のフェースプレートを外して、電源を入れ直します（oにしてから再度Iにします）。
 
-![image](https://github.com/user-attachments/assets/d5ab4e82-5e37-42d1-9f89-f7d4ec1f7708)
+<img width="625" height="392" alt="image" src="https://github.com/user-attachments/assets/96c75a7e-17ff-4c56-a842-aa850a8f6fdd" />
 
 2．SwitchBotアプリ→ロボット掃除機K10+→歯車マーク→Wi-Fi再設定の順番で再度Wi-Fi接続を行います。
 3．前衝突防止ガード＋充電ボタン＋センサー部分を10秒以上長押しすると、ロボット掃除機K10+がリセットされます。リセットされると、Wi-Fi情報、設定済みのスケジュール清掃とマップが消えてしまいますので、ご了承お願いいたします。
 以下の動画をご参照ください。
-https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
-4．それでも改善されない場合、本件を弊社の技術チームにエスカレーションして、調査させていただきます。以下の内容をいただけると助かります。
-- 部品交換使用期限の表示がリセットされない動画
+[https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
+
 
 
 ---
