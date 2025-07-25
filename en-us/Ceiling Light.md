@@ -572,3 +572,21 @@ Regarding this issue, could you please check the following points?
 4. If you have other SwitchBot Wi-Fi devices, please check whether the Wi-Fi connection has stabilized.
 
 
+---
+### Troubleshooting Unable to Control SwitchBot Ceiling Light Pro with the Included Remote
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the batteries in the included remote control are depleted. If necessary, replace the batteries and try again.
+2. Please confirm that the firmware version of your Ceiling Light Pro is 2.4 or newer. If not, update it near the device via the SwitchBot app → Ceiling Light Pro → Gear Icon → Firmware & Battery.
+
+Please check the following to determine if it is an issue with the included remote control:
+3. Open the SwitchBot app near the device to check if you can control the ceiling light pro. If you can operate it through the app, there may be an issue with the remote control. If not, our technical team will investigate further.
+4. Point the remote control at the ceiling light, switch channels, and see if you can operate it. If it still doesn't work after changing channels, there may be a problem with the remote control.
+
+<img width="250" height="562" alt="image" src="https://github.com/user-attachments/assets/e808c50a-dfce-4d83-8211-8713a42dd883" />
+
+5. Open the camera on your smartphone, point the remote control at it, press and hold any button. Check if the transmitting sensor on the remote control is blinking on the screen. If not, there may be a malfunction with the remote control.
+
+<img width="1018" height="1111" alt="image" src="https://github.com/user-attachments/assets/c28a644e-f78f-4bac-9b50-85a3190dd6f4" />
+
