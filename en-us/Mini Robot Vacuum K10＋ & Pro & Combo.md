@@ -3440,13 +3440,9 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of being unable to remove the main brush from the robot,, could you please check the following points?
 1. Please make sure that the brush attachments on both ends are securely installed, as shown in the diagram.
 
-![image](https://github.com/user-attachments/assets/11bcc4b1-eacc-498a-9a5b-aaf1d1700aaf)
+<img width="361" height="255" alt="image" src="https://github.com/user-attachments/assets/ef513557-1be2-4245-bdd3-47d1e180f57c" />
 
-2. To access if your robot needs to be replaced or repaired, could you please provide us with the following information?
-- A photo showing the installation status of the main brush
-- A video showing the main brush cannot be removed
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Frequently Goes into Sleep Mode and Eventually Offline
@@ -3458,9 +3454,6 @@ Standing By: The robot has finished cleaning and is idle. This status may also a
 Sleep: If the robot remains in "Standing By" mode for 10 minutes, it will enter sleep mode. After 10 hours in sleep mode, it will automatically power off.
 2. Make sure the K10+ is properly docked with the auto-empty station.
 3. Gently wipe the charging terminals on both the robot and the auto-empty station with a soft tissue, then check if the issue improves.
-4. If the issue persists, we will escalate your feedback to our R&D team for further investigation. We would appreciate if you could provide us with a screenshot of the robot entering sleep mode in the app.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
