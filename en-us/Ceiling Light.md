@@ -561,3 +561,14 @@ Regarding this issue, could you please check the following points?
 4. Make sure that you are using the latest* firmware version of your Ceiling Light Pro. If not, please update the firmware near your device by going to SwitchBot App -> Ceiling Light Pro -> Gear Icon -> Firmware & Battery.
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light Pro Frequently Goes Offline.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if you are turning off the ceiling light daily with the wall switch, as this will cause the device to power off and appear offline in the app.
+2. Please keep the distance between the ceiling light pro and the Wi-Fi router within 5-10 meters as much as possible.  
+3. Reconnect the ceiling light pro to Wi-Fi by navigating in the SwitchBot app → Ceiling Light Pro → Gear Icon → Wi-Fi Settings.  
+4. If you have other SwitchBot Wi-Fi devices, please check whether the Wi-Fi connection has stabilized.
+
+
