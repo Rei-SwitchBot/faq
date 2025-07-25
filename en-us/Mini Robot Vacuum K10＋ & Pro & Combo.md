@@ -2518,36 +2518,9 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the robot making clicking noise when it starts cleaning, could you please check the following points?
 1. Please make sure that the brush attachments on both ends are securely installed, as shown in the diagram. Additionally, if there is any hair tangled around the brush, please carefully remove it by hand.
 
-![image](https://github.com/user-attachments/assets/6807c17b-e7cd-4b73-b679-01e119b32208)
+<img width="361" height="255" alt="image" src="https://github.com/user-attachments/assets/3859f4ff-7c18-4610-ab6c-75c3fa95f13c" />
 
 2. Remove the main brush and brush frame, then run the robot to check if the clicking noise persists.
-3. If you have access to a lubricant equivalent to WD-40, apply a small amount to the gap marked with red label A in the diagram. Afterward, run the robot for a while to see if the noise improves.
-
-![image](https://github.com/user-attachments/assets/5d4f5ef2-457b-4ac0-b788-031ecd5df801)
-
-4. If the issue remains unresolved after performing the above steps, we may need to determine if the robot requires repair or replacement. To assist us in this process, we kindly request the following:
-
-- A photo of the main brush attachment area.
-
-![image](https://github.com/user-attachments/assets/e43e2e94-971a-4706-9a21-357cfe6c702d)
-
-
-- A video of the robot making the clicking noise.
-
-5. If it turns out that your robot requires repair, to expedite the process, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
