@@ -3213,3 +3213,32 @@ Tips:
   3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
 
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Is Not Sucking the Dirty Water After Mopping
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When using the S20's base station:
+1. Make sure that the auto-drain port on the base station is properly installed and not damaged.
+
+<img width="622" height="648" alt="image" src="https://github.com/user-attachments/assets/f9ff107d-c1bb-49ea-bc3c-7a8469b61b5f" />
+
+2. Please check if the waste water tank is full of water.  
+3. Please confirm that the waste water tank is securely attached. Lift the waste water tank once and put it back in place.  
+4. Check the rubber valve at the connection part of the waste water tank is not damaged. Remove it manually and reattach it.
+
+<img width="870" height="675" alt="image" src="https://github.com/user-attachments/assets/d21b38b2-9668-4928-b718-3305dbefb8da" />
+
+5. Please refer to the video below to verify whether your S20 robot's waste water pump is functioning correctly.
+Video: [https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing](https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view)
+Tips:
+  1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+
+<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/f17cbce0-c417-4a83-b534-2991fa0d2e94" />
+
+  3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
+
