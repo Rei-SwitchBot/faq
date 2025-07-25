@@ -3562,3 +3562,13 @@ Regarding the robot's rusty charging port issue, could you please check the foll
 1. Please use a damp cloth to remove the rust with some pressure and check if it gets better.
 
 
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Has a Bad Smell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the robot's odor issue, could you please check the following points?
+1. Please use the robot according to the voltage specifications of your country/region. Using a higher voltage may cause the auto-empty station to burn out.
+2. Please check if the K10+ can collect dust. If it does, clean the dust box, main brush, and filter, and replace the dust pack before checking if the issue is resolved.
+
+
+
