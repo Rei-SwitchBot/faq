@@ -1993,29 +1993,19 @@ Related Products: SwitchBot Robot Vacuum K10+ / K10+ Pro
 
 
 ---
-### What to Do If My SwitchBot Mini Robot Vacuum K10+ / K10+ Pro Dust bin is not Recognized?
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ dust bin is not recognized
 
-Last Updated: 2024 Sep 04
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the dust box and check if the magnet is attached to the bottom right.
 
-Related Products: SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-SwitchBot App Version: 9.0 or newer
-
-1. Remove the dust box and check if the magnet is attached to the bottom right.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25999628475927)
+<img width="977" height="981" alt="image" src="https://github.com/user-attachments/assets/73f82c3d-952f-4e2c-ae76-ffb9015857eb" />
 
 2. If the magnet is missing, please photograph the dustbin and we will send you a replacement.
 
 3. If the dustbin has a magnet but the issue persists after reinserting it, try resetting the K10+ to its factory settings. You can follow the steps in the video linked below to do this.
-
 Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
-
-4. If the issue remains unresolved after these steps, please contact us via SwitchBot App > Profile > Support >Feedback. We would appreciate it if you could provide us with the following information when you contact us.
-
-Picture of dust box with magnet
-
-The screenshot shows "Cannot find a dustbin."
+[https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 
 
 
@@ -2281,13 +2271,12 @@ SwitchBot Mini Robot Vacuum K10+ / K10+ Pro emits laser beams to detect its surr
 ---
 ### Troubleshooting the Side Brush of SwitchBot Mini Robot Vacuum K10+Turns sometimes and sometimes not
 
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
-1. Remove the sidebrush and clean it.
-2. If the issue persists, please provide us with a video showing side brush unstable action. This will help us determine if the robot needs to be repaired or replaced.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. 
+To help resolve the issue with the side brush not rotating, we kindly ask you to follow these steps:
+1. Please turn the robot over and check if there is any foreign object stuck in the side brush. If necessary, remove the side brush and clean it manually.
+2. Manually rotate the side brush to see if it feels difficult to turn.
+3. Start a cleaning task and check if the side brush rotates normally.
 
-If you had already upload a video of the issue, please wait for our agents to handle this case.
-
-Thank you for your understanding.
 
 ---
 ### Troubleshooting SwitchBot Roller Shade Fabric Has Black Stains
@@ -2298,6 +2287,7 @@ If the eraser does not fully remove the marks but the roller shade functions pro
 - A 15% refund on your purchase price (Please note that any processing fees incurred from the refund will not be covered by us).
 - A free gift—select one from the following options: Meter, Remote, or Bot.
 If you give this a try, please let us know the results and which option you’d prefer. We’re here to assist you!
+
 
 ---
 ### Troubleshooting SwitchBot Roller Shade Fabric Has Creases or Wrinkles
