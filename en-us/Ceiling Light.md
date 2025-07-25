@@ -514,3 +514,17 @@ After completing the payment, kindly provide the order number starting with #JP 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 Thank you for your understanding, and we're here to support you if you need further assistance!
+
+
+---
+### Troubleshooting Failed to Add SwitchBot Ceiling Light Pro to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Reconnect the power to the ceiling light and pair it within 2 minutes.  
+3. Connect to a 2.4GHz Wi-Fi network.  
+4. Turn off your smartphone's Bluetooth and turn it back on.  
+5. If you have multiple smartphones, try pairing with a different smartphone.
+
+
