@@ -3268,6 +3268,7 @@ Regarding the incident of pet waste being entangled in the robot vacuum, please 
 6. Gently clean the gaps around the wheels and other areas with a soft brush.
 7. Allow the robot vacuum to air dry naturally for up to one week.
 
+
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Stopped Working Due to a Stuck Radar Error
 
@@ -3277,24 +3278,6 @@ Regarding the stuck laser radar error issue of the robot, could you please check
 2. After cleaning, restart the K10+ and check if the error is resolved.
 3. Please check if pushing the radar cover of the 10+ with your hand improves it.
 4. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
-5. If the issue persists, to determine whether if your robot needs to be replaced or repaired, we appreciate it if you could provide the following information:
-- A screenshort showing the laser sensor error pop-up appeared on the SwitchBot app.
-- A video of the robot stops operating due to laser sensor error
-
-6. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
@@ -3305,10 +3288,12 @@ We’d like to inform you that when the K10+ operates in MAX mode for more than 
 This feature is designed to protect the fan’s lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
 We apologize for any confusion this may cause and appreciate your understanding. If you have any further questions, please feel free to reach out.
 
+
 ---
 ### Is It Possible to Adjust the Rotation Speed of the Side Brush on the SwitchBot Mini Robot Vacuum K10+?
 
 We are sorry to inform you that adjusting the rotational speed of the side brush is not supported.
+
 
 ---
 ### How Many Centimeters of Step Height Does SwitchBot Mini Robot Vacuum K10+ Need to Detect to Activate the Anti-fall Sensor Function?
@@ -3319,20 +3304,24 @@ We are sorry to inform you that adjusting the rotational speed of the side brush
 4. Do not use robots around sunken floors. The sensors may not recognize the edges, leading to a fall. Set these areas as no-go zones in SwitchBot app.
 5. Avoid using the robot in areas without guardrails, such as lofts, hallways overlooking open spaces, or stair landings. Falls in these areas could cause damage or injury. Set these areas as no-go zones in SwitchBot app.
 
+
 ---
 ### How Many Family Members Can I Share SwitchBot Mini Robot Vacuum K10+ Operational Access with?
 
 The Home Sharing feature allows you to share SwitchBot Robot Vacuum K10+ with your family and friends. Currently, up to 100 members can be invited to your home.
+
 
 ---
 ### Can SwitchBot Mini Robot Vacuum K10+ Clean up Sticky Substances (Like Pet Feces, Jelly or Peanut Butter)?
 
 Before using the SwitchBot Mini Robot Vacuum K10+, please make sure to clean up any pet feces and jelly. The vacuum cleaner is not able to avoid pet feces.
 
+
 ---
 ### What Is the Height of SwitchBot Mini Robot Vacuum K10+’s Body?
 
 The K10+ has a body height of 9.2cm, allowing it to clean under low spaces such as cabinets or sofas. However, for areas with a height of less than 9.2cm where the robot cannot fit, we recommend manual cleaning.
+
 
 ---
 ### How to Install the Mop of the SwitchBot Mini Robot Vacuum K10+?
@@ -3341,6 +3330,7 @@ We will guide you through the process in the video below.
 Video: 
 
 https://youtu.be/Xjp__z4eKYI
+
 
 ---
 ### Schedule Feature for SwitchBot Mini Robot Vacuum K10+
@@ -3569,6 +3559,17 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the robot's odor issue, could you please check the following points?
 1. Please use the robot according to the voltage specifications of your country/region. Using a higher voltage may cause the auto-empty station to burn out.
 2. Please check if the K10+ can collect dust. If it does, clean the dust box, main brush, and filter, and replace the dust pack before checking if the issue is resolved.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Has a Dust Collection Sound but Doesn’t Actually Collect Dust
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot not actually emptying the dustbin, could you please check the following points?
+1. Clean the dust box.
+2. Please flip the auto-empty station and check if the debris evacuation tube is clogged with trash. Refer to the video below for instructions on cleaning the debris evacuation tube. You will need to unscrew the five screws located at the bottom of the auto-empty station.
+[https://youtu.be/KSgSbyqlNEI](https://www.youtube.com/watch?v=KSgSbyqlNEI)
+3. Replace the dust bag.
 
 
 
