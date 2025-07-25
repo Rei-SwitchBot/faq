@@ -3396,16 +3396,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of not being able to reset the robot accessory usage life, could you please check the following points?
 1. Remove the faceplate of the Mini Robot Vacuum K10+, turn off and then turn on the power switch (switch it to 'o' and then back to 'I').
 
-![image](https://github.com/user-attachments/assets/4ce0985e-7312-4945-87f7-a08421fcc42d)
+<img width="625" height="392" alt="image" src="https://github.com/user-attachments/assets/357de68f-82c5-4b07-aeae-17340369b7c1" />
 
 2. Reconnect your device to Wi-Fi by following these steps: Open the SwitchBot app → select Mini Robot Vacuum K10+ → tap the gear icon → select "reconnect device".
 3. By pressing and holding the front collision guard, charging button, and sensor part simultaneously for more than 10 seconds, the Mini Robot Vacuum K10+ will reset. Please note that during this reset, information related to Wi-Fi, previously set cleaning schedules, and maps will be erased.
 Reset video:
-https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
+[https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 
-4. If the issue persists, we would appreciate it if you could share a video showing the problem. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
@@ -3415,6 +3412,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue, to better assist you, could you please capture a video showing the robot vacuum struggling to avoid obstacles?  This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting Cordless Vacuum Cleaner Dust Collection Cannot Be Performed
