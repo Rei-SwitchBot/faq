@@ -1555,5 +1555,15 @@ Kindly note: You may need to replace the batteries if they are low and we recomm
 If the bot cannot press the switch, please check whether you can control the bot within the Bluetooth range using the SwitchBot app. If it can be operated within the Bluetooth range, delete the schedule and create it again.
 
 
+---
+### Troubleshooting Apple Home App Displays SwitchBot Bot as on/off Switch, Even if the Bot’s Mode Is Set to Press.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we’d like to clarify that currently, third-party applications like Apple Home and Google Home only support Bot’s Switch Mode. This means that even if you’ve configured Press Mode or Custom Mode in the SwitchBot app, these settings will not carry over to Apple Home or Google Home, instead, the device will appear as Switch Mode in those platforms.
+We sincerely apologize for any inconvenience this may cause. We understand how important seamless integration is for your smart home setup, and we’re actively working to expand compatibility with these third-party services. However, at this time, we’re unable to provide a specific timeline for when this functionality will be available.
+Thank you for your patience and understanding as we continue to improve our products.
+If you have any other questions, please do not hesitate to contact us.
+
+
 
 
