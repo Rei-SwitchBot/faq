@@ -1614,3 +1614,21 @@ Regarding this issue, could you please check the following points?
 4. Firmware updates cannot be done with low battery. If the battery level is displayed correctly, please update your bot's firmware version to 6.6 or later by going to SwitchBot app → Bot → Firmware & Battery.
 
 
+---
+### Troubleshooting Can't Add SwitchBot Bot to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Please turn on the Location Service for the SwitchBot App on your smartphone. If it is already permitted, please restart your smartphone.
+3. Turn off Bluetooth on your smartphone and then turn it back on.
+4. Remove the battery from the Bot and reinsert it.
+5. If you have another battery available, try replacing the old one and attempt to add the Bot again.
+6. Open the Bot’s cover and press the reset button once to reset the device.
+7. Even if the Bot has not been added to the app, you can still perform a firmware recovery.
+First, remove the battery from the Bot.
+Press the reset button inside the Bot while inserting the battery.
+Then, go to the SwitchBot App → Profile → Firmware recovery and follow the instructions to recover the Bot’s firmware.
+
+
+
