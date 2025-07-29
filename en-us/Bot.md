@@ -1565,5 +1565,18 @@ Thank you for your patience and understanding as we continue to improve our prod
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting SwitchBot Bot Won't Power on and No Longer Functions
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if replacing the Bot with a new CR2 3V battery improves the situation.   
+2. Follow these steps to recover the Bot’s firmware (try multiple times):
+Remove the batteries from the Bot.
+While pressing and holding the reset button, reinsert the batteries.
+Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
+
+
+
 
 
