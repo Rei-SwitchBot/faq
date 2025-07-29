@@ -1497,6 +1497,7 @@ Also, if replacement is needed, to expedite shipment, please provide us with the
 - ZIP/Postal Code
 - A screenshot of your orde
 
+
 ---
 ### Troubleshooting Can't Connect SwitchBot Bot to SwitchBot Hub
 
@@ -1514,4 +1515,27 @@ Regarding this issue, could you please check the following points?
   2. If your Bot can be operated within Bluetooth range through SwitchBot App, we will forward your feedback to our R&D team for further investigation.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Unable to Connect SwitchBot Bot to Alexa
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please update the firmware version of the bot and hub to the latest version.
+2. Please keep the distance between the bot and the hub to approximately 5 to 10 meters.
+3. Please unlink and relink with the Amazon Alexa app.
+[https://support.switch-bot.com/hc/en-us/articles/360037747414-SwitchBot-Bot-Alexa-Setup-Guide](https://support.switch-bot.com/hc/en-us/articles/360037747414-SwitchBot-Bot-Alexa-Setup-Guide)
+4. Turn off the hub and then turn it on again after 15 seconds.
+5. Turn off the hub and check if you can control the bot within Bluetooth range through SwitchBot App.
+  1. If your Bot cannot be operated within Bluetooth range through SwitchBot App,  please try the following troubleshooting steps:
+    1. Remove the battery and reinsert it back.
+    2. Try to recover your Bot's firmware.
+    While pressing and holding the bot reset button, please re-insert the battery, tap SwitchBot app → profile → firmware recovery
+
+  2. If your Bot can be operated within Bluetooth range through SwitchBot App, create a scene to control the bot by going to SwitchBot app → "+" mark in the top right corner of the home screen → Add scene.
+[https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
+
+
+
 
