@@ -1586,3 +1586,17 @@ Regarding this issue, could you please check the following points?
 2. Please set the bot's mode again and swipe down on the app's home screen to check if the issue improves.
 
 
+---
+### Troubleshooting SwitchBot Bot Still Experiences Low Power Even After Replacing the Batteries.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure you are using Panasonic/SwitchBot original CR2 3V battery.  
+
+2. Remove and reinsert the Bot's battery, then control the Bot once.  
+
+3. If the battery level display returns to normal after following the above steps, it is a rare temporary abnormality in reading firmware data and will not affect normal product usage. Thank you for your understanding. 
+
+4. Firmware updates cannot be done with low battery. If the battery level is displayed correctly, please update your bot's firmware version to 6.6 or later by going to SwitchBot app → Bot → Firmware & Battery.
+
+
