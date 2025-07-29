@@ -498,34 +498,20 @@ Firmware recovery can be done without adding the Bot to your App account.
 
 
 ---
-### How to remotely control SwitchBot Bot?
+### Troubleshooting Unable to Control SwitchBot Bot Remotely
 
-Related Products: SwitchBot Bot
-SwitchBot App version: 9.7 or newer
-Firmware Version: 6.4 or newer
-1. Make sure your SwitchBot app is the latest version.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please update the SwitchBot app to the latest version see if it improves.
+2. Please update the firmware version of the bot and hub to the latest version.
+3. Turn off the hub and then turn it on again after 15 seconds.
+4. Turn off the hub and check if you can control the bot within Bluetooth range through SwitchBot App.
+  1. If your Bot cannot be operated within Bluetooth range through SwitchBot App,  please try the following troubleshooting steps:
+    1. Remove the battery and reinsert it back.
+    2. Try to recover your Bot's firmware.
+    While pressing and holding the bot reset button, please re-insert the battery, tap SwitchBot app → profile → firmware recovery
 
-2. Ensure your Bot is added to the SwitchBot app and has the latest firmware version. If it is not on the latest version, please log in to the SwitchBot App → Profile → Help & Feedback → Feedback.
-
-*Related post: How to use SwitchBot bot customization mode
-
-https://support.switch-bot.com/hc/ja/articles/4406985733527
-
-3. For remote control of bots, it is essential to use our Hub series products. Please make sure the Hub series products have been added to the SwitchBot app. ( Hub Series Products: Hub Mini/Hub 2)
-
-*Related post: How to set up the SwitchBot Hub Mini
-
-https://support.switch-bot.com/hc/en-us/articles/360037753974-How-to-set-up-Hub-Mini-and-notes-on-router-settings-
-
-4. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
-
-*Note: Cloud services cannot be used when using "Nearby Bot."
-
-5. Since the Bot communicates with the SwitchBot Hub series product via Bluetooth, please do not install it in a place far from the Hub series product.
-
-*Related post: Recommended Bluetooth control distance
-
-https://support.switch-bot.com/hc/en-us/articles/12085121543447
+  2. If your Bot can be operated within Bluetooth range through SwitchBot App, we will forward your feedback to our R&D team for further investigation.
 
 
 
