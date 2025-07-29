@@ -1435,10 +1435,12 @@ If you accidentally long-pressed the reset button, and the indicator flickers on
 
 Yes, you can control a SwitchBot Bot with a passcode using Alexa or Google assistant voice commands. The passcode is only required when operating the Bot through the SwitchBot app. When using voice commands, there's no need for additional code input or speaking the passcode. Simply issue the voice command to control the Bot directly.
 
+
 ---
 ### Can I Control an Encrypted SwitchBot Bot Using Alexa Voice Commands?
 
 Yes, you can control a SwitchBot Bot with a passcode using Alexa or Google assistant voice commands. The passcode is only required when operating the Bot through the SwitchBot app. When using voice commands, there's no need for additional code input or speaking the passcode. Simply issue the voice command to control the Bot directly.
+
 
 ---
 ### Troubleshooting SwitchBot Bot Suddenly Lost Power and Could not Turn the Switch on or off.
@@ -1453,10 +1455,6 @@ Kindly note: You may need to replace the batteries if they are low and we recomm
 - Remove the batteries from the Bot.
 - While pressing and holding the reset button, reinsert the batteries.
 - Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
-
-5. If the problem remains unresolved after these steps, to determin if your Bot needs to be replaced, could you kindly provide a short video showing the issue?
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
