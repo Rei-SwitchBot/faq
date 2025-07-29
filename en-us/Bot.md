@@ -1637,5 +1637,21 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
 
 
+---
+### Troubleshooting When Upgrading Bot firmware, It Gets Stuck at 10% and then Fails
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that you are using the latest version of our app. If not, please update your app from the app store.
+2. Please restart your smartphone's Bluetooth and the SwitchBot app itself and try again.
+3. Take the battery out of your Bot and then put it back in to reset the power.
+Kindly note: You may need to replace the batteries if they are low.
+4. Open the cover of the Bot and press the reset button once to perform a reset.
+5. Follow these steps to recover the Bot’s firmware:
+Remove the batteries from the Bot.
+While pressing and holding the reset button, reinsert the batteries.
+Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
+
+
 
 
