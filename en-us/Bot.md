@@ -1577,6 +1577,12 @@ While pressing and holding the reset button, reinsert the batteries.
 Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
 
 
+---
+### Troubleshooting SwitchBot Bot Switches Itself from Switch  Mode into Pressing Mode Randomly
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the firmware version of your Bot is 6.6 or later. If not, please update the firmware near your device by going to SwitchBot App -> Bot -> Firmware & Battery.
+2. Please set the bot's mode again and swipe down on the app's home screen to check if the issue improves.
 
 
