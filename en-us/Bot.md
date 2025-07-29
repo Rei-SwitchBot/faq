@@ -1617,4 +1617,25 @@ Press the reset button inside the Bot while inserting the battery.
 Then, go to the SwitchBot App → Profile → Firmware recovery and follow the instructions to recover the Bot’s firmware.
 
 
+---
+### Troubleshooting SwitchBot Bot Doesn't Response When Using Google, But It Works Fine with SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please update the firmware version of the bot and hub to the latest version.
+2. Please keep the distance between the bot and the hub to approximately 5 to 10 meters.
+3. Please unlink and relink with the Google app.
+[https://support.switch-bot.com/hc/en-us/articles/360037747514](https://support.switch-bot.com/hc/en-us/articles/360037747514-SwitchBot-Bot-Google-Home-Setup-Guide)
+4. Turn off the hub and then turn it on again after 15 seconds.
+5. Turn off the hub and check if you can control the bot within Bluetooth range through SwitchBot App.
+  1. If your Bot cannot be operated within Bluetooth range through SwitchBot App,  please try the following troubleshooting steps:
+    1. Remove the battery and reinsert it back.
+    2. Try to recover your Bot's firmware.
+    While pressing and holding the bot reset button, please re-insert the battery, tap SwitchBot app → profile → firmware recovery
+
+  2. If your Bot can be operated within Bluetooth range through SwitchBot App, create a scene to control the bot by going to SwitchBot app → "+" mark in the top right corner of the home screen → Add scene.
+[https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
+
+
+
 
