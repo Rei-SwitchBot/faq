@@ -1504,7 +1504,7 @@ Also, if replacement is needed, to expedite shipment, please provide us with the
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please update the SwitchBot app to the latest version see if it improves.
-2. Please ppdate the firmware version of the bot and hub to the latest version.
+2. Please update the firmware version of the bot and hub to the latest version.
 3. Turn off the hub and then turn it on again after 15 seconds.
 4. Turn off the hub and check if you can control the bot within Bluetooth range through SwitchBot App.
   1. If your Bot cannot be operated within Bluetooth range through SwitchBot App,  please try the following troubleshooting steps:
@@ -1513,8 +1513,6 @@ Regarding this issue, could you please check the following points?
     While pressing and holding the bot reset button, please re-insert the battery, tap SwitchBot app → profile → firmware recovery
 
   2. If your Bot can be operated within Bluetooth range through SwitchBot App, we will forward your feedback to our R&D team for further investigation.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
