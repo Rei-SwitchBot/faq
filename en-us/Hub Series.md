@@ -3977,6 +3977,14 @@ Regarding this issue, could you please check the following points?
 1. Disable the backlight control of your Hub 2 in the following order: SwitchBot App -> Hub 2 -> Tap "Add a scene" next to Button "off" at the bottom of the screen -> disable the backlight control.
 
 
+---
+### Troubleshooting no buttons can be learned except for the power button and the mute button when using SwitchBot Hub 2
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Since mixed infrared/Bluetooth remote controls typically only support infrared buttons, the power and mute functions are most likely the infrared-enabled ones.
+To confirm whether your remote uses infrared, please send us a photo of the unit, and we’ll assess it for you. For detailed specifications, we also recommend checking with the manufacturer directly.
+
 
 
 
