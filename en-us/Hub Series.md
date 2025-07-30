@@ -3563,36 +3563,12 @@ If you have any further queries about the Hub Plus/Mini, feel free to contact us
 
 
 ---
-### When Operating Multiple Home Appliances of the Same Manufacturer, the Infrared Ray Is Confused and Leads to Wrong Operation
+### Troubleshooting When Using SwitchBot Hub Mini to Control Home Appliances, Other Appliances will Also Respond.
 
-Updated: Dec 08th, 2022
-
-Applicable Products: SwitchBot Hub Mini, Ceiling Light Pro
-
-SwitchBot App Version: V6.19.1 or newer
-
-Firmware Version: SwitchBot Hub Mini V3.9-2.6 or newer, Ceiling Light Pro V1.3-0.4 or newer
-
-1. Make sure your SwitchBot app is the latest version.
-
-2. Please note that Hub Mini/Ceiling Light Pro itself does not have a function to distinguish infrared rays.
-
-3. Use the remote control attached to home appliance A to operate home appliance B.
-
-4. If the remote controls supplied with the appliances are used together, check that they can be controlled separately by adjusting the position of the hub mini. If the position adjustment does not improve the situation, misoperation is now inevitable. Please ask the original manufacturer of the appliance if there has been an infrared interference countermeasure.
-
-5. If the remote control attached to the appliance is not used together, please learn and save each appliance remote control in customization mode and then log in to the SwitchBot app → Profile → Feedback.
-
-*Related Posts:
-
-[How to add IR appliance to SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360038240833)
-
-We would appreciate it if you could provide the following information when contacting us.
-
-The manufacturer of the home appliance and the model number of the attached remote control.
-
-Name of remote control saved in customize mode
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please note that Hub Mini itself does not have a function to distinguish infrared rays. Use the remote control attached to home appliance A to operate home appliance B. If the remote controls supplied with the appliances are used together, check that they can be controlled separately by adjusting the position of the hub mini. If the position adjustment does not improve the situation, misoperation is now inevitable. Thanks for your understanding!
+2. Please ask the original manufacturer of the appliance if there has been an infrared interference countermeasure.
 
 
 ---
