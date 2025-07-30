@@ -3953,6 +3953,17 @@ Regarding this issue, could you please check the following points?
 2. When using the device regularly, do not use charging adapters that exceed 2A to avoid overheating.
 
 
+---
+### Troubleshooting the Temperature and Humidity of Hub 2 Not Showing Up in Alexa Routines
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Hub 2 is recognized as a temperature and humidity sensor in the Alexa app. However, Alexa does not yet support using temperature and humidity data as triggers for routines. As a result, you won’t see Hub 2’s temperature or humidity as available conditions when creating Alexa Routines.
+As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home apps. These platforms support setting temperature and humidity data, including readings from the Hub 2, as triggers for automation. This can help you create more customized routines based on environmental conditions.
+We sincerely apologize for not being able to meet your expectations and appreciate your continued support.
+If you have any other questions, please do not hesitate to contact us.
+
+
 
 
 
