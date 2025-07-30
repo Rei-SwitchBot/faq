@@ -3967,6 +3967,16 @@ We sincerely apologize for not being able to meet your expectations and apprecia
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting SwitchBot Hub 2 Doesn’t Turn On Anymore, but It Worked When I Tried Different Cables.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To determine whether it is a power cable issue, we kindly ask for your cooperation in providing a video that confirms Hub 2 is powered on using a different cable.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 
 
