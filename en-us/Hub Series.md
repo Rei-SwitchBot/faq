@@ -3895,3 +3895,15 @@ Regarding this issue, could you please check the following points?
 7. If the previous solution does not work, try using a WiFi Extender to see if it resolves the issue. Feel free to contact us if you would like to give it a try.
 
 
+---
+### Troubleshooting SwitchBot Hub Mini Stops Working and Shows Offline on the App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please set up Wi-Fi again by going to SwitchBot app -> Hub Mini -> Gear icon -> Wi-Fi settings near the device.
+2. Restart your home router.  
+3. As troubleshooting, check if the Hub Mini can connect to your smartphone's hotspot.
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+4. Make sure your Hub Mini firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub Mini → Gear Icon → Firmware & Battery.
+
+
