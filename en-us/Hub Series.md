@@ -3987,6 +3987,14 @@ Regarding this issue, could you please check the following points?
 3. If you have another 5V2A charging adapter and Type-C charging cable on hand, switch to those and check if they supply power.
 
 
+---
+### Troubleshooting When I press the off button on SwitchBot hub 2, the temperature display, etc. turns black and disappears.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Disable the backlight control of your Hub 2 in the following order: SwitchBot App -> Hub 2 -> Tap "Add a scene" next to Button "off" at the bottom of the screen -> disable the backlight control.
+
+
 
 
 
