@@ -3944,6 +3944,15 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/360038240833](https://support.switch-bot.com/hc/en-us/articles/360038240833-How-to-Add-Infrared-Appliances-to-SwitchBot-Hub-Mini)
 
 
+---
+### Troubleshooting SwitchBot Hub Mini Is Not Powering On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have another 5V1A/5V2A charging adapter and cable available, please use them to see if the device turns on.
+2. When using the device regularly, do not use charging adapters that exceed 2A to avoid overheating.
+
+
 
 
 
