@@ -3977,6 +3977,16 @@ Regarding this issue, could you please check the following points?
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Hub 2 no longer turns on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the power outlet at your home is supplying electricity.  
+2. Make sure that the charging cable is securely inserted into the device.  
+3. If you have another 5V2A charging adapter and Type-C charging cable on hand, switch to those and check if they supply power.
+
+
 
 
 
