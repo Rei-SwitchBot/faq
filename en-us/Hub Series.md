@@ -3762,16 +3762,11 @@ Regarding the issue of having trouble with Bluetooth remote control via Hub 2, c
 
 2. Check for firmware updates by going to: SwitchBot app -> Hub 2 -> Gear icon -> Firmware & Battery. Please update the firmware if available.
 
-3. Try removing and resetting the Hub 2 by following these steps:
-- Delete the Hub 2 by long-pressing it in the app (your learned IR remotes won't be erased)
-- Unplug your Hub 2 then plug it back in.
-- Hold the on/off button for 15 seconds to reset it.
-- Re-add Hub 2 to the app
+3. Please ensure that Hub 2 is connected to a stable 2.4GHz Wi-Fi network. If necessary, reconfigure the Wi-Fi settings near the device by navigating to the SwitchBot app → Hub 2 → Gear icon → Wi-Fi Settings.
 
-4. If the issue continues, we will forward your feedback to our R&D team for further investigation. We would appreciate it if you could provide with the following information:
-- A screenshot of Bluetooth connection status from: SwitchBot app -> Profile -> Manage Hub -> Hub 2
+4. Unplug your Hub 2 then plug it back in.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+5. Check if the corresponding device is displayed under the Hub 2 by going to SwitchBot app → Profile → Manage Hubs → Hub 2.
 
 
 ---
