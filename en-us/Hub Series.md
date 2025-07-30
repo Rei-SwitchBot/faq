@@ -3951,5 +3951,23 @@ Could you please provide a photo showing the damaged charging cable that was inc
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting My SwitchBot Hub mini can't learn IR remotes
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the home appliance you are using is infrared remote control. If the remote control is a mixture of infrared and Bluetooth, only the infrared button can be used.
+2. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
+3. Make sure your Hub Mini firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub Mini → Gear Icon → Firmware & Battery.
+3. Make sure that the hub mini is powered by a 5V1A/5V2A adapter.
+4. Make sure that you are connected to a stable 2.4GHz network. If the network is disconnected, the lamp on the hub mini will blink.
+5. Make sure that there are no walls or other obstacles between the Hub Mini and the appliance, as infrared signals do not pass through walls.
+6. Since the Hub Mini operates the appliance instead of the remote control attached to the appliance, place the Hub Mini within the infrared reception range of the appliance.
+7. Please adjust the installation position of the Hub Mini until the appliance actually responds.
+8. There are four ways to learn infrared remotes. If the remote control cannot be registered by "Smart learning" and "Select manually", we recommend that you add it in "learn buttons" or "others" mode.
+[https://support.switch-bot.com/hc/en-us/articles/360038240833](https://support.switch-bot.com/hc/en-us/articles/360038240833-How-to-Add-Infrared-Appliances-to-SwitchBot-Hub-Mini)
+
+
+
 
 
