@@ -3883,16 +3883,17 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Insufficient voltage or current may cause unstable operation. Please avoid using USB ports similar to the one shown on the left side of the diagram below.
 
-![image](https://github.com/user-attachments/assets/a62ee008-d802-49cc-856b-43fe73f36144)
+<img width="993" height="1072" alt="image" src="https://github.com/user-attachments/assets/67577cfe-4c0a-4fd8-8c8d-ca615022d5fd" />
 
 2. Use a 5V1A or 5V2A charging adapter for your Hub Mini.
-3. Place the Hub Mini closer to the Wi-Fi router.
+3. Please place the Hub Mini closer to the Wi-Fi router (within 5 meters).
 4. Unplug the Wi-Fi router and the Hub Mini, then plug them back in.
-5. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire: in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
-6. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
+5. Please set up Wi-Fi again by going to SwitchBot app -> Hub Mini -> Gear icon -> Wi-Fi settings near the device.
+6. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire: in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
+7. Make sure your Hub Mini firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub Mini → Gear Icon → Firmware & Battery.
+8. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
 
-7. If the previous solution does not work, try using a WiFi Extender to see if it resolves the issue. Feel free to contact us if you would like to give it a try.
 
 
 ---
