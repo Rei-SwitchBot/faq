@@ -4033,3 +4033,24 @@ Regarding this issue, could you please check the following points?
 8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
 
 
+---
+### Troubleshooting Cannot Add SwitchBot Hub Mini Matter to Apple Home via Matter
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The Hub Mini comes in two versions: the standard version and the Matter-compatible version. Please ensure that your Hub Mini is the Matter-compatible version.
+2. Please confirm that the firmware version of your Hub Mini Matter is 2.5-3.5 or newer. If not, update it near the device via the SwitchBot app → Hub Mini Matter → Gear Icon → Firmware & Battery.
+3. Make sure the Hub Mini Matter, iPhone, and HomePod Mini/Apple TV are connected to the same 2.4Ghz Wi-Fi network.
+4. Before adding the Hub Mini Matter to the Apple Home app, long press the button on the device for 15 seconds to reset it.
+[https://support.switch-bot.com/hc/en-us/articles/12623119544087](https://support.switch-bot.com/hc/en-us/articles/12623119544087-How-to-Set-up-Matter-with-SwitchBot-Hub-Mini-Matter-Hub-2-iOS)
+5. When selecting accessories in the Home App: tap on "My Accessory Isn't Shown Here" rather than choosing the nearby Hub.
+
+<img width="437" height="921" alt="image" src="https://github.com/user-attachments/assets/99e5df45-4153-4ec2-922a-070c39c4f81a" />
+
+
+7. Open the Settings App on your iPhone -> Select Apple ID -> Select iCloud -> Select Keychain, and activate it.
+[https://support.switch-bot.com/hc/en-us/articles/14646339445783](https://support.switch-bot.com/hc/en-us/articles/14646339445783-What-to-Do-If-I-Am-Unable-to-Add-SwitchBot-Hub-2-Hub-Mini-Matter-Enabled-to-iOS-Home-App)
+8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+
+
+
