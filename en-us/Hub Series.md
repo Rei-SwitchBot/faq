@@ -4091,3 +4091,14 @@ We sincerely apologize for not being able to meet your expectations and apprecia
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting the Air Conditioner Turned off Automatically
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify if there are any scenes or automations set up for the relevant air conditioner. 
+2. Check if any schedules have been configured in the SwitchBot App by navigating to SwitchBot App → Hub Mini → Schedule.
+3. Verify if any routines have been created in the Amazon Alexa app for the air conditioner.
+4. Delete the air conditioner remote from the SwitchBot App, relearn it, and check if this resolves the issue.
+
+
