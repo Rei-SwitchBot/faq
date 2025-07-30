@@ -3926,3 +3926,18 @@ Regarding this issue, could you please check the following points?
 - Open the SwitchBot app, go to Profile > Firmware recovery, and follow the instructions.
 
 
+---
+### Troubleshooting Failed to Add SwitchBot Hub Mini to the App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. Use a 5V1A/5V2A charging adapter for the Hub Mini.  
+4. Place the Hub Mini closer to the Wi-Fi router (within 5 meters).  
+5. Restart your home router.  
+6. As a troubleshooting step, check if the Hub Mini can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
+
