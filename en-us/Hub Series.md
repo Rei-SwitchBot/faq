@@ -3823,7 +3823,7 @@ Regarding the firmware update issue, could you please check the following points
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the firmware update issue, could you please check the following points?
-1. Make sure you're using the latest version of the SwitchBot app.
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
 2. Perform the firmware update near the device to ensure a stable connection.
 3. Unplug the Hub 2, wait a few seconds, then plug it back in.
 4. Turn off your home router, wait about 30 seconds, then turn it back on.
@@ -3832,7 +3832,10 @@ Regarding the firmware update issue, could you please check the following points
 - Delete the device from the SwitchBot app by long-pressing it.
 - Press and hold the on/off button on the Hub 2 simultaneously for 15 seconds to reset.
 - Re-add the device to the app.
-7. If the issue persists after trying these steps, our R&D team will investigate further. Please wait while we process your request.
+
+
+7. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Hub Mini to the router and try updating the firmware again.  
+8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
 
 
 ---
