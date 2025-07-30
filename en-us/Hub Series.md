@@ -3509,35 +3509,17 @@ Select Keychain and activate it.
 
 
 ---
-### What to Do If My Hub 2 Can't Connect to Wi-Fi?
+### Troubleshooting SwitchBot Hub 2 Can't Connect to Wi-Fi
 
-Last Updated：
-
-2024 Jul 18
-
-Related Products: SwitchBot Hub 2
-
-SwitchBot App Version: 8.6.1 or newer
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure your Hub 2 is connected to 2.4GHz Wi-Fi.
-
-3. If your home Wi-Fi router supports both 5GHz and 2.4GHz Wi-Fi, we recommend disabling the 5GHz Wi-Fi to add your Hub 2.
-
-4. Unplug your home Wi-Fi router and the Hub 2, and then plug them back in after 10 minutes.
-
-5. Try connecting your Hub 2 to your smartphone's tethering. Once you've successfully connected via tethering, we will investigate your home Wi-Fi environment. It woule be helpful if you could provide us with your router brand, model and a screenshot of the router settings.
-
-6. If you are unable to connect to hub 2 via your smartphone hotspot, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. When contacting us, please provide the following information so that we can escalate your feedback to our development team for further assistance.
-
-Your router brand
-
-Your router model
-
-Router settings details
-
-A recording of your networking failure
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. Use a 5V2A charging adapter for the Hub 2.  
+4. Place the Hub 2 closer to the Wi-Fi router (within 5 meters).  
+5. Restart your home router.  
+6. As a troubleshooting step, check if the Hub 2 can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
 
 
