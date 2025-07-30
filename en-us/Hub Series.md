@@ -3718,6 +3718,7 @@ Use the "Duplicate remotes" function.
 SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
 This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
 
+
 ---
 ### Troubleshooting Unexpected Beeping from SwitchBot Hub 2
 
@@ -3729,20 +3730,17 @@ Regarding the unexpected beeping from Hub 2, could you please check the followin
 - Select Alert Conditions
 - Under Alert Sound & Light , check if the flash and sound item is enabled. If you don’t need this sound, you can set "flash only" or directly turn off the Alert Sound & Light here.
 
-![image](https://github.com/user-attachments/assets/cad7c419-329a-495d-b386-f98be85bb03e)
+<img width="1124" height="2177" alt="image" src="https://github.com/user-attachments/assets/e15e9aaf-bbe5-4ffd-a999-2051a9811834" />
 
 2. Hub 2 may emit a short beep when it receives power. Please ensure the charging cable is securely connected to avoid unintended power interruptions.
 
-Please try the solutions below.
-If the beeping persists, please try the following steps to reset the device:
-1. Remove Hub 2 from the App: Long-press Hub 2 in the SwitchBot App and select Delete.
-2. Unplug Hub 2 and then plug it back in.
-3. On Hub 2’s display, simultaneously press and hold the on/off button for 15 seconds to reset the device.
-4. After resetting, re-add Hub 2 to the SwitchBot App.
+3. Please try the following steps to reset the device:
+- Long-press Hub 2 in the SwitchBot App and select Delete.
+- Unplug Hub 2 and then plug it back in.
+- On Hub 2’s display, simultaneously press and hold the on/off button for 15 seconds to reset the device.
+- After resetting, re-add Hub 2 to the SwitchBot App.
 Note: Removing Hub 2 will not delete any infrared remote settings, scenes, or automations already configured, so you can safely proceed.
-5. If the problem is still not resolved, please record a video of the beeping sound from Hub 2. This will help our R&D team further investigate the issue.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
