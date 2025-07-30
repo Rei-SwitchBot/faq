@@ -3455,6 +3455,31 @@ iPhoneの設定アプリ→Apple IDをタップ→iCloudをタップ→キーチ
 7. ネットワーク接続状況による失敗がありますので、時間を置いてから、複数回お試しください。
 
 
+---
+### トラブルシューティングMatter経由でハブミニmatterをApple Homeに追加できない
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. ハブミニはスタンダードバージョンとmatter対応版二つあります。ご利用のハブミニはmatter対応版であることをご確認ください。
+2. ご利用のハブミニmatterのファームウェアバージョンが2.5-3.5以降であることをご確認ください。そうでない場合、SwitchBotアプリ→ハブミニmatter→歯車マーク→ファームウェア＆バッテリーの順番でデバイスの近くでアップデートお願いいたします。
+3. ハブミニ(Matter対応)、iPhone、Homepod Mini/Apple TVが同じWi-Fiネットワーク（2.4G）に接続されていることを確認してください。
+4. ホームアプリにハブミニ(Matter対応)を追加する前に、ハブミニ(Matter対応)のボタンを15秒長押しして、デバイスをリセットする必要があります。
+[https://support.switch-bot.com/hc/ja/articles/12623119544087](https://support.switch-bot.com/hc/ja/articles/12623119544087-Hub-2-Hub-Mini-Matter%E5%AF%BE%E5%BF%9C%E3%81%AEMatter%E8%A8%AD%E5%AE%9A%E6%96%B9%E6%B3%95-iOS)
+5. ホームアプリでアクセサリーを選択する時に、近くにあるハブ2 & ハブミニ(Matter対応)ではなく、「アクセサリがここに表示されない」をタップしてからコードを入力します。
+
+<img width="447" height="919" alt="image" src="https://github.com/user-attachments/assets/0f8865c2-a6fe-4c51-9ef3-99234ff08fbc" />
+
+6. iCloudのキーチェーンがオンであることをご確認ください。
+iPhoneの設定アプリ→Apple IDをタップ→iCloudをタップ→キーチェーンをタップしてオンにする
+[https://support.switch-bot.com/hc/ja/articles/14646339445783](https://support.switch-bot.com/hc/ja/articles/14646339445783-Hub-2-%E3%83%8F%E3%83%96%E3%83%9F%E3%83%8B-Matter%E5%AF%BE%E5%BF%9C-%E3%82%92iOS-Home-App%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84-%E3%81%A9%E3%81%86%E3%81%97%E3%81%9F%E3%82%89%E3%81%84%E3%81%84%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%81%8B)
+
+7. iPhone、Homepod Mini/Apple TVとルーターを再起動してください。
+
+8. ネットワーク接続状況による失敗がありますので、時間を置いてから、複数回お試しください。
+
+
+
 
 
 
