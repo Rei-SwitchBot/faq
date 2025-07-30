@@ -543,11 +543,8 @@ Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHo
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Reset your Ceiling Light.
-Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
-Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHok)
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+Upon verification, we have confirmed that the issue you pointed out is due to a firmware bug. We plan to address this with a firmware update scheduled for mid-August. We kindly ask for your patience and understanding!
+If you have any other questions, please do not hesitate to contact us.
 
 
 ---
