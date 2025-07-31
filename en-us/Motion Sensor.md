@@ -103,15 +103,6 @@ the Bluetooth range of your phone
 
 Place your phone near the Motion Sensor or Contact Sensor and then try it again.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
-
 
 ---
 ### How to Configure a SwitchBot Motion Sensor to Emit a Sound When It Detects a Movement?
@@ -441,11 +432,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
 
 ---
 ### SwitchBot Motion Sensor Google Home Setup Guide
@@ -516,11 +502,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
 
 ---
 ### SwitchBot Motion Sensor Troubleshooting
@@ -567,9 +548,6 @@ The detection function of the device runs normally. The network connection may b
 2. If there is no log of the actual state of the device in the history.
 
 If the device was added successfully, but there is no log of status change or execution in the device Log, the device may be defective.
-
-Please contact our support team via "Feedback" on the SwitchBot app Profile page. Feedback includes a screen-recording function. Please use it to help us identify the problem quickly. Thank you for your patience.
-
 
 
 ---
