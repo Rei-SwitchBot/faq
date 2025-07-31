@@ -185,24 +185,7 @@ Firmware version: 1.6 or newer
 
 3.Try turning the smart bulb off and on.
 
-4. Add the bulb back again within
-
-2 minutes
-
-.
-
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
-
-We would appreciate it if you could provide the following information when submitting ticket:
-
-Video that show Color Bulb doesn't turn on, even though it's installed in a power-on socket
-
+4. Add the bulb back again within 2 minutes.
 
 
 ---
@@ -231,8 +214,6 @@ If you can not add SwitchBot Color Bulb to your app, please check the following:
 6. Try to reset SwitchBot Color Bulb. For more information, please refer to:
 
 [How to reset SwitchBot Color Bulb](https://support.switch-bot.com/knowledge/articles/4416605563415/en-us?brand_id=360002079614&return_to=%2Fhc%2Fja%2Farticles%2F4416605563415)
-
-If this doesn't rectify your issue, please submit feedback via our app.
 
 
 
@@ -392,8 +373,6 @@ In the "Select Action" window, set and save the desired bulb action (bulb preset
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998832695191)
 
-7. If you have any other questions, please log in to the SwitchBot app, go to Profile, and submit feedback.
-
 
 
 ---
@@ -510,9 +489,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Color Bulb Google Home Setup Guide
@@ -574,9 +550,6 @@ Tap "Connect".
 Enter your Google Home App login ID and password.
 
 The link will be automatically established.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -725,7 +698,7 @@ Firmware Version: 1.6 or newer
 
 Disconnect the power of your socket, and remove SwitchBot Color Bulb. Wipe the inside of your socket with a soft cloth or paper towel. Then plug SwitchBot Color Bulb back in again.
 
-If it doesn't rectify your issue, please contact us via SwitchBot App > Profile > Feedback. We would appreciate it if you could provide us with the following information when you contact us.
+If it doesn't rectify your issue, please contact us and provide us with the following information:
 
 Video of your SwitchBot Color Bulb Flashing
 
