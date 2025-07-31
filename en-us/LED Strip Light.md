@@ -101,9 +101,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot LED Strip Light Google Home Setup Guide
@@ -161,9 +158,6 @@ Tap "Connect".
 Enter your Google Home App login ID and password.
 
 The link will be automatically established.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
