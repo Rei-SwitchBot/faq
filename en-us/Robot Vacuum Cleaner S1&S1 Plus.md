@@ -140,9 +140,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Robot Vacuum Cleaner S1/S1 Plus Google Home Setup Guide
@@ -202,9 +199,6 @@ Google Home
 App login ID and password.
 
 The link will be automatically established.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -418,11 +412,6 @@ change to （vacuum and mop mode）
 
 Note: The "device name" on the two-sentence command column refers to the name we set for the SwitchBot Robot Vacuum Cleaner on the App. It is recommended to use a name that is easy and less complex. Otherwise, Alexa might fail to recognize it.
 
-For further assistance regarding this,
-
-please submit a feedback ticket via our App for more assistance. When contacting us, we would appreciate it if you could provide a description of your issue. To leave feedback, simply navigate to SwitchBot App > Profile > Help & Feedback > Feedback > Create a New Ticket > Select the product you need support for > describe your issue in detail, and attach media should need be.
-
-
 
 ---
 ### Warranty, Repair&Maintenance, Return&Refund Policy
@@ -442,14 +431,6 @@ Natural disasters.
 For details of the Return&Refund Policy, please refer to the link below.
 
 [https://www.switch-bot.com/pages/switchbot-return-and-refund-policy](https://www.switch-bot.com/pages/switchbot-return-and-refund-policy)
-
-If you are suffering from any situation where the Robot Vacuum Cleaner needs to be repaired, please submit a feedback request on the profile page of the App or contact
-
-[support@switch-bot.com](mailto:support@switch-bot.com)
-
-for further instruction.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25998202126231)
 
 
 
@@ -534,15 +515,6 @@ If the number has dropped to less than 20%, please wipe the sensor clean with a 
 
 6. The battery capacity is 5000mAH for S1 Plus, which can run for 3 hours under quiet mode; the battery capacity is 3200mAH for S1, which can run for 2 hours under quiet mode.
 
-For further inquiry, please submit a feedback request on the profile page of the app or contact
-
-[support@switch-bot.com](mailto:support@switch-bot.com)
-
-.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/6110148557335/mceclip0.png)
-
-
 
 ---
 ### What should I do if SwitchBot Robot Vacuum Cleaner Accessory Pack redemption code has expired?
@@ -553,7 +525,7 @@ Applicable Products: SwitchBot Robot Vacuum Cleaner S1、
 
 SwitchBot Robot Vacuum Cleaner S1 Plus
 
-Please contact us with a screenshot of your Robot Vacuum Cleaner order history by logging into the SwitchBot App -> Profile -> Feedback.
+Please contact us with a screenshot of your Robot Vacuum Cleaner order history.
 
 When our support team receives your feedback, they will offer you assistance ASAP.
 
@@ -621,7 +593,7 @@ Applicable Products: Switchbot Robot Vacuum Cleaner S1 Plus
 
 3. Restart the SwitchBot app.
 
-4. If none of the above helps, you can contact us by logging into the SwitchBot app and visiting → Profile → Feedback. We would appreciate it if you could provide us with the following information when contacting us.
+4. If none of the above helps, we would appreciate it if you could provide us with the following information when contacting us.
 
 An installation photo of the dust bag
 
