@@ -45,11 +45,7 @@ Last Updated: 2024 Nov 08
 
 Related Product: SwitchBot Air Purifier, SwitchBot Air Purifier Table
 
-SwitchBot Air Purifier is designed to purify the air, helping to remove particles and improve overall air quality. However, it is not intended to prevent or eliminate mold growth. While the purifier can filter airborne particles, it
-
-does not
-
-have the capability to disinfect or stop mold spores from accumulating.
+SwitchBot Air Purifier is designed to purify the air, helping to remove particles and improve overall air quality. However, it is not intended to prevent or eliminate mold growth. While the purifier can filter airborne particles, it does not have the capability to disinfect or stop mold spores from accumulating.
 
 
 
@@ -120,9 +116,6 @@ Once the network connection is complete, you will see a message that says "Added
 
 Set your favorite name and room, then tap "Finish".
 
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### How to Set up SwitchBot Air Purifier
@@ -160,9 +153,6 @@ Input the 2.4GHz Wi-Fi SSID and password, then tap "Next".
 Once the network connection is complete, you will see a message that says "Added."
 
 Set your favorite name and room, then tap "Finish".
-
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 
 
 ---
@@ -215,9 +205,6 @@ Note:
 
 While you can customize the color of the mood light, please be aware that once customized, the light will no longer change based on air quality.
 
-3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### Use Schedule Feature to Operate SwitchBot Air Purifier
@@ -237,8 +224,6 @@ Relaetd Post:
 [How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
 
 3. You can add a schedule to the Air Purifier by navigating SwitchBot App -> Air Purifier -> Schedules.
-
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 
 
@@ -282,9 +267,6 @@ Notes:
 If phrases are not recognized correctly in the recording, it is recommended to enter them manually.
 
 You can edit or remove the shortcut at the same place.
-
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 
 
 ---
