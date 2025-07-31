@@ -91,9 +91,6 @@ Name your card and pick a room then tap "next".
 
 Turn on the required permission.
 
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Anti-malicious Tracking Feature for SwitchBot Wallet Finder Card
@@ -117,9 +114,6 @@ Additionally, if the Wallet Finder Card does not reconnect to its owner’s iPho
 Please note that Android users will not receive any notifications or alerts, as this feature is only supported on iOS devices.
 
 These features are in place to ensure your privacy and security, helping to prevent any unwanted tracking.
-
-If you have any questions, please contact us via SwitchBot App > Profile > Support >Feedback.
-
 
 
 ---
@@ -163,8 +157,6 @@ Tap your Wallet Finder Card.
 Enable the lost mode then fill in the contact information.
 
 Note: When the lost mode is enabled, you will receive an email or push notification when the card's location is updated. The person who finds the card can scan the card's QR code to access your pre-set contact information.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -213,9 +205,6 @@ Note:
 For iPhone users, please go to SwitchBot App -> Profile -> Preferences -> Permissions -> Enable Background App Refresh.
 
 For Android Phone users, we recommend setting the battery usage to "Unrestricted".
-
-If the issue persists, please contact us via SwitchBot App > Profile > Support >Feedback. We will forward your feedback to our development team for further assistance.
-
 
 
 ---
@@ -297,8 +286,6 @@ If the battery usage for SwitchBot is not set to "Unrestricted," you will see a 
 How to adjust the settings:
 
 Go to Android System Settings App → Apps → All Apps → SwitchBot → Battery → Change from Optimization to "Unrestricted". (Note: The exact steps may vary depending on your device model.)
-
-If you have any further questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
