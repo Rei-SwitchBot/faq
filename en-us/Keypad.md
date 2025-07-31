@@ -105,14 +105,7 @@ not an encrypted card
 
 . There is a possibility that reading and writing may not be possible with encrypted cards.
 
-3. You can purchase SwitchBot NFC Card from
-
-[here](https://www.switch-bot.com/)
-
-.
-
-4. For more information, please log in to the SwitchBot app → Profile → Help&Feedback and contact us.
-
+3. You can purchase SwitchBot NFC Card from [here](https://www.switch-bot.com/).
 
 
 ---
@@ -125,9 +118,6 @@ Here is the information on the working environment for the SwitchBot Keypad.
 Working Temperature: -25 ℃~ 66 ℃
 
 Working Humidity: RH10%~90% (non-condensing)
-
-For further questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -222,9 +212,6 @@ RH10%~90% (non-condensing)
 RH10%~90% (non-condensing)
 
 In conclusion, the Keypad does not have a fingerprint recognition function, there are no other differences between the two.
-
-If you have any further questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -498,11 +485,6 @@ Please note that if you are using a Dual-Lock, only the main lock will be displa
 
 Once connected to the Lock, the Keypad will create a test passcode. Use this code to unlock the lock.
 
-Finish.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback > Feedback.
-
-
 
 ---
 ### How to Remove SwitchBot Keypad / Keypad Touch?
@@ -649,8 +631,6 @@ Enter the passcode then tap "next" to save it.
 
 The added passcode will appear in the passcode list.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 ![Image](https://support.switch-bot.com/hc/article_attachments/26001930005143)
 
 
@@ -694,7 +674,7 @@ Can't Add the Wallet Finder Card to your Keypad?
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25987220313367)
 
-6. If the issue persists, please submit feedback via SwitchBot App. We will forward your feedback to our R&D team for further assistance. When contacting us, we would appreciate your cooperation if you could provide us with the information below.
+6. If the issue persists, we would appreciate your cooperation if you could provide us with the information below.
 
 A video of adding the smart finder card to your Keypad
 
@@ -839,13 +819,6 @@ Turn on "Keypad Removal Alerts" by going to SwitchBot App → relevant SwitchBot
 
 With the settings in steps 3 and 4, when the SwitchBot Keypad/Keypad Touch is removed, the device itself will emit a beep sound, and a push notification will be sent to your smartphone indicating that it has been removed.
 
-6．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
 
 ---
 ### The Alert arose When I Tried to Removed the batteries of the Keypad / Keypad Touch, How Do I Turn It Off?
@@ -872,7 +845,7 @@ SwitchBot App home page - click the corresponding device name - click the "gear 
 
 6. If everything is functioning, you can see the green unlock light in the upper right corner of the Keypad / Keypad Touch.
 
-7. If it still doesn't work, please remove the batteries and contact us via "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+7. If it still doesn't work, please provide the following information:
 
 Take a video that shows the whole process of uninstalling and installing the Keypad / Keypad Touch, and please try to include the following elements as much as possible:
 
@@ -1030,9 +1003,6 @@ Please refer to the article below to see how to replace the battery correctly.
 
 [What does the triangle plastic thing do in the box?](https://support.switch-bot.com/hc/en-us/articles/6569399248023)
 
-For further assistance, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### What Would Happen if We Keep Using Wrong Nfc Card to Scan the Keypad?
@@ -1109,15 +1079,6 @@ on
 
 If possible, try adding within another different system.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
-
 
 ---
 ### What to Do If My Keypad/Keypad Touch Was Disable Due to 5 Failed Unlocking Attempts?
@@ -1143,9 +1104,6 @@ SwitchBot App Version: V6.19.1 or newer
 *It works even when the passcode is disabled. Diagram (How to cancel invalid passcode)
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/11239848210327)
-
-5. If you still can't unlock with your fingerprint, please log in to the SwitchBot app → Profile → Feedback.
-
 
 
 ---
@@ -1194,12 +1152,9 @@ Firmware Version: SwitchBot Keypad V1.6 or newer, SwitchBot Keypad Touch V1.7 or
 
 [Recommended batteries for SwitchBot devices](https://support.switch-bot.com/hc/en-us/articles/9744936851863)
 
-7. If the above does not solve your issue, open our app and navigate to → Profile → Feedback and contact us for further assistance.
-
-We would appreciate it if you could provide the following information when contacting us.
+7. If the above does not solve your issue, we would appreciate it if you could provide the following information when contacting us.
 
 Video of SwitchBot Keypad/ Keypad Touch not responding
-
 
 
 ---
@@ -1219,8 +1174,6 @@ Device firmware version: V1.4 or later
 
 SwitchBot App home page - click the corresponding device name - click the "gear icon" in the upper right corner to enter the secondary control panel - click "firmware and battery" to view.
 
-If the firmware of the Keypad / Keypad Touch is not V1.4, please contact us via "Profile Page" - "Feedback" in the SwitchBot App to receive the firmware upgrade.
-
 3. Make sure the Keypad Touch is not disabled and has paired to a SwitchBot Lock.
 
 4. Remove the batteries of the Keypad / Keypad Touch and insert the batteries again.
@@ -1229,7 +1182,7 @@ If the firmware of the Keypad / Keypad Touch is not V1.4, please contact us via 
 
 [How to replace the battery of the SwitchBot Keypad?](https://support.switch-bot.com/hc/en-us/articles/6640999556119)
 
-5. If it still doesn't work, please contact us via "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+5. If it still doesn't work, please provide the following information:
 
 The current firmware version of the Keypad / Keypad Touch
 
@@ -1258,7 +1211,7 @@ SwitchBot App home page - click the corresponding device name - click the "gear 
 
 5. If some of your fingerprints are failed to be added, try the adding process multiple times.
 
-6. If it still doesn't work, please contact us via "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+6. If it still doesn't work, please provide the following information:
 
 Take a video that shows the whole process of you adding the fingerprint and operating to unlock the SwitchBot Lock with this finger, and please try to include the following elements as much as possible.
 
@@ -1314,7 +1267,7 @@ please delete the Lock from your account, then the pairing will be automatically
 
 [What to do if I lost my Keypad Touch](https://support.switch-bot.com/hc/en-us/articles/10155216769175-What-to-do-if-I-lost-my-Keypad-Touch?source=search)
 
-3. Please contact us by logging into the SwitchBot App -> Profile -> Feedback. Our technical team will help remove it. Please provide us with the following information when you contact us.
+3. Please provide us with the following information when you contact us.
 
 BLE MAC (check-in Settings -> "Device Info")
 
@@ -1349,7 +1302,7 @@ Under the SwitchBot App's version V6.16 and the firmware version V1.6 for the Ke
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25991474727959)
 
-6. If it still doesn't work, please contact us via "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+6. If it still doesn't work, please provide the following information:
 
 Take a video that shows the whole process of you adding the fingerprint and operating to unlock the SwitchBot Lock with this finger, and please try to include the following elements as much as possible.
 
@@ -1409,13 +1362,7 @@ SwitchBot App home page - click the corresponding device name - click the "gear 
 
 7. Make sure you hear a "beep" sound from the Keypad / Keypad Touch. If not, try step 5 again.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+If it doesn't work, please describe the issue in detail (with media if needed) as follows:
 
 The Keypad / Keypad Touch device
 
@@ -1450,7 +1397,7 @@ SwitchBot App home page - click the corresponding device name - click the "gear 
 
 6. Go to the corresponding Keypad / Keypad Touch - tap "NFC Card" option - tap the "+" button to pair the NFC card again.
 
-7. If it still doesn't work, please contact us via "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+7. If it still doesn't work, please provide the following information:
 
 Take a video showing the whole process of pairing the NFC card, and please try to include the following elements as much as possible.
 
@@ -1565,7 +1512,7 @@ SwitchBot App Version：9.8 or newer
 
 5. Place your keypad one meter away from the lock to see if it helps with unlocking and locking.
 
-6. If the above steps do not improve the situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide with the following information:
+6. If the above steps do not improve the situation, please provide with the following information:
 
 A video of two devices within a meter of each other but unable to lock and unlock the Lock using Keypad
 
