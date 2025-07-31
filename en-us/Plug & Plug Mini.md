@@ -222,7 +222,7 @@ Swttings > SwitchBot > HomeKit Data
 
 7. Please log in to the back-end system of the router and check if it is running any MAC filter or access control functions. If it is, please disable those functions, as they will forbid you from connecting a HomeKit device. Please try to disable any MAC filter or access control functions on the router before adding the HomeKit device.
 
-8. If the QR-Code on the HomeKit device is not working, please enter the HomeKit setup code manually. If it keeps sending the alert that the HomeKit setup code is incorrect or the QR-Code has been lost, please submit a feedback request on the profile page on the SwitchBot App. The support team will help you resolve this.
+8. If the QR-Code on the HomeKit device is not working, please enter the HomeKit setup code manually.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002275624343)
 
@@ -267,7 +267,7 @@ Note:
 
 *Related Posts: Export of plug mini energy consumption
 
-2. The plug does not have this functionality. If you wish to delete it, please log in to the SwitchBot app → profile → feedback and contact us.
+2. The plug does not have this functionality. If you wish to delete it, please contact us.
 
 
 
@@ -636,9 +636,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Plug Mini Google Home Setup Guide
@@ -695,9 +692,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Plug Mini is displaying incorrect current/voltage/power, what should I do?
@@ -717,11 +711,6 @@ Firmware version: V1.4 or newer
 How to check whether my firmware version is the latest?
 
 SwitchBot App home page -> Tap the device -> Tap the Settings button (···) in the upper right -> Tap Firmware Version -> Check for updates if available.
-
-3. If it doesn't work, please submit a feedback ticket about the issue. When contacting us, we would appreciate it if you could provide a description of the issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed).
-
 
 
 ---
@@ -747,9 +736,7 @@ Firmware version: V1.4 or newer
 
 6. Reboot your home router.
 
-7. If it doesn't work, please submit a feedback ticket about the connection issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+7. If it doesn't work, please describe the issue in detail (with media if needed) as follows:
 
 -Manufacturer and model number of the router
 
@@ -773,11 +760,6 @@ Firmware version: V1.4 or newer
 How to check whether my firmware version is the latest?
 
 SwitchBot App home page -> Tap the device -> Tap the Settings button (···) in the upper right -> Tap Firmware Version -> Check for updates if available.
-
-3. If the problem persists, please submit a feedback ticket about the issue. When contacting us, we would appreciate it if you could provide a description of the issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed).
-
 
 
 ---
@@ -871,9 +853,6 @@ Related Products: SwitchBot Plug Mini
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002234056215)
 
-4. If the schedule doesn't work, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will forward your feedback to our development team for further assistance.
-
-
 
 ---
 ### The recommended environment temperature for SwitchBot Plug Mini
@@ -965,9 +944,7 @@ For iPhone 12 or newer devices, enable Maximize Compatibility to ensure the pers
 
 6. If the Plug Mini is fine connecting to a Personal Hotspot, then the problem may be in the settings of your Wi-Fi router.
 
-If it doesn't work, please submit a feedback ticket about the connection issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+If it doesn't work, please describe the issue in detail (with media if needed) as follows:
 
 Router brand and model:
 
@@ -978,7 +955,6 @@ Mobile device system:
 SwitchBot app version:
 
 Any other screenshot about the error message:
-
 
 
 ---
