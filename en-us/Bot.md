@@ -88,15 +88,6 @@ See also:
 
 5. After the reset, retry a firmware update to see if it helps.
 
-6. If it still doesn't work, please feel free to submit a feedback to SwitchBot support team.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
-
 
 ---
 ### Frequently Asked Questions during Bot Setup
@@ -248,13 +239,6 @@ Customized Mode
 will now appear in the list.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25993199870359)
-
-If it still doesn't work, please contact us by clicking "Profile Page" - "Feedback" in the SwitchBot App.
-
-After receiving the feedback ticket, we will solve your problem immediately.
-
-You can also contact our customer support team by phone, live chat, etc.
-
 
 
 ---
@@ -511,9 +495,6 @@ Regarding this issue, could you please check the following points?
     2. Try to recover your Bot's firmware.
     While pressing and holding the bot reset button, please re-insert the battery, tap SwitchBot app → profile → firmware recovery
 
-  2. If your Bot can be operated within Bluetooth range through SwitchBot App, we will forward your feedback to our R&D team for further investigation.
-
-
 
 ---
 ### How to remove the Bot?
@@ -576,7 +557,7 @@ Firmware Version:  SwitchBot: V6.3 or newer, Hub Mini: V3.7-2.4 or newer,  Cei
 
 [how to use the customized mode of the SwitchBot Bot.](https://support.switch-bot.com/hc/en-us/articles/4406985733527)
 
-3. Make sure that the Hub Mini or Ceiling Light connected to the Bot is up-to-date with the latest firmware version. If it is not up-to-date, please contact SwitchBot App -> Profile -> Feedback.
+3. Make sure that the Hub Mini or Ceiling Light connected to the Bot is up-to-date with the latest firmware version.
 
 4. Please make sure that the remaining battery power of the Bot is at least 50%.
 
@@ -593,8 +574,6 @@ Firmware Version:  SwitchBot: V6.3 or newer, Hub Mini: V3.7-2.4 or newer,  Cei
 [How to reset your Bot?](https://support.switch-bot.com/hc/en-us/articles/360037747314)
 
 9. Remove the battery from the Bot and insert the battery while pressing the reset button inside the bot, then go to Switchbot App -> Profile -> Firmware Repair and see if the Repair Bot Firmware item appears. If the Repair Firmware item appears, try repairing the Bot.
-
-10. If the problem persists, please contact us at SwitchBot App -> Profile -> Feedback.
 
 We would appreciate it if you could provide us with the following information when you contact us.
 
@@ -635,13 +614,7 @@ When installing SwitchBot Bot with 3M adhesive, to reduce the risk of your devic
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/16361311318807)
 
-8. If you have other issues regarding SwitchBot Bot, please feel free to submit feedback.
-
-Send feedback
-
-To receive technical help from our customer support team, follow these steps:
-
-Open our app > tap Profile > press Feedback > select the product you need support for > describe your issue in detail and include the following:
+To receive technical help from our customer support team, please describe your issue in detail and include the following:
 
 1. A close-up photo of your installation position, including SwitchBot Bot and your switch/button.
 
@@ -656,9 +629,7 @@ Updated: Mar 31, 2023
 
 Applicable Products: SwitchBot Bot
 
-If it is within the warranty period of one year
-
-from the date of purchase, we will exchange it. Please log in to the SwitchBot app → Profile → Help & Feedback → Feedback. To confirm the problem, it would be helpful if you could provide the following information when contacting us.
+If it is within the warranty period of one year from the date of purchase, we will exchange it. To confirm the problem, it would be helpful if you could provide the following information when contacting us.
 
 Daily usage
 
@@ -707,8 +678,6 @@ Bot
 
 4. Attach to a wall switch or bot helper.
 
-※If you need a separate bot helper, please contact us by logging into the SwitchBot app -> Profile -> Feedback.
-
 ![Image](https://support.switch-bot.com/hc/article_attachments/10618920666903)
 
 5. The SwitchBot can also be added from "
@@ -755,7 +724,6 @@ If phrases are not recognized correctly in the recording, it is recommended to e
 You can edit or remove the shortcut at the same place.
 You can also use your Homepod to control your Bot using the shortcuts you have created.
 If you have our Hub 2 or Hub Mini Matter, you can sync your Bot with the Apple Home App for direct voice control without needing to create shortcuts.
-If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
@@ -834,8 +802,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback/Support >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2.
 
 
@@ -904,8 +870,6 @@ Tap "Connect".
 Enter your Google Home App login ID and password.
 
 The link will be automatically established.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -1034,7 +998,7 @@ Updated: Feb 9th, 2023
 
 Applicable Products: SwitchBot Bot
 
-1. Make sure your SwitchBot Bot's firmware version is up to date. If it is not the latest, you can update it by following the link below, but you can also arrange an update through after-sales service by logging in to the SwitchBot app → Profile → Feedback.
+1. Make sure your SwitchBot Bot's firmware version is up to date.
 
 *Related Posts:
 
@@ -1062,17 +1026,13 @@ Note: Resetting the bot will erase the schedule. Thank you for your understandin
 
 [Bot is getting weak and not able to push down switch/button](https://support.switch-bot.com/hc/en-us/articles/8386690067095)
 
-5. If the bot does not work or the bot has a hardware failure (broken arm), please contact the SwitchBot app with a video showing the failure, log in to the SwitchBot app → Profile → Feedback. We will respond with after-sales service.
-
-6. If you have done the above and there is no hardware problem and the schedule is not working, please log in to the SwitchBot app → Profile → Feedback.
-
+5. If the bot does not work or the bot has a hardware failure (broken arm), please contact the SwitchBot app with a video showing the failure.
 
 
 ---
 ### The Long Press Mode of the Bot
 
 If you set a long-press time for the Bot, the Bot will press and hold for the time that you set for it no matter which method you use to control the Bot (IFTTT, Alexa, Google Assistant, Siri, or App).
-
 
 
 ---
@@ -1169,7 +1129,7 @@ Applicable Products: SwitchBot Bot
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002303585175)
 
-3. If you have any questions about compatibility, please log in to the SwitchBot app → Profile → Feedback and contact us. We would appreciate it if you could provide us with the following information when you contact us.
+3. If you have any questions about compatibility, we would appreciate it if you could provide us with the following information when you contact us.
 
 A photo of your switch
 
@@ -1225,7 +1185,7 @@ Firmware Version: SwitchBot Bot: 2.9 or newer, SwitchBot Hub Mini: 5.4-3.8 or ne
 
 1． Make sure your SwitchBot App version is up to date.
 
-2． Make sure SwitchBot Bot and SwitchBot Hub Mini/Hub 2 have been added to your App and your device firmware version is up to date. If the firmware is outdated, please log in to the SwitchBot App, navigate to "Profile", then "Help & Feedback", and select "Feedback".
+2． Make sure SwitchBot Bot and SwitchBot Hub Mini/Hub 2 have been added to your App and your device firmware version is up to date.
 
 3． Please ensure that SwitchBot Hub Mini/Hub 2 is connected to the Internet.
 
@@ -1237,32 +1197,13 @@ Firmware Version: SwitchBot Bot: 2.9 or newer, SwitchBot Hub Mini: 5.4-3.8 or ne
 
 5． If possible, please place SwitchBot Bot near SwitchBot Hub Mini/Hub 2 and try again.
 
-6．
+6． Please unplug SwitchBot Hub Mini or Hub 2, wait for 10 minutes, and then power it back on before attempting to use it again.
 
-Please unplug SwitchBot Hub Mini or Hub 2, wait for 10 minutes, and then power it back on before attempting to use it again.
+7． If this does not work, please contact us. We would appreciate it if you could provide us with the following information when you contact us.
 
-7． If this does not work, please contact SwitchBot App -> Profile -> Help & Feedback->Feedback. We would appreciate it if you could provide us with the following information when you contact us.
+‐Distance between SwitchBot Bot and SwitchBot Hub Mini/Hub 2
 
-‐Distance between
-
-SwitchBot B
-
-ot and
-
-SwitchBot
-
-Hub Mini/Hub 2
-
-‐Photographs showing the distance between
-
-SwitchBot B
-
-ot and
-
-SwitchBot
-
-Hub Mini/Hub 2
-
+‐Photographs showing the distance between SwitchBot Bot and SwitchBot Hub Mini/Hub 2
 
 
 ---
@@ -1298,7 +1239,7 @@ If the Bot has turned on the Cloud Service via the Hub Mini or Ceiling Light, Ma
 
 5. Try to unplug the cable for the Hub Mini for 10 seconds and plug it back in to reset the Hub Mini.
 
-If all the above attempts failed, please contact us via [Profile Page] - [Feedback] in SwitchBot App and provide us with the following information.
+If all the above attempts failed, please contact us with the following information.
 
 The time when the error 161 last happened
 
@@ -1306,20 +1247,13 @@ Distance between the Bot and the Hub Mini
 
 A photo that shows the distance between the Bot and the Hub Mini
 
-After receiving the feedback ticket, we will solve your problem as soon as possible. You can also contact our customer support team by phone, live chat, etc.
-
-
 
 ---
 ### Why SwitchBot app needs the location permission on Android devices?
 
 Location permission is required for hardware identifier access because of the change of Andriod after Andriod 6.0. Thus, the SwitchBot App must get access to location service to work properly.
 
-If you are using a device with
-
-Android 12 or later
-
-, you will only need to turn on the Bluetooth function , and do NOT need to turn on "Location Permission".
+If you are using a device with Android 12 or later, you will only need to turn on the Bluetooth function , and do NOT need to turn on "Location Permission".
 
 Read also:
 
@@ -1374,9 +1308,7 @@ If you are using an Android 12 or earlier, make sure Location Services have been
 
 13. Remove the battery from the Bot and insert the battery while pressing the reset button inside the bot, then go to Switchbot App -> Profile -> Firmware Repair and see if the Repair Bot Firmware item appears. If the Repair Firmware item appears, try repairing the Bot.
 
-14. If this does not work, please open SwitchBot App -> Profile -> Feedback.
-
-We would appreciate it if you could provide us with the following information when you contact us.
+14. If this does not work, we would appreciate it if you could provide us with the following information when you contact us.
 
 - Photo of your switch
 
@@ -1426,8 +1358,6 @@ If you accidentally long-pressed the reset button, and the indicator flickers on
 7. Turn your mobile phone's Bluetooth off and on again, and get as close to your SwitchBot Bot as possible.
 
 8. Remove the battery from your SwitchBot Bot and insert the battery while pressing the reset button inside the bot, then open our app, and navigate to -> Profile -> Firmware Repair and see if the Repair Bot Firmware option appears. If the Repair Firmware option appears you can use this to try and repair your SwitchBot Bot.
-
-9. If all the above still doesn't work, feel free to reach our support team by opening our app and tapping Profile > Feedback > then select your device to leave feedback.
 
 
 ---
@@ -1495,8 +1425,6 @@ Regarding this issue, could you please check the following points?
     1. Remove the battery and reinsert it back.
     2. Try to recover your Bot's firmware.
     While pressing and holding the bot reset button, please re-insert the battery, tap SwitchBot app → profile → firmware recovery
-
-  2. If your Bot can be operated within Bluetooth range through SwitchBot App, we will forward your feedback to our R&D team for further investigation.
 
 
 ---
