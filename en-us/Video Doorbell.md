@@ -277,6 +277,16 @@ Doorbell:
 5. To ensure a stable connectivity, keep an appropriate distance beetween your Doorbell, Monitor, SwitchBot Lock devices, and the router.
 
 
+---
+### Can I Lock My Lock Using SwitchBot Smart Video Doorbell?
+
+Here’s how you can use your Smart Video Doorbell to control your lock:
+1. Hold the NFC card against the doorbell to unlock the door.
+2. Press the "Electric Lock" button on the monitor to unlock the door. 
+3. For full control, open the SwitchBot app, select your Video Doorbell, tap "Features" at the bottom, then choose "Lock or Unlock" to secure or open your door.
+4. By pressing and holding the button at the bottom of the doorbell for 3 seconds, you can lock your door lock.
+
+
 
 
 
