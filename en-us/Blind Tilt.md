@@ -11,14 +11,7 @@ Updated: Feb 01st, 2023
 
 Applicable Products: SwitchBot Blind Tilt
 
-Yes
-
-, you can manually rotate the pole and
-
-adjust the angle of the blades
-
-. In addition, the manually adjusted angle is automatically synchronized with the app, so there is no need to calibrate each time. If it is not synced on the app side, please log in to the SwitchBot app → Profile → Feedback and contact us.
-
+Yes, you can manually rotate the pole and adjust the angle of the blades. In addition, the manually adjusted angle is automatically synchronized with the app, so there is no need to calibrate each time.
 
 
 ---
@@ -174,7 +167,7 @@ Firmware Version: V2.0 or newer
 
 1. Make sure you have the latest version of the SwitchBot App.
 
-2. Ensure that the Blind Tilt has been added to the SwitchBot App and that the firmware version is the latest version.  If your firmware version is not V2.0 or newer, please contact our support by logging into the SwitchBot App-> Profile -> Feedback.
+2. Ensure that the Blind Tilt has been added to the SwitchBot App and that the firmware version is the latest version.
 
 3. Please note that up to four Blind Tilt can be set up/controlled as a group at present.
 
@@ -261,9 +254,6 @@ Note: if you want the Blind Tilt triggered Both at sunrise/sunset, please set up
 
 4. After the Scene has been created, the Blind Tilt will be able to open/close at sunrise/sunset.
 
-5. If the scene does not trigger, please contact our support by logging into the SwitchBot App-> Profile -> Feedback.
-
-
 
 ---
 ### How to install Blind Tilt when there is decorative covers on curtains?
@@ -327,7 +317,7 @@ Firmware Version: V2.0 or newer
 
 1. Make sure your SwitchBot app is the latest version.
 
-2. Please make sure the SwitchBot Blind Tilt is added to the SwitchBot app and the firmware version is V2.0 or newer. If it is not V2.0 or later, please log in to the SwitchBot app → Profile → Feedback to contact us.
+2. Please make sure the SwitchBot Blind Tilt is added to the SwitchBot app and the firmware version is V2.0 or newer.
 
 3. Please follow the steps below to set up the Blind Tilt into groups.
 
@@ -350,7 +340,6 @@ Note: If you set a group from Blind Tilt A, Blind Tilt A will be the main device
 [Group function for the SwitchBot Blind Tilt](https://support.switch-bot.com/hc/en-us/articles/11613012401431)
 
 
-
 ---
 ### Is Blind Tilt's Solar Panel waterproof?
 
@@ -360,12 +349,7 @@ Related Products:
 
 SwitchBot Blind Tilt
 
-Please note that the Blind Tilt's Solar Panel is
-
-non-waterproof
-
-and should be used indoors.
-
+Please note that the Blind Tilt's Solar Panel is non-waterproof and should be used indoors.
 
 
 ---
@@ -385,12 +369,7 @@ Applicable Products: SwitchBot Blind Tilt
 
 [How to set Blind Tilt into groups](https://support.switch-bot.com/hc/en-us/articles/12057147031703)
 
-2.If the product is not responding to voice commands, try disconnecting and reconnecting the Alexa/Google Home apps. For any questions, please contact the
-
-SwitcBot
-
-app by logging in -> Profile -> Feedback.
-
+2.If the product is not responding to voice commands, try disconnecting and reconnecting the Alexa/Google Home apps.
 
 
 ---
@@ -400,15 +379,7 @@ Updated: Feb 19th, 2023
 
 Applicable Products: SwitchBot Blind Tilt
 
-1.
-
-The voice command of " fully close “（upward）/"fully close"(downward) is not supported
-
-, including the
-
-Amazon Alexa/Google Assistant
-
-.
+1. The voice command of " fully close “（upward）/"fully close"(downward) is not supported, including the Amazon Alexa/Google Assistant.
 
 2. When Alexa/Google Assistant recognizes the voice command of "close the {device name}". In that case, if the Blind Tilt is on the status of Close Down, the device will fully close down. If the Blind Tilt is on the status of Close Up, the device will fully close up.
 
@@ -448,9 +419,6 @@ Turn on the cloud services in the "Cloud Services" option.
 4．Follow the instructions below to finish the Alexa links.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12623318134679)
-
-5．If the above does not solve your issue, please submit a feedback ticket via our App for more assistance. When contacting us, we would appreciate it if you could provide a description of your issue. To leave feedback, simply navigate to SwitchBot App > Profile > Help & Feedback > Feedback > Create a New Ticket > Select the product you need support for > describe your issue in detail, and attach media should need be.
-
 
 
 ---
@@ -493,9 +461,6 @@ Tap continue and then login to your SwitchBot account in the browser.
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998805694615)
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998832893335)
-
-5．If the above does not solve your issue, please submit a feedback ticket via our App for more assistance. When contacting us, we would appreciate it if you could provide a description of your issue. To leave feedback, simply navigate to SwitchBot App > Profile > Help & Feedback > Feedback > Create a New Ticket > Select the product you need support for > describe your issue in detail, and attach media should need be.
-
 
 
 ---
@@ -568,30 +533,9 @@ level of your Solar Panel to make sure it is functioning correctly. The picture 
 
 3. If your Light Sensor level is 6 or above for at least 4 hours every day, you should be able to means three years of use on a daily charge.
 
-4. If your
-
-Light Sensing
-
-level is low and your Blind Tilt battery drains faster than Solar Panel can charge due to daily opening and closing, your battery may not appear to be charged when connected to the Solar Panel. However, even in low lighting conditions, you may find the battery will still last for some time should your Solar Panel be connected to your device (bad weather may also further affect charging).
+4. If your Light Sensing level is low and your Blind Tilt battery drains faster than Solar Panel can charge due to daily opening and closing, your battery may not appear to be charged when connected to the Solar Panel. However, even in low lighting conditions, you may find the battery will still last for some time should your Solar Panel be connected to your device (bad weather may also further affect charging).
 
 5. Normally, we recommend checking your Blind Tilt after every four weeks of use to ensure healthy battery life.
-
-If you still experience problems or have any questions, please contact us by logging into our app and navigating to
-
-Profile
-
-→
-
-Feedback
-
-. When contacting us, we would appreciate it if you could provide us with the following information:
-
-Pictures showing
-
-Light Sensing
-
-levels (see step 2).
-
 
 
 ---
