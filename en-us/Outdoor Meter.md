@@ -15,7 +15,7 @@ The short answer is "yes," but we have a range of tips to help make sure this go
 
 First, you will need an accurate reference for temperature and/or humidity. Each value is calibrated separately, and you can choose to calibrate one, both, or neither as necessary. The accuracy of the uncalibrated Meter can be found in the manual.
 
-Calibration is only intended to correct for small variations (typically up to a few degrees or around 5% relative humidity). If you see a bigger discrepancy than that while calibrating, please contact us at SwitchBot App Feedback (left side menu bar) or reach support@switch-bot.com for more assistance, as that would indicate that there's a problem with either the calibration process or your Meter. We'll be happy to help sort it out.
+Calibration is only intended to correct for small variations (typically up to a few degrees or around 5% relative humidity).
 
 WITH A REFERENCE DEVICE
 
@@ -87,9 +87,6 @@ Choose the start time and end time of your data and then tap "Export".
 
 Select the devices or services can receive the data.
 
-4. If you have any questions, please log into the SwitchBot app and click on "Profile" > "Feedback". We would appreciate it if you could provide us with the following details when contacting us
-
-
 
 ---
 ### How do I reset Outdoor Meter?
@@ -127,9 +124,7 @@ SwitchBot App Version: 9.2 or newer
 
 1. Please ensure you have the latest version of the SwitchBot App.
 
-2. Please ensure your SwitchBot Outdoor Meter is added to the SwitchBot App and has the latest firmware version. If the firmware of your Outdoor Meter
-
-is not V 0.4 or newer, please log in to the SwitchBot App → Profile → Help and Feedback → Create a New Ticket.
+2. Please ensure your SwitchBot Outdoor Meter is added to the SwitchBot App and has the latest firmware version.
 
 3. To remotely check temperature and humidity data, it is necessary
 
@@ -158,10 +153,6 @@ Turn on cloud services.
 Connect to the Hub products in your account.
 
 Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
-
-5. Settings in step 4 enable remote confirmation of temperature and humidity data. If you have any questions, please contact us by logging into the SwitchBot app → Profile → Help and Feedback →
-
-Create a New Ticket.
 
 Related Post:
 
@@ -338,8 +329,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -412,8 +401,6 @@ Tap "Connect".
 Enter your Google Home App login ID and password.
 
 The link will be automatically established.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -548,9 +535,6 @@ SwitchBot App Version: V6.26 or newer
 *If you are using Bluetooth only(Cloud Service for the Outdoor Meter is not enabled), there is a risk that locally stored history data cannot be loaded again by uninstalling the app. When used with a Hub Series device, data is always automatically uploaded via Wi-Fi, allowing you to quickly read data anytime, anywhere.
 
 4. Perform the data loading again.
-
-5. If the problem persists, please contact us by logging into the SwitchBot app → Profile → Feedback.
-
 
 
 ---
