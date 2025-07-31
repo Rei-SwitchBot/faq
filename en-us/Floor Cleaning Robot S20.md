@@ -2124,9 +2124,9 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please update your S20 firmware to V038 or newer by going to SwitchBot App -> S20 -> Gear Icon -> Firmware & Battery to see if it helps.
-2. Remove the robot's faceplate and restart it.
-3. Remove the waste water box and then replace it.
+1. Remove the robot's faceplate and restart it.
+2. Remove the waste water box and then replace it.
+3. Please check if the robot's firmware is 040 by going to SwitchBot App -> S20 -> Gear Icon -> Firmware & Battery . If it is version 040, it is due to a firmware bug that will be fixed in the August release. We appreciate your patience and understanding!
 
 
 ---
