@@ -146,8 +146,6 @@ In case you insist on checking them on your computer, download our recommended p
 
 However, to secure your privacy, decoding or converting the stored media in the microSD Card to other formats is unavailable. All info in the SD card is encrypted by default. SwitchBot also applied financial-grade encryption technology to protect your data on the mobile phone and the network. Your data should belong to you alone.
 
-Should you run into any other problem, feel free to reach your SwitchBot support team in our App Feedback under the Profile section, or reach us with the popup icon on this page.
-
 
 
 ---
@@ -259,11 +257,7 @@ Device firmware version:
 
 1. Make sure your SwitchBot app version is up to date.
 
-2. Make sure the firmware version of the camera is
-
-up to date
-
-.
+2. Make sure the firmware version of the camera is up to date.
 
 3. Make sure the camera is powered on and the USB cable is properly connected and not loose.
 
@@ -293,48 +287,13 @@ rapidly
 
 Cam is connecting to the network, please wait patiently.
 
-LED flashes alternately
-
-red
-
-and
-
-green
-
-slowly
+LED flashes alternately red and green slowly
 
 Please refer to step 4 to ensure a stable Wi-Fi network connection.
 
-LED is solid
-
-green
+LED is solid green
 
 Please unplug the camera device power cord and plug it back in, and make sure the camera is powered on normally. And refer to step 4 to make sure the Wi-Fi network connection is stable.
-
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
-
-SN code (at the bottom of camera)
-
-Where did the camera being purchased
-
-Amazon
-
-Official online store
-
-Local entity store
-
-Others
-
-Order details of the camera, screenshots of payment vouchers
-
-If the problem still persists, please feel free to let us know. We'll find you the best solution for you.
-
 
 
 ---
@@ -346,15 +305,11 @@ Related Products: SwitchBot Indoor Cam
 
 1. Please delete Indoor Cam from your app before performing a reset.
 
-2. Press and hold the reset button on the back of Indoor Cam for
-
-5 seconds
-
-.
+2. Press and hold the reset button on the back of Indoor Cam for 5 seconds.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998228903447)
 
-3.A red light will emit for around 20 seconds and then start blinking. Indoor Cam will now enter pairing mode, and you will be able to add the device again. Please follow the setup guidance via our app to add your device.
+3. A red light will emit for around 20 seconds and then start blinking. Indoor Cam will now enter pairing mode, and you will be able to add the device again. Please follow the setup guidance via our app to add your device.
 
 
 
@@ -726,7 +681,7 @@ Please follow the steps below to troubleshoot:
 
 2. If you know the SwitchBot account the camera previously added to, please log in to the original account in the SwitchBot app, delete the camera, and then re-add it to your new account.
 
-3. If you are sure the Indoor Cam is setup for the first time, or do NOT know the previous SwitchBot account information for this camera, please contact us in "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+3. If you are sure the Indoor Cam is setup for the first time, or do NOT know the previous SwitchBot account information for this camera, please provide the following information:
 
 SN code (at the bottom of camera)
 
@@ -744,7 +699,7 @@ Order details of the camera, screenshots of payment vouchers
 
 4. In general, we will verify the information, help you reset the camera linking information complete the reset and notify you to re-add the camera within 48 hours.
 
-After receiving the feedback ticket, we will solve your problem as soon as possible. You can also contact our customer support team by phone, live chat, etc. after completing step 3.
+After receiving the feedback ticket, we will solve your problem as soon as possible.
 
 Notice
 
@@ -814,14 +769,6 @@ Refer to:
 [How to reset Indoor Cam](https://support.switch-bot.com/hc/en-us/articles/9417796592023)
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002303071895)
-
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
 
 
 
@@ -937,9 +884,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Indoor Cam Google Home Setup Guide
@@ -1003,9 +947,6 @@ Google Home
 App login ID and password.
 
 The link will be automatically established.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1252,9 +1193,6 @@ We can also set the sensitivity of the motion detection to high.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996908123799)
 
-If the problem persists, please submit a feedback request on the SwitchBot App. The support team will help to fix the issue.
-
-
 
 ---
 ### What should I do if the device is offline after changing or resetting the router or changing the network provider?
@@ -1306,10 +1244,5 @@ For example, if you purchase a 30-day event package, the cloud stores your video
 - Tap basic settings.
 - Tap personalized recommandations.
 - Switch On to Off.
-
-
-3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 
