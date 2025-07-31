@@ -112,9 +112,6 @@ If necessary, we can also enable "Re-Lock" and set up "Re-lock Timing" ( Re-Lock
 
 5. When the battery power is below 20%, the "Auto-Lock" function will not work.
 
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Auto-Lock Function for SwitchBot Lock
@@ -150,9 +147,6 @@ Set the time under "Re-lock  after" if needed. (After being unlocked, your Lock
 4. You can disable the Auto-Lock fuction if it is not necessary.
 
 5. The Auto-Lock will not function If the battery level falls below 20%.
-
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -225,7 +219,7 @@ Notes for double-sided tape:
 
 [Can I fix the SwitchBot Lock with double-sided tape?](https://support.switch-bot.com/hc/en-us/articles/10051470492695)
 
-2. If you still have questions about the pre-purchase information, please contact us by logging into the SwitchBot App → Profile → Feedback. We would appreciate it if you could provide us with the following information when you contact us.
+2. If you still have questions about the pre-purchase information, please provide us with the following information when you contact us.
 
 Photo of your door Lock
 
@@ -508,8 +502,6 @@ Locking and unlocking history can be checked.
 If you are using the Lock via Bluetooth, perform step 3 when you are back within Bluetooth range. Any locking and unlocking actions carried out while you were away will be automatically synced to the history list.
 
 If your Lock is connected to our Hub Series products, you can check its history anytime, anywhere by following step 3.
-
-5. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback > Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -809,9 +801,6 @@ If your lock doesn't unlock, tap the icon again, it will turn counterclockwise t
 
 6. The emergency unlock function can be used even if Lock Pro is not calibrated.
 
-7. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Emergency Unlock Function for SwitchBot Lock
@@ -843,9 +832,6 @@ If your lock doesn't unlock, tap the icon again, it will turn counterclockwise t
 5. Only the home owner can use the emergency unlock function.
 
 6. The emergency unlock function can be used even if Lock is not calibrated.
-
-7. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -963,13 +949,6 @@ After the calibration, please refer to the images below to set the unlock time f
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999686790167)
 
-3.
-
-If you still cannot see this function in your SwitchBot Lock device settings, we would ask that you submit feedback via our app regarding your issue.
-
-Please note: this function is only available for SwitchBot Lock (EU).
-
-
 
 ---
 ### How to Add SwitchBot Lock and Lock Pro with the Apple Home App Using SwitchBot Hub 2 / Hub Mini Matter Enabled
@@ -1008,9 +987,6 @@ Add SwitchBot Lock or Lock Pro
 
 3． Once it is complete, SwitchBot Lock and Lock Pro will be displayed within the iOS Home App, enabling voice-activated locking and unlocking via Hey Siri.
 
-4．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Calibrate or Recalibrate SwitchBot Lock Pro?
@@ -1046,11 +1022,6 @@ distance between them. Tap "Next".
 Keep your door ajar and make sure your Lock Pro is in locked state. Tap "Test Unlocking".
 
 Close your door. Make sure it is unlocked currently. Tap "Test Locking".
-
-"Finish"
-
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1113,9 +1084,6 @@ You can see a door icon in the upper right corner.
 The door in the picture below is open in one state and closed in the opposite state.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002261903639)
-
-4． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1197,9 +1165,6 @@ Related Products: SwitchBot Lock Pro
 
 2. You can place the magnet on either side of the Lock Pro main unit dial knob. Also, make sure that the horizontal distance from the Lock Pro main body is between 20mm and 40mm.
 
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Integrate SwitchBot Lock with IFTTT?
@@ -1235,8 +1200,6 @@ Tap " Services" on the Settings screen.
 Locked, unlocked, door opened, and door closed can be set as changed status for SwitchBot Lock
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999686423959)
-
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -1291,8 +1254,6 @@ Unlocking the Lock by shortcuts is not supported.
 
 5. You can lock the Lock using the "Hey Siri" feature according to the settings mentioned above.
 
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 The same settings can be applied to SwitchBot Lock Pro.
@@ -1326,19 +1287,11 @@ Related Products: SwitchBot Lock
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1．Make sure your SwitchBot App version is up to date.
 
-Make sure your SwitchBot App version is up to date.
+2．Make sure SwitchBot Lock and SwitchBot Hub series have been added to your App.
 
-2．
-
-Make sure SwitchBot Lock and SwitchBot Hub series have been added to your App.
-
-3． After the SwitchBot Lock linked to the Hub automatically, you will be able to lock and unlock remotely using the SwitchBot App even when the device is out of Bluetooth range.
-
-4．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+3．After the SwitchBot Lock linked to the Hub automatically, you will be able to lock and unlock remotely using the SwitchBot App even when the device is out of Bluetooth range.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -1360,9 +1313,6 @@ Device firmware version: V5.6 or newer
 ![Image](https://support.switch-bot.com/hc/article_attachments/6974618237079/mceclip2.png)
 
 If the operation fails, please try the above steps several times, as the Lock might not be communicating with the cellphone well during the first few attempts.
-
-For further assistance, please contact us via "Profile Page" - "Feedback" in the SwitchBot App.
-
 
 
 ---
@@ -1479,9 +1429,6 @@ disable Sync Manual Unlock.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/11326998809111)
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback > Feedback.
-
-
 
 ---
 ### How to Set Your SwitchBot Lock Lock/Unlock on Apple Watch?
@@ -1567,13 +1514,9 @@ When activating Dual Lock mode from lock A, lock A is the main lock, and lock B 
 
 If you have not calibrated the lock, you will be asked to calibrate the lock/unlock when you activate Dual Lock mode. If the device has already been calibrated, the lock/unlock test will be performed automatically.
 
-SwitchBot Lock
-
-, calibrated as a European lock to hold the latch, does not support the dual-locking function.
+SwitchBot Lock, calibrated as a European lock to hold the latch, does not support the dual-locking function.
 
 4. Dual Lock mode can be canceled in the following order: SwitchBot App → Lock → gear icon→ Dual Lock mode → cancel Dual Lock mode.
-
-5. If you have any questions, please contact us by logging into the SwitchBot App → Profile → Help and Feedback → Feedback→ Create a New Ticket.
 
 
 
@@ -1611,8 +1554,6 @@ After installation, tap "Next" on SwitchBot App
 Then follow the instructions to calibrate the locked and unlocked position
 
 Tap "Finish" and your Lock Pro is set up successfully
-
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -1656,8 +1597,6 @@ Unlocking test.
 Lock test.
 
 The setup is complete.
-
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -1843,8 +1782,6 @@ Enable Quick Key.
 Set the button function and trigger action as needed.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/23120918870423)
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -2057,10 +1994,6 @@ enable "remote unlock notifications"
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25689674327191)
 
-6.
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -2215,10 +2148,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -2292,10 +2221,7 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -2363,8 +2289,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -2428,8 +2352,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -2463,10 +2385,6 @@ Set up a geofence centered on your Lock Pro's location.
 
 Set the valid period. (the default setting is 10 mins).
 
-Note:
-
-At this time, you must be added to the whitelist to experience this feature, please contact us via SwitchBot App > Profile > Support/Help & Feedback >Feedback.
-
 3. With the settings above, when your smartphone enters the preset geofence range from outside, SwitchBot App will start scanning your Lock Pro via Bluetooth. Upon arriving home*, your phone will automatically establish a Bluetooth connection with the Lock Pro and enable it to unlock and open your door. If you do not approach your home within the preset time of validity for any reason, this automatic unlocking will be deactivated. In such a case, leaving and re-entering the preset geofence can trigger a new round of auto-unlock.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998259341847)
@@ -2474,8 +2392,6 @@ At this time, you must be added to the whitelist to experience this feature, ple
 Note: Regarding "arriving home," it pertains to the Bluetooth connection range of Lock Pro, which is typically within a few meters from the door lock. However, this range can be influenced by factors such as door and wall materials, as well as other interferences.
 
 4. Since the auto-unlock function relies on your smartphone's GPS, Bluetooth and geofence, please enable the Wi-Fi of your smartphone and keep SwitchBot App running in the background for a better experience.
-
-5. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 Note:
 
@@ -2538,9 +2454,6 @@ Enable "Pause Auto-Lock".
 
 7. If needed, you can utilize the "Pause Auto-Lock" function when taking out the trash or during other daily activities.
 
-8. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Lock/Lock Pro Alerts Feature
@@ -2602,10 +2515,6 @@ Note：
 For iOS devices, if you're using the SwitchBot App and don't receive notifications at the set time, it's not a bug. This is due to a limitation with the iOS system: notifications won't be delivered if you are actively using the SwitchBot App at the time the notification is scheduled to be sent. iOS only sends app notifications when the app is running in the background or the device is locked, among other conditions. So, if you remain in the SwitchBot App when the conditions for a notification are met, you will not receive the notification.
 
 There are no such restrictions for Android devices.
-
-6．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -2748,8 +2657,6 @@ Thank you for your understanding.
 
 The same settings can also apply to SwitchBot Lock.
 
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -2803,8 +2710,6 @@ Select Lock the Lock Pro as the action and save it.
 ![Image](https://support.switch-bot.com/hc/article_attachments/27322081891223)
 
 4. After making the above settings, your Lock Pro will be locked when the Contact Sensor detects the door is closed.
-
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 Note:
 
@@ -2863,13 +2768,7 @@ Place the other NFC tag over the NFC reading position on your smartphone to scan
 
 The message "written successfully" will be displayed.
 
-6. In step 5, the Lock Pro can be locked or unlocked by holding the smartphone over the successfully written NFC tag
-
-within Bluetooth range
-
-.
-
-7. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+6. In step 5, the Lock Pro can be locked or unlocked by holding the smartphone over the successfully written NFC tag within Bluetooth range.
 
 Note: Only one action can be written to an NFC Tag. It is not possible to delete an already registered action. Writing a second action will automatically overwrite the previous action. Therefore, at least two NFC tags are required to lock or unlock your door.
 
@@ -2920,8 +2819,6 @@ The message "written successfully" will be displayed.
 
 5. In step 4, the Lock can be locked or unlocked by holding the smartphone over the successfully written NFC tag within Bluetooth range.
 
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 Note: Only one action can be written to an NFC Tag. It is not possible to delete an already registered action. Writing a second action will automatically overwrite the previous action. Therefore, at least two NFC tags are required to lock or unlock your door.
 
 
@@ -2966,8 +2863,6 @@ Tap the blue + icon to add your Lock and save.
 5. Your Lock / Lock Pro can be locked and unlocked by swiping right from the iPhone home screen using the widget.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928092823)
-
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback > Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -3282,15 +3177,7 @@ If your door lock makes it more difficult to install SwitchBot Lock due to its d
 
 ※Locking screw standard used: KA3x8
 
-10. If the above does not solve your issues, please contact us by logging in to our app and navigating to
-
-Profile
-
-→
-
-Feedback
-
-. We would appreciate it if you could provide us with the following information when you contact us:
+10. If the above does not solve your issues, please provide us with the following information when you contact us:
 
 A photo of your door lock
 
@@ -3325,7 +3212,7 @@ Log out your SwitchBot App, then log in again.
 
 7. Restart your SwitchBot App.
 
-8. If the issue still exists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will forward your feedback to our development team for further assistance. When contacting us, we would appreciate it if you provide the information below.
+8. If the issue still exists, please provide the information below.
 
 Video of Lock cannot be added to SwitchBot App
 
@@ -3354,8 +3241,6 @@ Firmware Version: Lock 6.8 or newer, Hub Mini 5.4-3.8 or newer, Hub 2 2.0-1.2 or
 
 6. Reinsert the batteries into the Lock Pro / Lock .
 
-7. If the problem persists, we will escalate your feedback to our development team. Please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -3383,7 +3268,7 @@ SwitchBot App Version: 9.1 or newer
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26970774703383)
 
-6. If you’ve tried all the steps and still aren’t receiving notifications, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We’ll escalate this to our R&D team for further investigation. To help us resolve the issue faster, please provide the following details:
+6. If you’ve tried all the steps and still aren’t receiving notifications, please provide the following details:
 
 When the issue occurs and which actions lead to notifications not being received.
 
@@ -3436,23 +3321,13 @@ Firmware Version: 6.5 or newer
 
 2. Make sure your SwitchBot Lock is added to your SwitchBot account.
 
-3. Please log in to SwitchBot App -> Profile -> Help and Feedback -> Feedback to submit a request for firmware update.
-
-4. When replacing batteries, please make sure the model used is CR123A 3V/1500mAh.
+3. When replacing batteries, please make sure the model used is CR123A 3V/1500mAh.
 
 *Related Posts:
 
 [Recommended batteries for SwitchBot products](https://support.switch-bot.com/hc/en-us/articles/9744936851863)
 
-5. If the above does not solve your problem, please log in to our App and navigate to
-
-Profile
-
-→
-
-Feedback
-
-and contact us. We will forward the issue to our tech team for further support. We would appreciate it if you could provide us with the following information when you contact us:
+4. If the above does not solve your problem, we would appreciate it if you could provide us with the following information when you contact us:
 
 A photo of your battery
 
@@ -3469,11 +3344,7 @@ Firmware Version: 6.8 or newer
 
 1. If you are locked out and can not enter your home, please check to see if you can use the emergency unlock function to unlock your door.
 
-*
-
-Please be sure to bring the key with you when you leave the house
-
-in case the battery runs out or the lock itself does not work. If the emergency lock doesn't help you resolve your issue and a lock-opening service is required, we will not be responsible for your lock-opening service fee. Thanks for your understanding.
+*Please be sure to bring the key with you when you leave the house in case the battery runs out or the lock itself does not work. If the emergency lock doesn't help you resolve your issue and a lock-opening service is required, we will not be responsible for your lock-opening service fee. Thanks for your understanding.
 
 2. If you are at home, please check that the center of the thumbturn of the lock is coaxial with the center of the knob with respect to installation. If it is not aligned correctly, your SwitchBot Lock may be subjected to excessive rotational force to locking and unlocking. If your SwitchBot Lock is used for a long time in this condition, it may get jammed, or the device itself may fall.
 
@@ -3505,15 +3376,11 @@ https://www.youtube-nocookie.com/embed/3uzOVKj5P6s
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998506480535)
 
-6. If the lock does not turn when operating via our app, please log in to your SwitchBot account and navigate to
-
-Profile → Feedback
-
-and leave feedback containing a video of your SwitchBot Lock not turning. We will provide after-sales warranty service to help you resolve your issue (replacement of new device and collection of your defective device).
+6. If the lock does not turn when operating via our app, please provide a video of your SwitchBot Lock not turning. We will provide after-sales warranty service to help you resolve your issue (replacement of new device and collection of your defective device).
 
 ========================================================
 
-7. If your lock turns normally when using our app to operate, this usually means the issue is not with SwitchBot Lock itself. Please log into SwitchBot App -> Profile -> Help and Feedback -> Feedback to submit a request for firmware update.
+7. If your lock turns normally when using our app to operate, this usually means the issue is not with SwitchBot Lock itself. Please request for firmware update.
 
 8. Please reinstall and calibrate your SwitchBot Lock once your update is complete, and make sure that the battery used is CR123A 3V/1500mAh and that there is sufficient remaining battery power. A low battery level will affect the rotational force of the Lock.
 
@@ -3521,29 +3388,19 @@ and leave feedback containing a video of your SwitchBot Lock not turning. We wil
 
 [Battery issue inquiry for the SwitchBot product](https://support.switch-bot.com/hc/en-us/articles/9744936851863)
 
-※You can use the following guide to check the firmware and battery level of your SwitchBot Lock. Open our app > Tap your device > Tap the
+※You can use the following guide to check the firmware and battery level of your SwitchBot Lock. Open our app > Tap your device > Tap the Settings icon in the upper right-hand corner > Enter Settings
 
-Settings
-
-icon in the upper right-hand corner > Enter
-
-Settings
-
-> Tap
-
-Firmware & Battery
-
-to check your firmware status.
+> Tap Firmware & Battery to check your firmware status.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998506482199)
 
 9. Please open the door, unlock the lock with the SwitchBot App, and check if it is jammed.
 
-9-1>If the lock cannot handle the front door lock at this time due to jamming, please contact us by logging in to the SwitchBot App → Profile → Feedback. When contacting us, please provide a video of the jamming.
+9-1>If the lock cannot handle the front door lock at this time due to jamming, please provide a video of the jamming.
 
-9-2>If the jamming is not occurring, please close the door and lock it with the SwitchBot App. If the door can be locked without any problem, it appears that the front door lock can be handled by the rotational force of the lock. If you experience a jam when locking, the door may not be closing properly, and the latch may be hitting the door frame. Please check the door opening and closing condition again before locking. If you still experience the jamming, please take a video of the jamming in the closed state and contact us by logging in to the SwitchBot App → Profile → Feedback. We will respond with a refund or return as soon as possible.
+9-2>If the jamming is not occurring, please close the door and lock it with the SwitchBot App. If the door can be locked without any problem, it appears that the front door lock can be handled by the rotational force of the lock. If you experience a jam when locking, the door may not be closing properly, and the latch may be hitting the door frame. Please check the door opening and closing condition again before locking. If you still experience the jamming, please take a video of the jamming. We will respond with a refund or return as soon as possible.
 
-10. If you are still experiencing the Jammed even with the lastest firmware, even though there is no problem with rotational force, please contact us with a video of the jamming by logging in to the SwitchBot App -> Profile -> Feedback.
+10. If you are still experiencing the Jammed even with the lastest firmware, even though there is no problem with rotational force, please contact us with a video of the jamming.
 
 This is a complicated troubleshooting process.
 
@@ -3564,7 +3421,7 @@ Firmware Version: 6.8 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. Make sure SwitchBot Lock has been added to your App and your device firmware version is up to date. Please contact us via SwitchBot App > Profile > Help & Feedback >Feedback for lastest firmware version.
+2. Make sure SwitchBot Lock has been added to your App and your device firmware version is up to date.
 
 3. Make sure the auto-lock function of Lock is enabled.
 
@@ -3588,7 +3445,7 @@ Calibrate the Lock.
 
 [Embedded Content](//www.youtube-nocookie.com/embed/Q7RvZgHcMo0)
 
-6. If the problem still exists, feel free to submit a feedback to us. When contacting us, we would appreciate it if you can provide us with the information below. We will forward your feedback to our development team for furthur assistance.
+6. If the problem still exists, we would appreciate it if you can provide us with the information below.
 
 Take a video to show the auto-lock problem.
 
@@ -3622,9 +3479,6 @@ SwitchBot App Version: 8.4 or newer
 6. Restart your SwitchBot App.
 
 7. If you have multiple phones, try updating the firmware using a different phone to see if it helps.
-
-8. If the issue still exists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will forward your feedback to our development team for further assistance.
-
 
 
 ---
@@ -3673,7 +3527,7 @@ Firmware Version: 6.8 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. Make sure SwitchBot Lock has been added to your App and your device firmware version is up to date. Please contact us via SwitchBot App > Profile > Help & Feedback >Feedback for lastest firmware version.
+2. Make sure SwitchBot Lock has been added to your App and your device firmware version is up to date.
 
 3. Recalibate your Lock.
 
@@ -3681,15 +3535,9 @@ Related Post:
 
 [Calibrate and Recalibrate SwitchBot Lock](https://support.switch-bot.com/hc/en-us/articles/4416608744215)
 
-4. If the Lock's state cannot be synced to the SwitchBot App after locking and unlocking with the key, please
+4. If the Lock's state cannot be synced to the SwitchBot App after locking and unlocking with the key, please recalibrate it using the key instead of the thumbturn on the lock.
 
-recalibrate it using the key
-
-instead of the thumbturn on the lock.
-
-5. If the problem still exists, feel free to submit a feedback to us. When contacting us, we would appreciate it if you can provide us with the information below. We will forward your feedback to our development team for furthur assistance.
-
-A video showing the Lock status that does not match the actual door lock status
+5. If the problem still exists, please provide us with the information below. A video showing the Lock status that does not match the actual door lock status
 
 
 
@@ -3729,7 +3577,7 @@ offers height auxiliary parts (for GOAL 85MH/MX and MIWA 85RA).
 
 2. Also available are thumb turn holders for MIWA 75PM/SHOUWA 7860KJ/MIWA U1/MIWA NDR/NDZ/LIXIL TOSTEM Jeesta 2. Feel free to purchase.
 
-3. You can contact us if you need a height aid part/special turn holder with different dimensions by logging into the SwitchBot app -> Profile -> Feedback. Whenever you contact us, we'd appreciate if you could provide us with the following information.
+3. You can contact us if you need a height aid part/special turn holder with different dimensions. Whenever you contact us, we'd appreciate if you could provide us with the following information.
 
 Your home's front door lock photo
 
@@ -3811,7 +3659,7 @@ Please refrain from using commercially available rechargeable batteries.
 
 Use 1.5V batteries with the highest battery capacity possible.
 
-4. If the issue still exists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, it would be helpful if you could provide us with the following information:
+4. If the issue still exists, please provide us with the following information:
 
 A Photo showing the installation status of the four batteries
 A video of the Lock Pro not responding after inserting the battery case (with batteries installed)
@@ -3857,8 +3705,6 @@ Save
 Note: Unlocking the Lock and Lock Pro is not supported on the Alexa App at this time. Thank you for your understanding.
 
 The same settings can also apply to SwitchBot Lock.
-
-6. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -3916,13 +3762,7 @@ Enable "Allow Notifications".
 Enable as needed: Door Unlocked/Locked/Door Opened/Door Left Unlocked.
 6. With the above settings, notifications will be sent to your smartphone when Lock is locked, unlocked, or left unlocked.
 
-7. 
-
-If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
-
- 8. 
-
-SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
+7. SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
 
 ---
