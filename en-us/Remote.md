@@ -62,13 +62,6 @@ to reset.
 
 If this does not solve the issue, please contact support.
 
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
-
 
 ---
 ### How does the SwitchBot Remote work
@@ -156,16 +149,9 @@ SwitchBot Remote
 
 and release prior to the light stops flashing.
 
-3. Then your Remote will emit a beep sound and the indicator light will light up for
-
-1.5 seconds
-
-.
+3. Then your Remote will emit a beep sound and the indicator light will light up for 1.5 seconds.
 
 4. Now your SwitchBot Remote has been reset to factory settings.
-
-If this does not work, please contact us by logging into the SwitchBot app > Profile > Feedback.
-
 
 
 ---
@@ -181,7 +167,7 @@ Firmware Version: SwitchBot Remote V4.5 or newer, Hub Mini V3.9-2.6 or newer, Ce
 
 1. Make sure your SwitchBot app is the latest version.
 
-2. Please ensure that the SwitchBot Remote and the Hub Series products (Hub Mini / Ceiling Light) have been added to the SwitchBot app and that the firmware version is the latest. If you are not on Hub Mini V3.9-2.6 or newer / Ceiling Light V1.3-0.4 or newer, please log in to the SwitchBot app → Profile → Feedback.
+2. Please ensure that the SwitchBot Remote and the Hub Series products (Hub Mini / Ceiling Light) have been added to the SwitchBot app and that the firmware version is the latest.
 
 3. Please update your Remote to firmware version V4.5.
 
@@ -278,8 +264,6 @@ Evaporative Humidifier(Auto-refill)
 
 On/Off
 
-To update your firmware, kindly log in to the SwitchBot App, navigate to your profile, proceed to "Help&Feedback", and share your feedback with us.
-
 *Related Posts：
 
 [Can I update my device firmware automatically?](https://support.switch-bot.com/hc/en-us/articles/10831253875479)
@@ -361,15 +345,6 @@ to reset.
 
 5. Retry adding Remote to your account via another mobile devices if you have one.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
-
 
 ---
 ### SwitchBot Remote Failed to Update Firmware
@@ -382,7 +357,7 @@ SwitchBot App Version: 7.7 or newer
 
 1. Make sure you have the latest version of the SwitchBot App.
 
-2. When you see an update notice in the SwitchBot App, please update within Bluetooth range. If you are not notified of an update and would like a new firmware, please log in to the SwitchBot App → Profile → Help&Feedback→Feedback→Creare a new ticket.
+2. When you see an update notice in the SwitchBot App, please update within Bluetooth range.
 
 3. Restart the SwitchBot App.
 
@@ -470,9 +445,6 @@ If the update didn't show up, log out of your app, log back in and check again.
 
 4. If you want to control the lock via remote, please set an action for each button on the remote button, and the firmware version update will come up automatically. Please update it as it is.
 
-5. If it still doesn't work, please contact us by opening the SwitchBot app on your SAME device > Tap Profile Page >Tap Feedback > Select your device, or reach us with the popup icon on this page.
-
-
 
 ---
 ### User Manual for SwitchBot Remote (PDF)
@@ -543,7 +515,7 @@ or newer
 
 5. If possible, go to the SwitchBot App and delete the paired SwitchBot Remote. Then add it to the App again.
 
-6. If it still doesn't work, please contact us via SwitchBot App → Profile → Feedback. In the feedback ticket, please include the following information so that we can better help.
+6. If it still doesn't work, please provide the following information so that we can better help.
 
 Does the indicator light come on after re-inserting the battery?
 
