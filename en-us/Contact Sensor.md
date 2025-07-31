@@ -58,9 +58,7 @@ Please avoid heat and sunlight during installing. False alarms may occur if inst
 
 5. Please follow the instructions in the app to adjust the installation position and check if there is an improvement.
 
-6. If it still doesn't work, please submit a feedback.
-
-We would appreciate it if you could provide the following information when contacting us.
+6. If it still doesn't work, we would appreciate it if you could provide the following information when contacting us.
 
 Maximum Detection Distance: 5m
 
@@ -115,15 +113,6 @@ This error is typically caused by an outdated firmware version in most cases. Al
 to get bugs fixed.
 
 3. If triggered more than 200 times a day, the battery will last about 3 months.
-
-4. If you receive a low power notification within 3 months of use and trigger less than 50 times a day, please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
 
 
 ---
@@ -187,30 +176,13 @@ Firmware version:
 
 Make sure you have the latest version of SwitchBot app to get bug fixes.
 
-Make sure the Bluetooth of your mobile device is
-
-ON
-
-.
+Make sure the Bluetooth of your mobile device is ON.
 
 Check if the location permission for SwitchBot app is on.
 
-Please place the Contact Sensor within
-
-the Bluetooth range of your phone
-
-.
+Please place the Contact Sensor within the Bluetooth range of your phone.
 
 Place your phone near the Motion Sensor or Contact Sensor and then try it again.
-
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
 
 
 ---
@@ -242,19 +214,7 @@ for SwitchBot app.
 
 3. Remove and reinsert the battery of the Contact sensor, and then follow the instructions in the SwitchBot app to add it again.
 
-4. Press and hold the button on the Contact sensor for
-
-15 seconds
-
-, then follow the instructions in the app to add it again.
-
-5. If it still doesn't work, please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
+4. Press and hold the button on the Contact sensor for 15 seconds, then follow the instructions in the app to add it again.
 
 
 
@@ -457,9 +417,6 @@ When the Contact Sensor recognizes the magnet, it will light up. If it does not 
 
 (2）After applying the tape, press down hard for about 60 seconds to make sure it does not peel off. The adhesive strength of the double-sided tape may not be strong at first, but it will become strong enough after about one day and night.
 
-If you have any other questions, please feel free to contact us anytime via the SwitchBot app feedback. Thank you for your cooperation.
-
-
 
 ---
 ### Introduction about the SwitchBot Contact Sensor Operation in the SwitchBot app
@@ -584,31 +541,18 @@ Related Products: SwitchBot Contact Sensor
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1．Make sure your SwitchBot App version is up to date.
 
-Make sure your SwitchBot App version is up to date.
+2．Make sure SwitchBot Contact Sensor and SwitchBot Hub series have been added to your App.
 
-2．
-
-Make sure SwitchBot Contact Sensor and SwitchBot Hub series have been added to your App.
-
-3．
-
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Contact Sensor:
-
+3．Please follow the steps below to turn on the Cloud Service for your SwitchBot Contact Sensor:
 Launch the SwitchBot App.
-
 Tap the relevant SwitchBot Contact Sensor.
-
 Tap the gear icon at the top right.
-
 In the Settings screen, tap "Cloud Services".
-
 Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
-4．
-
-Method 1: Please follow the steps below to integrate via the Alexa App.
+4．Method 1: Please follow the steps below to integrate via the Alexa App.
 
 Launch the Alexa App and log in.
 
@@ -630,17 +574,11 @@ Tap "Close".
 
 The Alexa App will automatically detect and synchronize with the connected devices.
 
-5．
-
-Method 2: Please follow the steps below to integrate via the SwitchBot App.
+5．Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
 Launch the SwitchBot App and log in.
 
-Tap the relevant SwitchBot
-
-Contact Sensor
-
-.
+Tap the relevant SwitchBot Contact Sensor.
 
 In the Settings screen, tap on "Cloud Services".
 
@@ -651,11 +589,6 @@ Tap "Connect".
 Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -726,11 +659,6 @@ Tap "Connect".
 Enter your Google Home App login ID and password.
 
 The link will be automatically established.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -818,13 +746,6 @@ Please refer to the below picture to install the Contact sensor correctly.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999675656599)
 
-2, If there is no history of the actual state of the device in the history
-
-If the device was successfully added, but there is no history of state changes or execution in the device history, it may be defective.
-
-Please contact our support team through "Feedback" in your app profile. Feedback includes the ability to record your phone screen. Please use it to help us identify the problem quickly. Thank you for your patience.
-
-
 
 ---
 ### The status of my Contact Sensor via my app is different from actually being opened or closed.
@@ -858,19 +779,6 @@ Refer to:
 .
 
 6. Please follow the instructions in the app to adjust the installation position and check if there is an improvement.
-
-If this still doesn't work, please submit feedback using our app for more support. To receive technical help from our support team, follow the steps below:
-
-Open our app > tap
-
-Profile
-
-> select
-
-Feedback
-
-> choose the product you need support for> Specify info to help describe your issue.
-
 
 
 ---
