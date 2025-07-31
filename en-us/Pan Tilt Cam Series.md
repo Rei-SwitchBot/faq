@@ -249,9 +249,6 @@ In case you insist on checking them on your computer, download our recommended p
 
 However, to secure your privacy, decoding or converting the stored media in the microSD Card to other formats is unavailable. All info in the SD card is encrypted by default. SwitchBot also applied financial-grade encryption technology to protect your data on the mobile phone and the network. Your data should belong to you alone.
 
-Should you run into any other problem, feel free to reach your SwitchBot support team in our App Feedback under the Profile section, or reach us with the popup icon on this page.
-
-
 
 ---
 ### Can I Export the Videos Stored in the SwitchBot Pan/Tilt Cam?
@@ -299,9 +296,6 @@ In case you insist on checking them on your computer, download our recommended p
 [https://www.stellarplayer.com/en](https://www.stellarplayer.com/en)
 
 However, to secure your privacy, decoding or converting the stored media in the microSD Card to other formats is unavailable. All info in the SD card is encrypted by default. SwitchBot also applied financial-grade encryption technology to protect your data on the mobile phone and the network. Your data should belong to you alone.
-
-Should you run into any other problem, feel free to reach your SwitchBot support team in our App Feedback under the Profile section, or reach us with the popup icon on this page.
-
 
 
 ---
@@ -448,14 +442,11 @@ To test the bandwidth: visit
 
 and check whether your download and upload speeds are both greater than 1Mbps.
 
-7. If it doesn't help, contact us by tapping [Profile] > Feedback in SwitchBot App, and provide the info below:
+7. If it doesn't help, please provide the info below:
 
 SN code on the bottom of camera
 
 Device ID: SwitchBot app home page > tap the device > tap [Settings] in the upper right corner > Tap [Device Info]
-
-After receiving the feedback ticket, we will analyze your question as soon as possible. You can also contact our customer support team by phone, live chat, etc.
-
 
 
 ---
@@ -671,17 +662,6 @@ Release the needle.
 
 After you hear the startup sound, proceed to add the camera to your SwitchBot account.
 
-If you encounter other issues, please contact us by clicking
-
-Profile Page
-
-and selecting
-
-Feedback
-
-when using our app.
-
-
 
 ---
 ### How do I reset my Pan/Tilt Cam 2K?
@@ -741,7 +721,7 @@ To test your bandwidth: visit
 
 and see whether your download and upload speeds are both greater than 1Mbps.
 
-7.  If the issue persists, contact us by tapping [Profile] > Feedback in SwitchBot App, and provide the info below:
+7.  If the issue persists, please provide the info below:
 
 SN code on the bottom of the device
 
@@ -752,9 +732,6 @@ The time when you have the issue
 Screenshots or videos describing your problem, if possible.
 
 We will start with the required info provided and come back to you as soon as possible.
-
-If you run into any other problem, feel free to reach your SwitchBot support team in our App Feedback under the Profile section or reach us with the popup icon on this page.
-
 
 
 ---
@@ -933,8 +910,6 @@ You can choose "Show events only" or "Show images and events" independently.
 
 With the settings in steps 3 and 4, you will receive notifications on your smartphone when motion is detected.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -977,8 +952,6 @@ a HUAWEI smartphone, the order may look like this: Settings > Mobile Network > P
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998138776087)
 
 2-2. Using an iOS device, the only way to check the MAC address is to connect the Pan/Tilt Cam 2K to an Android device or PC running Windows 10 or later, since there is no 'Connected devices' item when using iPhone tethering. Please accept our apologies for any inconvenience.
-
-3. We have improved MAC addresses to be written on the devices themselves. Please contact us through the SwitchBot app under Profile > Feedback if you have any questions.
 
 
 
@@ -1406,7 +1379,7 @@ If conditions permit, temporarily turn off the Wi-Fi router to avoid interferenc
 
 8. Repeat step 5.
 
-9. If it still doesn't work, please contact us by clicking "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+9. If it still doesn't work, please provide the following information:
 
 App screenshots or videos when the adding process goes wrong
 
@@ -1415,8 +1388,6 @@ When did the problem first occur
 When did you perform step 5
 
 When did you perform step 7
-
-After receiving the feedback ticket, we will analyze your question as soon as possible. You can also contact our customer support team by phone, live chat, etc. after step 8.
 
 
 
@@ -1455,13 +1426,7 @@ SwitchBot Pan/Tilt Cam 2K: V33.9.14 or newer.
 
 7. If you are using Dark mode, please turn off the Dark mode and then try to add it again.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+If it doesn't work, Please describe the issue in detail (with media if needed) as follows:
 
 App screenshots when the adding process goes wrong
 
@@ -1470,9 +1435,6 @@ When did the problem first occur
 When did you perform step 6
 
 What environment and lighting conditions is the camera used in
-
-After receiving the feedback ticket, we will analyze your problem as soon as possible. You can also contact our customer support team by phone, live chat, etc.
-
 
 
 ---
@@ -1491,10 +1453,6 @@ Refer to:
 [How to Reset the SwitchBot Pan/Tilt Cam](https://support.switch-bot.com/hc/en-us/articles/6040092646807)
 
 3. If the camera still fails to be connected, please try to uninstall the current SwitchBot app and update to the latest version of the SwitchBot App.
-
-4. If it still doesn't work, please contact us by clicking "Profile Page" - "Feedback" in the SwitchBot App.
-
-You can also contact our customer support team by phone, live chat, etc. after step 4.
 
 For other issues during the process of adding a camera device, see also:
 
@@ -1738,9 +1696,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K Google Home Setup Guide
@@ -1807,9 +1762,6 @@ App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Switchbot Pan/Tilt Cam 2K Infrared Wavelength in Night Vision Mode
@@ -1842,21 +1794,6 @@ Related Products: SwitchBot Indoor Cam, SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K,
 3. If you select the two-way call in the detailed settings, the call button will become a phone mark, and you can talk forever by pressing it once. When you want to end the call, press the phone mark again. (The phone mark turns blue during a call.)
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002275968151)
-
-4. If you cannot change the talk mode, please submit a feedback ticket on SwitchBot App, and our tech support will provide you with professional help.
-
-Note: One-way call is only supported in Google Home, while a two-way call is only supported in Alexa App.
-
-And this applies to our
-
-SwitchBot Indoor Cam
-
-,
-
-Pan/Tilt Cam
-
-, Pan/Tilt Cam(2K/3MP), and Outdoor Spotlight Cam.
-
 
 
 ---
@@ -1989,7 +1926,7 @@ SwitchBot App version: 6.10 or newer
 
 [How to Reset the SwitchBot Pan/Tilt Cam](https://support.switch-bot.com/hc/en-us/articles/6040092646807)
 
-4. If it still doesn't work, please contact us by clicking "Profile Page" - "Feedback" in the SwitchBot App, and provide the following information:
+4. If it still doesn't work, please provide the following information:
 
 - App screenshots or videos when the adding process goes wrong
 
@@ -1998,9 +1935,6 @@ SwitchBot App version: 6.10 or newer
 - When did you perform step 3
 
 - (Optional) A video showing the behavior of the indicator light
-
-After receiving the feedback ticket, we will analyze your question as soon as possible. You can also contact our customer support team by phone, live chat, etc. after completing step 4.
-
 
 
 ---
@@ -2014,12 +1948,7 @@ SwitchBot Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K(3MP), Outdoor Spotlight Cam
 
 Since the camera series products operate while constantly energized, it is natural to expect the camera series products to generate heat. The temperature of the product usually does not exceed 45°C (45°F), but there is no need to worry about a thermal runaway or other problems.
 
-If you are concerned about abnormal heat generation,
-
-please contact us by logging into the SwitchBot App → Profile → Feedback.
-
 *If night vision is turned on constantly, it can cause high fever, and at such times it is recommended to turn off the night vision.
-
 
 
 ---
@@ -2094,7 +2023,7 @@ Type-C
 
 [How do I reset my Pan/Tilt Cam 2K? ](https://support.switch-bot.com/hc/en-us/articles/12317627234455)
 
-4. Please contact us if the problem persists by logging into the SwitchBot app > Profile > Feedback. Whenever you contact us, we would appreciate if you could provide us with the following information.
+4. we would appreciate if you could provide us with the following information.
 
 Video that doesn't turn on when plugged in
 
@@ -2162,8 +2091,6 @@ iOS
 8. It’s important to determine where the issue occurs. Are notifications missing from the SwitchBot App's notifications (left figure), or are they not showing up as push notifications on your phone (right figure)? Understanding this helps us diagnose the issue better.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/27102484038039)
-
-9. If the above does not solve the problem, please log in to the SwitchBot App → Profile → Feedback and contact us. Our technical team will investigate.
 
 
 
@@ -2274,16 +2201,13 @@ storage capacity left. If not, please go to the local storage setting page of th
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002275774487)
 
-7. If the recording button still cannot be turned on, please contact us by clicking [Profile Page]-[Feedback] in the SwitchBot App, and provide the following specifications:
+7. If the recording button still cannot be turned on, please provide the following specifications:
 
 SD card manufacturer.
 
 SD card capacity.
 
 Purchase link for SD card.
-
-After receiving the feedback ticket, we will solve your problem as soon as possible. You can also contact our customer support team by phone, live chat, etc.
-
 
 
 ---
@@ -2317,7 +2241,7 @@ and see whether your download and upload speeds are both greater than 1Mbps.
 
 7. Adjust the video streaming mode from HD to SD, and see whether you still have the problem.
 
-8. If the issue persists, contact us by tapping [Profile] > Feedback in SwitchBot App, and provide the info below:
+8. If the issue persists, please provide the info below:
 
 SN code on the bottom of the device
 
@@ -2328,8 +2252,6 @@ The time when you have the issue
 Screenshots or videos describing your problem, if possible.
 
 We will start with the required info provided and come back to you as soon as possible.
-
-If you run into any other problem, feel free to reach your SwitchBot support team in our App Feedback under the Profile section or reach us with the popup icon on this page.
 
 
 
@@ -2516,8 +2438,6 @@ For the best experience when watching live videos, we recommend using a stable W
 - Tap basic settings.
 - Tap personalized recommandations.
 - Switch On to Off.
-
-3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 
 ---
