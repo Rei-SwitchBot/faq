@@ -46,7 +46,7 @@ We currently have no plans to sell the Roller Shade body separately. We apologiz
 ### Is It Possible to Purchase the Fabric for SwitchBot Roller Shade Separately?
 
 Related Product: SwitchBot Roller Shade
-Currently, we do not have plans to sell Roller Shade fabric separately. However, if you require it, please contact us via SwitchBot App -> Profile -> Support ->Feedback. Our customer team will assist you in arranging the purchase, including providing pricing information.
+Currently, we do not have plans to sell Roller Shade fabric separately.
 
 Related Post: What Is the Recommended Length for Customizing SwitchBot Roller Shade Fabric?
 
