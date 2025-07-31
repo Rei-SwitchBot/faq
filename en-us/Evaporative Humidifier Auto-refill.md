@@ -58,10 +58,6 @@ Follow the instructions in the App for regular maintenance.
 
 Note: The care indicator on the device body of the SwitchBot Evaporative Humidifier will automatically light up after approximately 240 hours of use of the filter. After cleaning the filter, such as by washing it with water, please reset the usage time in the SwitchBot App → SwitchBot Evaporative Humidifier → Care and Maintenance→ Filter.
 
-3．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -210,8 +206,6 @@ The S10 will automatically move to the Evaporative Humidifier (Auto-refill) and 
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26636374485527)
 
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 Related Post:
 
 [Can the Auto-Refill Function of SwitchBot Evaporative Humidifier (Auto-Refill) Be Used When Cleaning the Floor With a Cleaning Solution Using S10?](https://support.switch-bot.com/hc/en-us/articles/25796407294871)
@@ -285,10 +279,6 @@ Note: Only one SwitchBot Meter device can be registered to one SwitchBot Evapora
 
 After pairing, the operation screen of the SwitchBot Evaporative Humidifier will display the comfort level of humidity. You will also be able to use the "Auto" and "Humidity" modes. Moreover, the SwitchBot Evaporative Humidifier will automatically stop operating two minutes after reaching the set target humidity level.
 
-5．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -324,15 +314,7 @@ Tap "Save".
 
 *
 
-Related Post
-
-：
-
-[How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
-
-4．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+Related Post：[How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
 
 
 
@@ -407,9 +389,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Evaporative Humidifier Google Home Setup Guide
@@ -474,9 +453,6 @@ App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Evaporative Humidifier Setup
@@ -514,11 +490,6 @@ A screen will appear indicating the device is connecting.
 Once the device connection is complete, enter the Wi-Fi SSID and password, then tap "Next". (Only supports 2.4GHz Wi-Fi)
 
 After the network connection is complete, tap "Finish".
-
-4．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -589,7 +560,7 @@ video:https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view
 ![image](https://github.com/user-attachments/assets/77ee5c20-d6e8-4ce8-816b-75f1111e4926)
 8. Please note that placing the humidifier at an angle of more than 8 degrees, as shown in the diagram, can cause water leakage. Be mindful of this during daily use.
 ![image](https://github.com/user-attachments/assets/288d7903-19c0-489b-ab92-58bd564da24e)
-9. If the issue persists after completing the checks above, please contact us via SwitchBot App -> Profile -> Support ->Feedback, and providing the following information:
+9. If the issue persists after completing the checks above, please provide the following information:
 
 Results of the 8 checks above
 Duration of product usage
@@ -644,7 +615,7 @@ If you have already provided this information, our team will review it and follo
 4. Restart your Wi-Fi router.
 5. If you have another smartphone available, try updating the firmware using that phone.
 6. Check if the device firmware can be updated using your smartphone’s tethering (hotspot) connection.
-7. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will escalate the matter to our R&D team for further analysis.
+
 
 ---
 ### Troubleshooting There Is A Lot of Mold on the Fan Propeller of My Evaporative Humidifier
@@ -681,7 +652,7 @@ The filter frame has a built-in magnet that helps the humidifier detect whether 
 - Use a metal object, such as a small iron rod or any magnetic material, to touch the marked area on the frame (see image below).
 ![image](https://github.com/user-attachments/assets/29f7dc2b-bea6-4675-8203-1759a0a12d82)
 
-If the magnet is not responsive, the sensor may not be properly installed in the filter frame. Please contact us through the SwitchBot App (Profile → Help & Feedback → Submit Feedback) to request a replacement filter frame. Our support team will arrange a new one for you.
+If the magnet is not responsive, the sensor may not be properly installed in the filter frame. Our support team will arrange a new one for you.
 If the magnet is present and responsive, there may be an issue with the humidifier itself.  In this case, a device replacement may be needed. To expedite the process, please provide the following details:
 - Purchase channel
 - Order ID
@@ -777,7 +748,7 @@ If you have already provided this information, our team will review it and follo
 1. Pull out the water tray and reinsert it securely. Check if the humidifier starts working properly and the filter begins absorbing water.
 ![image](https://github.com/user-attachments/assets/e308858a-8058-4b24-96fc-2804741bef5b)
 
-2. Remove the plastic tube from the filter frame, then install the frame without the filter and run the Evaporative Humidifier for at least 10 seconds. If water flows from the water pump, it indicates an issue with the filter frame. In this case, please contact support through the SwitchBot App (Profile → Support → Feedback) to request a replacement for the filter frame.
+2. Remove the plastic tube from the filter frame, then install the frame without the filter and run the Evaporative Humidifier for at least 10 seconds. If water flows from the water pump, it indicates an issue with the filter frame. In this case, please contact support through the SwitchBot App to request a replacement for the filter frame.
 ![image](https://github.com/user-attachments/assets/7694c7a6-f48d-47d5-8e65-cf93d4dc44c0)
 
 3. If no water flows, refer to video 1 to remove the water pump, thoroughly clean each part based on video 2, and reassemble it.
@@ -813,9 +784,9 @@ video: https://www.youtube.com/shorts/6lMBBJre9zw
 
 ![image](https://github.com/user-attachments/assets/639af7eb-c299-4928-a4d8-39710dd3bfa5)
 
-Note: If the rubber ring is not included in the package, please contact us via SwitchBot App -> Profile -> Support ->Feedback. Our support team can arrange for a replacement.
+Note: If the rubber ring is not included in the package, our support team can arrange for a replacement.
 
-3. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide a video that captures the sound of water flowing from the humidifier. This will help our R&D team investigate the matter further.
+3. If the issue persists, please provide a video that captures the sound of water flowing from the humidifier. This will help our R&D team investigate the matter further.
 
 
 
