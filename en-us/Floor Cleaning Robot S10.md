@@ -201,8 +201,6 @@ Tap "Firmware & Battery" in Settings screen.
 
 Battery level of the robot S10 and water station can be checked.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -245,8 +243,6 @@ Mapping Method:
 Fast mapping (maps are created without cleaning)
 
 Map and Clean (the S10 will clean your home while mapping)
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -304,8 +300,6 @@ The S10 will automatically move to the Evaporative Humidifier (Auto-refill) and 
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26636176753047)
 
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 Related Post:
 
 [Can the Auto-Refill Function of SwitchBot Evaporative Humidifier (Auto-Refill) Be Used When Cleaning the Floor With a Cleaning Solution Using S10?](https://support.switch-bot.com/hc/en-us/articles/25796407294871)
@@ -349,8 +343,6 @@ The selected room will be marked as a tatami area, then tap "<" icon in the uppe
 
 After completing the setup, your robot will avoid mopping the designated tatami area.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -385,8 +377,6 @@ Tap the names of adjacent rooms.
 Tap the green check mark.
 
 Tap "OK"
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -506,8 +496,6 @@ Tap the already set No-go Zone in step 3 to edit or delete it.
 
 Once a No-go Zone is set, S10 robot will not go to that area in either the vacuum & mop mode or the vacuum mode.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -542,8 +530,6 @@ Tap "Drying time".
 Set the mop drying time as required.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25852575652631)
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -606,8 +592,6 @@ Tap "Mark".
 
 The S10 will automatically move to the water station and mark it.
 
-5. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -645,8 +629,6 @@ Tap green check mark to save.
 
 Note: You can re-edit or delete the virtual wall by tapping the line again in the order of step 3.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -681,8 +663,6 @@ Enable "Dampen Mop"
 Disable "Auto-cleaning"
 
 Set up a room-by-room cleaning or area-by-area cleaning to meet your needs
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Support >Feedback.
 
 
 
@@ -719,8 +699,6 @@ Set the dust collection frequency as required.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25824929835159)
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -753,8 +731,6 @@ Tap "Split Room"
 Tap the target room then adjust the line that appears to split one room into two.
 
 Tap the check mark to save it.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -860,8 +836,6 @@ Tap the "Start Cleaning" button at the bottom center of the screen.
 The S10 robot will start cleaning the specified room.
 
 Note: If multiple rooms are selected, a number will appear to indicate the order in which they have been selected for cleaning. The cleaning will then be performed in that order.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -1030,8 +1004,6 @@ cleaning area
 Save
 
 By tapping "cleaning area", switch Full house to Room, then select the target room on the map and tap the check mark in the upper right corner.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -1255,8 +1227,6 @@ SwitchBot App Version: 8.8 or newer
 
 6. Gently clean the front docking sensor on the robot S10 with a soft, dry cloth to ensure it is free of dirt or obstructions.
 
-7. If the above does not improve the situation, please contact us with a video of the S10 failing to return automatically via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1305,7 +1275,7 @@ Make sure your SwitchBot App version is up to date.
 
 5. Clean the charging terminals between the S10 main unit and the auto-empty station to ensure a good connection.
 
-6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, please describe the slow charging behavior, such as the percentage increase in battery level after charging for three hours as shown in SwitchBot App.
+6. We will escalate the matter to our R&D team for further investigation. When contacting us, please describe the slow charging behavior, such as the percentage increase in battery level after charging for three hours as shown in SwitchBot App.
 
 
 
@@ -1332,7 +1302,7 @@ SwitchBot App Version: 8.5 or newer
 
 5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
 
-6. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with the information below:
+6. If you have tried the above steps and the issue persists, we will escalate the matter to our R&D team for further investigation. When contacting us, we would appreciate your cooperation in providing us with the information below:
 
 Photo or video of water leak
 
@@ -1398,7 +1368,7 @@ https://support.switch-bot.com/hc/en-us/articles/25122838665111
 
 6. Please go to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery to check for any available updates. If an update is found, please proceed with updating it before trying again.
 
-7. If the above does not improve the situation, please contact us with a video of the S10 failing to recognize the water station via SwitchBot App -> Profile -> Support ->Feedback.
+7. If the above does not improve the situation, please contact us with a video of the S10 failing to recognize the water station.
 
 
 
@@ -1451,9 +1421,6 @@ Important Note:
 When you mark dark-colored areas for cleaning, the cliff sensor sensitivity will decrease.
 
 If you have staircases or other potential hazards nearby, we recommend setting those areas as "No-Go Zones" instead of marking them as dark carpet areas to prevent accidents.
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1741,7 +1708,7 @@ Related Post: How to Re-pair the Floor Cleaning Robot S10 with the Water Station
 
 7. Once docked, make sure the water station's firmware version is up to date. If not, go to SwitchBot App -> Floor Cleaning Robot S10 -> Gear Icon -> Firmware & Battery to update the firmware. 
 
-8. If the above does not improve the situation, please contact us via SwitchBot App -> Profile -> Support ->Feedback. When contacting us, please provide the following information:
+8. If the above does not improve the situation, please provide the following information:
 
 A video of the S10 failing to dock at the water station
 A phone displays the serial number on the back of the water station.
@@ -1846,7 +1813,7 @@ Tips:
   c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 
-7. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
+7. If the above does not improve the situation, we will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
 - A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
 - Photos showing fresh water hose and sewage hose in place
 - How long after using the Water Station is unable to auto-refill
@@ -1966,7 +1933,7 @@ Note: Keep your phone near the robot and don’t leave the page during the updat
 - Restart SwitchBot app.
 - Restart the robot by toggling its power switch.
 - Repeat step 2 several times.
-4. If the issue persists, please contact us via SwitchBot App -> Profile -> Support ->Feedback. We will forward your feedback to our research & development team for further assistance.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Is Not Lowering to Touch the Floor
@@ -2050,7 +2017,7 @@ Regarding this issue, could you please check the following points?
 1. Please note that it typically takes about 3-4 hours to fully charge the S10 from a low battery.
 2. In high or low-temperature environments, the robot will automatically slow down the charging speed to extend battery life. Make sure the robot is being used in an optimal temperature range (0~40℃).
 3. Clean the charging terminals between the S10 main unit and the auto-empty station to ensure a good connection.
-4. If you have tried the above steps and the issue persists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback. We will escalate the matter to our R&D team for further investigation. When contacting us, please describe the slow charging behavior, such as the percentage increase in battery level after charging for three hours as shown in SwitchBot App.
+4. If you have tried the above steps and the issue persists, we will escalate the matter to our R&D team for further investigation. When contacting us, please describe the slow charging behavior, such as the percentage increase in battery level after charging for three hours as shown in SwitchBot App.
 
 
 ---
@@ -2368,7 +2335,7 @@ Water Inlet:
 
 Drainage:
 1. The S10 drainage hose comes with two adapter options, allowing it to connect to φ38~40mm P-Trap pipes.
-2. If your drainage pipe is φ32mm, you will need a special adapter. Please contact us via SwitchBot App -> Profile -> Support ->Feedback to request one.
+2. If your drainage pipe is φ32mm, you will need a special adapter. Please contact us to request one.
 3. The drainage pipe should not be installed higher than 1 meter above the Water Station.
 
 If you have any questions, please contact our support team. When reaching out, provide:
@@ -2601,10 +2568,12 @@ At the current time, the S10 supports a vacuum& mopping mode and a vacuum mode, 
 
 The S10 is equipped with side brushes that effectively clean dust and debris from corners. However, when performing mopping mode, it is unable to mop within approximately 7~12cm of the wall's edge. Manual cleaning may be necessary for these areas.
 
+
 ---
 ### How Much Space from the Edge of the Walls Is Not Going to Be Mopped by SwitchBot Floor Cleaning Robot S10?
 
 The S10 is equipped with side brushes that effectively clean dust and debris from corners. However, when performing mopping mode, it is unable to mop within approximately 7~12cm of the wall's edge. Manual cleaning may be necessary for these areas.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Makes Sound While Operating
@@ -2615,6 +2584,7 @@ We are always working to improve our products based on customer feedback. Your i
 If the noise from your robot seems different from what we’ve described, we would greatly appreciate it if you could provide us with a video capturing the sound. This will allow us to investigate further and offer a suitable solution.
 
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Catches on Rug Tassels or Drags Small Rugs
