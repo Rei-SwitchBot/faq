@@ -112,8 +112,6 @@ Enable Daylight Saving Time and select the time zone (if you have multiple homes
 
 Complete the process.
 
-If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 
 
 ---
@@ -126,8 +124,6 @@ Related Products: SwitchBot Products
 1. Some of our products contain software that is licensed under the GNU General Public License (GPL) , GNU Lesser GeneralPublic License (LGPL) or otherwise.
 
 2. You may obtain the source code of such software and copy, distribute and modify it under the GPL, LGPT or other licenses.
-
-3. If you wish to obtain the GPL, please contact us by logging in to the SwitchBot application → Profile → Help and Feedback → Feedback.
 
 Note: This software is distributed as open source software, but the copyright belongs to the copyright holders listed in the source code. Please note that we will not be able to answer questions about the contents of the source code.
 
@@ -174,9 +170,6 @@ Updated: Feb 19th, 2023
 3. If steps 1 and 2 don't solve the problem, please unlink the Alexa App and try to link (activate the skill) again.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/11589624623895)
-
-4. If the above steps do not solve the problem, please log in to SwitchBot App, tap Profile, and contact us via feedback.
-
 
 
 ---
@@ -238,9 +231,6 @@ Apple WatchOS: 5 or newer
 
 3． If you are using iOS 15 combined with WatchOS8 or earlier versions, please ensure to use SwitchBot App V7.7 or previous editions to utilize the replication feature without any issues.
 
-4． If you have any questions, please log in to the SwitchBot App. Navigate to "Profile", then "Help & Feedback", and finally "Feedback".
-
-
 
 ---
 ### Can Automation Work Before or After Sunrise/Sunset?
@@ -290,17 +280,6 @@ Some customers do not want some of the new features included
 Older models may not work properly with new firmware
 
 Automatic updates may not work on older models
-
-If you would like to request a new firmware version, please log in to our App, go to
-
-Profile
-
-->
-
-Feedback
-
-and leave us a message asking to update your firmware.
-
 
 
 ---
@@ -390,9 +369,6 @@ For appliances added in "Others":
 
 Others appliances could not be controlled by voice command. Simply use the scene feature on SwitchBot APP or IFTTT app.
 
-*If you have any questions or concerns about our devices, please kindly send feedback via the SwitchBot App. We will check it as soon as possible.
-
-
 
 ---
 ### Commands for controlling SwitchBot products with Alexa
@@ -479,42 +455,6 @@ For Indoor Cam:
 "Ok,Google, hide/stop [device name]"
 
 
-
----
-### Contact Support
-
-L
-
-ast Updated：
-
-2024 Oct 21
-
-Consultation before purchasing products
-
-Please submit your feedback through the SwitchBot App so our support staff can provide you with photos and videos. If you are in a hurry, please get in touch with us via chat.
-
-Confirmation of order/logistics progress
-
-We recommend contacting us via chat, as it is the most efficient way to contact us.
-
-Settings/Troubleshooting
-
-Since operation logs from the SwitchBot App are required, please submit feedback from the SwitchBot App before contacting us by phone. In some cases, we will coordinate the feedback we receive from our customers with our technical team.
-
-Chat entrance
-
-If you head to
-
-[official support page](https://support.switch-bot.com/hc/en-us)
-
-, a red "Support" will appear in the bottom right corner. Please click on it to chat.
-
-How to submit feedback
-
-Please log in to the SwitchBot App → Profile → Support → Feedback.
-
-
-
 ---
 ### Control SwitchBot Scene with Siri Shortcuts
 
@@ -570,8 +510,6 @@ Tap "Save".
 The copied Scene/Automation will appear in the Manage Scenes/My Automation screen. (The name of the copied Scene/Automation will be displayed as "XXX-copy").
 
 If necessary, you can edit the name and the content of the copied Scene/Automation again.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 *Related Posts：
 
@@ -1028,14 +966,7 @@ To use the "When I Arrive (Beta)" and "When I Leave (Beta)" features, you need t
 
 will not be triggered by the movements of home members. Only the movements of the owner are considered.
 
-8． At the moment,
-
-the "When I Arrive (Beta)" and "When I Leave (Beta)" features are
-
-available as a beta version and may have some instability in their operation. Please understand this.
-
-9． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
+8． At the moment, the "When I Arrive (Beta)" and "When I Leave (Beta)" features are available as a beta version and may have some instability in their operation. Please understand this.
 
 
 ---
@@ -1261,9 +1192,6 @@ Note:
 
 If certain features like remote locking, unlocking, or adjusting the camera’s Privacy Mode aren’t accessible for home members or members with limited permissions, updating their role to "Admin" can provide full access.
 
-3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### How to Change the Password for My SwitchBot Account?
@@ -1279,9 +1207,6 @@ SwitchBot App Version: 7.4 or newer
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999675571991)
 
 2． While using the SwitchBot App, you have the option to modify or reset your password. To do so, navigate to "Profile", select "Account and Security", and then choose "Change Password".
-
-3． If you require assistance with password modification, kindly log in to the SwitchBot application. Navigate to your profile, select "Help&Feedback", then get in touch with us through your feedback.
-
 
 
 ---
@@ -1320,10 +1245,7 @@ Tap "..." in the upper right corner of the Automation screen
 
 Tap Automation Logs
 
-A list of the history will appear
-
-3. If you have any questions, please log in to the SwitchBot App → Profile → Help and Feedback → Feedback.
-
+A list of the history will appear.
 
 
 ---
@@ -1477,8 +1399,6 @@ section.
 
 Save.
 
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 *Related Posts：
 
 [Where Can I Locate the Automation That I Previously Set Up](https://support.switch-bot.com/hc/en-us/articles/19568943910167)
@@ -1529,8 +1449,6 @@ Add an action.
 Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
 
 Save
-
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 *Related Posts：
 
@@ -1597,9 +1515,6 @@ SwitchBot App Version: 6.26 or newer
 3. Tap "Delete Account".
 
 4. Once you tap the red "Delete Account" button, an authorization code will be sent to your email address. If you change your mind, you have 24 hours to withdraw your deletion request.
-
-5. If you are unable to submit a deletion request directly from the app, please log in to the SwitchBot app → Profile → Help and Feedback → Feedback.
-
 
 
 ---
@@ -1685,21 +1600,7 @@ Tap "Manage Scenes".
 
 You'll see a list of all the Scenes you've created.
 
-Tap the blue thunderbolt
-
-icon
-
-next
-
-to
-
-the desired Scene item
-
-to
-
-activate the Scene.
-
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+Tap the blue thunderbolt icon next to the desired Scene item to activate the Scene.
 
 *Related Posts：
 
@@ -1745,11 +1646,6 @@ Set any other desired conditions and the actions you plan to execute, then save.
 *Related Posts：
 
 [How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
-
-3．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1850,9 +1746,6 @@ Notes:
 * Please allow the SwitchBot App to access the location info on your phone settings.
 
 * Usually, the automation when sunrise/sunset will trigger according to the location setting, but there might be differences in different time zones even using the same location. For example, sunrise could be at a different time on CST/EST if the location is simply set up to be United States.
-
-* If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -2052,9 +1945,6 @@ Tap on the gear icon at the top right.
 
 Turn on "App Notifications".
 
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Turn On/Off Dismantling Alarms For SwitchBot Outdoor Spotlight Cam
@@ -2115,12 +2005,7 @@ Dismantling Alarms
 
 in the same order.
 
-5．
-
-With the settings in steps 3 and 4, you will receive notifications on your smartphone when SwitchBot Outdoor Spotlight Cam is removed.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
+5．With the settings in steps 3 and 4, you will receive notifications on your smartphone when SwitchBot Outdoor Spotlight Cam is removed.
 
 
 ---
@@ -2185,9 +2070,6 @@ You can choose "Show events only" or "Show images and events" independently.
 5．
 
 With the settings in steps 3 and 4, you will receive notifications on your smartphone when motion is detected.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -2255,9 +2137,6 @@ You can choose "Show events only" or "Show images and events" independently.
 
 With the settings in steps 3 and 4, you will receive notifications on your smartphone when motion is detected.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Update the Firmware Version
@@ -2281,8 +2160,6 @@ How to enable Home Status: SwitchBot App → Home screen → Tap "..." in the up
 3. Method 2: SwitchBot App → tap the relevant device → tap the gear icon in the upper right corner → tap the "Firmware & Battery" item in the settings screen → tap the blue "New firmware available".
 
 Note:
-
-For new firmware, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 Please keep your smartphone and device close together when updating.
 
@@ -2337,9 +2214,6 @@ Save.
 
 3． After the automation is saved, it will execute automatically whenever the corresponding NFC tag comes into proximity with the device.
 
-4． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Use SwitchBot Points?
@@ -2360,7 +2234,7 @@ SwitchBot App Version: 8.6.1 or newer
 
 [official website](https://www.switch-bot.com/pages/switchbot-points)
 
-for details on how to link your account and redeem points. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+for details on how to link your account and redeem points.
 
 
 
@@ -2477,9 +2351,6 @@ Tap Scene Logs
 
 A list of the history will appear
 
-3. If you have any questions, please log in to the SwitchBot App → Profile → Help and Feedback → Feedback.
-
-
 
 ---
 ### How to control SwitchBot products via IFTTT?
@@ -2564,9 +2435,6 @@ And then choose the device that you want to control.
 Bingo! Now you are able to control SwitchBot or your home appliances directly from your home screen.
 
 ![Image](https://static.wixstatic.com/media/e56c6d_ab4e2f7ff887454da07ad4f406b0d97b~mv2.jpg/v1/fill/w_450,h_950,al_c,q_90,usm_0.66_1.00_0.01/e56c6d_ab4e2f7ff887454da07ad4f406b0d97b~mv2.jpg)
-
-If you have any further suggestions about this function, feel free to send a message via the "Feedback" section in-app.
-
 
 
 ---
@@ -2656,7 +2524,7 @@ Reminders:
 
 You can control the SwitchBot Bot in the SwitchBot App without using a SwitchBot account. For other SwitchBot products, we recommend creating a SwitchBot account. In case of any firmware glitch, we can send the firmware upgrade to your account.
 
-If you met any problems when using our products, please kindly go to the profile page to submit a feedback ticket. If preferable, please help attach a relevant screen recording.
+If you met any problems when using our products, please help attach a relevant screen recording.
 
 We will follow up with the ticket and send you assistance accordingly.
 
@@ -2735,7 +2603,7 @@ SwitchBot App Version: V6.20 or newer
 
 1. Make sure you have the latest version of the SwitchBot App.
 
-2. Please log into the SwitchBot App, go to your Profile, and contact us via Feedback. Please provide us with a detailed description of your problem so that we can investigate. Thanks for your cooperation.
+2. Please provide us with a detailed description of your problem so that we can investigate. Thanks for your cooperation.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12828325109783)
 
@@ -2789,10 +2657,6 @@ SwitchBot App Version: 6.26.1 or newer
 You can contact us again via online chat.
 
 If you have provided us with your e-mail address at the time of your last inquiry, please contact us again with the same e-mail address. You can check your chat history.
-
-2. You can contact us with feedback.
-
-If necessary, please log in to the SwitchBot application→Profile→Help and Feedback→Feedback.
 
 
 
@@ -3095,8 +2959,6 @@ Tap the "⋮" in the upper right corner
 Select the feedback you wish to delete and click "Delete"
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25991474859799)
-
-4.  For any questions, please log into the SwitchBot app→Help and Feedback→Feedback.
 
 
 
@@ -3782,7 +3644,7 @@ To utilize the SwitchBot App version 7.9 or later, please ensure that your iOS d
 
 1． Please ensure to update your device to iOS 14 or a later version.
 
-2． If you own an iOS device that is unable to upgrade to iOS 14, we offer a TestFlight version as a solution. To access it, please sign in to the SwitchBot app, navigate to "Profile", then "Help & Feedback", and finally select "Feedback". Keep in mind that using an app version lower than V7.8.1 may impact the compatibility with new products in the future.
+2． If you own an iOS device that is unable to upgrade to iOS 14, we offer a TestFlight version as a solution. Keep in mind that using an app version lower than V7.8.1 may impact the compatibility with new products in the future.
 
 iOS Devices Impacted:
 
@@ -3884,38 +3746,7 @@ Note：
 
 ※You must be authorized within the SwitchBot App to receive push notifications.
 
-※Please ensure that you receive notifications by doing the following: Open the SwitchBot App, go to "
-
-Profile"
-
-,
-
-then
-
-"
-
-Preferences"
-
-,
-
-select
-
-"
-
-App Notifications"
-
-, and
-
-enable
-
-"
-
-Allow Notifications"
-
-.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
+※Please ensure that you receive notifications by doing the following: Open the SwitchBot App, go to "Profile", then "Preferences", select "App Notifications", and enable "Allow Notifications".
 
 
 ---
@@ -3964,9 +3795,6 @@ Android
 ※Related Posts:
 
 [What Should I do if I cannot view the SwitchBot Indoor Cam via My Phone by Using Mobile Data?](https://support.switch-bot.com/hc/en-us/articles/9429708440599-Indoor-cam%E6%97%A0%E6%B3%95%E8%BF%9E%E6%8E%A5%E8%AE%BE%E5%A4%87)
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -4139,7 +3967,7 @@ Please inspect your order as soon as you receive it. We always do our best to d
 
 2. Malfunction or Serious Product Quality Issues.
 
-Please read the Manual first before you set up and use your product. In the meantime, you can refer to the FAQ page of our official website or ask for assistance via “Feedback” via the SwitchBot App. If you have encountered malfunction or product quality issues that affect the use of your product, please contact us within 30 days of receipt of shipment.
+Please read the Manual first before you set up and use your product. If you have encountered malfunction or product quality issues that affect the use of your product, please contact us within 30 days of receipt of shipment.
 
 *Note: Any item that is damaged through customer misuse or is missing parts due to customer tampering cannot be returned or refund.
 
@@ -4277,22 +4105,11 @@ You must specify in detail the reason for your exchange request. Any missing or 
 
 4. Subject to availability and where applicable, replacement SwitchBot products will be shipped within 3 business days following our receipt of your return. SwitchBot will be responsible for the cost of shipping replacement products back to you.
 
-… A
-
-n
-
-d here’s the small print.
+… And here’s the small print.
 
 1. SwitchBot reserves the right to modify, suspend, or terminate this Return Policy at our discretion. Any change to this Policy applies to orders placed after modifications get posted.
 
 2. Kickstarter or Indiegogo backers should note that separate criteria apply according to the Kickstarter/Indiegogo Terms of Use.
-
-3. If your request does not meet all of the above criteria but you still want to make a request, please contact us at
-
-[support@switch-bot.com](mailto:support@switch-bot.com)
-
-or via the “Feedback” section on the SwitchBotapp. Under certain circumstances, and at our discretion, we may still be able to proceed with your request.
-
 
 
 ---
@@ -5654,13 +5471,6 @@ Turn on "Keypad Removal Alerts" by going to SwitchBot App → relevant SwitchBot
 
 With the settings in steps 3 and 4, when the SwitchBot Keypad/Keypad Touch is removed, the device itself will emit a beep sound, and a push notification will be sent to your smartphone indicating that it has been removed.
 
-6．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
 
 ---
 ### SwitchBot Lock/Lock Pro Alerts Feature
@@ -5722,13 +5532,6 @@ Note：
 For iOS devices, if you're using the SwitchBot App and don't receive notifications at the set time, it's not a bug. This is due to a limitation with the iOS system: notifications won't be delivered if you are actively using the SwitchBot App at the time the notification is scheduled to be sent. iOS only sends app notifications when the app is running in the background or the device is locked, among other conditions. So, if you remain in the SwitchBot App when the conditions for a notification are met, you will not receive the notification.
 
 There are no such restrictions for Android devices.
-
-6．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -9121,9 +8924,6 @@ Tap the "Automation" button located at the center of the bottom menu.
 
 The Automation you have created will be displayed in a list.
 
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Where Can I Find Scene That Have Already Been Created?
@@ -9145,9 +8945,6 @@ On the Home page, tap the '...' icon located in the upper-right corner.
 Tap "Manage Scenes".
 
 You will be presented with a list of scenes that have already been created.
-
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -9204,9 +9001,6 @@ to manage the Alexa skills and devices.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002105707671)
 
-If the issue still exists, please send feedback via the SwitchBot App and our tech team will check it for you directly.
-
-
 
 ---
 ### Why Can't I Integrate SwitchBot with Home Assistant?
@@ -9241,9 +9035,6 @@ Sometimes the Google Assistant fails to control the SwitchBot devices anymore wh
 5. Tap the SwitchBot Smart Home service and then tap Reconnect account to renew the connection.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998228339863)
-
-If the Google Home App or devices still can not control the SwitchBot devices, please send feedback via the SwitchBot App and our tech team will check it for you directly.
-
 
 
 ---
@@ -9331,10 +9122,7 @@ Please confirm whether the SwitchBot account bound in Alexa Echo/Google Home has
 
 One Alexa Echo/Google Home account can only be bound to one APP account, an error will be reported if the binding is repeated
 
-).
-
-If the issue still can not be solved, please submit feedback in our app, we will let the technical staff find the cause of the problem and help you solve it.
-
+)
 
 
 ---
