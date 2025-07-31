@@ -459,10 +459,6 @@ For customers using the Universal Remote without the Hub
 
 , we have exclusive discounts on the SwitchBot Hub for you. Please contact our customer support team for details.
 
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -533,10 +529,6 @@ Note: If you are using a Bluetooth remote other than Fire TV, Apple TV, Chromeca
 ![image](https://github.com/user-attachments/assets/26075d2e-55d7-4c58-a26d-e1da680e2b68)
 
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
-
 ---
 ### How to Add SwitchBot Scenes to SwitchBot Universal Remote?
 
@@ -563,8 +555,6 @@ Tap + icon next to the target scene.
 Tap "Save" in the upper right corner.
 
 A message saying "Save successful" will be displayed.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 Note: A SwitchBot Hub is required to manage SwitchBot scenes with the SwitchBot Universal Remote.
 
@@ -602,9 +592,6 @@ Tap "Device Settings".
 Disable Auto-Brightness.
 
 Adjust the screen brightness and button brightness as needed.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -647,9 +634,6 @@ Enable touch wheel.
 
 When the touch wheel is enabled, you can scroll down and up a list by using it.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Import Existing Infrared Remotes Learned by SwitchBot Hub to SwitchBot Universal Remote?
@@ -681,8 +665,6 @@ Select the IR remotes you want to control by Universal Remote, then tap "Batch a
 Synchronization settings will be performed automatically.
 
 Once synchronization is finished, the infrared remote will be displayed on the screen of Universal Remote.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -719,8 +701,6 @@ Synchronization settings will be performed automatically.
 
 Once synchronization is finished, the devices will be displayed on the screen of Universal Remote.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 Related Post:
 
 [Devices Are Compatible with SwitchBot Universal Remote](https://support.switch-bot.com/hc/en-us/articles/23497233642135)
@@ -749,9 +729,6 @@ Firmware Version: 4.0 or newer
 Note:
 
 If you can't find SwitchBot-XXXX in order, try going to SwitchBot App > Universal Remote > Manage Devices > + icon in the upper right corner > Third-party Control > Bluetooth Classic > Save > Pairing Now.
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Support >Feedback.
-
 
 
 ---
@@ -843,9 +820,6 @@ If the SwitchBot logo appears on the screen before you add the Universal Remote 
 
 Don't worry about it and proceed with adding the device in step 2.
 
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Infrared Range of SwitchBot Universal Remote
@@ -889,8 +863,6 @@ Firmware Version: 4.0 or newer
 2. Starting with Universal Remote firmware V4.0, you can control the Battery Circulator Fan's speed level, oscillation, night light, etc. Sync your Circulator Fan by going  to SwitchBot App -> Universal Remote -> Manage Devices -> + icon in the upper right corner.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26715812555543)
-
-3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 
 
@@ -1062,8 +1034,6 @@ Related Post:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/27021148958231)
 
-6. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
 
@@ -1157,8 +1127,6 @@ SwitchBot App -> Tap the Universal Remote -> Tap the the newly added third-party
 
 5. With above settings, you can adjust volume and other buttons on your third-party remotes with the Universal Remote.
 
-6. If you have any questions or if you haven't received firmware version 4.0 yet, please contact us via SwitchBot App > Profile > Support >Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -1218,9 +1186,6 @@ Sync the Roku IR (TV) remote to the Universal Remote.
 
 SwitchBot App -> Universal Remote -> Manage Devices > + icon in the upper right corner -> Importing existing appliance -> choose the remote you just learned.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Support >Feedback.
-
-
 
 ---
 ### What to Do If My Newly Received SwitchBot Universal Remote Doesn't Seem to Be Turned on?
@@ -1245,9 +1210,6 @@ After pressing the ON and OFF buttons for 3 seconds, the Universal Remote will e
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/23685029076887)
 
-3. If the issue still exists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### What to Do If My SwitchBot Universal Remote Keeps Freezing?
@@ -1257,9 +1219,6 @@ Last Updated: 2024 May 15
 Related Products: SwitchBot Universal Remote
 
 1. If your Universal Remote including the screen and buttons stops responding, try pressing the reset button with the provided pin for 1 second to reboot it.
-
-2. If the issue still exists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1280,8 +1239,6 @@ SwitchBot App Version: 8.4 or newer
 ![Image](https://support.switch-bot.com/hc/article_attachments/23686122747159)
 
 4. Add your Universal Remote to SwitchBot App again.
-
-5. If the issue still exists, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 ---
