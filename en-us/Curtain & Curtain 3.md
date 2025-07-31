@@ -99,16 +99,6 @@ or newer
 
 2. Make sure the SwitchBot Curtain is added to the SwitchBot App and the firmware version of the Curtain is up to date.
 
-If it is not V4.6 or newer version, please log in to the SwitchBot app → Profile → Feedback, and submit a feedback ticket to ask for the latest firmware upgrade for the Curtain.
-
-3. If the problem persists,  please submit a feedback ticket about this issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
-
-Video of fully open and fully closed
-
-Photo/video showing the gap
-
 
 
 ---
@@ -181,9 +171,7 @@ The indicator will be on for 1 second. Then the SwitchBot Curtain has been reset
 
 5. Retry adding Curtain to your account via another mobile devices if you have one.
 
-6. If it still doesn't work, please contact us via SwitchBot App → Profile → Feedback.
-
-Please provide the following information when contacting us.
+6. If it still doesn't work, please provide the following information when contacting us.
 
 Power on the SwitchBot Curtain with cable.
 
@@ -206,11 +194,9 @@ Firmware Version: 0.9 or newer
 
 1． Make sure your SwitchBot App version is up to date.
 
-2． Make sure SwitchBot Curtain 3 has been added to your App and your device firmware version is up to date. If you need the latest version, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
+2． Make sure SwitchBot Curtain 3 has been added to your App and your device firmware version is up to date.
 
-3．
-
-Unlike SwitchBot Curtains from previous generations, SwitchBot Curtain 3 does not have an integrated light sensor. However, once connected to a SwitchBot Solar Panel, SwitchBot Curtain 3 can utilize the illumination data from the panel to automate its opening and closing functions. Please ensure that SwitchBot Curtain 3 is connected to the SwitchBot Solar Panel before attempting to use the light sensor feature.
+3． Unlike SwitchBot Curtains from previous generations, SwitchBot Curtain 3 does not have an integrated light sensor. However, once connected to a SwitchBot Solar Panel, SwitchBot Curtain 3 can utilize the illumination data from the panel to automate its opening and closing functions. Please ensure that SwitchBot Curtain 3 is connected to the SwitchBot Solar Panel before attempting to use the light sensor feature.
 
 4． Please configure the light sensor to manage the opening and closing in the following order.
 
@@ -238,9 +224,6 @@ Save.
 
 5． You can set up to two Automations open/close actions with the light sensor. Please take note of this limitation.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### Function to pause opening/closing of Curtain device by Remote
@@ -255,7 +238,7 @@ Firmware Version: SwitchBot Curtain V6.0 or newer, Remote V4.5 or newer
 
 1. Make sure you have the latest version of the SwitchBot app.
 
-2. Please make sure that the SwitchBot Curtain/Remote button has been added to the SwitchBot app. For Curtain V6.0/Remote V4.5 or newer, please log in to the SwitchBot app → Profile → Feedback.
+2. Please make sure that the SwitchBot Curtain/Remote button has been added to the SwitchBot app.
 
 *Related Posts:
 
@@ -383,8 +366,6 @@ Tap the gear symbol in the upper right corner.
 
 Tap "Ungroup" at the bottom of the settings screen.
 
-3. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 *Related Posts:
 
 [How to Set Up a Double-Sides Curtains?](https://support.switch-bot.com/hc/en-us/articles/13679679439767-How-to-Set-Up-a-Double-Sides-Curtains?source=search&auth_token=eyJhbGciOiJIUzI1NiJ9.eyJhY2NvdW50X2lkIjo5MTgyMjQzLCJ1c2VyX2lkIjoyMTQ0MjE0MDg1MTM1MSwidGlja2V0X2lkIjo1MjczOTAsImNoYW5uZWxfaWQiOjYzLCJ0eXBlIjoiU0VBUkNIIiwiZXhwIjoxNzExMDIxMTg2fQ.6nKjrkKzbGD6RK84i2RVARLp3D9pFxtsGQKqjFEOJfs)
@@ -509,14 +490,9 @@ or newer
 
 4. After the reset, check if the Curtain can be connected. Once connected, check if the firmware version is the latest.
 
-If it is not V4.6 or newer version, please log in to the SwitchBot app → Profile → Feedback, and submit a feedback ticket to ask for the latest firmware upgrade for the Curtain.
-
-5. If you still cannot connect the Curtain after resetting, please submit a feedback ticket about the connection issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+5. If you still cannot connect the Curtain after resetting, please describe the issue in detail (with media if needed) as follows:
 
 Video of the curtain being held down for more than 45 seconds
-
 
 
 ---
@@ -524,9 +500,7 @@ Video of the curtain being held down for more than 45 seconds
 
 Updated: 2022/12/09
 
-Applicable products:
-
-Curtain U Rail, Curtain I Rail, Curtain Rod
+Applicable products: Curtain U Rail, Curtain I Rail, Curtain Rod
 
 SwitchBot App version:
 
@@ -540,21 +514,11 @@ Please turn off the Bluetooth function inside your smartphone, and turn it on ag
 
 Press and hold the button on SwitchBot Curtain for 45 seconds to perform a hardware reset. Please pay attention to the following:
 
-In the first
+In the first 15 seconds, the indicator light will be blinking.
 
-15 seconds
+Then it will stay on for 10 seconds. When you have pressed for 25 seconds, the indicator light will start to blink again, then it will go off.
 
-, the indicator light will be blinking.
-
-Then it will stay on for
-
-10 seconds
-
-. When you have pressed for 25 seconds, the indicator light will start to blink again, then it will go off.
-
-After 45 seconds,
-
-release your finger.
+After 45 seconds, release your finger.
 
 The indicator will be on for 1 second. Then the SwitchBot Curtain has been reset in the hardware.
 
@@ -562,20 +526,11 @@ After resetting it, re-add SwitchBot Curtain to your account.
 
 You can also try adding SwitchBot Curtain to your account via other mobile devices to troubleshoot.
 
-If it the ahove doesn't work, please contact us via our app →
-
-Profile
-
-→
-
-Feedback
-
-. And provide the following information when contacting us:
+If it the ahove doesn't work, provide the following information when contacting us:
 
 A video of you powering on SwitchBot Curtain with a cable.
 
 A video showing long-pressing of the button found on your SwitchBot Curtain for 45 seconds.
-
 
 
 ---
@@ -931,8 +886,6 @@ You will be prompted to modify the travel distance utilizing two methods: "Smart
 
 Upon adjusting the travel distance, the setup is successfully completed.
 
-4．If you have any questions, kindly follow these steps: open the SwitchBot App, click on "Profile", then "Help&Feedback", and finally select "Feedback".
-
 
 
 ---
@@ -1115,7 +1068,7 @@ Related Products: SwitchBot Curtain 3
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998229039383)
 
-7． We will present you with a video demonstrating how to utilize the product. Should you have any inquiries, kindly log into the SwitchBot app, go to your profile, select "Help&Feedback", and click on "Feedback".
+7． We will present you with a video demonstrating how to utilize the product.
 
 [Embedded Content](//www.youtube-nocookie.com/embed/DyehwIUcb0A)
 
@@ -1235,7 +1188,7 @@ Reference Source: TOSO
 
 [https://www.toso.co.jp/products/c_rail/k_rail/nexty/](https://www.toso.co.jp/products/c_rail/k_rail/nexty/)
 
-3. If you need additional accessories, please contact us by logging into the SwitchBot app > Profile > Feedback. We would appreciate it if you could provide us with the following information when you contact us.
+3. If you need additional accessories, please provide us with the following information when you contact us.
 
 Destination information (your name/phone number/address/zip code is required for shipping)
 
@@ -1330,18 +1283,11 @@ SwitchBot Curtain Firmware Version:V4.6or newer
 
 2. Ensure SwitchBot Curtain is added to your SwitchBot account and your firmware is updated to the latest version.
 
-Should your firmware version be earlier than version 4.6, please go to Profile → Feedback, and submit a feedback ticket to ask for the latest firmware upgrade to be pushed to your account.
-
 3. Remove SwitchBot Curtain from your rail. Go to the secondary control panel and set the SwitchBot Curtain's motion mode to Performance Mode.
 
 4. Go to the settings page and put the Curtain into calibration mode. Tap Open and Close to control the SwitchBut Curtain one after another. When the rubber wheel spins, use a pen or something hard to press against the wheel to see if it can be stopped.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/16361278526231)
-
-Still having issues? Navigate to Profile > tap Feedback > select the product you need support for > describe your issue in detail (with attachments if needed) and inlclude the following:
-
-- A video as mentioned in step 4.
-
 
 
 ---
@@ -1397,9 +1343,7 @@ The indicator will be on for 1 second. Then the SwitchBot Curtain has been reset
 
 5. Retry adding Curtain to your account via another mobile devices if you have one.
 
-6. If it still doesn't work, please contact us via SwitchBot App → Profile → Feedback.
-
-Please provide the following information when contacting us.
+6. If it still doesn't work, please provide the following information when contacting us.
 
 Power on the SwitchBot Curtain with cable.
 
@@ -1549,19 +1493,13 @@ SwitchBot App Version：V7.6 or newer
 
 2. Make sure the SwitchBot Curtain has been added to the SwitchBot App. And please make sure that the firmware version of the Curtain is the latest version.
 
-If it is not V6.0 or later, please contact us by signing in to the SwitchBot App -> Profile -> Feedback.
-
-3. Please contact us by signing into the SwitchBot App → Profile → Feedback so that we can apply for you a special hook wheel for your Curtain.
+3. We can apply for you a special hook wheel for your Curtain.
 
 *Please provide us with the following information when you contact us.
 
 Shipping address information
 
-(
-
-Recipient & phone number & address & zip code
-
-are necessary.)
+(Recipient & phone number & address & zip code are necessary.)
 
 How many U-rail Curtains do you have
 
@@ -1598,8 +1536,6 @@ or newer
 
 2. Make sure the SwitchBot Curtain is added to the SwitchBot App and the firmware version of the Curtain is up to date.
 
-If it is not V4.6 or newer version, please log in to the SwitchBot app → Profile → Feedback, and submit a feedback ticket to ask for the latest firmware upgrade for the Curtain.
-
 3. Each type of SwitchBot Curtain has a different maximum load-bearing capacity. Please refer to the maximum weight of the corresponding Curtain.
 
 Curtain U Rail, up to 8Kg
@@ -1609,8 +1545,6 @@ Curtain I Rail, up to 8Kg
 Curtain Rod, 5Kg-8Kg
 
 4. If you are using the SwitchBot Curtain U Rail 2, please change the wheel into a more suitable one and see if the situation improves.
-
-If you are using the SwitchBot Curtain U Rail (the first generation) or need accessories separately, please log in to the SwitchBot app → Profile → Feedback and ask the support team for help.
 
 5. If you are using the SwitchBot Curtain Rod type, please check the following information to see if the problem is improved.
 
@@ -1626,9 +1560,7 @@ For the back-tab rod curtain, please check the video below.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25991474803479)
 
-7. If the above solution does not improve the situation, please submit a feedback ticket about the running issue.
-
-Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+7. If the above solution does not improve the situation, please describe the issue in detail (with media if needed) as follows:
 
 Detailed dimensions of the rail
 
@@ -1785,10 +1717,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -1862,10 +1790,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -1904,7 +1828,7 @@ Curtain's power is weak or running slowly.
 
 Curtain gets stuck while running.
 
-Please kindly take a video of the Curtain issue and send feedback via the SwitchBot app so that we could solve it for you as soon as possible.
+Please kindly take a video of the Curtain issue so that we could solve it for you as soon as possible.
 
 Caution：
 
@@ -1916,7 +1840,7 @@ One of my Curtain could not run as fast as the others do.
 
 One of the Curtains in the same Curtain group is slower than another one.
 
-Please kindly take a video of the Curtain issue and send feedback via the SwitchBot app so that we could solve it for you as soon as possible.
+Please kindly take a video of the Curtain issue so that we could solve it for you as soon as possible.
 
 If this issue happens in a Curtain group, please switch the two Curtains and see if this was caused by the motor issue.
 
@@ -1932,17 +1856,17 @@ Since the feedback tool limited the size of the video, please try to zip the vid
 
 [https://support.google.com/photos/answer/6131416?co=GENIE.Platform%3DiOS&hl=en&oco=1](https://support.google.com/photos/answer/6131416?co=GENIE.Platform%3DiOS&hl=en&oco=1)
 
-My Curtain could not run to the correct position.
+
+---
+### My Curtain could not run to the correct position.
 
 1. Please check if the firmware of the Curtain is V3.2.
 
 Tap the Curtain icon and then tap more. Then tap the gear icon upright on the page to check the firmware.
 
-If you could not update the firmware, please kindly send feedback via the SwitchBot app so that we could send the upgrade package to you.
-
 2. If you are using two Curtains, please switch the two devices and see if the issue could be fixed.
 
-If this issue could not be fixed, please kindly take a video of the curtain issue and send feedback via the SwitchBot app so that we could solve it for you as soon as possible.
+If this issue could not be fixed, please kindly take a video of the curtain issue so that we could solve it for you as soon as possible.
 
 Caution：
 
@@ -1956,7 +1880,9 @@ Since the feedback tool limited the size of the video, please try to zip the vid
 
 [https://support.google.com/photos/answer/6131416?co=GENIE.Platform%3DiOS&hl=en&oco=1](https://support.google.com/photos/answer/6131416?co=GENIE.Platform%3DiOS&hl=en&oco=1)
 
-The schedule could not work properly.
+
+---
+### The schedule could not work properly.
 
 Q: The schedule will be later or earlier than before.
 
@@ -1964,23 +1890,25 @@ A: Please sync the time of the Curtain every 5 days.
 
 Open the schedule list near the Curtain, and it will sync the time with your phone automatically.
 
-If the Curtain could not work as the schedule set, please send feedback via the SwitchBot app so that we could check it for you as soon as possible.
 
-I can't set up my Curtain.
+---
+### I can't set up my Curtain.
 
 First of all, please check the below article first.
 
 [https://support.switch-bot.com/hc/en-us/articles/360052119093](https://support.switch-bot.com/hc/en-us/articles/360052119093)
 
-If the setup gets stuck in the app, please kindly take a screen recording and send feedback via the SwitchBot app so that we could check it for you.
+If the setup gets stuck in the app, please kindly take a screen recording and send to us.
 
-The Curtain could not fit with my curtain rail.
+
+---
+### The Curtain could not fit with my curtain rail.
 
 First of all, please follow the instructions below to check if your Curtain could be set up from the side.
 
 [https://support.switch-bot.com/hc/en-us/articles/360053996513](https://support.switch-bot.com/hc/en-us/articles/360053996513)
 
-If the Curtain could not be put in the curtain rail, please kindly provide us the measurements as the below picture shows and submit feedback via the SwitchBot app.
+If the Curtain could not be put in the curtain rail, please kindly provide us the measurements as the below picture shows and send to us.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/4406984123287/mceclip0.png)
 
@@ -1988,7 +1916,10 @@ Also, a close picture of the rail or a picture of a cross-section of the rail wo
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/4406708934295/mceclip0.png)
 
-The light sensor does not work. No light sensing data.
+
+
+---
+### The light sensor does not work. No light sensing data.
 
 1. Please check if the sun could provide direct sunlight to the sensor.
 
@@ -1996,15 +1927,13 @@ The light sensor does not work. No light sensing data.
 
 Tap the Curtain icon and then tap more. Then tap the gear icon upright on the page to check the firmware.
 
-If you could not update the firmware, please kindly send feedback via the SwitchBot app so that we could send the upgrade package to you.
-
 Caution：
 
 1. The light-sensing data will show Lv 1 - Lv 2 at midnight. Cloudy days are at about Lv 3 - Lv 4.
 
 2. If a voile is between the Curtain and the window, the light-sensing will be weakened.
 
-If the issue could not be solved, please kindly take a photo of how is the Curtain be installed at the window and then send feedback via the SwitchBot app so that our tech team could check it for you.
+If the issue could not be solved, please kindly take a photo of how is the Curtain be installed at the window and then send to us.
 
 
 
@@ -2037,21 +1966,14 @@ Set the time settings, recurring days of the week, and action to be performed.
 
 Save
 
-4. If you are using Curtain/Curtain 3 without a hub,
-
-you can set up to five schedules
-
-.
+4. If you are using Curtain/Curtain 3 without a hub, you can set up to five schedules.
 
 Note:
 
 To synchronize the opening and closing of the curtains with sunrise and sunset, location information from the network is needed, and it must be used together with our hub product.
 
-Curtain schedule does not support sunrise and sunset timing
+Curtain schedule does not support sunrise and sunset timing.
 
-.
-
-5. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -2068,19 +1990,13 @@ https://support.switch-bot.com/hc/en-us/articles/360052804654
 
 3. The Cloud service of the Curtain is on.
 
-１
-
-.
-
-Use the SwitchBot app to create Siri Shortcuts.
+１. Use the SwitchBot app to create Siri Shortcuts.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998804913559)
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998832192023)
 
-2.
-
-Turn to Siri Shortcuts App and then tap Automation to create an Automation.
+2. Turn to Siri Shortcuts App and then tap Automation to create an Automation.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998832195991)
 
@@ -2103,23 +2019,9 @@ Fully Open： Alexa, open the [device name].
 
 Fully Closed： Alexa, close the [device name].
 
-Open
+Open/Close to a Specific Percentage:
 
-/
-
-Close
-
-to
-
-a
-
-Specific
-
-Percentage:
-
-Not
-
-Supported.
+Not Supported.
 
 Google Assistant
 
@@ -2173,15 +2075,7 @@ If your firmware update does not proceed (e.g., it gets stuck at 10%) when pairi
 
 If your firmware version update fails for a SwitchBot Curtain device that has already been added to your account, please press and hold the button located on your device for 45 seconds before updating its firmware version also.
 
-If the above methods do not solve your issue, please contact us by logging into our app, clicking on
-
-Profile
-
-, and then select
-
-Feedback
-
-. We would appreciate it if you could provide us with the following information when you contact us:
+If the above methods do not solve your issue, we would appreciate it if you could provide us with the following information when you contact us:
 
 The video of you pressing the reset button for at least 45 seconds
 
@@ -2248,15 +2142,9 @@ Related Products:
 
 SwitchBot Curtain, SwitchBot Curtain 3
 
-S
+SwitchBot App Version: V7.9 or newer
 
-witchBot App Version: V7.9 or newer
-
-We received feedback that the "indicator light" for
-
-Curtain
-
-/Curtain 3 could not be turned on or the Curtain device itself might be broken. Then it turns out the "indicator light" was being turned off in the SwitchBot App. So we have removed the "indicator light" setting from the Curtain/Curtain 3 settings page since SwitchBot App V7.9.
+We received feedback that the "indicator light" for Curtain/Curtain 3 could not be turned on or the Curtain device itself might be broken. Then it turns out the "indicator light" was being turned off in the SwitchBot App. So we have removed the "indicator light" setting from the Curtain/Curtain 3 settings page since SwitchBot App V7.9.
 
 
 
@@ -2271,7 +2159,7 @@ Firmware Version: 6.6 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. Make sure SwitchBot Curtain has been added to your App and your device firmware version is up to date. For the latest firmware, please contact us via SwitchBot App > Profile > Help & Feedback > Feedback.
+2. Make sure SwitchBot Curtain has been added to your App and your device firmware version is up to date.
 
 3. Each type of SwitchBot Curtain has a different maximum load-bearing capacity. Please refer to the maximum weight of the corresponding SwitchBot Curtain model you are using below:
 
@@ -2283,27 +2171,19 @@ Curtain Rod: 5 Kg to 8 Kg
 
 4. If you are using SwitchBot Curtain U Rail 2, please change your device wheels to see if your issue improves.
 
-5. If you are using SwitchBot Curtain U Rail (1st Gen) or need accessories separately, please log in to our app → Profile → Feedback and ask our support team for help.
+5. If you are using SwitchBot Curtain U Rail (1st Gen) or need accessories separately, please ask our support team for help.
 
 6. If you are using SwitchBot Curtain Rod, please check the following information to see if the problem is improved:
 
-For
-
-grommet
-
-rod curtains, please check the video below:
+For grommet rod curtains, please check the video below:
 
 [Embedded Content](//www.youtube-nocookie.com/embed/tlCmV5aMYgk)
 
-For
-
-back-tab
-
-rod curtains, please check this video:
+For back-tab rod curtains, please check this video:
 
 [Embedded Content](//www.youtube-nocookie.com/embed/WSF-B_rSSzo)
 
-7. If all of the above does not improve or fix your issue, please submit a feedback ticket by navigating to Profile > tap Feedback > select the product that you need support for > describe your issue in detail (with media if needed), we recommend submitting the following:
+7. If all of the above does not improve or fix your issue, please describe your issue in detail (with media if needed), we recommend submitting the following:
 
 Detailed dimensions of your curtain rail
 
