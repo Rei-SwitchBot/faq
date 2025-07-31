@@ -40,7 +40,7 @@ Firmware Version:：Wi-Fi 2.1.19 Bluetooth1.0 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. Make sure SwitchBot Outdoor Spotlight Cam has been added to your App and your device firmware version is up to date. If it is not the latest version, please log in to the SwitchBot App → Profile → Help and Feedback → Contact Feedback.
+2. Make sure SwitchBot Outdoor Spotlight Cam has been added to your App and your device firmware version is up to date.
 
 3. Please enable the removal alert in the following sequence:
 
@@ -115,17 +115,6 @@ Now your camera has been reset and is ready to reconfigure Wi-Fi.
 
 Proceed to add the camera to your SwitchBot account again if needed.
 
-If you encounter other problems, please contact us by opening our app, Tap
-
-Profile Page
-
-and then select
-
-Feedback
-
-and select your device.
-
-
 
 ---
 ### How long does Outdoor Spotlight Cam battery last?
@@ -152,8 +141,6 @@ For a longer battery, pay attention to the following points:
 
 2. Make sure the SwitchBot Outdoor Spotlight Cam is added to the SwitchBot App and the firmware version is up to date.
 
-If it is not V2.1.15 or newer version, please log in to the SwitchBot app → Profile → Feedback, and submit a feedback ticket to ask for the latest firmware upgrade for the camera.
-
 3. Make sure the camera is not set up in an extremely hot or cold position, as a highly dynamic temperature range can affect battery performance.
 
 4. Avoid placing the camera under direct sunlight.
@@ -169,15 +156,6 @@ The above measures will extend battery life as notifications are reduced.
 To monitor your battery in SwitchBot app:
 
 You can monitor the remaining power of your Outdoor Spotlight Cam in real-time in an upcoming update to the SwitchBot app, which is expected to be released within November 2022.
-
-If you have other questions regarding the battery use, please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > Specify info to help describe your issue.
-
 
 
 ---
@@ -301,9 +279,6 @@ You can turn off Dismantling Alarms in the same order.
 
 With the settings in steps 3 and 4, you will receive notifications on your smartphone when SwitchBot Outdoor Spotlight Cam is removed.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Turn On/Off Motion Detection Notifications For SwitchBot Outdoor Spotlight Cam
@@ -367,9 +342,6 @@ You can choose "Show events only" or "Show images and events" independently.
 5．
 
 With the settings in steps 3 and 4, you will receive notifications on your smartphone when motion is detected.
-
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -618,25 +590,6 @@ Under the Device Update title, check for firmware version: "V33.X.XX" . Proceed 
 
 4. If the update did not display, Please log out of your account, and log back in again. retry a firmware update to see if it helps.
 
-5.
-
-If it doesn't work, Please submit a feedback to the support team regarding your appliance and remote control.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
-
-Brand of appliance:
-
-Model of appliance:
-
-Model of the remote:
-
-Online purchase link of appliance(If possible):
-
-
 
 ---
 ### Outdoor Spotlight Cam failed to scan the QR code during setup
@@ -678,18 +631,6 @@ and try again.
 turn off dark mode
 
 and try again.
-
-9. If it still doesn't work, please contact us by opening the SwitchBot App on your device > Tap Profile Page >Tap Feedback > Select your device, or reach us with the popup icon on this page, and provide the following information:
-
-App screenshots when the adding process goes wrong.
-
-When did the problem first occur.
-
-What environment and lighting conditions is the camera used in.
-
-After receiving the feedback ticket, we will analyze your question as soon as possible.
-
-You can also contact our customer support team by phone, live chat, etc.
 
 
 
@@ -736,19 +677,9 @@ The LED flashes alternately red and green slowly: Please refer to step 4 to ensu
 
 The LED is solid green: please unplug the camera device power cord and plug it back in, and make sure the camera is powered on normally. And refer to step 4 to make sure the Wi-Fi network connection is stable.
 
-If it doesn't work, Please submit a feedback.
+If it doesn't work, please describe the issue in detail (with media if needed) as follows:
 
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
-
-Device ID Screenshot (Device name > Settings >
-
-Device Info
-
-)
+Device ID Screenshot (Device name > Settings > Device Info)
 
 Where did the camera being purchased
 
@@ -761,8 +692,6 @@ Local entity store
 Others
 
 Order details of the camera, screenshots of payment vouchers
-
-After receiving the feedback ticket, we will analyze your problem as soon as possible. You can also contact our customer support team by phone, live chat, etc.
 
 
 
@@ -870,8 +799,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -936,9 +863,6 @@ Google Home
 App login ID and password.
 
 The link will be automatically established.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1037,7 +961,7 @@ SwitchBot App -> Outdoor Spotlight Cam -> Gear Icon -> Basic Settings -> Power M
 
 5. The solar panel can charge the battery by approximately 4% per hour. The more activity in front of the Outdoor Spotlight Cam, the quicker the battery drains. In some cases, the depletion may exceed the charging amount, causing the battery to run down even after recharging. If necessary, we recommend using a charging adapter to recharge the battery.
 
-6. If your Outdoor Spotlight Cam's battery is draining unusually fast without any activity, please contact us by logging into the SwitchBot App -> Profile -> Help and Feedback -> Feedback. When you reach out to us, providing the following information would be useful:
+6. If your Outdoor Spotlight Cam's battery is draining unusually fast without any activity, please provide the following information would be useful:
 
 Photos showing outdoor cameras and solar panel installation
 
