@@ -302,9 +302,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Humidifier Alexa Setup Guide
@@ -370,8 +367,6 @@ Tap "Connect".
 Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -485,10 +480,7 @@ ZIP/Postal code:
 
 A screenshot of your order:
 
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 Please note that items that are out of warranty or have been purchased as used are not covered by our after-sales services. We appreciate your understanding.
-
 
 
 ---
@@ -527,8 +519,6 @@ ZIP/Postal code:
 A screenshot of your order:
 
 Video showing the red light activating when the SwitchBot Humidifier switch is pressed.
-
-4． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 Please note that items that are out of warranty or have been purchased as used are not covered by our after-sales services. We appreciate your understanding.
 
@@ -570,8 +560,6 @@ A screenshot of your order:
 Video showing the lifting of SwitchBot Humidifier's water tank and the subsequent filling of the pedestal with water.
 
 A screenshot from the SwitchBot application displaying an error indicating a water shortage.
-
-3． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 Please note that items that are out of warranty or have been purchased as used are not covered by our after-sales services. We appreciate your understanding.
 
