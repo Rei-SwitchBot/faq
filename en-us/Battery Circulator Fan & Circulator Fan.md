@@ -167,9 +167,6 @@ Once the device is connected, tap "Start Using".
 
 The device has been successfully added.
 
-4． Should you have any inquiries, kindly access the SwitchBot application. Navigate through "Profile" then "Support ", and lastly, select "Feedback".
-
-
 
 ---
 ### How to Reset SwitchBot Battery Circulator Fan
@@ -260,9 +257,6 @@ SwitchBot App Version: 7.6 or newer
 
 6． If you have another smartphone or tablet available, consider pairing it with the circulator.
 
-7． If the steps above do not resolve the issue, kindly log in to the SwitchBot app, proceed to 'Profile', then select 'Help and Feedback', followed by 'Feedback'. Our technical team will conduct a thorough investigation.
-
-
 
 ---
 ### SwitchBot Battery Circulator Fan Alexa Setup Guide
@@ -343,11 +337,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Ceiling Light, SwitchBot Ceiling Light Pro
-
-
 
 ---
 ### SwitchBot Battery Circulator Fan with Google Home Setup
@@ -390,9 +379,6 @@ Tap continue and then login to your SwitchBot account in the browser.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996942442391)
 
-5．If the above does not solve your issue, please submit a feedback ticket via our App for more assistance. When contacting us, we would appreciate it if you could provide a description of your issue. To leave feedback, simply navigate to SwitchBot App > Profile > Support  > Feedback > Create a New Ticket > Select the product you need support for > describe your issue in detail, and attach media should need be.
-
-
 
 ---
 ### The Night Light on My SwitchBot Battery Circulator Fan Isn’t Turning On. What Should I Do?
@@ -412,12 +398,6 @@ Please attempt to reset the circulator
 *Related Posts：
 
 [How to Reset SwitchBot Battery Circulator Fan](https://support.switch-bot.com/hc/en-us/articles/17784801004695)
-
-2． If the issue persists despite the above measures, please log in to the SwitchBot App, then navigate to Profile → Help &Feedback → Feedback. We would greatly appreciate it if you could provide us with the following information when you get in touch. Please be assured that we will replace the product with a new one as part of our after-sales service
-
-The video does not show the night light turning on when the "Night Light Touch Button"
-
-on the main control panel unit is pressed.
 
 
 
@@ -493,7 +473,7 @@ Last Updated：
 
 Related Products: SwitchBot Battery Circulator Fan
 
-please contact us via SwitchBot App -> Profile -> Support ->Feedback. Once our after-sales service team confirms the noise, we can arrange for a replacement. When contacting us, we would greatly appreciate it if you could provide the following information.
+Once our after-sales service team confirms the noise, we can arrange for a replacement. When contacting us, we would greatly appreciate it if you could provide the following information:
 
 Order Information
 
