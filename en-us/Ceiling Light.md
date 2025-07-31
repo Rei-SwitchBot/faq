@@ -149,13 +149,7 @@ Firmware Version: SwitchBot Ceiling Light Series V1.3-0.4 or newer, Remote V4.5 
 
 1. Please make sure you have the latest version of the SwitchBot app.
 
-2. Please make sure the SwitchBot Remote and Ceiling Light have been added to the SwitchBot app and have the
-
-latest firmware version
-
-.
-
-If your SwitchBot Ceiling Light series is not V1.3-0.4 or newer/Remote V4.5 or newer, please log in to SwitchBot App → Profile → Feedback.
+2. Please make sure the SwitchBot Remote and Ceiling Light have been added to the SwitchBot app and have the latest firmware version.
 
 Note: With SwitchBot app V6.19 or newer, tapping "Select scene for manual execution" will automatically update the Remote V4.5.
 
@@ -164,9 +158,6 @@ Note: With SwitchBot app V6.19 or newer, tapping "Select scene for manual execut
 *Related Posts:
 
 [Remote Firmware Version Automatic Update](https://support.switch-bot.com/hc/en-us/articles/11397619712151)
-
-3. If the firmware version update does not improve the problem, please log in to the SwitchBot app → Profile → Feedback and contact us.
-
 
 
 ---
@@ -298,8 +289,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -359,9 +348,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### There Is No Wall Switch to Turn On/off the Ceiling Light, What Can I Do?
@@ -378,34 +364,21 @@ SwitchBot App Version: V6.10 or newer
 
 1. Make sure you have the latest version of the SwitchBot App.
 
-2.
-
-Rotate the shade counterclockwise to the left
-
-and carefully remove it.
+2. Rotate the shade counterclockwise to the left and carefully remove it.
 
 ※Refrence Picture:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/7594039819415/mceclip0.png)
 
-3. While pushing the hook of the adapter side connector, remove it from the body side connector.
-
-When removing, be sure to hold the connector part. If you hold the cord part, there is a risk of disconnection. Pay attention to electrical safety.
+3. While pushing the hook of the adapter side connector, remove it from the body side connector. When removing, be sure to hold the connector part. If you hold the cord part, there is a risk of disconnection. Pay attention to electrical safety.
 
 ※Refrence Picture:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12707315042455)
 
-4. once you have reconnected the connector, check that you hear a '
+4. once you have reconnected the connector, check that you hear a 'beep' sound from the device. The moment the device is energized, the ceiling light will come on, so please be careful not to be dizzy. If no sound is heard, retry step.
 
-beep
-
-' sound from the device. The moment the device is energized, the ceiling light will come on, so please be careful not to be dizzy. If no sound is heard, retry step.
-
-5.  Then please follow the instructions on the SwitchBot App and tap Next.
-
-※If the above steps do not work, please contact via the SwitchBot App, and tap Profile -> Feedback. Our agent will assist you as soon as possible.
-
+5. Then please follow the instructions on the SwitchBot App and tap Next.
 
 
 ---
