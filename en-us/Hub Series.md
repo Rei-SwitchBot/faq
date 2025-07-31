@@ -187,7 +187,7 @@ Refer to:
 
 10. If it doesn't work, it is likely that the remote control is not yet supported.
 
-Please contact the SwitchBot support team by opening the SwitchBot App on your device > Tap Profile >Tap Feedback > Select your device, or reach us with the popup icon on this page. please fill in the following info regarding your appliance and remote control:
+Please fill in the following info regarding your appliance and remote control:
 
 Brand of appliance:
 
@@ -257,9 +257,6 @@ For lights:
 For appliances added in "Others":
 
 The Others appliances could use the Scene feature or IFTTT app to achieve voice control.
-
-*If you have any questions or concerns about our devices, please kindly send feedback via the SwitchBot App. We will check it as soon as possible.
-
 
 
 ---
@@ -363,13 +360,9 @@ Edit
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12794510944407)
 
-10. If the Hub Mini is fine connecting to a personal hotspot, then the problem may be located in the WiFi router settings. Please contact the support team if needed.
+10. If the Hub Mini is fine connecting to a personal hotspot, then the problem may be located in the WiFi router settings. 
 
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+To receive a technical help from SwitchBot support team, please describe the issue in detail (with media if needed) as follows:
 
 Router brand and model:
 
@@ -473,7 +466,7 @@ respond to remote are generally identified as IR appliances.
 
 Please contact your manufacturer to confirm the signal and button type.
 
-5. If you have any further questions regarding the Hub Mini as well as your appliance and remote control, please submit a feedback.
+5. If you have any further questions regarding the Hub Mini as well as your appliance and remote control, please send us the following infomation:
 
 Brand of appliance:
 
@@ -779,8 +772,6 @@ Tap "Wi-Fi settings"
 Tap edit
 
 Enter Wi-Fi SSID and password
-
-3. If you have any questions, please contact us by logging into the SwitchBot App → Profile → Help and Feedback → Feedback.
 
 
 
@@ -1351,8 +1342,6 @@ After the network connection, press the save button
 
 Press "Finish" to complete the setup.
 
-5. If you have any questions, please log in to the SwitchBot App → contact us → Feedback → your profile and help and feedback.
-
 
 
 ---
@@ -1644,11 +1633,7 @@ Edit
 
 8. If the Hub Mini is fine connecting to a Personal Hotspot, then the problem may be in the settings of your WiFi router.
 
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+To receive a technical help from SwitchBot support team, please describe the issue in detail (with media if needed) as follows:
 
 Router brand and model:
 
@@ -1661,9 +1646,6 @@ SwitchBot app version:
 Any other screenshot about the error message:
 
 After receiving the feedback ticket, We will help you decide if it is a hardware issue. If it is, we will send you a replacement.
-
-You can also contact our customer support team by phone, live chat, etc.
-
 
 
 ---
@@ -1828,7 +1810,7 @@ Edit
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/8095421819159/mceclip1.png)
 
-8. If the Hub Mini is fine after connected to a personal hotspot, then the problem may be in the settings of your WiFi router. Please contact the support team by opening the SwitchBot app, then tap Profile > Feedback > select "Device Queries" > and provide the following information regarding your WiFi router:
+8. If the Hub Mini is fine after connected to a personal hotspot, then the problem may be in the settings of your WiFi router. Please provide the following information regarding your WiFi router:
 
 Router brand and model:
 
@@ -1899,13 +1881,7 @@ Edit
 
 6. If the Hub Mini is fine connecting to a Personal Hotspot, then the problem may be in the settings of your WiFi router.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+To receive a technical help from SwitchBot support team, please describe the issue in detail (with media if needed) as follows:
 
 Router brand and model:
 
@@ -2183,7 +2159,7 @@ Note: For iPhone 12 or later devices, please enable “Maximize Compatibility”
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/8095421819159/mceclip1.png)
 
-9. If the Hub Mini is able to control your appliances under the personal hotspot, then the problem may be in the settings of your WiFi router. Please contact the support team by opening the SwitchBot app, then tap Profile > Feedback > select "Device Queries" > and provide the following information regarding your WiFi router:
+9. If the Hub Mini is able to control your appliances under the personal hotspot, then the problem may be in the settings of your WiFi router. Please provide the following information regarding your WiFi router:
 
 Router brand and model:
 
@@ -2273,13 +2249,7 @@ Edit
 
 7. If the Hub Mini is fine connecting to a Personal Hotspot, then the problem may be in the settings of your WiFi router.
 
-If it doesn't work, Please submit a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+To receive a technical help from SwitchBot support team, please describe the issue in detail (with media if needed) as follows:
 
 Router brand and model:
 
@@ -2535,9 +2505,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Hub 2 Google Home Setup Guide
@@ -2603,8 +2570,6 @@ Google Home
 App login ID and password.
 
 The link will be automatically established.
-
-5．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -2699,11 +2664,6 @@ The link will be automatically established.
 
 Please note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtains and SwitchBot Locks, please first enable the "Cloud Services" (connect to SwitchBot Hub Mini) in the Settings screen.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-※Please refer to this document as well when linking older versions of SwitchBot Hub products and SwitchBot Hub Plus with the Amazon Alexa app.
-
-
 
 ---
 ### SwitchBot Hub Mini Google Home Setup Guide
@@ -2777,9 +2737,6 @@ App login ID and password.
 The link will be automatically established.
 
 Note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtain or SwitchBot Lock, please first enable (connect to) the cloud service in the "Cloud Service" section of the settings menu.
-
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -2924,12 +2881,9 @@ IR appliance is downloaded locally
 
 Please note:
 
-If the firmware update fails, please log in to the SwitchBot App → Profile → Help and Feedback → Feedback.
-
 The number of remotes that can be downloaded using the Offline Control function depends on the storage capacity of the infrared remote control. Air conditioner remotes require relatively more storage and can support up to approximately 5 units, while TV remotes can accommodate around 100 units for download.
 
-4. After the above settings, you can control the IR appliance from the SwitchBot App within Bluetooth range, even if the Hub 2 is offline. If you have any questions, please contact us via Feedback.
-
+4. After the above settings, you can control the IR appliance from the SwitchBot App within Bluetooth range, even if the Hub 2 is offline.
 
 
 ---
@@ -2946,8 +2900,6 @@ Firmware Version: V3.9-2.6 or newer for Hub Mini, V1.3-0.4 or newer for Ceiling 
 1. Please make sure you have the latest version of the SwitchBot App.
 
 2. Please make sure your SwitchBot Hub Mini/Ceiling Light Pro has been added to the SwitchBot App and that the firmware version is the latest version.
-
-If it is not Hub Mini V3.9-2.6 or later / Ceiling Light Pro V1.3-0.4 or later, please log in to the SwitchBot App -> Profile -> Feedback.
 
 ※
 
@@ -2971,7 +2923,7 @@ Illustration of steps 3 through 7:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12485575698327)
 
-9. If you are unable to copy or the copied remote does not respond properly, please contact us by logging in to the SwitchBot App → Profile → Feedback. We would appreciate it if you could provide us with the following information when you contact us.
+9. If you are unable to copy or the copied remote does not respond properly, we would appreciate it if you could provide us with the following information when you contact us.
 
 Appliance manufacturer and model number
 
@@ -3053,13 +3005,9 @@ Note: Do NOT hold the remote button for up to 2 seconds.
 
 9. If the remote can't be added with "Smart Learning", retry with "Customize Mode".
 
-10. If it doesn't work, it is likely that the remote control is not yet supported. Please submit a feedback.
+10. If it doesn't work, it is likely that the remote control is not yet supported. 
 
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+To receive a technical help from SwitchBot support team, please describe the issue in detail (with media if needed) as follows:
 
 Brand of appliance:
 
@@ -3168,15 +3116,7 @@ Each firmware update delivers significant improvements including increased netwo
 
 5. If the red arrow does not show up, sign out your SwitchBot account and sign back in to see if it helps.
 
-6. If it still doesn't work,
-
-please contact us by submitting a feedback.
-
-Send feedback
-
-To receive a technical help from SwitchBot support team, follow these steps:
-
-On your same device, Go to SwitchBot app > Tap Profile > Tap Feedback > Select the product (which you need support for) > describe the issue in detail (with media if needed) as follows:
+6. If it still doesn't work, please describe the issue in detail (with media if needed) as follows:
 
 Router brand and model:
 
@@ -3353,7 +3293,7 @@ sensors)
 
 4. If using a different charging adapter and cable resolves the issue, we will compensate you for the cost of the charging adapter/cable in the case of the Hub Mini. The Hub 2 cable is unique and will be replaced with the original or a new cable within the warranty period.
 
-5. If the device fails to turn on even after switching the charging adapter and cable, please contact us by logging in to the SwitchBot app → Profile → Help and Feedback → Feedback. We would appreciate it if you could provide us with the following information when you contact us.
+5. If the device fails to turn on even after switching the charging adapter and cable, we would appreciate it if you could provide us with the following information when you contact us.
 
 Please kindly provide us with a video of the device failing to start after powering on.
 
@@ -3430,9 +3370,6 @@ SwitchBot App Version: V6.24 or newer
 
 5. After calibration, wait a while before checking the temperature and humidity.
 
-6. If the above does not resolve the issue, please sign in to the SwitchBot application and click on the Profile > Feedback button.
-
-
 
 ---
 ### What should I do if I am unable to copy the infrared remote control to hub 2?
@@ -3442,9 +3379,6 @@ Updated: Mar 22nd, 2023
 Applicable Products: SwitchBot Hub 2, Hub Mini
 
 1. Hub Plus/Hub Mini remote controls registered before October 2021 cannot be copied to Hub 2, due to a chip update. It is necessary to re-learn the infrared remote control. This is important to know.
-
-2.Please contact us if you have any other questions by logging in to the SwitchBot app -> Profile -> Help and Feedback -> Feedback.
-
 
 
 ---
@@ -3539,9 +3473,6 @@ the Hub Plus, not compromised because of its compact size.
 Here's a quick summary of the differences between the two models.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998492565143)
-
-If you have any further queries about the Hub Plus/Mini, feel free to contact us via the "Feedback" in-app.
-
 
 
 ---
@@ -3669,7 +3600,7 @@ https://support.switch-bot.com/hc/en-us/articles/19444800636183
 
 SwitchBot App -> Hub 2 -> Tap "Add a scene" next to Button "off" at the bottom of the screen -> Select the target scene and save.
 Assign a scene to the on buttons in the same order.
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
+
 
 ---
 ### Alexa just can't get hub 2's temperature and humidity to start a routine.
@@ -3678,6 +3609,7 @@ We apologize for any inconvenience our product caused.
 SwitchBot Hub 2 is recognized as a temperature and humidity sensor in the Alexa app. However, Alexa does not yet support using temperature and humidity data as triggers for routines. As a result, you won’t see Hub 2’s temperature or humidity as available conditions when creating Alexa Routines.
 As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home apps. These platforms support setting temperature and humidity data, including readings from the Hub 2, as triggers for automation. This can help you create more customized routines based on environmental conditions.
 If you have any other questions, please feel free to contact us.
+
 
 ---
 ### SwitchBot Hub 2’s Air Conditioner Remote Control Synchronization (IR Decoding) Function
@@ -3690,10 +3622,9 @@ IR Decoding Function allows the SwitchBot Hub 2 to receive infrared information 
 At present, it has been found that Hub 2's air conditioner remote control synchronization (IR Decoding) function is compatible with approximately 1,800 models of air conditioners (No further additions are planned). If you want to use the IR decoding feature, please first check the following list of supported AC remotes.
 https://drive.google.com/file/d/1h623tPGlxtis9tgvfx2NGrVI6nScO90b/view?usp=sharing
 
-If your air conditioner is on the supported list, you need to have SwitchBot App V8.8 or a newer version and be added to the white list by our R&D team. After being added to the white list, you can enable the IR decoder function by going to SwitchBot App -> Air Conditioner Remote -> Gear Icon -> IR decoder (Beta). If your home air conditioner is on the compatible list and you want to experience this feature, please contact us through the SwitchBot App -> Profile -> Support -> Feedback to request adding it to the whitelist.
+If your air conditioner is on the supported list, you need to have SwitchBot App V8.8 or a newer version and be added to the white list by our R&D team. After being added to the white list, you can enable the IR decoder function by going to SwitchBot App -> Air Conditioner Remote -> Gear Icon -> IR decoder (Beta). 
 
 ![image](https://github.com/user-attachments/assets/2e0e8826-5ea2-4d8d-8750-5e0dc6b7a460)
-
 
 
 ---
