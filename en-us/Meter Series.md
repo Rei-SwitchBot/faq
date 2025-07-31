@@ -86,13 +86,7 @@ The short answer is "yes," but we have a range of tips to help make sure this go
 
 First, you will need an accurate reference for temperature and/or humidity. Each value is calibrated separately, and you can choose to calibrate one, both, or neither as necessary. The accuracy of the uncalibrated Meter can be found in the manual.
 
-Calibration is only intended to correct for small variations (typically up to a few degrees or around 5% relative humidity). If you see a bigger discrepancy than that while calibrating, please contact us at SwitchBot App Feedback (left side menu bar) or reach
-
-[support@wondertechlabs.com](mailto:support@wondertechlabs.com)
-
-for more assistance, as that would indicate that there's a problem with either the calibration process or your Meter. We'll be happy to help sort it out.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/12677066375703)
+Calibration is only intended to correct for small variations (typically up to a few degrees or around 5% relative humidity).
 
 WITH A REFERENCE DEVICE
 
@@ -429,9 +423,6 @@ Note:
 
 The same name cannot be used to different devices, including the shared home.
 
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### How to Change the Date Format to DD/MM on SwitchBot Meter Pro
@@ -459,9 +450,6 @@ Tap "Panel Display".
 Tap "Time Settings".
 
 Switch Date Format from MM/DD to DD/MM.
-
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
 
 
 ---
@@ -506,9 +494,6 @@ Disable "24-hour time".
 
 With the above settings, the time display on your Meter Pro will be changed to 12-hour time.
 
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### How to Configure Alerts of SwitchBot Meter?
@@ -544,8 +529,6 @@ Note:
 When not used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen when it reaches the pre-set range.
 
 When used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen, also you will receive a notification on your smartphone when it reaches the pre-set range (notification permission required).
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -586,10 +569,7 @@ Go back to the previous catalog level , tap "Panel Icons", then select the "Outd
 
 With the above settings, you can view the outdoor temperature and humidity data on the Meter Pro screen.
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
-
 
 
 ---
@@ -648,9 +628,6 @@ Calibration can only be performed within the Bluetooth range of the Meter Pro (C
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26501040179991)
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Support >Feedback.
-
-
 
 ---
 ### How to Recover the Firmware of SwitchBot Meter Pro
@@ -675,9 +652,6 @@ Go to SwitchBot App -> Profile -> Firmware Recovery -> Recover
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/27590936120599)
 
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### How to Remotely Check the Temperature and Humidity Data of SwitchBot Meter (Connect to a Hub)?
@@ -692,7 +666,7 @@ Firmware Version: (Meter)2.9 or newer, (Meter Plus)0.6 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. Make sure SwitchBot Meter and SwitchBot Hub products have been added to your App and has the latest firmware version. If the firmware of your Meter is not V2.9 or Meter Plus is lower than V0.6, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
+2. Make sure SwitchBot Meter and SwitchBot Hub products have been added to your App and has the latest firmware version.
 
 3. To remotely check temperature and humidity data, it is necessary
 
@@ -716,7 +690,7 @@ Connect to the hub products in your account.
 
 Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 
-5. Settings in step 4 enable remote confirmation of temperature and humidity data. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
+5. Settings in step 4 enable remote confirmation of temperature and humidity data.
 
 Related Post:
 
@@ -776,9 +750,6 @@ Name your device, choose the desired room, and then tap "Next".
 
 Tap "Done"
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Set up SwitchBot Meter
@@ -808,9 +779,6 @@ Press the button on the back of the device for 2 seconds until the Bluetooth ico
 Name your device, choose the desired room, and then tap "Next".
 
 Tap "Done"
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -1112,9 +1080,6 @@ Set data source to Meter Plus.
 
 4-3. Enable the "Alert Sound & Light" of Meter Pro.
 
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
-
-
 
 ---
 ### SwitchBot Meter/Meter Plus Alexa Setup Guide
@@ -1189,8 +1154,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
@@ -1264,10 +1227,7 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-6． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 
 ---
@@ -1358,8 +1318,6 @@ Related Posts:
 [Why Isn’t the Automation Triggered When the Condition Is a Change in Temperature and Humidity and the Precondition Is That It’s Within the Validity Period](https://support.switch-bot.com/hc/en-us/articles/19273377833751)
 
 [How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
-
-5. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
@@ -1772,8 +1730,6 @@ Choose Meter Pro (CO2 Monitor).
 ![image](https://github.com/user-attachments/assets/7558bc2e-bea9-43d0-9399-f3f6802d4a60)
 
 Note: If your CO2 Monitor and Hub are located far apart or even in different places, the humidity, temperature, and CO2 value of the CO2 Monitor will not be updated.
-
-5. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
