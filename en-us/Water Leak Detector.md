@@ -195,8 +195,6 @@ Creat a routine
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999617949335)
 
-6．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -234,9 +232,6 @@ Add your email address.
 
 With the settings in step 3, you will receive an email if there is a water leak or low water level (only compatible with sensor cable).
 
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### How to Silence SwitchBot Water Leak Detector Alarm
@@ -266,8 +261,6 @@ quiet
 .
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999687229847)
-
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -321,8 +314,6 @@ Tap "Create trigger"
 Tap Then That "Add".
 
 Search and add the service you want as an action. - For instance, choose Email as an action, then you will receive an email when Water Leak Detector reaches the condition.
-
-5．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -395,8 +386,6 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
 
 
 ---
@@ -458,9 +447,6 @@ Enter your Google Home App login ID and password.
 
 The link will be automatically established.
 
-5． If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-
-
 
 ---
 ### SwitchBot Water Leak Detector Setup
@@ -500,8 +486,6 @@ Press and hold the button on SwitchBot Water Leak Detector for two seconds. When
 Once the device connection is complete, enter the Wi-Fi SSID and password, then tap "Next". (Only supports 2.4GHz Wi-Fi)
 
 After the network connection is complete, tap "Finish".
-
-4．If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -553,10 +537,6 @@ If phrases are not recognized correctly in the recording, it is recommended to e
 SwitchBot App -> Profile -> Siri Shortcuts->relevant shortcut to edit or remove the shortcut.
 
 4．Once step 3 is completed, the Water Leak Detector status can be checked from Hey Siri.
-
-5．
-
-If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 Related Posts:
 
