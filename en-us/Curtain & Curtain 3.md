@@ -2310,3 +2310,14 @@ Regarding this issue, could you please check the following points?
 3. When charging Curtain 3, the indicator will blink white. Once fully charged, the indicator will stay lit in white. Please check if you can charge it by connecting to another 5V1A adapter and a Type-C charging cable you have available.
 
 
+---
+### Can I Install SwitchBot Curtain/Curtain 3 on a Partially Bent Curtain Rail?
+
+U-Rail & Rod-Rail
+We do not recommend installing Curtain/Curtain 3 on a curved curtain rail because it may get stuck at the curve, affecting the full opening and closing of the curtain.
+ 
+I-Rail
+If the curtain track at home is type I, Curtain 3 can still be adapted even if the track is curved.
+
+
+
