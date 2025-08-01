@@ -2399,6 +2399,31 @@ Please follow the steps below to check and update your Curtain 3 device:
 Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
 
 
+---
+### Troubleshooting I Attached the Included Attachment, but SwitchBot Curtain 3 Stops Midway and Doesn’t Rotate Smoothly.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will assess whether it is possible to install the Curtain 3, so it would be helpful if you could provide the following information:
+1. Cross-sectional diagram of the curtain rail
+2. Curtain Rail Size
+
+<img width="343" height="306" alt="image" src="https://github.com/user-attachments/assets/2f46b98f-e05d-4f22-abeb-f14fdff0f3af" />
+
+<img width="368" height="392" alt="image" src="https://github.com/user-attachments/assets/4310a64e-7e1c-445b-851e-321cbb83d462" />
+
+A = mm  
+B = mm  
+C = mm  
+H = mm 
+
+3. Photo showing the entire rail for confirmation  
+4. Video of the Curtain 3 running on the rail  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
 
 
 
