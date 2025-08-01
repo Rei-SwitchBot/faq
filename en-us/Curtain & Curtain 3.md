@@ -2332,14 +2332,15 @@ If the curtain track at home is type I, Curtain 3 can still be adapted even if t
 
 
 ---
-### Troubleshooting SwitchBot Curtain 3 magnet is not being detected
+### Troubleshooting SwitchBot Curtain 3 Magnet Is Not Being Detected
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 Remove the curtain 3 and the magnet from the rail, place the magnet on the middle axis of the Curtain 3 as shown in the figure below, and check if it is recognized by the app. If the magnet is recognized, please adjust the position of the magnet a little closer to the mid-axis.
 Note: The following figure illustrates a Rod-type magnet, which can be applied to both U-Rail and I-Rail tracks. Please note that the black dot shown in the figure is a manually drawn mark to indicate the middle axis of Curtain 3 and is not an actual feature of the device itself.
 
-<img width="434" height="584" alt="image" src="https://github.com/user-attachments/assets/2d0d13d2-461c-4877-b835-697c70c01c07" />
+<img width="434" height="584" alt="image" src="https://github.com/user-attachments/assets/64862741-1293-42e7-96aa-586bf3eef8dd" />
+
 
 
 ---
