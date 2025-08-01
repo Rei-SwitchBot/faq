@@ -1,4 +1,4 @@
-<img width="1227" height="613" alt="image" src="https://github.com/user-attachments/assets/948a1403-0196-44ec-a9cf-6108e1366193" />---
+---
 
 ## Curtain & Curtain 3
 
