@@ -2455,6 +2455,24 @@ Regarding this issue, could you please check the following points?
 5. Wait for a while, then try the firmware update again.
 
 
+---
+### Troubleshooting Failed to Calibrate SwitchBot Curtain 3
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Open the SwitchBot app → select Curtain 3 → tap the gear icon → navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
+2. Please check if the SwitchBot Logo of the device is facing indoors (see photo of old version curtain, also compatible with Curtain 3).
+
+<img width="606" height="659" alt="image" src="https://github.com/user-attachments/assets/5526a18c-484d-4eba-a46c-185c5515ffa4" />
+
+3. When calibrating in the SwitchBot app, please close the curtain and record the positions in the following order: fully open position → fully closed position.
+4. Please remove Curtain 3 from the rail, turn off QuietDrift Mode, control the curtain using the SwitchBot App, and lightly touch the roller with a pen to test if it stops.
+Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
+
+
+
+
+
 
 
 
