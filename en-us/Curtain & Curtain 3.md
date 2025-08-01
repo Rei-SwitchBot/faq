@@ -2286,3 +2286,17 @@ Regarding this issue, could you please check the following points?
 1. Please confirm that the firmware version of your Curtain 3 is 2.1 or newer. If not, update it near the device via the SwitchBot app → Curtain 3 → Gear Icon → Firmware & Battery.
 
 
+---
+### Troubleshooting Failed to Add SwitchBot Curtain 3 to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Use the reset pin to press and hold the reset hole located at the bottom of the Curtain 3 for 3 seconds to restart the device.  
+3. Press and hold the button on the Curtain 3 main body for 15 seconds to reset the device.   
+4. Turn off Bluetooth on your smartphone, then turn it back on.
+5. Restart the SwitchBot app.
+6. Log out of the SwitchBot app and log back in.
+7. Wait a few moments and try again.
+
+
