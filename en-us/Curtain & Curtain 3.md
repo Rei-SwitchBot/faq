@@ -2354,6 +2354,21 @@ Note: Due to production variations, accessories may not be included. If this hap
 <img width="1103" height="778" alt="image" src="https://github.com/user-attachments/assets/b8965bf7-91b3-45c2-a269-a68fc58d5f9a" />
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 Stops Halfway Through the Rail
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please follow the steps below to check and update your Curtain 3 device:
+1. Open the SwitchBot app → select Curtain 3 → tap the gear icon → navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
+2. Make sure that the firmware version of your Curtain 3 is 2.1 or later. If not, update the firmware by going to SwitchBot app → Curtain 3 → gear icon → Firmware & Battery while near the device.  
+3. Remove Curtain 3 from the app.  
+4. Press and hold the button on the Curtain 3 device for 15 seconds to reset it.  
+5. Re-add Curtain 3 to the app.  
+6. Please remove Curtain 3 from the rail, turn off QuietDrift Mode, control the curtain using the SwitchBot App, and lightly touch the roller with a pen to test if it stops.
+Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
+
+
 
 
 
