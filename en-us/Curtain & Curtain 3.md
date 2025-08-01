@@ -2255,10 +2255,14 @@ https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view?usp=shari
 ---
 ### Troubleshooting Even After Deleting the Schedule Setting, Switchbot Curtain 3 Still Opens and Closes at the Scheduled Time
 
-To help resolve this issue, could you please check the following settings?
-1. Automations or Routines: Please verify if there are any scheduled automations set up, such as SwitchBot Automations, Amazon Alexa routines, or Apple Home automations that might be controlling the curtain.
-2. SwitchBot App Settings: In the SwitchBot app, tap your Curtain 3 and check if there are any active schedules, auto-charging settings, or light sensor automations that could be triggering movement.
-Additionally, if you've shared control of the curtain with family members or friends, kindly check if they have operated it recently.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following settings?
+1. Please verify if there are any scheduled automations set up, such as SwitchBot Automations, Amazon Alexa routines, or Apple Home automations that might be controlling the curtain.
+2. In the SwitchBot app, tap your Curtain 3 and check if there are any active schedules, auto-charging settings, or light sensor automations that could be triggering movement.
+
+<img width="414" height="866" alt="image" src="https://github.com/user-attachments/assets/a6ea07fb-7bce-4cfe-a58c-dd4b195da04e" />
+
+3. Additionally, if you've shared control of the curtain with family members or friends, kindly check if they have operated it recently.
 
 
 ---
