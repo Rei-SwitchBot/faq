@@ -2453,7 +2453,7 @@ Regarding this issue, could you please check the following points?
 2. Use the reset pin to press and hold the reset hole located at the bottom of the Curtain 3 for 3 seconds to restart the device.  
 3. Press and hold the button on the Curtain 3 main body for 15 seconds to reset the device.   
 4. Please check if the curtain's firmware needs to be recovered by going to SwitchBot app → Profile → Firmware Recovery.
-5. Wait for a while, then try the firmware update again.
+5. Wait for a while, then try the firmware update again. 
 
 
 ---
