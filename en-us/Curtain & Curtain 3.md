@@ -2267,6 +2267,7 @@ Video: https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting Trying to Connect SwitchBot Curtain to the Hub but Can’t Find the Cloud Service Option
 
@@ -2275,4 +2276,13 @@ Regarding this issue, could you please check the following points?
 Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the curtain near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 If you have any further questions, feel free to contact us anytime. We’re happy to help!
+
+
+---
+### Troubleshooting SwitchBot Curtain 3 Shows “Fully Charged” Even Though the Battery Is Not at 100%.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the firmware version of your Curtain 3 is 2.1 or newer. If not, update it near the device via the SwitchBot app → Curtain 3 → Gear Icon → Firmware & Battery.
+
 
