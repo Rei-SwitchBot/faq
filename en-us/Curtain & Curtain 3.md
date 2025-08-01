@@ -2237,19 +2237,20 @@ https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view?usp=shari
 Note:
 If you are unable to add your curtain to the app, please kindly provide us with a video showing the issue you are facing.
 
+
 ---
 ### Troubleshooting One of My SwitchBot Curtain 3 in the Group Stopped Working
 
-We apologize for the inconvenience caused when one side of the grouped SwitchBot Curtains stops functioning. Please follow these steps to troubleshoot the issue:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. In the SwitchBot App, go to Curtain → Gear icon → Ungroup to ungroup the curtains.
 2. Check the battery levels by going to Curtain → Gear icon → Firmware & Battery. Charge the curtain if needed.
-3. Long-press the curtain icon in the app and remove it.
-4. Reset the curtain by pressing the button on the device for 15 seconds.
-5. Re-add the curtain to the SwitchBot app.
-6. If the issue persists, please remove the Curtain 3 from the curtain rail, and use the app to manually open and close the device. During this process, gently press a pen against the rollers to see if the rollers stop moving due to the pressure. We kindly ask you to send us a 20–40 second video of this process, including any sounds the device makes.
-Here is a guide video for your reference:
-
-https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view?usp=sharing
+3. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 → Gear icon → Firmware & Battery. 
+4. Long-press the curtain icon in the app and remove it.
+5. Reset the curtain by pressing the button on the device for 15 seconds.
+6. Re-add the curtain to the SwitchBot app.
+7. Please remove Curtain 3 from the rail, turn off QuietDrift Mode, control the curtain using the SwitchBot App, and lightly touch the roller with a pen to test if it stops.
+Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
 
 
 ---
