@@ -2432,6 +2432,17 @@ Regarding this issue, could you please check the following points?
 3. Check whether the roller part of the Curtain device is worn out. If the wear is not severe, clean the curtain rails and roller parts using an alcohol wipe or similar cleaning product.
 
 
+---
+### Troubleshooting The Solar Panel Is Not Charging SwitchBot Curtain 3
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the solar panel is installed in a location where it is exposed to direct sunlight.  
+2. In the SwitchBot app, go to Curtain 3 → Light Sensor, and check the time periods during which the illuminance level stays above 7. If the illuminance level is below 7, we cannot guarantee an increase in battery charge.  
+[https://support.switch-bot.com/hc/en/articles/32600138616855](https://support.switch-bot.com/hc/ja/articles/32600138616855-%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B33%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E3%81%AE-%E6%9B%87%E3%82%8A%E3%81%AE%E6%97%A5%E3%81%A7%E3%82%82%E5%8A%B9%E7%8E%87%E3%82%88%E3%81%8F%E5%85%85%E9%9B%BB-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+3. If you have multiple Curtain 3 devices and solar panels, as a troubleshooting step, swap the solar panel to confirm if it can charge.
+
+
 
 
 
