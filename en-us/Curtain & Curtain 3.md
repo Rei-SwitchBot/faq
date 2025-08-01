@@ -2422,6 +2422,16 @@ H = mm
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 Does Not Close Completely, Leaving a Gap.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 → Gear icon → Firmware & Battery.  
+2. In the SwitchBot app, go to Curtain 3 → Gear icon → Calibrate → Recalibrate → Smart Calibration, and re-record the open and close positions.  
+3. Check whether the roller part of the Curtain device is worn out. If the wear is not severe, clean the curtain rails and roller parts using an alcohol wipe or similar cleaning product.
+
+
 
 
 
