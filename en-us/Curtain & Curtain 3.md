@@ -2471,6 +2471,25 @@ Regarding this issue, could you please check the following points?
 Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
 
 
+---
+### Troubleshooting Failed to Install SwitchBot Curtain 3 I Rail
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will assess whether it is possible to install the Curtain 3, so it would be helpful if you could provide the following information:
+1. Cross-sectional diagram of the curtain rail
+2. Curtain Rail Size
+
+<img width="408" height="368" alt="image" src="https://github.com/user-attachments/assets/1ee0bbc4-f400-4051-8a6f-7154ae78246f" />
+
+A=  mm
+B=  mm
+C=  mm
+D=  mm
+
+3. Photo showing the entire rail for confirmation  
+4. Video of the Curtain 3 running on the rail  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
