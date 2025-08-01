@@ -2430,7 +2430,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 → Gear icon → Firmware & Battery.  
 2. In the SwitchBot app, go to Curtain 3 → Gear icon → Calibrate → Recalibrate → Smart Calibration, and re-record the open and close positions.  
-3. Check whether the roller part of the Curtain device is worn out. If the wear is not severe, clean the curtain rails and roller parts using an alcohol wipe or similar cleaning product.
+3. Check whether the roller part of the Curtain device is worn out. If the wear is not severe, clean the curtain rails and roller parts using an alcohol wipe or similar cleaning product.  
 
 
 ---
