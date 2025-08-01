@@ -2374,6 +2374,14 @@ Please follow the steps below to check and update your Curtain 3 device:
 Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 No Longer Turns on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please press and hold the button on Curtain 3 for 15 seconds to reset it.  
+2. Try charging Curtain 3 for three hours.  
+3. When charging Curtain 3, the indicator will blink white. Once fully charged, the indicator will stay lit in white. Please check if it can be activated by connecting it to another 5V1A adapter and a Type-C charging cable you have on hand.
 
 
 
