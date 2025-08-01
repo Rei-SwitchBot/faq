@@ -1,4 +1,4 @@
----
+<img width="1227" height="613" alt="image" src="https://github.com/user-attachments/assets/948a1403-0196-44ec-a9cf-6108e1366193" />---
 
 ## Curtain & Curtain 3
 
@@ -2189,13 +2189,19 @@ Detailed dimensions of your curtain rail
 
 A Cross-sectional photo of your curtain rail
 
+
 ---
-### What to Do If My Curtain 3 Is Not Aligned Properly on the Rail and Can't Attach the Hook to the Unit?
-Related Product: SwitchBot Curtain 3
+### Troubleshooting SwitchBot Curtain 3 Is Not Aligned Properly on the Rail and Can't Attach the Hook to the Unit
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 We want to confirm that it is normal for Curtain 3 to tilt slightly during installation. To properly attach the device, please firmly pull the hook down and secure it onto the body of Curtain 3. This should help straighten the device and ensure correct installation.
-![image](https://github.com/user-attachments/assets/4847d427-8c06-486a-ab0f-e0b38ca72025)
+
+<img width="1227" height="613" alt="image" src="https://github.com/user-attachments/assets/cc34e605-7dc3-4e8f-b2f4-2a45ae4c2829" />
+
 For your reference, we’ve included a link to an installation video that demonstrates this process. Please take a look, and feel free to contact us if you need further assistance.
-[Embedded Content](//www.youtube.com/watch?v=ilKv3irx5CQ)
+[https://www.youtube.com/watch?v=ilKv3irx5CQ](https://www.youtube.com/watch?v=ilKv3irx5CQ)
+
 
 ---
 ### About Curtain 3's "Efficient charging even on low lighting conditions"
