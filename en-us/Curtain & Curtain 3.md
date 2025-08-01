@@ -2337,4 +2337,24 @@ Note: The following figure illustrates a Rod-type magnet, which can be applied t
 <img width="434" height="584" alt="image" src="https://github.com/user-attachments/assets/2d0d13d2-461c-4877-b835-697c70c01c07" />
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 stops at the joint of the telescopic U Rail
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue can be resolved using the special attachments listed below. If the accessories are included in the package, please use them as is.  
+Note: Due to production variations, accessories may not be included. If this happens, contact us with photos of the contents after opening the package.
+
+<img width="344" height="318" alt="image" src="https://github.com/user-attachments/assets/bc2e5503-5fa1-47ff-981e-77a7469907ce" />
+
+2. We will guide you on how to attach the attachment using the diagram below.
+
+<img width="1049" height="747" alt="image" src="https://github.com/user-attachments/assets/077f1be2-4d72-4dc3-9879-855cbc4d86c7" />
+
+<img width="1103" height="778" alt="image" src="https://github.com/user-attachments/assets/b8965bf7-91b3-45c2-a269-a68fc58d5f9a" />
+
+
+
+
+
 
