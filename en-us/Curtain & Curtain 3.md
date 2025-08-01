@@ -2300,3 +2300,13 @@ Regarding this issue, could you please check the following points?
 7. Wait a few moments and try again.
 
 
+---
+### Troubleshooting the Indicator Light Does Not Turn on and SwitchBot Curtain 3 Cannot Be Charged When Using a 5V1A Charger
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please press and hold the button on Curtain 3 for 15 seconds to reset it.  
+2. Try charging Curtain 3 for three hours.  
+3. When charging Curtain 3, the indicator will blink white. Once fully charged, the indicator will stay lit in white. Please check if you can charge it by connecting to another 5V1A adapter and a Type-C charging cable you have available.
+
+
