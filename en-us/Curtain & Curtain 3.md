@@ -2492,6 +2492,33 @@ D=  mm
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Curtain Makes a Lot of Noise
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To check for any issues with the motor, please remove Curtain 3 from the rail, turn off QuietDrift Mode, control the curtain using the SwitchBot App, and lightly touch the roller with a pen to test if it stops.
+Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
+
+2. We will assess whether a separate attachment is needed, so it would be helpful if you could provide the following information:
+  1. Cross-sectional diagram of the curtain rail
+  2. Curtain Rail Size
+
+<img width="343" height="306" alt="image" src="https://github.com/user-attachments/assets/6b8af515-a2d9-4760-b52d-f5fc2d05f775" />
+
+<img width="368" height="392" alt="image" src="https://github.com/user-attachments/assets/f21db027-878f-4d6b-8031-d0fb03a63f8c" />
+
+A = mm  
+B = mm  
+C = mm  
+H = mm 
+
+  3. Photo showing the entire rail for confirmation  
+  4. Video of the Curtain 3 running on the rail  
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
