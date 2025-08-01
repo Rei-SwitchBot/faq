@@ -2384,5 +2384,21 @@ Regarding this issue, could you please check the following points?
 3. When charging Curtain 3, the indicator will blink white. Once fully charged, the indicator will stay lit in white. Please check if it can be activated by connecting it to another 5V1A adapter and a Type-C charging cable you have on hand.
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 Is Not Moving on the Rail
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please follow the steps below to check and update your Curtain 3 device:
+1. Open the SwitchBot app → select Curtain 3 → tap the gear icon → navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
+2. Make sure that the firmware version of your Curtain 3 is 2.1 or later. If not, update the firmware by going to SwitchBot app → Curtain 3 → gear icon → Firmware & Battery while near the device.  
+3. Remove Curtain 3 from the app.  
+4. Press and hold the button on the Curtain 3 device for 15 seconds to reset it.  
+5. Re-add Curtain 3 to the app.  
+6. Please remove Curtain 3 from the rail, turn off QuietDrift Mode, control the curtain using the SwitchBot App, and lightly touch the roller with a pen to test if it stops.
+Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
+
+
+
 
 
