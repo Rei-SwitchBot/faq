@@ -1947,3 +1947,12 @@ Regarding this issue, could you please check the following points?
 2. Using a Meter with accurate readings as a reference, go to SwitchBot app > Affected Meter > Settings (gear icon) > Calibration to adjust the readings as needed.
 
 
+---
+### Troubleshooting The Numbers on SwitchBot Meter’s Screen Are Partially Missing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue you mentioned, could you please provide a photo showing the missing numbers on the Meter screen?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
