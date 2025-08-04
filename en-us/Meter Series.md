@@ -1956,3 +1956,16 @@ Regarding the issue you mentioned, could you please provide a photo showing the 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Meter Failed to Update the Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Perform firmware recovery.
+- Remove the batteries from the SwitchBot Meter.
+- Press the button located at the back of the SwitchBot Meter while inserting the battery. Following this action, the temperature, humidity, and battery symbol data will start to flash on the Thermo-Hygrometer Plus screen.
+- Open the SwitchBot App to be guided through the firmware repair process. Simply navigate to "Profile", then select "Firmware Recovery" followed by "Recover" to initiate the firmware version repair.
+- For the SwitchBot Meter, continue pressing the button on the back until the firmware has been fully repaired.
+
+
