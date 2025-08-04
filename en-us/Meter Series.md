@@ -1978,4 +1978,23 @@ As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home ap
 If you have any other questions, please feel free to contact us.
 
 
+---
+### Troubleshooting Unable to Use Alexa Voice to Get Humidity
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that a hubduct is installed near the Meter.  
+2. In the SwitchBot app, go to Meter, scroll down on the graph screen, and press the "Store data to cloud" button to connect the device to the cloud. If you don't see the button, delete and re-add the device.
+3. Relink with Amazon Alexa.  
+4. When checking the humidity, please activate the custom skill for Amazon Alexa.
+
+<img width="387" height="212" alt="image" src="https://github.com/user-attachments/assets/4f322dba-b8a5-47a9-b231-563676a08e24" />
+
+[https://support.switch-bot.com/hc/en-us/articles/10477494777495](https://support.switch-bot.com/hc/en-us/articles/10477494777495-Voice-Commands-for-Controlling-SwitchBot-Meter-Series-Products-Using-Alexa-and-Google-Assistant)
+5. Try changing the device name to see if it helps.  
+6. If there are multiple Meter devices linked to your SwitchBot account, asking Alexa for the humidity may result in a response based on the data from the first paired thermometer/hygrometer device. As a result, there may be devices for which you cannot check humidity via voice commands. We sincerely apologize for the inconvenience and ask for your understanding.
+
+
+
+
 
