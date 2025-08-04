@@ -1969,3 +1969,13 @@ Regarding this issue, could you please check the following points?
 - For the SwitchBot Meter, continue pressing the button on the back until the firmware has been fully repaired.
 
 
+---
+### Troubleshooting SwitchBot Meter’s Temperature and Humidity Don’t Appear in Alexa Routines
+
+We apologize for any inconvenience our product caused.
+SwitchBot Meter is recognized as a temperature and humidity sensor in the Alexa app. However, Alexa does not yet support using temperature and humidity data as triggers for routines. As a result, you won’t see Meter’s temperature or humidity as available conditions when creating Alexa Routines.
+As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home apps. These platforms support setting temperature and humidity data, including readings from the Meter, as triggers for automation. This can help you create more customized routines based on environmental conditions.
+If you have any other questions, please feel free to contact us.
+
+
+
