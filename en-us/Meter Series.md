@@ -1938,3 +1938,12 @@ Regarding this issue, could you please check the following points?
 3. Relink with Amazon Alexa.
 
 
+---
+### Troubleshooting One of My SwitchBot Meters Shows Different Readings on Its Display
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Place all Meters in the same location and leave them undisturbed for at least 30 minutes. Then, check if the readings align. If necessary, clean the sensor opening on the top of the device.
+2. Using a Meter with accurate readings as a reference, go to SwitchBot app > Affected Meter > Settings (gear icon) > Calibration to adjust the readings as needed.
+
+
