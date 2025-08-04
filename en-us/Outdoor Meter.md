@@ -602,3 +602,19 @@ Repeat this process each time you take the device outside.
 Note:
 
 The Outdoor Meter can store up to 68 days of data locally when connected via Bluetooth. After this, older data will be overwritten. To prevent data loss, ensure you load and export the data in time.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Meter Fails to Display Data on the Graph During the Network Disconnection Period
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Temperature and humidity data recorded via Bluetooth and data saved to the cloud are stored through separate processes and do not merge. enable the "Store Data to Cloud" feature, the app will prioritize displaying data stored in the cloud. As a result, data recorded via Bluetooth while away from the Hub will no longer appear on the graph screen.
+2.  If the hub connection is lost for over an hour, you can recover the temperature and humidity data within the Bluetooth range. For more details, please refer to the link below.  
+[https://support.switch-bot.com/hc/en-us/articles/18545088919191](https://support.switch-bot.com/hc/en-us/articles/18545088919191-How-to-Sync-Temperature-and-Humidity-Data-Stored-in-SwitchBot-Outdoor-Meter-to-Cloud)
+
+
+
+
+
+
