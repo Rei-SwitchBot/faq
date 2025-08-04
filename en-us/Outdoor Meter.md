@@ -625,6 +625,15 @@ If you’ve inserted two batteries and noticed the indicator light turns on but 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Meter’s Temperature and Humidity Don’t Appear in Alexa Routines
+
+We apologize for any inconvenience our product caused.
+SwitchBot Outdoor Meter is recognized as a temperature and humidity sensor in the Alexa app. However, Alexa does not yet support using temperature and humidity data as triggers for routines. As a result, you won’t see Outdoor Meter’s temperature or humidity as available conditions when creating Alexa Routines.
+As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home apps. These platforms support setting temperature and humidity data, including readings from the Outdoor Meter, as triggers for automation. This can help you create more customized routines based on environmental conditions.
+If you have any other questions, please feel free to contact us.
+
+
 
 
 
