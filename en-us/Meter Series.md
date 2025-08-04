@@ -2005,6 +2005,12 @@ Regarding this issue, could you please check the following points?
 3.  Relink with Amazon Alexa.
 
 
+---
+### Can I Use Google Voice Assistant to Get CO2 Reading?
+
+We regret to inform you that checking carbon dioxide levels using voice commands on the Google Home app is not available. For more information, we recommand contacting Google directly.
+
+
 
 
 
