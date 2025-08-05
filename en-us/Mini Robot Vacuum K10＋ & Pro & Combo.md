@@ -2381,10 +2381,12 @@ If the issue persists after updating, kindly provide a video showing the robot s
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Can SwitchBot Robot Vacuum K10+ Pro Combo Be Set to a Cat Voice?
 
 Currently, the K10+ Pro Combo and the S10 do not support setting the voice to a cat sound. We sincerely apologize for not being able to meet your request at this time. However, we truly value your feedback and will consider this as a potential feature for future updates.
+
 
 ---
 ### Troubleshooting SwitchBot Cordless Vacuum Cleaner Won't Charge
