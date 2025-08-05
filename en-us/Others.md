@@ -8897,7 +8897,7 @@ SwitchBot App Version: 8.3 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. Please contact us via SwitchBot App > Profile > Help & Feedback > Feedback. When contacting us, we would appreciate it if you could provide the following information.
+2. When contacting us, we would appreciate it if you could provide the following information.
 
 Home owner account:
 
