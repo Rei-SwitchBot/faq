@@ -276,7 +276,7 @@ We regret to inform you that Bluetooth remotes like Apple TV or Fire TV can not 
 
 
 ---
-### Troubleshooting SwitchBot Hub 3 Can't Connect to Wi-F
+### Troubleshooting SwitchBot Hub 3 Can't Connect to Wi-Fi
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
@@ -290,5 +290,17 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/33168986957847](https://support.switch-bot.com/hc/en-us/articles/33168986957847-How-to-Recover-the-Firmware-of-SwitchBot-Hub-3)
 8. As a troubleshooting step, check if the Hub 3 can connect to your smartphone's hotspot.  
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
+---
+### Troubleshooting SwitchBot Hub 3 No Longer Turns On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the power outlet at your home is supplying electricity.  
+2. Make sure that the charging cable is securely inserted into the device.  
+3. If you have another 5V2A charging adapter and Type-C charging cable on hand, switch to those and check if they supply power.
+
+
 
 
