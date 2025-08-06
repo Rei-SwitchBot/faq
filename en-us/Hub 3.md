@@ -302,5 +302,14 @@ Regarding this issue, could you please check the following points?
 3. If you have another 5V2A charging adapter and Type-C charging cable on hand, switch to those and check if they supply power.
 
 
+---
+### Troubleshooting Could Not Find the Offline Control Option in SwitchBot Hub 3 Settings Page
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Hub 3 does not have the infrared remote offline control function like Hub 2. However, you can add the learned infrared remotes to the list of devices that Hub 3 can operate, allowing for offline control.
+2. To batch add learned IR remotes to your Hub 3, please go to SwitchBot app → Hub 3 → "Devices & Scenes" at the bottom of the screen → Manage Devices → tap the "+" in the top right corner → select "Add Device".
+
+
 
 
