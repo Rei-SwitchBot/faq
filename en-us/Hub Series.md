@@ -3449,10 +3449,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
-3. Use a 5V2A charging adapter for the Hub 2.  
-4. Place the Hub 2 closer to the Wi-Fi router (within 5 meters).  
-5. Restart your home router.  
-6. As a troubleshooting step, check if the Hub 2 can connect to your smartphone's hotspot.  
+3. When adding Hub 2, please ensure that you enter the Wi-Fi SSID and password correctly, including uppercase and lowercase letters.
+4. Use a 5V2A charging adapter for the Hub 2.  
+5. Place the Hub 2 closer to the Wi-Fi router (within 5 meters).  
+6. Restart your home router.  
+7. As a troubleshooting step, check if the Hub 2 can connect to your smartphone's hotspot.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
 
