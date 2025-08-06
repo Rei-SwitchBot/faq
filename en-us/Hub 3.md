@@ -331,6 +331,19 @@ Regarding this issue, could you please check the following points?
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/46c958e8-fb09-473b-be08-429e31e53764" />
 
 
+---
+### Troubleshooting SwitchBot Hub 3 Screen Does Not Display Anything, Pressing the Buttons on the Body Also Has No Response.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the issue improves by plugging and unplugging the charging cable.
+2. try to recover the firmware of your Hub 3.
+- Unplug the Hub 3 power cord from the main unit.
+- Insert the power cord while holding down the Kata button on the Hub 3.
+- Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+Note: It takes approximately 15-30 minutes to complete the firmware recovery.
+
+<img width="785" height="787" alt="image" src="https://github.com/user-attachments/assets/8bd8dce4-b6ea-42e1-a23e-99911d4a4ff6" />
 
 
 
