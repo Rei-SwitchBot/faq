@@ -269,10 +269,26 @@ Video: https://youtu.be/RtuDIwddU2Y
 We regret to inform you that controlling Bluetooth remotes like Apple TV or Fire TV on the SwitchBot App is not available. You can only control them through the Hub 3 main body.
 
 
-
 ---
 ### Can Apple TV and Fire TV Paired to Hub 3 Be Used in SwitchBot Scene and Automation?
 
 We regret to inform you that Bluetooth remotes like Apple TV or Fire TV can not be used in SwitchBot Scene and Automation. Currently, you can only operate them through the Hub 3 main body.
+
+
+---
+### Troubleshooting SwitchBot Hub 3 Can't Connect to Wi-F
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. When adding Hub 3, please ensure that you enter the Wi-Fi SSID and password correctly, including uppercase and lowercase letters.
+4. Use a 5V2A charging adapter for the Hub 3.  
+5. Place the Hub 3 closer to the Wi-Fi router (within 5 meters).  
+6. Restart your home router.  
+7. If the SwitchBot logo is displayed on the Hub 3 screen and pairing cannot be completed, please try performing a firmware recovery.
+[https://support.switch-bot.com/hc/en-us/articles/33168986957847](https://support.switch-bot.com/hc/en-us/articles/33168986957847-How-to-Recover-the-Firmware-of-SwitchBot-Hub-3)
+8. As a troubleshooting step, check if the Hub 3 can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
 
