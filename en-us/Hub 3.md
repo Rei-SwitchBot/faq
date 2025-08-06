@@ -346,4 +346,14 @@ Note: It takes approximately 15-30 minutes to complete the firmware recovery.
 <img width="785" height="787" alt="image" src="https://github.com/user-attachments/assets/8bd8dce4-b6ea-42e1-a23e-99911d4a4ff6" />
 
 
+---
+### Troubleshooting After Connecting the Temperature and Humidity Sensor Cable, SwitchBot Hub 3 Powers on but Does Not Display the Temperature and Humidity on the Screen.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a video showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
 
