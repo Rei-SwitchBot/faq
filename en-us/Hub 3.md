@@ -311,5 +311,26 @@ Regarding this issue, could you please check the following points?
 2. To batch add learned IR remotes to your Hub 3, please go to SwitchBot app → Hub 3 → "Devices & Scenes" at the bottom of the screen → Manage Devices → tap the "+" in the top right corner → select "Add Device".
 
 
+---
+### Troubleshooting My SwitchBot Hub 3 can't learn IR remotes
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the home appliance you are using is infrared remote control. If the remote control is a mixture of infrared and Bluetooth, only the infrared button can be used.
+2. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
+3. Make sure your Hub 3 firmware version is 0.8-1.3 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub 3 → Gear Icon → Firmware & Battery.
+3. Make sure that the Hub 3 is powered by a5V2A adapter.
+4. Make sure that you are connected to a stable 2.4GHz network. If the network is disconnected, the lamp on Hub 3 will blink.
+5. Make sure that there are no walls or other obstacles between the Hub 3 and the appliance, as infrared signals do not pass through walls.
+6. Since the Hub 3 operates the appliance instead of the remote control attached to the appliance, place the Hub 3 within the infrared reception range of the appliance.
+7. Please adjust the installation position of the Hub 3 until the appliance actually responds.
+8. There are four ways to learn infrared remotes. If the remote control cannot be registered by "Smart learning" and "Select manually", we recommend that you add it in "learn buttons" or "others" mode.
+[https://support.switch-bot.com/hc/en-us/articles/360038240833](https://support.switch-bot.com/hc/en-us/articles/360038240833-How-to-Add-Infrared-Appliances-to-SwitchBot-Hub-Mini)
+9. When learning infrared remote control, please pick up the remote and aim it at the infrared receiver of Hub 3 (as shown in the picture below).
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/46c958e8-fb09-473b-be08-429e31e53764" />
+
+
+
 
 
