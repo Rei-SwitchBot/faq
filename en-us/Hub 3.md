@@ -364,5 +364,29 @@ Regarding this issue, could you please provide us with a video showing the issue
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Failed to Update SwitchBot Hub 3 Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
+2. Perform the firmware update near the device to ensure a stable connection.
+3. Unplug the Hub 3, wait a few seconds, then plug it back in.
+4. Turn off your home router, wait about 30 seconds, then turn it back on.
+5. try to recover the firmware of your Hub 3.
+- Unplug the Hub 3 power cord from the main unit.
+- Insert the power cord while holding down the Kata button on the Hub 3.
+- Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+Note: It takes approximately 15-30 minutes to complete the firmware recovery.
+
+<img width="785" height="787" alt="image" src="https://github.com/user-attachments/assets/d926824c-4b56-4dbc-92c0-736271469d3a" />
+
+6. Switch to a mobile hotspot connection and attempt the update again.
+7. If you have another smartphone, please try using it instead.  
+8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+
+
+
+
 
 
