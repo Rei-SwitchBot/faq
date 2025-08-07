@@ -197,8 +197,7 @@
 \- SwitchBotアプリ→ロボット掃除機K10+ Pro→歯車マーク→デバイス情報→ゴミ収集ステーションのBLE MACアドレスと確認できるスクリーンショット
 
 
-
-【图片1-jp】
+<img width="222" height="485" alt="图片1-jp" src="https://github.com/user-attachments/assets/47e1d5a1-cb91-4820-96d2-27fb0f465da9" />
 
 
 
@@ -594,7 +593,9 @@
 
 
 
-【图片2-jp】
+<img width="828" height="1792" alt="图片2-jp" src="https://github.com/user-attachments/assets/1d113ef6-bd1d-408a-b8f9-37b4e1a86818" />
+
+
 
 
 
@@ -1062,7 +1063,8 @@
 
 
 
-【图片3-jp】
+<img width="828" height="1792" alt="图片3-jp" src="https://github.com/user-attachments/assets/b3bf2a9e-9839-44d6-b3fe-3db80fca6532" />
+
 
 
 
@@ -1118,7 +1120,8 @@
 
 
 
-【图片4-jp】
+<img width="361" height="255" alt="图片4-jp" src="https://github.com/user-attachments/assets/e9c33a0f-7e30-4fe6-b448-5c8d07c2bc7c" />
+
 
 
 
@@ -1832,7 +1835,7 @@
 
 
 
-【图片1-jp】
+
 
 
 
@@ -3493,6 +3496,7 @@
 
 
 ※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
+
 
 
 
