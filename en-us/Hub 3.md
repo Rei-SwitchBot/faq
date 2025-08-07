@@ -415,6 +415,12 @@ Once synchronization is finished, you can trigger the scenes by pressing the dia
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Why Does SwitchBot App Only Display the on/off Status of the Air Conditioner, but Not for Devices Like Light or TV?
+
+Currently, SwitchBot app can only display the on/off status of air conditioners. It does not support displaying the status of IR remotes like lights or televisions. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
+
 
 
 
