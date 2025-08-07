@@ -387,7 +387,7 @@ Note: It takes approximately 15-30 minutes to complete the firmware recovery.
 
 
 ---
-### Troubleshooting Failed to Update SwitchBot Hub 3 Firmware
+### Troubleshooting When Using SwitchBot Hub 3 to Control Grouped Color Bulbs, Only One Bulb Responds.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 We regret to inform you that controlling a grouped Color Bulb with SwitchBot Hub 3 is not supported. However, you can trigger the scene by using Hub 3 to enable grouped bulbs to switch on and off together.
