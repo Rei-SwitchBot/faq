@@ -23,7 +23,8 @@ The wireless charging pad on the SwitchBot Air Purifier Table supports up to 15W
 2. If your phone has a protective case, especially a thicker one, it may reduce charging efficiency and result in slower charging times. Thicker cases can also cause slight heating during charging. For faster charging, try removing the case or using a thinner one.
 3. If your phone case includes a metal plate (as shown in the image), it may prevent wireless charging altogether. We recommend using a case without a metal plate or removing the case entirely before placing your phone on the charging pad.
 
-【图片1】
+<img width="1037" height="1280" alt="【图片1】" src="https://github.com/user-attachments/assets/1f5ad5c8-70eb-4d16-b097-82cf5db62a0e" />
+
 
 4. The time required to fully charge the battery may vary depending on the smartphone model. If the battery is able to reach full capacity, there should be no issues with the air purifier. If charging stops before reaching full capacity, please feel free to contact us.
 
@@ -96,5 +97,6 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
