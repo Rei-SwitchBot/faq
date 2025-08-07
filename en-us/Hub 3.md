@@ -421,6 +421,13 @@ If you have any other questions, please do not hesitate to contact us.
 Currently, SwitchBot app can only display the on/off status of air conditioners. It does not support displaying the status of IR remotes like lights or televisions. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
+---
+### Can the Temperature and Humidity Data from Other Meters Be transferred to SwitchBot Hub 3?
+
+We regret to inform you that migration of temperature and humidity data between devices is not supported. We are sorry for any inconvenience caused and appreciate your understanding!
+
+
+
 
 
 
