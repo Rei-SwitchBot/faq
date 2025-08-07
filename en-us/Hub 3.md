@@ -440,6 +440,17 @@ Regarding this issue, could you please check the following points?
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting After Controlling the Air Conditioner with SwitchBot Hub 3, the on/off Status Did Not Reflect in the SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The Hub 3 does not have a feature to sync the air conditioner remote control status with the SwitchBot app. Also, it cannot display the results of using the air conditioner remote on the app. As a result, the on/off status of the remote control displayed on the Hub 3 may not match the status shown in the SwitchBot app.
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+If you have any other questions, please do not hesitate to contact us.
+
+
+
 
 
 
