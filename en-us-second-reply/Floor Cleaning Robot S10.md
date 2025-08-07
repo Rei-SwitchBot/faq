@@ -105,7 +105,8 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 Remove the faceplate of the S10 cleaning robot body to access a small maintenance tool. Use it to clean up any tangled hair.
 
-【图片1】
+<img width="495" height="448" alt="图片1" src="https://github.com/user-attachments/assets/2b714c7f-9a49-4b4e-987f-994f09dcf511" />
+
 
 Please remove the bearing and clean it to untangle the hair on both ends of the main brush.
 If you have any other questions, please feel free to contact us!
@@ -678,12 +679,18 @@ We apologize for any inconvenience caused.
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
 
 Replacing the water hoses version1: 
-【图片2】
+
+![图片2](https://github.com/user-attachments/assets/18b750f6-470c-4b58-9168-6a6ab43644bf)
+
+
 Video: https://drive.google.com/file/d/1BzI6oBLgaS31MujUieZX18TGobnfZdoM/view?usp=sharing
 Note: Do not forget to attach the black O-rings when exchanging.
 
 Replacing the water hoses version2:
-【图片3】
+
+<img width="1280" height="720" alt="图片3" src="https://github.com/user-attachments/assets/05714425-0436-450f-be1b-2bd962637792" />
+
+
 Video: https://drive.google.com/file/d/1bTX156APxgd4xjROyBLgns23gNd1UlH3/view?usp=drive_link
 
 
@@ -867,4 +874,5 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 Regarding this issue, we recommend contacting Apple Support directly for further investigation.
 Contact Apple Support: https://support.apple.com/en-us/106932?choose-your-country=united-states
+
 Thanks for your understanding!
