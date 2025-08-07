@@ -351,7 +351,8 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 1. To determine if your device needs to be repaired or replaced, could you please tap the SwitchBot app -> K10+ and provide us with a screenshot of the charging status?
 
-【图片1】
+<img width="828" height="1792" alt="图片1" src="https://github.com/user-attachments/assets/7b111b8a-41a6-45d5-91b0-2eab47ffb5ed" />
+
 
 2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
@@ -614,7 +615,8 @@ We apologize for any inconvenience caused.
 1. To determin if your robot needs to be replaced or repaired, could you kindly provide the following information?
 - A screenshot showing the sound volume setting
 
-【图片2】
+<img width="1093" height="936" alt="图片2" src="https://github.com/user-attachments/assets/918a98ab-96cb-4ef0-81ab-4e407319d973" />
+
 
 - A video showing silent wi-fi settings on the K10+
 
@@ -643,7 +645,8 @@ We apologize for any inconvenience caused.
 1. To determine whether the main brush needs to be replaced or the robot requires repair, could you kindly provide the following information?
 - A photo of the main brush attachment area.
 
-【图片3】
+<img width="361" height="255" alt="图片3" src="https://github.com/user-attachments/assets/c336e940-dab2-409a-b09f-aa3b4055d075" />
+
 
 - A video of the robot making the clicking noise.
 
@@ -1308,7 +1311,8 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 1. To determine if your device needs to be repaired or replaced, could you please tap the SwitchBot app -> K10+ Pro Pro Pro and provide us with a screenshot of the charging status?
 
-【图片4】
+<img width="828" height="1792" alt="图片4" src="https://github.com/user-attachments/assets/1a384e19-5fed-45ad-bf36-d4b1705a0af7" />
+
 
 2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
@@ -1571,7 +1575,8 @@ We apologize for any inconvenience caused.
 1. To determin if your robot needs to be replaced or repaired, could you kindly provide the following information?
 - A screenshot showing the sound volume setting
 
-【图片5】
+<img width="1093" height="936" alt="图片5" src="https://github.com/user-attachments/assets/4ebd43eb-196e-4e37-98c0-1013dacb8f7d" />
+
 
 - A video showing silent wi-fi settings on the K10+ Pro Pro Pro
 
@@ -1600,7 +1605,8 @@ We apologize for any inconvenience caused.
 1. To determine whether the main brush needs to be replaced or the robot requires repair, could you kindly provide the following information?
 - A photo of the main brush attachment area.
 
-【图片6】
+<img width="361" height="255" alt="图片6" src="https://github.com/user-attachments/assets/f93ceedf-916f-4bf7-a982-7a6cdbd5b74d" />
+
 
 - A video of the robot making the clicking noise.
 
@@ -2044,6 +2050,7 @@ We apologize for any inconvenience caused.
 ---
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
