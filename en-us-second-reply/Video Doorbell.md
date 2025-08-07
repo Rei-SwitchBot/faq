@@ -63,19 +63,23 @@ Please note:
 Doorbell:
 1. It's recommended to position your device 1.2 m to 1.5 m (44 ft to 4.9 ft) off the ground. To get a better signal strength, please avoid installation on metal door or surface.
 
-【图片1】
+<img width="289" height="260" alt="图片1" src="https://github.com/user-attachments/assets/cc5360ab-bf10-4578-a5e7-6748d01e44a0" />
+
 
 2. Use the provided wall mounting kit and corner kit to angle your device properly and avoid unwanted motion events.
 
-【图片2】
+<img width="566" height="207" alt="图片2" src="https://github.com/user-attachments/assets/d623e98e-23b9-4287-b940-a00cde1a9f10" />
+
 
 3. Ensure your Doorbell's camera is not directed at light-coloreed walls, and keep it away from direct sunlight.
 
-【图片3】
+<img width="782" height="257" alt="图片3" src="https://github.com/user-attachments/assets/7ddb5622-a321-4906-abf9-44fa19e8dc4e" />
+
 
 4. Leave at least 6 cm (2.4 in.) of clearance on the right side of your Doorbell for easy clamping and removal.
 
-【图片4】
+<img width="276" height="257" alt="图片4" src="https://github.com/user-attachments/assets/4a99de1d-6943-492d-b6b6-e124cfddf13b" />
+
 
 5. To ensure a stable connectivity, keep an appropriate distance beetween your Doorbell, Monitor, SwitchBot Lock devices, and the router.
 
@@ -94,6 +98,7 @@ https://www.youtube.com/watch?v=_t88WivtfYY
 ### Is It Normal to Experience Delays in Video Display and Audio Response When Using SwitchBot Smart Video Doorbell With an Echo Show?
 
 When the doorbell is pressed, the linked Amazon Alexa device (Echo Show) will automatically display the doorbell video. Additionally, by tapping the microphone icon on the screen, you can have a conversation with visitors. However, depending on the network connection, there may be a delay of approximately 2 seconds for video display and voice response. We apologize for any inconvenience and thank you for your understanding.
+
 
 
 
