@@ -386,6 +386,34 @@ Note: It takes approximately 15-30 minutes to complete the firmware recovery.
 8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
 
 
+---
+### Troubleshooting Failed to Update SwitchBot Hub 3 Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We regret to inform you that controlling a grouped Color Bulb with SwitchBot Hub 3 is not supported. However, you can trigger the scene by using Hub 3 to enable grouped bulbs to switch on and off together.
+We'll guide you on how to achieve it.
+1, Create a grouped color bulb On Scene
+- Open the SwitchBot App.
+- Tap the "+" symbol in the upper right corner and tap "Add Scene".
+- Enter Scene name.
+- Add the grouped bulb on as an action.
+- Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
+- Save
+
+2, Create a grouped color bulb Off Scene in the same order.
+
+3, Synchronize these two scenes to the Hub 3.
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Device & Scenes".
+- Tap "Manage Scenes".
+- Tap "+" icon next to the target scenes.
+- Synchronization settings will be performed automatically.
+
+Once synchronization is finished, you can trigger the scenes by pressing the dial button on Hub 3.
+
+If you have any other questions, please do not hesitate to contact us.
+
 
 
 
