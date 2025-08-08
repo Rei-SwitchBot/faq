@@ -1656,7 +1656,7 @@ When using the S20's base station:
 <img width="870" height="675" alt="image" src="https://github.com/user-attachments/assets/57730cc8-b6b6-4674-8e30-410e9d8a1cf5" />
 
 5. Please refer to the video below to verify whether your S20 robot's waste water pump is functioning correctly.
-Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
+Video: [https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing](https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing)
 Tips:
   a. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
   b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
@@ -1681,7 +1681,7 @@ When using the water station:
 5. Please check if the waste water box is full or empty. 
 
 6. Please refer to the video below to verify whether your S20 robot's waste water pump is functioning correctly.
-Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
+Video: [https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing](https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing)
 Tips:
   a. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
   b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
@@ -1690,6 +1690,7 @@ Tips:
 
   c. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   d. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Saying the Dustbin Has Been Removed Even When It Isn't
