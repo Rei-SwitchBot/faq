@@ -518,17 +518,31 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Is Not Sucking the Dirty Water After Mopping
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Remove the waste water box and take a photo for us
-- A video showing the robot not being able to drain water
+When using the S20's base station:
+  1. A video demonstrating the testing of the waste water pump
+  2. Remove the waste water box and take a photo for us
+  3. A photo showing the backside of the waste water filter cover 
+Note: Remove the waste water tank and open the cover of the waste water filter indicated by the red mark in the diagram below.
+
+<img width="501" height="657" alt="image" src="https://github.com/user-attachments/assets/60e75e7e-9597-4f34-8371-05463f122d67" />
+
+When using the water station:
+  1. A video demonstrating the testing of the waste water pump
+  2. Remove the waste water box and take a photo for us
+  3. A photo showing the backside of the waste water filter cover 
+Note:
+Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
+
+<img width="447" height="178" alt="image" src="https://github.com/user-attachments/assets/9851972f-8158-44f4-a3a8-04a0cd7403a1" />
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
 
 
 ---
@@ -921,4 +935,5 @@ We apologize for any inconvenience caused.
 ---
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
