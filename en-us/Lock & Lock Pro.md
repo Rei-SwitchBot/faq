@@ -4359,3 +4359,31 @@ Add Lock to the app again.
 ### What Is the Torque of SwitchBot Lock?
 
 The torque of the lock during normal operation is 4.0~4.5kgf.cm, and the torque when it is jammed is 9kgf.cm.
+
+
+---
+### Where Can I Purchase the Mounting Plate for SwitchBot Lock?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We're happy to provide this mounting plate at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request mounting plate, please contact us and we'll provide a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
