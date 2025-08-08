@@ -464,6 +464,381 @@ If you have any other questions, please feel free to contact us.
 
 
 
+---
+### Troubleshooting Unusually Fast Battery Drain in SwitchBot Lock Pro
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. Low battery error screenshot
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting: Where Can I Purchase the Mounting Plate for SwitchBot Lock Pro?
+
+Thank you for the information.
+If you are willing to pay the shipping fee, our team will arrange a payment link for you based on the order and delivery address you provided. 
+We appreciate your patience and understanding.
+If you have any other questions, please feel free to contact us.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Cannot Detect the Magnet During Calibration
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+If the magnet cannot be detected and affects automatic locking, we will provide you with a contact sensor to resolve this issue. Could you kindly provide the following information:
+- A screenshot displaying magnet detection failure
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro JP Version Gets Jammed Frequently
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. Video taken from the side that clearly shows the movement of the thumbturn and jamming
+  2. Video of the recalibration of Lock Pro
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting Can't Connect SwitchBot Lock Pro to Hub
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing the connection signal by navigating to SwitchBot App -> Profile -> Manage Hub -> the relevant Hub 
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Does Not Power on
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A Photo showing the installation status of the four batteries
+  2. A video of the Lock Pro not responding after inserting the battery case (with batteries installed)
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Auto-Lock Stops Working
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+If the auto-lock doesn't function, we will provide you with a contact sensor to resolve this issue. Could you kindly provide the following information:
+- Photo showing magnet installation
+- Video of Lock Pro recalibration
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting Has Trouble Receiving Notifications from My SwitchBot Lock Pro
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+1. Are notifications missing from the SwitchBot App's notifications (left figure), or are they not showing up as push notifications on your phone (right figure)? Understanding this helps us diagnose the issue better.
+
+<img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/243128b4-087a-47e6-b0f0-bbc27e22af63" />
+
+2. When the issue occurs and which actions lead to notifications not being received.
+3. Screenshots of the following:
+  1. Lock Pro's logs screen
+  2. Notifications in the SwitchBot App
+  3. Push notification screen from your smartphone
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Appears to Be Using Power from Both Battery A and Battery B Rather Than Alternating Between Them
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you please capture the rechargeable batteries levels by going to SwichBot App -> Lock Pro -> Gear Icon -> Firmware & Batteries?
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Keeps Saying Door Is Open.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+Regarding this issue, we will provide you with a contact sensor to resolve this issue. Could you kindly provide the following information:
+- Photo showing magnet installation
+- Notification screenshot
+Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting Unable to Add SwitchBot Lock Pro to the App Even Though Its Light Flashes Blue
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A video showing the flashing light but unable to pair your Lock Pro.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting The Locking and Unlocking Time Shown on SwitchBot App Doesn’t Match Reality
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A screenshot of the incorrect time for locking and unlocking logs, as well as the actual times when these events occurred.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting The Locking and Unlocking Log of SwitchBot Lock Pro Is No Longer Updated.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you please provide us with a screenshot of the locking and unlocking logs?
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting Some Locking and Unlocking Logs of SwitchBot Lock Pro Are Missing.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you please provide us with a screenshot showing the locking and unlocking logs, as well as the missing period?
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Lock Pro Frequently Enters Emergency Power Mode and Fails to Complete the Locking and Unlocking Process.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you please kindy provide us with the following information:
+- Lock Pro calibration video
+- Screenshot showing emergency power message
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+---
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+---
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
 
 
 
