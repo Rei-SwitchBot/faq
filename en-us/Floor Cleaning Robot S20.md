@@ -3173,6 +3173,29 @@ Tips:
   3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
 
+When using the water station:
+1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
+2. Make sure that the fresh water hose is not damaged or folded.
+3. Make sure that the water station's auto-fill port is attached and undamaged.
+
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/1bd292d2-61a0-46a8-9ce9-b7404758b35c" />
+
+4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
+[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view)
+5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
+6. Please refer to the video below to verify whether your S20 robot ’s fresh water pump is functioning correctly.
+[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view)
+Tips:
+  1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/63d0376e-9a90-4489-8f0c-7d56b8a1d760" />
+
+  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
+
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Is Not Sucking the Dirty Water After Mopping
