@@ -2271,7 +2271,7 @@ Regarding this issue, could you please check the following points?
 
 3. Remove the dust bag and close the lid of the dual empty station. If the lid is correctly detected, the orange light will blink three times ([video](https://drive.google.com/file/d/1fO6RbkA_VQiXQH-BbipsSUgJMxAKikHS/view)).
 Note: Since the dust bag is not installed, the orange light will remain constantly on afterward.
-4. Remove the rubber on the back of the lid and use a magnet or metal object to check for the built-in magnet ([video](https://drive.google.com/file/d/1fE3p34CjozYwWOxRd4Pb5yOr62rmFwlf/view)). If it's missing, please contact our support team through the SwitchBot App to get a replacement lid.
+4. Remove the rubber on the back of the lid and use a magnet or metal object to check for the built-in magnet [(video)](https://drive.google.com/file/d/1EcDYoNKmhX_hGfgRRgpbSWqaYSptDHUL/view). If it's missing, please contact our support team through the SwitchBot App to get a replacement lid.
 
 ![image](https://github.com/user-attachments/assets/30014f82-ac36-46b7-aa65-13bcf8b81fd2)
 
