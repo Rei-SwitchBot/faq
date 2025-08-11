@@ -2251,13 +2251,14 @@ SwitchBotアプリにログイン
 1．デュアル集塵ステーションの蓋を開けて、紙パックを再装着します。必要であれば、紙パックの位置を左右に調整してください。正しく装着されると、デュアルステーションのランプはオレンジ色で三回点滅します（[動画](https://drive.google.com/file/d/1x8uw7jBzZwsT0Hl8swe2kYFxZOP-iUMz/view)）。
 2．デュアル集塵ステーション蓋の裏と表を間違えないようお願いいたします。
 
-![image](https://github.com/user-attachments/assets/1f6e5367-e71a-4347-b46b-fff4c1067600)
+<img width="1280" height="848" alt="image" src="https://github.com/user-attachments/assets/541fb729-8559-4ace-86d5-09b548494752" />
 
 3．紙パックが未装着のままで、デュアル集塵ステーション蓋を閉めます。蓋が正しく検出されると、デュアルステーションのランプはオレンジ色で三回点滅します（[動画](https://drive.google.com/file/d/1fO6RbkA_VQiXQH-BbipsSUgJMxAKikHS/view)）。
 備考：紙パックが未装着ですので、デュアル集塵ステーションはオレンジ色で点灯します。
-4．デュアル集塵ステーション蓋の裏側のゴムを外します。鉄棒や磁力のあるものなどで下図赤枠の所に当てて、磁石があるかご確認ください（[動画](https://drive.google.com/file/d/1fE3p34CjozYwWOxRd4Pb5yOr62rmFwlf/view)）。
+4．デュアル集塵ステーション蓋の裏側のゴムを外します。鉄棒や磁力のあるものなどで下図赤枠の所に当てて、磁石があるかご確認ください（[動画](https://drive.google.com/file/d/1EcDYoNKmhX_hGfgRRgpbSWqaYSptDHUL/view)）。磁石がない場合、SwitchBotアプリにログイン→プロフィール→サポートセンター→フィードバックまでご連絡ください。サポートチームにて新しい蓋を手配いたします。
 
-![image](https://github.com/user-attachments/assets/f17ecbfa-563e-40f6-99f0-5b0a6c79a20d)
+<img width="587" height="567" alt="image" src="https://github.com/user-attachments/assets/3982184b-42f8-469e-bfbe-5ad21132b296" />
+
 
 
 ---
