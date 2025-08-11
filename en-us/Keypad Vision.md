@@ -65,6 +65,7 @@ Regarding this issue, could you please check the following points?
 1. Please charge the Keypad Vision for over an hour.
 2. Please turn on the power button located on the back of the Keypad Vision.
 
+
 ---
 ### Troubleshooting SwitchBot Keypad Vision Battery Drains Very Quickly
 
@@ -72,8 +73,9 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Make sure tigger face recognition has been set to manual. If set to automatic, face recognition will be activated just by passing in front of the device, increasing battery consumption.
 Setting method: Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Tigger Face Recognition -> Manual
-2. Please update the firmware of your Keypad Vision to V1.5* to see if it helps.
+2. Please update the firmware of your Keypad Vision to V1.7 or newer* to see if it helps.
 *If you have not received the latest firmware version, please feel feel to contact our support team.
+
 
 ---
 ### Troubleshooting SwitchBot Keypad Vision's Face Recognition Failed
