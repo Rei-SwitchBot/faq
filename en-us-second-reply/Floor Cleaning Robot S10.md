@@ -876,3 +876,12 @@ Regarding this issue, we recommend contacting Apple Support directly for further
 Contact Apple Support: https://support.apple.com/en-us/106932?choose-your-country=united-states
 
 Thanks for your understanding!
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 External Water Tank Won't Auto-refill Water
+
+If the indicator light blinks once and then turns off, it indicates that the External Water Tank is recognized correctly. If the water refill issue persists, we will escalate the matter to our R&D team for further investigation.
+If the indicator light behaves in any other manner, and the issue persists after unplugging and replugging the Type-C cable two or three times, we will arrange a replacement for you.
+
+
