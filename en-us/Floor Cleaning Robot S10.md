@@ -2799,15 +2799,15 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the external water tank not auto-refilling water, could you please check the following points?
 1. Please make sure that the Type-C cable of the External Water Tank is securely connected to the Water Station.
 
-![image](https://github.com/user-attachments/assets/1e94c47a-b3df-42b6-aec8-147fa1ea12a9)
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/8ed378bf-6d42-42c3-a8ed-61966a39c6c2" />
 
 2. Please check if the water supply hose and drainage hose (especially the gasket and joint) are correctly installed on the External Water Tank.
-Installation video: https://www.youtube.com/watch?v=E9m7NeFow1o
+Installation video: [https://www.youtube.com/watch?v=E9m7NeFow1o](https://www.youtube.com/watch?v=E9m7NeFow1o)
 3. Please inspect the clean water hose for any damage or bends.
-4. In the SwitchBot app, navigate to S10 -> Gear icon -> Firmware & Battery, and verify that the Water Station's firmware is V36 or later. If necessary, please update the firmware.
+4. In the SwitchBot app, navigate to S10 -> Gear icon -> Firmware & Battery, and verify that the Water Station's firmware is V3.6 or later. If necessary, please update the firmware.
 5. Press and hold the Bluetooth button on the side of the Water Station for 6 seconds until the indicator light flashes. Then, disconnect the Type-C cable connected to the Water Station and wait until the indicator light turns off. Reconnect the Type-C cable and observe the indicator light.
 
-![image](https://github.com/user-attachments/assets/a9193039-daab-49ec-a4f3-887d0a7157d5)
+<img width="896" height="393" alt="image" src="https://github.com/user-attachments/assets/596cce0c-e06e-48fb-819a-bbceaad3e020" />
 
 6. If the indicator light blinks once and then turns off, it indicates that the External Water Tank is recognized correctly. If the water refill issue persists, we will escalate the matter to our R&D team for further investigation.
 7. If the indicator light behaves in any other manner, and the issue persists after unplugging and replugging the Type-C cable two or three times, we may need to determine if the External Water Tank requires replacement. To assist us in this process, we kindly request the following information:
@@ -2824,6 +2824,8 @@ Installation video: https://www.youtube.com/watch?v=E9m7NeFow1o
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 
 ---
