@@ -1211,6 +1211,16 @@ Regarding this issue, could you please check the following points?
 1. Please check for direct sunlight, bright lights, or glass elements in the outdoor camera installation area. If needed, relocate the installation.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Detects Motion, but I Am Not Receiving Any Notifications on My Phone.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. In the settings app on your smartphone, go to the SwitchBot app, then to Notifications, and grant push notification permissions in that order.
+2. Open the SwitchBot App, go to Profile > Preferences > App Notifications, ensure that App Notifications are turned on and that any Do Not Disturb periods are set correctly.
+3. In the same App Notifications menu, scroll to "Notifications Management" under "Device Notifications", find the outdoor spotlight cam, and make sure notifications are allowed.
+
+
 
 
 
