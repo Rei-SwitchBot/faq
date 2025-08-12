@@ -1,0 +1,517 @@
+---
+
+## Outdoor Spotlight Cam
+
+---
+
+---
+### Troubleshooting Unable to Charge SwitchBot Outdoor Spotlight Cam 2K with Adapter and USB Cable
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A photo or video displaying the status of the LED light on the camera while charging
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Suddenly Drains All Batteries
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Won't Turn on
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+- A video of the indicator light when holding down the reset button for 5 seconds
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting Unable to Charge SwitchBot Outdoor Spotlight Cam 2K with the Solar Panel
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshots showing the recording mode, detection sensitivity, and detection mode settings of the camera
+- A photo showing your camera's installation environment
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Real-time Monitoring Screen Turned pink
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A screenshot showing the camera footage turning pink
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting All Detected Events Show Incorrect Date (March 1, 2024) on SwitchBot Outdoor Spotlight Cam
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screen recording showing: you opening the SwitchBot App, selecting the outdoor spotlight camera, and scrolling through the event list where the incorrect dates are visible. 
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Solid Red Light Always On
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. a video of pressing the reset button for 5 seconds and the device does not make a sound and the red light is always on.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam No Longer Turns on
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing the connection of the Outdoor Spotlight Cam main unit to the adapter and Type-C charging cable to confirm the indicator.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Can't Charge My Outdoor Spotlight Cam with the Solar Panel
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+- Photos showing outdoor cameras and solar panel installation
+- Number of events occurring per day
+- Power Mode Screenshot by going to SwitchBot App -> Outdoor Spotlight Cam -> Gear Icon -> Basic Settings -> Power Mode
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting the Indicator Light Does Not Turn on and SwitchBot Outdoor Spotlight Cam Cannot Be Charged When Using a 5V2A Charger
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing the connection of the Outdoor Spotlight Cam main unit to the adapter and Type-C charging cable to confirm the indicator.
+  2. A video showing the reset process
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam's Battery Suddenly Drains Drastically After Upgrading Firmware
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Outdoor Spotlight Cam Cannot Be Recognized
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot of an error message indicating that the microSD card is not recognized
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Outdoor Spotlight Cam Cannot Be Formatted
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot of an error message indicating that the microSD card is not formatted
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this informattedion, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+If the recommended SD card cannot be formatted, please provide a detailed description of the issue to help us determine if a replacement Outdoor Spotlight Cam is necessary.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Records With a Delay After Motion Detection
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video that can display delays.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Unable to View the Playback Recordings on SwitchBot Outdoor Spotlight Cam's microSD Card.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot showing that there was an event, but the playback video couldn't be viewed.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this informattedion, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+If the recommended SD card cannot be formatted, please provide a detailed description of the issue to help us determine if a replacement Outdoor Spotlight Cam is necessary.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Footage Has Turned Completely Pink.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot showing a pink-colored image
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Suddenly Drains All Batteries
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Doesn't Detect Motions
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot showing the motion detection settings
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Footage Is Overexposed and Unclear.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photos showing the installation of the camera
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Detects Motion, but I Am Not Receiving Any Notifications on My Phone.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+1. Are notifications missing from the SwitchBot App's notifications (left figure), or are they not showing up as push notifications on your phone (right figure)? Understanding this helps us diagnose the issue better.
+
+<img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/ce92886e-4c8e-421b-b18d-ac682df4d1a6" />
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Detected Motion, but There Is No Recording Available to Play Back When Tapping on the Event.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. Screen recording that confirms there is no playback available when tapping on the event
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this informattedion, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Is Not Detecting Any Motion, Yet Motion Detection Notifications Are Being Received, Resulting in a High Number of False Detections.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. The frequency of false detections, such as receiving a false notification every minute.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Fails to Load Every Time and Does Not Display the Video.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshot of a video loading failure on the app
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Frequently Goes Offline, Making It Impossible to Watch Videos Normally.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. Screen recording of a failed video loading in the app
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Couldn't Connect to Wi-Fi and Can't Be Added to SwitchBot App.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. Screen recording of the failure to add the device to the SwitchBot app 
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
