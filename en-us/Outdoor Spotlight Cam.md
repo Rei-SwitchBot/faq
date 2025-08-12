@@ -1281,6 +1281,24 @@ Regarding this issue, could you please check the following points?
 6. Please remove the Outdoor Spotlight Cam from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Couldn't Connect to Wi-Fi and Can't Be Added to SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. When adding Outdoor Spotlight Cam, please ensure that you enter the Wi-Fi SSID and password correctly, including uppercase and lowercase letters.
+4. When you open the waterproof cover of the device, you will see the MAC address. If the Wi-Fi router has a whitelist, please add the MAC address to the whitelist.
+5. Place the Outdoor Spotlight Cam closer to the Wi-Fi router (within 5 meters).  
+6. Restart your home router.  
+7. If you are using a VPN, please temporarily disable it.
+8. Please check if your smartphone or other Wi-Fi-enabled devices can connect to the internet properly.
+9. As a troubleshooting step, check if the Outdoor Spotlight Cam can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983
+](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
 
 
 
