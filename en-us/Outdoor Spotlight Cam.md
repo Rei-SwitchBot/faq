@@ -1113,3 +1113,21 @@ Regarding this issue, could you please check the following points?
 
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Records With a Delay After Motion Detection
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. In the SwitchBot App, go to Outdoor Spotlight Cam → Settings (gear icon) → Motion Detection and set the detection frequency to high.
+2. Make sure the camera is positioned to capture movement effectively. If the motion comes towards the direction of the infrared signal emitted from the camera, it may not be detected properly. Adjust the camera placement so that movement can cut the signal for better detection.
+
+<img width="502" height="213" alt="image" src="https://github.com/user-attachments/assets/28905f7b-8dc6-4151-92ca-b240e1d643c5" />
+
+3. Here are some notes on how to set up your Outdoor Spotlight Cam.
+Height: 2.5m(8.5 ft.) above the ground
+Angle: 15℃ downwards vertically
+
+<img width="528" height="381" alt="image" src="https://github.com/user-attachments/assets/27b705a9-540e-4bd5-b990-1a71cbd45459" />
+
+The maximum distance a human body can be detected: 7.5 meters
+
