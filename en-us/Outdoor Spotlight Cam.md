@@ -1221,6 +1221,25 @@ Regarding this issue, could you please check the following points?
 3. In the same App Notifications menu, scroll to "Notifications Management" under "Device Notifications", find the outdoor spotlight cam, and make sure notifications are allowed.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Detected Motion, but There Is No Recording Available to Play Back When Tapping on the Event.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the recording option is turned on by going to SwitchBot app → Outdoor Spotlight Cam → Gear icon → Local Storage.
+
+2. Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
+ 
+3. Format the microSD card to the FAT32 format on your computer, then insert it into the Outdoor Spotlight Cam and check if the issue is resolved.  
+
+4. If you have multiple microSD cards, try inserting a different microSD card into the Outdoor Spotlight Cam and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
+
+5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.  
+
+6. Try removing the camera from the app and resetting it by pressing and holding the reset button on the back for 5 seconds.
+
+
+
 
 
 
