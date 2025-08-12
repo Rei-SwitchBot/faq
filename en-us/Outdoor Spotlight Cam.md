@@ -1263,6 +1263,24 @@ Regarding this issue, could you please check the following points?
 3. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Frequently Goes Offline, Making It Impossible to Watch Videos Normally.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have other SwitchBot cameras linked to your account, please check if similar issues are occurring.  
+
+2. Please check if the video can be loaded at a distance of 3 meters from the router.
+
+3. If there are wireless electronic devices around the Outdoor Spotlight Cam, communication may be disrupted. Please relocate the Outdoor Spotlight Cam to a different position.
+
+4. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+
+5. Please restart the router.
+
+6. Please remove the Outdoor Spotlight Cam from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+
+
 
 
 
