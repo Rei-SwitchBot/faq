@@ -1053,7 +1053,6 @@ Regarding this issue, could you please check the following points?
 4. Please try resetting the Outdoor Spotlight Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
 
 
-
 ---
 ### Troubleshooting the Indicator Light Does Not Turn on and SwitchBot Outdoor Spotlight Cam Cannot Be Charged When Using a 5V2A Charger
 
@@ -1062,5 +1061,18 @@ Regarding this issue, could you please check the following points?
 1. Please check if it is possible to charge using another 5V2A adapter and a Type-C charging cable on hand. If you do not have a spare charger, as part of troubleshooting, verify whether the adapter in question can charge your smartphone.
 2. Switch the ON/OFF button to OFF, then switch it to ON again.
 3. Please try resetting the Outdoor Spotlight Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
+
+
+---
+### [Request Handling]Outdoor Spotlight Cam
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Outdoor Spotlight Cam can only be added to one account. If a Outdoor Spotlight Cam is added to another account of yours, please delete the Outdoor Spotlight Cam from that account first and then add it to a new account.
+※Long press the SwitchBot Outdoor Spotlight Cam icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Outdoor Spotlight Cam will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
