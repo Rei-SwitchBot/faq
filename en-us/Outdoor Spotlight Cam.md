@@ -1076,3 +1076,12 @@ Regarding this issue, could you please check the following points?
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam's Battery Suddenly Drains Drastically After Upgrading Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please verify the power mode of the Outdoor Spotlight Cam by navigating to SwitchBot App -> Outdoor Spotlight Cam -> gear icon -> basic settings -> power mode. If it is set to wired mode, the camera will run continuously and drain the battery quickly. Switch the power mode of the outdoor camera to battery mode and see if this improves the situation.
+
+
+
