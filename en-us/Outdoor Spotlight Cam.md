@@ -1157,7 +1157,6 @@ Regarding this issue, could you please check the following points?
 2. Switch the camera's night vision mode. If it is currently on, turn it off (and vice versa).
 
 
-
 ---
 ### Troubleshooting SwitchBot Outdoor Spotlight Cam Suddenly Drains All Batteries
 
@@ -1171,6 +1170,40 @@ SwitchBot App -> Outdoor Spotlight Cam -> Gear Icon -> Basic Settings -> Power M
 3. In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
 4. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, sensitivity, or limit detection to human to improve this.
 5. If there are many false detections, the battery will be drained. Please check if there are changes in light (such as glass or direct sunlight) and subtle movements (like air conditioner vents, curtains, or fans) in the outdoor camera's installation environment. If necessary, change the installation location and set the detection sensitivity to low.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Doesn't Detect Motions
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure you have enabled motion detection and please configure the detection type according to your preferences.
+2. Motion detection will occur based on the set detection time periods and areas.Thank you for your understanding.
+3. Please set the detection sensitivity to High.  
+Low Detection Sensitivity: 1–3 meters  
+Medium Detection Sensitivity: 4–6 meters  
+High Detection Sensitivity: 7–9 meters
+
+<img width="1127" height="2177" alt="image" src="https://github.com/user-attachments/assets/309d2a69-11c8-4a3e-9764-f80c01f8c4c9" />
+
+4. Objects with detectable heat signatures and in motion can be identified; however, the movement of cold-blooded animals may not be detected. Thank you for your understanding.
+5. Make sure the camera is positioned to capture movement effectively. If the motion comes towards the direction of the infrared signal emitted from the camera, it may not be detected properly. Adjust the camera placement so that movement can cut the signal for better detection.
+
+<img width="502" height="213" alt="image" src="https://github.com/user-attachments/assets/a4a10f0b-bc53-4bbe-8f31-d071424a3182" />
+
+6. Here are some notes on how to set up your Outdoor Spotlight Cam.
+Height: 2.5m(8.5 ft.) above the ground
+Angle: 15℃ downwards vertically
+
+<img width="528" height="381" alt="image" src="https://github.com/user-attachments/assets/4f2882dc-0b97-420b-a3f2-1cadb0510f27" />
+
+The maximum distance a human body can be detected: 7.5 meters
+
+7. Please check if you can view the video in the SwitchBot app.  
+8. Try removing the camera from the app and resetting it by pressing and holding the reset button on the back for 5 seconds.
+
+
+
 
 
 
