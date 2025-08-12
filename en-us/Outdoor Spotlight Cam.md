@@ -1147,3 +1147,13 @@ Regarding this issue, could you please check the following points?
 5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
 
 
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Footage Has Turned Completely Pink.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Switch the ON/OFF button to OFF, then switch it to ON again.
+2. Switch the camera's night vision mode. If it is currently on, turn it off (and vice versa).
+
+
