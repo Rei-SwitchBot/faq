@@ -1112,7 +1112,6 @@ Regarding this issue, could you please check the following points?
 4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be formatted.
 
 
-
 ---
 ### Troubleshooting SwitchBot Outdoor Spotlight Cam Records With a Delay After Motion Detection
 
@@ -1130,4 +1129,21 @@ Angle: 15℃ downwards vertically
 <img width="528" height="381" alt="image" src="https://github.com/user-attachments/assets/27b705a9-540e-4bd5-b990-1a71cbd45459" />
 
 The maximum distance a human body can be detected: 7.5 meters
+
+
+---
+### Troubleshooting Unable to View the Playback Recordings on SwitchBot Outdoor Spotlight Cam's microSD Card.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the recording option is turned on by going to SwitchBot app → Outdoor Spotlight Cam → Gear icon → Local Storage.
+
+2. Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
+ 
+3. Format the microSD card to the FAT32 format on your computer, then insert it into the Outdoor Spotlight Cam and check if the issue is resolved.  
+
+4. If you have multiple microSD cards, try inserting a different microSD card into the Outdoor Spotlight Cam and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
+
+5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
+
 
