@@ -1042,3 +1042,15 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Launch SwitchBot app → Outdoor Spotlight Cam 2K → Turn on/off Night Vision under the features on the bottom right corner of the screen.
 2. Turn on/off the power to the Outdoor Spotlight Cam 2K.
+
+
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Solid Red Light Always On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have another 5V2A charging adapter or cable, please test it to see if your problem is resolved.
+2. Switch the ON/OFF button to OFF, then switch it to ON again.
+3. Please try resetting the Outdoor Spotlight Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
+
+
