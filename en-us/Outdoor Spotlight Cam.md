@@ -1253,6 +1253,17 @@ High Detection Sensitivity: 7–9 meters
 <img width="1127" height="2177" alt="image" src="https://github.com/user-attachments/assets/ad51eeb5-3fc9-4ecc-84df-e53cb9d1cb40" />
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Fails to Load Every Time and Does Not Display the Video.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please remove the Outdoor Spotlight Cam from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+3. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
+
+
+
 
 
 
