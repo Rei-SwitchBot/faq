@@ -937,35 +937,23 @@ Hey Google, show my [Device Name].
 
 
 ---
-### What to Do If I Can't Charge My Outdoor Spotlight Cam with the Solar Panel?
+### Troubleshooting Can't Charge My Outdoor Spotlight Cam with the Solar Panel
 
-Last Updated: 2024 Jun 14
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure proper connection and charging of the solar panel for the Outdoor Spotlight Cam. When viewing the Outdoor Spotlight Cam on the SwitchBot App, check for the presence of a sun icon within the battery icon to indicate that the solar panel is successfully recognized. 
+2. Please ensure the following when using solar panels to charge your device:
+- The solar panel must be securely connected to your camera
+- Install the panel in an area with direct sunlight exposure (minimum 4 hours daily)
+- Keep the panel surface clean and undamaged – remove leaves/debris immediately
+- Maintain installation angle below 45 degrees from horizontal for optimal performance
 
-Related Products: SwitchBot Outdoor Spotlight Cam
-
-SwitchBot App Version: 8.5 or newer
-
-Firmware Version: 2.1.15-1.2
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure SwitchBot Outdoor Spotlight Cam has been added to your App and your device firmware version is up to date.
-
-3. Make sure proper connection and charging of the solar panel for the Outdoor Spotlight Cam. When viewing the Outdoor Spotlight Cam on the SwitchBot App, check for the presence of a sun icon within the battery icon to indicate that the solar panel is successfully charging.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/24174458040855)
-
-4. If you want to charge the battery with a solar panel, please set the power mode of the Outdoor Spotlight Cam to battery mode.
-
+3. Please set the power mode of the Outdoor Spotlight Cam to battery mode.
 SwitchBot App -> Outdoor Spotlight Cam -> Gear Icon -> Basic Settings -> Power Mode -> Set to Battery Mode.
 
-5. The solar panel can charge the battery by approximately 4% per hour. The more activity in front of the Outdoor Spotlight Cam, the quicker the battery drains. In some cases, the depletion may exceed the charging amount, causing the battery to run down even after recharging. If necessary, we recommend using a charging adapter to recharge the battery.
+4. Please check if the battery power increases after one day of turning off motion detection and not viewing live video. If many events occur in front of the lens, the battery may drain quickly, making it seem as though it cannot be charged by the solar panel.
 
-6. If your Outdoor Spotlight Cam's battery is draining unusually fast without any activity, please provide the following information would be useful:
-
-Photos showing outdoor cameras and solar panel installation
-
-Number of events occurring per day
+5. If you have multiple solar panels, please switch to another solar panel and see if the problem improves.
 
 
 
