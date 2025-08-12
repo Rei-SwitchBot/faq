@@ -1203,6 +1203,14 @@ The maximum distance a human body can be detected: 7.5 meters
 8. Try removing the camera from the app and resetting it by pressing and holding the reset button on the back for 5 seconds.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam Footage Is Overexposed and Unclear.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for direct sunlight, bright lights, or glass elements in the outdoor camera installation area. If needed, relocate the installation.
+
+
 
 
 
