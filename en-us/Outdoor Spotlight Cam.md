@@ -1054,3 +1054,14 @@ Regarding this issue, could you please check the following points?
 3. Please try resetting the Outdoor Spotlight Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam No Longer Turns on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. There is a possibility that it is out of battery. Please charge the camera for over an hour.
+2. If you have another 5V2A charging adapter or cable, please test it to see if your problem is resolved.
+3. Switch the ON/OFF button to OFF, then switch it to ON again.
+4. Please try resetting the Outdoor Spotlight Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
+
+
