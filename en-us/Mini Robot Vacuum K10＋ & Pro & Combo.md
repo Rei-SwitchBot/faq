@@ -3498,7 +3498,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue that the robot fails to clean due to a main brush stuck error, could you please check the following points?
 1. Remove the main brush and check if the marked area (main brush mounting part) shows signs of melting, as indicated in the red arrow in the diagram below.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f3a65480-9649-4098-9972-c32361a79935" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ef1e42f-a45d-464e-8ef6-924aefe4edef" />
 
 2. Remove the main brush and brush frame, then run the robot to check if the same error persists.
 
