@@ -26,7 +26,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -37,8 +36,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -62,7 +59,6 @@ We apologize for any inconvenience caused.
 We will determine whether the device needs to be replaced based on the extent of wear on the roller section, so it would be helpful if you could provide a photo that clearly show the wear on the roller section.
 Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -73,8 +69,6 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -107,7 +101,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -118,8 +111,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -135,7 +126,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -146,8 +136,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -163,7 +151,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -174,8 +161,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -191,7 +176,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -202,8 +186,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -221,7 +203,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -232,8 +213,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -262,7 +241,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -273,8 +251,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -290,7 +266,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -301,8 +276,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -318,7 +291,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -329,8 +301,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -346,7 +316,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -357,8 +326,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -372,7 +339,6 @@ We apologize for any inconvenience caused.
 We will determine whether the device needs to be replaced based on the extent of wear on the roller section, so it would be helpful if you could provide a photo that clearly show the wear on the roller section.
 Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -383,8 +349,6 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -404,7 +368,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -415,8 +378,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -445,7 +406,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -456,8 +416,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -473,7 +431,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -484,8 +441,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -501,7 +456,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -512,8 +466,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -531,7 +483,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -542,8 +493,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -572,7 +521,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -583,8 +531,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -600,7 +546,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -611,8 +556,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -628,7 +571,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -639,8 +581,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -657,7 +597,6 @@ We would appreciate it if you could provide the following information, as it wil
 
 Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -668,8 +607,6 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *Shipping charges may apply in some cases.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
@@ -686,7 +623,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -697,8 +633,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -729,7 +663,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -740,8 +673,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -757,7 +688,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -768,8 +698,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -785,7 +713,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -796,8 +723,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -822,7 +747,6 @@ We apologize for any inconvenience caused.
 We will determine whether the device needs to be replaced based on the extent of wear on the roller section, so it would be helpful if you could provide a photo that clearly show the wear on the roller section.
 Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -833,8 +757,6 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -854,7 +776,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -865,8 +786,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -882,7 +801,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -893,8 +811,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -910,7 +826,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -921,8 +836,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -937,6 +850,7 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
 
 
 
