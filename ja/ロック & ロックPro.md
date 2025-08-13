@@ -4155,10 +4155,6 @@ SwitchBotアプリを起動し、ログインします。
 
 2．低電力によるロックの動作停止を防ぐため、電池交換時に片方ではなく二つの電池を同時に交換することをお勧めします。
 
-関連投稿：
-
-[SwitchBotデバイスの推奨電池について](https://support.switch-bot.com/hc/ja/articles/9744936851863)
-
 3．装着する際、電池の向きを間違えないようお願いいたします。
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998202453271)
