@@ -14,7 +14,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -25,8 +24,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -41,7 +38,6 @@ Please click the link below to buy a wifi extender and see if it improves the is
 https://a.co/d/a05PqdG
 Rest assured, we will cover the cost of the extender if your Hub Mini is under warranty. After buying it, please send us the following information so we can arrange a refund.
 
----
 Hub Mini
 - Purchase channel
 - Order ID
@@ -50,8 +46,6 @@ Hub Mini
 Wi-Fi Extender
 - A screenshot of the order 
 - Your PayPal account
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -67,7 +61,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -78,8 +71,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -123,7 +114,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -134,8 +124,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -148,7 +136,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 If the Hub Mini is still under warranty, we will send you a new charging cable to your home. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -159,8 +146,6 @@ If the Hub Mini is still under warranty, we will send you a new charging cable t
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -204,7 +189,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -215,8 +199,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -232,7 +214,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -243,8 +224,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -259,7 +238,6 @@ Please click the link below to buy a wifi extender and see if it improves the is
 https://a.co/d/a05PqdG
 Rest assured, we will cover the cost of the extender if your Hub Mini is under warranty. After buying it, please send us the following information so we can arrange a refund.
 
----
 Hub Mini
 - Purchase channel
 - Order ID
@@ -268,8 +246,6 @@ Hub Mini
 Wi-Fi Extender
 - A screenshot of the order 
 - Your PayPal account
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -285,7 +261,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -296,8 +271,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -341,7 +314,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -352,8 +324,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -366,7 +336,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 If there's an issue with the cable, we will send you a charging cable free of charge within the warranty period. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -377,8 +346,6 @@ If there's an issue with the cable, we will send you a charging cable free of ch
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -394,7 +361,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -405,8 +371,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -486,7 +450,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -498,9 +461,8 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
----
-
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
