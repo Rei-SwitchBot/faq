@@ -1315,6 +1315,16 @@ Regarding this issue, could you please check the following points?
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Fails to Load Every Time and Does Not Display the Video.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please remove the Outdoor Spotlight Cam 2K from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+3. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
+
+
 
 
 
