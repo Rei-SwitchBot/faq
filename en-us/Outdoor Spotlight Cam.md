@@ -1506,6 +1506,20 @@ Regarding this issue, could you please check the following points?
 3. Please try resetting the Outdoor Spotlight Cam 2Kera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
 
 
+---
+### Troubleshooting Can't Enable the Battery Saving Mode for SwitchBot Outdoor Spotlight Cam 2K
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that a hub device is added to your account and is connected to a stable network.  
+2. Make sure that the recording mode of the camera is set to "Events Only".  
+3. Go to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear Icon -> Basic Settings -> Enbale battery saving mode.
+4. Please make sure the hub and the camera remain within the Bluetooth communication range.  
+5. Restart the hub.  
+6. Turn off motion detection on the camera and then turn it back on.  
+7. Delete the camera from the app and add it again.
+
+
 
 
 
