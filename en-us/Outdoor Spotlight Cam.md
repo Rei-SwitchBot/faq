@@ -1019,9 +1019,10 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 We apologize for any inconvenience our product caused.
 Please follow the steps below to troubleshoot:
-1. Please use the 5V1A charging adapter to charge your camera for at least one hour.
+1. Please use the 5V2A charging adapter to charge your camera for at least one hour.
 2. Open the cover on the back of the camera, then you will see an on/off button, switch it to off then back on.
 3. Try long pressing the reset button for 5 seconds to reset your camera.
+
 
 
 ---
