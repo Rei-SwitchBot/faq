@@ -1360,6 +1360,23 @@ Regarding this issue, could you please check the following points?
 6. Please remove the Outdoor Spotlight Cam 2K from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Is Not Detecting Any Motion, Yet Motion Detection Notifications Are Being Received, Resulting in a High Number of False Detections.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. If necessary, please change the installation location.
+2. Please set the detection sensitivity to Low.  
+Low Detection Sensitivity: 1–3 meters  
+Medium Detection Sensitivity: 4–6 meters  
+High Detection Sensitivity: 7–9 meters
+
+<img width="1127" height="2177" alt="image" src="https://github.com/user-attachments/assets/2e5a7af0-6b04-46b0-809d-07095bb8aef7" />.
+
+
+
+
+
 
 
 
