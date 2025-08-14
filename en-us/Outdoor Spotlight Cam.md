@@ -1402,6 +1402,14 @@ Regarding this issue, could you please check the following points?
 3. In the same App Notifications menu, scroll to "Notifications Management" under "Device Notifications", find the Outdoor Spotlight Cam 2K, and make sure notifications are allowed.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Spotlight Cam 2K Footage Is Overexposed and Unclear.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for direct sunlight, bright lights, or glass elements in the outdoor camera installation area. If needed, relocate the installation.
+
+
 
 
 
