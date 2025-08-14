@@ -12,7 +12,6 @@ We apologize for any inconvenience caused.
 1. To determine whether your Keypad needs to be replaeced, could you please provide us with a video demonstrating the issue?
 2. Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -23,8 +22,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -53,7 +50,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -64,8 +60,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -81,7 +75,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -92,8 +85,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -106,7 +97,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 We will provide you with replacement services within the warranty. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -117,8 +107,6 @@ We will provide you with replacement services within the warranty. To expedite s
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -131,7 +119,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 It appears that the Keypad Touch is malfunctioning. We would like to offer you a replacement service under warranty. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -142,8 +129,6 @@ It appears that the Keypad Touch is malfunctioning. We would like to offer you a
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -159,7 +144,6 @@ We apologize for any inconvenience caused.
   2. When you noticed that the Keypad Touch was not powered on, please briefly describe what actions (like battery replacement/device removal/fingerprint authentication) you performed.
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -170,8 +154,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -187,7 +169,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -198,8 +179,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -214,7 +193,6 @@ We apologize for any inconvenience caused.
 (For example, after using it for XX days, the battery level became XX.)
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -225,8 +203,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -249,7 +225,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 If the nail was broken while replacing the Keypad Touch battery or due to natural deterioration, we will provide exchange service during the warranty period. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -260,8 +235,6 @@ If the nail was broken while replacing the Keypad Touch battery or due to natura
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -274,7 +247,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 If the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -285,8 +257,6 @@ If the replacement service is needed, to expedite shipment, please provide us wi
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -303,7 +273,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -314,8 +283,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -331,7 +298,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -342,8 +308,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -359,7 +323,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -370,8 +333,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -387,7 +348,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -398,8 +358,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -415,7 +373,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -426,8 +383,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -456,6 +411,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
