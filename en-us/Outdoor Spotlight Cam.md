@@ -962,7 +962,9 @@ SwitchBot App -> Outdoor Spotlight Cam -> Gear Icon -> Basic Settings -> Power M
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the camera not charging with the adapter, could you please check the following points?
-1. Try using a different 5V2A adapter and USB cable to see if that resolves the issue.
+1. Please check if it is possible to charge using another 5V2A adapter and a Type-C charging cable on hand. If you do not have a spare charger, as part of troubleshooting, verify whether the adapter in question can charge your smartphone.
+2. Switch the ON/OFF button to OFF, then switch it to ON again.
+3. Please try resetting the Outdoor Spotlight Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone, and the indicator light should change from red to flashing for about 20 to 45 seconds. Please wait for a while until it stops blinking.
 
 
 ---
