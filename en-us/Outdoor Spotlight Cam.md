@@ -1466,6 +1466,20 @@ Regarding this issue, could you please check the following points?
 5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
 
 
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Outdoor Spotlight Cam 2K Cannot Be Formatted
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be formatted. If it cannot be formatted even on the computer, the issue is likely with the microSD card itself. 
+ 
+2. Format the microSD card to the FAT32 format on your computer, then insert it into the Outdoor Spotlight Cam 2K and check if the issue is resolved.  
+
+3. If you have multiple microSD cards, try inserting a different microSD card into the Outdoor Spotlight Cam 2K and check if it can be formatted. If other microSD cards can be formatted without any issues, the problem is likely with the specific microSD card.  
+
+4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be formatted.
+
+
 
 
 
