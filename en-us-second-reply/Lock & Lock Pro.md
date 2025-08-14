@@ -23,7 +23,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -34,8 +33,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -82,7 +79,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, we regret to inform you that the adhesive tape for Lock is not currently sold separately. However, we can provide the parts free of charge if you cover the shipping costs.
 If this is okay for you, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -93,8 +89,6 @@ If this is okay for you, please provide us with the necessary details so we can 
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -111,7 +105,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -122,8 +115,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -166,7 +157,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -177,8 +167,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -190,7 +178,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 If the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -201,8 +188,6 @@ If the replacement service is needed, to expedite shipment, please provide us wi
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -217,7 +202,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -228,8 +212,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -244,7 +226,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -255,8 +236,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -275,7 +254,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 If the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -286,8 +264,6 @@ If the replacement service is needed, to expedite shipment, please provide us wi
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -309,7 +285,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 We would like to arrange a new double-sided tape for you to help solve the issue. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - A photo showing the installation of your Lock 
 - Purchase channel
 - Order ID
@@ -321,8 +296,6 @@ We would like to arrange a new double-sided tape for you to help solve the issue
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -347,7 +320,6 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 After investigation, it seems like that the product has malfunctioned. We will provide you with a replacement service within the warranty coverage. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -358,8 +330,6 @@ After investigation, it seems like that the product has malfunctioned. We will p
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -375,7 +345,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -386,8 +355,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -403,7 +370,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -414,8 +380,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -429,7 +393,6 @@ We apologize for any inconvenience caused.
 1. To determine if your device needs to be replaced, could you please provide us with a screenshot of the locking and unlocking logs?
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -440,8 +403,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -474,7 +435,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -485,8 +445,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -511,7 +469,6 @@ If the magnet cannot be detected and affects automatic locking, we will provide 
 - A screenshot displaying magnet detection failure
 Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -522,8 +479,6 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -539,7 +494,6 @@ We apologize for any inconvenience caused.
   2. Video of the recalibration of Lock Pro
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -550,8 +504,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -580,7 +532,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -591,8 +542,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -608,7 +557,6 @@ If the auto-lock doesn't function, we will provide you with a contact sensor to 
 - Video of Lock Pro recalibration
 Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -619,8 +567,6 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -654,7 +600,6 @@ We apologize for any inconvenience caused.
 1. To determine if your device needs to be replaced, could you please capture the rechargeable batteries levels by going to SwichBot App -> Lock Pro -> Gear Icon -> Firmware & Batteries?
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -665,8 +610,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -682,7 +625,6 @@ Regarding this issue, we will provide you with a contact sensor to resolve this 
 - Notification screenshot
 Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -693,8 +635,6 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -710,7 +650,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -721,8 +660,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -738,7 +675,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -749,8 +685,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -764,7 +698,6 @@ We apologize for any inconvenience caused.
 1. To determine if your device needs to be replaced, could you please provide us with a screenshot of the locking and unlocking logs?
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -775,8 +708,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -790,7 +721,6 @@ We apologize for any inconvenience caused.
 1. To determine if your device needs to be replaced, could you please provide us with a screenshot showing the locking and unlocking logs, as well as the missing period?
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -801,8 +731,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -819,7 +747,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -830,9 +757,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
-
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
