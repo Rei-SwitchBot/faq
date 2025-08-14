@@ -1007,10 +1007,9 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Make sure you are using the power adapter when using continuous recording or pre-event recording modes. The battery may drain completely within a day, even if a solar panel is connected under these two recording modes. You can check the recording mode by going to -> SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear Icon -> Local Storage.
 2. Open the cover on the back of the camera, then you will see an on/off button, switch it off, wait two minutes, then turn it back on.
-
-If the battery only lasts about two weeks, take these precautions:
-In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
-The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, sensitivity, or limit detection to people to improve this.
+3. In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
+4. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, sensitivity, or limit detection to people to improve this.
+5. If there are many false detections, the battery will be drained. Please check if there are changes in light (such as glass or direct sunlight) and subtle movements (like air conditioner vents, curtains, or fans) in the outdoor camera's installation environment. If necessary, change the installation location and set the detection sensitivity to low.
 
 
 ---
