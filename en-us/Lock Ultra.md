@@ -271,11 +271,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check the placement of the magnet for your Lock Ultra. If the distance between the magnet and the Lock Ultra main unit is within 1 cm, please attach the magnet a little farther away.
 
-<img width="388" height="167" alt="image" src="https://github.com/user-attachments/assets/22e320a9-b916-4aa7-85a4-ba3eea64f47c" />
+<img width="388" height="167" alt="image" src="https://github.com/user-attachments/assets/415a99ae-f431-4161-985c-d21ffcff3e6b" />
 
 2. Depending on the environment, you can install the magnet on a door frame, etc., by attaching the spare double-sided tape to the side of the magnet as shown below.
 
-<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/c655a0b0-b224-4fc3-84bf-64cb24719f1b" />
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/d6a6555d-7636-4768-bdf4-dde2ccbf7d3f" />
 
 3. When calibrating the magnet, close the door about two fists away (approximately 20cm) to see if that resolves the issue.
 
