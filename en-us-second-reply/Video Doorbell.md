@@ -32,7 +32,6 @@ We apologize for any inconvenience caused.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -43,8 +42,6 @@ We apologize for any inconvenience caused.
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
@@ -98,6 +95,7 @@ https://www.youtube.com/watch?v=_t88WivtfYY
 ### Is It Normal to Experience Delays in Video Display and Audio Response When Using SwitchBot Smart Video Doorbell With an Echo Show?
 
 When the doorbell is pressed, the linked Amazon Alexa device (Echo Show) will automatically display the doorbell video. Additionally, by tapping the microphone icon on the screen, you can have a conversation with visitors. However, depending on the network connection, there may be a delay of approximately 2 seconds for video display and voice response. We apologize for any inconvenience and thank you for your understanding.
+
 
 
 
