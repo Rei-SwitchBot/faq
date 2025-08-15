@@ -244,5 +244,29 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting All Other Buttons Work Fine, but the Power Button of SwitchBot Circulator Fan Responds Very Slowly When Pressed
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  1. A video of your fan remaining unresponsive, even operating it by covering the power button with your finger
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
 
 
