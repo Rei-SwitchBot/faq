@@ -25,7 +25,6 @@ We apologize for any inconvenience caused.
 After checking with our R&D team, it seems that the device may have encountered a hardware issue. 
 We will provide you with a replacement within the warranty period. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -37,8 +36,7 @@ We will provide you with a replacement within the warranty period. To expedite s
 - ZIP/Postal Code
 - A screenshot of your order
 
----
-
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
