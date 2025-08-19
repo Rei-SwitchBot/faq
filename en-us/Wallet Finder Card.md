@@ -382,12 +382,13 @@ The "Find My Phone" feature is only available on the SwitchBot App; Apple's "Fin
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of not being able to add the Wallet Finder Card to your app, could you please check the following points?
-1. Make sure your SwitchBot App version is up to date.
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 2. Press the button on the finder card 5 times rapidly, then hold it down for 15 seconds on the 5th press to reset the background cache. When you hear 3 beeps, the reset process is complete.
 
-<img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/5bed0300-3241-4773-9b43-f1b09625d7de" />
+<img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/2c35729d-6c62-484f-9123-f0e877549f79" />
 
 3. To re-add the card, press and hold the button for two seconds.
+
 
 
 ---
@@ -443,6 +444,69 @@ If you have any further questions, please don't hesitate to ask.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-In Apple’s Find My App, the Wallet Finder Card does not update its location in real-time. Instead, it relies on nearby Apple devices to track its location. The frequency of updates depends on the availability of Apple’s network and whether an iPhone detects the signal from the Finder Card.
+1. In Apple’s Find My App, the Wallet Finder Card does not update its location in real-time. Instead, it relies on nearby Apple devices to track its location. The frequency of updates depends on the availability of Apple’s network and whether an iPhone detects the signal from the Finder Card.
 In places with lots of iPhones around, the location may update every few minutes. However, in areas where there are fewer iPhones, it might take longer—sometimes 15 or 30 minutes, or even more. These intervals are not consistent and can be influenced by external factors beyond your control.
-For more information about how Find My App works, we recommend checking [Apple’s official documentation](https://support.apple.com/en-us/104978).
+For more information about how Find My App works, we recommend checking Apple’s official documentation: [https://support.apple.com/en-us/104978](https://support.apple.com/en-us/104978)
+2. Open the Find My app and press the button on the card once near your iPhone to reconnect them.
+3. Try holding the button on the card for 45 seconds to initialize the device.
+
+
+
+---
+### [Request Handling]Wallet Finder Card
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Wallet Finder Card can only be added to one account. If a Wallet Finder Card is added to another account of yours, please delete the Wallet Finder Card from that account first and then add it to a new account.
+※Long press the SwitchBot Wallet Finder Card icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Wallet Finder Card will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Can't Add SwitchBot Wallet Finder Card to Apple Find My App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press the button on the finder card 5 times rapidly, then hold it down for 15 seconds on the 5th press to reset the background cache. When you hear 3 beeps, the reset process is complete.
+
+<img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/08a89097-e28e-413c-8724-5cdf032e86c7" />
+
+2. To re-add the card, press and hold the button for two seconds.
+[https://support.switch-bot.com/hc/en-us/articles/23110816647191](https://support.switch-bot.com/hc/en-us/articles/23110816647191-Add-SwitchBot-Wallet-Finder-Card-to-Apple-Find-My-App)
+
+
+---
+### Troubleshooting Pressing and Holding the Button on SwitchBot Wallet Finder Card Does Not Produce Any Response, Indicating a Lack of Power Connection.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Try holding the button on the card for 45 seconds to initialize the device.
+
+<img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/0ea58c1a-867c-4db6-8013-a0f337f1a878" />
+
+
+---
+### Troubleshooting SwitchBot Wallet Finder Card's Battery Ran Out in Less Than a Year.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Try holding the button on the card for 45 seconds to initialize the device.
+
+<img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/22243c53-14af-4d74-8d7e-7795454c2032" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
