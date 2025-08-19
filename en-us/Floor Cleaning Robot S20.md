@@ -71,17 +71,20 @@ After installing the water station, go to SwitchBot App -> S20 -> Function -> Se
 Floor Cleaning Robot S20+the Base Station one set:
 Before cleaning different floors, please activate the "Water Station Not Marked (Beta)" feature in the SwitchBot App by going to S20 -> Vac & Mop. Wait for water to be supplied to the robot, then manually move it to the target floor. After completing the Vac & Mop, manually move the robot again to where the Auto-empty Station is located and use the app for trash collection and mop drying.
 
-Important Notice:
-When using the Water Station Not Marked (Beta) feature, please note that if the fresh water box runs out of water, the Vac & Mop task will automatically stop. We apologize for any inconvenience this may cause and appreciate your understanding.
+Important Note:
+- When using the Water Station Not Marked (Beta) feature, please note that if the fresh water box runs out of water, the Vac & Mop task will automatically stop. We apologize for any inconvenience this may cause and appreciate your understanding.
+- After cleaning, the robot will automatically return to the auto-empty station. If there is no station on the floor, it will not be able to return and a failed return announcement will be made. This is not a malfunction. Thank you for your understanding.
 
 Water Stations have already been placed on each floor:
 1. You can choose to purchase water stations and install them on different floors for automatic water refill and drainage with S20.
 2. After installation, Mark each water station on each floor on the S20 by going to SwitchBot App -> S20 -> Functions -> Settings -> Mark Water Station Position.
 
-![image](https://github.com/user-attachments/assets/87313d3c-8d9f-4de3-98e8-24430ffd93ee)
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/542a85e0-8401-4d1e-8cee-fbdd4e8afdde" />
 
 Note: Tap "⋮" in the upper right corner to unpaire the water station if needed.
 3. Manually move the S20 to the target floor and select the cleaning mode in the SwitchBot app. After finishing vacuuming and mopping, the S20 will automatically go to the marked water station to drain and mop clean. If there is no auto-empty station, you must move the robot to where it is located and then use the app for trash collection and mop drying.
+Important Note:
+After cleaning, the robot will automatically return to the auto-empty station. If there is no station on the floor, it will not be able to return and a failed return announcement will be made. This is not a malfunction. Thank you for your understanding.
 
 
 ---
