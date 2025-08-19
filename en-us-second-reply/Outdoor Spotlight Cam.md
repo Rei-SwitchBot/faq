@@ -800,6 +800,16 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 
+---
+### Troubleshooting not realizing that the cloud storage service for Pan Tilt Cam Plus series and Traditional cameras was not compatible before buying, so now I can't use it.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+
 
 
 
