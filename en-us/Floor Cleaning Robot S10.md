@@ -2469,46 +2469,31 @@ SwitchBot App -> Floor Cleaning Robot S10 -> Gear icon -> Maintenance -> disable
 ---
 ### How to Use SwitchBot Floor Cleaning Robot S10 to Clean Multi-floor
 
-Related Product: SwitchBot Floor Cleaning Robot S10
-SwitchBot App Version：9.3 or newer
-Firmware Version: 1.0.984 or newer
 Floor Cleaning Robot S10+the Water Station+the Auto-empty Station one set:
-
 1. Make sure your SwitchBot App version is up to date.
-
 2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
-
 3. Mark Water Station Position on your S10.
-
-Related Post: How to Set Up SwitchBot Floor Cleaning Robot S10 and Mark Water Station Position
-
-https://support.switch-bot.com/hc/en-us/articles/22963487317783
-
+Related Post: [How to Set Up SwitchBot Floor Cleaning Robot S10 and Mark Water Station Position](https://support.switch-bot.com/hc/en-us/articles/22963487317783-How-to-Set-Up-SwitchBot-Floor-Cleaning-Robot-S10-and-Mark-Water-Station-Position)
 4. Before cleaning different floors, please activate the "Water Station Not Marked (Beta)" feature in the SwitchBot App by going to S10 -> Vac & Mop. Wait for water to be supplied to the robot, then manually move it to the target floor. After completing the Vac & Mop, manually move the robot again to where the Auto-empty Station is located and use the app for trash collection and mop drying.
+Important Note:
+- When using the Water Station Not Marked (Beta) feature, please note that if the fresh water box runs out of water, the Vac & Mop task will automatically stop. We apologize for any inconvenience this may cause and appreciate your understanding.
+- After cleaning, the robot will automatically return to the auto-empty station. If there is no station on the floor, it will not be able to return and a failed return announcement will be made. This is not a malfunction. Thank you for your understanding.
 
-Important Notice:
-
-When using the Water Station Not Marked (Beta) feature, please note that if the fresh water box runs out of water, the Vac & Mop task will automatically stop. We apologize for any inconvenience this may cause and appreciate your understanding.
-
-![image](https://github.com/user-attachments/assets/1e2f2c29-3c9d-475e-93e9-5fdc9da4acba)
+<img width="1121" height="2205" alt="image" src="https://github.com/user-attachments/assets/645a9122-cbcb-4a9c-af4d-50e9e338042b" />
 
 Water Stations have already been placed on each floor:
-
 1. Make sure your SwitchBot App version is up to date.
-
 2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
-
 3. Mark each water station on each floor on the S10 by going to SwitchBot App -> S10 -> Functions -> Settings -> Mark Water Station Position.
+Related Post: [How to Set Up SwitchBot Floor Cleaning Robot S10 and Mark Water Station Position](https://support.switch-bot.com/hc/en-us/articles/22963487317783-How-to-Set-Up-SwitchBot-Floor-Cleaning-Robot-S10-and-Mark-Water-Station-Position)
 
-Related Post: How to Set Up SwitchBot Floor Cleaning Robot S10 and Mark Water Station Position
-
-https://support.switch-bot.com/hc/en-us/articles/22963487317783
-
-![image](https://github.com/user-attachments/assets/135ae5b7-fb3d-47a0-bd1e-c709dff58679)
-
-Note: Tap "⋮" in the upper right corner to unpaire the water station if needed.
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/3d45a6dd-f4c7-498d-b306-15df320e247e" />
 
 4. Manually move the S10 to the target floor and select the cleaning mode in the SwitchBot app. After finishing vacuuming and mopping, the S10 will automatically go to the marked water station to drain and mop clean. If there is no auto-empty station, you must move the robot to where it is located and then use the app for trash collection and mop drying.
+Important Note:
+After cleaning, the robot will automatically return to the auto-empty station. If there is no station on the floor, it will not be able to return and a failed return announcement will be made. This is not a malfunction. Thank you for your understanding.
+
+
 
 
 
