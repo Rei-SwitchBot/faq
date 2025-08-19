@@ -1520,6 +1520,22 @@ Regarding this issue, could you please check the following points?
 7. Delete the camera from the app and add it again.
 
 
+---
+### Troubleshooting not realizing that the cloud storage service for Pan Tilt Cam Plus series and Traditional cameras was not compatible before buying, so now I can't use it.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. SwitchBot cameras are divided into the Plus Camera series and the traditional Camera series, and the cloud storage plans are not compatible between them, which means if you own both an Outdoor Spotlight Cam and a Pan/Tilt Cam Plus 2K, you'll need to purchase separate cloud storage plans for each series. If you purchase two-devices supported plan under Pan/Tilt Cam Plus 2K, it cannot be used for the Outdoor Spotlight Cam.
+- Plus Camera series: SwitchBot Pan/Tilt Cam Plus 2K, SwitchBot Pan/Tilt Cam Plus 3K
+- Traditional Camera series: SwitchBot Indoor Cam, SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Outdoor Spotlight Cam, SwitchBot Outdoor Spotlight Cam 2K
+
+2. If you wish to request a refund for the cloud storage plan of the Plus Camera Series, please contact the app store/Google Play Store directly.   
+3. If you wish to request a refund for the cloud storage plan of the traditional Camera Series, we kindly ask for your cooperation by providing a screenshot of the purchased plan.  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
 
 
 
