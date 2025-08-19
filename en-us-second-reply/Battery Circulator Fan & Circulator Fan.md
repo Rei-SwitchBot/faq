@@ -285,5 +285,22 @@ If the replacement service is needed, to expedite shipment, please provide us wi
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Is It Possible to Wash SwitchBot Circulator Fan in Water?
+
+1. he front guard is washable. It can be partially disassembled with a screwdriver (not included).
+
+Instructions for removing the front guard:
+- Locate the screw marked in red on the diagram below. Use your own screwdriver to unscrew it.
+- Gently rotate the front guard counterclockwise to detach it.
+- Caution: Exercise care when removing to prevent injury.
+
+<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/28581ce3-7885-4343-a966-b5291a18e7b1" />
+
+2. The blades aren't suitable for water cleaning due to their built-in motor. Kindly use a cloth to wipe them clean.
+
+
+
+
 
 
