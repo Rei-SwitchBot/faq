@@ -2038,7 +2038,8 @@ Regarding this issue, could you please check the following points?
 2. If only the Pan Tilt Cam Plus 3K is frequently losing connection, please try placing the camera within 3 meters of your router to see if this improves stability.
 3. Check if there are any other wireless electronic devices near the camera that could be causing interference. You can try moving the camera to a different location or adjusting its angle to see if that helps.
 4. Try switching your phone’s Wi-Fi network or using mobile data to see if the camera still disconnects.
-
+5. Please check if the number of devices connected to your home Wi-Fi router has reached its limit.  
+6. Restart your Wi-Fi router.  
 
 
 ---
@@ -2481,22 +2482,271 @@ Please download cloud storage video in the following order:
 
 
 ---
-### トラブルシューティング見守りカメラ Plus 3MPが頻繁にオフラインになってしまいます
+### [Request Handling]Pan Tilt Cam Plus 3K
 
-お問い合わせいただき、ありがとうございます。
-弊社の製品で大変ご迷惑をおかけしております。
-本件について、以下をご確認いただけますでしょうか。
-1. ご自宅にほかのカメラ製品がございましたら、ほかのカメラ製品に同じ支障が出たかご確認ください。カメラ製品が全部オフラインの場合、ご自宅のネットワーク接続状況のご確認をお願いいたします。
-2. 見守りカメラ Plus 3MPのみオフラインの場合、カメラをWi-Fiルーターの近く（3メートル以内）に配置していただいて改善されるかご確認ください。
-3. 見守りカメラ Plus 3MPのまわりに無線電子製品の干渉があるかどうかご確認ください。場合によって、カメラの位置または向きをを変えて改善されるかご確認ください。
-4. ご自宅のWi-Fiで見守りカメラ Plus 3MPがオフラインの場合でしたら、スマートフォンのモバイル通信に切り替えて映像が見られるかご確認ください。
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Pan Tilt Cam Plus 3K can only be added to one account. If a Pan Tilt Cam Plus 3K is added to another account of yours, please delete the Pan Tilt Cam Plus 3K from that account first and then add it to a new account.
+※Long press the SwitchBot Pan Tilt Cam Plus 3K icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Pan Tilt Cam Plus 3K will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 ---
-### トラブルシューティング見守りカメラPlus 3MP画面全体がピンク色にうつる
+### Troubleshooting the QR Code Cannot Be Scanned When Adding SwitchBot Pan Tilt Cam Plus 3K to the App
 
-お問い合わせいただき、ありがとうございます。
-弊社の製品で大変ご迷惑をおかけしております。
-本件について、以下をご確認いただけますでしょうか。
-1．SwitchBotアプリ→見守りカメラPlus 3MP→画面右下の機能にあるナイトビジョンをオンオフにします。
-2．見守りカメラPlus 3MPの電源を抜き差しします。
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the camera is in pairing mode by checking for a blinking red indicator. If not, reset it by pressing and holding the reset button on the back of the device for 5 seconds.
+2. Place your smartphone near the camera lens, keeping it about 25cm away.
+3. Remove the protective seal from the camera lens.
+4. Avoid pointing the camera lens towards strong light sources like windows or lighting.
+5. Darker environments may slightly impact QR code scanning. When adding the device, avoid overly dark areas.
+6. Adjust your smartphone screen brightness or try using a different smartphone to scan the QR code.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Couldn't Connect to Wi-Fi and Can't Be Added to SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. When adding the camera, please ensure that you enter the Wi-Fi SSID and password correctly, including uppercase and lowercase letters.
+4. If the Wi-Fi router has a whitelist, please add the MAC address located at the bottom of the camera to the whitelist.
+5. Place the camera closer to the Wi-Fi router (within 5 meters).  
+6. Restart your home router.  
+7. If you are using a VPN, please temporarily disable it.
+8. Please check if your smartphone or other Wi-Fi-enabled devices can connect to the internet properly.
+9. As a troubleshooting step, check if the camera can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
+---
+### Troubleshooting SwitchBot Pan/Tilt Cam Plus 3K Suddenly Went Offline and Cannot Be Reconnected.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. As part of troubleshooting Wi-Fi issues, please check if your smartphone or other Wi-Fi devices can function properly under the same Wi-Fi network to which the camera is connected.  
+2. Remove the camera from the app and add it again.  
+3. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+4. Try switching your phone’s Wi-Fi network or using mobile data to see if the camera still disconnects.
+5. Please check if the number of devices connected to your home Wi-Fi router has reached its limit.  
+6. Restart your Wi-Fi router.  
+7. If you are using a VPN, please temporarily disable it.
+
+
+---
+### Troubleshooting Failed to Update SwitchBot Pan Tilt Cam Plus 3K Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
+2. Perform the firmware update near the device to ensure a stable connection.
+3. Turn off your home router, wait about 30 seconds, then turn it back on.
+4. Switch to a mobile hotspot connection and attempt the update again.
+5. If you have another smartphone, please try using it instead.  
+6. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+7. Enable "Automatic Upgrades" by going to SwitchBot app → Pan Tilt Cam Plus 3K → Gear icon → Firmware Version , wait for about a week, and check if the update occurred automatically.
+
+
+---
+### Troubleshooting the microSD Card in SwitchBot Pan Tilt Cam Plus 3K Is Not Recording.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the recording option is turned on by going to SwitchBot app → Pan Tilt Cam Plus 3K → Gear icon → Local Storage.
+
+2. Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
+ 
+3. Format the microSD card to the FAT32 format on your computer, then insert it into the Pan Tilt Cam Plus 3K and check if the issue is resolved.  (If formatting is possible in the SwitchBot app, please try formatting within the app.)
+
+4. If you have multiple microSD cards, try inserting a different microSD card into the Pan Tilt Cam Plus 3K and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
+
+5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Cannot Automatically Switch to Night Vision Based on Light
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please open SwitchBot app and see if you can manually turn on (or turn off) the night vision.
+2. Check for any reflective surfaces where the camera is installed. It's possible that there isn't enough reflection to trigger the switch.
+3. Make sure there are no obstacles at the camera's installation spot, like light peeking through curtain openings, that could be blocking the automatic switch.
+
+
+---
+### Troubleshooting There Are Black Spots on the SwitchBot Pan Tilt Cam Plus 3K's Monitoring Screen
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot showing the black dot in the camera's footage
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Has Activated the Full-Color With Low Light Function, but the Image Is Not in Color.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The full-color with low light feature is not the same as night vision. This function allows your Pan Tilt Cam Plus 3K to display color images in dimly lit environments—whereas cameras without this feature would switch to black-and-white in the same conditions.
+For full-color with low light mode to work, some ambient light is still required. Here’s how it operates:
+- When lighting conditions go from bright to dark, the camera will maintain color images as long as the brightness stays at or above 1 lux.
+- When transitioning from dark to brighter conditions, the camera will remain in black-and-white until the brightness reaches 3–4 lux, at which point color is restored.
+Please note that if the surrounding light does not meet these thresholds, the camera will stay in black-and-white mode even with Full-color with low light enabled. We appreciate your understanding of this technical limitation.
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting There Will Be Noise When Watching SwitchBot Pan Tilt Cam Plus 3K Video with Echo Show.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please do not put the Alexa Echo device and the camera in the same room.
+2. Check for any unusual noises when viewing the camera feed on your smartphone using the Alexa app.
+3. Check for any unusual noises when viewing the camera feed using the SwitchBot app.  
+4. Unplug the camera and plug it back in.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Keeps Showing "Loading" or "Loading Failure", Unable to View the Video.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Switch to mobile data on your smartphone and check if you can view the video.  
+2. If you are using a VPN, temporarily disable it.  
+3. Remove the camera from the app and add it again.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Detects Motion, but I Am Not Receiving Any Notifications on My Phone.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. In the settings app on your smartphone, go to the SwitchBot app, then to Notifications, and grant push notification permissions in that order.
+2. Open the SwitchBot App, go to Profile > Preferences > App Notifications, ensure that App Notifications are turned on and that any Do Not Disturb periods are set correctly.
+3. In the same App Notifications menu, scroll to "Notifications Management" under "Device Notifications", find the Pan Tilt Cam Plus 3K, and make sure notifications are allowed.
+4. For Android smartphones, please allow permission in the settings app to enable notifications even when your smartphone screen is locked.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Stops Tracking Motions
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that motion tracking is turned on by going to SwitchBot App → your Camera→ Features. If it's already enabled, disable it briefly and then re-enable it.
+2. The accuracy of the motion tracking feature is influenced by various factors such as usage scenario, brightness, color, contours, and depth of the target. As a result, the current AI algorithm cannot guarantee 100% accuracy. We kindly ask for your understanding.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Stops Tracking Motions
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+To maintain more stable operation, the camera will automatically restart every Wednesday between 10:00 AM and 11:00 AM (PST). The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This is a normal operation of the product and not a malfunction. We kindly ask for your understanding regarding this matter.
+If the restart of your camera is not the above phenomenon, please check the following:
+- Make sure to use a 5V2A power adapter with the camera.
+- Check if the camera is rebooting more than three times per week.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Feels Too High When Touched.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The camera's surface may feel warmer than room temperature during normal use because its internal electronic components are operating. This is a common characteristic of electric devices, similar to how a smartphone generates heat after extended use. Particularly, our cameras are designed to operate continuously for 24 hours, so a certain amount of heat generation due to constant power supply is considered normal.
+However, if the heat level is noticeably increasing or the surface becomes too hot to touch, it could indicate the possibility of aging or other issues. To better understand the situation, we would appreciate it if you could provide the following details:
+- The current room temperature  
+- A warmth that is either comfortable to the touch or hot enough to feel upon contact
+- If possible, the measured surface temperature of the camera
+
+
+---
+### Troubleshooting When Using SwitchBot App for Intercom, There Is No Sound Coming from SwitchBot Pan Tilt Cam Plus 3K.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please allow microphone permissions by navigating to SwitchBot app → Profile → Preferences → Permissions.  
+2. Go to SwitchBot app → Choose the camera you want → Tap the gear icon → Tap More Features → Set talk mode to "Two-Way" and test if the camera plays sound from your smartphone.
+3. Unplug and reconnect the camera's power.  
+4. To troubleshoot issues with the camera's speaker, navigate to the SwitchBot app → Select the relevant camera → Features → Tap "sound alarm" and check if the warning alarm sounds.
+
+
+---
+### Troubleshooting When Viewing the Real-time Video on SwitchBot App, No Sound Is Heard from SwitchBot Pan Tilt Cam Plus 3K.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please remove the protective seal from the camera lens.  
+2. Please check if the volume button in the upper right corner of the camera screen is muted. If it is, tap the button to unmute it.
+
+<img width="1108" height="959" alt="image" src="https://github.com/user-attachments/assets/bdf07a62-a929-48f1-a33d-c482b2ea6e33" />
+
+3. Turn up the volume on your smartphone, speak into the camera, and test if you can hear the sound.  
+4. Try using another smartphone to see if you can hear the sound.  
+5. If "muted recording" mode is not enabled, check if you can hear the sound when playing back recordings saved on a microSD card or in cloud storage.
+
+
+---
+### Troubleshooting not realizing that the cloud storage service for Pan Tilt Cam Plus series and Traditional cameras was not compatible before buying, so now I can't use it.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. SwitchBot cameras are divided into the Plus Camera series and the Traditional Camera series, and the cloud storage plans are not compatible between them, which means if you own both an Outdoor Spotlight Cam and a Pan/Tilt Cam Plus 3K, you'll need to purchase separate cloud storage plans for each series. If you purchase two-devices supported plan under Pan/Tilt Cam Plus 3K, it cannot be used for the Outdoor Spotlight Cam.
+- Plus Camera series: SwitchBot Pan/Tilt Cam Plus 2K, SwitchBot Pan/Tilt Cam Plus 3K
+- Traditional Camera series: SwitchBot Indoor Cam, SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Outdoor Spotlight Cam, SwitchBot Outdoor Spotlight Cam 2K
+
+2. If you wish to request a refund for the cloud storage plan of the Plus Camera Series, please contact the app store/Google Play Store directly.   
+
+3. If you wish to request a refund for the cloud storage plan of the traditional Camera Series, we kindly ask for your cooperation by providing a screenshot of the purchased plan.  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Is Completely Unresponsive—No Power, No Light, and the Reset Button Doesn’t Make Any Sound
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please try using a different 5V 2A charging adapter and Type-C cable to see if the camera powers up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
