@@ -1,3 +1,5 @@
+---
+
 ## Floor Cleaning Robot S20
 
 ---
@@ -876,6 +878,23 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Can I Use the Auto-empty Station from SwitchBot Floor Cleaning Robot S10 with the S20?
+
+Regarding the compatibility between Floor Cleaning Robot S10 and S20, please refer to the following information:  
+1. The S10 cannot be used with the base station of the S20.
+2. When docking the S20 with the auto-empty station of the S10, charging is possible (requires auto-empty station firmware V23 or later), but functions like waste collection and mop drying are not available.
+3. Both robot models, S10 and S20, can utilize the water station. If you upgrade to the S20, you can designate the water station from your S10 for use with the new model.
+Multi-floor cleaning: [https://support.switch-bot.com/hc/en-us/articles/32681888413463](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+Where to buy the water station: [https://www.switch-bot.com/products/s-series-water-station](https://www.switch-bot.com/products/s-series-water-station)
+
+Important Note:
+- When using S20 and the water station on multiple floors, please refer to the following link.
+Related Post: [How to Use SwitchBot Floor Cleaning Robot S20 to Clean Multi-floor](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+- When the S20 base station and water station are on the same floor, after marking the water station, automatic refilling and draining will only be done at the water station. Charging, dust collection, and mop-drying will be done at S20's base station.
 
 
 
