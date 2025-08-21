@@ -464,25 +464,6 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
----
-### How to Get the Built-in Sensor Charging Cable for SwitchBot Hub Mini Matter Enabled to Support Temperature and Humidity
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-We're happy to provide this charging cable at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request it, please contact us and we'll provide a shipping quote.
-Also, to help us arrange the shipment quickly, please provide the following details:
-- Purchase channel
-- Order ID
-- Recipient's full name
-- Phone number
-- Country
-- Street address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-If you have any other questions, please do not hesitate to contact us.
 
 
 
