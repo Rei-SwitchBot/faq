@@ -1246,3 +1246,248 @@ For example, if you purchase a 30-day event package, the cloud stores your video
 - Switch On to Off.
 
 
+---
+### Troubleshooting SwitchBot Indoor Cam Is Completely Unresponsive—No Power, No Light, and the Reset Button Doesn't Make Any Sound
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please try using a different 5V 1A charging adapter and Micro USB cable to see if the camera powers up.
+
+
+---
+### [Request Handling]Indoor Cam
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Indoor Cam can only be added to one account. If a Indoor Cam is added to another account of yours, please delete the Indoor Cam from that account first and then add it to a new account.
+※Long press the SwitchBot Indoor Cam icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Indoor Cam will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Frequently Goes Offline
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have other SwitchBot cameras, please check if they are also experiencing the same issue. If so, it may be worth reviewing your home Wi-Fi connection.
+2. If only the Indoor Cam is frequently losing connection, please try placing the camera within 3 meters of your router to see if this improves stability.
+3. Check if there are any other wireless electronic devices near the camera that could be causing interference. You can try moving the camera to a different location or adjusting its angle to see if that helps.
+4. Try switching your phone’s Wi-Fi network or using mobile data to see if the camera still disconnects.
+5. Please check if the number of devices connected to your home Wi-Fi router has reached its limit.  
+6. Restart your Wi-Fi router.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Solid Red Light Always On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have another 5V1A charging adapter or micro USB cable, please test it to see if your problem is resolved. 
+2. Please try resetting the Indoor Camera to see if it resolves the issue. Press and hold the reset button located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone (depending on your product model). The indicator light should change from red to flashing for about 20 to 45 seconds.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Feels Too High When Touched.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The camera's surface may feel warmer than room temperature during normal use because its internal electronic components are operating. This is a common characteristic of electric devices, similar to how a smartphone generates heat after extended use. Particularly, our cameras are designed to operate continuously for 24 hours, so a certain amount of heat generation due to constant power supply is considered normal.
+However, if the heat level is noticeably increasing or the surface becomes too hot to touch, it could indicate the possibility of aging or other issues. To better understand the situation, we would appreciate it if you could provide the following details:
+- The current room temperature  
+- A warmth that is either comfortable to the touch or hot enough to feel upon contact
+- If possible, the measured surface temperature of the camera
+
+
+---
+### Troubleshooting not realizing that the cloud storage service for Pan Tilt Cam Plus series and Traditional cameras was not compatible before buying, so now I can't use it.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. SwitchBot cameras are divided into the Plus Camera series and the Traditional Camera series, and the cloud storage plans are not compatible between them, which means if you own both an Indoor Cam and a Pan/Tilt Cam Plus 3K, you'll need to purchase separate cloud storage plans for each series. If you purchase two-devices supported plan under Pan/Tilt Cam Plus 3K, it cannot be used for the Indoor Cam.
+- Plus Camera series: SwitchBot Pan/Tilt Cam Plus 2K, SwitchBot Pan/Tilt Cam Plus 3K
+- Traditional Camera series: SwitchBot Indoor Cam, SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Outdoor Spotlight Cam, SwitchBot Outdoor Spotlight Cam 2K
+
+2. If you wish to request a refund for the cloud storage plan of the Plus Camera Series, please contact the app store/Google Play Store directly.   
+
+3. If you wish to request a refund for the cloud storage plan of the traditional Camera Series, we kindly ask for your cooperation by providing a screenshot of the purchased plan.  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Detects Motion, but I Am Not Receiving Any Notifications on My Phone.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. In the settings app on your smartphone, go to the SwitchBot app, then to Notifications, and grant push notification permissions in that order.
+2. Open the SwitchBot App, go to Profile > Preferences > App Notifications, ensure that App Notifications are turned on and that any Do Not Disturb periods are set correctly.
+3. In the same App Notifications menu, scroll to "Notifications Management" under "Device Notifications", find the Indoor Cam, and make sure notifications are allowed.
+4. For Android smartphones, please allow permission in the settings app to enable notifications even when your smartphone screen is locked.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Is Making an Unusual Noise.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please remove the protective seal from the camera lens.  
+2. Please check for any unusual noises coming from the camera in a quiet room.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Doesn't Detect Motions
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure you have enabled motion detection.
+2. If detection areas are set for the indoor camera, motions occurring outside the designated areas will not be recorded as events. Please be aware of this in advance.
+3. Please set the detection sensitivity to High.  
+Low Detection Sensitivity: 1–3 meters  
+Medium Detection Sensitivity: 4–6 meters  
+High Detection Sensitivity: 7–9 meters  
+4. Please check if you can view the video in the SwitchBot app.  
+5. Try removing the camera from the app and resetting it by pressing and holding the reset button on the back for 5 seconds.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Is Not Detecting Any Motion, Yet Motion Detection Notifications Are Being Received, Resulting in a High Number of False Detections.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. If necessary, please change the installation location.
+2. Please set the detection sensitivity to Low.  
+Low Detection Sensitivity: 1–3 meters  
+Medium Detection Sensitivity: 4–6 meters  
+High Detection Sensitivity: 7–9 meters
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Detected Motion, but There Is No Recording Available to Play Back When Tapping on the Event.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the recording option is turned on by going to SwitchBot app → Indoor Cam → Gear icon → Local Storage.
+
+2. Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
+ 
+3. Format the microSD card to the FAT32 format on your computer, then insert it into the Indoor Cam and check if the issue is resolved.  
+
+4. If you have multiple microSD cards, try inserting a different microSD card into the Indoor Cam and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
+
+5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.  
+
+6. If there is no available space on the microSD card, please use an SD card reader to export the necessary videos in advance before proceeding to format the card.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Indoor Cam Cannot Be Formatted
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be formatted. If it cannot be formatted even on the computer, the issue is likely with the microSD card itself. 
+ 
+2. Format the microSD card to the FAT32 format on your computer, then insert it into the Indoor Cam and check if the issue is resolved.  
+
+3. If you have multiple microSD cards, try inserting a different microSD card into the Indoor Cam and check if it can be formatted. If other microSD cards can be formatted without any issues, the problem is likely with the specific microSD card.  
+
+4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be formatted.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Indoor Cam Cannot Be Recognized
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be recognized. If it cannot be recognized even on the computer, the issue is likely with the microSD card itself. 
+ 
+2. Format the microSD card to the FAT32 format on your computer, then insert it into the Indoor Cam and check if the issue is resolved.  
+
+3. If you have multiple microSD cards, try inserting a different microSD card into the Indoor Cam and check if it can be recognized. If other microSD cards can be recognized without any issues, the problem is likely with the specific microSD card.  
+
+4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be recognized.
+
+
+---
+### Troubleshooting Old Recordings Are Not Automatically Overwritten Once SwitchBot Indoor Cam's SD Card Is Full.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We sincerely apologize for any inconvenience you may have experienced. After careful investigation, we have identified that in rare instances, when the microSD card reaches full capacity, it may fail to automatically overwrite older files.
+While we are actively working to resolve this issue, please note that even with a replacement camera, there remains a possibility of recurrence. As a precautionary measure, we kindly recommend regularly exporting your important videos and photos using a card reader, followed by formatting the microSD card to maintain optimal performance.
+We truly appreciate your understanding and patience as we address this matter. If you have any further questions or need assistance, our support team is always happy to help.
+
+
+---
+### Troubleshooting the QR Code Cannot Be Scanned When Adding SwitchBot Indoor Cam to the App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the camera is in pairing mode by checking for a blinking red indicator. If not, reset it by pressing and holding the reset button on the back of the device for 5 seconds.
+2. Place your smartphone near the camera lens, keeping it about 20cm away.
+3. Remove the protective seal from the camera lens. If necessary, gently clean the lenses with a glasses cloth.
+4. Avoid pointing the camera lens towards strong light sources like windows or lighting.
+5. Darker environments may slightly impact QR code scanning. When adding the device, avoid overly dark areas.
+6. Adjust your smartphone screen brightness or try using a different smartphone to scan the QR code.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Couldn't Connect to Wi-Fi and Can't Be Added to SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. When adding the camera, please ensure that you enter the Wi-Fi SSID and password correctly, including uppercase and lowercase letters.
+4. If the Wi-Fi router has a whitelist, please add the MAC address located at the bottom of the camera to the whitelist.
+5. Place the camera closer to the Wi-Fi router (within 5 meters).  
+6. Restart your home router.  
+7. The device does not support the WPA3 security standard. Please switch your router's Wi-Fi security standard to a different encryption method.
+8. If you are using a VPN, please temporarily disable it.
+9. Please check if your smartphone or other Wi-Fi-enabled devices can connect to the internet properly.
+10. As a troubleshooting step, check if the camera can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
+---
+### Troubleshooting SwitchBot Pan/Tilt Cam Suddenly Went Offline and Cannot Be Reconnected.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. As part of troubleshooting Wi-Fi issues, please check if your smartphone or other Wi-Fi devices can function properly under the same Wi-Fi network to which the camera is connected.  
+2. Remove the camera from the app and add it again.  
+3. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+4. Try switching your phone's Wi-Fi network or using mobile data to see if the camera still disconnects.
+5. Please check if the number of devices connected to your home Wi-Fi router has reached its limit.  
+6. Restart your Wi-Fi router.  
+7. If you are using a VPN, please temporarily disable it.
+
+
+---
+### Troubleshooting SwitchBot Indoor Cam Keeps Showing "Loading" or "Loading Failure", Unable to View the Video.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Switch to mobile data on your smartphone and check if you can view the video.  
+2. If you are using a VPN, temporarily disable it.  
+3. Remove the camera from the app and add it again.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
