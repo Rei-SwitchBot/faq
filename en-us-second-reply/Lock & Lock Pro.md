@@ -735,7 +735,6 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
-
 ---
 ### Troubleshooting SwitchBot Lock Pro Frequently Enters Emergency Power Mode and Fails to Complete the Locking and Unlocking Process.
 
@@ -759,6 +758,13 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Can I Use My Apple Watch to Trigger Auto-unlock for SwitchBot Lock Pro?
+
+We regret to inform you that auto-unlock can only be activated through smartphones. It does not support automatic unlocking with an Apple Watch or Android smartwatch. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
 
 
 
