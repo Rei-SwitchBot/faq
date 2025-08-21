@@ -305,7 +305,6 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
-
 ---
 ### Troubleshooting SwitchBot Lock Ultra Auto-Lock Is Not Working
 
@@ -331,6 +330,14 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Can I Use My Apple Watch to Trigger Auto-unlock for SwitchBot Lock Ultra?
+
+We regret to inform you that auto-unlock can only be activated through smartphones. It does not support automatic unlocking with an Apple Watch or Android smartwatch. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
+
 
 
 
