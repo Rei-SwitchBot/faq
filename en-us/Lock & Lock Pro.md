@@ -2389,7 +2389,10 @@ Set the valid period. (the default setting is 10 mins).
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998259341847)
 
-Note: Regarding "arriving home," it pertains to the Bluetooth connection range of Lock Pro, which is typically within a few meters from the door lock. However, this range can be influenced by factors such as door and wall materials, as well as other interferences.
+Note:
+With SwitchBot App V9.4, all users can now experience the Auto Unlock (Beta) feature. Please download the latest app version from Apple App Store or Google Play Store.
+
+Only the smartphones of the home owner and admins can trigger the Auto-Unlock function when they move within range of the Lock Pro/Lock Ultra. At this time, Auto-Unlock is not supported for members or members with limited permissions.
 
 4. Since the auto-unlock function relies on your smartphone's GPS, Bluetooth and geofence, please enable the Wi-Fi of your smartphone and keep SwitchBot App running in the background for a better experience.
 
