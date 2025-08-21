@@ -485,6 +485,15 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Can SwitchBot Hub 2 Display Show the Decimal Point for the Temperature?
+
+We regret to inform you that the display panel on the Hub 2 was designed without a backlight for decimal points, which means this feature is not available on that model. 
+For your reference, this functionality has been implemented in our newer model, the Hub 3. Should you have any interest in exploring an upgrade in the future, Hub 3 would be available as an option.
+
+
+
+
 
 
 
