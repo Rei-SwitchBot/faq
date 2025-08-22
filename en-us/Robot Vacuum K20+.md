@@ -1,9 +1,9 @@
 ---
 
-## Hub 3
+## Robot Vacuum K20+
 
 ---
 
 ---
-### About the HEPA Filter in SwitchBot Air Purifier
+### 
 
