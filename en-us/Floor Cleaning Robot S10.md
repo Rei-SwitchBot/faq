@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5edf9cdd-1a88-4277-a87f-96e65087b096)---
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/b5b353e3-2327-4f0b-be5d-083c1f8141ab" />![image](https://github.com/user-attachments/assets/5edf9cdd-1a88-4277-a87f-96e65087b096)---
 
 ## Floor Cleaning Robot S10
 
@@ -1541,23 +1541,26 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the roller mop, mop case, waste water collection gutter and waste water box for foreign matter. If necessary, please clean them manually.
-Video on cleaning: https://youtu.be/ikUtZlHQUQU
-Maintenance video: https://youtu.be/N3ueD8hJcEg
+Video on cleaning: [https://youtu.be/ikUtZlHQUQU](https://www.youtube.com/watch?v=ikUtZlHQUQU)
+Maintenance video: [https://youtu.be/N3ueD8hJcEg](https://www.youtube.com/watch?v=N3ueD8hJcEg)
 
-![image](https://github.com/user-attachments/assets/6368fbe5-28ab-4da6-9180-270ca7b82203)
+<img width="908" height="531" alt="image" src="https://github.com/user-attachments/assets/e8aef4bb-0be5-47ac-9f1b-6ba012387594" />
 
 2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
 
-![image](https://github.com/user-attachments/assets/fdea7cd4-491f-4f65-9dbe-7f90e831174c)
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/93b5d604-0b5e-417a-a728-8c005a33eddc" />
 
-![image](https://github.com/user-attachments/assets/6b221ea0-6e7e-4185-a081-9c91f3becaf8)
+<img width="900" height="604" alt="image" src="https://github.com/user-attachments/assets/025960e7-fb2b-4199-a976-1e4b31b01bc3" />
 
 3. Put each component back together and see if it helps.
 4. We normally recommend hand washing the roller mop once a month and replacing it with a new mop every three months.
 5. You can also try using the dampen mop function to see if it helps.
 Please enable "dampen mop" feature by going to SwitchBot App -> S10 -> Functions in the lower left corner -> Settings -> Mop Cleaning.
-6. Increase the mop drying time by going to SwitchBot App -> S10 -> Functions -> Settings -> Drying Time.
+6. Increase the mop drying time by going to SwitchBot App -> S10 -> Functions -> Settings -> Drying Time. If the drying task is interrupted for any reason, please perform mop drying again.
 7. Check if warm air is coming out from the bottom of the auto-empty station when drying the mop. When the drying time is up, manually check if the mop is dry.
+
+
+
 
 
 
