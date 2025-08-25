@@ -4034,3 +4034,40 @@ Regarding this issue, could you please check the following points?
 4. Delete the air conditioner remote from the SwitchBot App, relearn it, and check if this resolves the issue.
 
 
+---
+### Troubleshooting When I Turn on the AC with SwitchBot App, the AC Units Displays Celsius Instead of Fahrenheit, and I Have a Hub Mini.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, after reviewing the situation with our R&D team, we'd like to explain what's happening:
+When using the SwitchBot app to control your air conditioner, the infrared signals sent by the Hub are based on the Celsius temperature scale. This means your AC unit receives the command in Celsius, causing it to display temperatures in Celsius. Although the SwitchBot app allows you to see and set the temperature in Fahrenheit for your convenience, this conversion happens only within the app, the actual signal that's sent to your AC remains in Celsius.
+By comparison, your physical remote sends signals in Fahrenheit, which is why the AC continues to display Fahrenheit when used directly.
+We sincerely apologize that our current Hub devices do not support sending infrared commands in Fahrenheit. Our team is continuously working to improve our products and services, and we've shared your feedback with our R&D team for future consideration.
+We understand this isn't the ideal experience you expected, and we're truly sorry for the frustration it may have caused. If you have any other questions or need further assistance, please don't hesitate to let us know. We're here to help.
+Thank you for your understanding and support!
+
+
+---
+### Troubleshooting When I Turn on the AC with SwitchBot App, the AC Units Displays Celsius Instead of Fahrenheit, and I Have a Hub 2.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, after reviewing the situation with our R&D team, we'd like to explain what's happening:
+When using the SwitchBot app to control your air conditioner, the infrared signals sent by the Hub are based on the Celsius temperature scale. This means your AC unit receives the command in Celsius, causing it to display temperatures in Celsius. Although the SwitchBot app allows you to see and set the temperature in Fahrenheit for your convenience, this conversion happens only within the app, the actual signal that's sent to your AC remains in Celsius.
+By comparison, your physical remote sends signals in Fahrenheit, which is why the AC continues to display Fahrenheit when used directly.
+We sincerely apologize that our current Hub devices do not support sending infrared commands in Fahrenheit. Our team is continuously working to improve our products and services, and we've shared your feedback with our R&D team for future consideration.
+We understand this isn't the ideal experience you expected, and we're truly sorry for the frustration it may have caused. If you have any other questions or need further assistance, please don't hesitate to let us know. We're here to help.
+Thank you for your understanding and support!
+
+
+---
+### Troubleshooting When I Turn on the AC with SwitchBot App, the AC Units Displays Celsius Instead of Fahrenheit, and I Have a Hub Mini Matter.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, after reviewing the situation with our R&D team, we'd like to explain what's happening:
+When using the SwitchBot app to control your air conditioner, the infrared signals sent by the Hub are based on the Celsius temperature scale. This means your AC unit receives the command in Celsius, causing it to display temperatures in Celsius. Although the SwitchBot app allows you to see and set the temperature in Fahrenheit for your convenience, this conversion happens only within the app, the actual signal that's sent to your AC remains in Celsius.
+By comparison, your physical remote sends signals in Fahrenheit, which is why the AC continues to display Fahrenheit when used directly.
+We sincerely apologize that our current Hub devices do not support sending infrared commands in Fahrenheit. Our team is continuously working to improve our products and services, and we've shared your feedback with our R&D team for future consideration.
+We understand this isn't the ideal experience you expected, and we're truly sorry for the frustration it may have caused. If you have any other questions or need further assistance, please don't hesitate to let us know. We're here to help.
+Thank you for your understanding and support!
+
+
+
