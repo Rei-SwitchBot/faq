@@ -2138,7 +2138,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Verify whether the valves are properly attached to both the water outlet and the water inlet on the water exchange station. If the inlet or drain valve is missing, we can arrange for a replacement.
+1. Please check if the valves are correctly connected to both the water outlet and inlet at the station. Without this valve, there may be a high-pitched noise during water exchange.
 
 ![image](https://github.com/user-attachments/assets/001377c6-7598-46ed-b603-73bc9d8c22df)
 
