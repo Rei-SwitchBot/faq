@@ -878,6 +878,22 @@ If the indicator light blinks once and then turns off, it indicates that the Ext
 If the indicator light behaves in any other manner, and the issue persists after unplugging and replugging the Type-C cable two or three times, we will arrange a replacement for you.
 
 
+---
+### Troubleshooting the Roller Mop of SwitchBot Floor Cleaning Robot S10 Is Wet and Has Not Been Completely dried.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photos of the roller mop before and after drying  
+- Photos showing the installation environment of the auto-empty station  
+- Photos taken after performing maintenance on the robot  
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
 
 
 
