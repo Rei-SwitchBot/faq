@@ -918,6 +918,45 @@ Related Post: [How to Use SwitchBot Floor Cleaning Robot S20 to Clean Multi-floo
 If you have purchased the S20 version shown in the following image and want to achieve automatic water inlet and drainage, you need to purchase a separate water station.
 Water Station: [https://www.switch-bot.com/products/s-series-water-station](https://www.switch-bot.com/products/s-series-water-station)
 
+<img width="760" height="762" alt="image" src="https://github.com/user-attachments/assets/4acf0e6d-968b-4fcf-95f2-0ae2e272c491" />
+
+Please set the S20 robot up in the following order.
+- Launch SwitchBot App and login
+- Tap the + icon in the upper right corner then tap "Add Device".
+- Tap "Floor Cleaning Robot S20" under "Household"
+- Remove the faceplate of the S20 robot body and switch on the power to "I".
+- Tap "Next."
+- Long press the home button and mode switch button for three seconds, you will hear a voice from the S20 saying, "Wi-Fi settings have been reset".
+- Tap "Connect to Device".
+- Device detection will be performed automatically.
+- Input the 2.4GHz Wi-Fi SSID and password, then tap "Next".
+- Once the network connection is complete, you will see a message that says "Added."
+- Set your favorite name and room, then tap "Finish".
+
+Mark water station position.
+- Remove the sticker on the infrared receiver of the water station body.
+- Activate the water station by pressing and holding the bluetooth button on the side of the station for a couple of seconds.
+- Launch your SwitchBot App and tap your S20.
+- Tap "Functions" in the lower left corner.
+- Tap "Settings".
+- Tap "Mark Water Station Position"
+- Drag the water drop mark icon to the front of the actual location of Water Station.
+- Tap "Mark".
+- The S20 will automatically move to the water station and mark it.
+
+Important Note:
+- When using S20 and the water station on multiple floors, please refer to the following link.
+[https://support.switch-bot.com/hc/en-us/articles/32681888413463](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+- When the S20 base station and water station are on the same floor, after marking the water station, automatic refilling and draining will only be done at the water station. Charging, dust collection, and mop-drying will be done at S20's base station.
+
+
+
+
+
+
+
+
+
 
 
 
