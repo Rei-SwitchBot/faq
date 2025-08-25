@@ -1562,8 +1562,6 @@ Please enable "dampen mop" feature by going to SwitchBot App -> S10 -> Functions
 
 
 
-
-
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Not Sucking the Dirty Water After Mopping
 
@@ -1577,23 +1575,20 @@ Regarding this issue, could you please check the following points?
 
 4. Make sure that the water station's auto-drain port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/2c7bc66a-702f-4ca8-95cb-7be81d8627b3" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/8a57d18d-39e2-4adb-a453-022d472bf906" />
 
 5. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
 
-<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/aa272f5c-1399-4457-a6d1-16f5832fffee" />
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/cbead68f-86a5-4403-b6ea-b285b4448856" />
 
 6. Please check if the waste water box is full or empty. 
 
-7. Please refer to the video below to verify whether your S10 robot's waste water pump is functioning correctly.
-Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
-Tips:
-  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
+7. Remove the waste water box from the S10 and check if it is full of dirty water. If there is no dirty water, please contact us to request a replacement of the waste water box. If there is water in the waste water box, please manually clean the waste water box. 
+Note: If the red-marked part in the picture is blocked and cannot be cleaned, we kindly ask you to request a replacement of the wastewater box.
 
-<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/6f35beda-90aa-4f3f-af37-eb3e6e523e0e" />
-  c. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f98a3db9-d61c-48a4-9bf3-a07d8b5e639e" />
+
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Saying the Dustbin Has Been Removed Even When It Isn't
