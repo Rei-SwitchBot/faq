@@ -2011,6 +2011,37 @@ Regarding this issue, could you please check the following points?
 We regret to inform you that checking carbon dioxide levels using voice commands on the Google Home app is not available. For more information, we recommand contacting Google directly.
 
 
+---
+### Troubleshooting SwitchBot Meter Fails to Display Data on the Graph During the Network Disconnection Period
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Temperature and humidity data recorded via Bluetooth and data saved to the cloud are stored through separate processes and do not merge. enable the "Store Data to Cloud" feature, the app will prioritize displaying data stored in the cloud. As a result, data recorded via Bluetooth while away from the Hub will no longer appear on the graph screen.
+2.  If the hub connection is lost for over an hour, you can recover the temperature and humidity data within the Bluetooth range. For more details, please refer to the link below.  
+[https://support.switch-bot.com/hc/en-us/articles/18545088919191](https://support.switch-bot.com/hc/en-us/articles/18545088919191-How-to-Upload-the-Temperature-and-Humidity-Data-from-SwitchBot-Outdoor-Meter-When-It-Is-Used-Outside)
+
+
+---
+### Troubleshooting SwitchBot Meter Failed to Connect to the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to perform the connection with the beta version.
+2. Make sure SwitchBot Meter and the Hub have been added to the App and the firmware version is up to date.
+3. Make sure the hub is connected to a stable 2.4GHz network.
+4. Place the Meter within the Bluetooth communication range of the hub (recommended within 5 meters)
+5. Please tap "Store data to cloud"* at the bottom of the meter chart page in SwitchBot app.
+Note: Once you tap the "Store data to cloud" button, it will automatically disappear. To make it reappear, you'll need to delete and re-add the meter.
+6. Turn off the Hub and re-power it after 10 minutes.
+
+
+
+
+
+
+
+
+
 
 
 
