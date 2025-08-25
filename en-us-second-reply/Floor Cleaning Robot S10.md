@@ -338,12 +338,29 @@ We apologize for any inconvenience caused.
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Makes a Loud Noise During the Water Change Process
 
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A photo of the entire water exchange station and a video capturing the sound.
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. We would appreciate it if you could provide the following information to help us determine whether the shipment of accessories is necessary.
+  1. Photos showing the drainage outlet and water inlet of the water station
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If the malfunction is caused by human factors, please be aware that fees will be incurred for arranging replacement parts.
+
+
+If the water supply valve and wastewater valve are securely attached and high-pitched sounds occur during water exchange, please provide us with the following information so we can forward your feedback to our R&D team for further investigation.
+- A photo of the entire water station and a video capturing the sound.
 
 
 
@@ -830,6 +847,7 @@ Thanks for your understanding!
 
 If the indicator light blinks once and then turns off, it indicates that the External Water Tank is recognized correctly. If the water refill issue persists, we will escalate the matter to our R&D team for further investigation.
 If the indicator light behaves in any other manner, and the issue persists after unplugging and replugging the Type-C cable two or three times, we will arrange a replacement for you.
+
 
 
 
