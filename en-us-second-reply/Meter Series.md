@@ -258,6 +258,34 @@ We apologize for any inconvenience caused.
 
 
 
+---
+### Troubleshooting SwitchBot Meter Fails to Display Data on the Graph During the Network Disconnection Period
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screen recording demonstrating data recovery operations
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Meter Failed to Connect to the Hub
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photos showing the distance between the Meter and the Hub
+- Screenshot showing communication status with the meter by going to SwitchBot app → Profile → Manage Hub → Target Hub.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
 
 
 
