@@ -3131,3 +3131,20 @@ Regarding the compatibility between Floor Cleaning Robot S10 and S20, please ref
 Multi-floor cleaning: [https://support.switch-bot.com/hc/en-us/articles/32681888413463](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
 Where to buy the water station: [https://www.switch-bot.com/products/switchbot-water-station-for-s10](https://www.switch-bot.com/products/switchbot-water-station-for-s10)
 
+
+---
+### Troubleshooting the Roller Mop of SwitchBot Floor Cleaning Robot S10 Is Wet and Has Not Been Completely dried.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. It takes approximately 3–4 hours for the mop to dry. Thanks for your understanding.
+2. If you are using the robot in a more humid environment, increase the mop drying time by going to SwitchBot App -> S10 -> Functions -> Settings -> Drying Time. 
+3. If the drying task is interrupted for any reason, please perform mop drying again.
+4. Check if warm air is coming out from the bottom of the auto-empty station when drying the mop. When the drying time is up, manually check if the mop is dry.
+5. If an unpleasant odor comes from the roller mop during wiping, please check the link below.
+[https://support.switch-bot.com/hc/en-us/articles/26152819219607](https://support.switch-bot.com/hc/en-us/articles/26152819219607-What-to-Do-If-My-Floor-Smells-After-Mopping-with-SwitchBot-Floor-Cleaning-Robot-S10)
+
+
+
+
+
