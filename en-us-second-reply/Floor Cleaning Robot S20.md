@@ -337,13 +337,29 @@ We apologize for any inconvenience caused.
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Makes a Loud Noise During the Water Change Process
 
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A photo of the entire water exchange station and a video capturing the sound.
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. We would appreciate it if you could provide the following information to help us determine whether the shipment of accessories is necessary.
+  1. Photos showing the drainage outlet and water inlet of the water station
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If the malfunction is caused by human factors, please be aware that fees will be incurred for arranging replacement parts.
 
+
+If the water supply valve and wastewater valve are securely attached and high-pitched sounds occur during water exchange, please provide us with the following information so we can forward your feedback to our R&D team for further investigation.
+- A photo of the entire water station and a video capturing the sound.
 
 
 ---
@@ -894,6 +910,7 @@ Important Note:
 - When using S20 and the water station on multiple floors, please refer to the following link.
 Related Post: [How to Use SwitchBot Floor Cleaning Robot S20 to Clean Multi-floor](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
 - When the S20 base station and water station are on the same floor, after marking the water station, automatic refilling and draining will only be done at the water station. Charging, dust collection, and mop-drying will be done at S20's base station.
+
 
 
 
