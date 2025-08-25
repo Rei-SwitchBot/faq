@@ -532,11 +532,25 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+We would appreciate it if you could provide the following information so that we can determine whether the wastewater box needs to be replaced.
 - Remove the waste water box and take a photo for us
 - A video showing the robot not being able to drain water
 
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+Note: If replacing the waste water box does not fix the problem, we will assess if repairs to the water station are needed. Please contact us again. Thank you for your patience and understanding!
 
 
 
@@ -862,6 +876,7 @@ Thanks for your understanding!
 
 If the indicator light blinks once and then turns off, it indicates that the External Water Tank is recognized correctly. If the water refill issue persists, we will escalate the matter to our R&D team for further investigation.
 If the indicator light behaves in any other manner, and the issue persists after unplugging and replugging the Type-C cable two or three times, we will arrange a replacement for you.
+
 
 
 
