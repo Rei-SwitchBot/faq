@@ -338,6 +338,19 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 We regret to inform you that auto-unlock can only be activated through smartphones. It does not support automatic unlocking with an Apple Watch or Android smartwatch. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
+---
+### How Long Can SwitchBot Lock Ultra Rechargeable Battery Last on a Single Charge?
+
+The US door lock with a 90-degree angle for unlocking/locking can last up to 12 months on a fully charged battery when unlocked/locked 10 times a day. 
+The EU door lock with a 900-degree angle for unlocking/locking can last up to 9 months on a fully charged battery when unlocked/locked 10 times a day.
+The battery life of the rechargeable battery may vary slightly depending on the actual usage environment. We appreciate your understanding.
+
+Note:
+It takes about 6 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete. During charging, the backup battery will be automatically activated, and the auto-lock function is temporarily disabled.
+
+
+
+
 
 
 
