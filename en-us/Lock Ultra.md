@@ -303,3 +303,31 @@ Regarding this issue, could you please check the following points?
   
 5. Remove and reinsert the rechargeable and backup batteries of the Lock Ultra, then re-add it to the app and calibrate.
 
+
+---
+### Troubleshooting After Installing SwitchBot Lock Ultra on MIWA 75PM, There Is No Gap Between the Doorknob and the Lock, Making It Impossible to Turn the Doorknob.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+After reviewing your situation, we would like to explain that when any SwitchBot Lock product (including Lock Ultra) is installed on MIWA 75PM-style round knobs, due to the physical design of both the lock and the knob, the Lock unit may end up positioned very closely to the knob itself. As a result, it might be difficult to grip and turn the knob comfortably with your fingers as you normally would.
+Following confirmation with our R&D team, one option you could try is using an auxiliary lever attachment, like the one shown below to see whether it improves operability for your setup:
+[https://amzn.asia/d/fE2c4Ex](https://www.amazon.co.jp/dp/B0087KH6RA?ref=cm_sw_r_cp_ud_dp_R6FCP7HHMXX9ZZBCFGNX&ref_=cm_sw_r_cp_ud_dp_R6FCP7HHMXX9ZZBCFGNX&social_share=cm_sw_r_cp_ud_dp_R6FCP7HHMXX9ZZBCFGNX&th=1)
+We sincerely apologize for any inconvenience this has caused and truly appreciate your patience and understanding.
+If you have any further questions or need additional support, please don’t hesitate to let us know. We’re here to help.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
