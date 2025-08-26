@@ -39,4 +39,19 @@ We will provide you with a replacement within the warranty period. To expedite s
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Outdoor Meter Failed to Connect to the Hub
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photos showing the distance between the Outdoor Meter and the Hub
+- Screenshot showing communication status with the Outdoor Meter by going to SwitchBot app → Profile → Manage Hub → Target Hub.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
 
