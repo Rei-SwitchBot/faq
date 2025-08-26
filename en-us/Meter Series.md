@@ -2035,6 +2035,31 @@ Note: Once you tap the "Store data to cloud" button, it will automatically disap
 6. Turn off the Hub and re-power it after 10 minutes.
 
 
+---
+### Troubleshooting The Numbers on SwitchBot Meter Plus’s Screen Are Partially Missing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue you mentioned, could you please provide a photo showing the missing numbers on the Meter Plus screen?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Meter Plus Failed to Connect to the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to perform the connection with the beta version.
+2. Make sure SwitchBot Meter Plus and the Hub have been added to the App and the firmware version is up to date.
+3. Make sure the hub is connected to a stable 2.4GHz network.
+4. Place the Meter Plus within the Bluetooth communication range of the hub (recommended within 5 meters)
+5. Please tap "Store data to cloud"* at the bottom of the Meter Plus chart page in SwitchBot app.
+Note: Once you tap the "Store data to cloud" button, it will automatically disappear. To make it reappear, you'll need to delete and re-add the Meter Plus.
+6. Turn off the Hub and re-power it after 10 minutes.
+
+
+
+
 
 
 
