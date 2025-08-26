@@ -2072,6 +2072,20 @@ Note: Once you tap the "Store data to cloud" button, it will automatically disap
 6. Turn off the Hub and re-power it after 10 minutes.
 
 
+---
+### Troubleshooting SwitchBot CO2 Monitor Failed to Connect to the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to perform the connection with the beta version.
+2. Make sure SwitchBot CO2 Monitor and the Hub have been added to the App and the firmware version is up to date.
+3. Make sure the hub is connected to a stable 2.4GHz network.
+4. Place the CO2 Monitor within the Bluetooth communication range of the hub (recommended within 5 meters)
+5. Please tap "Store data to cloud"* at the bottom of the CO2 Monitor chart page in SwitchBot app.
+Note: Once you tap the "Store data to cloud" button, it will automatically disappear. To make it reappear, you'll need to delete and re-add the CO2 Monitor.
+6. Turn off the Hub and re-power it after 10 minutes.
+
+
 
 
 
