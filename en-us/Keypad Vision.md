@@ -286,3 +286,19 @@ Regarding this issue, could you please check the following points?
 2. Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition,  set it to Manual first, then switch it to Auto again.
 3. Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Recognition Sensitivity, set it to high.
 4. Please confirm if your Keypad Vision has been installed in a place where direct sunlight can shine on it.
+
+
+---
+### Troubleshooting SwitchBot Keypad Vision's Facial Recognition Stops Responding in Hot Weather
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Update the firmware of the Keypad Vision to V1.7 or newer to see if it helps.
+2. Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition,  set it to Manual first, then switch it to Auto again.
+3. Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Recognition Sensitivity, set it to high.
+4. Please confirm if your Keypad Vision has been installed in a place where direct sunlight can shine on it.
+
+
+
+
+
