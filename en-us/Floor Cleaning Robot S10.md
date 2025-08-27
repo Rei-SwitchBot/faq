@@ -2962,7 +2962,7 @@ Way to open the waste filter cover: Hold the main body of the water station with
 
 Currently, the S10 does not support integration with Home Assistant through SwitchBot Cloud. If you try to add it via Cloud, the device won't be detected.
 
-To add the S10 through Home Assistant, you'll need to use SwitchBot Bluetooth mode instead. This requires your Home Assistant setup to have a compatible Bluetooth module for proper pairing and control.
+To integrate the S10 with Home Assistant, you can use either SwitchBot Bluetooth mode or matter.  This requires your Home Assistant setup to have a compatible Bluetooth module for proper pairing and control.
 
 If you run into issues setting up via Bluetooth or Matter, feel free to reach out to our support team for help.
 
