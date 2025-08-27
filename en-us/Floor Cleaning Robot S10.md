@@ -1755,7 +1755,7 @@ Regarding this issue, could you please check the following points?
 
 4. When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
 5. If you're using an external water tank, make sure the gasket is properly installed on the rear quick connector of the external water tank. Check that both the water inlet and outlet hoses have correct gaskets as shown in the video. Verify that the sewage tank and fresh water tank are correctly installed.
-https://www.youtube.com/watch?v=o5413fr7R2U
+[https://www.youtube.com/watch?v=o5413fr7R2U](https://www.youtube.com/watch?v=o5413fr7R2U)
 
 <img width="1162" height="617" alt="image" src="https://github.com/user-attachments/assets/9db2f2c7-9f6c-4ab4-81d5-2b196766a1d8" />
 
