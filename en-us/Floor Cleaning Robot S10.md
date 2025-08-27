@@ -1824,18 +1824,19 @@ Tips:
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Check for Debris Around the Roller Mop: Sometimes, hair, dirt, or other small particles can get caught around the roller, causing it to jam. Please refer to the video to clean it if necessary.
-https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view
-2. Listen to Unusual Noises During the Jam: If the roller gets stuck and you hear any strange sounds, please record a video of the issue.
-3.  If the Roller Mop Gets Stuck and the Waste Water Collection Gutter Detaches Easily,  please follow these steps:
+1. Check for debris around the roller mop. Hair, dirt, or other small particles can get caught and cause it to jam. Refer to the video for cleaning instructions if needed.
+[https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view](https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view)
+2. If the roller mop gets stuck and you hear any strange sounds, please record a video of the issue.
+3. If the roller mop gets stuck and the waste water collection gutter detaches easily,  please follow these steps:
 Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
-https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link
+[https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link](https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link)
 Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
 
-![image](https://github.com/user-attachments/assets/42e84b5c-bf5c-45bb-95a5-f30d06237113)
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8bbf7a0b-2f70-47c1-81e0-36e5adf2db21" />
 
 Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
-https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing
+[https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing](https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view)
+
 
 
 
