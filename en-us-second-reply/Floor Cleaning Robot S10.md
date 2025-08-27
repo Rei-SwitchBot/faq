@@ -482,7 +482,6 @@ Remove the Waste Water Collection Gutter and take a photo of the back of the uni
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
-
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Has a Dust Collection Sound but Doesn’t Actually Collect Dust
 
@@ -890,6 +889,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
