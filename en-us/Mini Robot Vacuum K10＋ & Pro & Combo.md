@@ -2450,7 +2450,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of the robot making clicking noise when it starts cleaning, could you please check the following points?
 1. Please make sure that the brush attachments on both ends are securely installed, as shown in the diagram. Additionally, if there is any hair tangled around the brush, please carefully remove it by hand.
 
-<img width="361" height="255" alt="image" src="https://github.com/user-attachments/assets/3859f4ff-7c18-4610-ab6c-75c3fa95f13c" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/5c79639e-cb42-4d49-ac61-c042049f6e96" />
 
 2. Remove the main brush and brush frame, then run the robot to check if the clicking noise persists.
 
