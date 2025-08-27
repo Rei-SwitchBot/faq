@@ -1,4 +1,4 @@
-<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/b5b353e3-2327-4f0b-be5d-083c1f8141ab" />![image](https://github.com/user-attachments/assets/5edf9cdd-1a88-4277-a87f-96e65087b096)---
+---
 
 ## Floor Cleaning Robot S10
 
