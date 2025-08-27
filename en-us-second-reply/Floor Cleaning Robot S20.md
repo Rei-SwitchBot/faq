@@ -950,6 +950,33 @@ Important Note:
 - When the S20 base station and water station are on the same floor, after marking the water station, automatic refilling and draining will only be done at the water station. Charging, dust collection, and mop-drying will be done at S20's base station.
 
 
+---
+### Troubleshooting Water Leakage on SwitchBot Floor Cleaning Robot S20 Station
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, please assist us by providing the following:
+When using the S20's base station:
+  1. A video demonstrating water leakage.
+When using the water station:
+  1. A picture showing the water hose installation.
+  2. A video demonstrating water leakage.
+2. Also, if the replacement or repaire service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
 
 
 
