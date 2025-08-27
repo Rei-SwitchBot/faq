@@ -34,26 +34,31 @@ Regarding this issue, could you please check the following points?
 When using the S20's base station:
 1. Make sure that the auto-drain and auto-fill ports on the base station are properly installed and are not damaged.
 
-![image](https://github.com/user-attachments/assets/8a0c4694-38b1-41b1-bdd3-8ebdd743774e)
+<img width="1137" height="914" alt="image" src="https://github.com/user-attachments/assets/8f31455e-9cd7-43bc-8ae2-7ba5ec4cc639" />
 
 2. When changing the water, some dripping may occur, which is normal. It is recommended to place a diatomaceous earth mat under the auto-fill port.
 3. Make sure that the waste water tank and fresh water tank are correctly installed.
+
+<img width="660" height="588" alt="image" src="https://github.com/user-attachments/assets/64045460-c4d9-4142-8ece-bb3bac1f0ac0" />
+
+4. Please ensure that the waste water filter cover is securely closed. If it is protruding, it may cause water leakage.
+
+<img width="869" height="522" alt="image" src="https://github.com/user-attachments/assets/3727dd4b-05a3-46df-acb9-b4a4d2394d25" />
 
 When using the water station:
 1. When changing the water, some dripping may occur, which is normal. It is recommended to place a waterproof mat or diatomaceous earth mat in front of the water station.
 2. Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
 
-![image](https://github.com/user-attachments/assets/3189d7f5-b7ca-45e7-9c42-93c8bf685ac0)
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/e03bae05-c095-4550-9af0-253404ee0606" />
 
-![image](https://github.com/user-attachments/assets/ab411320-6541-4abc-855e-b0510504ac78)
+<img width="409" height="280" alt="image" src="https://github.com/user-attachments/assets/b89184d7-05ab-4662-b636-1636cbac410c" />
 
 3. Make sure the waste filter cover on the Water Station is securely closed.
 4. When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
 5. If you're using an external water tank, make sure the gasket is properly installed on the rear quick connector of the external water tank. Check that both the water inlet and outlet hoses have correct gaskets as shown in the video. Verify that the waste water tank and fresh water tank are correctly installed.
+[https://www.youtube.com/watch?v=o5413fr7R2U](https://www.youtube.com/watch?v=o5413fr7R2U)
 
-https://www.youtube.com/watch?v=o5413fr7R2U
-
-![image](https://github.com/user-attachments/assets/a9274dab-a2b6-482e-838f-8b7a7153ed01)
+<img width="1162" height="617" alt="image" src="https://github.com/user-attachments/assets/5278242f-31c1-4e7f-b361-c38b6cf488a9" />
 
 6. Try lifting one side of the water station and checking if any water leaks from the opposite side.
 
