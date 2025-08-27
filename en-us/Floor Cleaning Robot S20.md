@@ -3203,8 +3203,6 @@ Tips:
   4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
 
 
-
-
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Is Not Sucking the Dirty Water After Mopping
 
@@ -3231,5 +3229,18 @@ Tips:
 
   3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Looking for the Base Station When It Finishes Cleaning on a Different Floor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The S20 robot supports cleaning across multiple floors. However, each robot unit can be paired with only one Base Station at a time. This means it isn't possible to set up an additional Base Station on a different floor.
+When the robot completes a cleaning task on a floor where only the Water Station is available, it will first return to the Water Station to perform deep mopping cleaning tasks, such as thoroughly washing the roller mop and disposing of wastewater. After that, the robot will automatically try to return to the Base Station to recharge. Since the station isn't present on that floor, it will eventually end this attempt with a docking failure.
+Please rest assured that this is the intended operating behavior of the robot and not a malfunction. Regardless of the type of cleaning task, the robot will always try to dock with the Base Station at the end of a job to recharge.
+We sincerely apologize for any confusion or inconvenience this may have caused. We truly appreciate your understanding. If you have any further questions, we're here to help.
+
 
 
