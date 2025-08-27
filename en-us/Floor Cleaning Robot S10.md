@@ -1745,17 +1745,19 @@ Regarding this issue, could you please check the following points?
 1. When changing the water, some dripping may occur, which is normal. It is recommended to place a waterproof mat or diatomaceous earth mat in front of the water station.
 2. Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
 
-![image](https://github.com/user-attachments/assets/a10bfe93-a617-405b-96b3-2468f91bb302)
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/61fe6dd5-e0ed-4057-8953-72e26351a39e" />
 
-![image](https://github.com/user-attachments/assets/263a8df9-ba3a-4ea0-a664-d4c083456fff)
+<img width="409" height="280" alt="image" src="https://github.com/user-attachments/assets/09bf6202-5722-456b-8f13-00358480e5d5" />
 
-3. Make sure the waste filter cover on the Water Station is securely closed.
+3. Please tightly close the lid of the waste water filter of the water station in the direction indicated by the red mark in the left diagram. If it is protruding, it may cause water leakage. When properly closed, the lid will align with the same horizontal level as the surface of the water station (red frame in the right diagram).
+
+<img width="1280" height="425" alt="image" src="https://github.com/user-attachments/assets/67c12a4e-590d-4fbb-b777-1ad8550ab850" />
+
 4. When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
 5. If you're using an external water tank, make sure the gasket is properly installed on the rear quick connector of the external water tank. Check that both the water inlet and outlet hoses have correct gaskets as shown in the video. Verify that the sewage tank and fresh water tank are correctly installed.
-
 https://www.youtube.com/watch?v=o5413fr7R2U
 
-![image](https://github.com/user-attachments/assets/b40e6aa9-f907-4c9c-a4d5-fdfbf9945ca1)
+<img width="1162" height="617" alt="image" src="https://github.com/user-attachments/assets/9db2f2c7-9f6c-4ab4-81d5-2b196766a1d8" />
 
 6. Try lifting one side of the water station and checking if any water leaks from the opposite side.
 
