@@ -742,29 +742,28 @@ To expedite the process, kindly share the following details:
 
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Has Water in the Tray but the Filter Remains Dry and Does not Humidify
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Pull out the water tray and reinsert it securely. Check if the humidifier starts working properly and the filter begins absorbing water.
-![image](https://github.com/user-attachments/assets/e308858a-8058-4b24-96fc-2804741bef5b)
 
-2. Remove the plastic tube from the filter frame, then install the frame without the filter and run the Evaporative Humidifier for at least 10 seconds. If water flows from the water pump, it indicates an issue with the filter frame. In this case, please contact support through the SwitchBot App to request a replacement for the filter frame.
-![image](https://github.com/user-attachments/assets/7694c7a6-f48d-47d5-8e65-cf93d4dc44c0)
+<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/bab8b5df-c7c4-428a-a75d-3db8a91462c2" />
+
+2. Remove the plastic tube from the filter frame, then install the frame without the filter and run the Evaporative Humidifier for at least 10 seconds. If water flows from the water pump, it indicates an issue with the filter frame. In this case, the filter frame needs to be replaced.
+
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/c8797b70-59b7-4e4a-9163-82f2d3f76877" />
 
 3. If no water flows, refer to video 1 to remove the water pump, thoroughly clean each part based on video 2, and reassemble it.
 
-video1: https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view
+Video 1: [https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view?usp=sharing](https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view)
+Video 2: [https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view](https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view)
 
-video2: https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view
+4. If the filter remains dry, you will need to replace the water pump as shown in the video 3 guide provided. 
+Video 3: [https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view](https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view)
 
-4. If the filter remains dry, replace the water pump as shown in the video 3 guide provided. We’ll arrange a replacement water pump for you. When reaching us, please provide the following below:
-video3: https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view
-
-- A video demonstrating that the filter stays dry when tissue paper is pressed against it while the humidifier is running
-- A photo of the filter frame with the plastic tube removed (turning the frame upside down as shown in the middle picture of step 2)
-- Order number
-- A screenshot showing your order information
-- Your address
 
 ---
 ### What to Do If I Hear Water Flowing Sounds from My Evaporative Humidifier Auto-refill?
