@@ -890,27 +890,22 @@ SwitchBot Appバージョン：7.10以降
 ---
 ### 気化式加湿器本体からチョロチョロと水が滴るような音がする、どうしたらいいでしょうか。
 
-適用製品：気化式加湿器、気化式加湿器Plus
-1．動画通りでフィルターをしっかり（隙間のないように）フィルターフレームに設置するようお願いいたします。
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. 動画通りでフィルターをしっかりフィルターフレームに設置するようお願いいたします。
+[https://www.youtube.com/shorts/6lMBBJre9zw](https://www.youtube.com/shorts/6lMBBJre9zw)
 
-動画：https://www.youtube.com/shorts/6lMBBJre9zw
+<img width="1280" height="932" alt="image" src="https://github.com/user-attachments/assets/6e2036b8-2956-4257-a433-a582d515e302" />
 
-2．フィルターの位置調整が終わりましたら、付属品のゴムリング※で固定するようお願いいたします。
+<img width="1280" height="838" alt="image" src="https://github.com/user-attachments/assets/82dfb447-6527-4568-8316-d85b0ad702c2" />
 
-![image](https://github.com/user-attachments/assets/adc76177-7748-456c-b308-71c575f66f16)
+2. フィルターの位置調整が終わりましたら、付属品のゴムリングで固定するようお願いいたします。
 
-![image](https://github.com/user-attachments/assets/2ad795eb-3ae7-44d1-beb8-206e01aac3ef)
+<img width="1118" height="2082" alt="image" src="https://github.com/user-attachments/assets/a7227957-98bc-4917-9d68-edc2fe9b2966" />
 
-備考：ゴムリングがパッケージについていない場合、サポートチームにて手配可能です。より早めに手配できるようにご連絡の際、以下の内容をいただけると助かります。
+<img width="864" height="271" alt="image" src="https://github.com/user-attachments/assets/b0483157-0bf3-4fa4-804b-2e723cfe3e31" />
 
-ご注文番号
-ご購入履歴のスクリーンショット
-送り先情報
-お名前
-お電話番号
-ご住所
-郵便番号
-3．上記を実施されても改善されない場合、ご連絡の際、気化式加湿器から水が流れる音がする動画のご協力をお願いいたします。技術チームにて調査させていただきます。
 
 
 ---
@@ -933,6 +928,19 @@ SwitchBot Appバージョン：7.10以降
 
 4．上記を実施されてもフィルターは乾燥したままでしたら、動画3通りで水ポンプの交換が必要です。
 動画3：[https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view](https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view)
+
+
+---
+### 気化式加湿器の吹き出し口の中に入った小物の取り出し方法
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. 気化式加湿器の運転を停止します。
+2. 気化式加湿器の電源を切ります。
+3. 水タンクとトレイを取り外します。
+4. 気化式加湿器内部が乾燥していることを確認してから、デバイスをひっくり返して、小物が自然に落下するまで小刻みに動かします。
+
 
 
 
