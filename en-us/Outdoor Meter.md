@@ -622,7 +622,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 If you’ve inserted two batteries and noticed the indicator light turns on but there’s no response when holding the button for 2 or 15 seconds, we kindly ask for your help in recording a short video showing this behavior.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
