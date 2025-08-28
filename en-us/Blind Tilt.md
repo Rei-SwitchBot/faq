@@ -694,4 +694,16 @@ When used individually, the Blind Tilt only needs to communicate with the phone 
 After grouping Blind Tilt devices, only the main device will be displayed in the SwitchBot app, while sub-devices are automatically hidden. The app only shows the charging status and battery level of the main device, not the sub-devices. If you want to check the battery level of a sub-device, you’ll need to ungroup the devices first and then select the specific device individually to view its status.
 
 
+---
+### Troubleshooting SwitchBot Blind Tilt Emits a Motor Sound but Doesn't Rotate
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press and hold the pairing button on the bottom of the Blind Tilt body for 15 seconds to fully reset the device.
+[https://support.switch-bot.com/hc/en-us/articles/11615262691351](https://support.switch-bot.com/hc/en-us/articles/11615262691351-How-to-Reset-SwitchBot-Blind-Tilt)
+
+
+
+
+
 
