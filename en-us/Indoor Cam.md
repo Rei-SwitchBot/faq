@@ -1314,7 +1314,7 @@ Regarding this issue, could you please check the following points?
 
 3. If you wish to request a refund for the cloud storage plan of the traditional Camera Series, we kindly ask for your cooperation by providing a screenshot of the purchased plan.  
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
