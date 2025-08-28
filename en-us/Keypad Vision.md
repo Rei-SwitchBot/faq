@@ -178,7 +178,8 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. If you lock the door without using the Keypad Vision, the Lock status will not sync automatically with it. This means that setting a sleep period on the Keypad Vision won't work, and the Lock will unlock when your face is scanned.
 2. To enable communication between the Keypad Vision and the lock product, go to the SwitchBot App -> Keypad Vision -> Gear Icon -> Turn on Quick Unlocking. This setting ensures that after manually locking the door, the status will be synced to the Keypad Vision via Bluetooth. Your Lock will not unlock during sleep mode, even if your face is scanned.
-3. If the problem persists, temporarily set the face recognition method to manual by navigating to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition. The SwitchBot app V9.13 and firmware V15, scheduled for release at the end of March, will allow you to customize the time of day when you set the facial recognition activation method to automatic. We appreciate your patience and understanding.
+3. If the problem persists, consider setting activation times for your Keypad Vision by navigating to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition -> Custom. Once you set a custom activation time, the Keypad Vision will automatically activate when your face is scanned during that time. Outside this specified time, you will need to manually activate the device.
+
 
 
 ---
