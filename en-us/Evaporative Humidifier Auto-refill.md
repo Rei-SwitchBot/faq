@@ -797,4 +797,17 @@ Regarding this issue, could you please check the following points?
 4. Allow the inside of the humidifier to dry completely, then turn it upside down and gently shake it until any small objects fall out naturally.
 
 
+---
+### Troubleshooting My Evaporative Humidifier Filter is Yellowing, Moldy, or Has an Odor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the filter is completely dried after every use. Failure to dry the filter increases the risk of discoloration, odors, and the growth of mold or bacteria.
+2. Clean the filter once a month. You can wash it in the washing machine for convenience. Adjust the frequency of cleaning based on how often you use it.
+3. During periods of high humidity, if you won't be using the humidifier for an extended time, make sure to thoroughly dry the inside of the device, including the filter, before storing it. Failing to do so may lead to mold growth and unpleasant odors.
+4. You can also purchase filters on our official website.
+[https://www.switch-bot.com/products/switchbot-evaporative-humidifier-auto-refill?variant=46310797410471](https://www.switch-bot.com/products/switchbot-evaporative-humidifier-auto-refill?variant=46310797410471)
+
+
+
 
