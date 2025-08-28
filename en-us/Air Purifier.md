@@ -381,7 +381,7 @@ In the "On" setting, the light will stay on continuously.
 - A screenshot of the mood light settings
 - A video showing the air purifier turned on but the light not activating
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -399,7 +399,7 @@ Regarding the pet hair not being drawn into the Air Purifier, could you please c
 
 3. If the issue persists, could you please provide a video showing the problem? We will conduct a detailed investigation.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
