@@ -9372,7 +9372,7 @@ To better assist you with the Scene issue, could you please provide us the follo
 4. Screenshot of the execution history
 Way to check the Scene logs: SwitchBot App -> "..." in the upper right corner -> Manage Scenes -> "⋮" in the upper right corner -> Scene logs
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 ---
 ### Troubleshooting SwitchBot Automation Fails to Trigger
@@ -9385,7 +9385,7 @@ To better assist you with the automation issue, could you please provide us the 
 4. Screenshot of the execution history
 Way to check the automation logs: SwitchBot App -> "Automation" at the bottom of the home screen -> "..." in the upper right corner -> automation logs
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 ---
 ### Which SwitchBot Products Work with Homey?
