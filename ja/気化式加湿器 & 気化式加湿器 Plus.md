@@ -886,6 +886,7 @@ SwitchBot Appバージョン：7.10以降
 ご住所
 郵便番号
 
+
 ---
 ### 気化式加湿器本体からチョロチョロと水が滴るような音がする、どうしたらいいでしょうか。
 
@@ -910,3 +911,30 @@ SwitchBot Appバージョン：7.10以降
 ご住所
 郵便番号
 3．上記を実施されても改善されない場合、ご連絡の際、気化式加湿器から水が流れる音がする動画のご協力をお願いいたします。技術チームにて調査させていただきます。
+
+
+---
+### トラブルシューティング気化式加湿器はトレーに水があったがフィルターは乾いたままで加湿していない
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1．一度トレーを引き出し、再度元に戻して気化式加湿器が正常に加湿できる(フィルターに水を供給できる)かご確認ください。
+
+<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/0c9baeef-e5dc-443f-ba74-3bd1fd03401e" />
+
+2．フィルターフレームのプラスチックチューブを外し、フィルター抜きでフレームのみを装着し、気化式加湿器を10秒間以上稼働させて水ポンプから水が出るかご確認ください。もし水が出たら、フィルターフレームの不具合となり、フィルターフレームの交換が必要です。
+
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/e3611e6f-cd1e-40f4-88d8-4df1f3d18d2f" />
+
+3．フィルターフレームのみ装着して水が出ない場合、動画1を参考にして水ポンプを取り外し、動画2に従って手作業で水ポンプの各部分をクリーニングし、元に戻します。
+動画1：[https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view?usp=sharing](https://drive.google.com/file/d/1gQN8lPc7CZ0eqkG_vRG2mMaiMZQkXtRo/view)
+動画2：[https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view](https://drive.google.com/file/d/1gO1upJcAYc1LMzFPWKaSDvCvuo5EwY-h/view)
+
+4．上記を実施されてもフィルターは乾燥したままでしたら、動画3通りで水ポンプの交換が必要です。
+動画3：[https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view](https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view)
+
+
+
+
+
