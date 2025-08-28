@@ -771,7 +771,7 @@ Video 3: [https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Make sure the filter is securely installed in the filter frame, as shown in the video.
-https://www.youtube.com/shorts/6lMBBJre9zw
+[https://www.youtube.com/shorts/6lMBBJre9zw](https://www.youtube.com/shorts/6lMBBJre9zw)
 
 <img width="1280" height="932" alt="image" src="https://github.com/user-attachments/assets/915bfa80-8384-4fd1-b413-899f12710f7a" />
 
