@@ -1649,7 +1649,7 @@ Regarding this issue, could you please check the following points?
 - A screenshot of your order
 ---
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -1733,7 +1733,7 @@ To expedite shipment, please provide us with the necessary details so we can ass
 
 Note: 
 Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -1918,7 +1918,7 @@ If only one drive wheel is rotating, your S10 may need to be repaired or replace
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2179,7 +2179,7 @@ Regarding this issue, could you please check the following points?
 - A screenshot of your order
 ---
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2532,7 +2532,7 @@ We are continuously working to improve our products and take customer feedback s
 
 If your robot is unable to operate due to hair entanglement, please provide a detailed video of the issue. We will escalate the matter to our R&D team to investigate further.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2640,7 +2640,7 @@ To expedite shipment, please provide us with the necessary details so we can ass
 
 Note: 
 Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 ---
 ### Troubleshooting Missing Accessories for SwitchBot Floor Cleaning Robot S10
@@ -2664,7 +2664,7 @@ To speed up the replacement process, we’ll also need the following details:
 
 Once confirmed, we’ll arrange for the missing parts to be sent to you as soon as possible. Thanks for your patience, and we appreciate your support!
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2811,7 +2811,7 @@ Installation video: [https://www.youtube.com/watch?v=E9m7NeFow1o](https://www.yo
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -3047,7 +3047,7 @@ Regarding this issue, could you please check the following points?
 3. If the customer cannot remove the object, the S10 may need to be repaired. Free repair service is not available for malfunctions caused by easily entangled objects other than hair. Costs incurred for robot cleaner repairs need to be borne by the customer. Our team will contact you later for details, thank you for your patience and understanding!
 4. To better assit you, could you please provide a photo showing the issue?
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
