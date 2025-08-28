@@ -3602,7 +3602,7 @@ Note: Email us (
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please provide a video of the screws not being able to be removed?
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -3732,7 +3732,7 @@ If you would like us to arrange the shipment, please provide us with the necessa
 - A screenshot of your order
 
 *The magnet used for both SwitchBot Lock and Lock Pro is the same. If you need a replacement magnet for Lock Pro, please follow the same request process as mentioned above. We’d be happy to assist you!
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -3792,7 +3792,7 @@ Please make sure that the magnet is facing the right way. The magnet can be dete
 - A photo of the Lock Pro installation with the magnet
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -3824,7 +3824,7 @@ Regarding the issue, could you please check the following points?
 2. If you receive a reset request, please upload proof of purchase (such as an Amazon order confirmation, receipt from our official website, or a retailer’s invoice). Once verified in the app, the lock will automatically unbind from the previous account, allowing you to add it to a new one.
 3. If the app fails to recognize the lock or if you acquired it secondhand, please contact our customer support team with your order documentation for further assistance.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -3854,7 +3854,7 @@ Regarding this issue, could you please check the following points?
   1. Video to confirm the Lock's jamming.
   2. Video of recalibration of the Lock
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -4125,7 +4125,7 @@ If this is okay for you, please provide us with the necessary details so we can 
 
 ---
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -4187,7 +4187,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 To determine if your device needs to be replaced, could you kindly provide us with a video showing the issue?
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -4244,7 +4244,7 @@ Regarding the issue, could you please check the following points?
 3. If you receive a reset request, please upload proof of purchase (such as an Amazon order confirmation, receipt from our official website, or a retailer’s invoice). Once verified in the app, the lock will automatically unbind from the previous account, allowing you to add it to a new one.
 4. If the app fails to recognize the lock or if you acquired it secondhand, please contact our customer support team with your order documentation for further assistance.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -4291,7 +4291,7 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please share us a screenshot of the error message?
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -4386,7 +4386,7 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 
 ---
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -4411,7 +4411,7 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 
 ---
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
