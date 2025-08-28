@@ -2364,7 +2364,7 @@ Video Link: https://drive.google.com/file/d/1uJU_ZatTGlkH73SFk7Zpyo6fUiN8bpEG/vi
 Video Link: https://drive.google.com/file/d/1P5kvccENpRTCBZg3XPqmGbvdYmo6vhf0/view
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2379,7 +2379,7 @@ This issue can sometimes occur if the firmware version of the robot is outdated.
 4. Go to Firmware & Battery and update the firmware.
 If the issue persists after updating, kindly provide a video showing the robot stopping immediately after starting a cleaning task. This will help us escalate the matter to our R&D team for further investigation.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2427,7 +2427,7 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 We truly appreciate your patience and cooperation in resolving this matter. Please don’t hesitate to let us know if you have any further questions or need additional assistance.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2555,7 +2555,7 @@ We are continuously working to improve our products and take customer feedback s
 
 If your robot is unable to operate due to hair entanglement, please provide a detailed video of the issue. We will escalate the matter to our R&D team to investigate further.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2918,7 +2918,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the problem of the robot being unable to create a map despite multiple cleaning attempts, please check the following:
 If you are using an OPPO device, ensure that it has at least 10GB of available storage space. Devices with less than 10GB of free storage may not support the mapping feature.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -3111,7 +3111,7 @@ If the auto-empty station is placed on carpet, the K10+ will not go straight and
 If the floor is fully carpeted, we recommand placing a hard, flat mat under the auto-empty station area.
 If not the above, could you please provide a video showing your K10+ failing to dock on the carpet floor so that we can investigate the issue in detail?
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -3303,7 +3303,7 @@ The auto-empty station and the robot communicate via infrared signals. If the au
 If you need to shut off the power to the auto-empty station for any reason, we can manually turn off the power of the robot.
 If your robot does not match the description provided, it would be helpful if you could provide us with a video showing the issue.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -3312,7 +3312,7 @@ If your robot does not match the description provided, it would be helpful if yo
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding the broken parts of your robot, could you please check the following points?
 1. To help us assess the damage, we would appreciate it if you could provide us with a phone showing the broken frame.
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 2. If the damage is from regular use, we’d be happy to provide a replacement part at no cost to you within warranty. For accidental damage, we can also arrange a free replacement part; but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer covers this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
@@ -3352,7 +3352,7 @@ Reset video:
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue, to better assist you, could you please capture a video showing the robot vacuum struggling to avoid obstacles?  This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
