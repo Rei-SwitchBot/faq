@@ -484,7 +484,7 @@ After completing the payment, kindly provide the order number starting with #JP 
 
 ---
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 Thank you for your understanding, and we're here to support you if you need further assistance!
 
