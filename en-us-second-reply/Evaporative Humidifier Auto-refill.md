@@ -29,5 +29,26 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting the Little Thing Fell Into the Air Outlet of SwitchBot Evaporative Humidifier
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+---
+### Troubleshooting I Hear Water Flowing Sounds from My Evaporative Humidifier Auto-refill
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video that captures the sound of water flowing from the humidifier
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 
