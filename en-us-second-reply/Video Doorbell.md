@@ -43,7 +43,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -95,6 +95,7 @@ https://www.youtube.com/watch?v=_t88WivtfYY
 ### Is It Normal to Experience Delays in Video Display and Audio Response When Using SwitchBot Smart Video Doorbell With an Echo Show?
 
 When the doorbell is pressed, the linked Amazon Alexa device (Echo Show) will automatically display the doorbell video. Additionally, by tapping the microphone icon on the screen, you can have a conversation with visitors. However, depending on the network connection, there may be a delay of approximately 2 seconds for video display and voice response. We apologize for any inconvenience and thank you for your understanding.
+
 
 
 
