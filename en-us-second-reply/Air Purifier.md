@@ -33,7 +33,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -45,7 +45,7 @@ Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
 - A video that can confirm the noise emitted when an air purifier is running
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -57,7 +57,7 @@ Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
 - A photo that can illustrate the environment in which an air purifier is used
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -69,7 +69,7 @@ Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
 - A photo that can illustrate the environment in which an air purifier is used
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -82,7 +82,7 @@ If the mood light does not turn on even when set to "On", we will escalate this 
 - A screenshot of the mood light settings
 - A video showing the air purifier turned on but the light not activating
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -103,7 +103,8 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
