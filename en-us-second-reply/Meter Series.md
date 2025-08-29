@@ -34,7 +34,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -56,7 +56,7 @@ If the device is within the warranty period, we will arrange a replacement servi
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -80,7 +80,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 More -> Alexa Privacy -> Review Voice History.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -111,7 +111,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -154,7 +154,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -179,7 +179,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -204,7 +204,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -229,7 +229,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -254,7 +254,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -267,7 +267,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screen recording demonstrating data recovery operations
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -280,7 +280,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screenshot showing communication status with the meter by going to SwitchBot app → Profile → Manage Hub → Target Hub.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -300,7 +300,7 @@ If the device is within the warranty period, we will arrange a replacement servi
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -322,7 +322,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screenshot showing communication status with the Meter Plus by going to SwitchBot app → Profile → Manage Hub → Target Hub.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -335,7 +335,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screenshot showing communication status with the Meter Pro by going to SwitchBot app → Profile → Manage Hub → Target Hub.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -348,7 +348,8 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screenshot showing communication status with the CO2 Monitor by going to SwitchBot app → Profile → Manage Hub → Target Hub.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
