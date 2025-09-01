@@ -31,7 +31,6 @@ We apologize for any inconvenience caused.
   1. A video showing that the SD card cannot be inserted
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -43,7 +42,7 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
@@ -81,8 +80,6 @@ Doorbell:
 5. To ensure a stable connectivity, keep an appropriate distance beetween your Doorbell, Monitor, SwitchBot Lock devices, and the router.
 
 
-
-
 ---
 ### How to Remove the Doorbell
 
@@ -90,11 +87,192 @@ Please check the following video and remove the doorbell.
 https://www.youtube.com/watch?v=_t88WivtfYY
 
 
-
 ---
 ### Is It Normal to Experience Delays in Video Display and Audio Response When Using SwitchBot Smart Video Doorbell With an Echo Show?
 
 When the doorbell is pressed, the linked Amazon Alexa device (Echo Show) will automatically display the doorbell video. Additionally, by tapping the microphone icon on the screen, you can have a conversation with visitors. However, depending on the network connection, there may be a delay of approximately 2 seconds for video display and voice response. We apologize for any inconvenience and thank you for your understanding.
+
+
+---
+### Troubleshooting Never Been Able to Watch the Video from the App After Adding the Video Doorbell to SwitchBot App
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshot of a video loading failure on the app
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Video Doorbell Frequently Goes Offline, Making It Impossible to Watch Videos Normally.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. Screen recording of a failed video loading in the app
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Couldn’t Use Switchbot App to Watch the Doorbell Video After Using It for a Few Days
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshot of a video loading failure on the app
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot App Keeps Showing "Loading" and Cannot View the Video of the Doorbell
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshot of a video loading failure on the app
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the Doorbell Drains Battery Fast
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Screenshot showing the detection sensitivity of the Video Doorbell
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  1. A video showing that the SD card cannot be removed
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Video Doorbell Cannot Be Formatted
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the included microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot/video showing the microSD card format failure  
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+If the recommended SD card cannot be formatted, please provide a detailed description of the issue to help us determine if a replacement Video Doorbell is necessary.
+
+
+---
+### Troubleshooting Failed to Update the Firmware of SwitchBot Video Doorbell
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshot of Firmware Update Failure
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Unable to Add the Lock to SwitchBot Video Doorbell
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo showing the Video Doorbell installation
+- Screen recording showing not being able to link with Lock products  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the Connection Between the Doorbell and the Monitor Is Too Slow, Causing Audio Delays.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- The time period during which audio delays occurred
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the Monitor Does Not Display the Real Time Video From the Doorbell
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo showing the distance from the monitor to the door  
+- A photo showing the installation of the doorbell 
+- The time when the monitor fails to load the doorbell video
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
