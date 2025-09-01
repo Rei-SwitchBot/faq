@@ -129,7 +129,6 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
 ---
 ### Troubleshooting Failed to Update SwitchBot Hub 3 Firmware
 
@@ -139,5 +138,22 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screen recording showing firmware update failure
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Can I Use the Charging Cable from SwitchBot Hub 2 with Hub 3？
+
+Yes, you can use the charging cable from Hub 2 to Hub 3. The only difference is the color, the charging and temperature/humidity sensor functions are exactly the same.
+
+
+---
+### What Does the OUTPUT Port on the back of SwitchBot Hub 3 Do?
+
+When using Hub 3 in daily life, plug the temperature and humidity sensor charging cable into the INPUT port. The OUTPUT port is for compatibility with future products.
+
+
+
+
+
 
 
