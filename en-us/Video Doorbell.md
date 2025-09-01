@@ -289,6 +289,154 @@ Here’s how you can use your Smart Video Doorbell to control your lock:
 4. By pressing and holding the button at the bottom of the doorbell for 3 seconds, you can lock your door lock.
 
 
+---
+### Troubleshooting Never Been Able to Watch the Video from the App After Adding the Video Doorbell to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you have other SwitchBot cameras or video doorbells linked to your account, please check if similar issues are occurring.  
+2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+3. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
+
+
+---
+### Troubleshooting SwitchBot Video Doorbell Frequently Goes Offline, Making It Impossible to Watch Videos Normally.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. 1. If you have other SwitchBot cameras or video doorbells linked to your account, please check if similar issues are occurring.  
+
+2. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
+
+3. If there are wireless electronic devices around the Video Doorbell, communication may be disrupted. Please relocate the Video Doorbell to a different position.
+
+4. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+
+5. Please restart the router.
+
+6. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+
+
+---
+### Troubleshooting Couldn’t Use Switchbot App to Watch the Doorbell Video After Using It for a Few Days
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the battery level of the doorbell. If necessary, charge it for over 6 hours using a 5V2A adapter.
+
+2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+
+3. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+
+4. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
+
+
+---
+### Troubleshooting SwitchBot App Keeps Showing "Loading" and Cannot View the Video of the Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+3. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
+
+
+---
+### Troubleshooting the Doorbell Drains Battery Fast
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
+2. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+3. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
+
+
+---
+### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please try using a tool with a fine tip as shown in the video below to remove the card.
+[https://drive.google.com/file/d/1nZUoO0_BQXLgg6iiIYDGk6ZMRQHRByeB/view?usp=sharing](https://drive.google.com/file/d/1nZUoO0_BQXLgg6iiIYDGk6ZMRQHRByeB/view)
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Video Doorbell Cannot Be Formatted
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be formatted. If it cannot be formatted even on the computer, the issue is likely with the microSD card itself. 
+
+ 
+2. Format the microSD card to the FAT32 format on your computer, then insert it into the monitor and check if the issue is resolved.  
+
+3. If you have multiple microSD cards, try inserting a different microSD card into the monitor and check if it can be formatted. If other microSD cards can be formatted without any issues, the problem is likely with the specific microSD card.  
+
+4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be formatted.
+
+
+---
+### Troubleshooting Failed to Update the Firmware of SwitchBot Video Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn off the router.  
+2. Position the doorbell close to the monitor, and press the "Monitor" button on the main unit multiple times until the video shows up.
+3. Once the video is visible, press the "Monitor" button 3–5 more times.
+4. Then, turn the router back on, and when the device is connected to the internet, update firmware using the app.
+
+
+---
+### Troubleshooting Unable to Add the Lock to SwitchBot Video Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please reduce the distance between the doorbell, monitor, and lock device to ensure proper communication. Installing them too far apart may cause connectivity issues.
+
+2. Check the battery levels of the lock device and doorbell. Replace or recharge batteries as needed.
+
+3. Try restarting the app or smartphone and attempt again.
+
+
+---
+### Troubleshooting the Connection Between the Doorbell and the Monitor Is Too Slow, Causing Audio Delays.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the installation of the monitor.
+Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
+Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
+[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
+
+2. Install the monitor as close to the router as possible.
+3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
+
+
+---
+### Troubleshooting the Monitor Does Not Display the Real Time Video From the Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the installation of the monitor.
+Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
+Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
+[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
+
+2. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
