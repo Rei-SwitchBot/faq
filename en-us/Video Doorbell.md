@@ -388,6 +388,10 @@ Regarding this issue, could you please check the following points?
 3. Once the video is visible, press the "Monitor" button 3–5 more times.
 4. Then, turn the router back on, and when the device is connected to the internet, update firmware using the app.
 
+Important Notes:  
+When updating, make sure the smartphone and device are nearby. 
+Perform the update with the doorbell and monitor within 1 meter of each other.
+
 
 ---
 ### Troubleshooting Unable to Add the Lock to SwitchBot Video Doorbell
