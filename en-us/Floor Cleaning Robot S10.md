@@ -3148,6 +3148,18 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/26152819219607](https://support.switch-bot.com/hc/en-us/articles/26152819219607-What-to-Do-If-My-Floor-Smells-After-Mopping-with-SwitchBot-Floor-Cleaning-Robot-S10)
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Looking for the Auto-empty Station When It Finishes Cleaning on a Different Floor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The S10 robot supports cleaning across multiple floors. However, each robot unit can be paired with only one Auto-empty Station at a time. This means it isn't possible to set up an additional Auto-empty Station on a different floor.
+When the robot completes a cleaning task on a floor where only the Water Station is available, it will first return to the Water Station to perform deep mopping cleaning tasks, such as thoroughly washing the roller mop and disposing of wastewater. After that, the robot will automatically try to return to the Auto-empty Station to recharge. Since the station isn't present on that floor, it will eventually end this attempt with a docking failure.
+Please rest assured that this is the intended operating behavior of the robot and not a malfunction. Regardless of the type of cleaning task, the robot will always try to dock with the Auto-empty Station at the end of a job to recharge.
+We sincerely apologize for any confusion or inconvenience this may have caused. We truly appreciate your understanding. If you have any further questions, we're here to help.
+
+
+
 
 
 
