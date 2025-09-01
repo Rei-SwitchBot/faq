@@ -93,6 +93,12 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### How Many Kilograms Can the Mobile Base Support?
+
+The mobile base can support up to 8 kg. Please securely attach items weighing less than 8 kg to the base for smooth movement.
+
+
 
 
 
