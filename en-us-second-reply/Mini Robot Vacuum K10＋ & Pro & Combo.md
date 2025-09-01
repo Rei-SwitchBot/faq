@@ -1931,6 +1931,27 @@ Yes, the mop brackets from the K10+ Pro and K10+ are interchangeable. Also, you 
 Yes, the front caster wheels from the K10+ Pro and K10+ are interchangeable. 
 
 
+---
+### Can SwitchBot Remote Control SwitchBot Mini Robot Vacuum K10+ Pro?
+
+Yes, you can use SwitchBot Remote to control cleaning and recharging functions of the K10+ Pro.
+Important Reminder: Before pairing the K10+ Pro with your SwitchBot Remote, please ensure that both your app version and device firmware are up-to-date. If you need assistance with updating the firmware or have any questions, feel free to contact our support team. We’re here to help!
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Please check if any foreign object is caught in the K10+ Pro.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
+3. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+- A screenshot of the error message related to the bumper issue.
+- A video with sound capturing the "The bumper got stuck" error message being announced.
+
+
+
+
 
 
 
