@@ -84,4 +84,18 @@ Note:
 2. Due to the model itself, iPhone 12 might have a big chance of failing to write NFC data. Please try the writing process a few more times.
 
 
+---
+### Troubleshooting When Scanning SwitchBot NFC Tag with My iPhone, It Shows “Open with SwitchBot,” and the Device Won’t Work until I Tap It.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When using iOS, after scanning an NFC tag, a message saying "SwitchBot NFC Tag Open with SwitchBot" will appear at the top of the screen. Please note that you must tap this message for the action to be executed. This behavior is due to the specifications of the operating system, and unfortunately, it is not possible for SwitchBot to disable the display of this message.  
+Note: This message does not appear on Android phones.
+We sincerely apologize for any inconvenience caused and appreciate your understanding.  
+If you have any other questions, please do not hesitate to contact us.
+
+
+
+
+
 
