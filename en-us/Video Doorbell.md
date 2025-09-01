@@ -220,8 +220,10 @@ We truly appreciate your feedback and will internally review this limitation for
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app → video doorbell → gear icon → local storage.
-If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
+1. The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app → video doorbell → gear icon → local storage.
+2. If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
+3. If the SD card cannot be removed, please try using a tool with a fine tip as shown in the video below to remove the card.
+[https://drive.google.com/file/d/1nZUoO0_BQXLgg6iiIYDGk6ZMRQHRByeB/view?usp=sharing](https://drive.google.com/file/d/1nZUoO0_BQXLgg6iiIYDGk6ZMRQHRByeB/view)
 
 
 ---
