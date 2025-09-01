@@ -1881,6 +1881,60 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Can I Use the Antibacterial Dust Packs From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, of course. The dust packs for the K10+ and the K10+ Pro are interchangeable.
+
+
+---
+### Can I Use the Main Brush From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+No, do not use the main brush from the K10+Pro directly on the K10+. If you want to use the K10+ Pro's main brush on the K10+, you will need a special brush frame. (Otherwise, it may not operate properly.)
+We offer the frame for free, but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer cover this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
+To help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+Important Note: The rubber brush purchased from our [official website](https://www.switch-bot.com/products/switchbot-mini-robot-vacuum-k10-pro?variant=45934682833063) does not include the special frame.
+
+
+---
+### Can I use the filter from SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+No, the K10+Pro filters are smaller in size and cannot be used on the K10+.
+
+
+---
+### Can I Use the side brush From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, the side brushes from the K10+ Pro and K10+ are interchangeable. 
+
+
+---
+### Can I Use the mop bracket From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, the mop brackets from the K10+ Pro and K10+ are interchangeable. Also, you can use same mop sheets for K10+ and K10+ Pro.
+
+
+---
+### Can I Use the Front Caster Wheel From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, the front caster wheels from the K10+ Pro and K10+ are interchangeable. 
+
+
+
+
+
+
 
 
 
