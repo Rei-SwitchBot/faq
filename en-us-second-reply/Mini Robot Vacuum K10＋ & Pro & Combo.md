@@ -1950,6 +1950,20 @@ We apologize for any inconvenience caused. Please follow the steps below to trou
 - A video with sound capturing the "The bumper got stuck" error message being announced.
 
 
+---
+### How Long Can SwitchBot Mini Robot Vacuum K10+ Last on a Single Charge?
+
+The amount of time a fully charged K10+ can operate depends on the setting mode.For specific details, please refer to the following information:
+Quiet Mode＞150min
+Standard Mode＞120min
+Strong Mode＞90min
+Max Mode＞70min
+
+Note: The above data is based on SwitchBot lab test results, and actual operation times may vary slightly. Thanks for your understanding.
+
+
+
+
 
 
 
