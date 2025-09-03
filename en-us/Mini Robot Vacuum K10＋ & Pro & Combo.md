@@ -3205,14 +3205,20 @@ Regarding the incident of pet waste being entangled in the robot vacuum, please 
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the stuck laser radar error issue of the robot, could you please check the following points?
-1. Try to clean the lidar sensor with swabs.
-2. After cleaning, restart the K10+ and check if the error is resolved.
-3. Please check if pushing the radar cover of the 10+ with your hand improves it.
-4. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
+1. Clean the laser radar section using a cotton swab or a soft cloth.  
+2. Check if there are any foreign objects in the radar area.  
+3. Remove the faceplate, restart the robot, and check if the error is resolved.
+4. Press the clean button and manually rotate the radar to check if the radar rotates.  
+5. Please check if pushing the radar cover of the 10+ with your hand improves it.
+6. Grab the radar cover with your hand, shake it gently from side to side, and check if it improves.
+7. Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
+Kindly note that after a reset, Wi-Fi information, scheduled cleaning, and maps will be automatically erased.
+Please watch the video below.
+[https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Stopped Working Due to a Stuck Radar Error
+### Troubleshooting Suction Power Drops After SwitchBot Mini Robot Vacuum K10+ Runs at Max Power for Around 5 Minutes
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 We’d like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
