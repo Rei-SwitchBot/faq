@@ -269,6 +269,52 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Can I Use Multiple SwitchBot Smart Video Doorbells to Unlock the Lock?
+
+One Lock (or Dual-Lock) can be linked with up to 7 Smart Video Doorbells.
+
+
+---
+### Can I Use SwitchBot Smart Video Doorbell to Unlock the Lock Pro?
+
+The Smart Video Doorbell is compatible with our Lock, Lock Pro, and Lock Ultra for unlocking.
+Note:
+You can only link one Lock product to your video doorbell at a time.
+
+
+---
+### Can I use SwitchBot Smart Video Doorbell without Wi-Fi?
+
+If your home doesn’t have Wi-Fi, you can still use basic functions. When someone rings the doorbell, the monitor will display the live feed and enable two-way communication. However, features like app controls, Alexa integration, or remote access require Wi-Fi. We recommend using it in a Wi-Fi environment for full functionality.
+Important Note: When using the device without Wi-Fi, keep the doorbell and monitor within 5 meters for a stable connection.
+
+
+---
+### Can Multiple Monitors Be Connected to One Doorbell?
+
+We regret to inform you that one monitor can be connected to one doorbell at a time for security reasons. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+Note:
+One doorbell can be paired with a monitor and an Add-on monitor (available in October).
+
+
+---
+### If the Doorbell and Monitor Are Connected with Low-Voltage Wiring, Will Data Communication Occur Through That Wiring?
+
+We regret to inform you that the low-voltage power line connection only serves to charge, and cannot transmit data through the wire.
+
+
+---
+### Troubleshooting the Time Displayed on the Doorbell's Real-Time Video in SwitchBot App Is Several Hours Behind the Current Time.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot displaying the time discrepancy between the doorbell video and real-time.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
