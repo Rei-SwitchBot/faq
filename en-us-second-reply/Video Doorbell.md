@@ -120,31 +120,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
-
----
-### Troubleshooting Couldn’t Use Switchbot App to Watch the Doorbell Video After Using It for a Few Days
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Screenshot of a video loading failure on the app
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
-### Troubleshooting SwitchBot App Keeps Showing "Loading" and Cannot View the Video of the Doorbell
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Screenshot of a video loading failure on the app
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
 ---
 ### Troubleshooting the Doorbell Drains Battery Fast
 
@@ -292,6 +267,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 
