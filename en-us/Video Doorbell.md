@@ -444,6 +444,25 @@ Apartments: within 5 meters of the entrance (steel)  door with no obstruction. F
 4. Press and hold the doorbell button for 5 to 8 seconds to reset it.
 
 
+---
+### Troubleshooting Unable to Charge the Doorbell with a Charging Adapter
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn on the power switch located on the back of the doorbell and check if it can be charged using the Type-C charging cable included in the package and a 5V2A charging adapter.
+
+
+---
+### Troubleshooting the Monitor and Doorbell Make a Lot of Noise During the Call.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+After confirmation, we can confirm that the periodic static noise from your doorbell is related to an ongoing Alexa data migration process. To stop the noise right away, you can simply disconnect your doorbell from the Alexa app. This should resolve the sound issue immediately.
+Our team is already in touch with Amazon Alexa support to address this situation and prevent it from affecting other users. We appreciate your patience while we work on a permanent solution.
+If the sound continues after disconnecting from Alexa, or if you notice any other unusual behavior, please don’t hesitate to reach out, we’ll be glad to assist further.
+
+
+
 
 
 
