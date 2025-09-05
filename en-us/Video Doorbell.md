@@ -320,30 +320,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting Couldn’t Use Switchbot App to Watch the Doorbell Video After Using It for a Few Days
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check the battery level of the doorbell. If necessary, charge it for over 6 hours using a 5V2A adapter.
-
-2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
-
-3. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
-
-4. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
-
-
----
-### Troubleshooting SwitchBot App Keeps Showing "Loading" and Cannot View the Video of the Doorbell
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
-2. Make sure that your smartphone or other Wi-Fi devices are properly connected to the internet. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
-3. If you are using a VPN, please temporarily disable it. Additionally, if you have another smartphone, try logging into the same account with it and checking if the video can be loaded.
-
-
----
 ### Troubleshooting the Doorbell Drains Battery Fast
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
