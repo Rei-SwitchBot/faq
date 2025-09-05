@@ -438,6 +438,14 @@ Our team is already in touch with Amazon Alexa support to address this situation
 If the sound continues after disconnecting from Alexa, or if you notice any other unusual behavior, please don’t hesitate to reach out, we’ll be glad to assist further.
 
 
+---
+### Troubleshooting the Time Displayed on the Doorbell's Real-Time Video in SwitchBot App Is Several Hours Behind the Current Time.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please set the location to your current one by going to SwitchBot app → Profile → Manage Home → Home where the doorbell is added. If the device's location is not correct, there may be a time difference.
+
+
 
 
 
