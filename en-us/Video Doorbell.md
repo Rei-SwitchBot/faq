@@ -304,17 +304,19 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. 1. If you have other SwitchBot cameras or video doorbells linked to your account, please check if similar issues are occurring.  
+1. If possible, try moving the doorbell closer to the monitor for a day to see if it stays connected. If it works better with less distance between them, the problem may be with how it was installed.
 
-2. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
+2.  If you have other SwitchBot cameras or video doorbells linked to your account, please check if similar issues are occurring.  
 
-3. If there are wireless electronic devices around the Video Doorbell, communication may be disrupted. Please relocate the Video Doorbell to a different position.
+3. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
 
-4. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
+4. If there are wireless electronic devices around the Video Doorbell, communication may be disrupted. Please relocate the Video Doorbell to a different position.
 
-5. Please restart the router.
+5. If the video cannot be loaded, try switching Wi-Fi networks or using a personal hotspot.  
 
-6. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
+6. Please restart the router.
+
+7. Please remove the Video Doorbell from the app and add it again. When adding it back, make sure to correctly enter the Wi-Fi SSID and password.
 
 
 ---
@@ -346,12 +348,15 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. In winter, colder temperatures can reduce the battery level. At -20°C, the battery may decrease by 40% to 50%.
-2. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
+1. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. If the Wi-Fi connection is unstable, the device will constantly attempt to connect to Wi-Fi, causing the battery to drain faster. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
+3. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
 Low sensitivity: 1~3 meters
 Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
-3. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
+4. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
+5. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
+
 
 
 ---
@@ -410,7 +415,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check the installation of the monitor.
+1. Delays during calls are closely related to the network connection, so please check the installation of the video doorbell.
 Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
 Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
 [https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
@@ -424,12 +429,19 @@ Apartments: within 5 meters of the entrance (steel)  door with no obstruction. F
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check the installation of the monitor.
+1. Please check the communication between the doorbell and the monitor as follows:  
+- Detach the doorbell and place it near the monitor.  
+- Press the doorbell.  
+- Press the call button on the monitor.  
+- Confirm whether the video from the doorbell is displayed on the monitor.  
+
+2. If the real-time video from the doorbell is displayed on the monitor following step 1, please check the installation of the monitor.
 Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
 Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
 [https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
 
-2. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
+3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
+4. Press and hold the doorbell button for 5 to 8 seconds to reset it.
 
 
 
