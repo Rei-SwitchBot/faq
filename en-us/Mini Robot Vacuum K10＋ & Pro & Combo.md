@@ -1927,18 +1927,6 @@ SwitchBot App Version: 7.3.2 or newer
 
 
 ---
-### What to Do If I Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+ / K10+ Pro
-
-Last Updated: 2023 August 5
-
-Related Products: SwitchBot Robot Vacuum K10+ / K10+ Pro
-
-1. A mop pad is stored inside the auto-empty station. When you open the lid, you can see the mop pad.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/23017885359383)
-
-
----
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ dust bin is not recognized
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -3543,6 +3531,51 @@ Regarding this issue, could you please check the following steps:
 4. Reset the Mini Robot Vacuum K10+ Pro to its factory settings.
 Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
 [https://support.switch-bot.com/hc/en-us/articles/27820108537239](https://support.switch-bot.com/hc/en-us/articles/27820108537239-How-to-Reset-SwitchBot-Mini-Robot-K10-K10-Pro)
+
+
+---
+### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The mop pad is stored inside the auto-empty station. When you open the lid, you can see it.
+
+<img width="540" height="273" alt="image" src="https://github.com/user-attachments/assets/7e9c0a57-cf58-4faa-b3e6-d5e9ca68c819" />
+
+
+--- 
+### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+ Pro
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The mop pad is stored inside the auto-empty station. When you open the lid, you can see it.
+
+<img width="540" height="273" alt="image" src="https://github.com/user-attachments/assets/7e9c0a57-cf58-4faa-b3e6-d5e9ca68c819" />
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if any foreign object is caught in the K10+.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if any foreign object is caught in the K10+.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
+
+
+
+
+
 
 
 
