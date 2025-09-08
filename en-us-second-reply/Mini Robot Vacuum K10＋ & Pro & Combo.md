@@ -1961,8 +1961,96 @@ Max Mode＞70min
 Note: The above data is based on SwitchBot lab test results, and actual operation times may vary slightly. Thanks for your understanding.
 
 
+---
+### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the mop pad is not behind the lid of the auto-empty station, we will arrange a new one for you. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+ Pro
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the mop pad is not behind the lid of the auto-empty station, we will arrange a new one for you. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindlyvide the following information?
+  1. A screenshot of the error message related to the bumper issue.
+  2. A video with sound capturing the "The bumper got stuck" error message being announced.
+
+2. Also, if the replacement service is needed, to expedite shipment, pleasevide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have alreadyvided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindlyvide the following information?
+  1. A screenshot of the error message related to the bumper issue.
+  2. A video with sound capturing the "The bumper got stuck" error message being announced.
+
+2. Also, if the replacement service is needed, to expedite shipment, pleasevide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have alreadyvided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
