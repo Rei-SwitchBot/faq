@@ -1547,33 +1547,6 @@ Related Post:
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S20 Auto-refill Failed
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
-2. Make sure that the fresh water hose is not damaged or folded.
-3. Make sure that the water station's auto-fill port is attached and undamaged.
-
-![image](https://github.com/user-attachments/assets/52346197-142f-4faf-8c09-0540efa6d71d)
-
-4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
-https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
-5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-6. Please refer to the video below to verify whether your S20 robot ’s fresh water pump is functioning correctly.
-https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
-Tips:
-  a. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
-
-![image](https://github.com/user-attachments/assets/76ba8729-7f3f-4a3a-9252-f969559494bd)
-
-  c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  d. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
-
-
-
----
 ### Why Is There Water in the Water Station of My Newly Purchased SwitchBot Floor Cleaning Robot S20?
 
 Last Updated：
