@@ -3511,3 +3511,40 @@ Regarding the issue that the robot fails to clean due to a main brush stuck erro
 
 3. After a full charge, test the robot and confirm whether the main brush rotates properly.
 ※Note: Instead of flipping the robot over, place your hand directly on the main brush area to check rotation.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Connect to Wi-Fi
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the robot not being able to connect to Wi-Fi, could you please check the following points?
+1. Make sure you are connecting the robot to a 2.4GHz Wi-Fi network.
+2. Check if the Wi-Fi list on your smartphone displays the Wi-Fi emitted by the K10+ Pro itself, indicated by "Robot-xxxxxxxx".
+3. Restart your home router and try again.
+4. Remove the faceplate of the K10+ Pro and turn the power switch off and then back on.
+5. Turn off your home Wi-Fi and attempt to connect via your smartphone's tethering to see if pairing is possible.
+6. If you're using an iPhone, go to the Settings App, scroll down and tap on SwitchBot, then enable Local Network. If it's already enabled, disable and re-enable it.
+7. Try using another smartphone.
+8. Attempt network setup again at a different time of day, such as at night.
+9. Press and hold the Clean Button + the Home Button + LiDAR sensor at the same time for 6 seconds to reset your robot (Firmware V1.9.0.77-05 or newer required).
+Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be automatically erased.
+[https://support.switch-bot.com/hc/en-us/articles/27820108537239](https://support.switch-bot.com/hc/ja/articles/27820108537239-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%8E%83%E9%99%A4%E6%A9%9FK10-K10-Pro%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-%E5%88%9D%E6%9C%9F%E5%8C%96)
+10. Please wait a few days before attempting to connect to Wi-Fi again.
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Detects a Dirty Anti-Drop Sensor
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following steps:
+1. Please clean the cliff sensor once again.
+2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ Pro → Details → Component Lifespan → Sensor → Mark as "Cleaned."
+3. Restart the robot by turning the power off and on (remove the faceplate to access the power switch).
+4. Reset the Mini Robot Vacuum K10+ Pro to its factory settings.
+Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
+[https://support.switch-bot.com/hc/en-us/articles/27820108537239](https://support.switch-bot.com/hc/en-us/articles/27820108537239-How-to-Reset-SwitchBot-Mini-Robot-K10-K10-Pro)
+
+
+
+
+
