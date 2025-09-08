@@ -307,34 +307,6 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S20 Auto-refill Failed
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
-  1. A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
-  2. Photos showing fresh water hose and sewage hose in place
-  3. How long after using the Water Station is unable to auto-refill
-  4. A video showing the Water Station being shaken up and down with force (step 4)
-  5. A video demonstrating the testing of the fresh water pump (step 6)
-2. Also, if the replacement or repair service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
----
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Makes a Loud Noise During the Water Change Process
 
 Thank you for reporting this issue. 
@@ -974,6 +946,7 @@ When using the water station:
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
