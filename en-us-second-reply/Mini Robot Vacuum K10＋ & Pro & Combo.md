@@ -1223,14 +1223,13 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Pro Pro Fails to Connect to Wi-Fi
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Connect to Wi-Fi
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
 1. To determine if your device needs to be repaired or replaced, could you please provide us with a video showing the Wi-Fi network connection failure?
 
 2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -1242,7 +1241,8 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
@@ -1318,16 +1318,15 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Pro Pro Detects a Dirty Anti-Drop Sensor
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Detects a Dirty Anti-Drop Sensor
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
 1. To determine if your device needs to be repaired or replaced, could you kindly provide the following information?
   1. A screenshot of the cliff sensor error message from the app.
-  2. A video of the Mini Robot Vacuum K10+ Pro Pro Pro announcing, "Please wipe the cliff sensor and restart me somewhere else."
+  2. A video of the Mini Robot Vacuum K10+ Pro announcing, "Please wipe the cliff sensor and restart me somewhere else."
 
 2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -1960,6 +1959,7 @@ Strong Mode＞90min
 Max Mode＞70min
 
 Note: The above data is based on SwitchBot lab test results, and actual operation times may vary slightly. Thanks for your understanding.
+
 
 
 
