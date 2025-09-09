@@ -135,7 +135,7 @@ We would like to arrange a sunshade bracket for the issue you reported. To exped
 ---
 ### Where Is the Registered Information for Passwords, Fingerprints, NFC Cards and Faces That Has Already Been Added to SwitchBot Keypad Vision Store?
 
-All passwords, fingerprints, faces, and NFC cards added are stored on the Keypad Vision body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, removing the device from SwitchBot App will automatically clear all registered information.
+All passwords, fingerprints, faces, and NFC cards added are stored on the Keypad Vision body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, deleting and re-adding the device will automatically erase all previously added information.
 
 
 
