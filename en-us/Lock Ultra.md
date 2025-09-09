@@ -251,18 +251,6 @@ Regarding this issue, could you please check the following points?
 3. If the Bluetooth signal drops below two bars, remove Lock Ultra from the SwitchBot app and re-add it to see if that resolves the issue.
 
 
----
-### Troubleshooting SwitchBot Lock Ultra Frequently Disconnects From the Hub, Making It Impossible to Unlock or Lock Remotely.
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check if the Bluetooth on your smartphone is turned on.  
-2. Stand about 2 meters away from the door lock in a place without obstacles, launch the SwitchBot app, tap Lock Ultra, and make sure the Bluetooth signal in the upper-right corner of the operation screen shows at least two bars.
-
-<img width="736" height="1280" alt="image" src="https://github.com/user-attachments/assets/5496d10f-2175-41d3-ad55-21042c3e341a" />
-
-3. If the Bluetooth signal drops below two bars, remove Lock Ultra from the SwitchBot app and re-add it to see if that resolves the issue.
-
 
 ---
 ### Troubleshooting SwitchBot Lock Ultra Keeps Saying Door Is Open.
