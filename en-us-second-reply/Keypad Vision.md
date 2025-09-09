@@ -132,6 +132,10 @@ We would like to arrange a sunshade bracket for the issue you reported. To exped
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Where Is the Registered Information for Passwords, Fingerprints, NFC Cards and Faces That Has Already Been Added to SwitchBot Keypad Vision Store?
+
+All passwords, fingerprints, faces, and NFC cards added are stored on the Keypad Vision body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, removing the device from SwitchBot App will automatically clear all registered information.
 
 
 
