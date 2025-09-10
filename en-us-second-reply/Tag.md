@@ -14,5 +14,11 @@ The data written to the Tag is linked to your SwitchBot account. If you write an
 Once the homeowner writes an action to the Tag, other home members can simply scan the Tag to control the device.
 
 
+---
+### What Does the White Round Sticker included in SwitchBot NFC Tag Package Do?
+
+You can write down the actions you put into the tag on the sticker for easy management.
+
+<img width="359" height="353" alt="image" src="https://github.com/user-attachments/assets/3449910d-7552-4783-99a5-feb30265b486" />
 
 
