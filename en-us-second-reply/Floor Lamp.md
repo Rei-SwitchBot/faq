@@ -12,7 +12,7 @@ Please note that initializing the device will erase all settings and Wi-Fi infor
 
 
 ---
-### Troubleshooting SwitchBot Floor Light Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+### Troubleshooting SwitchBot Floor Lamp Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
