@@ -67,10 +67,10 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure tigger face recognition has been set to manual. If set to automatic, face recognition will be activated just by passing in front of the device, increasing battery consumption.
+1. Make sure tigger face recognition has been set to either manual or automatic activation at a specified time. If set to automatic, face recognition will be activated just by passing in front of the device, increasing battery consumption.
 Setting method: Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Tigger Face Recognition -> Manual
-2. Please update the firmware of your Keypad Vision to V1.7 or newer* to see if it helps.
-*If you have not received the latest firmware version, please feel feel to contact our support team.
+[https://support.switch-bot.com/hc/en-us/articles/33066333360919](https://support.switch-bot.com/hc/en-us/articles/33066333360919-How-to-Set-SwitchBot-Keypad-Vision-to-Automatically-Wake-Up-at-a-Specific-Time)
+2. Please check if there is any available firmware by going to SwitchBot App → Keypad Vision → Gear Icon → Firmware & Battery. If necessary, perform the firmware update near the device.  
 
 
 ---
