@@ -282,24 +282,13 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation. In the meantime, we would like to offer you a contact sensor as a temporary solution to resolve this issue. Could you kindly provide the following information:
+If the distance between the door lock and the magnet is greater than 50mm, we recommend that you purchase a contact sensor yourself to resolve the issue.
+Contact Sensor: [https://www.switch-bot.com/products/contact-sensor](https://www.switch-bot.com/products/contact-sensor)
+Using SwitchBot Contact Sensor to Trigger Lock Ultra to Lock Automatically via Bluetooth: [https://support.switch-bot.com/hc/en-us/articles/27322081892759](https://support.switch-bot.com/hc/en-us/articles/27322081892759-Use-SwitchBot-Contact-Sensor-to-Trigger-SwitchBot-Lock-Pro-Lock-Ultra-to-Lock-Automatically-via-Bluetooth)
+
+If within the range of distance, we will first discuss and analyze with the R&D colleagues to determine whether it is an issue with the product itself and see if a contact sensor can be used to help resolve the problem.
 - Photo showing magnet installation
 - Video showing magnet calibration
-
-Using SwitchBot Contact Sensor to Trigger Lock Ultra to Lock Automatically via Bluetooth: https://support.switch-bot.com/hc/en-us/articles/27322081892759
-
-Also, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
@@ -319,6 +308,7 @@ The battery life of the rechargeable battery may vary slightly depending on the 
 
 Note:
 It takes about 6 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete. During charging, the backup battery will be automatically activated, and the auto-lock function is temporarily disabled.
+
 
 
 
