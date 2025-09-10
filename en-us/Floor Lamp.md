@@ -26,7 +26,7 @@ The stand pack is 7.4cm high when the Floor Lamp is placed horizontally.
 
 
 ---
-### How Tall Is the Stand Pack for SwitchBot Floor Lamp?
+### Troubleshooting SwitchBot Floor Lamp Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
