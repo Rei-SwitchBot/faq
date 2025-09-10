@@ -3482,7 +3482,8 @@ Here's a quick summary of the differences between the two models.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please note that Hub Mini itself does not have a function to distinguish infrared rays. Use the remote control attached to home appliance A to operate home appliance B. If the remote controls supplied with the appliances are used together, check that they can be controlled separately by adjusting the position of the hub mini. If the position adjustment does not improve the situation, misoperation is now inevitable. Thanks for your understanding!
-2. Please ask the original manufacturer of the appliance if there has been an infrared interference countermeasure.
+2. If home appliances can be set to different channels, it is possible to control them separately with the hub mini by setting each appliance to a different channel. The method for setting up channels may vary depending on the manufacturer, we recommend contacting them directly for assistance.
+3. Please ask the original manufacturer of the appliance if there has been an infrared interference countermeasure.
 
 
 ---
