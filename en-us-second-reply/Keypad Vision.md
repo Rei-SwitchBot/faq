@@ -138,6 +138,32 @@ We would like to arrange a sunshade bracket for the issue you reported. To exped
 All passwords, fingerprints, faces, and NFC cards added are stored on the Keypad Vision body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, deleting and re-adding the device will automatically erase all previously added information.
 
 
+---
+### Troubleshooting Cannot Add SwitchBot NFC Card Which Has Already Been Added to the Keypad Touch to SwitchBot Keypad Vision
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+To determine whether the issue can be resolved through the replacement of the NFC card, we would appreciate it if you could share a video showing the problem. 
+  1. A video showing the Keypad Vision indicator lamp status while scanning SwitchBot NFC card.
+
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+
+
 
 
 
