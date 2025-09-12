@@ -165,12 +165,27 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 ---
 ### Troubleshooting Cannot Add Non-SwitchBot NFC Card to SwitchBot Keypad Vision
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please hold the NFC card horizontally against the Keypad Vision's reading area (indicated by the NFC symbol).
-Below is the Suica card, but the method for adding other NFC cards is the same.
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+To determine whether the issue can be resolved through the replacement of the NFC card, we would appreciate it if you could share a video showing the problem. 
+  1. A video showing the Keypad Vision indicator lamp status while scanning SwitchBot NFC card.
+  2. A Photo of your NFC card.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/e258ec37-9e8e-4ea5-ad1e-0dba212f36b3" />
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
