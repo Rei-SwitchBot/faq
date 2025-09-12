@@ -156,7 +156,10 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### What Is the Power Consumption of the SwitchBot Plug Mini?
 
+SwitchBot Plug Mini consumes between 1W and 2W of power, which translates to approximately 0.001 to 0.002 kWh.
 
 
 
