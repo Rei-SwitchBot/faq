@@ -299,6 +299,17 @@ Regarding this issue, could you please check the following points?
 4. Please confirm if your Keypad Vision has been installed in a place where direct sunlight can shine on it.
 
 
+---
+### Troubleshooting Cannot Add SwitchBot NFC Card Which Has Already Been Added to the Keypad Touch to SwitchBot Keypad Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please hold the NFC card horizontally against the Keypad Vision's reading area (indicated by the NFC symbol).
+Below is the Suica card, but the method for adding other NFC cards is the same.
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/bd14baaa-a10c-4b6c-860b-d767b0766256" />
+
+
 
 
 
