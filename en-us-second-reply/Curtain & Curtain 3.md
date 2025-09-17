@@ -852,6 +852,13 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 
+---
+### SwitchBot Curtain 3 Alexa Setup Guide
+
+1. Please add Curtain 3 and Hub to the SwitchBot app.  
+2. Place Curtain 3 near the hub (within Bluetooth range), it will automatically connect to the hub. 
+3. Follow the link below to connect it with Alexa.
+[https://support.switch-bot.com/hc/en-us/articles/360051462654](https://support.switch-bot.com/hc/en-us/articles/360051462654-SwitchBot-Curtain-Curtain-3-Alexa-Setup-Guide)
 
 
 
