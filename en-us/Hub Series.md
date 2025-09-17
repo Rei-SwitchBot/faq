@@ -4074,4 +4074,17 @@ We understand this isn't the ideal experience you expected, and we're truly sorr
 Thank you for your understanding and support!
 
 
+---
+### Troubleshooting Requires the Mac Address to Add SwitchBot Hub Mini, Which Cannot Be Found.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The MAC address of the Hub Mini is not listed on the device itself or its packaging.  
+If your home router has a whitelist set up, connect the Hub Mini to your smartphone's tethering first and add it to the SwitchBot app. Then, follow these steps in the app to find the Wi-Fi MAC address: Hub Mini → gear icon → Device Info.
+If you have any other questions, please do not hesitate to contact us.
+
+
+
+
+
 
