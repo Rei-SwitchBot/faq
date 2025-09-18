@@ -352,6 +352,16 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
+---
+### Instructions for the Weather Forecasts Displayed on SwitchBot Meter Pro
+
+SwitchBot Meter Pro can display the local weather forecast in the top left corner of the screen. To enable this feature, please ensure that your account has a connected Hub and that the Meter Pro is within the Hub's Bluetooth range.
+Once connected to the Hub, the Meter Pro will show the 24-hour weather overview for the day. The forecast updates hourly and includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
+If you have multiple Meter Pros added to the SwitchBot App at different times, the weather displayed on their screens may vary. In this case, simply press the top button of the device once and wait for 10 seconds to refresh the screen display.
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/010875f0-aa65-46b4-a560-d25856d15f0c" />
+
 
 
 
