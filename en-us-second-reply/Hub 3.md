@@ -186,6 +186,20 @@ Important Note:
 - For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
 
 
+---
+### How Often Is the Local Weather on SwitchBot Hub 3 Screen Updated?
+
+1. You can set the Weather Forecast for your Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Displayed Info".
+- Enable "Weather Data".
+- SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 is located -> Set up home location
+
+2. Once completed, the Hub 3 will show the 24-hour weather overview for the day. The forecast updates hourly and includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
+
+
+
 
 
 
