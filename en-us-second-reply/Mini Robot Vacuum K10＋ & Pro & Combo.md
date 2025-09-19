@@ -2088,6 +2088,32 @@ Note:
 When setting up a virtual wall on the generated map, the virtual wall cannot span across walls or rooms. If you attempt to force the virtual wall into such positions, it may automatically jump to an unexpected location.
 
 
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Does Not Collect Trash After Returning to the Auto-empty Station
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+To determine if your device needs to be repaired or replaced, could you please provide a video showing the robot failing to auto-empty after returning to the station?
+
+2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
 
 
 
