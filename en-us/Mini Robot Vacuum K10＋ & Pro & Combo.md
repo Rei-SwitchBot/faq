@@ -2427,7 +2427,7 @@ To assess whether your robot requires repair or replace, could you kindly confir
 
 <img width="830" height="226" alt="image" src="https://github.com/user-attachments/assets/8409c782-76d8-4244-8a04-5818d1764f81" />
 
-2. Change the cleaning mode in the SwitchBot App and verify if the sound of the airflow from the exhaust increases.
+2. Change the suction power in the SwitchBot App and verify if the sound of the airflow from the exhaust increases.
 3. Check if notifications of fan malfunctions occur frequently. 
 
 
