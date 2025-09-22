@@ -2402,9 +2402,26 @@ SwitchBotアプリにログイン
 
 <img width="1241" height="509" alt="image" src="https://github.com/user-attachments/assets/679422f3-6f0f-4959-a1e5-49bba399de43" />
 
-2. SwitchBotアプリで清掃モードを切り替え、排気口から風音は大きくなるか確認してください。
+2. SwitchBotアプリでロボットの吸引力を上げて、排気口から風音は大きくなるか確認してください。
 
 <img width="417" height="717" alt="image" src="https://github.com/user-attachments/assets/9f8f8fde-2dcc-40ea-9929-1898c8e24ed5" />
+
+3. 頻繁にファン故障の通知が来るかご確認お願いします。
+
+
+---
+### トラブルシューティングロボット掃除機K10+ Proはファンが故障しているようです
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+ロボット掃除機K10+ Proファン故障の件について、ロボットの修理が必要か判断させていただきますので、以下をご確認いただけますでしょうか。
+1. ロボット掃除機K10+ Proの排気口から風がでるか確認してください。
+
+<img width="1241" height="509" alt="image" src="https://github.com/user-attachments/assets/79a948b7-652d-48b1-ab7a-ddcd9324448a" />
+
+2. SwitchBotアプリでロボットの吸引力を上げて、排気口から風音は大きくなるか確認してください。
+
+<img width="417" height="717" alt="image" src="https://github.com/user-attachments/assets/81b9010e-4dc1-46e8-b5e2-ec7ca15321a3" />
 
 3. 頻繁にファン故障の通知が来るかご確認お願いします。
 
