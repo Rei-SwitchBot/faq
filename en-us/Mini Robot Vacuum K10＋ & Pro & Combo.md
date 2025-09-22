@@ -2432,6 +2432,19 @@ To assess whether your robot requires repair or replace, could you kindly confir
 
 
 ---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fan Is Not Working Properly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To assess whether your robot requires repair or replace, could you kindly confirm the following below?
+1. Check if air is flowing from the exhaust of the robot.
+
+<img width="830" height="226" alt="image" src="https://github.com/user-attachments/assets/21cf9db9-0160-4447-a496-59878e80ee83" />
+
+2. Change the suction power in the SwitchBot App and verify if the sound of the airflow from the exhaust increases.
+3. Check if notifications of fan malfunctions occur frequently. 
+
+
+---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Keeps Making Clicking Noise When It Starts Cleaning
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
