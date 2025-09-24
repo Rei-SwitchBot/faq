@@ -1073,7 +1073,13 @@ The power consumption data of the Plug cannot be deleted directly by the user vi
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Plug Mini EU Not Lighting up and Not Powering on
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Replace a power outlet and plug in the Plug Mini EU to see if the problem can be improved.
+2. Long press the power button for 15 seconds to reset the device.
 
 
 
