@@ -162,10 +162,62 @@ We will forward your feedback to our R&D team for further investigation, and wou
 SwitchBot Plug Mini consumes between 1W and 2W of power, which translates to approximately 0.001 to 0.002 kWh.
 
 
+---
+### SwitchBot Plug Mini EU Matter Setup (iOS)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Plug Mini EU
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding
+home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+[https://support.apple.com/en-hk/102557](https://support.apple.com/en-hk/102557)
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Plug Mini EU has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Plug Mini EU -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+Video 1: https://www.youtube.com/watch?v=Kcy9QuEHmLw
+Video 2: https://www.youtube.com/watch?v=0_LKeIr7rWw
+
+Note: 
+The Plug Mini EU is categorized as a relay switch, so its original name in Apple Home is "SwitchBot Relay Switch", which is normal.
 
 
+---
+### Troubleshooting SwitchBot Plug Mini EU Not Lighting up and Not Powering on
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video demonstrating the indicator status when holding down the power button on the Plug Mini for 15 seconds.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Will the Past Power Consumption Data Be Erased if I Remove SwitchBot Plug Mini from SwitchBot App and Re-add It?
+
+The power consumption data of the Plug Mini is stored in the cloud. Even if you delete or reset the device, you can still access the data by using the same SwitchBot account and adding it back to the app.
+Note:
+Power consumption used while the Wi-Fi connection is disconnected cannot be synced to the cloud. Thank you for your understanding.
 
 
 
