@@ -199,6 +199,43 @@ Important Note:
 2. Once completed, the Hub 3 will show the 24-hour weather overview for the day. The forecast updates hourly and includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
 
 
+---
+### Troubleshooting Unable to Add the Infrared Remotes to the Sub-Devices of SwitchBot Hub 3
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+-  A video on how to add a sub-device in the SwitchBot App.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### How to Sync the Added IR Remotes to Apple Home App
+
+Please synchronize the added infrared remotes to Apple Home app in the following order:
+Launch SwitchBot app and log in.  
+Tap your Hub Mini Matter.  
+Tap the gear icon in the upper right corner.  
+Tap "Matter Setup".  
+Tap "Secondary Device".  
+Tap "Lab Features (Beta)" and add the target IR remote.
+
+Important Note:
+
+1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
+2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
+3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
+[https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807)
+
+
+
+
+
+
+
+
 
 
 
