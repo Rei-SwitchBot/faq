@@ -310,6 +310,31 @@ Note:
 It takes about 6 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete. During charging, the backup battery will be automatically activated, and the auto-lock function is temporarily disabled.
 
 
+---
+### Why Are Unlocking and Locking Actions Not Available in SwitchBot Automation?
+
+For security reasons, locking and unlocking cannot be set as actions in SwitchBot Scene or Automation. Please use third-party services like Alexa or Apple Home if needed.
+You can create an Automation that triggers other SwitchBot products by locking/unlocking the Lock Ultra, opening/closing doors, or or when the Lock Ultra battery is low.
+Note: To use the Lock Ultra with third-party services or automation functions, you must use it with one of our Hub products.
+
+
+---
+### Is It Possible to Emergency Unlock My Door Lock Directly with SwitchBot Keypad Touch?
+
+The emergency unlock feature can only be performed within the Bluetooth range of the lock device using the SwitchBot app. This means that emergency unlocking cannot be done through the Keypad Touch. We apologize for any inconvenience and appreciate your understanding.
+
+
+---
+### Troubleshooting Auto-Lock Option on SwitchBot Lock Ultra Settings Page Is Grayed Out and Cannot Be Accessed Remotely
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, to ensure security and that the settings take effect properly, basic settings must be adjusted while your phone is within Bluetooth range of the Lock product and Bluetooth is enabled on your device.  If you are out of range, settings will be grayed out and cannot be modified.
+
+<img width="745" height="1280" alt="image" src="https://github.com/user-attachments/assets/2971c617-1911-4f4d-9563-44e1ae80f566" />
+
+We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
+
+
 
 
 
