@@ -462,7 +462,13 @@ We understand this isn't the ideal experience you expected, and we're truly sorr
 Thank you for your understanding and support!
 
 
+---
+### Troubleshooting Unable to Add the Infrared Remotes to the Sub-Devices of SwitchBot Hub 3
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
+2. Please check if it's possible to add the infrared remote by going to SwitchBot app → Hub 3 → Gear Icon → Matter Setup → Sub-devices → Lab Features (Beta).
 
 
 
