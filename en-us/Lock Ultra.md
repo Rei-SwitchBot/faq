@@ -304,7 +304,18 @@ We sincerely apologize for any inconvenience this has caused and truly appreciat
 If you have any further questions or need additional support, please don’t hesitate to let us know. We’re here to help.
 
 
+---
+### Troubleshooting I Unlocked the Door with a Key, but SwitchBot App Still Shows It as Locked, Causing Auto-Lock not to trigger
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Possible Cause
+When setting up the Lock Ultra, you may have chosen 90 degrees as the unlocked position. However, when unlocking with a key, your door lock may disengage at around 89 degrees instead. This slight difference can cause the app to display the wrong status even though the door is actually unlocked.
+Solution
+If the Lock Ultra's state cannot be synced to the SwitchBot App after locking and unlocking with the key, please recalibrate it using the physical key instead of the thumbturn on the Lock Ultra.
+SwitchBot App -> Lock Ultra -> gear icon -> recalibrate
+
+If you have any other questions, please do not hesitate to contact us.
 
 
 
