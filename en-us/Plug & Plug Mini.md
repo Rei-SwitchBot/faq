@@ -1061,6 +1061,21 @@ Regarding this issue, could you please check the following points?
 5. Long press the power button for 15 seconds to reset the device and reconnect to your home Wi-Fi.
 
 
+---
+### How to Delete the Power Consumption of Plug
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The power consumption data of the Plug cannot be deleted directly by the user via the SwitchBot app. However, our R&D team can handle this for you, so we would appreciate it if you could provide us with the following information.
+- Device name  
+- Preferred time for deletion
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
 
 
 
