@@ -316,6 +316,61 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Will the Live Video Show Up on the Monitor and the Add-on Monitor Simultaneously When Someone Rings the Doorbell?
+
+Yes. When someone rings your doorbell, the video from the doorbell will be displayed on both the monitor and the add-on monitor so you can see who is there. However, the intercom function can only be used on the device where the call button is pressed first. For example, if the call button is pressed on the monitor, communication will be possible from the monitor, but in that case, the add-on monitor will only display the video.
+Note:
+Under normal network conditions, the video feed synchronization between multiple monitors is nearly instantaneous, though minimal delays may occur depending on your specific network environment.
+
+
+---
+### Is It Possible to Unlock and Lock My Door Lock through the Add-on Monitor?
+
+Yes, you can control your lock remotely through the add-on monitor. The add-on monitor does not have a hub function but connects to the monitor via Wi-Fi to send lock and unlock commands. And then the monitor communicates with the lock product via Bluetooth for locking and unlocking. Therefore, when setting up, make sure that the distance between the lock product and the monitor remains within Bluetooth communication range (recommended within 5 meters).
+Note:
+You can use the Add-on monitor to control all SwitchBot Lock products (including Lock, Lock Pro, Lock Ultra).
+
+
+---
+### Is It Possible to Unlock and Lock My Door Lock through the Add-on Monitor?
+
+Yes, the add-on monitor of the Smart Video Doorbell can be used across multiple floors. However, if the monitor and the add-on monitor are connected to different routers, please make sure that both routers are connected to the same LAN (Local Area Network). Additionally, for a stable connection, it is recommended to install and use the monitor and the add-on monitor as close to the router as possible.
+
+
+---
+### Can the Monitor and the Add-on Monitor Be Connected to Different Routers?
+
+Yes, you can use the Smart Video Doorbell monitor and add-on monitor on different floors with separate routers. Just make sure that both routers are connected to the same LAN (Local Area Network). Additionally, for a stable connection, it is recommended to install and use the monitor and the add-on monitor as close to the router as possible.
+
+
+---
+### How Do the Monitor and the Add-on Monitor Communicate with Each Other?
+
+The monitor of the Smart Video Doorbell communicates with the add-on monitor via Wi-Fi. Please connect both devices to a 2.4GHz Wi-Fi network. Additionally, for a stable connection, it is recommended to install and use the monitor and the add-on monitor as close to the router as possible.
+
+
+---
+### Is It Possible to Configure Multiple Add-on Monitors for One SwitchBot Smart Video Doorbell?
+
+We regret to inform you that only one add-on monitor can be connected to the Smart Video Doorbell.
+
+
+---
+### Can the Add-on Monitor Be Inserted with a microSD Card?
+
+The add-on monitor does not have a slot for inserting a microSD card, but you can view recordings from the microSD card on the monitor. 
+
+Note:  
+A 4GB microSD card is included with the Smart Video Doorbell.
+
+
+---
+### Will the Add-on Monitor Receive a Notification When the Doorbell Detects Motion?
+
+Yes, you can check notifications such as motion detection and removal alerts on the add-on monitor when motion is detected or the device itself is removed. 
+
+
 
 
 
