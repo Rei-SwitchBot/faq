@@ -220,7 +220,32 @@ Note:
 Power consumption used while the Wi-Fi connection is disconnected cannot be synced to the cloud. Thank you for your understanding.
 
 
+---
+### SwitchBot Plug Mini EU Matter Setup (iOS)
 
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Plug Mini EU
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding
+home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+[https://support.apple.com/en-hk/102557](https://support.apple.com/en-hk/102557)
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Plug Mini EU has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Plug Mini EU -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+Video 1: Add SwitchBot Plug Mini EU to Apple Home without Using SwitchBot App [https://www.youtube.com/watch?v=Kcy9QuEHmLw](https://www.youtube.com/watch?v=Kcy9QuEHmLw)
+
+Video 2: Add SwitchBot Plug Mini EU to Apple Home with SwitchBot App
+[https://www.youtube.com/watch?v=0_LKeIr7rWw](https://www.youtube.com/watch?v=0_LKeIr7rWw)
+
+Note: 
+The Plug Mini EU is categorized as a relay switch, so its original name in Apple Home is "SwitchBot Relay Switch", which is normal.
 
 
 
