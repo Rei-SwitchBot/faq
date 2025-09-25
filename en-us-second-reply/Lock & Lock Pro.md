@@ -774,7 +774,30 @@ You can create an Automation that triggers other SwitchBot products by locking/u
 Note: To use the Lock with third-party services or automation functions, you must use it with one of our Hub products.
 
 
+---
+### How to Lock SwitchBot Lock Using Siri Shortcuts?
 
+Create a shortcut to lock the Lock.
+1. Voice control for Lock requires our hub product. When the hub is placed near Lock (within Bluetooth range), Lock will automatically connect to it.
+2. Please create Siri shortcuts in the following order:
+- Launch SwitchBot App and log in.
+- Tap Lock.
+- Tap the gear icon in the upper right corner.
+- Tap Third-party service on the settings screen.
+- Tap Siri Shortcuts.
+- Tap "Add Shortcut".
+- Choose the relevant Lock.
+- Record the locking phrase.
+
+Notes:
+- If phrases are not recognized correctly in the recording, it is recommended to enter them manually.
+- You can edit or remove the shortcut at the same place.
+- Unlocking the Lock by shortcuts is not supported.
+
+Sync Lock as a sub-device to Apple Home, use "Hey Siri" to operate:
+1. Please refer to the link below for this method, which requires a Matter-compatible hub product. With this method, you can lock and unlock the Lock product using "Hey Siri".
+[https://support.switch-bot.com/hc/en-us/articles/7909829940503](https://support.switch-bot.com/hc/en-us/articles/7909829940503-How-to-Add-SwitchBot-Lock-Products-with-the-Apple-Home-App-Using-SwitchBot-Hub-2-Hub-Mini-Matter-Enabled)
+Matter-compatible hub: Hub 2, Hub Mini Matter Enabled, Hub 3
 
 
 
