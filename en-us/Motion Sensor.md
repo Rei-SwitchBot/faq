@@ -34,40 +34,6 @@ Even if there is no SwitchBot Hub Mini, the Motion Sensor or Contact Sensor can 
 5. When you turn on the Motion Sensor or Contact Sensor cloud service, the automation function is automatically disabled and you are forced to proceed to the scene setting screen. Any automation you have set is turned off.
 
 
-
----
-### Can I receive a notification on the smartphone with Motion Sensor alone when a motion is detected?
-
-Updated: Mar 31st, 2023
-
-Applicable Product: SwitchBot Motion Sensor
-
-1.
-
-Notifications to smartphones are via the Internet, and Motion Sensor is a Bluetooth communication device; therefore, notifications won't be sent to your phone
-
-with this single item
-
-.
-
-2. If used with our Hub series products, you can expect to receive notifications when motion is detected by
-
-Motion Sensor.
-
-Here we will show you how to set it up. (
-
-Hub Series Products: SwitchBot Hub Mini/Hub 2/Ceiling Light/Ceiling Light Pro)
-
-Turn on the cloud service of
-
-Motion Sensor.
-
-Motion sensor → Gear icon → Notification settings → Allow push notifications
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25998202347159)
-
-
-
 ---
 ### Failed to add Motion Sensor during setup
 
