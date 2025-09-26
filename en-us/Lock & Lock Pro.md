@@ -4397,7 +4397,6 @@ Regarding this issue, could you please check the following points?
 We're happy to provide this mounting plate at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request the mounting plate, please contact us and we'll provide a shipping quote.
 Also, to help us arrange the shipment quickly, please provide the following details:
 
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -4408,8 +4407,6 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-
----
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
