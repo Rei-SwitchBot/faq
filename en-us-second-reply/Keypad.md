@@ -419,7 +419,11 @@ We will forward your feedback to our R&D team for further investigation, and wou
 All passwords, fingerprints, and NFC cards added are stored on the Keypad Touch body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, deleting and re-adding the device will automatically erase all previously added information.
 
 
+---
+### Can a Single SwitchBot Keypad/Keypad Touch Control Multiple SwitchBot Lock?
 
+For security reasons, one SwitchBot Keypad/SwitchBot Keypad Touch can only pair with one Lock product, or a dual-lock.
+Lock Products: Lock, Lock Pro, Lock Ultra
 
 
 
