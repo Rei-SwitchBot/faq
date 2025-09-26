@@ -3187,7 +3187,7 @@ SwitchBotの赤外線リモコン対応リストは通常、半年に1度の頻�
 ハブミニが頻繁にオフラインになる件について、以下をご確認いただけますでしょうか。
 1. 電圧または電流が不足し、動作が不安定になる可能性があります。下図左側のようなUSBポートを使用しないようお願いします。
 
-<img width="993" height="1072" alt="image" src="https://github.com/user-attachments/assets/c210af87-5f47-440c-adc2-95ece60bae58" />
+![image] (https://github.com/user-attachments/assets/c210af87-5f47-440c-adc2-95ece60bae58 )
 
 2. ハブミニに5V1A/5V2Aの充電アダプターを使用してください。
 3. ハブミニをWi-Fi ルーターのより近い位置（5メートル以内）に設置してください。
