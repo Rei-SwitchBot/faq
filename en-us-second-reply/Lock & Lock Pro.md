@@ -800,6 +800,27 @@ Sync Lock as a sub-device to Apple Home, use "Hey Siri" to operate:
 Matter-compatible hub: Hub 2, Hub Mini Matter Enabled, Hub 3
 
 
+---
+### Is It Possible to Emergency Unlock My Door Lock Directly with SwitchBot Keypad Touch?
+
+The emergency unlock feature can only be performed within the Bluetooth range of the lock device using the SwitchBot app. This means that emergency unlocking cannot be done through the Keypad Touch. We apologize for any inconvenience and appreciate your understanding.
+
+
+---
+### Can One SwitchBot Lock Be Operated with Multiple Keypad Touchs?
+
+Lock can only be operated using a single Keypad Touch.  
+Note:  
+Lock Pro and Lock Ultra can be controlled with up to seven Keypad Touchs.
+
+
+
+
+
+
+
+
+
 
 
 
