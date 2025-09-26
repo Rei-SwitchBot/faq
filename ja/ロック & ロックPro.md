@@ -790,26 +790,6 @@ Bluetooth範囲内
 [ロックPro用の電池](https://support.switch-bot.com/hc/ja/articles/19289825813015)
 
 
-
----
-### ロックProの3M粘着テープの型番
-
-更新日：2024/07/01
-
-適用製品：ロックPro
-
-ロックProの3M粘着テープの型番は
-
-GPH 110
-
-です。弊社公式
-
-[ホームページ](https://www.switchbot.jp/collections/switchbot-smart-lock-accessory/products/switchbot-3m-sticker-lock-pro)
-
-にてご購入いただけます。
-
-
-
 ---
 ### ロックProはMatterに対応しますか
 
@@ -2046,26 +2026,6 @@ SwitchBotアプリで施錠・解錠を操作してロックProが回転しな�
 並び順の調整に対応できかねます
 
 が、弊社技術チームにて開発中で、もうしばらくお待ちいただくようお願いいたします。
-
-
-
----
-### ロックPro専用の両面テープを購入したいです、どうしたらいいでしょうか。
-
-更新日：2024/05/28
-
-適用製品：ロックPro
-
-弊社の
-
-[公式ホームページ](https://www.switchbot.jp/collections/switchbot-smart-lock-accessory/products/switchbot-3m-sticker-lock-pro)
-
-にてご購入いただけます、ご検討よろしくお願いいたします。
-
-関連投稿：
-
-[ロック専用の両面テープをロックProに使っていいでしょうか](https://support.switch-bot.com/hc/ja/articles/20099923950231)
-
 
 
 ---
