@@ -2963,9 +2963,22 @@ MAXモード＞70min
 ※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
 
 
+---
+### ウィジェットでロボット掃除機K10+の操作は可能ですか
+
+はい、スマートフォンのウィジェットでロボット掃除機K10+の操作は可能です。
+詳細につきましては、下記のリンクをご参考ください。
+[https://support.switch-bot.com/hc/ja/articles/360037747254](https://support.switch-bot.com/hc/ja/articles/360037747254-SwitchBot%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%A8%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92Android%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
+[https://support.switch-bot.com/hc/ja/articles/20399026689559](https://support.switch-bot.com/hc/ja/articles/20399026689559-%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88-Widget-%E8%BF%BD%E5%8A%A0%E5%8F%AF%E8%83%BD%E3%81%AASwitchBot%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E4%B8%80%E8%A6%A7)
 
 
+---
+### ウィジェットでロボット掃除機K10+ Proの操作は可能ですか
 
+はい、スマートフォンのウィジェットでロボット掃除機K10+ Proの操作は可能です。
+詳細につきましては、下記のリンクをご参考ください。
+[https://support.switch-bot.com/hc/ja/articles/360037747254](https://support.switch-bot.com/hc/ja/articles/360037747254-SwitchBot%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E3%81%A8%E3%82%B7%E3%83%BC%E3%83%B3%E3%82%92Android%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%81%AB%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
+[https://support.switch-bot.com/hc/ja/articles/20399026689559](https://support.switch-bot.com/hc/ja/articles/20399026689559-%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88-Widget-%E8%BF%BD%E5%8A%A0%E5%8F%AF%E8%83%BD%E3%81%AASwitchBot%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E4%B8%80%E8%A6%A7)
 
 
 
