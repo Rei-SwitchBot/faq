@@ -2110,9 +2110,22 @@ To determine if your device needs to be repaired or replaced, could you please p
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Can I Operate Switchbot Mini Robot Vacuum K10+ With a Widget?
+
+Yes, you can add your K10+ to the widget.
+For more information on SwitchBot devices supported by the widget, please click the link below.
+[https://support.switch-bot.com/hc/en-us/articles/360037747254](https://support.switch-bot.com/hc/en-us/articles/360037747254-How-to-Add-SwitchBot-Devices-and-Scenes-to-Android-Widget)
+[https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
 
 
+---
+### Can I Operate Switchbot Mini Robot Vacuum K10+ Pro With a Widget?
 
+Yes, you can add your K10+ Pro to the widget.
+For more information on SwitchBot devices supported by the widget, please click the link below.
+[https://support.switch-bot.com/hc/en-us/articles/360037747254](https://support.switch-bot.com/hc/en-us/articles/360037747254-How-to-Add-SwitchBot-Devices-and-Scenes-to-Android-Widget)
+[https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
 
 
 
