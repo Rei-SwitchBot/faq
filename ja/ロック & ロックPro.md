@@ -4286,7 +4286,7 @@ SwitchBotアプリを起動し、ログインします。
 3. ご住所
 4. 郵便番号
 2．アフターサービスにて磁石の手配は可能ですが、送料（980円）はお客様ご自身が負担することとなります。あらかじめご了承お願いいたします。ご希望される場合にはお手数ですが、下記のリンクよりお支払いいただくようお願い申し上げます。
-https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239
+[https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239](https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239)
 お支払いの手続き完了後、お手数ですが＃JPから始まる注文番号をお知らせ頂くようお願いいたします。
 
 3．在庫切れの場合、海外発送となります。海外発送であると、製品到着まで大体2週間程お時間を頂いております。ご理解の程よろしくお願いいたします。
