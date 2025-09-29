@@ -164,7 +164,8 @@ If you have any other questions, please do not hesitate to contact us.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please make sure that the batteries are inserted in the correct orientation.  
-2. Check if replacing the batteries resolves the issue.
+2. Please remove the batteries, wait for 30 minutes, and then reinsert two batteries into the device to check if the issue is resolved.
+3. Check if replacing the batteries resolves the issue.
 
 
 ---
