@@ -178,4 +178,33 @@ If you add the safety alarm to the Apple Find My app and it does not reconnect t
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting Can't Add SwitchBot Safety Alarm to Apple Find My App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please reset your Safety Alarm.
+Unscrew and remove the battery cover.
+Use the screwdriver to press and hold the pairing button for 15s until you hear 5 "beeps" to complete the reset process.
+[https://support.switch-bot.com/hc/en-us/articles/33475117287959](https://support.switch-bot.com/hc/en-us/articles/33475117287959-How-to-Reset-SwitchBot-Safety-Alarm)
+
+2. To re-add the Safety Alarm, press and hold the button for two seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
