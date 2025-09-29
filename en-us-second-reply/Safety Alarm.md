@@ -115,6 +115,41 @@ Only the homeowner can disable it by tapping the SOS alert message in the Switch
 To disable the SOS alert message in the SwitchBot App, homeowners must tap the banner in the app. Home admins and members do not have permission to turn off the message for security reasons. Thank you for your understanding.
 
 
+---
+### Troubleshooting Can't Add SwitchBot Safety Alarm to Apple Find My App
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing the failed attempt to add the Safety Alarm to Find My app.
+- A video demonstrating the reset process.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### How Can Parents Receive SOS Notifications from SwitchBot Safety Alarm Their Child Is Carrying?
+
+The Safety Alarm connects to the SwitchBot app via Bluetooth. When the pin is removed, an emergency SOS alert is sent through our server directly to your phone. To ensure you receive these important notifications, please keep your phone within Bluetooth range of the Safety Alarm, and allow the SwitchBot app to run in the background.
+
+To ensure parents receive emergency SOS notifications from the Safety Alarm carried by their child, please check the following:  
+Add the Safety Alarm to the SwitchBot app.  
+Follow on-screen instructions to set up an email address for receiving notifications by going to SwitchBot app → Safety Alarm → SOS Emergency Alert.
+Give your child a smartphone.
+Install the SwitchBot app on your child's smartphone and log in with the same account and password used by parents.
+
+Note:  
+Parents and children can each create their own SwitchBot app accounts and utilize the Home Sharing feature, allowing notifications to be sent to the homeowner, administrators, or members.
+[https://support.switch-bot.com/hc/en-us/sections/4424752047767-Home-Sharing](https://support.switch-bot.com/hc/en-us/sections/4424752047767-Home-Sharing)
+
+
+
+
+
+
+
+
+
 
 
 
