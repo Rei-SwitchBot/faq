@@ -1379,9 +1379,9 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the Bot's inability to turn the switch on or off suddenly, could you please check the following points?
 1. Make sure that the firmware version of your Bot is 6.6 or later. If not, please update the firmware near your device by going to SwitchBot App -> Bot -> Firmware & Battery.
 2. Take the batteries out of your Bot and then put them back in to reset the power.
-Kindly note: You may need to replace the batteries if they are low and we recommand using Panasonic CR2 3V batteries.
-3. Open the cover of the Bot and press the reset button once to perform a reset.
-4. Follow these steps to recover the Bot’s firmware:
+3.  You may need to replace the batteries if they are low and we recommand using Panasonic CR2 3V batteries.
+4. Open the cover of the Bot and press the reset button once to perform a reset.
+5. Follow these steps to recover the Bot’s firmware:
 - Remove the batteries from the Bot.
 - While pressing and holding the reset button, reinsert the batteries.
 - Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
