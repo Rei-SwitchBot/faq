@@ -12,9 +12,8 @@
 本件について、以下をご確認いただけますでしょうか。
 1. コントローラーとテープライトの端子は正しく接続されているかご確認ください。向きが間違っていると、テープライトはつかなくなります。
 
-<img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/4dbcbdc1-42eb-45dd-836b-cae254782903" />
+<img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/f94129b9-7727-44a9-b065-34ed832ab766" />
 
-2. 付属リモコンでコントロールできるかご確認ください。
 
 
 ---
