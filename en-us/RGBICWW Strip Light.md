@@ -13,8 +13,6 @@ Regarding this issue, could you please check the following points?
 
 <img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/431c6692-c437-40fb-b0a7-7f78518edd3c" />
 
-2. Please check if it can be turned on with the included remote control.
-
 
 ---
 ### Troubleshooting Only a Part of SwitchBot RGBICWW Strip Light Can Light Up
