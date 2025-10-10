@@ -371,6 +371,71 @@ A 4GB microSD card is included with the Smart Video Doorbell.
 Yes, you can check notifications such as motion detection and removal alerts on the add-on monitor when motion is detected or the device itself is removed. 
 
 
+---
+### Troubleshooting the Monitor No Longer Powering on
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing the monitor not turning on when connected to a powered outlet
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### How Long Does It Take to Fully Charge the Doorbell?
+
+The doorbell takes about 6 hours to fully charge using the 5V2A charging adapter and Type-C charging cable included in the package. While charging, the indicator will light up in red and change to green when charging is complete. 
+
+
+---
+### Troubleshooting the Doorbell Not Turning on and Unresponsive
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing the indicator while the doorbell is charging
+  2. A video showing no response when the doorbell button is pressed
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### When Connecting the Monitor and the Doorbell with the Low-Voltage Wires, Does It Require AC or DC?
+
+When connecting the doorbell and monitor, use 5~6V0.2A DC voltage for low-voltage wires. For connection details, please refer to the link below.
+[https://support.switch-bot.com/hc/en-us/articles/28730515057687](https://support.switch-bot.com/hc/en-us/articles/28730515057687-How-to-Connect-Doorbell-to-Monitor-Using-Low-Voltage-DC-Lines-Video)
+
+<img width="1275" height="586" alt="image" src="https://github.com/user-attachments/assets/0ca85e17-c86d-49bb-b263-078e1bce4e5d" />
+
+
+
+
 
 
 
