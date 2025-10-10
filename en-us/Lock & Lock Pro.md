@@ -4411,7 +4411,6 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
 ---
 ### Troubleshooting Has Trouble Receiving Notifications from My SwitchBot Lock Pro
 
@@ -4438,6 +4437,27 @@ Regarding this issue, could you please check the following points?
   3. Add Lock Pro to the app again.
 
 Important Note: To receive Lock Pro notifications on your smartphone, you need our hub product. Thank you for understanding.
+
+
+---
+### Troubleshooting When Creating an Account for SwitchBot App, None of the Verification Codes Arrived by Email.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+For data security reasons, account authentication cannot be handled by our customer service team. Regarding account creation, could you please review the following:
+1. Please check your spam folder for the authentication email.
+2. Kindly add our email address to your trusted sender list. The domain name is as follows:
+@wondertechlabs.com
+@switch-bot.com
+@switchbot.jp
+3. Try signing up with a different email address.
+4. If you have accounts with third-party services like Amazon or Google, please log in using the "sign in by a third-party account" option located below the login screen.  
+
+
+We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
+
+
+
 
 
 
