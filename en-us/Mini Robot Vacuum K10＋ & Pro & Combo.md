@@ -3228,6 +3228,24 @@ We apologize for any confusion this may cause and appreciate your understanding.
 
 
 ---
+### Troubleshooting Suction Power Drops After SwitchBot Mini Robot Vacuum K10+ Pro Runs at Max Power for Around 5 Minutes
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We’d like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
+This feature is designed to protect the fan’s lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
+We apologize for any confusion this may cause and appreciate your understanding. If you have any further questions, please feel free to reach out.
+
+
+---
+### Troubleshooting Suction Power Drops After SwitchBot Mini Robot Vacuum K10+ Pro Combo Runs at Max Power for Around 5 Minutes
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We’d like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
+This feature is designed to protect the fan’s lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
+We apologize for any confusion this may cause and appreciate your understanding. If you have any further questions, please feel free to reach out.
+
+
+---
 ### Is It Possible to Adjust the Rotation Speed of the Side Brush on the SwitchBot Mini Robot Vacuum K10+?
 
 We are sorry to inform you that adjusting the rotational speed of the side brush is not supported.
