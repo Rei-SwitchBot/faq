@@ -189,6 +189,15 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Can the Screen of SwitchBot Universal Remote Stay on Constantly without Going to Sleep?
+
+We regret to inform you that the Universal Remote will automatically lock the screen after a set period of time to save battery. To activate it, you will need to lift or press any button on the device. We apologize for any inconvenience and appreciate your understanding!
+
+
+
+
+
 
 
 
