@@ -446,6 +446,23 @@ Regarding this issue, could you please check the following points?
 1. Please set the location to your current one by going to SwitchBot app → Profile → Manage Home → Home where the doorbell is added. If the device's location is not correct, there may be a time difference.
 
 
+---
+### Troubleshooting the Monitor No Longer Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the monitor powers on when connected to a different outlet.
+
+
+---
+### Troubleshooting the Doorbell Not Turning on and Unresponsive
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn on the power button on the back of the doorbell.  
+2. Charge the doorbell for 6 hours with the provided Type-C charging cable and a 5V2A charger. The indicator will be red while charging and turn green when fully charged. If the indicator doesn't light up, try using another charger and Type-C cable to troubleshoot.
+
+
 
 
 
