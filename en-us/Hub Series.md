@@ -3714,7 +3714,7 @@ Regarding the firmware update issue, could you please check the following points
 5. Switch to a mobile hotspot connection and attempt the update again.
 6. Try recovering the firmware of your Hub Mini.
 - Unplug the Hub Mini.
-- Hold the button on the devive while plugging it back in.
+- Hold the button on the device while plugging it back in.
 - Open the SwitchBot app, go to Profile > Firmware recovery, and follow the instructions.
 
 7. Remove and reset Hub Mini.
@@ -3740,7 +3740,6 @@ Regarding the firmware update issue, could you please check the following points
 - Delete the device from the SwitchBot app by long-pressing it.
 - Press and hold the on/off button on the Hub 2 simultaneously for 15 seconds to reset.
 - Re-add the device to the app.
-
 
 7. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Hub Mini to the router and try updating the firmware again.  
 8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
