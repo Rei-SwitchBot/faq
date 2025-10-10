@@ -298,6 +298,16 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### What Is the Use of SwitchBot Bot's Password?
+
+After setting a password for your Bot, in order to improve the convenience of operation, you will need to enter the password for the first operation, and then you do not need to enter it again. 
+The Bot with a password set cannot be re-added even if it is within the Bluetooth range of other SwitchBot users' smartphones. In addition, if the Bot is not added to the SwitchBot application and is used through "Bot Nearby", after setting a password, other users cannot operate the Bot even within Bluetooth range.
+When you open the Bot's cover, you will find the reset button. Pressing it once will restore the Bot to its factory settings and erase any configured passwords.
+
+
+
+
 
 
 
