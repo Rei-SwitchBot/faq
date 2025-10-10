@@ -9361,6 +9361,7 @@ Important Notes:
 
 If you have any other questions, please don't hesitate to contact us. We are here to help!
 
+
 ---
 ### Troubleshooting SwitchBot Scene Fails to Trigger
 
@@ -9373,6 +9374,7 @@ To better assist you with the Scene issue, could you please provide us the follo
 Way to check the Scene logs: SwitchBot App -> "..." in the upper right corner -> Manage Scenes -> "⋮" in the upper right corner -> Scene logs
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 ---
 ### Troubleshooting SwitchBot Automation Fails to Trigger
@@ -9387,6 +9389,7 @@ Way to check the automation logs: SwitchBot App -> "Automation" at the bottom of
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
 ---
 ### Which SwitchBot Products Work with Homey?
 
@@ -9395,4 +9398,21 @@ To see the full list of SwitchBot devices compatible with Homey, please visit Ho
 Homey App – SwitchBot Integration: https://homey.app/en-us/app/com.switchbot/SwitchBot/
 
 This page is maintained by Homey and reflects their latest supported products. If you’re unsure whether your specific SwitchBot device is compatible, we suggest contacting Homey Support directly for confirmation.
+
+
+---
+### Troubleshooting Unable to Join Home
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To assist you better with this issue, could you please provide the following information:  
+Home Owner Account:  
+Home Member Account:  
+For urgent issues during the investigation process, as a temporary measure, we recommend logging into the same SwitchBot app account on the member's phone. All registered products will be available for use under the same account.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
 
