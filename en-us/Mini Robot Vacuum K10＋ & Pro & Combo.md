@@ -3619,6 +3619,27 @@ Regarding the issue of the robot not automatically emptying the dustbin, could y
 8. Open the SwitchBot app, go to the Mini Robot Vacuum robot control panel, and tap “Empty Dust” to see if the robot can empty the dustbin manually.
 
 
+---
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Won’t Enter Dark Carpet Areas
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The K10+ Pro Combo is equipped with highly sensitive cliff sensors designed to ensure your robot’s safety by preventing falls. These sensors are so precise that they may occasionally recognize dark-colored carpets as a drop, triggering the fall-prevention function and causing the robot to stop working on those areas. While we work on a permanent solution, we can offer a temporary workaround to help maintain uninterrupted cleaning.
+You can use the SwitchBot App to mark the dark carpet areas, allowing the K10+ Pro Combo to continue cleaning those zones without interruption. Here’s how you can set it up:
+- Open the SwitchBot App.
+- Tap your K10+ Pro Combo robot.
+- Tap the map icon in the center-left of the screen.
+- Go to "Edit Floor".
+- Select "Carpet Cleaning" and then "Carpet Settings".
+- Mark the areas with dark-colored carpets.
+Important Note:
+When you mark dark-colored areas for cleaning, the cliff sensor sensitivity will decrease. If you have staircases or other potential hazards nearby, we recommend setting those areas as "No-Go Zones" instead of marking them as dark carpet areas to prevent accidents.
+
+We sincerely apologize for any inconvenience this may cause and appreciate your understanding as we work towards a permanent solution. If you need further assistance or have any questions, please don’t hesitate to reach out.
+
+
+
+
 
 
 
