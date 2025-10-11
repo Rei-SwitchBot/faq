@@ -2086,6 +2086,23 @@ Note: Once you tap the "Store data to cloud" button, it will automatically disap
 6. Turn off the Hub and re-power it after 10 minutes.
 
 
+---
+### Troubleshooting SwitchBot Meter Pro Not Showing on My Apple Watch, and I Cannot Check the Temperature and Humidity
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Meter Pro is a Bluetooth communication device and requires integration with our hub product to enable network functionality for use with Apple Watch. Here are the detailed setup instructions:
+- Place the Meter Pro near the hub product (within 5 meters is recommended).  
+- Add both devices to the SwitchBot app.
+- In the SwitchBot app, tap the Meter Pro, and then tap "Store data to cloud" at the bottom of the graph screen.  
+By completing the above steps, you will be able to use the Meter Pro with Apple Watch.  
+Note:  
+If no compatible SwitchBot devices are available, "default" will be displayed on the Apple Watch.  
+
+If you have any further questions or concerns, please don't hesitate to contact us.  
+
+
+
 
 
 
