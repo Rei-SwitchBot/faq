@@ -363,6 +363,41 @@ SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/010875f0-aa65-46b4-a560-d25856d15f0c" />
 
 
+---
+### Troubleshooting SwitchBot Meter Pro Not Showing on My Apple Watch, and I Cannot Check the Temperature and Humidity
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo of the contents displayed on your Apple Watch
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### How to Set Up Temperature and Humidity Alerts for SwitchBot Outdoor Meter When Displayed on the Screen of the Meter Pro
+
+After displaying the Outdoor Meter on the screen of the Meter Pro, if you wish the alerts from both devices when a certain temperature and humidity level is reached, it is necessary to configure the alert settings on each device individually within their respective settings menus.
+Additionally, since the Outdoor Meter does not emit sound or have a screen, if you wish to be alerted via blinking data and sound, you will need to configure these settings separately on the Meter Pro.
+Setting 1
+- Launch SwitchBot App and log in.
+- Tap Meter Pro.
+- Tap the gear icon in the upper right corner.
+- Tap "Alert Conditions".
+- Enable and set the alert range for temperature, humidity, absolute humidity, dew point, and VPD as needed.
+- Enable "Alert Sound & Light" if you would like the screen to flash or an alarm to sound when the alert setpoint is reached.
+
+Setting 2
+- Launch SwitchBot App and log in.
+- Tap Outdoor Meter.
+- Tap the gear icon in the upper right corner.
+- Tap “Alert conditions” on the Settings screen.
+- Enable alerts for temperature, humidity, absolute humidity, dew point temperature, and VPD as desired.
+- Set and save the alert range.
+
+
+If you have a Hub product, you will receive alert notifications on your smartphone when the preset conditions are met. Without a Hub product and using Bluetooth, the temperature and humidity will display in red on the SwitchBot app when alert conditions are reached.
+[https://support.switch-bot.com/hc/en-us/articles/26966864494359-SwitchBot-Meter-Pro-Alert-Conditions-Feature](https://support.switch-bot.com/hc/en-us/articles/26966864494359-SwitchBot-Meter-Pro-Alert-Conditions-Feature)
 
 
 
