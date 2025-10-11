@@ -3216,4 +3216,16 @@ Please rest assured that this is the intended operating behavior of the robot an
 We sincerely apologize for any confusion or inconvenience this may have caused. We truly appreciate your understanding. If you have any further questions, we're here to help.
 
 
+---
+### Troubleshooting the Diatom Mud Mat of SwitchBot Floor Cleaning Robot S20 Is Missing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The diatom mud mat for the S20 is stored inside either the dust pack or on the back side of the instruction manual's pouch. If you cannot find it, please double-check both locations.
+
+
+
+
+
+
 
