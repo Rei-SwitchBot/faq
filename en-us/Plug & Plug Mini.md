@@ -1066,7 +1066,8 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The power consumption data of the Plug cannot be deleted directly by the user via the SwitchBot app. However, our R&D team can handle this for you, so we would appreciate it if you could provide us with the following information.
+The plug stores power consumption data for up to two years. Older data is automatically overwritten when new data exceeds this limit. 
+Users cannot delete the power consumption data of the Plug directly through the SwitchBot app. However, our R&D team can handle this for you, so we would appreciate it if you could provide us with the following information.
 - Device name  
 - Preferred time for deletion
 
