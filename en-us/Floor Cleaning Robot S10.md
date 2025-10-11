@@ -2372,7 +2372,7 @@ Note: The built-in water tank of the S10 is approximately 250 ml, but the actual
 If you remove and re-add the S10 to your account, any maps you've created will still be cleared. This means you'll need to remap when adding or removing the device from your account. We sincerely apologize for any inconvenience this may cause.
 
 ---
-### Is It Possible to Copy the Map Created by SwitchBot Floor Cleaning Robot S10?
+### Is It Possible to Copy or Transfer the Map Created by SwitchBot Floor Cleaning Robot S10?
 
 We regret to inform you that copying the created map by S10 is not currently supported. 
 
