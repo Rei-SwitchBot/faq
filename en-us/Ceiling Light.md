@@ -595,5 +595,26 @@ Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHo
 *If you wish to request firmware version 2.3-1.2 or newer, please contact us via feedback.
 
 
+---
+### Troubleshooting Failed to Update SwitchBot Ceiling Light Pro Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
+2. Perform the firmware update near the device to ensure a stable connection.
+3. Turn off the ceiling light power and then reconnect it.
+4. Turn off your home router, wait about 30 seconds, then turn it back on.
+5. Switch to a mobile hotspot connection and attempt the update again.
+6. Reset your Ceiling Light.
+[https://support.switch-bot.com/hc/en-us/articles/7644297529239-How-to-Reset-SwitchBot-Ceiling-Light](https://support.switch-bot.com/hc/en-us/articles/7644297529239-How-to-Reset-SwitchBot-Ceiling-Light)
+7. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Ceiling Light to the router and try updating the firmware again.  
+8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+
+
+
+
+
+
+
 
 
