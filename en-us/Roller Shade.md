@@ -328,3 +328,37 @@ Note: When choosing your shade fabric, remember:
 ![image](https://github.com/user-attachments/assets/ee89d0e9-99d3-4165-96a1-685ee499a880)
 
 If you need further assistance, feel free to reach out to our support team. We’re happy to help!
+
+
+---
+### Troubleshooting SwitchBot Roller Shade Gets Stuck and Cannot Open or Close Properly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please follow the instructions in the SwitchBot app to recalibrate your roller shade.  
+SwitchBot app → Roller Shade → Gear icon in the top right corner → Recalibrate
+
+
+---
+### Troubleshooting SwitchBot Roller Shade Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The power may have been turned off. Please charge the Roller Shade using a 5V1A charging adapter as a precaution (it takes about 8 hours to fully charge).
+2. Press and hold the pairing button for 15 seconds and check if the indicator light flashes.
+
+<img width="383" height="246" alt="image" src="https://github.com/user-attachments/assets/d58a754b-b459-4413-9d26-57789f65e91f" />
+
+3. Press the reset pin into the reset hole once to restart the device.
+
+<img width="308" height="279" alt="image" src="https://github.com/user-attachments/assets/3fd70d34-67a2-4285-85e9-48997309ed74" />
+
+
+
+
+
+
+
+
+
+
