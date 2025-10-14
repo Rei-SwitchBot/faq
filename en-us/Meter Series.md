@@ -2102,6 +2102,23 @@ If no compatible SwitchBot devices are available, "default" will be displayed on
 If you have any further questions or concerns, please don't hesitate to contact us.  
 
 
+---
+### Troubleshooting SwitchBot Meter Not Showing on My Apple Watch, and I Cannot Check the Temperature and Humidity
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Meter is a Bluetooth communication device and requires integration with our hub product to enable network functionality for use with Apple Watch. Here are the detailed setup instructions:
+- Place the Meter near the hub product (within 5 meters is recommended).  
+- Add both devices to the SwitchBot app.
+- In the SwitchBot app, tap the Meter, and then tap "Store data to cloud" at the bottom of the graph screen.  
+By completing the above steps, you will be able to use the Meter with Apple Watch.  
+Note:  
+If no compatible SwitchBot devices are available, "default" will be displayed on the Apple Watch.  
+
+If you have any further questions or concerns, please don't hesitate to contact us.  
+
+
+
 
 
 
