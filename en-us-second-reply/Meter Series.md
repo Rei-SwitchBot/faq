@@ -83,6 +83,17 @@ More -> Alexa Privacy -> Review Voice History.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting SwitchBot Meter Not Showing on My Apple Watch, and I Cannot Check the Temperature and Humidity
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo of the contents displayed on your Apple Watch
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 ---
 
@@ -398,6 +409,7 @@ Setting 2
 
 If you have a Hub product, you will receive alert notifications on your smartphone when the preset conditions are met. Without a Hub product and using Bluetooth, the temperature and humidity will display in red on the SwitchBot app when alert conditions are reached.
 [https://support.switch-bot.com/hc/en-us/articles/26966864494359-SwitchBot-Meter-Pro-Alert-Conditions-Feature](https://support.switch-bot.com/hc/en-us/articles/26966864494359-SwitchBot-Meter-Pro-Alert-Conditions-Feature)
+
 
 
 
