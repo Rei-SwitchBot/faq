@@ -1983,7 +1983,7 @@ If you have any other questions, please feel free to contact us.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please make sure that a hubduct is installed near the Meter.  
+1. Please make sure that a hub product is installed near the Meter. 
 2. In the SwitchBot app, go to Meter, scroll down on the graph screen, and press the "Store data to cloud" button to connect the device to the cloud. If you don't see the button, delete and re-add the device.
 3. Relink with Amazon Alexa.  
 4. When checking the humidity, please activate the custom skill for Amazon Alexa.
