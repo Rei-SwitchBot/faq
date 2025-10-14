@@ -327,6 +327,30 @@ If the QR code on the Plug Mini EU device is missing, you need to download the S
 [https://support.switch-bot.com/hc/en-us/articles/34536390883607-SwitchBot-Plug-Mini-EU-Matter-Setup-Video-iOS](https://support.switch-bot.com/hc/en-us/articles/34536390883607-SwitchBot-Plug-Mini-EU-Matter-Setup-Video-iOS)
 
 
+---
+### How to Add SwitchBot Plug Mini EU to Home Assistant via Cloud
+
+1. Go to SwitchBot App -> Profile -> Preferences -> About -> App Version.
+2. Tap the app version (e.g. V9.17) 5-15 times to reveal "Developer Options".
+3. Get the token and secret key from "Developer Options".
+4. Follow the video below to add your Plug Mini EU to Home Assistant.
+Video: [https://www.youtube.com/watch?v=-2vFiaGn1VQ](https://www.youtube.com/watch?v=-2vFiaGn1VQ)
+
+
+---
+### How to Add SwitchBot Plug Mini EU to Home Assistant via Bluetooth
+
+1. Check the last four digits of the BLE MAC address by navigating to SwitchBot App -> Plug Mini EU -> Gear Icon -> Device Info.
+2. Follow the video below to add your Plug Mini EU to Home Assistant.
+Video: [https://www.youtube.com/watch?v=2lfIbQkeExs](https://www.youtube.com/watch?v=2lfIbQkeExs)
+
+
+
+
+
+
+
+
 
 
 
