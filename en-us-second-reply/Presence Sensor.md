@@ -144,6 +144,61 @@ SwitchBot Presence Sensor can detect brightness up to 1000 lux, and the illumina
 <img width="1011" height="416" alt="image" src="https://github.com/user-attachments/assets/efd1f5d6-d012-4520-9740-1be7ee6d897e" />
 
 
+---
+### When Should I Use the Auto-Adjust Detection Sensitivity Function of SwitchBot Presence Sensor?
+
+The "Auto-Adjust Detection Sensitivity" feature in the Presence Sensor works by having the device record energy variations across different distances within its detection range. Based on these readings, it automatically sets an appropriate detection threshold. When a person enters the area, the energy level at the corresponding distance increases. If it exceeds the set threshold, the sensor will recognize this as motion detection (space-occupied).
+If you change the installation location of the sensor or rearrange the room layout, we recommend running the "Auto-Adjust Detection Sensitivity" feature again. This allows the sensor to recalibrate and adapt to the new environment, ensuring it continues to work accurately.
+You can use this feature by going to SwitchBot app → Presence Sensor → Gear icon → Detection Sensitivity → Auto Adjust.
+
+
+---
+### Troubleshooting the Automation of Turning off the Lights When SwitchBot Presence Sensor Is Space-Unoccupied Triggers Very Slowly
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+1. Screenshot of the automation settings screen
+2. Screenshot of the execution history (way to check the automation logs: SwitchBot App -> "Automation" at the bottom of the home screen -> "..." in the upper right corner -> automation logs)
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### SwitchBot Presence Sensor Amazon Alexa Setup Guide
+
+1. If you want to use your Presence Sensor on the Amazon Alexa app, you will need to buy our hub product and add both devices to the SwitchBot app.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+3. Please refer to the content below to link SwitchBot with Alexa.[
+https://support.switch-bot.com/hc/en-us/articles/35590018658839-SwitchBot-Presence-Sensor-Amazon-Alexa-Setup-Guide](https://support.switch-bot.com/hc/en-us/articles/35590018658839-SwitchBot-Presence-Sensor-Amazon-Alexa-Setup-Guide)
+4. Once the setup is finished, the Presence Sensor can be used with Amazon's routines.
+
+
+---
+### SwitchBot Presence Sensor Google Home Setup Guide
+
+1. If you want to use your Presence Sensor on the Google Home app, you will need to buy our hub product and add both devices to the SwitchBot app.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+3. Please refer to the content below to link SwitchBot with Google.
+[https://support.switch-bot.com/hc/en-us/articles/35590212941847-SwitchBot-Presence-Sensor-Google-Home-Setup-Guide](https://support.switch-bot.com/hc/en-us/articles/35590212941847-SwitchBot-Presence-Sensor-Google-Home-Setup-Guide)
+4. Due to restrictions on the Google Home app, smart home devices cannot be set as conditions for automation. Therefore, we cannot use Presence Sensor to trigger other devices in Google automation. For more information, we recommend consulting directly with Google.
+
+
+---
+### Why Doesn't SwitchBot Presence Sensor Appear as a Condition When Creating Automations in Google Home?
+
+Due to restrictions on the Google Home app, smart home devices cannot be set as conditions for automation. Therefore, we cannot use the Presence Sensor to trigger other devices in Google automation. For more information, we recommend consulting directly with Google.
+
+
+---
+### Is It Possible To Use Alexa Voice To Check if There Is Anyone within the Detection Range of SwitchBot Presence Sensor?
+
+Due to restrictions on the Amazon Alexa side, the Presence Sensor is recognized as a motion sensor, and it is not possible to check via voice whether someone is present in the detection range. We apologize for any inconvenience caused and recommend consulting directly with Alexa.
+Reference: [https://developer.amazon.com/en-US/docs/alexa/device-apis/alexa-motionsensor.html](https://developer.amazon.com/en-US/docs/alexa/device-apis/alexa-motionsensor.html)
+
+
+
+
 
 
 
