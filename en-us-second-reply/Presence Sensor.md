@@ -204,7 +204,28 @@ Due to restrictions on the Amazon Alexa side, the Presence Sensor is recognized 
 Reference: [https://developer.amazon.com/en-US/docs/alexa/device-apis/alexa-motionsensor.html](https://developer.amazon.com/en-US/docs/alexa/device-apis/alexa-motionsensor.html)
 
 
+---
+### Can SwitchBot Presence Sensor Detect a Person Who Is Completely Still?
 
+Under appropriate installation conditions, within a range of 5 meters, the Presence Sensor can detect the chest movement associated with the heartbeat of a person who is standing still or sitting quietly, enabling it to determine "space-occupied" status.
+
+
+---
+### How to Use SwitchBot Presence Sensor's Local Linkage Feature to Trigger Other SwitchBot Devices without Using a Hub
+
+You can use the local linkage function with the Presence Sensor to press Bot or turn on/off the Color Bulb through Bluetooth connection without using SwitchBot hub. We will walk you through the setup process.
+Launch SwitchBot app and log in.  
+Tap the Presence Sensor.  
+Tap "Automation" located at the bottom of the control screen.  
+Tap "Local Linkage".
+Tap "Add Automation"  
+Tap "Add Condition" and set one of the following as a condition: space occupied, space unoccupied, or ambient brightness level. 
+Tap "Add Action" and add the device to be triggered.  
+
+Note:
+Up to 2 local linkages can be created.
+Each local linkage can be configured for only one device, multiple device triggers are not supported.
+Please make sure that both devices are placed within Bluetooth range when using the local linkage feature of the Presence Sensor.
 
 
 
