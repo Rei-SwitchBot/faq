@@ -335,9 +335,52 @@ Regarding this issue, to ensure security and that the settings take effect prope
 We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
+---
+### How to Install the Magnet of SwitchBot Lock Ultra
+
+1. The detectable parts of the magnet are located on both sides. When installing the Lock Ultra vertically, refer to the diagram below for the correct installation distance. Attach the side of the magnet with the grey marking or opposite side to the door frame, facing the Lock Ultra dial knob.
+
+<img width="566" height="701" alt="image" src="https://github.com/user-attachments/assets/413e52c6-ce71-4ce6-8708-d0994bbf5f74" />
+
+2. The side with double-sided tape and the opposite side are undetectable. If either of these sides faces the Lock Ultra, it may not accurately recognize if the door is open or closed. Depending on your environment, you can attach spare tape to the magnet's side and install it on surfaces like a door frame.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/17b8ebc0-ccf5-43ca-87ed-2300a46cf2c5" />
+
+3. If installing the Lock Ultra main unit horizontally, please position the magnet facing the dial knob and secure it in place.
+
+<img width="814" height="561" alt="image" src="https://github.com/user-attachments/assets/ee70a611-ce05-4344-9053-0d904a0a1113" />
 
 
+---
+### How to Lock and Unlock SwitchBot Lock Ultra via Hey Siri
 
+Create a shortcut to lock the Lock Ultra.
+1. Voice control for Lock Ultra requires our hub product. When the hub is placed near Lock Ultra (within Bluetooth range), Lock Ultra will automatically connect to it.
+2. Please create Siri shortcuts in the following order:
+- Launch SwitchBot App and log in.
+- Tap Lock Ultra.
+- Tap the gear icon in the upper right corner.
+- Tap Third-party service on the settings screen.
+- Tap Siri Shortcuts.
+- Tap "Add Shortcut".
+- Choose the relevant Lock Ultra.
+- Record the locking phrase.
+
+Notes:
+- If phrases are not recognized correctly in the recording, it is recommended to enter them manually.
+- You can edit or remove the shortcut at the same place.
+- Unlocking the Lock Ultra by shortcuts is not supported.
+
+Sync Lock Ultra as a sub-device to Apple Home, use "Hey Siri" to operate:
+1. Please refer to the link below for this method, which requires a Matter-compatible hub product. With this method, you can lock and unlock the Lock product using "Hey Siri".
+[https://support.switch-bot.com/hc/en-us/articles/7909829940503](https://support.switch-bot.com/hc/en-us/articles/7909829940503-How-to-Add-SwitchBot-Lock-Products-with-the-Apple-Home-App-Using-SwitchBot-Hub-2-Hub-Mini-Matter-Enabled)
+Matter-compatible hub: Hub 2, Hub Mini Matter Enabled, Hub 3
+
+
+---
+### How Many SwitchBot Remotes Can Be Registered on a SwitchBot Lock Ultra?
+
+For security purposes, one SwitchBot Lock Ultra can register a maximum of three SwitchBot Remotes. However, for other SwitchBot devices that are compatible with SwitchBot Remotes, there is no restriction on the number of SwitchBot Remotes that can be utilized.
 
 
 
