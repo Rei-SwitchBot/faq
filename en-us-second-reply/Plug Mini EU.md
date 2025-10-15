@@ -345,7 +345,12 @@ Video: [https://www.youtube.com/watch?v=-2vFiaGn1VQ](https://www.youtube.com/wat
 Video: [https://www.youtube.com/watch?v=2lfIbQkeExs](https://www.youtube.com/watch?v=2lfIbQkeExs)
 
 
+---
+### Why Is There Still a Weak Current in SwitchBot Plug Mini EU After Turning off Power?
 
+After the Plug Mini EU power is turned off, the device will not shut down completely but will enter standby mode, maintaining a weak electric current. In this mode, the Plug Mini EU acts as a lightweigh gateway for remote confirmation and control of SwitchBot Bluetooth devices connected to it. If you disconnect power supply completely (e.g., during a power outage), the gateway function of the Plug Mini EU will be disabled, preventing remote control of Bluetooth devices through the SwitchBot app.
+We are sorry for any inconvenience caused and appreciate your understanding.
+[https://support.switch-bot.com/hc/en-us/articles/34535932018839-What-Is-the-Standby-Power-Consumption-of-SwitchBot-Plug-Mini-EU-Itself](https://support.switch-bot.com/hc/en-us/articles/34535932018839-What-Is-the-Standby-Power-Consumption-of-SwitchBot-Plug-Mini-EU-Itself)
 
 
 
