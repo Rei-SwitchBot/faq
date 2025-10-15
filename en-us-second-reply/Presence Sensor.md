@@ -14,12 +14,16 @@ Please do not use the Presence Sensor outdoors or on balconies as air flow, glas
 ### Can I Install SwitchBot Presence Sensor in My Bathroom?
 
 The Presence Sensor can be installed and used in toilets or bathrooms. Normally, even if some water splashes and droplets land on the Presence Sensor, it will not affect the device. However, please do not submerge the device in water.
+Note:
+The Presence Sensor is not equipped with a camera lens and microphone, so it will not capture images, record sound, or take videos. There is no need to worry about privacy from this perspective.
 
 
 ---
 ### How Long Can SwitchBot Presence Sensor Batteries Last?
 
-If the Presence Sensor detects motion 100 times a day, its two AAA batteries will last approximately two years.
+If the Presence Sensor detects movement 10 times a day, with each detection lasting 30 minutes, its two AAA batteries will last approximately two years.
+Note:
+The above estimates are based on SwitchBot laboratory test conditions and may differ depending on actual usage environments.
 
 
 ---
@@ -32,6 +36,9 @@ Due to unstable voltage, please do not use rechargeable batteries with the Prese
 ### Can SwitchBot Presence Sensor Be Used without a Hub?
 
 If you want to use the Presence Sensor to trigger other devices with SwitchBot automation, you will need to purchase one of our hub products. However, even without a hub, you can still connect directly to devices like Bots, Curtains, and Color Bulbs using Bluetooth communication. Feel free to use the Presence Sensor as needed.
+Note:
+Up to 2 local linkages can be created.
+Each local linkage can be configured for only one device, multiple device triggers are not supported.
 
 
 ---
@@ -118,7 +125,7 @@ The above estimates are based on SwitchBot laboratory test conditions and may di
 ---
 ### Will the Cats and Dogs at Home Affect the Detection of SwitchBot Presence Sensor?
 
-Dogs and cats, which have body temperatures similar to humans, may trigger motion detection by the Presence Sensor when they run around the house, causing it to determine its status as "space-occupied". To avoid such situations, we recommend installing the Presence Sensor upside down.
+Dogs and cats, which have body temperatures similar to humans, may trigger motion detection by the Presence Sensor when they run around the house, causing it to determine its status as "space-occupied". To avoid such situations, we recommend installing the Presence Sensor upside down (with the pairing button facing downwards as shown in the diagram).
 
 <img width="768" height="534" alt="image" src="https://github.com/user-attachments/assets/a5e1f4de-8d55-41fc-b63a-6978b3894894" />
 
