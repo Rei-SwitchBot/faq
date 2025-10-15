@@ -2374,7 +2374,7 @@ If you remove and re-add the S10 to your account, any maps you've created will s
 ---
 ### Is It Possible to Copy or Transfer the Map Created by SwitchBot Floor Cleaning Robot S10?
 
-We regret to inform you that copying the created map by S10 is not currently supported. 
+We regret to inform you that maps created by the S10 cannot be transferred to other robots. If you purchase a new robot or have your S10 repaired, you will need to remap. We apologize for any inconvenience this may cause.
 
 ---
 ### Why Does SwitchBot Floor Cleaning Robot S10 Make a Sound Every Ten Minutes While Drying the Roller Mop?
