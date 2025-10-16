@@ -150,6 +150,7 @@ Regarding this issue, could you please check the following points?
 3. Use an alcohol swab to clean the surface before installation. 
 4. When attaching Lock Ultra, firmly press down the entire length of the double-sided tape onto the door.
 5. Hold Lock Ultra in place for one minute after applying the tape.
+6. Please use the spare double-sided tape included in the package that is suitable for high temperatures. Before replacing the double-sided tape, please clean off any old double-sided tape remaining on the main body of the Lock Ultra.
 
 
 ---
