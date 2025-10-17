@@ -53,6 +53,9 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
+Removing the motor unit: [https://drive.google.com/file/d/1UimL_RbpErIQoouNX-4nHVvgo_GkDMus/view?usp=sharing](https://drive.google.com/file/d/1UimL_RbpErIQoouNX-4nHVvgo_GkDMus/view)
+Installing the new motor unit: [https://drive.google.com/file/d/1KbD9m8wo0KbM0WB2vt1gTn3oRFQi1bqH/view?usp=sharing](https://drive.google.com/file/d/1KbD9m8wo0KbM0WB2vt1gTn3oRFQi1bqH/view)
+
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
@@ -78,6 +81,7 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
