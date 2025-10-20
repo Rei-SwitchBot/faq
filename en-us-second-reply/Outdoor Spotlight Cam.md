@@ -824,6 +824,19 @@ Note:
 In SwitchBot App, tap Outdoor Spotlight Cam 2K, you can also toggle "Night Vision" On/Off under "Features" at the bottom of the screen.  
 
 
+---
+### How to Enable and Disable Night Vision for SwitchBot Outdoor Spotlight Cam
+
+Please follow the steps below to configure the night vision settings:  
+Launch SwitchBot app and log in.  
+Tap the Outdoor Spotlight Cam.  
+Tap the gear icon.  
+In the settings screen, tap "Basic Settings".  
+Tap "Night Vision" and set it to on, off or auto.  
+On the same screen, you can set the image to either "color" or "black and white".  
+
+Note:  
+In SwitchBot App, tap Outdoor Spotlight Cam, you can also toggle "Night Vision" On/Off under "Features" at the bottom of the screen.
 
 
 
