@@ -2465,7 +2465,7 @@ About this issue, please check the following to troubleshoot:
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Collect Trash Automatically
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Collect Trash Automatically After Returning to the Auto-empty Station
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding the issue of the robot not automatically emptying the dustbin, could you please check the following points?
