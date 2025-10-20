@@ -2711,10 +2711,11 @@ Max Mode: 80min
 
 Note: The data above was tested in a laboratory environment. The actual operating time may have a 10% margin of error.
 
+
 ---
 ### Can SwitchBot Floor Cleaning Robot S10 Clean Under the Sofa?
 
-The S10 robot stands at approximately 125 mm tall, including its laser sensor. This compact height allows it to clean under sofas, cabinets, and beds—anywhere it can fit, it can clean.
+Including the height of the laser sensor, the overall height of the S10 robot is approximately 115mm. However, to ensure more stable cleaning performance, please use it to clean under furniture, such as sofas, with a clearance of at least 130mm from the floor.
 
 ![image](https://github.com/user-attachments/assets/9f064b20-3e98-4756-ac24-7740aba76077)
 
