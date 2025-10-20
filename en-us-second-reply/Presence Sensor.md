@@ -228,6 +228,41 @@ Each local linkage can be configured for only one device, multiple device trigge
 Please make sure that both devices are placed within Bluetooth range when using the local linkage feature of the Presence Sensor.
 
 
+---
+### Troubleshooting I Have Already Left the Detection Range of SwitchBot Presence Sensor, but It Still Shows "Space-Occupied" And Cannot Switch to "Space-Unoccupied".
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photos showing the device's installation location  
+- Photos showing the device's operating environment  
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### What Is the Radar Frequency Band Used by SwitchBot Presence Sensor?
+
+SwitchBot Presence Sensor uses 60GHz radar.
+
+
+---
+### What Is the Detection Range of SwitchBot Presence Sensor?
+
+The detection angle of the Presence Sensor is 120 degrees, with a maximum detection range of up to 8 meters.
+
+<img width="786" height="790" alt="image" src="https://github.com/user-attachments/assets/b7de691f-3610-42aa-90e5-0fce339f1e2d" />
+
+
+---
+### Can I Use My Motion Sensor Base to SwitchBot Presence Sensor?
+
+The mounting holes on the base and main unit of the Presence Sensor are oval-shaped. If the motion sensor you have is an older version with a round-shaped base, it will not be compatible with the Presence Sensor. However, the latest motion sensors have oval-shaped bases and mounting holes for compatibility. Please check compatibility based on the shape.  
+The diagram below shows the oval-shaped design of the Presence Sensor.
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/49caf537-9ef0-4bbd-80ff-0acbeff681f2" />
+
+
 
 
 
