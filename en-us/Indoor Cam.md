@@ -1475,7 +1475,14 @@ Regarding the firmware update issue, could you please check the following points
 3. Remove the camera from the app and add it again.
 
 
+---
+### Troubleshooting When Trying to Purchase Cloud Storage for SwitchBot Indoor Cam, It Always Shows Out of Stock and Cannot Be Purchased.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will escalate your concern to our R&D team team for further handling.
+Once the restocking is complete, our team will get back to you as soon as possible.
+We truly understand the urgency of your situation and appreciate your patience as we work to resolve this for you.
+If you have any other questions, please do not hesitate to contact us.
 
 
 
