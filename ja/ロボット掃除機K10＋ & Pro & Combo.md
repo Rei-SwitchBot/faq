@@ -2670,6 +2670,7 @@ https://support.switch-bot.com/hc/ja/articles/18360936312727
 3．ダストパックを装着しても赤ランプが消えない場合、下記動画のようにダストパックを少し右側に位置調整をお願いいたします。
 動画：[https://youtu.be/y13cJRifAw8](https://www.youtube.com/watch?v=y13cJRifAw8)
 4．充電ステーションの電源を入れ直してください。
+5．SwitchBotアプリ→ロボット掃除機K10+→操作画面の「ゴミを収集」をタップしてゴミ収集するか確認してください。
 
 
 ---
