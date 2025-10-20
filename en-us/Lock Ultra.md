@@ -319,7 +319,31 @@ SwitchBot App -> Lock Ultra -> gear icon -> recalibrate
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting When Setting Two Lock Ultra Units to Dual-Lock, It Failed to Start and Couldn't Be Configured.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
+2. Delete the Lock Ultra from the SwitchBot app and add it again.
+
+
+---
+### Troubleshooting Unable to Connect SwitchBot Lock Ultra via Bluetooth Using the App Even Standing Next to the Door
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
+2. Delete the Lock Ultra from the SwitchBot app and add it again.
+
+
+---
+### Troubleshooting SwitchBot Lock Ultra Frequently Disconnects From the Hub, Making It Impossible to Unlock or Lock Remotely.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
+2. Delete the Lock Ultra from the SwitchBot app and add it again.
 
 
 
