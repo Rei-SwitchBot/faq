@@ -413,9 +413,35 @@ If  you wish to obtain this special thumbturn holder, please provide us with the
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting When Setting Two Lock Ultra Units to Dual-Lock, It Failed to Start and Couldn't Be Configured.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video demonstrating not being able to configure dual-lock
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Unable to Connect SwitchBot Lock Ultra via Bluetooth Using the App Even Standing Next to the Door
 
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing not being able to operate from the SwitchBot app even near the device
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Lock Ultra Frequently Disconnects From the Hub, Making It Impossible to Unlock or Lock Remotely.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing the Bluetooth connection status by going to SwitchBot App -> Profile -> Manage Hub -> the relevant Hub.
 
 
 
