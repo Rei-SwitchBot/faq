@@ -594,6 +594,21 @@ Important Note:
 - For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
 
 
+---
+### How do I check the temperature and humidity with SwitchBot Hub Mini Matter Enabled?
+
+You can check the temperature and humidity with SwitchBot Hub Mini Matter Enabled by using Hub 2's charging cable. Currently, this cable is not sold separately, but we are happy to provide it for free. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request it, please contact us and we'll provide a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
 
 
