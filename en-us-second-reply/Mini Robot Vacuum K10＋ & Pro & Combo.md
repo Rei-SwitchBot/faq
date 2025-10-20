@@ -81,7 +81,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Collect Trash Automatically
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Collect Trash Automatically After Returning to the Auto-empty Station
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -961,7 +961,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Pro Pro Does Not Collect Trash Automatically
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Pro Pro Does Not Collect Trash Automatically After Returning to the Auto-empty Station
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -2126,6 +2126,7 @@ Yes, you can add your K10+ Pro to the widget.
 For more information on SwitchBot devices supported by the widget, please click the link below.
 [https://support.switch-bot.com/hc/en-us/articles/360037747254](https://support.switch-bot.com/hc/en-us/articles/360037747254-How-to-Add-SwitchBot-Devices-and-Scenes-to-Android-Widget)
 [https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
+
 
 
 
