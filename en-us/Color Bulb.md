@@ -703,7 +703,6 @@ If it doesn't rectify your issue, please contact us and provide us with the foll
 Video of your SwitchBot Color Bulb Flashing
 
 
-
 ---
 ### Why can't my Color Bulb connect to the Wi-Fi successfully?
 
@@ -714,10 +713,33 @@ to the Wi-Fi, please log in to your Wi-Fi router's settings page, edit the name 
 band so that it is different from the 2.4GHz band.
 
 
-
 ---
 ### Troubleshooting Unable to Control Grouped SwitchBot Color Bulbs in Home App
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 We regret to inform you that when operating grouped color bulbs in the Apple Home app, only one bulb will respond. This occurs because the Apple Home app does not currently support simultaneous control of grouped color bulbs. 
 We apologize for the unavailability of this feature at the moment, and we understand that it may not meet your expectations. We have forwarded this feedback to our product team, and we hope to have support for this function in the future. Thank you for your understanding and patience.
+
+
+---
+### Troubleshooting Black Spots Appeared on SwitchBot Color Bulb
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a picture showing the issue?
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
