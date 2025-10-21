@@ -230,6 +230,13 @@ Important Note:
 [https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807)
 
 
+---
+### After Turning on the Weather Data for Hub 3, What Do the Two Displayed Temperatures Represent?
+
+When you enable the weather data for Hub 3, two temperatures will be displayed on both the Hub 3 device itself and the displayed info screen in the SwitchBot app. These are the highest and lowest temperatures recorded at the current location by Hub 3.  
+You can check the current location settings by going to SwitchBot app → Profile → Manage Home → Select the home where Hub 3 is located. 
+
+<img width="748" height="1239" alt="image" src="https://github.com/user-attachments/assets/2144dddd-5440-4ae4-b50f-d2530500a4fa" />
 
 
 
