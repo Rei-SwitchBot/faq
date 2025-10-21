@@ -85,20 +85,10 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
-We would like to arrange a sunshade bracket for the issue you reported. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+To better assist you, we would appreciate it if you could share the following information:
+- Photos to confirm the installation locations of Keypad Vision
 
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
@@ -185,6 +175,7 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
