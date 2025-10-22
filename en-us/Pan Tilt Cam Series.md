@@ -3415,7 +3415,25 @@ We truly understand the urgency of your situation and appreciate your patience a
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting Cloud Storage Plan for More Than 10 SwitchBot Pan Tilt Cam Plus 3Ks
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+If you wish to subscribe to a cloud storage plan that supports more than 10 devices, our relevant department will contact you again later. To better assist you, could you let us know which of the following devices you are referring to?
+- Pan Tilt Cam Plus 3K
+- Pan Tilt Cam Plus 2K
+
+Important Note:
+The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+If you have any other questions, please do not hesitate to contact us.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
