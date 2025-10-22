@@ -964,6 +964,50 @@ Setup
 6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
 
 
+---
+### Lengths of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S20
+
+The water inlet hose and drain hose for the S20 are both 2.5 meters long.
+
+
+---
+### Diameters of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S20
+
+The water inlet hose and drain hose for the S20 both have an inner diameter of 4mm and an outer diameter of 6mm.
+
+
+---
+### Can the auto-refill function of SwitchBot Evaporative Humidifier (Auto-refill) be used when cleaning the floor with a cleaning solution using SwitchBot Floor Cleaning Robot S20?
+
+Once SwitchBot Evaporative Humidifier (Auto-refill) is connected to the S20, you can use the S20 to automatically supply water to the humidifier.
+When using the base station:
+If cleaning solution has been added to the S20 fresh water tank, do not use the automatic water supply function of the humidifier. After completely using up the water containing the cleaning solution, refill the tank with fresh water and supply it to the Plus evaporative humidifier.
+
+When using the water station:
+Since the S20 main unit and the water station use the same water supply tube, do not use the Evaporative Humidifier's auto-refill function when the water station is filled with cleaning solution. A small amount of cleaning solution may stick to the water supply tube, and during humidifier operation, this cleaning solution could mix in and be released into the air.
+If you have already added cleaning solution to the S20 water station, please disable the auto-add solution feature in the SwitchBot App. Then, vacuum and mop your floor once. You can use the auto-refill function safely after using all of the cleaning solutions mixed with clean water.
+Way to disable the auto-add solution:
+SwitchBot App -> Floor Cleaning Robot S20 -> Gear icon -> Maintenance -> disable the Auto-add Solution
+
+
+---
+### How Do I Add the Cleaning Solution to SwitchBot Floor Cleaning Robot S20?
+
+When using the base station:
+Please pour the cleaning solution directly into the fresh water tank.
+
+When using the water station:
+Open the rubber seal of the cleaning solution inlet on the Water Station.
+Pour the SwitchBot Floor Cleaning Solution inside, and tighten the seal.
+
+Note:
+1. Do not add any non-official cleaning solution or disinfectants to the Water Station.
+2. Enable the auto-add solution function by Navigating SwitchBot App -> Functions -> Settings -> Maintenance -> auto-add solution.
+
+<img width="686" height="690" alt="image" src="https://github.com/user-attachments/assets/b34d6e0e-57a3-4013-bde7-c1980c903a03" />
+
+
+
 
 
 
