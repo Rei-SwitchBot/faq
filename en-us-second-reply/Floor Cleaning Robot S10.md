@@ -897,6 +897,61 @@ We will forward your feedback to our R&D team for further investigation, and wou
 Currently, it is not possible to delete individual rooms from a map created by the S10 using the map editing feature. If needed, please utilize remapping, as well as area merging and splitting functions.
 
 
+---
+### How Do I Pour out the Cleaning Solution in SwitchBot Floor Cleaning Robot S10's Water Station?
+
+If you need to send the water station for reasons such as repair or replacement, there is no need to discard the cleaning solution already inside. Simply ensure that the inlet lid is securely closed, and that will suffice. We appreciate your cooperation.
+
+
+---
+### How Do I Pour out the Water in SwitchBot Floor Cleaning Robot S10's Water Station?
+
+If you need to send the water station for reasons such as repair or replacement, thoroughly shake both the water supply hose and the drainage hose to ensure no water drips from the pipes when lifting the water station.
+
+
+---
+### SwitchBot Floor Cleaning Robot S10 Matter Setup (Android)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Floor Cleaning Robot S10
+- Android Phone
+- Google Nest Hub 47.9.4 or newer
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your smartphone, Google Nest Hub, and Floor Cleaning Robot S10) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your S10 -> Gear Icon (Settings screen) ->Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
+
+
+---
+### SwitchBot Floor Cleaning Robot S10 Matter Setup (iOS)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Floor Cleaning Robot S10
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding
+home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+[https://support.apple.com/en-hk/102557](https://support.apple.com/en-hk/102557)
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Floor Cleaning Robot S10) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Floor Cleaning Robot S10 -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+
+
+
+
+
+
+
 
 
 
