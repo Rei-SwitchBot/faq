@@ -951,12 +951,6 @@ When it comes to charging, the S20 operates at about 29W. A full charge takes ro
 ---
 ### Pressure Resistance of the Drainage hose for SwitchBot Floor Cleaning Robot S20
 
-Last Updated：
-
-2024 Apr 23
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
 The drainage pipe of the S20 has a burst pressure resistance of 2.5Mpa and an operating pressure of 0.8Mpa.
 
 
