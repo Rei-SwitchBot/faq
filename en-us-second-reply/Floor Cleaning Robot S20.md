@@ -1007,6 +1007,10 @@ Note:
 <img width="686" height="690" alt="image" src="https://github.com/user-attachments/assets/b34d6e0e-57a3-4013-bde7-c1980c903a03" />
 
 
+---
+### Can I Schedule a Designated Room Cleaning for the SwitchBot Floor Cleaning Robot S20 within the Scene and Automation?
+
+Starting from SwitchBot app V9.14, you can possible to set up specified room cleaning for the S20 robot as an action in Scenes and Automations. Please update to the latest version of the SwitchBot app to access this feature.
 
 
 
