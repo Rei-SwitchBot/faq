@@ -1,19 +1,11 @@
 ---
 
-## Lock & Lock Pro
+## Lock Pro
 
 ---
 
 ---
-### Troubleshooting It Takes a While to Activate SwitchBot Lock From Home Assistant App
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, we will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
-If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-
----
-### Troubleshooting SwitchBot Lock Gets Jammed Frequently
+### Troubleshooting SwitchBot Lock Pro Gets Jammed Frequently
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -38,7 +30,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting Can't Connect SwitchBot Lock to the Hub
+### Troubleshooting Can't Connect SwitchBot Lock Pro to the Hub
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -49,7 +41,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting SwitchBot Lock Automatically Locks Itself Even When the Door Is Opened.
+### Troubleshooting SwitchBot Lock Pro Automatically Locks Itself Even When the Door Is Opened.
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -73,7 +65,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### What to do If I Want to Purchase the Adhesive Tape for SwitchBot Lock?
+### What to do If I Want to Purchase the Adhesive Tape for SwitchBot Lock Pro?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, we regret to inform you that the adhesive tape for Lock is not currently sold separately. However, we can provide the parts free of charge if you cover the shipping costs.
@@ -95,7 +87,7 @@ If this is okay for you, please provide us with the necessary details so we can 
 
 
 ---
-### Troubleshooting Unable to Lock and Unlock SwitchBot Lock
+### Troubleshooting Unable to Lock and Unlock SwitchBot Lock Pro
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -129,7 +121,7 @@ If you have any other questions, please do not hesitate to contact us.
 
 
 ---
-### Troubleshooting Suddenly Stopped Receiving Notifications from SwitchBot Lock
+### Troubleshooting Suddenly Stopped Receiving Notifications from SwitchBot Lock Pro
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -148,7 +140,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting After Inserting Two CR123A 3V Batteries, SwitchBot Lock Is Not Powering On
+### Troubleshooting After Inserting Two CR123A 3V Batteries, SwitchBot Lock Pro Is Not Powering On
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -172,7 +164,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting After Removing the Four Screws, Still Impossible to Remove the Metal Bracket From SwitchBot Lock Body.
+### Troubleshooting After Removing the Four Screws, Still Impossible to Remove the Metal Bracket From SwitchBot Lock Pro Body.
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -193,7 +185,7 @@ If the replacement service is needed, to expedite shipment, please provide us wi
 
 
 ---
-### Troubleshooting SwitchBot Lock Makes a Motor Sound But Gets Stuck Midway When Locking or Unlocking
+### Troubleshooting SwitchBot Lock Pro Makes a Motor Sound But Gets Stuck Midway When Locking or Unlocking
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -217,7 +209,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting Can't Finish the Recalibration of SwitchBot Lock Due to Error
+### Troubleshooting Can't Finish the Recalibration of SwitchBot Lock Pro Due to Error
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -241,14 +233,14 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting Unable to Add SwitchBot Lock to the App Due to an "Device Initialization is Abnormal" Error
+### Troubleshooting Unable to Add SwitchBot Lock Pro to the App Due to an "Device Initialization is Abnormal" Error
 
 We will unbind the device for you.
 
 
 
 ---
-### Troubleshooting the Screw of SwitchBot Lock Base Adaptor Slips and Won’t Unscrew
+### Troubleshooting the Screw of SwitchBot Lock Pro Base Adaptor Slips and Won’t Unscrew
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -270,7 +262,7 @@ If the replacement service is needed, to expedite shipment, please provide us wi
 
 
 ---
-### Troubleshooting Can't Update SwitchBot Lock Firmware
+### Troubleshooting Can't Update SwitchBot Lock Pro Firmware
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -279,7 +271,7 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 
 ---
-### Troubleshooting the Double-Sided Tape for Attaching SwitchBot Lock to the Front Door Has Come Off.
+### Troubleshooting the Double-Sided Tape for Attaching SwitchBot Lock Pro to the Front Door Has Come Off.
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -302,7 +294,7 @@ We would like to arrange a new double-sided tape for you to help solve the issue
 
 
 ---
-### Troubleshooting SwitchBot Lock Unlocked Itself
+### Troubleshooting SwitchBot Lock Pro Unlocked Itself
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -314,7 +306,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting SwitchBot Lock Unlocked Itself
+### Troubleshooting SwitchBot Lock Pro Unlocked Itself
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -335,7 +327,7 @@ After investigation, it seems like that the product has malfunctioned. We will p
 
 
 ---
-### Troubleshooting Unusually Fast Battery Drain in SwitchBot Lock 
+### Troubleshooting Unusually Fast Battery Drain in SwitchBot Lock Pro 
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -360,7 +352,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting SwitchBot Lock Auto-Lock Stops Working
+### Troubleshooting SwitchBot Lock Pro Auto-Lock Stops Working
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -386,7 +378,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting the Logs of Unlocking and Locking SwitchBot Lock Suddenly Stopped Updating
+### Troubleshooting the Logs of Unlocking and Locking SwitchBot Lock Pro Suddenly Stopped Updating
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -409,14 +401,14 @@ We apologize for any inconvenience caused.
 
 
 ---
-### What Is the Torque of SwitchBot Lock?
+### What Is the Torque of SwitchBot Lock Pro?
 
 The torque of the lock during normal operation is 4.0~4.5kgf.cm, and the torque when it is jammed is 9kgf.cm.
 
 
 
 ---
-### Where Can I Purchase the Mounting Plate for SwitchBot Lock?
+### Where Can I Purchase the Mounting Plate for SwitchBot Lock Pro?
 
 Thank you for the information.
 If you are willing to pay the shipping fee, our team will arrange a payment link for you based on the order and delivery address you provided. 
@@ -775,7 +767,7 @@ Note: To use the Lock with third-party services or automation functions, you mus
 
 
 ---
-### How to Lock SwitchBot Lock Using Siri Shortcuts?
+### How to Lock SwitchBot Lock Pro Using Siri Shortcuts?
 
 Create a shortcut to lock the Lock.
 1. Voice control for Lock requires our hub product. When the hub is placed near Lock (within Bluetooth range), Lock will automatically connect to it.
@@ -807,7 +799,7 @@ The emergency unlock feature can only be performed within the Bluetooth range of
 
 
 ---
-### Can One SwitchBot Lock Be Operated with Multiple Keypad Touchs?
+### Can One SwitchBot Lock Pro Be Operated with Multiple Keypad Touchs?
 
 Lock can only be operated using a single Keypad Touch.  
 Note:  
