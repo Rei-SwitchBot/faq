@@ -141,27 +141,14 @@ Regarding this issue, could you please check the following points?
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
-
 ---
 ### About LED Indicator Light on SwitchBot Floor Cleaning Robot S20 Water Station
 
-Last Updated：
-
-2024 Apr 22
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
 1. Before marking the water station for the first time, press and hold the bluetooth button on the side for 2 seconds. The indicator will flash white to show that the water station has been activated.
-
 2. When using the Type-C charging cable to charge the water station, the indicator will light up white. Once fully charged, the indicator will turn off.
-
 3. The indicator stays lit in white while the S20 is filling up with water at the water station and then goes out after fetching it.
-
 4. If there is an issue with the water station, the indicator will quickly flash white.
-
 5. There is a reset hole on the side of the water station. Press with the reset pin then the indicator will flash for three seconds to initialize the water station. To use the water station again, press and hold the Bluetooth button for 2 seconds to activate it.
-
 
 
 ---
@@ -298,29 +285,15 @@ Note:
 ---
 ### How to Check Water Station Battery Level of SwitchBot Floor Cleaning Robot S20
 
-Last Updated：
-
-2024 Apr 19
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
-SwitchBot App Version: 8.2 or newer
-
 1. Make sure your SwitchBot App version is up to date.
-
 2. Make sure SwitchBot Floor Cleaning Robot S20 has been added to your App.
-
-3. Please check the water station battery level in the following order.
-
-Launch SwitchBot App and login.
-
-Tap the relevant SwitchBot Floor Cleaning Robot S20.
-
-Tap the gear icon in the top right corner.
-
-Tap "Firmware & Battery" in Settings screen.
-
-Battery level of the robot S20 and water station can be checked.
+3. Please check the water  station battery level in the following order.
+- Launch SwitchBot App and login.
+- Tap the relevant SwitchBot Floor Cleaning Robot S20.
+- Tap the gear icon in the top right corner.
+- Tap "Firmware & Battery" in Settings screen.
+- Battery level of the robot S20 and water station can be checked.
+4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
@@ -902,12 +875,7 @@ Note: If multiple rooms are selected, a number will appear to indicate the order
 ---
 ### Is the Cleaning Solution for SwitchBot Floor Cleaning Robot S20 Pet Friendly?
 
-Last Updated: 2024 Sep 05
-
-Related Product: SwitchBot Floor Cleaning Robot S20
-
 The main ingredients of the Floor Cleaning Robot S20's cleaning fluid are deionized water and surfactants. It also contains a citrus fragrance (with a concentration lower than 0.0025% after dilution), which emits a mild, pleasant scent when used. These components are effective in cleaning and are harmless, containing no essential oils, and therefore will not cause any harm to pets. Thus, you can use our product with confidence.
-
 As an additional suggestion, we recommend that you only use the cleaning solution specified by SwitchBot official. It is not advisable to add any essential oils (such as pine oil) to the water, as this may damage the internal structure of the Floor Cleaning Robot S20, and many essential oils could be hazardous to your pet's respiratory and digestive systems.
 
 
@@ -2773,12 +2741,14 @@ Regarding the issue of not being able to add the S20 to the Home app directly vi
 
 3. Verify your S20 has stable internet connection with no network errors.
 
+
 ---
 ### Does SwitchBot Floor Cleaning Robot S20's Water Station Automatically Increase Water Pressure for Faster Drainage?
 
 No, the water station does not have an automatic pressure-boosting function during drainage.
 The water station is equipped with a built-in pump that directly draws wastewater from the robot's waste water tank and discharges it into your home's drainage pipe. While the drain hose can be installed with a maximum height difference of 2 meters, we recommend keeping it within 1 meter for the most reliable drainage performance.
 Laboratory tests show that the drainage system maintains an end-point water pressure of 35kPa. As long as the height does not exceed 2 meters, no additional pressurization equipment is needed, the system will work properly under normal conditions.
+
 
 ---
 ### What Is the Maximum Height at Which SwitchBot Floor Cleaning Robot S20 Sewage Pipe Can Be Installed?
