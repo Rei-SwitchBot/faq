@@ -3046,7 +3046,6 @@ For data security reasons, account authentication cannot be handled by our custo
 3. Try signing up with a different email address.
 4. If you have accounts with third-party services like Amazon or Google, please log in using the "sign in by a third-party account" option located below the login screen.  
 
-
 We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
