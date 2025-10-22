@@ -284,16 +284,16 @@ Before setting up devices using Matter, you will need the following:
 Setup
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Plug Mini EU has been added to your App and your device firmware version is up to date.
-3. Make sure all devices (your iPhone, Google Nest Hub, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
+3. Make sure all devices (your smartphone, Google Nest Hub, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
 Method 1 Add SwitchBot Plug Mini EU to Google Home with SwitchBot App
 4. Copy the setup code by going to Switch Bot App -> Your Plug Mini EU -> Gear Icon (Settings screen) ->Matter Setup.
 5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
 6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
-Video: [https://youtu.be/HqAHWrGWKrM](https://www.youtube.com/watch?v=HqAHWrGWKrM&feature=youtu.be)
+Video: [https://youtu.be/HqAHWrGWKrM](https://www.youtube.com/watch?v=HqAHWrGWKrM)
 
 Method 2 Add SwitchBot Plug Mini EU to Google Home without Using SwitchBot App
 7. You can also add your Plug Mini EU to Google Home without using SwitchBot App. Press and hold the Plug Mini EU power button for 15 seconds until the indicator flashes blue to enter pairing mode. Then, open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Scan the OR code located on the Plug Mini EU body to continue the whole process.
-Video: [https://youtu.be/NfH9n1XGY4w](https://www.youtube.com/watch?v=NfH9n1XGY4w&feature=youtu.be)
+Video: [https://youtu.be/NfH9n1XGY4w](https://www.youtube.com/watch?v=NfH9n1XGY4w)
 
 
 ---
