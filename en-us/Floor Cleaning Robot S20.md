@@ -191,15 +191,7 @@ Please do not add essential oils to the S20's water station, as it could cause c
 ---
 ### Can I Use Cleaning Solutions From Other Brands for SwitchBot Floor Cleaning Robot S20?
 
-Last Updated：
-
-2024 Apr 22
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
-No.
-
-Non-SwitchBot cleaning solutions should not be used as they may cause corrosion to the S20's water station. If needed, please buy the official SwitchBot cleaning solution from our website.
+No. Non-SwitchBot cleaning solutions should not be used as they may cause corrosion to the S20's water station and the robot itself. If needed, please buy the official SwitchBot cleaning solution from our website.
 
 
 
