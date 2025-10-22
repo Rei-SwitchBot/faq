@@ -935,6 +935,12 @@ Please do not install the water station of the S20 outdoors. Exposure to daily s
 When installing the water station and auto-empty station for the S20, it is recommended to maintain a distance of at least 1 meter between them. Failure to do so may result in signal interference leading to cleaning leaks.
 
 
+---
+### Can the Auto-Empty Station and Water Stations of SwitchBot Floor Cleaning Robot S20 Be Placed Side by Side?
+
+1. We recommend maintaining a distance of at least 4 meters when installing the auto-empty station next to the waste station.
+2. If the two stations are next to each other, their signals may interfere and cause issues for the S20 robot in returning to the auto-empty station or properly positioning at the water station.
+3. Also, please arrange the two stations away from direct sunlight to avoid potential returning issues with S20.
 
 
 
