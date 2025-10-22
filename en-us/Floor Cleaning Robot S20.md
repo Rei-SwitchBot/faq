@@ -1773,31 +1773,6 @@ Replacement services may incur a fee if the water hose is not naturally damaged.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
----
-### Troubleshooting Water Leakage on SwitchBot Floor Cleaning Robot S20 Water Station
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. When changing the water, some dripping may occur, which is normal. It is recommended to place a waterproof mat or diatomaceous earth mat in front of the water station.
-2. Make sure that the auto-drain and auto-fill ports on the water station are properly installed and are not damaged.
-
-![image](https://github.com/user-attachments/assets/a10bfe93-a617-405b-96b3-2468f91bb302)
-
-![image](https://github.com/user-attachments/assets/263a8df9-ba3a-4ea0-a664-d4c083456fff)
-
-3. Make sure the waste filter cover on the Water Station is securely closed.
-4. When setting up the water hose, make sure the gasket for leak prevention is correctly placed. 
-5. If you're using an external water tank, make sure the gasket is properly installed on the rear quick connector of the external water tank. Check that both the water inlet and outlet hoses have correct gaskets as shown in the video. Verify that the sewage tank and fresh water tank are correctly installed.
-
-https://www.youtube.com/watch?v=o5413fr7R2U
-
-![image](https://github.com/user-attachments/assets/b40e6aa9-f907-4c9c-a4d5-fdfbf9945ca1)
-
-6. Try lifting one side of the water station and checking if any water leaks from the opposite side.
-
-
-
 ---
 ### Troubleshooting The Water Station of SwitchBot Floor Cleaning Robot S20 Is Unresponsive and Cannot Be Activated.
 
