@@ -184,17 +184,7 @@ When the S20 robot's battery drops to
 ---
 ### Can I Add Essential Oils to the Water Station of SwitchBot Floor Cleaning Robot S20?
 
-Last Updated：
-
-2024 Apr 22
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
-Please
-
-do not
-
-add essential oils to the S20's water station, as it could cause corrosion and deformation in both the water station and drainage system. If needed, please buy the official SwitchBot cleaning solution from our website.
+Please do not add essential oils to the S20's water station, as it could cause corrosion and deformation in both the water station and drainage system. If needed, please buy the official SwitchBot cleaning solution from our website.
 
 
 
@@ -1503,24 +1493,12 @@ Related Post:
 ---
 ### Why Is There Water in the Water Station of My Newly Purchased SwitchBot Floor Cleaning Robot S20?
 
-Last Updated：
-
-2024 Apr 22
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
 It's normal to find a small amount of water in the water station of the S20, as the water circuit undergoes testing before factory shipment to ensure the water station functions properly. Please feel free to use your device.
 
 
 
 ---
 ### Will Warm Water Poured Into the Water Station of SwitchBot Floor Cleaning Robot S20 Deactivate the Cleaning Solution?
-
-Last Updated：
-
-2024 Apr 23
-
-Related Products: SwitchBot Floor Cleaning Robot S20
 
 The permissible temperature range for the water in the S20's drainage system is 0°C to 40°C. As long as the water temperature used is within the allowable range of 5°C to 40°C, the cleaning solution will not be deactivated.
 
@@ -2081,10 +2059,12 @@ https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=shari
 
 The water inlet hose and drain hose for the S20 both have an inner diameter of 4mm and an outer diameter of 6mm.
 
+
 ---
 ### Lengths of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S20
 
 The water inlet hose and drain hose for the S20 are both 2.5 meters long.
+
 
 ---
 ### Can the Waterpipe of the SwitchBot Floor Cleaning Robot S20 Be Extended?
@@ -2092,6 +2072,7 @@ The water inlet hose and drain hose for the S20 are both 2.5 meters long.
 The water pipe itself can be extended. There is no restriction on the extension of the fresh water hose, but in consideration of sewage efficiency, please limit the length of the sewage hose extension to 0.6 m to 1 m.
 The total length of the sewage hose, including the extension, should be 3 to 3.4 meters.
 However, we do not recommend the use of extended hoses, as there is a risk of leakage due to extension or inability to drain due to insufficient pressure.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Stays in the Same Spot and Won’t Move
@@ -2440,6 +2421,7 @@ When installing the water station and base station for the S20, it is recommende
 ![image](https://github.com/user-attachments/assets/e90193ce-1dad-44f1-b45d-be9c5d41d720)
 
 ![image](https://github.com/user-attachments/assets/08a1015f-1aee-4aa6-9beb-a93edbf33a6a)
+
 
 ---
 ### Does the SwitchBot Floor Cleaning Robot S20's Water System Have a Temperature Limit for Water Input?
