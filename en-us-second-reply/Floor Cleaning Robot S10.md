@@ -947,6 +947,10 @@ Setup
 6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
 
 
+---
+### Can I Schedule a Designated Room Cleaning for the SwitchBot Floor Cleaning Robot S10 within the Scene and Automation?
+
+Starting from SwitchBot app V9.14, you can possible to set up specified room cleaning for the S10 robot as an action in Scenes and Automations. Please update to the latest version of the SwitchBot app to access this feature.
 
 
 
