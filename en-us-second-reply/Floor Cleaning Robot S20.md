@@ -923,6 +923,10 @@ If you have checked the packaging and still cannot find the diatom mud mat, we w
 Even a slight movement of the water station could prevent the S20 from returning to it. It is advised to install the water exchange station in an area with little foot traffic and to avoid moving it unnecessarily.
 
 
+---
+### Can I Place the Water Station of the SwitchBot Floor Cleaning Robot S20 Outdoors?
+
+Please do not install the water station of the S20 outdoors. Exposure to daily sunlight can reduce the lifespan of the water station.
 
 
 
