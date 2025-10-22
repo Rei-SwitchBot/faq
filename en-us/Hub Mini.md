@@ -118,13 +118,11 @@ Online purchase link (If possible):
 ---
 ### Commands for controlling IR appliances with Google Assistant
 
-After linking your SwitchBot account to Google Assistant, with a voice command, you can control the appliances that you had already added to SwitchBot Hub Plus/Mini.
-
-[How to add my IR appliances to Hub Plus?](https://support.switch-bot.com/hc/en-us/articles/360037748514)
+After linking your SwitchBot account to Google Assistant, with a voice command, you can control the appliances that you had already added to SwitchBot Hub Mini.
 
 [How to add IR appliance to SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360038240833)
 
-[How to connect your Hub Plus/Mini to Google Assistant?](https://support.switch-bot.com/hc/en-us/articles/360038372973)
+[How to connect your Hub Mini to Google Assistant?](https://support.switch-bot.com/hc/en-us/articles/360038372973)
 
 For air conditioners:
 
@@ -178,7 +176,7 @@ The Others appliances could use the Scene feature or IFTTT app to achieve voice 
 ---
 ### Does SwitchBot Bot connect to multiple Hubs?
 
-No. SwitchBot Bot automatically selects the nearest SwitchBot Hub Plus/Mini the first time you enable the Cloud Service for it in Bot Settings. It always uses the paired Hub Plus/Mini then.
+No. SwitchBot Bot automatically selects the nearest SwitchBot Hub Mini the first time you enable the Cloud Service for it in Bot Settings. It always uses the paired Hub Mini then.
 
 If you have multiple Hubs, and your SwitchBot Bot is always not reachable via the Internet or via a third party ( Such as Alexa, Google Home, Siri), try to disable the Cloud Service for the SwitchBot Bot and enable it again.
 
@@ -281,9 +279,9 @@ Any other screenshot about the error message:
 
 
 ---
-### How Many Appliances Can Be Controlled by a SwitchBot Hub Plus/Mini?
+### How Many Appliances Can Be Controlled by a SwitchBot Hub Mini?
 
-There is no limitation about how many appliances can be learned or controlled by a SwitchBot Hub Plus/Hub Mini. SwitchBot Hub Plus/Hub Mini only sends an IR signal when needed.
+There is no limitation about how many appliances can be learned or controlled by a SwitchBot Hub Mini. SwitchBot Hub Mini only sends an IR signal when needed.
 
 All learned appliances are remembered by the App.
 
@@ -387,10 +385,6 @@ For example, to learn the 'ON' command setting to cool mode at 20°C.
 2) On the app panel, tap ‘ON’ to start learning then set to ‘Cool’ mode and 20°C in the pop-up window.
 
 ![Image](https://static.wixstatic.com/media/cc249a_4d12fa3a077d463587d7d8cc5091e02d~mv2.png/v1/fill/w_450,h_627,al_c,q_90,usm_0.66_1.00_0.01/cc249a_4d12fa3a077d463587d7d8cc5091e02d~mv2.webp)
-
-3) Direct your original remote to the Hub Plus and press the temperature down button. The command sent out includes ‘ON’, ‘20°C’ and ‘COOL’.
-
-![Image](https://static.wixstatic.com/media/cc249a_82b1edbd7d2b4146886410d5c0bafdf7~mv2.png/v1/fill/w_450,h_665,al_c,q_90,usm_0.66_1.00_0.01/cc249a_82b1edbd7d2b4146886410d5c0bafdf7~mv2.webp)
 
 4) The learning is done If the ‘ON’ button in the app panel turns blue.
 
@@ -537,8 +531,6 @@ Alternatively, you could create a Manual Scene via our app to control via Alexa,
 Before editing the buttons, please check:
 
 [How to add IR appliance to SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360038240833-How-to-add-IR-appliance-to-SwitchBot-Hub-Mini)
-
-[How to add my IR appliances to Hub Plus?](https://support.switch-bot.com/hc/en-us/articles/360037748514-How-to-add-my-IR-appliances-to-Hub-Plus-)
 
 Relearn the buttons:
 
@@ -748,7 +740,7 @@ New actions had been added to Control TV now: “mute”, “volume up”, “vo
 
 SwitchBot supports "Siri Shortcuts".
 
-Now you can ask Siri to control your infrared-controlled appliances easily with SwitchBot Hub Plus/Mini!
+Now you can ask Siri to control your infrared-controlled appliances easily with SwitchBot Hub Mini!
 
 Prerequisites:
 
@@ -756,7 +748,7 @@ iOS 12.1 or newer
 
 SwitchBot V2.9.1 or newer
 
-SwitchBot Hub Plus/Mini
+SwitchBot Hub Mini
 
 How to set up:
 
@@ -1489,13 +1481,13 @@ Any other screenshot about the error message:
 
 
 ---
-### Hub Plus/Hub Mini & HomePod / Siri Guide
+### Hub Mini & HomePod / Siri Guide
 
 ■ Step 1
 
-Make sure your SwitchBot Hub Plus/Mini ​is connected to the Internet.
+Make sure your SwitchBot Hub Mini ​is connected to the Internet.
 
-Tap the icon of the Hub Mini or Hub Plus.
+Tap the icon of the Hub Mini.
 
 Tap the appliance and then tap the gear icon.
 
@@ -2058,17 +2050,15 @@ IR related issues
 
 [How to control the appliances under "Others" category with IFTTT?](https://support.switch-bot.com/hc/en-us/articles/360038240233)
 
-[How many appliances can be controlled by a SwitchBot Hub Plus/Mini?](https://support.switch-bot.com/hc/en-us/articles/360038238533)
-
 Integration with the third-party platforms
 
-[Why Alexa or Google Home Could Not Find My SwitchBot Hub Plus/Mini](https://support.switch-bot.com/hc/en-us/articles/360043592433)
+[Why Alexa or Google Home Could Not Find My SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360043592433)
 
-[How to connect your Hub Plus/Mini to Google Assistant](https://support.switch-bot.com/hc/en-us/articles/360038372973)
+[How to connect your Hub Mini to Google Assistant](https://support.switch-bot.com/hc/en-us/articles/360038372973)
 
-[Hub Plus/Mini Alexa Guide](https://support.switch-bot.com/hc/en-us/articles/360038239753)
+[Hub Mini Alexa Guide](https://support.switch-bot.com/hc/en-us/articles/360038239753)
 
-[Hub Plus/Hub Mini & HomePod / Siri Guide](https://support.switch-bot.com/hc/en-us/articles/360041802533)
+[Hub Hub Mini & HomePod / Siri Guide](https://support.switch-bot.com/hc/en-us/articles/360041802533)
 
 Scene
 
@@ -2246,40 +2236,6 @@ Roku TV Stick,
 XGIMI, and many other electronics and digital devices controllers that use Bluetooth.
 
 Since our Hub Mini control SwitchBot devices via Infrared (IR), it is not possible to use them for most of RF or Bluetooth controlled TV's or appliances.
-
-
-
----
-### What is the difference between SwitchBot Hub and SwitchBot Hub Plus?
-
-SwitchBot Hub Plus is an IR remote controller on top of a SwitchBot Hub.
-
-SwitchBot Hub is a Bluetooth to Wi-Fi gateway for you to control the SwitchBot devices remotely.
-
-It works with third-party like Alexa, Google Assistant, and IFTTT.
-
-SwitchBot Hub Plus can control most IR appliances and SwitchBot products with voice commands or simply in the APP.
-
-It can integrate with Alexa, Google Assistant, Siri Shorcuts, IFTTT.
-
-
-
----
-### What’s the difference between Hub Plus and Hub Mini?
-
-SwitchBot Hub Mini is
-
-micro-USB powered
-
-. It is smaller, square and white, which makes it blend more into the environment. The performance is
-
-the same as
-
-the Hub Plus, not compromised because of its compact size.
-
-Here's a quick summary of the differences between the two models.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25998492565143)
 
 
 ---
