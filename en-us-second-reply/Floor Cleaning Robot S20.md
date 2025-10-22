@@ -917,6 +917,10 @@ If you have checked the packaging and still cannot find the diatom mud mat, we w
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Can I Temporarily Move the Water Station of the SwitchBot Floor Cleaning Robot S20 to Another Location If It's In the Way?
+
+Even a slight movement of the water station could prevent the S20 from returning to it. It is advised to install the water exchange station in an area with little foot traffic and to avoid moving it unnecessarily.
 
 
 
