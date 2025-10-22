@@ -341,7 +341,15 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Why Is There No Service Plan for SwitchBot Indoor Cam Cloud Storage Subscriptions with Over 3 Devices?
 
+The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
 
 
 
