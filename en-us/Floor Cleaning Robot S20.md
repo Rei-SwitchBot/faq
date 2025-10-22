@@ -1631,16 +1631,22 @@ Regarding this issue, could you please check the following points?
 2. Remove the rubber brush from the S20 and check for any debris. Hair or other materials may become tangled around the bearing of the rubber brush. If necessary, clean it thoroughly. Also, if you have a spare main brush, try replacing it to see if the error message is resolved.
 3. Run your S20 without attaching the rubber brush and check if the "my anti tangle brush seems to be stuck" error still appears.
 
+
 ---
 ### Why Is There Water in the Water Station of My Newly Purchased SwitchBot Floor Cleaning Robot S20?
 
 It's normal to find a small amount of water in the water station of the S20, as the water circuit undergoes testing before factory shipment to ensure the water station functions properly. Please feel free to use your device.
 
+
 ---
 ### How to Open the Waste Filter Cover on the Water Station?
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
-![image](https://github.com/user-attachments/assets/054be49d-173d-4f42-9712-d709c43fc953)
+
+<img width="627" height="349" alt="image" src="https://github.com/user-attachments/assets/6ff88feb-f2f6-4c79-8599-6f5609ef0761" />
+
 
 
 ---
@@ -2921,16 +2927,17 @@ Regarding this issue, could you please check the following points?
 1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging cable to charge the station for 0.5 to 1 hour.
 2. Press and hold the Bluetooth Reset Button for 6 seconds until the indicator light flashes white to confirm it is activated.
 3. Gently clean the charging contacts of the water station with tissue paper.
-4. If you have replaced the S20 main unit or the water station, you will need to manually pair the S20 with the water station via Bluetooth.
-https://support.switch-bot.com/hc/en-us/articles/25122838665111
-5. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
+4. Dock the S20 to the water station, it will automatically be marked after a beep sound.  
+5. If the automatic marking fails, please follow the link below to mark it manually.
+[https://support.switch-bot.com/hc/en-us/articles/25122838665111](https://support.switch-bot.com/hc/en-us/articles/25122838665111-How-to-Re-pair-the-Floor-Cleaning-Robot-S10-with-the-Water-Station)
 6. Update the water station firmware using your Android smartphone.
+
 Tips:
   1. Download the attached file.
   2. Locate the MAC address on the back of the water station.
   3. Update the firmware as per the video.
   4. Do not support upgrading using iPhone.
-Video: https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?usp=sharing
+Video: [https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?usp=sharing](https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view)
 
 
 ---
