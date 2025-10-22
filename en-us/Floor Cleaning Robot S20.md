@@ -941,29 +941,6 @@ Note: If multiple rooms are selected, a number will appear to indicate the order
 
 
 ---
-### Introduction of SwitchBot Floor Cleaning Robot S20 External Water Tank Assembly
-
-Last Updated：
-
-2024 Apr 19
-
-Related Products: SwitchBot Floor Cleaning Robot S20
-
-1. If it's not possible to install a water station for the S20 in your house, we suggest using an external water tank.
-
-2. The external water tank consists of a waste water tank and a clean water tank. The S20 is capable of mopping as long as the clean water tank is regularly refilled and the waste water tank is emptied.
-
-3. For installation and maintenance of the external water tank, please refer to the following video.
-
-[Embedded Content](//www.youtube-nocookie.com/embed/o5413fr7R2U)
-
-4. An external water tank is available for customers purchasing the S20 through Kickstarter.
-
-5. The external water tank will be available on SwitchBot official website this year. Stay tuned for updates!
-
-
-
----
 ### Is the Cleaning Solution for SwitchBot Floor Cleaning Robot S20 Pet Friendly?
 
 Last Updated: 2024 Sep 05
