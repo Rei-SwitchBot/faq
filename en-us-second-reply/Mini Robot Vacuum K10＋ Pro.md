@@ -972,19 +972,27 @@ Yes, the front caster wheels from the K10+ Pro and K10+ are interchangeable.
 
 
 ---
-### How Long Can SwitchBot Mini Robot Vacuum K10+ Last on a Single Charge?
+### Can SwitchBot Remote Control SwitchBot Mini Robot Vacuum K10+ Pro?
 
-The amount of time a fully charged K10+ can operate depends on the setting mode.For specific details, please refer to the following information:
-Quiet Mode＞150min
-Standard Mode＞120min
-Strong Mode＞90min
-Max Mode＞70min
-
-Note: The above data is based on SwitchBot lab test results, and actual operation times may vary slightly. Thanks for your understanding.
+Yes, you can use SwitchBot Remote to control cleaning and recharging functions of the K10+ Pro.
+Important Reminder: Before pairing the K10+ Pro with your SwitchBot Remote, please ensure that both your app version and device firmware are up-to-date. If you need assistance with updating the firmware or have any questions, feel free to contact our support team. We’re here to help!
 
 
 ---
-### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
+
+We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
+1. Please check if any foreign object is caught in the K10+ Pro.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
+3. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
+- A screenshot of the error message related to the bumper issue.
+- A video with sound capturing the "The bumper got stuck" error message being announced.
+
+
+
+---
+### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+ Pro
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -1004,8 +1012,9 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fails to Clean Because of a Bumper Stuck Error
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -1031,9 +1040,32 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Can I Operate Switchbot Mini Robot Vacuum K10+ With a Widget?
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Does Not Collect Trash After Returning to the Auto-empty Station
 
-Yes, you can add your K10+ to the widget.
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+To determine if your device needs to be repaired or replaced, could you please provide a video showing the robot failing to auto-empty after returning to the station?
+
+2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+---
+### Can I Operate Switchbot Mini Robot Vacuum K10+ Pro With a Widget?
+
+Yes, you can add your K10+ Pro to the widget.
 For more information on SwitchBot devices supported by the widget, please click the link below.
 [https://support.switch-bot.com/hc/en-us/articles/360037747254](https://support.switch-bot.com/hc/en-us/articles/360037747254-How-to-Add-SwitchBot-Devices-and-Scenes-to-Android-Widget)
 [https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
