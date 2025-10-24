@@ -160,35 +160,6 @@ Integration with SmartThings
 
 
 ---
-### HomeKit Device Related Issues
-
-1. Please check if a HomeKit label is on the packaging or the product. If not, the product is not a HomeKit device.
-
-2. Please check if the Apple device is under iOS 13 or iPadOS13, or a newer version. If not, please upgrade the apple device to the latest version and add the HomeKit device afterward.
-
-3. Please ensure the VPN or DSN service has been disabled before adding the HomeKit device.
-
-4. Authorize HomeKit to SwitchBot.
-
-Settings > Privacy > HomeKit > SwitchBot > Turn On
-
-5. Turn on HomeKit Data before adding the HomeKit device.
-
-Swttings > SwitchBot > HomeKit Data
-
-6. The HomeKit device cannot connect to a 5GHz network. Please connect your iPhone or iPad to a 2.4GHz network before adding the HomeKit device.
-
-7. Please log in to the back-end system of the router and check if it is running any MAC filter or access control functions. If it is, please disable those functions, as they will forbid you from connecting a HomeKit device. Please try to disable any MAC filter or access control functions on the router before adding the HomeKit device.
-
-8. If the QR-Code on the HomeKit device is not working, please enter the HomeKit setup code manually.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26002275624343)
-
-9. If we want to control the HomeKit device remotely, we need to purchase an additional iPad, HomePod, or Apple TV as Home Hub due to the constriction of Apple devices and ensure that the Home Hub is connected to the same Wi-Fi network as the HomeKit devices. If we do not have the iPad, HomePod, or Apple TV as Home Hub and want to control the SwitchBot Plug Mini via iPhone directly, we must ensure that the Plug Mini connects to the same Wi-Fi network as iPhone.
-
-
-
----
 ### How to set up SwitchBot Plug
 
 1. Make sure both Bluetooth and Location Service have been authorized for the SwitchBot App on the settings of your cellphone.
