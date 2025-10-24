@@ -1384,9 +1384,37 @@ If no compatible SwitchBot devices are available, "default" will be displayed on
 If you have any further questions or concerns, please don't hesitate to contact us.  
 
 
+---
+### Troubleshooting SwitchBot Meter Plus Not Showing on My Apple Watch, and I Cannot Check the Temperature and Humidity
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Meter Plus is a Bluetooth communication device and requires integration with our hub product to enable network functionality for use with Apple Watch. Here are the detailed setup instructions:
+- Place the Meter Plus near the hub product (within 5 meters is recommended).  
+- Add both devices to the SwitchBot app.
+- In the SwitchBot app, tap the Meter Plus, and then tap "Store data to cloud" at the bottom of the graph screen.  
+By completing the above steps, you will be able to use the Meter Plus with Apple Watch.  
+Note:  
+If no compatible SwitchBot devices are available, "default" will be displayed on the Apple Watch.  
+
+If you have any further questions or concerns, please don't hesitate to contact us.  
 
 
+---
+### Troubleshooting Unable to Use Alexa Voice to Get Humidity
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that a hub product is installed near the Meter Plus.  
+2. In the SwitchBot app, go to Meter Plus, scroll down on the graph screen, and press the "Store data to cloud" button to connect the device to the cloud. If you don't see the button, delete and re-add the device.
+3. Relink with Amazon Alexa.  
+4. When checking the humidity, please activate the custom skill for Amazon Alexa.
+
+<img width="387" height="212" alt="image" src="https://github.com/user-attachments/assets/4e6acf50-a13b-410a-ad84-cb9116816993" />
+
+[https://support.switch-bot.com/hc/en-us/articles/10477494777495](https://support.switch-bot.com/hc/en-us/articles/10477494777495-Voice-Commands-for-Controlling-SwitchBot-Meter-Series-Products-Using-Alexa-and-Google-Assistant)
+5. Try changing the device name to see if it helps.  
+6. If there are multiple Meter devices linked to your SwitchBot account, asking Alexa for the humidity may result in a response based on the data from the first paired meter device. As a result, there may be devices for which you cannot check humidity via voice commands. We sincerely apologize for the inconvenience and ask for your understanding.
 
 
 
