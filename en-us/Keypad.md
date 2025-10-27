@@ -1765,3 +1765,28 @@ Video: [https://youtu.be/a5qlr2iKTOo](https://www.youtube.com/watch?v=a5qlr2iKTO
 
 3. If the device gets damaged during removal, please contact us again with a video that can confirm the situation.
 
+
+---
+### Troubleshooting My Children's Fingerprints Cannot Be Added to SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If other family members can add their fingerprints, it means there is no issue with the Keypad Touch itself.
+Children have faster skin metabolism, causing their fingertips' outer layer to renew more frequently. This natural process can make fingerprint patterns less stable and challenging for recognition systems.
+When registering, ensure your child's fingertip and sensor area are clean and dry. Try registering the same finger multiple times on different days to help the sensor recognize the pattern better.
+If your child still cannot register the fingerprint after several attempts, consider using alternative unlocking methods like passcodes or NFC cards instead. This issue may persist even with a replacement device due to children's natural fingerprint characteristics.
+Note:
+If your child is unable to unlock the door lock using their fingerprint, try the enhanced fingerprint feature by re-adding the fingerprint that fails to unlock the lock. Follow the guide below to set it up.
+
+<img width="1280" height="518" alt="image" src="https://github.com/user-attachments/assets/76475564-1b97-43d6-bde9-1897dc7d96bb" />
+
+We appreciate your understanding and are happy to assist further with any questions or concerns.
+
+
+
+
+
+
+
+
+
