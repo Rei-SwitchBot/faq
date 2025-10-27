@@ -239,10 +239,30 @@ You can check the current location settings by going to SwitchBot app → Profil
 <img width="748" height="1239" alt="image" src="https://github.com/user-attachments/assets/2144dddd-5440-4ae4-b50f-d2530500a4fa" />
 
 
+---
+### Is It Possible to Use the Dial Button on Hub 3 To Control the Airflow of SwitchBot Circulator Fan?
+
+We regret to inform you that at this time, it is not possible to control the airflow of the Circulator Fan using the dial on Hub 3.
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
+---
+### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- The name of the malfunctioning AC remote control in your account.  
+- The non-working buttons on the infrared remote control (e.g., all buttons / specific buttons. *If specific buttons are not functioning, please provide the buttons' names.)
+- Details about the temperature setting, mode, wind speed, and wind direction during the time of the malfunction
+- The status of the AC remote control displayed in the Alexa App – whether it shows as normal or unresponsive.  
+- Whether you can manually turn on/off the AC via the Alexa app
+- The approximate time of the last failed operation on the AC remote control, for example, 2025-01-06, 14:30.
+- Whether the AC can still be operated using the SwitchBot app.  
+- Screenshots of the voice history by going to Alexa app → More → Alexa Privacy
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
