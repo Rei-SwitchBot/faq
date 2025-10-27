@@ -483,6 +483,12 @@ If you have any other questions, please do not hesitate to contact us.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting the IP Address Shown for SwitchBot Pan Tilt Cam Plus 3K in the Switchbot App Does Not Match My Home Router's IP Address.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The IP address shown on the Pan Tilt camera's Wi-Fi settings page is the public or global IP address for your broadband line, not the local network IP address of your home router. Therefore, it may be different from your home router's IP address. Thank you for your understanding.
+If you have any other questions, please do not hesitate to contact us.
 
 
