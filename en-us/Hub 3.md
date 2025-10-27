@@ -484,7 +484,16 @@ If the remote control of household appliances has "NETFLIX", "Prime Video", Goog
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify whether you can control your air conditioner using the SwitchBot app. If it cannot be controlled through the SwitchBot app, please re-add the air conditioner remote.
+2. Unlink the SwitchBot app and Alexa, then link them again.
+3. Make sure you are using the correct voice commands.  
+[https://support.switch-bot.com/hc/en-us/articles/360039685774](https://support.switch-bot.com/hc/en-us/articles/360039685774-Commands-for-controlling-IR-appliances-with-Alexa)
+4. Please check if changing the name of the air conditioner remote control resolves the issue.
 
 
 
