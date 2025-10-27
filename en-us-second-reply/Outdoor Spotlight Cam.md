@@ -850,6 +850,10 @@ The traditional camera series products do not offer a cloud storage plan for thr
 - Outdoor Spotlight Cam 2K
 
 
+---
+### How to Check the MAC Address of SwitchBot Outdoor Spotlight Cam
+
+Open the waterproof cover of the Outdoor Spotlight Cam to view the MAC address.
 
 
 
