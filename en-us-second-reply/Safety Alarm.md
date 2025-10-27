@@ -70,30 +70,13 @@ We will forward your feedback to our R&D team for further investigation, and wou
 ---
 ### Troubleshooting SwitchBot Safety Alarm's Batteries Drains Quickly.
 
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, could you please remove the batteries from the Safety Alarm and provide a photo as shown in the diagram below?
 
-We will determine whether device replacement is necessary, so please remove the battery from the security buzzer and provide a photo as shown in the diagram below.
-
-1. To determine if your device needs to be replaced, could you please remove the batteries from the Safety Alarm and provide a photo as shown in the diagram below?
-
-<img width="961" height="1280" alt="image" src="https://github.com/user-attachments/assets/8ad9a2d7-2a21-4979-ae83-36cb3351ee12" />
-
-
-2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
+<img width="961" height="1280" alt="image" src="https://github.com/user-attachments/assets/715c9882-61f3-4754-b8ef-9069f7a3ba9f" />
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -143,7 +126,25 @@ Parents and children can each create their own SwitchBot app accounts and utiliz
 [https://support.switch-bot.com/hc/en-us/sections/4424752047767-Home-Sharing](https://support.switch-bot.com/hc/en-us/sections/4424752047767-Home-Sharing)
 
 
+---
+### The Part of SwitchBot Safety Alarm Where the PIN Is Removed Is Broken.
 
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+It appears that the product is defective, so we would like to offer you a replacement covered by warranty. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
