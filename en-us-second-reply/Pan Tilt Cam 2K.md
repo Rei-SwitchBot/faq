@@ -713,8 +713,17 @@ The traditional camera series products do not offer a cloud storage plan for thr
 - Outdoor Spotlight Cam 2K
 
 
+---
+### How to Check the MAC Address of SwitchBot Pan Tilt Cam 2K
 
+If you are using an Android smartphone, you can check the MAC address by connecting the camera to the smartphone's personal hotspot.
+The method for connecting to a personal hotspot on an Android phone may vary depending on your device. Let's use a HUAWEI device as an example.  
+Go to Settings → Mobile Network → Personal Hotspot to view the device name and password. Turn on the Personal Hotspot to start using it.  
+Once connected, go to "Connected Devices" under the personal hotspot menu on your smartphone to find the MAC address of the camera.
 
+<img width="885" height="924" alt="image" src="https://github.com/user-attachments/assets/e1584450-af6c-4eaf-b0f0-4c7745f6cde0" />
+
+If you are using an iOS device, the only way to check the MAC address is to connect the Pan/Tilt Cam 2K to an Android device or a PC running Windows 10 or later, as there is no 'Connected devices' option when using iPhone tethering. We apologize for any inconvenience caused.
 
 
 
