@@ -2536,7 +2536,6 @@ While we are actively working to resolve this issue, please note that even with 
 We truly appreciate your understanding and patience as we address this matter. If you have any further questions or need assistance, our support team is always happy to help.
 
 
-
 ---
 ### Troubleshooting When Trying to Purchase Cloud Storage for SwitchBot Pan Tilt Cam, It Always Shows Out of Stock and Cannot Be Purchased.
 
@@ -2545,6 +2544,17 @@ Regarding this issue, we will escalate your concern to our R&D team team for fur
 Once the restocking is complete, our team will get back to you as soon as possible.
 We truly understand the urgency of your situation and appreciate your patience as we work to resolve this for you.
 If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting the IP Address Shown for SwitchBot Pan Tilt Cam in the Switchbot App Does Not Match My Home Router's IP Address.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The IP address shown on the Pan Tilt camera's Wi-Fi settings page is the public or global IP address for your broadband line, not the local network IP address of your home router. Therefore, it may be different from your home router's IP address. Thank you for your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
+
 
 
 
