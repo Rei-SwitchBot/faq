@@ -163,9 +163,9 @@ If you have any other questions, please do not hesitate to contact us.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please make sure that the batteries are inserted in the correct orientation.  
-2. Please remove the batteries, wait for 30 minutes, and then reinsert two batteries into the device to check if the issue is resolved.
-3. Check if replacing the batteries resolves the issue.
+- Please remove the device from the SwitchBot app.  
+- Reinsert the batteries and add the device to the app again.  
+- Press the lightning button on the device and turn on the flashlight.  
 
 
 ---
@@ -191,7 +191,13 @@ Use the screwdriver to press and hold the pairing button for 15s until you hear 
 2. To re-add the Safety Alarm, press and hold the button for two seconds.
 
 
+---
+### The Part of SwitchBot Safety Alarm Where the PIN Is Removed Is Broken.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a photo showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
