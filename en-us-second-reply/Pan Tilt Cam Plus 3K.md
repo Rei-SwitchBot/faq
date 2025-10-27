@@ -349,8 +349,10 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### If I Have Between Three and Ten SwitchBot Pan Tilt Cam Plus 3Ks, Which Plan Should I Purchase?
 
-
+If you own between three and ten units of the Pan Tilt Cam Plus 3K , we kindly ask you to purchase the "Up to 10 Cameras Supported" plan. Please note that it is not possible to combine plans that cover 1, 2, or 3 cameras.
 
 
 
