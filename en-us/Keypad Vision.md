@@ -321,4 +321,43 @@ Below is the Suica card, but the method for adding other NFC cards is the same.
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/517585bd-aecb-4979-8cda-a7cdb5d71a39" />
 
 
+---
+### Troubleshooting My Children's Fingerprints Cannot Be Added to SwitchBot Keypad Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If other family members can add their fingerprints, it means there is no issue with the Keypad Vision itself.
+Children have faster skin metabolism, causing their fingertips' outer layer to renew more frequently. This natural process can make fingerprint patterns less stable and challenging for recognition systems.
+When registering, ensure your child's fingertip and sensor area are clean and dry. Try registering the same finger multiple times on different days to help the sensor recognize the pattern better.
+If your child still cannot register the fingerprint after several attempts, consider using alternative unlocking methods like passcodes, faces or NFC cards instead. This issue may persist even with a replacement device due to children's natural fingerprint characteristics.
+Note:
+If your child is unable to unlock the door lock using their fingerprint, try the enhanced fingerprint feature by re-adding the fingerprint that fails to unlock the lock. Follow the guide below to set it up.
+
+<img width="1280" height="518" alt="image" src="https://github.com/user-attachments/assets/3a7d9097-1720-42a2-9e85-024aa86067f2" />
+
+We appreciate your understanding and are happy to assist further with any questions or concerns.
+
+
+---
+### Is it Possible to Purchase the Mounting Plate A and 3M Tape A for SwitchBot Keypad Vision?
+
+We regret to inform you that Mounting Plate A and Adhesive Tape A are currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
+
+
+
+
+
+
+
 
