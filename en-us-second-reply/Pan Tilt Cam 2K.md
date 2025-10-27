@@ -703,6 +703,17 @@ If the recommended SD card cannot be recognized, please provide a detailed descr
 
 
 ---
+### Why Is There No Service Plan for SwitchBot Pan Tilt Cam Cloud Storage Subscriptions with Over 3 Devices?
+
+The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+- 
+---
 ### Why Is There No Service Plan for SwitchBot Pan Tilt Cam 2K Cloud Storage Subscriptions with Over 3 Devices?
 
 The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
