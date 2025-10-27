@@ -190,6 +190,13 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Is It Possible to Disable the Indicator Light on SwitchBot Keypad Vision?
+
+Currently, it is not possible to turn off the indicator on the Keypad Vision. We apologize for not being able to meet your request at this time, but we will review this matter internally and work towards an improvement in future firmware updates.
+If the Keypad Vision is set to automatic activation, the indicator light may turn on due to passersby. As a temporary measure, please configure the settings by navigating to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition -> Manual or Custom.
+
+
 
 
 
