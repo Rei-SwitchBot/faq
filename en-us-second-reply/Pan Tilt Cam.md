@@ -374,6 +374,12 @@ The traditional camera series products do not offer a cloud storage plan for thr
 - Outdoor Spotlight Cam 2K
 
 
+---
+### Where Can I Check the MAC Address of SwitchBot Pan Tilt Cam?
+
+Please check the MAC address of the Pan Tilt Cam written on the bottom of the device.
+
+<img width="1066" height="1231" alt="image" src="https://github.com/user-attachments/assets/58091395-8aff-496a-ad86-3af68bd0ea4d" />
 
 
 
