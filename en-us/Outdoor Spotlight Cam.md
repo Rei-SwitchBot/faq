@@ -1555,6 +1555,16 @@ We truly understand the urgency of your situation and appreciate your patience a
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting the IP Address Shown for SwitchBot Outdoor Spotlight Camera in the Switchbot App Does Not Match My Home Router's IP Address.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The IP address shown on the outdoor camera's Wi-Fi settings page is the public or global IP address for your broadband line, not the local network IP address of your home router. Therefore, it may be different from your home router's IP address. Thank you for your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
+
+
 
 
 
