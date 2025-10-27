@@ -1108,7 +1108,7 @@ A video showing a red indicator light still on for approx. 1 minute after resett
 
 
 ---
-### Pan/Tilt Cam can't connect to Wi-Fi network during setup
+### Pan/Tilt Cam (2K) can't connect to Wi-Fi network during setup
 
 Last updated: September 15, 2022
 
@@ -1201,7 +1201,7 @@ What environment and lighting conditions is the camera used in
 
 
 ---
-### Pan/Tilt Cam keeps reporting"Fail to Add Device" during setup
+### Pan/Tilt Cam 2K keeps reporting"Fail to Add Device" during setup
 
 Applicable products: SwitchBot Pan/Tilt Cam (1080p), SwitchBot Pan/Tilt Cam (2K)
 
@@ -1461,7 +1461,7 @@ The link will be automatically established.
 
 
 ---
-### SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K Google Home Setup Guide
+### SwitchBot Pan/Tilt Cam 2K Google Home Setup Guide
 
 Last Updated:
 
@@ -1560,62 +1560,15 @@ Related Products: SwitchBot Indoor Cam, SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K,
 
 
 ---
-### Updates to our Cloud Storage plans! (For EU customers)
-
-
-Please refer to this link：
-
-https://support.switch-bot.com/hc/en-us/articles/13125648433943
-
-
----
-### Updates to our Cloud Storage plans! (For UK customers)
-
-Please refer to this link：
-
-https://support.switch-bot.com/hc/en-us/articles/12649891419671
-
-
----
 ### Updates to our Cloud Storage plans!
 
 Please refer to this link：
 
 https://support.switch-bot.com/hc/en-us/articles/13068430935703
 
----
-### User Manual for SwitchBot Pan/Tilt Cam (PDF)
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26001907129623)
-
-Product name:
-
-SwitchBot Pan/Tilt Cam
-
-Product Model Number:
-
-W1801200
-
-🗎
-
-[SwitchBot Pan/Tilt Cam User Manual](https://support.switch-bot.com/hc/article_attachments/6882503500567/Pan_Tilt_Cam_User_Manual.pdf)
-
-(PDF)
-
-Right-click the product image or document link above and save the start guide to local.
-
-User manuals for SwitchBot products are usually in PDF format. Please select a dedicated viewer: Adobe Acrobat Reader, or other web browsers that support PDF such as Google Chrome, or Microsoft Edge to open.
-
-[Pan Tilt Cam User Manual.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/6882503500567)
-
-1 MB
-
-[Download](https://support.switch-bot.com/hc/en-us/article_attachments/6882503500567)
-
-
 
 ---
-### Voice Commands for Controlling SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K Using Alexa and Google Assistant
+### Voice Commands for Controlling SwitchBot Pan/Tilt Cam 2K Using Alexa and Google Assistant
 
 Last Updated:
 
@@ -1658,9 +1611,9 @@ Hey Google, show my [Device Name].
 
 
 ---
-### What Should I do when I Try to Connect the SwitchBot Pan/Tilt Cam, the Indicator Light did not Flash Red Rapidly?
+### What Should I do when I Try to Connect the SwitchBot Pan/Tilt Cam 2K, the Indicator Light did not Flash Red Rapidly?
 
-Applicable products: SwitchBot Pan/Tilt Cam (1080p), SwitchBot Pan/Tilt Cam (2K)
+Applicable products: SwitchBot Pan/Tilt Cam (2K)
 
 SwitchBot App version: 6.10 or newer
 
@@ -1821,15 +1774,7 @@ iOS
 ---
 ### Where Can You Find the Details of the Cloud Storage Service You Purchased?
 
-Last Updated
-
-: 2023 Apr 14
-
-Related
-
-Products:
-
-SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Indoor Cam, SwitchBot Outdoor Spotlight Cam
+Related Products: SwitchBot Pan/Tilt Cam, SwitchBot Pan/Tilt Cam 2K, SwitchBot Indoor Cam, SwitchBot Outdoor Spotlight Cam
 
 1. Make sure your SwitchBot App version is up to date.
 
@@ -2514,6 +2459,18 @@ Regarding this issue, we will escalate your concern to our R&D team team for fur
 Once the restocking is complete, our team will get back to you as soon as possible.
 We truly understand the urgency of your situation and appreciate your patience as we work to resolve this for you.
 If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting the IP Address Shown for SwitchBot Pan Tilt Cam 2K in the Switchbot App Does Not Match My Home Router's IP Address.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The IP address shown on the Pan Tilt camera's Wi-Fi settings page is the public or global IP address for your broadband line, not the local network IP address of your home router. Therefore, it may be different from your home router's IP address. Thank you for your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
+
+
 
 
 
