@@ -851,8 +851,16 @@ If there is no issue with the curtain motor, our technical team will investigate
 [https://support.switch-bot.com/hc/en-us/articles/360051462654](https://support.switch-bot.com/hc/en-us/articles/360051462654-SwitchBot-Curtain-Curtain-3-Alexa-Setup-Guide)
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 Will Stop at the Gap of the Rod When Running
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing your curtain robot stuck on the track
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
