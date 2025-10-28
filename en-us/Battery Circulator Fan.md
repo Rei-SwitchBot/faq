@@ -586,5 +586,35 @@ Regarding this issue, could you please check the following points?
 2. When fully charged and used without oscillation at fan speed 2, the circulator's battery lasts approximately 30 hours. If the battery only lasts a few hours, please fully charge the circulator, set it to no oscillation and fan speed 2, and check its duration.
 
 
+---
+### Troubleshooting SwitchBot Battery Circulator Fan Not Oscillating Vertically or Horizontally When Pressing the Button on the Control Panel
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the child lock is enabled by going to the SwitchBot app → Circulator Fan → Gear icon. If it is enabled, please turn it off.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
