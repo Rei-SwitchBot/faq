@@ -444,6 +444,11 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A screenshot showing the Bluetooth connection status by going to SwitchBot App -> Profile -> Manage Hub -> the relevant Hub.
 
 
+---
+### Why Doesn't SwitchBot Lock Ultra Automatically Unlock After Night Mode Ends?
+
+In night mode, according to your settings, Lock Ultra can automatically re-lock if it is unlocked. However, when night mode ends, Lock Ultra will not automatically unlock, as per the device's specifications. To trigger automatic unlocking, your smartphone needs to enter this range from outside a preset geofence. For more detailed information on the auto-unlock feature, please refer to the following link.
+[https://support.switch-bot.com/hc/en-us/articles/25330863432727](https://support.switch-bot.com/hc/en-us/articles/25330863432727-SwitchBot-Lock-Pro-and-Lock-Ultra-s-Auto-Unlock-Beta-Feature)
 
 
 
