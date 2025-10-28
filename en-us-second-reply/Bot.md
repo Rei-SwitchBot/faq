@@ -306,6 +306,24 @@ The Bot with a password set cannot be re-added even if it is within the Bluetoot
 When you open the Bot's cover, you will find the reset button. Pressing it once will restore the Bot to its factory settings and erase any configured passwords.
 
 
+---
+### Troubleshooting Cannot Connect SwitchBot Bot to Google Home
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Bluetooth connection status by navigating in the SwitchBot app → Profile → Manage Hubs → the relevant hub.
+- A video showing the integration with the Google Home app
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Why Am I Not Receiving Notifications Even Though SwitchBot Bot Can Open and Close the Switch According to the Schedule?
+
+There are no notifications sent to your smartphone after the Bot operates according to the schedule, as this is a design feature of the product. We apologize for any inconvenience this may cause and ask for your understanding.
+As a temporary solution, if you have the Hub product, we recommend setting up SwitchBot automation. When the automation is triggered, you will receive execution notifications. 
+
 
 
 
