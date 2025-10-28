@@ -1610,6 +1610,43 @@ If the remote control of household appliances has "NETFLIX", "Prime Video", Goog
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Unable to Add the Infrared Remotes to the Sub-Devices of SwitchBot Hub 2
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
+2. Please check if it's possible to add the infrared remote by going to SwitchBot app → Hub 2 → Gear Icon → Matter Setup → Sub-devices → Lab Features (Beta).
+
+
+---
+### Troubleshooting SwitchBot Hub 2 Keeps Disconnecting from Wi-Fi
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please place the Hub 2 closer to the Wi-Fi router (within 5 meters).
+2. Unplug the Wi-Fi router and the Hub 2, then plug them back in.
+3. Please set up Wi-Fi again by going to SwitchBot app -> Hub 2 -> Gear icon -> Wi-Fi settings near the device.
+4. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire: in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
+5. Make sure your Hub 2 firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub 2 → Gear Icon → Firmware & Battery.
+6. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
+*If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
+
+
+---
+### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify whether you can control your air conditioner using the SwitchBot app. If it cannot be controlled through the SwitchBot app, please re-add the air conditioner remote.
+2. Unlink the SwitchBot app and Alexa, then link them again.
+3. Make sure you are using the correct voice commands.  
+[https://support.switch-bot.com/hc/en-us/articles/360039685774](https://support.switch-bot.com/hc/en-us/articles/360039685774-Commands-for-controlling-IR-appliances-with-Alexa)
+4. Please check if changing the name of the air conditioner remote control resolves the issue.
+
+
+
+
 
 
 
