@@ -3053,6 +3053,12 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20+ Keeps Making Clicking Noise When It Starts Cleaning
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please remove the main brush and roller mop to check for any foreign objects. Additionally, kindly follow the maintenance video below to care for the robot.
+[https://youtu.be/N3ueD8hJcEg](https://www.youtube.com/watch?v=N3ueD8hJcEg)
 
 
