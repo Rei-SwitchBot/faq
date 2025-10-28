@@ -434,9 +434,25 @@ When connecting the doorbell and monitor, use 5~6V0.2A DC voltage for low-voltag
 <img width="1275" height="586" alt="image" src="https://github.com/user-attachments/assets/0ca85e17-c86d-49bb-b263-078e1bce4e5d" />
 
 
+---
+### How to Connect the Add-on Monitor to SwitchBot Smart Video Doorbell
+
+Before connecting the Add-on Monitor to your Video Doorbell, please ensure that the monitor's firmware version is 2.02.015 or later.
+Link the Add-on Monitor to the Smart Video Doorbell in the following order:
+- Launch SwitchBot app and log in.  
+- Tap your Smart Video Doorbell.  
+- Tap the gear icon in the upper right corner.  
+- Select "Link with the Add-on Monitor".  
+- Follow the app's guidance to connect the Add-on Monitor to the Video Doorbell.  
+Note:
+The appearance of the Add-on Monitor is almost identical to the monitor, but the upper right corner of the Add-on Monitor screen has a mark for distinguishing it from the monitor.
 
 
+---
+### Is the Add-on Monitor for SwitchBot Smart Video Doorbell Similar to a Wi-Fi Extender?
 
+The Add-on Monitor is not a Wi-Fi extender.
+Actually, the Monitor works as a Wi-Fi extender. As long as the connection between the Monitor and the Doorbell remains stable, the video from the Doorbell can be viewed on the Add-on Monitor even on the second floor.
 
 
 
