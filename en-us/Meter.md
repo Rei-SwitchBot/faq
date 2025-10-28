@@ -151,7 +151,7 @@ Tapping the Meter in the SwitchBot App will sync data from the SwitchBot server.
 The hub is added to the same account as the Meter.
 The hub is connected to the internet.
 The Meter is within the hub’s Bluetooth range.
-Data Deletion
+Tap the "Store data to cloud" button at the bottom of the meter chart page.
 
 When connected to a hub:
 
