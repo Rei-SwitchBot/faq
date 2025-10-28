@@ -1579,5 +1579,12 @@ While pressing and holding the reset button, reinsert the batteries.
 Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
 
 
+---
+### Troubleshooting Cannot Connect SwitchBot Bot to Google Home
 
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To use the Bot with the Google Home app, our hub product is required. Please confirm that a hub product has been added to your account.  
+2. Place the bot within the Bluetooth range of the hub product (5 meters recommended). You can check the connection status with the hub by navigating in the SwitchBot app → Profile → Manage Hubs → the relevant hub.  
+3. Follow the link below to link the SwitchBot app with the Google Home app.
+[https://support.switch-bot.com/hc/en-us/articles/360037747514](https://support.switch-bot.com/hc/en-us/articles/360037747514-SwitchBot-Bot-Google-Home-Setup-Guide)
