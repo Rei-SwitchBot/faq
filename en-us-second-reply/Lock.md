@@ -496,6 +496,12 @@ Note:
 Lock Pro and Lock Ultra can be controlled with up to seven Keypad Touchs.
 
 
+---
+### How Can I Make SwitchBot Lock's Mounting Bracket Extend Outward Like It Does in the Promotional Image?
+
+When securing the lock, you may need to adjust the mounting bracket by extending it from the main lock unit to fit the base of your home's front door lock. As shown in the diagram below, open the battery cover, loosen the screws, and adjust the height of the base adapter.
+
+<img width="543" height="390" alt="image" src="https://github.com/user-attachments/assets/35eb379b-996e-47cb-afed-53dd3ce790c5" />
 
 
 
