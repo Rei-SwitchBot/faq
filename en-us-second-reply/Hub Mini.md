@@ -248,7 +248,30 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### How to Transfer Learned Infrared Remotes From One Hub Mini to Another
 
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure your Hub products have been added to your App and your device firmware version is up to date.
+3. 
+Method 1
+Please transfer the infrared remotes to another hub in the following order.
+- Launch the SwitchBot App and log in.
+- Tap the target IR remote.
+- Tap the gear icon in the upper right corner.
+- Tap "Hub" on the settings screen.
+- Select and save another hub product in your account.
+By using this setting, the chosen infrared remote control will connect to the selected hub.
+
+Note:
+If another hub is grayed out and cannot be selected, it is highly likely that the infrared signal is outdated, and unfortunately, neither customer service nor R&D team will be able to assist. Please try deleting the applicable infrared remote control and registering it again.
+
+
+
+Method 2
+Use the "Duplicate remotes" function.
+SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
+This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
 
 
 
