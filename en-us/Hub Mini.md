@@ -2318,6 +2318,7 @@ Regarding the firmware update issue, could you please check the following points
 
 8. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Hub Mini to the router and try updating the firmware again.  
 9. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+10. If you are using a VPN, please disconnect it during the firmware update.
     
 
 ---
