@@ -2368,8 +2368,9 @@ Regarding this issue, could you please check the following points?
 1. Check if your Hub Mini firmware is V3.2-2.3, V3.3-2.3, or V3.4-2.3. If it matches one of these versions, special server-side operations are required to update the firmware. Please feel free to contact us.  
 2. If your Hub Mini firmware is not V3.2-2.3, V3.3-2.3, or V3.4-2.3, please troubleshoot by checking the following steps:
   1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.  
-  2. Unplug the power for the Wi-Fi router and the Hub Mini, then restart them.  
-  3. Turn off the power to the Wi-Fi router and connect the Hub Mini to your smartphone's tethering to check if the firmware can be updated.
+  2. If you are using a VPN, please disconnect it during the firmware update.
+  3. Unplug the power for the Wi-Fi router and the Hub Mini, then restart them.  
+  4. Turn off the power to the Wi-Fi router and connect the Hub Mini to your smartphone's tethering to check if the firmware can be updated.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 3. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Hub Mini to the router and try updating the firmware again.  
 4. There may be failures due to network connection issues, so please wait for some time and try multiple times.
@@ -2377,6 +2378,11 @@ Regarding this issue, could you please check the following points?
 - Unplug the Hub Mini.
 - Hold the button on the devive while plugging it back in.
 - Open the SwitchBot app, go to Profile > Firmware recovery, and follow the instructions.
+
+6. Remove and reset Hub Mini.
+- Delete the device from the SwitchBot app by long-pressing it.
+- Press and hold the button on the Hub Mini for 15 seconds to reset.
+- Re-add the device to the app.
 
 
 ---
