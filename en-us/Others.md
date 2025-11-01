@@ -72,18 +72,6 @@ If the email address you entered doesn't meet the criteria, we recommend that yo
 ---
 ### About Daylight Saving Time
 
-L
-
-ast Updated：
-
-2024 Sep 30
-
-SwitchBot App Version: 9.1 or newer
-
-SwitchBot App Version ≥ 9.0
-
-Way to set up Daylight Saving Time.
-
 Launch the SwitchBot App.
 
 Tap the home name at the top left of the screen (the default name is "My Home").
