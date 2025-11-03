@@ -703,4 +703,35 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/11615262691351](https://support.switch-bot.com/hc/en-us/articles/11615262691351-How-to-Reset-SwitchBot-Blind-Tilt)
 
 
+---
+### Troubleshooting Not Being Able to Charge SwitchBot Blind Tilt Using the Solar Panel
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify if the Blind Tilt can recognize the solar panel.
+[https://support.switch-bot.com/hc/en-us/articles/35928618842007](https://support.switch-bot.com/hc/en-us/articles/35928618842007-What-to-Do-If-SwitchBot-Blind-Tilt-Does-Not-Recognize-the-Solar-Panel)
+2. Make sure that the solar panel's light sensing level is 6 or higher.
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/0589f7c4-82b8-469a-af76-bf9d0112966b" />
+
+
+3. If the light sensing level is low and the daily opening and closing consume the battery faster than the solar panel can charge it, it may seem as though the battery is not being charged even while connected to the solar panel. We appreciate your understanding!
+4. To charge more efficiently, please make sure to place the solar panel in a spot where it is exposed to sunlight that creates clear and distinct shadow outlines.
+
+
+---
+### Troubleshooting SwitchBot Blind Tilt Not Recognizing the Solar Panel
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the firmware version is V20 or later by going to SwitchBot App → Blind Tilt → Gear Icon → Firmware & Battery.  
+2. Remove the solar panel, wait for about 10–15 seconds, and then insert it back into the Blind Tilt. After that, tap on the Blind Tilt in the SwitchBot app and check if the sun icon is displayed in the battery section.  
+3. Remove the solar panel, use a reset pin to press and hold the reset button (hole) at the bottom of the Blind Tilt for 15 seconds to reset it. After resetting, reinsert the solar panel and check if that resolves the issue.
+4. If you have multiple devices and solar panels available, try using a different solar panel to see if it's recognized.
+
+
+
+
+
+
 
