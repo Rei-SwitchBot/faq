@@ -1,4 +1,4 @@
-<img width="455" height="289" alt="image" src="https://github.com/user-attachments/assets/885ba843-24d9-4ae0-8edf-8333f6521cf3" />---
+---
 
 ## Pan Tilt Cam 3MP
 
