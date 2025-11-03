@@ -354,6 +354,18 @@ Regarding this issue, could you please check the following points?
 <img width="308" height="279" alt="image" src="https://github.com/user-attachments/assets/3fd70d34-67a2-4285-85e9-48997309ed74" />
 
 
+---
+### Troubleshooting SwitchBot Roller Shade Often Disconnects from the Hub.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Unplug the hub and then plug it back in.
+3. Place the hub product as close as possible to the Roller Shade (within 5 meters is recommended).  
+4. Use the reset pin to press the reset hole once and restart the Roller Shade.
+
+<img width="308" height="279" alt="image" src="https://github.com/user-attachments/assets/666fde3e-04ef-41f0-a860-f7df9a1b149b" />
+
 
 
 
