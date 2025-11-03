@@ -627,10 +627,23 @@ Regarding the firmware update issue, could you please check the following points
 8. There may be failures due to network connection issues, so please wait for some time and try multiple times.
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light Suddenly Stopped Connecting to Wi-Fi.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light → Gear Icon → Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
+2. Restart your router.  
+3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light → Gear Icon → Firmware & Battery. Check for and install any available firmware updates.
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
 
+---
+### Troubleshooting When Adding SwitchBot Ceiling Light to the App, the Wi-Fi Mac Address Displays as 00:00:00:00:00:00, Making It Unable To Connect to the Network.
 
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn off the ceiling light using the wall switch, then turn it back on again (this will reset the power).
 
 
 
