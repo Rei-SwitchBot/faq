@@ -864,7 +864,34 @@ Setup
 6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
 
 
+---
+### Use the Widget Feature to Lock and Unlock SwitchBot Lock Pro
 
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Lock Pro and SwitchBot Hub products have been added to your App and your device firmware version is up to date.
+
+3. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Lock Pro near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+
+4. Set up a widget in the SwitchBot App.
+
+Launch the SwitchBot App and log in.
+Tap "Profile" in the lower right corner.
+Tap "Widget Settings".
+Tap the blue + icon to add your Lock Pro and save.
+
+5. Add Lock Pro to the widget in the following order on your iPhone.
+Touch and hold an empty area on the Home Screen until the apps jiggle.
+Tap "Edit" in the upper left corner.
+Tap "Add Widget".
+Input SwitchBot and Search.
+Follow the on-screen steps to add your Lock Pro to the Widget.
+
+To learn more about iOS widgets, you can find them here.
+[https://support.apple.com/en-hk/118610](https://support.apple.com/en-hk/118610)
+
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
+[https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
 
 
 
