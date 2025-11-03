@@ -83,6 +83,36 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### How to Restart and Reset SwitchBot Roller Shade
+
+Restarting your Roller Shade
+Press the reset pin into the reset hole once to restart the device.
+
+<img width="308" height="279" alt="image" src="https://github.com/user-attachments/assets/5e72b18c-d12d-456e-be99-1157103d6886" />
+
+Resetting your Roller Shade
+Press and hold the pairing button for 15 seconds to reset your Roller Shade.
+
+<img width="383" height="246" alt="image" src="https://github.com/user-attachments/assets/2f8a79ef-6d80-4552-8770-8b7ae00f6c48" />
+
+
+---
+### Is SwitchBot Roller Shade Cutter Disposable?
+
+No, as long as the roller shade cutter is not damaged, it can be reused to cut the fabric.
+
+
+---
+### Troubleshooting SwitchBot Roller Shade Often Disconnects from the Hub.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing the Bluetooth connection status by going to SwitchBot App -> Profile -> Manage Hub -> the relevant Hub.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
