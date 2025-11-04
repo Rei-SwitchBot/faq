@@ -504,6 +504,9 @@ When securing the lock, you may need to adjust the mounting bracket by extending
 <img width="543" height="390" alt="image" src="https://github.com/user-attachments/assets/35eb379b-996e-47cb-afed-53dd3ce790c5" />
 
 
+---
+### What Should I Check Before Purchasing a SwitchBot Lock？
+
 
 
 
