@@ -1065,6 +1065,14 @@ Regarding this issue, could you please check the following points?
 [https://youtu.be/-_J91BdL5ak](https://www.youtube.com/watch?v=-_J91BdL5ak)
 
 
+---
+### Troubleshooting SwitchBot Curtain 3 Not Responding at the Scheduled Time, but It Can Be Controlled Using SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When operating the curtain via the SwitchBot app, the curtain operates in Standard Mode. If you can control your curtain opening and closing through the app, it is considered that there are no issues with the motor of the curtain device. Please check whether Silent Mode or QuietDrift Mode is enabled by navigating through SwitchBot app → Curtain → Schedules → the specific schedule → Motion Mode. If necessary, switch to Standard Mode.
+
+<img width="744" height="1280" alt="image" src="https://github.com/user-attachments/assets/4fa75553-06d9-40a3-bc5d-06b33c98e17b" />
 
 
 
