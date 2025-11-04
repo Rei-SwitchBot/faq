@@ -170,13 +170,7 @@ Currently, the iOS Home App does not support battery level checking for the Swit
 ---
 ### Can I Use Commercially Available Magnets for SwitchBot Lock?
 
-Last Updated：
-
-2023 Sep 18
-
-Related Products: SwitchBot Lock
-
-Yes, it's usable. Please use a magnet with a magnetic force of 2000 Gs (gauss) or more.
+We do not recommend using non-SwitchBot magnets, as they may interfere with the auto-lock function.
 
 
 ---
