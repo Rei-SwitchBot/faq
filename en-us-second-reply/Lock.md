@@ -504,7 +504,20 @@ When securing the lock, you may need to adjust the mounting bracket by extending
 <img width="543" height="390" alt="image" src="https://github.com/user-attachments/assets/35eb379b-996e-47cb-afed-53dd3ce790c5" />
 
 
+---
+### What Should I Check Before Purchasing a SwitchBot Lock？
 
+Before buying, please check if SwitchBot Lock is compatible with your original door lock and if it can be used with your smartphone.
+[https://www.switch-bot.com/pages/switchbot-lock-compatibility](https://www.switch-bot.com/pages/switchbot-lock-compatibility)
+
+If you have further questions, please contact support@switch-bot.com for help instead of DIY.
+Deadbolt:
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/65cf3e67-e927-4696-a7c7-1c6ceb8d83e8" />
+
+Jimmy-Proof:
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6c390e99-2c6e-433d-80da-8ee15280cd63" />
 
 
 
