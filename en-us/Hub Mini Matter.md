@@ -627,10 +627,29 @@ We understand this isn't the ideal experience you expected, and we're truly sorr
 Thank you for your understanding and support!
 
 
+---
+### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify whether you can control your air conditioner using the SwitchBot app. If it cannot be controlled through the SwitchBot app, please re-add the air conditioner remote.
+2. Unlink the SwitchBot app and Alexa, then link them again.
+3. Make sure you are using the correct voice commands.  
+[https://support.switch-bot.com/hc/en-us/articles/360039685774](https://support.switch-bot.com/hc/en-us/articles/360039685774-Commands-for-controlling-IR-appliances-with-Alexa)
+4. Please check if changing the name of the air conditioner remote control resolves the issue.
 
 
+---
+### Troubleshooting Only the Power and Mute Buttons on the TV Remote Can Be Learned with SwitchBot Hub Mini Matter Enabled, Other Buttons Cannot.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Our hub is only compatible with infrared remote controls. Hybrid infrared/bluetooth remotes can only learn buttons that have an infrared signal. If you are using the "learn buttons" method and can only program the power or mute buttons on your TV remote, it's likely that these are the only buttons with an infrared signal, indicating that the remote is not fully infrared-compatible.
+To confirm whether your remote uses infrared, please send us a photo of the unit, and we’ll assess it for you. For detailed specifications, we also recommend checking with the manufacturer directly.
+Important Note:
+If the remote control of household appliances has "NETFLIX", "Prime Video", Google Assistant, and Alexa voice button, then it is likely to be a remote control that supports Bluetooth or wireless overall. Our hub cannot be used to adding these remotes.
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
