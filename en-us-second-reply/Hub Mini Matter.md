@@ -188,8 +188,42 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - A screenshot of your order
 
 
+---
+### How to Sync the Added IR Remotes to Apple Home App
+
+Please synchronize the added infrared remotes to Apple Home app in the following order:
+Launch SwitchBot app and log in.  
+Tap your Hub Mini Matter.  
+Tap the gear icon in the upper right corner.  
+Tap "Matter Setup".  
+Tap "Secondary Device".  
+Tap "Lab Features (Beta)" and add the target IR remote.
+
+Important Note:
+
+1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
+2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
+3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
+[https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807-Can-Infrared-Remote-Control-in-SwitchBot-Hub-2-Be-Controlled-by-Apple-Home-App)
 
 
+---
+### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- The name of the malfunctioning AC remote control in your account.  
+- The non-working buttons on the infrared remote control (e.g., all buttons / specific buttons. *If specific buttons are not functioning, please provide the buttons' names.)
+- Details about the temperature setting, mode, wind speed, and wind direction during the time of the malfunction
+- The status of the AC remote control displayed in the Alexa App – whether it shows as normal or unresponsive.  
+- Whether you can manually turn on/off the AC via the Alexa app
+- The approximate time of the last failed operation on the AC remote control, for example, 2025-01-06, 14:30.
+- Whether the AC can still be operated using the SwitchBot app.  
+- Screenshots of the voice history by going to Alexa app → More → Alexa Privacy
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
