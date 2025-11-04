@@ -569,3 +569,18 @@ https://support.switch-bot.com/hc/en-us/articles/28199405040791-How-to-Test-and-
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
+---
+### Troubleshooting SwitchBot Water Leak Detector Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the batteries are inserted in the correct orientation.  
+2. Please verify whether replacing the batteries resolves the issue.
+
+
+
+
+
+
+
