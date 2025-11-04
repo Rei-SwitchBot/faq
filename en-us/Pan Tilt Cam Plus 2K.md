@@ -497,6 +497,45 @@ If you have any other questions, please do not hesitate to contact us.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting the IP Address Shown for SwitchBot Pan Tilt Cam Plus 2K in the Switchbot App Does Not Match My Home Router's IP Address.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The IP address shown on the Pan Tilt camera's Wi-Fi settings page is the public or global IP address for your broadband line, not the local network IP address of your home router. Therefore, it may be different from your home router's IP address. Thank you for your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting Trying to Disable Privacy Mode on SwitchBot Pan Tilt Cam Plus 2K, but It Stays Stuck on the Loading Screen and Doesn't Switch.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. The Beta version of the app may encounter errors. 
+2. Normally, please wait until the camera feed is displayed, and then proceed to toggle the privacy mode on/off. Loading the video data involves the camera's connection process, so attempting to perform operations before the connection is complete may result in errors.  
+3. To ensure a more stable connection, please place the camera as close to the router as possible.  
+4. Restart the SwitchBot app.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Pan Tilt Cam Plus 2K Cannot Be Recognized
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn on recording by going to SwitchBot app → Pan Tilt Cam Plus 2K → Gear icon → Local Storage.
+
+2. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be recognized. If it cannot be recognized even on the computer, the issue is likely with the microSD card itself. 
+ 
+3. Format the microSD card to the FAT32 format on your computer, then insert it into the Pan Tilt Cam Plus 2K and check if the issue is resolved.  
+
+4. If you have multiple microSD cards, try inserting a different microSD card into the Pan Tilt Cam Plus 2K and check if it can be recognized. If other microSD cards can be recognized without any issues, the problem is likely with the specific microSD card.  
+
+5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be recognized.  
+
+
+
+
+
 
 
 
