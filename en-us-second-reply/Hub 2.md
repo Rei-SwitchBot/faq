@@ -289,7 +289,21 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Firmware Version Update for SwitchBot Hub 2
 
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Hub 2 has been added to your App.
+3. Update firmware version in following order.
+- Launch SwitchBot App and log in.
+- Tap the relevant Hub 2.
+- Tap the gear icon in the upper right corner.
+- Tap "Matter Settings (Beta)" on the settings screen.
+- A message for updating the firmware will appear. tap "Confirm".
+- The firmware update will be performed automatically.
+Note: After-sales service can arrange firmware updates, please contact us via your feedback if necessary.
+[https://support.switch-bot.com/hc/en-us/articles/11293013687319](https://support.switch-bot.com/hc/en-us/articles/11293013687319-How-to-Update-the-Firmware-Version)
+4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
