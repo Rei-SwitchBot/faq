@@ -265,7 +265,11 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Can the Dial Button on the Hub 3 Be Used to Adjust the Brightness of Non-SwitchBot Lights?
 
+If other brands of lighting devices in your home also support the Matter protocol, you can use Matter to add Hub 3 and other brand lighting devices to Apple Home, Alexa app or SmartThings. However, currently it is not possible to adjust the brightness of other brand lights with the dial button of Hub 3.
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
 
