@@ -737,7 +737,24 @@ Once connected, go to "Connected Devices" under the personal hotspot menu on you
 If you are using an iOS device, the only way to check the MAC address is to connect the Pan/Tilt Cam 2K to an Android device or a PC running Windows 10 or later, as there is no 'Connected devices' option when using iPhone tethering. We apologize for any inconvenience caused.
 
 
+---
+### How To Switch Between Different Cameras by Swiping Left and Right on the Real-Time Monitoring Screen
 
+1. Make sure all your cameras have been added to the SwitchBot app.
+
+2. You can disable the promotional advertisement as follows:
+- Please configure it in the following order:  
+- Launch SwitchBot app and log in.  
+- Tap on any camera.  
+- Tap on the camera feed screen.  
+- Tap the Multi-View icon in the upper right corner of the feed screen.  
+- Tap the "+" icon to add the cameras you wish to display.  
+- Tap the Multi-View icon again to exit Multi-View mode.  
+
+Note:  
+If you have multiple cameras, performing the above operation on one camera is enough. No need to do it for each camera.
+
+3. With these settings, you can switch to a different camera feed by swiping the camera image screen.
 
 
 
