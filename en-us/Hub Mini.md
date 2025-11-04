@@ -2495,7 +2495,12 @@ Regarding this issue, could you please check the following points?
 4. Please check if changing the name of the air conditioner remote control resolves the issue.
 
 
+---
+### Troubleshooting When Adding SwitchBot Hub Mini to the App, the Wi-Fi Mac Address Displays as 00:00:00:00:00:00, Making It Unable To Connect to the Network.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please unplug the Hub Mini, then plug it back in.
 
 
 
