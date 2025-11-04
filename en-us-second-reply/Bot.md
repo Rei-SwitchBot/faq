@@ -325,6 +325,14 @@ There are no notifications sent to your smartphone after the Bot operates accord
 As a temporary solution, if you have the Hub product, we recommend setting up SwitchBot automation. When the automation is triggered, you will receive execution notifications. 
 
 
+---
+### What Is SwitchBot Bot's "Reverse On/Off Directions"?
+
+After setting the Bot mode to switch mode, the "Reverse On/Off Directions" option will appear in the mode interface. 
+In switch mode, when you tap "On" in the SwitchBot app, the bot's arm lowers to press the switch, and when you tap "Off," it pulls up the fishing-line part to turn off the switch.
+Due to the installation position, if you tap "on" in the SwitchBot app, the switch at home will actually turn off; when you tap "off", the switch will turn on (meaning that the operation in the app is inconsistent with the actual switch status), please use the "Reverse On/Off Directions" function to solve this problem.
+Note:
+After enabling "Reverse On/Off Directions", there will be no change in position of icons for Bot "on" and "off" in SwitchBot app.
 
 
 
