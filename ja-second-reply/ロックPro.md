@@ -301,6 +301,58 @@ iOSウィジェットの追加・編集についてこちらへ
 [https://support.switch-bot.com/hc/ja/articles/20399026689559](https://support.switch-bot.com/hc/ja/articles/20399026689559-%E3%82%A6%E3%82%A3%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88-Widget-%E8%BF%BD%E5%8A%A0%E5%8F%AF%E8%83%BD%E3%81%AASwitchBot%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E4%B8%80%E8%A6%A7)
 
 
+---
+### ロックProの購入を検討していますが、自宅の玄関錠はロックProの取付ができますでしょうか。
+
+1．弊社の公式ホームページにて対応可能なブランドおよび型式が確認可能です。
+[https://www.switchbot.jp/pages/compatibility-of-lock-pro](https://www.switchbot.jp/pages/compatibility-of-lock-pro)
+
+2．以下のサイズをはかって、取り付け可能かご確認ください。
+
+<img width="1275" height="584" alt="image" src="https://github.com/user-attachments/assets/de50c708-c000-477a-961f-4c5493bfde91" />
+
+A つまみの厚さ
+B つまみの長さ
+C 台座の直径
+D つまみの中心からドア枠までの長さ
+E つまみの高さ
+F つまみの頂点からドア枠までの高さ
+
+- 台座直径Cは60mm（半径30mm）を超えると、ロックPro本体は台座に当たってしまうため、しっかり固定できかねます。ロックProの取付をご遠慮ください。（参考図はロックですが、ロックProに通用します）
+
+<img width="938" height="613" alt="image" src="https://github.com/user-attachments/assets/ee935a91-caf1-43e7-89fd-bdf55025e965" />
+
+- つまみの頂点からドア枠までの距離Fは62mmを超えると、ロックPro本体はドアに届かなくて、ドアに貼り付けできかねます。弊社ホームページから15mmの高さ補助パーツをご購入いただくと、最大77mm（62+15）対応可能です。Fは77mm以上の場合、ロックProの取付をご遠慮ください。
+[https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock?variant=41653345157295](https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock?variant=41653345157295)
+
+- ご自宅のドアは内側から開くタイプで、つまみの中心からドア枠までの距離Dは40mm以内である場合、ドア幅を計ってから、取り付け可能かご確認ください。
+
+<img width="543" height="74" alt="image" src="https://github.com/user-attachments/assets/d365f985-5f43-4217-836c-b1ece2ecbc2a" />
+
+3．LIXIL TOSTEMジェスタ2（丸形）であると、下記のリンクにて特殊サムターンホルダーをご購入いただくようお願いいたします。
+[https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock?variant=44386125217967](https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock?variant=44386125217967)
+
+4．LIXIL TOSTEMジェスタ2（八角形）であると、以下の内容をいただけると助かります。
+- ご購入のロックProの台数
+- 玄関錠LIXIL TOSTEMジェスタ2（八角形）を確認できる写真
+- ご注文番号
+- ご購入履歴のスクリーンショット
+- 送り先情報
+1. お名前
+2. お電話番号
+3. ご住所
+4. 郵便番号
+
+5．上記をご確認の上でも、ご不明な点などがございましたら、各サイズとご自宅の玄関錠が確認できる写真をご協力お願いいたします。
+
+※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
+
+参考リンク：
+ロック、ロックPro、ロックUltra本体のサイズ情報：[https://support.switch-bot.com/hc/ja/articles/32761941222167](https://support.switch-bot.com/hc/ja/articles/32761941222167-%E3%83%AD%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AFPro-%E3%83%AD%E3%83%83%E3%82%AFUltra%E6%9C%AC%E4%BD%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%82%BA%E6%83%85%E5%A0%B1)
+ロック、ロックPro、ロックLiteとロックUltraの機能一覧：[https://support.switch-bot.com/hc/ja/articles/20134786536855](https://support.switch-bot.com/hc/ja/articles/20134786536855-%E3%83%AD%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AFPro-%E3%83%AD%E3%83%83%E3%82%AFLite%E3%81%A8%E3%83%AD%E3%83%83%E3%82%AFUltra%E3%81%AE%E6%A9%9F%E8%83%BD%E4%B8%80%E8%A6%A7)
+
+
+
 
 
 
