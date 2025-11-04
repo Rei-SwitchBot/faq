@@ -375,7 +375,41 @@ If you have multiple cameras, performing the above operation on one camera is en
 3. With these settings, you can switch to a different camera feed by swiping the camera image screen.
 
 
+---
+### Troubleshooting Trying to Disable Privacy Mode on SwitchBot Pan Tilt Cam Plus 3K, but It Stays Stuck on the Loading Screen and Doesn't Switch.
 
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing the failure to switch to privacy mode
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Pan Tilt Cam Plus 3K Cannot Be Recognized
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot of an error message indicating that the microSD card is not recognized
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+If the recommended SD card cannot be recognized, please provide a detailed description of the issue to help us determine if a replacement Pan Tilt Cam Plus 3K is necessary.
 
 
 
