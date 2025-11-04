@@ -115,4 +115,14 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Is It Possible to Purchase the Fabric for SwitchBot Roller Shade Separately?
+
+Currently, we do not have plans to sell Roller Shade fabric separately, and we strongly recommend  choosing and purchasing fabrics at a market near your home.
+When choosing your shade fabric, remember:
+1. Fabric Roll Diameter: The diameter of the rolled-up fabric, including the rod, should not exceed 66mm.
+2. Fabric Weight: Keep the fabric weight under 3kg to avoid putting too much strain on the Roller Shade and affecting its performance.
+
+<img width="545" height="555" alt="image" src="https://github.com/user-attachments/assets/78bd5336-131a-40d5-9b1a-2578f7838178" />
+
 
