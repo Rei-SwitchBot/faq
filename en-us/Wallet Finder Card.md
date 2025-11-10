@@ -254,7 +254,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. For Android users, ensure that the SwitchBot App's battery usage is set to unrestricted in order to update the location information for your finder card. For iOS users, allow background app refresh for the SwitchBot App.
 2. When your Finder Card is within the Bluetooth range of your phone, SwitchBot App updates its location every 10 minutes. If it’s outside your phone’s Bluetooth range, the App will display the last location where your phone detected the card via Bluetooth.
-3. If the Finder Card is near your phone but the location hasn’t updated for a while, please tap the card in the SwitchBot App and check if the Bluetooth icon on the map page is red. If it’s red, press the button on the Wallet Finder Card and wait for a beep, which should trigger an update.
+3. If the Finder Card is near your phone but the location hasn’t updated for a while, please press the button on the Wallet Finder Card and wait for a beep, which should trigger an update.
 
 
 
