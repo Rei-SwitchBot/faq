@@ -730,6 +730,18 @@ Regarding this issue, could you please check the following points?
 4. If you have multiple devices and solar panels available, try using a different solar panel to see if it's recognized.
 
 
+---
+### Troubleshooting Next Button Remains Grey When Trying To Calibrate SwitchBot Blind Tilt and Calibration Cannot Proceed.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please return to the previous page and attempt the calibration process again. When recording the fully open position, rotate the device approximately two more turns and check if the gray display issue is resolved. If the issue persists, submit feedback immediately.
+2. After removing the device from the app, use the reset pin to press the reset button (located in the small hole at the bottom of the Blind Tilt main body) to restart it. Once the restart is complete, re-add the device to the app.
+
+
+
+
+
 
 
 
