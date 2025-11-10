@@ -1941,6 +1941,15 @@ For data security reasons, account authentication cannot be handled by our custo
 We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
+---
+### Troubleshooting Auto-Lock Option on SwitchBot Lock Pro Settings Page Is Grayed Out and Cannot Be Accessed Remotely
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, to ensure security and that the settings take effect properly, basic settings must be adjusted while your phone is within Bluetooth range of the Lock product and Bluetooth is enabled on your device.  If you are out of range, settings will be grayed out and cannot be modified.
+
+<img width="745" height="1280" alt="image" src="https://github.com/user-attachments/assets/510b5570-19a8-4a55-a8c8-697d87e85b46" />
+
+We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
 
