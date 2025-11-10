@@ -451,4 +451,17 @@ In night mode, according to your settings, Lock Ultra can automatically re-lock 
 [https://support.switch-bot.com/hc/en-us/articles/25330863432727](https://support.switch-bot.com/hc/en-us/articles/25330863432727-SwitchBot-Lock-Pro-and-Lock-Ultra-s-Auto-Unlock-Beta-Feature)
 
 
+---
+### Can SwitchBot Lock Ultra Be Installed on an Electric Lock?
+
+If your home's front door is equipped with an electric lock, please make sure the following prerequisites are met before installing SwitchBot Lock Ultra:
+- The electronic functions of the door lock must be able to be disabled by cutting off power.  
+- Manual locking and unlocking should still work after power is cut off, and key-based unlocking must function properly.  
+If you cannot disable the electronic functions or manual/key-based locking/unlocking is not possible, do not install the lock product.
+
+
+
+
+
+
 
