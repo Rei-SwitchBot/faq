@@ -895,6 +895,25 @@ SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
 
 
+---
+### Is It Possible to Emergency Unlock My Door Lock Directly with SwitchBot Keypad Touch?
+
+The emergency unlock feature can only be performed within the Bluetooth range of the lock device using the SwitchBot app. This means that emergency unlocking cannot be done through the Keypad Touch. We apologize for any inconvenience and appreciate your understanding.
+
+
+---
+### What Is the Capacity of SwitchBot Lock Pro Rechargeable Battery Pack?
+
+The rechargeable battery capacity of SwitchBot Lock Pro is 4000mAh.
+
+
+---
+### Can SwitchBot Lock Pro Be Installed on an Electric Lock?
+
+If your home's front door is equipped with an electric lock, please make sure the following prerequisites are met before installing SwitchBot Lock Pro:
+- The electronic functions of the door lock must be able to be disabled by cutting off power.  
+- Manual locking and unlocking should still work after power is cut off, and key-based unlocking must function properly.  
+If you cannot disable the electronic functions or manual/key-based locking/unlocking is not possible, do not install the lock product.
 
 
 
