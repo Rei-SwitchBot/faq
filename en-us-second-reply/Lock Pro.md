@@ -762,8 +762,8 @@ We regret to inform you that auto-unlock can only be activated through smartphon
 ### Why Are Unlocking and Locking Actions Not Available in SwitchBot Automation?
 
 For security reasons, locking and unlocking cannot be set as actions in SwitchBot Scene or Automation. Please use third-party services like Alexa or Apple Home if needed.
-You can create an Automation that triggers other SwitchBot products by locking/unlocking the Lock, opening/closing doors, or or when the Lock battery is low.
-Note: To use the Lock with third-party services or automation functions, you must use it with one of our Hub products.
+You can create an Automation that triggers other SwitchBot products by locking/unlocking the Lock Pro, opening/closing doors, or or when the Lock Pro battery is low.
+Note: To use the Lock Pro with third-party services or automation functions, you must use it with one of our Hub products.
 
 
 ---
