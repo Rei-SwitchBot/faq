@@ -875,7 +875,10 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Do I Need to Replace the Positioning Magnet as well After Replacing the Hooks on Curtain Rod 3 With the 2025 Version?
 
+The positioning magnet of Curtain 3 is determined by the host unit. If you only replace the hooks of Curtain Rod 3, there is no need to replace the magnet. Just use the original unit's magnet directly.
 
 
 
