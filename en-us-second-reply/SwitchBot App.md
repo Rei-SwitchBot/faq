@@ -29,7 +29,10 @@ You cannot directly reorder rooms on the "Manage Rooms" screen. However, the cha
 As long as you log in with the same SwitchBot account on both your iPad and iPhone, the devices you add, along with the scenes and automations you set up, will automatically sync. Furthermore, if you switch to a new phone later, simply log in with your existing SwitchBot App account on the new smartphone to directly access your previously configured devices.
 
 
+---
+### Can the Home Location Information Set on SwitchBot App Be Deleted?
 
+Currently, you cannot delete the home location information you have set. If necessary, we can escalate the matter to our R&D team for assistance. Please feel free to contact us.
 
 
 
