@@ -200,7 +200,14 @@ Regarding this issue, could you please provide us with a photo showing the issue
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Safety Alarm Displays the Message “Please Enable the Required Permissions” in the SwitchBot App, and the Prompt Cannot Be Dismissed.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please enable "Critical Alerts" by navigating to your phone's Settings app, selecting Notifications, then SwitchBot, and finally toggling on Critical Alerts.
+2. Open the Settings app on your smartphone, navigate to "General", then select "Background App Refresh", and make sure SwitchBot is enabled.
+3. Please delete the SwitchBot app and reinstall it from the app store.
 
 
 
