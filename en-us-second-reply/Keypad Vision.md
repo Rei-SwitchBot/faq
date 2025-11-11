@@ -224,6 +224,16 @@ The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. The abo
 There are currently no compatible European or American transit cards in the SwitchBot Lab data. As a temporary solution, you can add a Japanese transportation card in the Wallet app to achieve smartphone attachment Keypad Vision unlocking.
 
 
+---
+### Troubleshooting the Door Lock Will Unlock When Any Password Is Entered on SwitchBot Keypad Vision.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video reveals that any PIN can unlock the door lock
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
