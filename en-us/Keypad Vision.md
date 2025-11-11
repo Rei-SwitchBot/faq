@@ -355,7 +355,13 @@ ZIP/Postal Code
 A screenshot of your order
 
 
+---
+### Troubleshooting the Door Lock Will Unlock When Any Password Is Entered on SwitchBot Keypad Vision.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Keypad Vision → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. If face is registered, facial recognition may unlock the door lock when entering password.
 
 
 
