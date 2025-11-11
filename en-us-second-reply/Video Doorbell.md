@@ -351,12 +351,6 @@ The monitor of the Smart Video Doorbell communicates with the add-on monitor via
 
 
 ---
-### Is It Possible to Configure Multiple Add-on Monitors for One SwitchBot Smart Video Doorbell?
-
-We regret to inform you that only one add-on monitor can be connected to the Smart Video Doorbell.
-
-
----
 ### Can the Add-on Monitor Be Inserted with a microSD Card?
 
 The add-on monitor does not have a slot for inserting a microSD card, but you can view recordings from the microSD card on the monitor. 
@@ -453,6 +447,7 @@ The appearance of the Add-on Monitor is almost identical to the monitor, but the
 
 The Add-on Monitor is not a Wi-Fi extender.
 Actually, the Monitor works as a Wi-Fi extender. As long as the connection between the Monitor and the Doorbell remains stable, the video from the Doorbell can be viewed on the Add-on Monitor even on the second floor.
+
 
 
 
