@@ -104,12 +104,23 @@ home hubs, we suggest contacting Apple directly. Please refer to the link below 
 [https://support.apple.com/en-hk/102557](https://support.apple.com/en-hk/102557)
 
 Setup
+Method 1 Add SwitchBot Plug Mini EU to Apple Home without Using SwitchBot App 
+1. You can add your Plug Mini EU to Apple Home without using SwitchBot App. Press and hold the Plug Mini EU power button for 15 seconds until the indicator flashes blue to enter pairing mode. Then, open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Scan the OR code located on the Plug Mini EU body to continue the whole process.
+Video: [https://www.youtube.com/watch?v=Kcy9QuEHmLw](https://www.youtube.com/watch?v=Kcy9QuEHmLw)
+
+If you don't need to sync SwitchBot devices to Apple Home via the Plug Mini EU, we recommend choosing Method 1. However, if you need to sync (up to two) sub-devices through the Plug Mini EU to Apple Home, download the SwitchBot app and use Method 2 to set up Matter.
+
+Method 2 Add SwitchBot Plug Mini EU to Apple Home with SwitchBot App
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Plug Mini EU has been added to your App and your device firmware version is up to date.
 3. Make sure all devices (your iPhone, HomePod/Apple TV, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
 4. Copy the setup code by going to Switch Bot App -> Your Plug Mini EU -> Gear Icon (Settings screen) -> Matter Setup.
 5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
 6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+Video: [https://www.youtube.com/watch?v=0_LKeIr7rWw](https://www.youtube.com/watch?v=0_LKeIr7rWw)
+
+Note: 
+The Plug Mini EU is categorized as a relay switch, so its original name in Apple Home is "SwitchBot Relay Switch", which is normal.
 
 
 ---
