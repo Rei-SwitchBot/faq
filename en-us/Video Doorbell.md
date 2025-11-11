@@ -463,7 +463,10 @@ Regarding this issue, could you please check the following points?
 2. Charge the doorbell for 6 hours with the provided Type-C charging cable and a 5V2A charger. The indicator will be red while charging and turn green when fully charged. If the indicator doesn't light up, try using another charger and Type-C cable to troubleshoot.
 
 
+---
+### Is It Possible to Configure Multiple Add-on Monitors for One SwitchBot Smart Video Doorbell?
 
+We regret to inform you that only one add-on monitor can be connected to the Smart Video Doorbell.
 
 
 
