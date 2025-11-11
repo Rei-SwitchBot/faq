@@ -1,4 +1,4 @@
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b5bd38fb-a595-4751-8b8c-439688282c50" />---
+---
 
 ## Air Purifier
 
