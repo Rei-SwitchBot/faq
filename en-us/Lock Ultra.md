@@ -346,6 +346,19 @@ Regarding this issue, could you please check the following points?
 2. Delete the Lock Ultra from the SwitchBot app and add it again.
 
 
+---
+### Troubleshooting SwitchBot Lock Ultra Main Battery Drains Very Quickly
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. The US door lock with a 90-degree angle for unlocking/locking can last up to 12 months on a fully charged battery when unlocked/locked 10 times a day. 
+3. The EU door lock with a 900-degree angle for unlocking/locking can last up to 9 months on a fully charged battery when unlocked/locked 10 times a day.
+4. The battery life of the rechargeable battery may vary slightly depending on the actual usage environment. We appreciate your understanding.
+
+
+
+
 
 
 
