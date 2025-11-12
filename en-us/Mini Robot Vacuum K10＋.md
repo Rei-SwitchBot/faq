@@ -3281,6 +3281,82 @@ Regarding this issue, could you please check the following points?
 
 
 
+---
+### Can I Use the Antibacterial Dust Packs From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, of course. The dust packs for the K10+ and the K10+ Pro are interchangeable.
+
+
+---
+### Can I Use the Main Brush From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+No, do not use the main brush from the K10+Pro directly on the K10+. If you want to use the K10+ Pro's main brush on the K10+, you will need a special brush frame. (Otherwise, it may not operate properly.)
+We offer the frame for free, but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer cover this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
+To help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+Important Note: The rubber brush purchased from our [official website](https://www.switch-bot.com/products/switchbot-mini-robot-vacuum-k10-pro?variant=45934682833063) does not include the special frame.
+
+
+---
+### Can I use the filter from SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+No, the K10+Pro filters are smaller in size and cannot be used on the K10+.
+
+
+---
+### Can I Use the side brush From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, the side brushes from the K10+ Pro and K10+ are interchangeable. 
+
+
+---
+### Can I Use the mop bracket From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, the mop brackets from the K10+ Pro and K10+ are interchangeable. Also, you can use same mop sheets for K10+ and K10+ Pro.
+
+
+---
+### Can I Use the Front Caster Wheel From SwitchBot Mini Robot Vacuum K10+ Pro for the K10+?
+
+Yes, the front caster wheels from the K10+ Pro and K10+ are interchangeable. 
+
+
+---
+### How Long Can SwitchBot Mini Robot Vacuum K10+ Last on a Single Charge?
+
+The amount of time a fully charged K10+ can operate depends on the setting mode.For specific details, please refer to the following information:
+Quiet Mode＞150min
+Standard Mode＞120min
+Strong Mode＞90min
+Max Mode＞70min
+
+Note: The above data is based on SwitchBot lab test results, and actual operation times may vary slightly. Thanks for your understanding.
+
+
+---
+### Can I Operate Switchbot Mini Robot Vacuum K10+ With a Widget?
+
+Yes, you can add your K10+ to the widget.
+For more information on SwitchBot devices supported by the widget, please click the link below.
+[https://support.switch-bot.com/hc/en-us/articles/360037747254](https://support.switch-bot.com/hc/en-us/articles/360037747254-How-to-Add-SwitchBot-Devices-and-Scenes-to-Android-Widget)
+[https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
+
+
+
+
+
+
+
 
 
 
