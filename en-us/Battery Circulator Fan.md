@@ -595,6 +595,15 @@ Regarding this issue, could you please check the following points?
 
 
 
+---
+### How Many Hours Can SwitchBot Battery Circulation Fan Operate in Natural Mode?
+
+The Battery Circulation Fan's operating times for each mode are as follows:  
+Natural Mode: Approximately 30 hours  
+Sleep Mode: Approximately 18 hours  
+Baby Mode: Approximately 85 hours  
+For more information about the operating hours, please refer to the link below.
+[https://support.switch-bot.com/hc/en-us/articles/25125725966231](https://support.switch-bot.com/hc/en-us/articles/25125725966231-About-the-Operation-Time-of-SwitchBot-Battery-Circulator-Fan)
 
 
 
