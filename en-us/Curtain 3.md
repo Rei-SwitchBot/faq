@@ -1075,4 +1075,16 @@ Regarding this issue, could you please check the following points?
 <img width="744" height="1280" alt="image" src="https://github.com/user-attachments/assets/4fa75553-06d9-40a3-bc5d-06b33c98e17b" />
 
 
+---
+### Do I Need to Replace the Positioning Magnet as well After Replacing the Hooks on Curtain Rod 3 With the 2025 Version?
 
+The positioning magnet of Curtain 3 is determined by the host unit. If you only replace the hooks of Curtain Rod 3, there is no need to replace the magnet. Just use the original unit's magnet directly.
+
+
+---
+### SwitchBot Curtain 3 Alexa Setup Guide
+
+1. Please add Curtain 3 and Hub to the SwitchBot app.  
+2. Place Curtain 3 near the hub (within Bluetooth range), it will automatically connect to the hub. 
+3. Follow the link below to connect it with Alexa.
+[https://support.switch-bot.com/hc/en-us/articles/360051462654](https://support.switch-bot.com/hc/en-us/articles/360051462654-SwitchBot-Curtain-Curtain-3-Alexa-Setup-Guide)
