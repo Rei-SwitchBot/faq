@@ -39,3 +39,10 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/34802818186135](https://support.switch-bot.com/hc/en-us/articles/34802818186135-How-to-Reset-SwitchBot-Floor-Lamp)
 7. As a troubleshooting step, check if the Floor Lamp can connect to your smartphone's hotspot.  
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
+---
+### How to Reset SwitchBot Floor Lamp
+
+Press and hold the power button and music mode button on the floor lamp for 8 seconds until it cycles through red, green, and blue to initialize the device.
+Please note that initializing the device will erase all settings and Wi-Fi information. Thanks for your understanding.
