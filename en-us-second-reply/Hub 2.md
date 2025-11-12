@@ -177,48 +177,6 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
----
-### Can SwitchBot Hub 2 Display Show the Decimal Point for the Temperature?
-
-We regret to inform you that the display panel on the Hub 2 was designed without a backlight for decimal points, which means this feature is not available on that model. 
-For your reference, this functionality has been implemented in our newer model, the Hub 3. Should you have any interest in exploring an upgrade in the future, Hub 3 would be available as an option.
-
-
----
-### How to Add Air Conditioner Remotes by "Learn Buttons" Mode Using SwitchBot Hub 2
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Learn Buttons" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Select "Air Conditioner" under Home Appliances.
-- Tap "Learn Buttons".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25°C + automatic air volume) to the ON button.
-- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
-- Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
-
-
----
-### How to Add Air Conditioner Remotes by "Others" Mode Using SwitchBot Hub 2.
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Others" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Scroll down and then tap "Others".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- In the "Others" mode, buttons must be added manually one by one.
-- Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
-[https://support.switch-bot.com/hc/en-us/articles/19444800636183](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
-- For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
-
-
 ---
 ### Troubleshooting Unable to Add the Infrared Remotes to the Sub-Devices of SwitchBot Hub 2
 
@@ -230,24 +188,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
-
----
-### How to Sync the Added IR Remotes to Apple Home App
-
-Please synchronize the added infrared remotes to Apple Home app in the following order:
-Launch SwitchBot app and log in.  
-Tap your Hub Mini Matter.  
-Tap the gear icon in the upper right corner.  
-Tap "Matter Setup".  
-Tap "Secondary Device".  
-Tap "Lab Features (Beta)" and add the target IR remote.
-
-Important Note:
-
-1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
-2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
-3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
-[https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807-Can-Infrared-Remote-Control-in-SwitchBot-Hub-2-Be-Controlled-by-Apple-Home-App)
 
 
 ---
@@ -289,21 +229,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
----
-### Firmware Version Update for SwitchBot Hub 2
-
-1. Make sure your SwitchBot App version is up to date.
-2. Make sure SwitchBot Hub 2 has been added to your App.
-3. Update firmware version in following order.
-- Launch SwitchBot App and log in.
-- Tap the relevant Hub 2.
-- Tap the gear icon in the upper right corner.
-- Tap "Matter Settings (Beta)" on the settings screen.
-- A message for updating the firmware will appear. tap "Confirm".
-- The firmware update will be performed automatically.
-Note: After-sales service can arrange firmware updates, please contact us via your feedback if necessary.
-[https://support.switch-bot.com/hc/en-us/articles/11293013687319](https://support.switch-bot.com/hc/en-us/articles/11293013687319-How-to-Update-the-Firmware-Version)
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
 
