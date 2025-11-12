@@ -23,3 +23,7 @@ Regarding this issue, could you please provide us with a photo or video showing 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Is It Possible to Extend SwitchBot RGBICWW Strip Light?
+
+Please refrain from extending the RGBIC strip lights, as the extended section may not function properly.
