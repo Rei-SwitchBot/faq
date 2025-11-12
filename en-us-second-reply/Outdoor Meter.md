@@ -16,7 +16,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
 ---
 ### Troubleshooting SwitchBot Outdoor Meter Lights up When the Batteries Are Inserted, but Does Not Respond When the Button Is Pressed for 2 Seconds and 15 Second
 
@@ -50,6 +49,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
