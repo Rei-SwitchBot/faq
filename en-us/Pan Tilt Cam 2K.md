@@ -2471,6 +2471,64 @@ If you have any other questions, please do not hesitate to contact us.
 
 
 
+---
+### Why Is There No Service Plan for SwitchBot Pan Tilt Cam Cloud Storage Subscriptions with Over 3 Devices?
+
+The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+- 
+---
+### Why Is There No Service Plan for SwitchBot Pan Tilt Cam 2K Cloud Storage Subscriptions with Over 3 Devices?
+
+The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+
+---
+### How to Check the MAC Address of SwitchBot Pan Tilt Cam 2K
+
+If you are using an Android smartphone, you can check the MAC address by connecting the camera to the smartphone's personal hotspot.
+The method for connecting to a personal hotspot on an Android phone may vary depending on your device. Let's use a HUAWEI device as an example.  
+Go to Settings → Mobile Network → Personal Hotspot to view the device name and password. Turn on the Personal Hotspot to start using it.  
+Once connected, go to "Connected Devices" under the personal hotspot menu on your smartphone to find the MAC address of the camera.
+
+<img width="885" height="924" alt="image" src="https://github.com/user-attachments/assets/e1584450-af6c-4eaf-b0f0-4c7745f6cde0" />
+
+If you are using an iOS device, the only way to check the MAC address is to connect the Pan/Tilt Cam 2K to an Android device or a PC running Windows 10 or later, as there is no 'Connected devices' option when using iPhone tethering. We apologize for any inconvenience caused.
+
+
+---
+### How To Switch Between Different Cameras by Swiping Left and Right on the Real-Time Monitoring Screen
+
+1. Make sure all your cameras have been added to the SwitchBot app.
+
+2. You can disable the promotional advertisement as follows:
+- Please configure it in the following order:  
+- Launch SwitchBot app and log in.  
+- Tap on any camera.  
+- Tap on the camera feed screen.  
+- Tap the Multi-View icon in the upper right corner of the feed screen.  
+- Tap the "+" icon to add the cameras you wish to display.  
+- Tap the Multi-View icon again to exit Multi-View mode.  
+
+Note:  
+If you have multiple cameras, performing the above operation on one camera is enough. No need to do it for each camera.
+
+3. With these settings, you can switch to a different camera feed by swiping the camera image screen.
+
+
+
+
+
 
 
 
