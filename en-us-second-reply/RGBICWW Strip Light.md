@@ -5,12 +5,6 @@
 ---
 
 ---
-### Is It Possible to Extend SwitchBot RGBICWW Strip Light?
-
-Please refrain from extending the RGBIC strip lights, as the extended section may not function properly.
-
-
----
 ### Troubleshooting SwitchBot RGBICWW Strip Light Not Powering on
 
 Thank you for reporting this issue. 
