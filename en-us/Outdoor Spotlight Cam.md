@@ -1565,6 +1565,56 @@ If you have any other questions, please do not hesitate to contact us.
 
 
 
+---
+### How to Enable and Disable Night Vision for SwitchBot Outdoor Spotlight Cam 2K
+
+Please follow the steps below to configure the night vision settings:  
+Launch SwitchBot app and log in.  
+Tap the Outdoor Spotlight Cam 2K.  
+Tap the gear icon.  
+In the settings screen, tap "Basic Settings".  
+Tap "Night Vision" and set it to on, off or auto.  
+On the same screen, you can set the image to either "color" or "black and white".  
+
+Note:  
+In SwitchBot App, tap Outdoor Spotlight Cam 2K, you can also toggle "Night Vision" On/Off under "Features" at the bottom of the screen.  
+
+
+---
+### How to Enable and Disable Night Vision for SwitchBot Outdoor Spotlight Cam
+
+Please follow the steps below to configure the night vision settings:  
+Launch SwitchBot app and log in.  
+Tap the Outdoor Spotlight Cam.  
+Tap the gear icon.  
+In the settings screen, tap "Basic Settings".  
+Tap "Night Vision" and set it to on, off or auto.  
+On the same screen, you can set the image to either "color" or "black and white".  
+
+Note:  
+In SwitchBot App, tap Outdoor Spotlight Cam, you can also toggle "Night Vision" On/Off under "Features" at the bottom of the screen.
+
+
+---
+### Why Is There No Service Plan for SwitchBot Outdoor Spotlight Cam Cloud Storage Subscriptions with Over 3 Devices?
+
+The traditional camera series products do not offer a cloud storage plan for three or more devices. You can mix and match by purchasing 1 unit, 2 units, or 3 units as needed. For instance, if you have 10 indoor cameras, you cannot subscribe to a single cloud storage plan for all of them. Instead, you can choose to subscribe to a combination plan of 3 cameras, 3 cameras, 3 cameras, and 1 camera. We sincerely apologize for any inconvenience caused and kindly ask for your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+
+---
+### How to Check the MAC Address of SwitchBot Outdoor Spotlight Cam
+
+Open the waterproof cover of the Outdoor Spotlight Cam to view the MAC address.
+
+
+
+
+
 
 
 
