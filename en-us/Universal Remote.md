@@ -1406,3 +1406,16 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215-How-to-Invite-Other-Users-to-My-Home)
 3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Universal Remote will be automatically unbinded and you will be able to add it.
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Can the Screen of SwitchBot Universal Remote Stay on Constantly without Going to Sleep?
+
+We regret to inform you that the Universal Remote will automatically lock the screen after a set period of time to save battery. To activate it, you will need to lift or press any button on the device. We apologize for any inconvenience and appreciate your understanding!
+
+
+
+
+
+
+
