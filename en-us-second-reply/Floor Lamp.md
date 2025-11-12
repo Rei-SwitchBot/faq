@@ -5,13 +5,6 @@
 ---
 
 ---
-### How to Reset SwitchBot Floor Lamp
-
-Press and hold the power button and music mode button on the floor lamp for 8 seconds until it cycles through red, green, and blue to initialize the device.
-Please note that initializing the device will erase all settings and Wi-Fi information. Thanks for your understanding.
-
-
----
 ### Troubleshooting SwitchBot Floor Lamp Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
 
 Thank you for the information provided.
