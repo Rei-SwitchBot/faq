@@ -195,41 +195,6 @@ We apologize for any inconvenience caused.
 
 
 ---
-### How to Add Air Conditioner Remotes by "Learn Buttons" Mode Using SwitchBot Hub Mini
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Learn Buttons" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Select "Air Conditioner" under Home Appliances.
-- Tap "Learn Buttons".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25°C + automatic air volume) to the ON button.
-- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
-- Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
-
-
----
-### How to Add Air Conditioner Remotes by "Others" Mode Using SwitchBot Hub Mini
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Others" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Scroll down and then tap "Others".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- In the "Others" mode, buttons must be added manually one by one.
-- Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
-[https://support.switch-bot.com/hc/en-us/articles/19444800636183](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
-- For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
-
-
-
----
 ### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
 
 Thank you for the information provided.
@@ -246,32 +211,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
-### How to Transfer Learned Infrared Remotes From One Hub Mini to Another
-
-1. Make sure your SwitchBot App version is up to date.
-2. Make sure your Hub products have been added to your App and your device firmware version is up to date.
-3. 
-Method 1
-Please transfer the infrared remotes to another hub in the following order.
-- Launch the SwitchBot App and log in.
-- Tap the target IR remote.
-- Tap the gear icon in the upper right corner.
-- Tap "Hub" on the settings screen.
-- Select and save another hub product in your account.
-By using this setting, the chosen infrared remote control will connect to the selected hub.
-
-Note:
-If another hub is grayed out and cannot be selected, it is highly likely that the infrared signal is outdated, and unfortunately, neither customer service nor R&D team will be able to assist. Please try deleting the applicable infrared remote control and registering it again.
-
-
-
-Method 2
-Use the "Duplicate remotes" function.
-SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
-This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
 
 
 ---
