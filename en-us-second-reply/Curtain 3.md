@@ -843,15 +843,6 @@ If there is no issue with the curtain motor, our technical team will investigate
 
 
 ---
-### SwitchBot Curtain 3 Alexa Setup Guide
-
-1. Please add Curtain 3 and Hub to the SwitchBot app.  
-2. Place Curtain 3 near the hub (within Bluetooth range), it will automatically connect to the hub. 
-3. Follow the link below to connect it with Alexa.
-[https://support.switch-bot.com/hc/en-us/articles/360051462654](https://support.switch-bot.com/hc/en-us/articles/360051462654-SwitchBot-Curtain-Curtain-3-Alexa-Setup-Guide)
-
-
----
 ### Troubleshooting SwitchBot Curtain 3 Will Stop at the Gap of the Rod When Running
 
 Thank you for the information provided.
@@ -873,12 +864,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
-### Do I Need to Replace the Positioning Magnet as well After Replacing the Hooks on Curtain Rod 3 With the 2025 Version?
-
-The positioning magnet of Curtain 3 is determined by the host unit. If you only replace the hooks of Curtain Rod 3, there is no need to replace the magnet. Just use the original unit's magnet directly.
 
 
 
