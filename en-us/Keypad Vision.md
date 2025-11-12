@@ -366,4 +366,48 @@ Regarding this issue, could you please check the following points?
 
 
 
+---
+### Where Is the Registered Information for Passwords, Fingerprints, NFC Cards and Faces That Has Already Been Added to SwitchBot Keypad Vision Store?
+
+All passwords, fingerprints, faces, and NFC cards added are stored on the Keypad Vision body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, deleting and re-adding the device will automatically erase all previously added information.
+
+
+
+---
+### Is It Possible to Disable the Indicator Light on SwitchBot Keypad Vision?
+
+Currently, it is not possible to turn off the indicator on the Keypad Vision. We apologize for not being able to meet your request at this time, but we will review this matter internally and work towards an improvement in future firmware updates.
+If the Keypad Vision is set to automatic activation, the indicator light may turn on due to passersby. As a temporary measure, please configure the settings by navigating to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition -> Manual or Custom.
+
+
+---
+### How to Add the Suica Transportation Card to SwitchBot Keypad Vision  (iOS)
+
+Physical transportation card
+Launch SwitchBot App and log in.
+Tap your Keypad Vision.
+Tap the NFC card in the center right.
+Tap the "+" icon.
+Select the card type (permanent or temporary).
+Hold the card over the detection area of the Keypad Vision to register it.
+
+
+Electronic transportation card
+Add the e-card in advance via the Wallet App on your smartphone.
+Tap the appropriate card, then tap "..." in the upper right corner. 
+Tap "Card Details".
+Tap "Espress Transit Settings". 
+Turn on "Express Transit Card".
+Go to SwitchBot App -> Keypad Vision -> NFC card in the center right -> "+" icon -> Card Type -> Hold your smartphone over the detection area of the Keypad Vision to register it.
+
+<img width="1280" height="844" alt="image" src="https://github.com/user-attachments/assets/20a93346-231c-4864-8410-4c35f6dab137" />
+
+Note: 
+The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. The above illustration is for ICOCA, but the method to turn other transportation cards into express transit card is the same.
+There are currently no compatible European or American transit cards in the SwitchBot Lab data. As a temporary solution, you can add a Japanese transportation card in the Wallet app to achieve smartphone attachment Keypad Vision unlocking.
+
+
+
+
+
 
