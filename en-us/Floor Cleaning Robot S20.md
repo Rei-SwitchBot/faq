@@ -3062,3 +3062,185 @@ Please remove the main brush and roller mop to check for any foreign objects. Ad
 [https://youtu.be/N3ueD8hJcEg](https://www.youtube.com/watch?v=N3ueD8hJcEg)
 
 
+---
+### Daylight Saving Time with SwitchBot Floor Cleaning Robot S20
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Currently, the schedule and "Do Not Disturb" times set for SwitchBot Floor Cleaning Robot S20 are stored locally, meaning they don’t automatically adjust with Daylight Saving Time changes. We understand this may be an inconvenience, as users will need to manually update these times to align with seasonal time changes. We apologize for any disruption this may cause.
+As an alternative, if you are running a full-house clean, you can use SwitchBot’s automation feature to schedule this. Please note that automation currently does not support selecting specific rooms for cleaning.
+Our R&D team is actively working on this and exploring ways to improve scheduling for future updates. Thank you for your understanding, and please don’t hesitate to reach out with any additional questions or feedback.
+
+
+
+---
+### Notes on Moving the Water Station and base station for Your Floor Cleaning Robot S20 After Mapping
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+If you need to move the Floor Cleaning Robot S20's stations, here’s what to do:
+For the base station
+After moving the base station to a new location, simply start a cleaning task from the station. The robot will automatically update its location on the map during the cleaning process.
+
+For the Water Station
+After moving the water station, you will need to remark its location in the app. This ensures the robot knows the updated position of the water station.
+
+
+
+
+---
+### Can I Use the Auto-empty Station from SwitchBot Floor Cleaning Robot S10 with the S20?
+
+Regarding the compatibility between Floor Cleaning Robot S10 and S20, please refer to the following information:  
+1. The S10 cannot be used with the base station of the S20.
+2. When docking the S20 with the auto-empty station of the S10, charging is possible (requires auto-empty station firmware V23 or later), but functions like waste collection and mop drying are not available.
+3. Both robot models, S10 and S20, can utilize the water station. If you upgrade to the S20, you can designate the water station from your S10 for use with the new model.
+Multi-floor cleaning: [https://support.switch-bot.com/hc/en-us/articles/32681888413463](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+Where to buy the water station: [https://www.switch-bot.com/products/s-series-water-station](https://www.switch-bot.com/products/s-series-water-station)
+
+Important Note:
+- When using S20 and the water station on multiple floors, please refer to the following link.
+Related Post: [How to Use SwitchBot Floor Cleaning Robot S20 to Clean Multi-floor](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+- When the S20 base station and water station are on the same floor, after marking the water station, automatic refilling and draining will only be done at the water station. Charging, dust collection, and mop-drying will be done at S20's base station.
+
+
+---
+### How to Use SwitchBot Floor Cleaning Robot S20 with S10's Water Station to Achieve Auto-refilling and Draining
+
+If you have purchased the S20 version shown in the following image and want to achieve automatic water inlet and drainage, you need to purchase a separate water station.
+Water Station: [https://www.switch-bot.com/products/s-series-water-station](https://www.switch-bot.com/products/s-series-water-station)
+
+<img width="760" height="762" alt="image" src="https://github.com/user-attachments/assets/4acf0e6d-968b-4fcf-95f2-0ae2e272c491" />
+
+Please set the S20 robot up in the following order.
+- Launch SwitchBot App and login
+- Tap the + icon in the upper right corner then tap "Add Device".
+- Tap "Floor Cleaning Robot S20" under "Household"
+- Remove the faceplate of the S20 robot body and switch on the power to "I".
+- Tap "Next."
+- Long press the home button and mode switch button for three seconds, you will hear a voice from the S20 saying, "Wi-Fi settings have been reset".
+- Tap "Connect to Device".
+- Device detection will be performed automatically.
+- Input the 2.4GHz Wi-Fi SSID and password, then tap "Next".
+- Once the network connection is complete, you will see a message that says "Added."
+- Set your favorite name and room, then tap "Finish".
+
+Mark water station position.
+- Remove the sticker on the infrared receiver of the water station body.
+- Activate the water station by pressing and holding the bluetooth button on the side of the station for a couple of seconds.
+- Launch your SwitchBot App and tap your S20.
+- Tap "Functions" in the lower left corner.
+- Tap "Settings".
+- Tap "Mark Water Station Position"
+- Drag the water drop mark icon to the front of the actual location of Water Station.
+- Tap "Mark".
+- The S20 will automatically move to the water station and mark it.
+
+Important Note:
+- When using S20 and the water station on multiple floors, please refer to the following link.
+[https://support.switch-bot.com/hc/en-us/articles/32681888413463](https://support.switch-bot.com/hc/en-us/articles/32681888413463-How-to-Use-SwitchBot-Floor-Cleaning-Robot-S20-to-Clean-Multi-floor)
+- When the S20 base station and water station are on the same floor, after marking the water station, automatic refilling and draining will only be done at the water station. Charging, dust collection, and mop-drying will be done at S20's base station.
+
+
+
+---
+### Can I Temporarily Move the Water Station of the SwitchBot Floor Cleaning Robot S20 to Another Location If It's In the Way?
+
+Even a slight movement of the water station could prevent the S20 from returning to it. It is advised to install the water exchange station in an area with little foot traffic and to avoid moving it unnecessarily.
+
+
+---
+### Can I Place the Water Station of the SwitchBot Floor Cleaning Robot S20 Outdoors?
+
+Please do not install the water station of the S20 outdoors. Exposure to daily sunlight can reduce the lifespan of the water station.
+
+
+---
+### Installation Notes for SwitchBot Floor Cleaning Robot S20 Auto-empty Station and Water Station
+
+When installing the water station and auto-empty station for the S20, it is recommended to maintain a distance of at least 1 meter between them. Failure to do so may result in signal interference leading to cleaning leaks.
+
+
+---
+### Can the Auto-Empty Station and Water Stations of SwitchBot Floor Cleaning Robot S20 Be Placed Side by Side?
+
+1. We recommend maintaining a distance of at least 4 meters when installing the auto-empty station next to the waste station.
+2. If the two stations are next to each other, their signals may interfere and cause issues for the S20 robot in returning to the auto-empty station or properly positioning at the water station.
+3. Also, please arrange the two stations away from direct sunlight to avoid potential returning issues with S20.
+
+
+---
+### SwitchBot Floor Cleaning Robot S20 Matter Setup (iOS)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Floor Cleaning Robot S20
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding
+home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+[https://support.apple.com/en-hk/102557](https://support.apple.com/en-hk/102557)
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S20 has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Floor Cleaning Robot S20) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Floor Cleaning Robot S20 -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+
+
+---
+### Lengths of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S20
+
+The water inlet hose and drain hose for the S20 are both 2.5 meters long.
+
+
+---
+### Diameters of the Water Inlet Hose and Drain Hose for SwitchBot Floor Cleaning Robot S20
+
+The water inlet hose and drain hose for the S20 both have an inner diameter of 4mm and an outer diameter of 6mm.
+
+
+---
+### Can the auto-refill function of SwitchBot Evaporative Humidifier (Auto-refill) be used when cleaning the floor with a cleaning solution using SwitchBot Floor Cleaning Robot S20?
+
+Once SwitchBot Evaporative Humidifier (Auto-refill) is connected to the S20, you can use the S20 to automatically supply water to the humidifier.
+When using the base station:
+If cleaning solution has been added to the S20 fresh water tank, do not use the automatic water supply function of the humidifier. After completely using up the water containing the cleaning solution, refill the tank with fresh water and supply it to the Plus evaporative humidifier.
+
+When using the water station:
+Since the S20 main unit and the water station use the same water supply tube, do not use the Evaporative Humidifier's auto-refill function when the water station is filled with cleaning solution. A small amount of cleaning solution may stick to the water supply tube, and during humidifier operation, this cleaning solution could mix in and be released into the air.
+If you have already added cleaning solution to the S20 water station, please disable the auto-add solution feature in the SwitchBot App. Then, vacuum and mop your floor once. You can use the auto-refill function safely after using all of the cleaning solutions mixed with clean water.
+Way to disable the auto-add solution:
+SwitchBot App -> Floor Cleaning Robot S20 -> Gear icon -> Maintenance -> disable the Auto-add Solution
+
+
+---
+### How Do I Add the Cleaning Solution to SwitchBot Floor Cleaning Robot S20?
+
+When using the base station:
+Please pour the cleaning solution directly into the fresh water tank.
+
+When using the water station:
+Open the rubber seal of the cleaning solution inlet on the Water Station.
+Pour the SwitchBot Floor Cleaning Solution inside, and tighten the seal.
+
+Note:
+1. Do not add any non-official cleaning solution or disinfectants to the Water Station.
+2. Enable the auto-add solution function by Navigating SwitchBot App -> Functions -> Settings -> Maintenance -> auto-add solution.
+
+<img width="686" height="690" alt="image" src="https://github.com/user-attachments/assets/b34d6e0e-57a3-4013-bde7-c1980c903a03" />
+
+
+---
+### Can I Schedule a Designated Room Cleaning for the SwitchBot Floor Cleaning Robot S20 within the Scene and Automation?
+
+Starting from SwitchBot app V9.14, you can possible to set up specified room cleaning for the S20 robot as an action in Scenes and Automations. Please update to the latest version of the SwitchBot app to access this feature.
+
+
+
+
+
+
+
+
