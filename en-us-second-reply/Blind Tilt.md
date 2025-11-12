@@ -34,14 +34,6 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 
 
 ---
-### Is It Possible to Integrate SwitchBot Blind Tilt with Home Assistant via Cloud?
-
-Currently, SwitchBot Blind Tilt does not support integration with Home Assistant through SwitchBot Cloud. However, support for cloud integration is planned for September. You can track the progress at the link provided below.
-[https://github.com/home-assistant/core/pull/148993](https://github.com/home-assistant/core/pull/148993)
-To integrate the Blind Tilt with Home Assistant, you can use either SwitchBot Bluetooth mode or Matter. We appreciate your patience and understanding!
-
-
----
 ### Troubleshooting Not Being Able to Charge SwitchBot Blind Tilt Using the Solar Panel
 
 Thank you for reporting this issue. 
