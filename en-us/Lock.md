@@ -2898,5 +2898,124 @@ A screenshot of your order
 
 
 
+---
+### What to do If I Want to Purchase the Adhesive Tape for SwitchBot Lock?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the adhesive tape for Lock is not currently sold separately. However, we can provide the parts free of charge if you cover the shipping costs.
+If this is okay for you, please provide us with the necessary details so we can assist you as soon as possible.
+
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+
+
+
+---
+### What Is the Torque of SwitchBot Lock?
+
+The torque of the lock during normal operation is 4.0~4.5kgf.cm, and the torque when it is jammed is 9kgf.cm.
+
+
+
+---
+### Where Can I Purchase the Mounting Plate for SwitchBot Lock?
+
+Thank you for the information.
+If you are willing to pay the shipping fee, our team will arrange a payment link for you based on the order and delivery address you provided. 
+We appreciate your patience and understanding.
+If you have any other questions, please feel free to contact us.
+
+
+
+
+---
+### Why Are Unlocking and Locking Actions Not Available in SwitchBot Automation?
+
+For security reasons, locking and unlocking cannot be set as actions in SwitchBot Scene or Automation. Please use third-party services like Alexa or Apple Home if needed.
+You can create an Automation that triggers other SwitchBot products by locking/unlocking the Lock, opening/closing doors, or or when the Lock battery is low.
+Note: To use the Lock with third-party services or automation functions, you must use it with one of our Hub products.
+
+
+---
+### How to Lock SwitchBot Lock Using Siri Shortcuts?
+
+Create a shortcut to lock the Lock.
+1. Voice control for Lock requires our hub product. When the hub is placed near Lock (within Bluetooth range), Lock will automatically connect to it.
+2. Please create Siri shortcuts in the following order:
+- Launch SwitchBot App and log in.
+- Tap Lock.
+- Tap the gear icon in the upper right corner.
+- Tap Third-party service on the settings screen.
+- Tap Siri Shortcuts.
+- Tap "Add Shortcut".
+- Choose the relevant Lock.
+- Record the locking phrase.
+
+Notes:
+- If phrases are not recognized correctly in the recording, it is recommended to enter them manually.
+- You can edit or remove the shortcut at the same place.
+- Unlocking the Lock by shortcuts is not supported.
+
+Sync Lock as a sub-device to Apple Home, use "Hey Siri" to operate:
+1. Please refer to the link below for this method, which requires a Matter-compatible hub product. With this method, you can lock and unlock the Lock product using "Hey Siri".
+[https://support.switch-bot.com/hc/en-us/articles/7909829940503](https://support.switch-bot.com/hc/en-us/articles/7909829940503-How-to-Add-SwitchBot-Lock-Products-with-the-Apple-Home-App-Using-SwitchBot-Hub-2-Hub-Mini-Matter-Enabled)
+Matter-compatible hub: Hub 2, Hub Mini Matter Enabled, Hub 3
+
+
+---
+### Is It Possible to Emergency Unlock My Door Lock Directly with SwitchBot Keypad Touch?
+
+The emergency unlock feature can only be performed within the Bluetooth range of the lock device using the SwitchBot app. This means that emergency unlocking cannot be done through the Keypad Touch. We apologize for any inconvenience and appreciate your understanding.
+
+
+---
+### Can One SwitchBot Lock Be Operated with Multiple Keypad Touchs?
+
+Lock can only be operated using a single Keypad Touch.  
+Note:  
+Lock Pro and Lock Ultra can be controlled with up to seven Keypad Touchs.
+
+
+---
+### How Can I Make SwitchBot Lock's Mounting Bracket Extend Outward Like It Does in the Promotional Image?
+
+When securing the lock, you may need to adjust the mounting bracket by extending it from the main lock unit to fit the base of your home's front door lock. As shown in the diagram below, open the battery cover, loosen the screws, and adjust the height of the base adapter.
+
+<img width="543" height="390" alt="image" src="https://github.com/user-attachments/assets/35eb379b-996e-47cb-afed-53dd3ce790c5" />
+
+
+---
+### What Should I Check Before Purchasing a SwitchBot Lock？
+
+Before buying, please check if SwitchBot Lock is compatible with your original door lock and if it can be used with your smartphone.
+[https://www.switch-bot.com/pages/switchbot-lock-compatibility](https://www.switch-bot.com/pages/switchbot-lock-compatibility)
+
+If you have further questions, please contact support@switch-bot.com for help instead of DIY.
+Deadbolt:
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/65cf3e67-e927-4696-a7c7-1c6ceb8d83e8" />
+
+Jimmy-Proof:
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6c390e99-2c6e-433d-80da-8ee15280cd63" />
+
+
+
+
+
+
+
 
 
