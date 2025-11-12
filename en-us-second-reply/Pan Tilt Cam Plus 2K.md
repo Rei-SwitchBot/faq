@@ -359,34 +359,6 @@ We apologize for any inconvenience caused.
 
 
 ---
-### If I Have Between Three and Ten SwitchBot Pan Tilt Cam Plus 2Ks, Which Plan Should I Purchase?
-
-If you own between three and ten units of the Pan Tilt Cam Plus 2K , we kindly ask you to purchase the "Up to 10 Cameras Supported" plan. Please note that it is not possible to combine plans that cover 1, 2, or 3 cameras.
-
-
----
-### How To Switch Between Different Cameras by Swiping Left and Right on the Real-Time Monitoring Screen
-
-1. Make sure all your cameras have been added to the SwitchBot app.
-
-2. You can disable the promotional advertisement as follows:
-- Please configure it in the following order:  
-- Launch SwitchBot app and log in.  
-- Tap on any camera.  
-- Tap on the camera feed screen.  
-- Tap the Multi-View icon in the upper right corner of the feed screen.  
-- Tap the "+" icon to add the cameras you wish to display.  
-- Tap the Multi-View icon again to exit Multi-View mode.  
-
-Note:  
-If you have multiple cameras, performing the above operation on one camera is enough. No need to do it for each camera.
-
-<img width="553" height="549" alt="image" src="https://github.com/user-attachments/assets/a51411ea-6fb8-419f-a141-a6c7e10a8242" />
-
-3. With these settings, you can switch to a different camera feed by swiping the camera image screen.
-
-
----
 ### Troubleshooting Trying to Disable Privacy Mode on SwitchBot Pan Tilt Cam Plus 2K, but It Stays Stuck on the Loading Screen and Doesn't Switch.
 
 Thank you for the information provided.
