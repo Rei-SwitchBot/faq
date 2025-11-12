@@ -141,65 +141,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Can I Use the Charging Cable from SwitchBot Hub 2 with Hub 3？
-
-Yes, you can use the charging cable from Hub 2 to Hub 3. The only difference is the color, the charging and temperature/humidity sensor functions are exactly the same.
-
-
----
-### What Does the OUTPUT Port on the back of SwitchBot Hub 3 Do?
-
-When using Hub 3 in daily life, plug the temperature and humidity sensor charging cable into the INPUT port. The OUTPUT port is for compatibility with future products.
-
-
----
-### How to Add Air Conditioner Remotes by "Learn Buttons" Mode Using SwitchBot Hub 3
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Learn Buttons" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Select "Air Conditioner" under Home Appliances.
-- Tap "Learn Buttons".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25°C + automatic air volume) to the ON button.
-- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
-- Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
-
-
----
-### How to Add Air Conditioner Remotes by "Others" Mode Using SwitchBot Hub 3
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Others" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Scroll down and then tap "Others".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- In the "Others" mode, buttons must be added manually one by one.
-- Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
-[https://support.switch-bot.com/hc/en-us/articles/19444800636183](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
-- For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
-
-
----
-### How Often Is the Local Weather on SwitchBot Hub 3 Screen Updated?
-
-1. You can set the Weather Forecast for your Hub 3 in the following order:
-- Launch SwitchBot app and log in.
-- Tap your Hub 3.
-- Tap "Displayed Info".
-- Enable "Weather Data".
-- SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 is located -> Set up home location
-
-2. Once completed, the Hub 3 will show the 24-hour weather overview for the day. The forecast updates hourly and includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
-
-
----
 ### Troubleshooting Unable to Add the Infrared Remotes to the Sub-Devices of SwitchBot Hub 3
 
 Thank you for the information provided.
@@ -210,40 +151,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
-
----
-### How to Sync the Added IR Remotes to Apple Home App
-
-Please synchronize the added infrared remotes to Apple Home app in the following order:
-Launch SwitchBot app and log in.  
-Tap your Hub Mini Matter.  
-Tap the gear icon in the upper right corner.  
-Tap "Matter Setup".  
-Tap "Secondary Device".  
-Tap "Lab Features (Beta)" and add the target IR remote.
-
-Important Note:
-
-1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
-2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
-3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
-[https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807)
-
-
----
-### After Turning on the Weather Data for Hub 3, What Do the Two Displayed Temperatures Represent?
-
-When you enable the weather data for Hub 3, two temperatures will be displayed on both the Hub 3 device itself and the displayed info screen in the SwitchBot app. These are the highest and lowest temperatures recorded at the current location by Hub 3.  
-You can check the current location settings by going to SwitchBot app → Profile → Manage Home → Select the home where Hub 3 is located. 
-
-<img width="748" height="1239" alt="image" src="https://github.com/user-attachments/assets/2144dddd-5440-4ae4-b50f-d2530500a4fa" />
-
-
----
-### Is It Possible to Use the Dial Button on Hub 3 To Control the Airflow of SwitchBot Circulator Fan?
-
-We regret to inform you that at this time, it is not possible to control the airflow of the Circulator Fan using the dial on Hub 3.
-We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
 ---
@@ -265,11 +172,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
----
-### Can the Dial Button on the Hub 3 Be Used to Adjust the Brightness of Non-SwitchBot Lights?
-
-If other brands of lighting devices in your home also support the Matter protocol, you can use Matter to add Hub 3 and other brand lighting devices to Apple Home, Alexa app or SmartThings. However, currently it is not possible to adjust the brightness of other brand lights with the dial button of Hub 3.
-We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
 
