@@ -3169,4 +3169,87 @@ Please remove the main brush and roller mop to check for any foreign objects. Ad
 [https://youtu.be/N3ueD8hJcEg](https://www.youtube.com/watch?v=N3ueD8hJcEg)
 
 
+---
+### Daylight Saving Time with SwitchBot Floor Cleaning Robot S10
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Currently, the schedule and "Do Not Disturb" times set for SwitchBot Floor Cleaning Robot S10 are stored locally, meaning they don’t automatically adjust with Daylight Saving Time changes. We understand this may be an inconvenience, as users will need to manually update these times to align with seasonal time changes. We apologize for any disruption this may cause.
+As an alternative, if you are running a full-house clean, you can use SwitchBot’s automation feature to schedule this. Please note that automation currently does not support selecting specific rooms for cleaning.
+Our R&D team is actively working on this and exploring ways to improve scheduling for future updates. Thank you for your understanding, and please don’t hesitate to reach out with any additional questions or feedback.
+
+
+
+---
+### Notes on Moving the Water Station and Auto-Empty Station for Your Floor Cleaning Robot S10 After Mapping
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+If you need to move the Floor Cleaning Robot S10's stations, here’s what to do:
+For the Auto-Empty Station
+After moving the auto-empty station to a new location, simply start a cleaning task from the station. The robot will automatically update its location on the map during the cleaning process.
+
+For the Water Station
+After moving the water station, you will need to remark its location in the app. This ensures the robot knows the updated position of the water station.
+
+
+
+---
+### Can I Delete Individual Rooms from a Map Created by the SwitchBot Floor Cleaning Robot S10?
+
+Currently, it is not possible to delete individual rooms from a map created by the S10 using the map editing feature. If needed, please utilize remapping, as well as area merging and splitting functions.
+
+
+---
+### How Do I Pour out the Cleaning Solution in SwitchBot Floor Cleaning Robot S10's Water Station?
+
+If you need to send the water station for reasons such as repair or replacement, there is no need to discard the cleaning solution already inside. Simply ensure that the inlet lid is securely closed, and that will suffice. We appreciate your cooperation.
+
+
+---
+### How Do I Pour out the Water in SwitchBot Floor Cleaning Robot S10's Water Station?
+
+If you need to send the water station for reasons such as repair or replacement, thoroughly shake both the water supply hose and the drainage hose to ensure no water drips from the pipes when lifting the water station.
+
+
+---
+### SwitchBot Floor Cleaning Robot S10 Matter Setup (Android)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Floor Cleaning Robot S10
+- Android Phone
+- Google Nest Hub 47.9.4 or newer
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your smartphone, Google Nest Hub, and Floor Cleaning Robot S10) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your S10 -> Gear Icon (Settings screen) ->Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
+
+
+---
+### SwitchBot Floor Cleaning Robot S10 Matter Setup (iOS)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Floor Cleaning Robot S10
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding
+home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+[https://support.apple.com/en-hk/102557](https://support.apple.com/en-hk/102557)
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S10 has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Floor Cleaning Robot S10) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Floor Cleaning Robot S10 -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+
+
+---
+### Can I Schedule a Designated Room Cleaning for the SwitchBot Floor Cleaning Robot S10 within the Scene and Automation?
+
+Starting from SwitchBot app V9.14, you can possible to set up specified room cleaning for the S10 robot as an action in Scenes and Automations. Please update to the latest version of the SwitchBot app to access this feature.
