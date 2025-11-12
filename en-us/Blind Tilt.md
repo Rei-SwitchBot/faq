@@ -739,7 +739,12 @@ Regarding this issue, could you please check the following points?
 2. After removing the device from the app, use the reset pin to press the reset button (located in the small hole at the bottom of the Blind Tilt main body) to restart it. Once the restart is complete, re-add the device to the app.
 
 
+---
+### Is It Possible to Integrate SwitchBot Blind Tilt with Home Assistant via Cloud?
 
+Currently, SwitchBot Blind Tilt does not support integration with Home Assistant through SwitchBot Cloud. However, support for cloud integration is planned for September. You can track the progress at the link provided below.
+[https://github.com/home-assistant/core/pull/148993](https://github.com/home-assistant/core/pull/148993)
+To integrate the Blind Tilt with Home Assistant, you can use either SwitchBot Bluetooth mode or Matter. We appreciate your patience and understanding!
 
 
 
