@@ -93,15 +93,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
----
-### How To Check Temperature and Humidity Data Remotely
-
-To monitor temperature and humidity data remotely, you must meet the following conditions:
-- The Meter and Hub have been added to the same SwitchBot app account .
-- The Hub is connected to the internet.
-- The Meter is within the Hub's Bluetooth range.
-- Tap the "Store data to cloud" button at the bottom of the meter chart page.
-
 
 
 
