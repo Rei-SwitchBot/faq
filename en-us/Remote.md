@@ -554,6 +554,7 @@ Choose the grouped bulb off scene.
 After the above, you can trigger the scenes by pressing the concave button and the convex button on Remote.
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
+
 ---
 ### Remote Supported Devices
 
@@ -563,3 +564,27 @@ Firmware Version: 4.6 or newer
 ![SwitchBot-Remote-Supported-Devices](https://github.com/user-attachments/assets/f3a9472a-cd50-495d-9ec4-423ef86e392f)
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
+
+
+---
+### How to Add SwitchBot Remote to SwitchBot App
+
+Please add your Remote to SwitchBot App in the following order:
+- Launch SwitchBot App and log in.
+- Tap "+" icon in the upper right corner.
+- Tap "Add Device".
+- Scroll down and tap "Remote" in the "Power & Switch" section.
+- Long press two buttons for 2 seconds to enter pairing mode.
+- Tap "Next" to connect the device.
+- Tap "Start Using" after successful connection.
+
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+
+
+
+
+
+
+
