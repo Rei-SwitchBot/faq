@@ -1588,3 +1588,33 @@ Regarding this issue, could you please check the following points?
 2. Place the bot within the Bluetooth range of the hub product (5 meters recommended). You can check the connection status with the hub by navigating in the SwitchBot app → Profile → Manage Hubs → the relevant hub.  
 3. Follow the link below to link the SwitchBot app with the Google Home app.
 [https://support.switch-bot.com/hc/en-us/articles/360037747514](https://support.switch-bot.com/hc/en-us/articles/360037747514-SwitchBot-Bot-Google-Home-Setup-Guide)
+
+
+
+
+---
+### Why Am I Not Receiving Notifications Even Though SwitchBot Bot Can Open and Close the Switch According to the Schedule?
+
+There are no notifications sent to your smartphone after the Bot operates according to the schedule, as this is a design feature of the product. We apologize for any inconvenience this may cause and ask for your understanding.
+As a temporary solution, if you have the Hub product, we recommend setting up SwitchBot automation. When the automation is triggered, you will receive execution notifications. 
+
+
+---
+### What Is SwitchBot Bot's "Reverse On/Off Directions"?
+
+After setting the Bot mode to switch mode, the "Reverse On/Off Directions" option will appear in the mode interface. 
+In switch mode, when you tap "On" in the SwitchBot app, the bot's arm lowers to press the switch, and when you tap "Off," it pulls up the fishing-line part to turn off the switch.
+Due to the installation position, if you tap "on" in the SwitchBot app, the switch at home will actually turn off; when you tap "off", the switch will turn on (meaning that the operation in the app is inconsistent with the actual switch status), please use the "Reverse On/Off Directions" function to solve this problem.
+Note:
+After enabling "Reverse On/Off Directions", there will be no change in position of icons for Bot "on" and "off" in SwitchBot app.
+
+
+
+---
+### What Is the Use of SwitchBot Bot's Password?
+
+After setting a password for your Bot, in order to improve the convenience of operation, you will need to enter the password for the first operation, and then you do not need to enter it again. 
+The Bot with a password set cannot be re-added even if it is within the Bluetooth range of other SwitchBot users' smartphones. In addition, if the Bot is not added to the SwitchBot application and is used through "Bot Nearby", after setting a password, other users cannot operate the Bot even within Bluetooth range.
+When you open the Bot's cover, you will find the reset button. Pressing it once will restore the Bot to its factory settings and erase any configured passwords.
+
+
