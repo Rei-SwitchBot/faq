@@ -5,34 +5,6 @@
 ---
 
 ---
-### How to Configure Alerts of SwitchBot Meter?
-
-1. Make sure your SwitchBot App version is up to date.
-2. Make sure SwitchBot Meter/Meter Plus has been added to your App and your device firmware version is up to date.
-3. Set alerts in the following order.
-- Launch the SwitchBot App and login.
-- Tap the relevant SwitchBot Meter/Meter Plus.
-- Tap the gear icon in the upper right corner.
-- Tap "disired conditions" on the Settings screen.
-- Enable temperature/humidity/absolute humidity/VPD alert as needed.
-- Set the alert range and save it.
-Note:
-- When not used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen when it reaches the pre-set range.
-- When used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen, also you will receive a notification on your smartphone when it reaches the pre-set range (notification permission required).
-4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
-SwitchBot Hub products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
----
-### Updating Frequency of SwitchBot Meter Plus Data
-
-The SwitchBot Meter Plus collects data every 4 seconds and saves it every minute.
-After being connected to a Hub series device, the temperature and humidity data is uploaded to the SwitchBot server. The interval displayed in the app and the export file will depend on how much the temperature changes in the environment. For instance, if there are small temperature changes, it will record every 30 minutes. If there are larger changes, it may record every 10 minutes or even every 2 minutes.
-
-SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
----
 ### Troubleshooting The Numbers on SwitchBot Meter Plus’s Screen Are Partially Missing
 
 Thank you for reporting this issue. 
