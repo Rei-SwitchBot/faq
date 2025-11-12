@@ -40,7 +40,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro Won't Turn on
 
@@ -63,7 +62,6 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 
 ---
@@ -186,40 +184,6 @@ We apologize for any inconvenience caused.
 
 
 ---
-### How to Add Air Conditioner Remotes by "Learn Buttons" Mode Using SwitchBot Ceiling Light Pro
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Learn Buttons" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Select "Air Conditioner" under Home Appliances.
-- Tap "Learn Buttons".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25°C + automatic air volume) to the ON button.
-- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
-- Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
-
-
----
-### How to Add Air Conditioner Remotes by "Others" Mode Using SwitchBot Ceiling Light Pro
-
-If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Others" method.
-- Launch SwitchBot App and log in.
-- Tap your Hub.
-- Tap the "+" icon to add remote control.
-- Scroll down and then tap "Others".
-
-Important Note:
-- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- In the "Others" mode, buttons must be added manually one by one.
-- Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
-[https://support.switch-bot.com/hc/en-us/articles/19444800636183](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
-- For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
-
-
----
 ### Troubleshooting Failed to Update SwitchBot Ceiling Light Pro Firmware
 
 Thank you for reporting this issue. 
@@ -244,12 +208,6 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Is It Possible to Operate SwitchBot Ceiling Light Pro via Bluetooth?
-
-SwitchBot Ceiling Light Pro is equipped with built-in Wi-Fi and Bluetooth chips. When adding the device to the SwitchBot app, a Wi-Fi connection is required. Once added, even if the Wi-Fi is disconnected, as long as it's within Bluetooth range, you can still turn on and turn off the Ceiling Light through the SwitchBot app. Please note that automation, schedule, and scene functions can only be used when connected to Wi-Fi.
-
-
----
 ### Troubleshooting Failed to Update SwitchBot Ceiling Light Firmware
 
 Thank you for reporting this issue. 
@@ -271,12 +229,6 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
----
-### Is It Possible to Operate SwitchBot Ceiling Light via Bluetooth?
-
-SwitchBot Ceiling Light is equipped with built-in Wi-Fi and Bluetooth chips. When adding the device to the SwitchBot app, a Wi-Fi connection is required. Once added, even if the Wi-Fi is disconnected, as long as it's within Bluetooth range, you can still turn on and turn off the Ceiling Light through the SwitchBot app. Please note that automation, schedule, and scene functions can only be used when connected to Wi-Fi.
 
 
 ---
@@ -325,6 +277,7 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
