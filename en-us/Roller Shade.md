@@ -369,6 +369,62 @@ Regarding this issue, could you please check the following points?
 
 
 
+---
+### Can I Use SwitchBot Curtain Solar Panel for My Roller Shade?
+
+It depends on the model of the solar panel you have:
+Curtain 3 Solar Panel: Not compatible. The Curtain 3 solar panel has a foldable design that, when connected to the Roller Shade, would face the window at a right angle, limiting its exposure to sunlight and making solar charging ineffective.
+
+Older Model Curtain Solar Panel: Compatible. You can use the older version of the Curtain solar panel with the Roller Shade. To ensure proper installation, attach the solar panel securely using 3M double-sided adhesive tape (not included)
+
+
+---
+### What Material Is the Roller Shade Fabric Made Of?
+
+The material of SwitchBot Roller Shade fabric is polyester fiber + PVC.
+
+
+
+---
+### How to Restart and Reset SwitchBot Roller Shade
+
+Restarting your Roller Shade
+Press the reset pin into the reset hole once to restart the device.
+
+<img width="308" height="279" alt="image" src="https://github.com/user-attachments/assets/5e72b18c-d12d-456e-be99-1157103d6886" />
+
+Resetting your Roller Shade
+Press and hold the pairing button for 15 seconds to reset your Roller Shade.
+
+<img width="383" height="246" alt="image" src="https://github.com/user-attachments/assets/2f8a79ef-6d80-4552-8770-8b7ae00f6c48" />
+
+
+---
+### Is SwitchBot Roller Shade Cutter Disposable?
+
+No, as long as the roller shade cutter is not damaged, it can be reused to cut the fabric.
+
+
+
+---
+### Is It Possible to Purchase the Fabric for SwitchBot Roller Shade Separately?
+
+Currently, we do not have plans to sell Roller Shade fabric separately, and we strongly recommend  choosing and purchasing fabrics at a market near your home.
+When choosing your shade fabric, remember:
+1. Fabric Roll Diameter: The diameter of the rolled-up fabric, including the rod, should not exceed 66mm.
+2. Fabric Weight: Keep the fabric weight under 3kg to avoid putting too much strain on the Roller Shade and affecting its performance.
+
+<img width="545" height="555" alt="image" src="https://github.com/user-attachments/assets/78bd5336-131a-40d5-9b1a-2578f7838178" />
+
+
+
+
+
+
+
+
+
+
 
 
 
