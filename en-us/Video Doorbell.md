@@ -656,6 +656,25 @@ The Add-on Monitor is not a Wi-Fi extender.
 Actually, the Monitor works as a Wi-Fi extender. As long as the connection between the Monitor and the Doorbell remains stable, the video from the Doorbell can be viewed on the Add-on Monitor even on the second floor.
 
 
+---
+### Troubleshooting Background Noise Can Be Heard from the Monitor While It Is in Standby Mode
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+
+---
+### Troubleshooting the Monitor Only Displays Chinese and English, Unable to Switch to Other Languages.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+
+
+
+
 
 
 
