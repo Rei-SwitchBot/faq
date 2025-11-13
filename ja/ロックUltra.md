@@ -160,11 +160,10 @@ N つまみの中心から台座の端までの距離
 弊社の製品で大変ご迷惑をおかけしております。
 本件について、以下をご確認いただけますでしょうか。
 1．弊社公式ホームページにてロックUltra用の高さ調節ケースをご購入ください。
-購入リンク：https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra
+購入リンク：[https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra](https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra)
 
 2．LIXIL TOSTEM ジエスタ2にロックUltraの取付には専用サムターンホルダーとジョイントパーツが必要です。以下の内容をご協力いただけると、アフターサービスにて手配させていただきます。
 ※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
-
 - ロックUltraを○○個買いました、○○個の特殊サムターンホルダーがほしいです。
 - ご注文番号
 - ご購入履歴のスクリーンショット
@@ -178,23 +177,30 @@ N つまみの中心から台座の端までの距離
 ご注意：
 A. LIXIL TOSTEM ジエスタ2は丸形と八角形二種類のサムターンがあり、それぞれに異なるサムターンホルダーを使う必要があり、正しいサムターンホルダーを手配するために、ドアの内側からLIXIL TOSTEM ジェスタ2のつまみが確認できる写真を撮るようお願いいたします。
 
-![image](https://github.com/user-attachments/assets/8dfaea32-d31f-4ca7-af4d-0bf0c8d4e65a)
+<img width="1050" height="498" alt="image" src="https://github.com/user-attachments/assets/de6571be-2078-4875-912d-4bf45ece9198" />
 
 B. お持ちのロックUltraの台数に合わせて、サムターンホルダーを申請するようお願いいたします。
 
 
 3．必要なパーツが揃ったら、動画通りにロックUltraを取り付けます。
+動画：[https://drive.google.com/file/d/1gbU2Xwfk6rxyi0KBiJSouFhX1_dmSL-U/view?usp=drive_link](https://drive.google.com/file/d/1gbU2Xwfk6rxyi0KBiJSouFhX1_dmSL-U/view?usp=drive_link)
 コツ：
 - ジョイントパーツを無段階サムターンホルダーから取り外して、専用サムターンホルダーに装着します。
 
-![image](https://github.com/user-attachments/assets/3c9719f5-3e5f-4437-bed1-7f15f0bc334a)
+<img width="1505" height="4582" alt="image" src="https://github.com/user-attachments/assets/c60e34ee-1f11-4972-8064-eb9a400fe911" />
 
 - ドライバーを使い、下図①赤枠で示された部品を外してください。
 - 高さ調整ケースをロックUltraに取り付けます。
 - ジエスタ2専用サムターンホルダーとジョイントパーツを組み合わせ（図②）、SサイズのサムターンホルダーをロックUltra本体にしっかりと取り付けます。
 - ジエスタ2専用サムターンホルダーをSサイズのサムターンホルダー部に接続し（図③）、ドアロックに固定します。
 
-![image](https://github.com/user-attachments/assets/1301d224-c2bc-4dcb-a97c-d2ee3ab78fe6)
+<img width="1399" height="3196" alt="image" src="https://github.com/user-attachments/assets/b4999311-6ee0-45a4-99fc-39447301cbb5" />
+
+- 専用サムターンホルダーはしっかり押し込んだ状態を確認してから、ロックUltraを玄関錠に取り付けてください。
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/49802f14-5c3c-491d-ad99-4f8bc468c945" />
+
+
 
 ---
 ### ロックUltra用の両面テープの規格は何でしょうか
