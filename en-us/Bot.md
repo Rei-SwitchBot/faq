@@ -275,7 +275,7 @@ SwitchBot App Version：9.1 or newer
 
 3.
 
-Please enable the Cloud Service on the Bot settings screen
+Please enable the Third-party Service on the Bot settings screen
 
 (Information up to SwitchBot App Version 8.8)
 
@@ -283,19 +283,19 @@ Please enable the Cloud Service on the Bot settings screen
 
 Tap the Bot
 
-Tap Cloud Service
+Tap Third-party Service
 
-Enable the Cloud Service(connect your
+Enable the Third-party Service(connect your
 
 Hub Mini/Hub 2
 
-to enable its Cloud Service.
+to enable its Third-party Service.
 
 )
 
 Note:
 
-Cloud services cannot be used when using "Nearby Bot".
+Third-party Services cannot be used when using "Nearby Bot".
 
 If you are using SwitchBot App version 9.0 or later, simply place your Bot near the Hub
 
@@ -563,7 +563,7 @@ Firmware Version:  SwitchBot: V6.3 or newer, Hub Mini: V3.7-2.4 or newer,  Cei
 
 5. Place the Bot near a Hub mini or Ceiling Light.
 
-6. Please turn off the Cloud Service and then turn it on again.
+6. Please turn off the Third-party Service and then turn it on again.
 
 7. If you are using the Bot only within Bluetooth range, please restart the Bluetooth function and try again within Bluetooth range.
 
@@ -713,7 +713,7 @@ SwitchBot App Version：9.8 or newer
 
 2. Make sure your Bot and Hub have been added to your App and your device firmware version is up to date.
 
-3. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+3. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 4. Go to SwitchBot App -> your Bot -> Third-party service -> Siri shortcut -> Add shortcut -> Select the Bot -> Select an action -> Record the Phrase and save it.
 
  
@@ -748,13 +748,13 @@ Make sure SwitchBot Bot and SwitchBot Hub series have been added to your App.
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Bot (up to SwitchBot App V8.8):
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Bot (up to SwitchBot App V8.8):
 
 Launch the SwitchBot App.
 
 Tap the relevant SwitchBot Bot.
 
-Turn on the "Cloud Services" in the Settings screen.
+Turn on the "Third-party Services" in the Settings screen.
 
 Note:
 
@@ -792,7 +792,7 @@ Launch the SwitchBot App and log in.
 
 Tap the relevant SwitchBot Bot.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -825,13 +825,13 @@ Make sure SwitchBot Bot and SwitchBot Hub series have been added to your App.
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Bot:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Bot:
 
 Launch the SwitchBot App.
 
 Tap the relevant SwitchBot Bot.
 
-Turn on the "Cloud Services" in the Settings screen.
+Turn on the "Third-party Services" in the Settings screen.
 
 4．
 
@@ -861,7 +861,7 @@ Tap the relevant SwitchBot Bot.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -906,7 +906,7 @@ The Bot may be out of battery and lose connectivity if haven't been used for 6 m
 
 5. In most cases, it will improve connectivity by placing Bot, Hub Mini and WiFi router in the same room. within a clear line of sight. Avoid building materials and metal objects between devices which may disctract the connection.
 
-6. In SwitchBot app, please try to re-enable the Cloud Service for your Bot.
+6. In SwitchBot app, please try to re-enable the Third-party Service for your Bot.
 
 7. If it still doesn't work, follow the steps to reset Bot:
 
@@ -965,7 +965,7 @@ The Bot may be out of battery and lose connectivity if haven't been used for 6 m
 
 5. In most cases, it will improve connectivity by placing Bot, Hub Mini and WiFi router in the same room. within a clear line of sight. Avoid building materials and metal objects between devices which may disctract the connection.
 
-6. In SwitchBot app, please try to re-enable the Cloud Service for your Bot.
+6. In SwitchBot app, please try to re-enable the Third-party Service for your Bot.
 
 7. If it still doesn't work, follow the steps to reset Bot:
 
@@ -1173,7 +1173,7 @@ If the original 3M adhesive tape loses adhesion, you can remove it from your Bot
 
 
 ---
-### What to Do When Cloud Service for SwitchBot Bot Is Unavailable
+### What to Do When Third-party Service for SwitchBot Bot Is Unavailable
 
 Last Updated: Oct 27th, 2023
 
@@ -1233,7 +1233,7 @@ For Android users, please go to settings>App> Permission manager>Location>search
 
 3. Make sure the Bot has been upgraded to the latest firmware version.
 
-If the Bot has turned on the Cloud Service via the Hub Mini or Ceiling Light, Make sure Hub Mini and Ceiling Light have been upgraded to the latest firmware version.
+If the Bot has turned on the Third-party Service via the Hub Mini or Ceiling Light, Make sure Hub Mini and Ceiling Light have been upgraded to the latest firmware version.
 
 4. Try to shorten the distance between the Bot and Hub Mini or Ceiling Light.
 
