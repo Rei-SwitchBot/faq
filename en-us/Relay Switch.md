@@ -302,10 +302,6 @@ doorbells
 
 
 
----
-### Wiring Diagram for SwitchBot Relay Switch 1
-
-![image](https://github.com/user-attachments/assets/17c55b5d-5b7f-4f74-94d2-4aee597bcb9f)
 
 
 ---
