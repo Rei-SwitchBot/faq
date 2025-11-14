@@ -176,9 +176,9 @@ The Others appliances could use the Scene feature or IFTTT app to achieve voice 
 ---
 ### Does SwitchBot Bot connect to multiple Hubs?
 
-No. SwitchBot Bot automatically selects the nearest SwitchBot Hub Mini the first time you enable the Cloud Service for it in Bot Settings. It always uses the paired Hub Mini then.
+No. SwitchBot Bot automatically selects the nearest SwitchBot Hub Mini the first time you enable the Third-party Service for it in Bot Settings. It always uses the paired Hub Mini then.
 
-If you have multiple Hubs, and your SwitchBot Bot is always not reachable via the Internet or via a third party ( Such as Alexa, Google Home, Siri), try to disable the Cloud Service for the SwitchBot Bot and enable it again.
+If you have multiple Hubs, and your SwitchBot Bot is always not reachable via the Internet or via a third party ( Such as Alexa, Google Home, Siri), try to disable the Third-party Service for the SwitchBot Bot and enable it again.
 
 
 ---
@@ -296,7 +296,7 @@ Related Products: SwitchBot Hub Mini
 
 SwitchBot Hub Mini uses 159 kB of data traffic per hour.
 
-When the Hub Mini has been used as a tool to enable the cloud service for the SwitchBot Bluetooth devices, the daily traffic can be calculated as follows.
+When the Hub Mini has been used as a tool to enable the Third-party Service for the SwitchBot Bluetooth devices, the daily traffic can be calculated as follows.
 
 159 kB x the number of Bluetooth devices x 24 hours
 
@@ -1596,13 +1596,13 @@ You can control the Bluetooth-only devices with voice assistants or build some a
 
 App V8.8 and previous versions
 
-When using Bluetooth-only devices with a hub, you can navigate to the Settings page of your device and turn on Cloud Services to enable more device features.
+When using Bluetooth-only devices with a hub, you can navigate to the Settings page of your device and turn on Third-party Services to enable more device features.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998138308503)
 
-After turning on Cloud Services, you'll be able to remotely control your device even when outside Bluetooth range. You can also control your devices using third-party smart assistants like Alexa, Google Home, Siri, and more.
+After turning on Third-party Services, you'll be able to remotely control your device even when outside Bluetooth range. You can also control your devices using third-party smart assistants like Alexa, Google Home, Siri, and more.
 
-When we turn on Cloud Services for SwitchBot Bluetooth devices, they will communicate with your SwitchBot Hub via Bluetooth. The Hub is also communicating with the Cloud via a 2.4GHz Wi-Fi network. Every time we try to control a SwitchBot Bluetooth device using our smartphone when not in Bluetooth range, the command will go to the Cloud first, and then be forwarded to your SwitchBot Hub. The Hub will tell the corresponding device what to do via Bluetooth signal when it receives the command. You can find out more by checking the image below:
+When we turn on Third-party Services for SwitchBot Bluetooth devices, they will communicate with your SwitchBot Hub via Bluetooth. The Hub is also communicating with the Cloud via a 2.4GHz Wi-Fi network. Every time we try to control a SwitchBot Bluetooth device using our smartphone when not in Bluetooth range, the command will go to the Cloud first, and then be forwarded to your SwitchBot Hub. The Hub will tell the corresponding device what to do via Bluetooth signal when it receives the command. You can find out more by checking the image below:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998107946391)
 
@@ -1728,7 +1728,7 @@ Tap on any device other than SwitchBot Hub Mini.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -1738,7 +1738,7 @@ Enter your Amazon Alexa App login ID and password.
 
 The link will be automatically established.
 
-Please note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtains and SwitchBot Locks, please first enable the "Cloud Services" (connect to SwitchBot Hub Mini) in the Settings screen.
+Please note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtains and SwitchBot Locks, please first enable the "Third-party Services" (connect to SwitchBot Hub Mini) in the Settings screen.
 
 
 ---
@@ -1798,7 +1798,7 @@ Tap on any device other than SwitchBot Hub Mini.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -1812,7 +1812,7 @@ App login ID and password.
 
 The link will be automatically established.
 
-Note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtain or SwitchBot Lock, please first enable (connect to) the cloud service in the "Cloud Service" section of the settings menu.
+Note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtain or SwitchBot Lock, please first enable (connect to) the Third-party Service in the "Third-party Service" section of the settings menu.
 
 
 ---
