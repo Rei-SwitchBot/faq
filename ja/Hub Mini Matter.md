@@ -174,11 +174,11 @@ SwitchBotアプリ→プロフィール→サードパーティーサービス�
 
 SwitchBotアプリV8.8とその以前のバージョン
 
-SwitchBotアプリ→該当Bluetooth通信デバイス→歯車マーク→設定画面で、クラウドサービスをオンにするだけで、遠隔操作とサードパーティーサービスとの連動を使用できるようになります。
+SwitchBotアプリ→該当Bluetooth通信デバイス→歯車マーク→設定画面で、サードパーティーサービスをオンにするだけで、遠隔操作とサードパーティーサービスとの連動を使用できるようになります。
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/7643655430679)
 
-この仕組みは次のとおりです。Bluetooth製品のクラウドサービスをオンにすると、ハブミニとBluetoothで通信するようになります。ハブは2.4GHzのWi-FiネットワークでSwitchBot Cloudと通信しています。スマートフォンでSwitchBotのBluetooth製品を操作しようとすると、まずクラウドサービスにコマンドが行く。その後、SwitchBotハブ製品に転送されます。ハブはコマンドを受信すると、対応するBluetooth製品にBluetooth信号で何をすべきかを指示します。以下のスケッチをご覧ください。
+この仕組みは次のとおりです。Bluetooth製品のサードパーティーサービスをオンにすると、ハブミニとBluetoothで通信するようになります。ハブは2.4GHzのWi-FiネットワークでSwitchBot Cloudと通信しています。スマートフォンでSwitchBotのBluetooth製品を操作しようとすると、まずサードパーティーサービスにコマンドが行く。その後、SwitchBotハブ製品に転送されます。ハブはコマンドを受信すると、対応するBluetooth製品にBluetooth信号で何をすべきかを指示します。以下のスケッチをご覧ください。
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/7751710521751)
 
