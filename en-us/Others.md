@@ -462,7 +462,7 @@ You could tap the + icon to add more appliances
 
 Tap the pencil icon to change the name of this scene
 
-Then Tap Cloud Service to set up a Siri Shortcuts.
+Then Tap Third-party Service to set up a Siri Shortcuts.
 
 
 
@@ -2269,7 +2269,7 @@ your SwitchBot App widgets, activation
 
 of
 
-cloud services
+Third-party Services
 
 is
 
@@ -2416,7 +2416,7 @@ You can choose:
 
 And then choose the device that you want to control.
 
-*Note: Please turn on your Bot's cloud service first.
+*Note: Please turn on your Bot's Third-party Service first.
 
 ![Image](https://static.wixstatic.com/media/e56c6d_6fc675531206491b902d6860beb13015~mv2.png/v1/fill/w_925,h_636,al_c,usm_0.66_1.00_0.01/e56c6d_6fc675531206491b902d6860beb13015~mv2.png)
 
@@ -6201,7 +6201,7 @@ SwitchBot Hub Mini/Plus
 
 Other SwitchBot products
 
-First of all, turn on the cloud service of your SwitchBot devices, such as the bot, the meter, and the curtain. Or add an IR appliance in the Hub Mini/Plus.
+First of all, turn on the Third-party Service of your SwitchBot devices, such as the bot, the meter, and the curtain. Or add an IR appliance in the Hub Mini/Plus.
 
 Login to your Alexa app or Alexa website.
 
@@ -7970,7 +7970,7 @@ Reconnect Device
 
 ×
 
-Cloud Service
+Third-party Service
 
 √
 
@@ -8180,7 +8180,7 @@ Alert Notifications
 
 ×
 
-Cloud Services
+Third-party Services
 
 √
 
@@ -8378,7 +8378,7 @@ Wi-Fi Settings
 
 ×
 
-Cloud Services
+Third-party Services
 
 √
 
@@ -8558,7 +8558,7 @@ Wi-Fi Settings
 
 ×
 
-Cloud Services
+Third-party Services
 
 √
 
@@ -8936,7 +8936,7 @@ You will be presented with a list of scenes that have already been created.
 
 
 ---
-### Where Did the Cloud Service Item Go?
+### Where Did the Third-party Service Item Go?
 
 Last Updated: 2024 Oct 09
 
@@ -8944,13 +8944,13 @@ SwitchBot App Version: 9.0 or newer
 
 With the release of SwitchBot App version 9.0,
 
-the Cloud Service option has been removed
+the Third-party Service option has been removed
 
 . There's no longer a need to manually enable it. Now, simply place your Bluetooth devices, like SwitchBot Bot or Curtain, near a Hub (within Bluetooth range), and they will automatically connect to the Hub. No additional setup is required.
 
 Special Note for Meter Users
 
-If you're using a SwitchBot Meter and hadn't enabled Cloud Service before upgrading to version 9.0, you can still access real-time data and device settings by entering the Meter's graph page. However, to continuously store temperature and humidity data to the cloud, you'll need to manually tap the
+If you're using a SwitchBot Meter and hadn't enabled Third-party Service before upgrading to version 9.0, you can still access real-time data and device settings by entering the Meter's graph page. However, to continuously store temperature and humidity data to the cloud, you'll need to manually tap the
 
 Store to Cloud
 
