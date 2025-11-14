@@ -849,7 +849,14 @@ SwitchBotアプリを起動し、ログインします。
 [https://support.switch-bot.com/hc/ja/articles/26966864494359](https://support.switch-bot.com/hc/ja/articles/26966864494359-%E6%B8%A9%E6%B9%BF%E5%BA%A6%E8%A8%88Pro%E3%81%AE%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88%E6%A9%9F%E8%83%BD)
 
 
+---
+### トラブルシューティング温湿度計Proのボタンを押しても、温度単位は摂氏から華氏に切り替わりません。
 
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. 日本で販売されている温湿度計製品は華氏単位表示に対応しておりません。ご迷惑をおかけして、申し訳ございませんが、ご理解よろしくお願いいたします。
+ネット情報：[https://crd.ndl.go.jp/reference/entry/index.php?id=1000347085&page=ref_view](https://crd.ndl.go.jp/reference/entry/index.php?id=1000347085&page=ref_view)
 
 
 
