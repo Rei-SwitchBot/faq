@@ -130,7 +130,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -186,7 +186,7 @@ Tap the relevant SwitchBot Robot Vacuum Cleaner S1/S1 Plus.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
