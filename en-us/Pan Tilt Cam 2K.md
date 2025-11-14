@@ -1364,7 +1364,7 @@ If the content uploaded by the user allows other users to download, view, listen
 
 (6) Failure of the service environment and computer of the service set by the user;
 
-(7) The network line connecting to the cloud service is faulty;
+(7) The network line connecting to the Third-party Service is faulty;
 
 (8) Improper operation of the user;
 
@@ -1449,7 +1449,7 @@ Tap the relevant SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -1511,7 +1511,7 @@ Tap the relevant SwitchBot SwitchBot Pan/Tilt Cam, Pan/Tilt Cam 2K.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
