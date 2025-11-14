@@ -196,7 +196,7 @@ Tap "More"
 
 Tap the gear icon
 
-Tap the Cloud Service
+Tap the Third-party Service
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/4407149182871/Lark20210826-173056.jpg)
 
@@ -292,7 +292,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -358,7 +358,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
