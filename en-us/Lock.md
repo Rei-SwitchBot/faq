@@ -15,9 +15,9 @@ SwitchBot App Version:
 
 7.11 and before
 
-1. SwitchBot Lock is a Bluetooth device and can be set to receive notifications when cloud services are turned on in conjunction with the hub series products.
+1. SwitchBot Lock is a Bluetooth device and can be set to receive notifications when Third-party Services are turned on in conjunction with the hub series products.
 
-If the cloud service is disabled, the "Notifications" function will be greyed out and unavailable.
+If the Third-party Service is disabled, the "Notifications" function will be greyed out and unavailable.
 
 Hub series products: SwitchBot Hub Mini/SwitchBot Hub 2
 
@@ -302,7 +302,7 @@ Save the routine.
 Note:
 
 *It is not recommended to regularly unlock the Lock for security reasons. Please understand that we are not responsible for any accidents or damages caused by this action.
-*Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near the installed Lock, within Bluetooth range, and it will automatically connect to the Hub.
+*Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near the installed Lock, within Bluetooth range, and it will automatically connect to the Hub.
 
 
 ---
@@ -1021,7 +1021,7 @@ Please note: If you are unsure how to pair the device or if pairing does not wor
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002106348055)
 
-Please Note: The Lock can only be unlocked with the Apple Watch within Bluetooth range. Even if the lock's cloud service is enabled, the Lock cannot be remotely controlled by the Apple Watch. Please note that this is not possible.
+Please Note: The Lock can only be unlocked with the Apple Watch within Bluetooth range. Even if the lock's Third-party Service is enabled, the Lock cannot be remotely controlled by the Apple Watch. Please note that this is not possible.
 
 ※Related Posts:
 
@@ -1112,7 +1112,7 @@ Tap "Next" on the SwitchBot App.
 
 Once the device has been connected, add the Lock's name and room to your favorites and tap "Next."
 
-In the SwitchBot App, you will be informed that the cloud service is enabled. Please don't hesitate to decide whether to connect to the Hub device.
+In the SwitchBot App, you will be informed that the Third-party Service is enabled. Please don't hesitate to decide whether to connect to the Hub device.
 
 Installation instructions will be provided. Please go ahead and install the Lock according to the guidance.
 
@@ -1196,7 +1196,7 @@ SwitchBot Lock Firmware Version: V6.4 or newer
 
 Pre-preparation
 
-Please note we need a SwitchBot Hub device connected to the network in our account if we want to use the SwitchBot Lock via voice control. And please ensure that Lock's cloud service has been enabled.
+Please note we need a SwitchBot Hub device connected to the network in our account if we want to use the SwitchBot Lock via voice control. And please ensure that Lock's Third-party Service has been enabled.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/23907030267671)
 
@@ -1430,7 +1430,7 @@ Make sure your SwitchBot App version is up to date.
 
 Make sure SwitchBot Lock has been added to your App.
 
-3. To use remote unlock notifications functions, you need to connect your Lock to SwitchBot Hub products (cloud service must be enabled). The Lock is a BLE communication device, so the remote unlock notification option in the SwitchBot App appears grayed out and cannot be enabled when used alone.
+3. To use remote unlock notifications functions, you need to connect your Lock to SwitchBot Hub products (Third-party Service must be enabled). The Lock is a BLE communication device, so the remote unlock notification option in the SwitchBot App appears grayed out and cannot be enabled when used alone.
 
 Related Post:
 
@@ -1469,7 +1469,7 @@ Firmware Version: 6.5 or newer
 
 1. You can lock and unlock SwitchBot Lock with your Apple Watch.
 
-Note: locking and unlocking using Apple Watch is only possible when within Bluetooth range. Even if your SwitchBot Lock has cloud services turned on, your Lock can not be remotely controlled using your Apple Watch.
+Note: locking and unlocking using Apple Watch is only possible when within Bluetooth range. Even if your SwitchBot Lock has Third-party Services turned on, your Lock can not be remotely controlled using your Apple Watch.
 
 Related Posts:
 
@@ -1534,7 +1534,7 @@ Make sure your SwitchBot App version is up to date.
 
 Make sure SwitchBot Lock and SwitchBot Hub series have been added to your App.
 
-3． Please follow the steps below to turn on the Cloud Service for your SwitchBot Lock:
+3． Please follow the steps below to turn on the Third-party Service for your SwitchBot Lock:
 
 Launch the SwitchBot App.
 
@@ -1542,9 +1542,9 @@ Tap the relevant SwitchBot Lock.
 
 Tap the gear icon in the top right corner.
 
-Tap "Cloud Services" in the Settings screen.
+Tap "Third-party Services" in the Settings screen.
 
-Turn on "Cloud Services" and connect it to SwitchBot Hub products in your account.
+Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
 4．
 
@@ -1580,7 +1580,7 @@ Tap the relevant SwitchBot Lock.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -1613,7 +1613,7 @@ Make sure SwitchBot Lock and SwitchBot Hub series have been added to your App.
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Lock:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Lock:
 
 Launch the SwitchBot App.
 
@@ -1621,9 +1621,9 @@ Tap the relevant SwitchBot Lock.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -1653,7 +1653,7 @@ Tap the relevant SwitchBot Lock.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -1859,7 +1859,7 @@ Note: Old widgets are no longer available starting with iOS18. Please contact Ap
 
 2. Make sure SwitchBot Lock and SwitchBot Hub products have been added to your App and your device firmware version is up to date.
 
-3. Enable the cloud service for your Lock.
+3. Enable the Third-party Service for your Lock.
 
 Launch the SwitchBot App and log in.
 
@@ -1867,9 +1867,9 @@ Tap the relevant SwitchBot Lock.
 
 Tap the gear icon in the top right corner.
 
-Tap "Cloud Services" in the Settings screen.
+Tap "Third-party Services" in the Settings screen.
 
-Turn on "Cloud Services" and connect it to SwitchBot Hub products in your account.
+Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
 4. Set up a widget in the SwitchBot App.
 
@@ -2032,7 +2032,7 @@ Video of Lock cannot be added to SwitchBot App
 
 
 ---
-### What to Do If I Can't Enable the Cloud Service of SwitchBot Lock?
+### What to Do If I Can't Enable the Third-party Service of SwitchBot Lock?
 
 Last Updated: 2024/05/28
 
@@ -2048,7 +2048,7 @@ Firmware Version: Lock 6.8 or newer, Hub Mini 5.4-3.8 or newer, Hub 2 2.0-1.2 or
 
 3. Make sure the Lock is within Bluetooth range (recommended 5 meters) of the Hub.
 
-4. Please log out of the SwitchBot App, then log in again to confirm that you can enable the Lock 's cloud service.
+4. Please log out of the SwitchBot App, then log in again to confirm that you can enable the Lock 's Third-party Service.
 
 5. Please check if unplugging and plugging in the power supply of the Hub improves the problem.
 
