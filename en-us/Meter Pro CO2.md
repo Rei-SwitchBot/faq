@@ -147,7 +147,7 @@ Currently, the top section of the Meter Pro (CO2 Monitor)'s screen is dedicated 
 ### Is It Possible to Use the CO2 Value from SwitchBot Meter Pro (CO2 Monitor) to Trigger Other Devices Such as SwitchBot Bot?
 
 We’re happy to let you know that when you connect your SwitchBot Meter Pro (CO2 Monitor) to a SwitchBot Hub, you can use the CO2 level as a condition in SwitchBot Automations. This allows you to trigger other SwitchBot devices based on the CO2 readings.
-Note: Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+Note: Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Meter Pro (CO2 Monitor) near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
