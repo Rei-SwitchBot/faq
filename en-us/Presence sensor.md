@@ -116,7 +116,7 @@ The above estimates are based on SwitchBot laboratory test conditions and may di
 ### How to Enable Push Notifications for SwitchBot Presence Sensor
 
 1. If you would like to receive notifications from the Presence Sensor, you will need to purchase our hub product and add both devices to the SwitchBot app.
-2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 3. Turn on notifications for Presence Sensor in the following order:
 - Launch the SwitchBot app and log in.
 - Tap "Profile" at the bottom right.
@@ -175,7 +175,7 @@ You can use this feature by going to SwitchBot app → Presence Sensor → Gear 
 ### SwitchBot Presence Sensor Amazon Alexa Setup Guide
 
 1. If you want to use your Presence Sensor on the Amazon Alexa app, you will need to buy our hub product and add both devices to the SwitchBot app.
-2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 3. Please refer to the content below to link SwitchBot with Alexa.[
 https://support.switch-bot.com/hc/en-us/articles/35590018658839-SwitchBot-Presence-Sensor-Amazon-Alexa-Setup-Guide](https://support.switch-bot.com/hc/en-us/articles/35590018658839-SwitchBot-Presence-Sensor-Amazon-Alexa-Setup-Guide)
 4. Once the setup is finished, the Presence Sensor can be used with Amazon's routines.
@@ -185,7 +185,7 @@ https://support.switch-bot.com/hc/en-us/articles/35590018658839-SwitchBot-Presen
 ### SwitchBot Presence Sensor Google Home Setup Guide
 
 1. If you want to use your Presence Sensor on the Google Home app, you will need to buy our hub product and add both devices to the SwitchBot app.
-2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 3. Please refer to the content below to link SwitchBot with Google.
 [https://support.switch-bot.com/hc/en-us/articles/35590212941847-SwitchBot-Presence-Sensor-Google-Home-Setup-Guide](https://support.switch-bot.com/hc/en-us/articles/35590212941847-SwitchBot-Presence-Sensor-Google-Home-Setup-Guide)
 4. Due to restrictions on the Google Home app, smart home devices cannot be set as conditions for automation. Therefore, we cannot use Presence Sensor to trigger other devices in Google automation. For more information, we recommend consulting directly with Google.
