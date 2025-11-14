@@ -96,7 +96,7 @@ The Meters use BLE to communicate, so on their own, they are limited to Bluetoot
 
 If you would like to monitor SwitchBot Meters remotely (e.g. away from the house), you need to use them in conjunction with a SwitchBot Hub (Plus/Mini), which relays the data of any in-range SwitchBot Meters to the internet using your local Wi-Fi.
 
-If you have a SwitchBot Hub (Plus/Mini), you can turn on the Cloud Service for the Meter. It means your data is always being uploaded and backed up automatically and boosts the speed when you check historical data (via the Internet). With Cloud Service enabled, the Meter also works with Alexa, Google Assistant, Siri Shortcuts, and IFTTT.
+If you have a SwitchBot Hub (Plus/Mini), you can turn on the Third-party Service for the Meter. It means your data is always being uploaded and backed up automatically and boosts the speed when you check historical data (via the Internet). With Third-party Service enabled, the Meter also works with Alexa, Google Assistant, Siri Shortcuts, and IFTTT.
 
 If you have a SwitchBot Hub (Plus/Mini) near your Meter, you can make all SwitchBot products work together, e.g. when the temperature is too high, it will turn on the air conditioner with the SwitchBot Hub (Plus/Mini) via infrared, or turn on a Fan with the Bot (by mechanically pushing a button).
 
@@ -205,7 +205,7 @@ If we want to monitor SwitchBot Meters remotely (e.g. away from the house), we n
 
 The reason why the Meter uses the Bluetooth Low Energy protocol (BLE) to communicate is that it's more cost-effective and less power-consuming than using Wi-Fi, leading the batteries to last a lot longer (in most cases for a year) and the sample rate of the Meter can be a lot higher than using Wi-Fi. A lot of Meters with on-board Wi-Fi will sample once every 15 minutes instead of once every 2 minutes which is what the SwitchBot Meter is capable of, and their batteries die after a couple of weeks instead of a year or more. Changing battery frequently would be a real annoyance when we're placing the Meter to some hard-to-reach places like a crawlspace under a house.
 
-So with a SwitchBot Hub (Plus/Mini), we can not only add Wi-Fi capability to the SwitchBot Meter but due to the favorable price, we can also have a larger array of energy-efficient Meters pushing to the cloud for remotely monitoring for a lot less cost. As for the Cloud Service, there is no extra fee once we purchase a SwitchBot Hub (Plus/Mini).
+So with a SwitchBot Hub (Plus/Mini), we can not only add Wi-Fi capability to the SwitchBot Meter but due to the favorable price, we can also have a larger array of energy-efficient Meters pushing to the cloud for remotely monitoring for a lot less cost. As for the Third-party Service, there is no extra fee once we purchase a SwitchBot Hub (Plus/Mini).
 
 We may eventually move in the direction of Wi-Fi once it's possible to have more efficient systems.
 
@@ -250,7 +250,7 @@ The Meter automatically maintains a backup of the most recent 36 days of reading
 
 Once the data is picked up by the APP, it will be stored indefinitely by the app on your mobile device.
 
-Likewise, once the data is picked up by a SwitchBot Hub Plus/Mini (when a Hub Mini/Plus is used in conjunction with the Meter), it will be stored indefinitely in the cloud service of SwitchBot Meter.
+Likewise, once the data is picked up by a SwitchBot Hub Plus/Mini (when a Hub Mini/Plus is used in conjunction with the Meter), it will be stored indefinitely in the Third-party Service of SwitchBot Meter.
 
 
 
@@ -279,11 +279,11 @@ When without a Hub Mini
 
 For example, if the trigger is pushed notification when the temperature is higher than 25 degrees/humidity is lower than 60%, then if the temperature goes higher than 25 degrees/humidity goes lower than 60% and stays for more than 2 minutes, the push notification will be issued. If the temperature/humidity jumps back and forth, there might be multiple notifications.
 
-When with a Hub Mini, and the Meter does not enable Cloud Service
+When with a Hub Mini, and the Meter does not enable Third-party Service
 
 , the situation is the same as without a Hub Mini.
 
-When with a Hub Mini and the Meter enable Cloud Service
+When with a Hub Mini and the Meter enable Third-party Service
 
 , the situation is the same as Android users.
 
@@ -411,13 +411,13 @@ Tap the applicable Meter/Meter Plus.
 
 Tap the gear icon in the top right.
 
-Tap "Cloud Service" on the settings screen.
+Tap "Third-party Service" on the settings screen.
 
-Turn on cloud services.
+Turn on Third-party Services.
 
 Connect to the hub products in your account.
 
-Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 
 5. Settings in step 4 enable remote confirmation of temperature and humidity data.
 
@@ -526,7 +526,7 @@ Displayed in the SwitchBot app:
 ---
 ### How to use Meter as a trigger in IFTTT
 
-Step 1: Turn on the Cloud Service for the SwitchBot Meter on the app.
+Step 1: Turn on the Third-party Service for the SwitchBot Meter on the app.
 
 (Make sure that the SwitchBot Hub Mini is connected to the Internet.)
 
@@ -563,7 +563,7 @@ Applicable Products: SwitchBot Meter、Meter Plus、Indoor/Outdoor Thermo-Hygrom
 
 1. The temperature and humidity data in the Widgets are updated via the Internet. If you use SwitchBot Meter devices alone without a SwitchBot Hub device, you can add Widgets, but the data will not be updated when SwitchBot Meter devices are added.
 
-2. If you use the widget in combination with our Hub series products and turn on the cloud service of the corresponding thermo-hygrometer, the widget data will be updated. If you'd like to use the Widgets, please remember to purchase our Hub Series products.
+2. If you use the widget in combination with our Hub series products and turn on the Third-party Service of the corresponding thermo-hygrometer, the widget data will be updated. If you'd like to use the Widgets, please remember to purchase our Hub Series products.
 
 SwitchBot hub Series products: Hub Mini、Ceiling Light、Ceiling Light Pro
 
@@ -613,7 +613,7 @@ Assign a readable name for your Meter
 
 Then enable the Meter's
 
-cloud service
+Third-party Service
 
 .
 
@@ -682,7 +682,7 @@ Make sure SwitchBot Meter/Meter Plus and SwitchBot Hub series have been added to
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Meter/Meter Plus:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Meter/Meter Plus:
 
 Launch the SwitchBot App.
 
@@ -690,9 +690,9 @@ Tap the relevant SwitchBot Meter/Meter Plus.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -726,7 +726,7 @@ Launch the SwitchBot App and log in.
 
 Tap the relevant SwitchBot Meter/Meter Plus.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -759,7 +759,7 @@ Make sure SwitchBot Meter/Meter Plus and SwitchBot Hub series have been added to
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Meter/Meter Plus:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Meter/Meter Plus:
 
 Launch the SwitchBot App.
 
@@ -767,9 +767,9 @@ Tap the relevant SwitchBot Meter/Meter Plus.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -799,7 +799,7 @@ Tap the relevant SwitchBot Meter/Meter Plus.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -845,7 +845,7 @@ SwitchBot App Version: 8.7 or newer
 
 2. Make sure SwitchBot Meter and Hub have been added to your App and your device firmware version is up to date.
 
-3. Make sure the cloud service of your Meter is enabled.
+3. Make sure the Third-party Service of your Meter is enabled.
 
 4. We observe frequent usage of automation where a Meter's temperature and humidity serve as conditions, triggering devices like air conditioners. Here is a guide with setup procedures and examples.
 
@@ -1110,7 +1110,7 @@ Thus, the SwitchBot App must get access to location service to make Meter's aler
 
 SwitchBot never tracks users' location information, nor do we share it with any third-party platforms.
 
-If you are still concerned about it, we recommend you pair your Meter with a Hub Plus and enable the Cloud Service of the Meter. In this way, your Meter's alert notificatIon will go through the Internet instead of Bluetooth, therefore location permission is not needed after we have connected it to the SwitchBot app.
+If you are still concerned about it, we recommend you pair your Meter with a Hub Plus and enable the Third-party Service of the Meter. In this way, your Meter's alert notificatIon will go through the Internet instead of Bluetooth, therefore location permission is not needed after we have connected it to the SwitchBot app.
 
 References:
 
@@ -1154,7 +1154,7 @@ Select Meter/Meter Plus
 
 Note:
 
-1. If you do not enable the cloud service for the Meter/Meter Plus, the temperature and humidity data displayed in the widget will be the data at the time it is added and will not be updated forever.
+1. If you do not enable the Third-party Service for the Meter/Meter Plus, the temperature and humidity data displayed in the widget will be the data at the time it is added and will not be updated forever.
 
 2. Long press on the
 
@@ -1240,7 +1240,7 @@ Normally, I use my Meter connected to a Hub at home, syncing all the data to the
 
 Reason
 
-Starting from SwitchBot App V9.0, the "Cloud Service" option was removed from the settings. Instead, when you tap on the Meter in the app, a “Store Data to Cloud” button now appears at the bottom of the graph screen. Tapping this button enables the cloud storage of temperature and humidity data, functioning the same as activating the previous "Cloud Service" option.
+Starting from SwitchBot App V9.0, the "Third-party Service" option was removed from the settings. Instead, when you tap on the Meter in the app, a “Store Data to Cloud” button now appears at the bottom of the graph screen. Tapping this button enables the cloud storage of temperature and humidity data, functioning the same as activating the previous "Third-party Service" option.
 
 However, data recorded via Bluetooth and data saved to the cloud are stored through separate processes and do not merge. Once you enable the “Store Data to Cloud” feature, the app will prioritize displaying data stored in the cloud. As a result, data recorded via Bluetooth while away from the Hub will no longer appear on the graph screen.
 
