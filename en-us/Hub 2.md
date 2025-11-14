@@ -689,13 +689,13 @@ You can control the Bluetooth-only devices with voice assistants or build some a
 
 App V8.8 and previous versions
 
-When using Bluetooth-only devices with a hub, you can navigate to the Settings page of your device and turn on Cloud Services to enable more device features.
+When using Bluetooth-only devices with a hub, you can navigate to the Settings page of your device and turn on Third-party Services to enable more device features.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998138308503)
 
-After turning on Cloud Services, you'll be able to remotely control your device even when outside Bluetooth range. You can also control your devices using third-party smart assistants like Alexa, Google Home, Siri, and more.
+After turning on Third-party Services, you'll be able to remotely control your device even when outside Bluetooth range. You can also control your devices using third-party smart assistants like Alexa, Google Home, Siri, and more.
 
-When we turn on Cloud Services for SwitchBot Bluetooth devices, they will communicate with your SwitchBot Hub via Bluetooth. The Hub is also communicating with the Cloud via a 2.4GHz Wi-Fi network. Every time we try to control a SwitchBot Bluetooth device using our smartphone when not in Bluetooth range, the command will go to the Cloud first, and then be forwarded to your SwitchBot Hub. The Hub will tell the corresponding device what to do via Bluetooth signal when it receives the command. You can find out more by checking the image below:
+When we turn on Third-party Services for SwitchBot Bluetooth devices, they will communicate with your SwitchBot Hub via Bluetooth. The Hub is also communicating with the Cloud via a 2.4GHz Wi-Fi network. Every time we try to control a SwitchBot Bluetooth device using our smartphone when not in Bluetooth range, the command will go to the Cloud first, and then be forwarded to your SwitchBot Hub. The Hub will tell the corresponding device what to do via Bluetooth signal when it receives the command. You can find out more by checking the image below:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998107946391)
 
@@ -772,7 +772,7 @@ Tap the relevant SwitchBot Hub 2.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -834,7 +834,7 @@ Tap the relevant SwitchBot Hub 2.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
