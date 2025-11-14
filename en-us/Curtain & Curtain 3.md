@@ -383,7 +383,7 @@ Your SwitchBot Curtain has been added to your SwitchBot account.
 
 Step1：
 
-Turn on the cloud service of the Curtain
+Turn on the Third-party Service of the Curtain
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998506040727)
 
@@ -1575,7 +1575,7 @@ Cross-sectional photo of the curtain rail in your home
 
 Make sure your SwitchBot Hub Plus/Mini ​is connected to the Internet.
 
-Then enable the Curtain's cloud service. Your Curtain is ready to be controlled by a third-party service.
+Then enable the Curtain's Third-party Service. Your Curtain is ready to be controlled by a third-party service.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002302800919)
 
@@ -1653,7 +1653,7 @@ Make sure your SwitchBot App version is up to date.
 
 Make sure SwitchBot Curtain/Curtain 3 and SwitchBot Hub series have been added to your App.
 
-3． Please follow the steps below to turn on the Cloud Service for your SwitchBot Curtain/Curtain 3:
+3． Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain/Curtain 3:
 
 Launch the SwitchBot App.
 
@@ -1663,9 +1663,9 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-Turn on "Cloud Services" in the Settings screen.
+Turn on "Third-party Services" in the Settings screen.
 
-Turn on "Cloud Services" and connect it to SwitchBot Hub products in your account.
+Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
 4．
 
@@ -1707,7 +1707,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -1738,7 +1738,7 @@ Make sure SwitchBot Curtain/Curtain 3 and SwitchBot Hub series has been added to
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Curtain/Curtain 3:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain/Curtain 3:
 
 Launch the SwitchBot App.
 
@@ -1748,9 +1748,9 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -1780,7 +1780,7 @@ Tap the relevant SwitchBot Curtain/Curtain 3.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -1988,7 +1988,7 @@ Please check before setting the triggers.
 
 https://support.switch-bot.com/hc/en-us/articles/360052804654
 
-3. The Cloud service of the Curtain is on.
+3. The Third-party Service of the Curtain is on.
 
 １. Use the SwitchBot app to create Siri Shortcuts.
 
@@ -2280,11 +2280,11 @@ Video: https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view
 
 
 ---
-### Troubleshooting Trying to Connect SwitchBot Curtain to the Hub but Can’t Find the Cloud Service Option
+### Troubleshooting Trying to Connect SwitchBot Curtain to the Hub but Can’t Find the Third-party Service Option
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the curtain near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the curtain near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 If you have any further questions, feel free to contact us anytime. We’re happy to help!
 
