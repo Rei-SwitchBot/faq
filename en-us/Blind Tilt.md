@@ -234,7 +234,7 @@ Firmware Version: V2.0 or newer
 
 1. Make sure you have the latest version of the SwitchBot App.
 
-2. Make sure the cloud service of the Blind Tilt is enabled.
+2. Make sure the Third-party Service of the Blind Tilt is enabled.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002106387095)
 
@@ -406,7 +406,7 @@ SwitchBot App Version: 6.26 or newer
 
 2. Make sure SwitchBot Blind Tilt and Hub series products has been added to your App and your device firmware version is up to date. (Hub series products: Hub Mini/Hub 2)
 
-3. Follow the instructions below to turn on the cloud service of Blind Tilt.
+3. Follow the instructions below to turn on the Third-party Service of Blind Tilt.
 
 Open SwitchBot App.
 
@@ -414,7 +414,7 @@ Tap Blind Tilt.
 
 Tap the "gear" icon upper right corner of the details page.
 
-Turn on the cloud services in the "Cloud Services" option.
+Turn on the Third-party Services in the "Third-party Services" option.
 
 4．Follow the instructions below to finish the Alexa links.
 
@@ -434,7 +434,7 @@ SwitchBot App Version: 6.26 or newer
 
 2. Make sure SwitchBot Blind Tilt and Hub series products has been added to your App and your device firmware version is up to date. (Hub series products: Hub Mini/Hub 2)
 
-3. Follow the instructions below to turn on the cloud service of Blind Tilt.
+3. Follow the instructions below to turn on the Third-party Service of Blind Tilt.
 
 Open SwitchBot App.
 
@@ -442,7 +442,7 @@ Tap Blind Tilt.
 
 Tap the "gear" icon upper right corner of the details page.
 
-Turn on the cloud services in the "Cloud Services" option.
+Turn on the Third-party Services in the "Third-party Services" option.
 
 4．Follow the instructions below to finish the Google links.
 
@@ -476,7 +476,7 @@ SwitchBot App Version: 7.9 or newer
 
 2． Make sure SwitchBot Blind Tilt and Hub have been added to your App. (SwiutchBot Hub series products: Hub Mini/Hub 2)
 
-3． Please follow the steps below to activate the Cloud Service for your SwitchBot Blind Tilt:
+3． Please follow the steps below to activate the Third-party Service for your SwitchBot Blind Tilt:
 
 Launch the SwitchBot App.
 
@@ -484,7 +484,7 @@ Tap the corresponding SwitchBot Blind Tilt.
 
 Tap on the gear icon located in the upper-right corner.
 
-Activate the cloud service from the settings menu.
+Activate the Third-party Service from the settings menu.
 
 4． Link your SwitchBot App to the IFTTT App.
 
