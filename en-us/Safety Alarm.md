@@ -130,7 +130,8 @@ Regarding this issue, could you please check the following points?
 2. If you are using an Android phone, activate the NFC function and hold the Safety Alarm over the NFC reading position to check for a response. If you are using iPhone XS or later, download an App called NFC Tools from the App Store to test your Safety Alarm's NFC function.
 3. Try adding the Safety Alarm by touching the NFC reading area with your Keypad to see if it helps.
 
-<img width="247" height="364" alt="image" src="https://github.com/user-attachments/assets/b181c0a3-3dc6-41a2-ac2d-c5fc661e53be" />
+<img width="1280" height="961" alt="image" src="https://github.com/user-attachments/assets/98ebd5be-0d18-4bdd-a319-2ac7f35e236b" />
+
 
 
 ---
