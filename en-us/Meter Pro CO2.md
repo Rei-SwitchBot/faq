@@ -380,7 +380,15 @@ If you sync your CO2 Monitor to Apple Home via Hub 2 or Hub Mini Matter, the app
 We regret to inform you that checking carbon dioxide levels using voice commands on the Google Home app is not available. For more information, we recommand contacting Google directly.
 
 
+---
+### Troubleshooting Temperature Unit Not Switching from Celsius to Fahrenheit When Pressing the Button on SwitchBot Meter Pro (CO2 Monitor)
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. All Japanese versions of the temperature and humidity meters do not support switching the temperature unit to Fahrenheit. Make sure you are not using the Japanese version CO2 Monitor.
+2. Please use the latest version of the SwitchBot app from the app store. You may not be able to switch with the beta version.
+3. Please check for any available firmware updates by going to SwitchBot app → CO2 Monitor → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Set the button function to "Change Display Unit & Refresh Data" by navigating to the SwitchBot app, selecting CO2 Monitor, tapping the gear icon, and choosing Top Button Function.
 
 
 
