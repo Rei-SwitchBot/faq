@@ -13,13 +13,13 @@ Make sure your SwitchBot Hub Mini/Plus ​is connected to the Internet.
 
 Then enable the Contact Sensor's
 
-cloud service
+Third-party Service
 
 .
 
 ■ Step 2
 
-Tap Siri Shortcuts on the cloud service page.
+Tap Siri Shortcuts on the Third-party Service page.
 
 ■ Step 3
 
@@ -245,7 +245,7 @@ How to Set Up：
 
 Add SwitchBot Contact Sensor and SwitchBot hub products to your SwitchBot App.
 
-Open the SwitchBot App, then select "SwitchBot Contact Sensor". Click on the "Gear" symbol and activate the "Cloud Service".
+Open the SwitchBot App, then select "SwitchBot Contact Sensor". Click on the "Gear" symbol and activate the "Third-party Service".
 
 Connect the SwitchBot App with the Amazon Alexa App.
 
@@ -444,12 +444,12 @@ SwitchBot App Version: 7.11 or newer
 
 2．Make sure SwitchBot Contact Sensor and SwitchBot Hub series have been added to your App.
 
-3．Please follow the steps below to turn on the Cloud Service for your SwitchBot Contact Sensor:
+3．Please follow the steps below to turn on the Third-party Service for your SwitchBot Contact Sensor:
 Launch the SwitchBot App.
 Tap the relevant SwitchBot Contact Sensor.
 Tap the gear icon at the top right.
-In the Settings screen, tap "Cloud Services".
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+In the Settings screen, tap "Third-party Services".
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．Method 1: Please follow the steps below to integrate via the Alexa App.
 
@@ -479,7 +479,7 @@ Launch the SwitchBot App and log in.
 
 Tap the relevant SwitchBot Contact Sensor.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -509,7 +509,7 @@ Make sure SwitchBot Contact Sensor and SwitchBot Hub series have been added to y
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Contact Sensor:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Contact Sensor:
 
 Launch the SwitchBot App.
 
@@ -517,9 +517,9 @@ Tap the relevant SwitchBot Contact Sensor.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -549,7 +549,7 @@ Tap the relevant SwitchBot Contact Sensor.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -707,7 +707,7 @@ The SmartThings App can only detect the opening and closing of doors or windows 
 ### How to Enable Push Notifications for SwitchBot Contact Sensor
 
 1. If you would like to receive notifications from the Contact Sensor, you will need to purchase our hub product and add both devices to the SwitchBot app.
-2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 3. Turn on notifications for Contact Sensor in the following order:
 - Launch the SwitchBot app and log in.
 - Tap "Profile" at the bottom right.
