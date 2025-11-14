@@ -506,7 +506,7 @@ Make sure your SwitchBot App version is up to date.
 
 Make sure SwitchBot Curtain 3 and SwitchBot Hub series have been added to your App.
 
-3． Please follow the steps below to turn on the Cloud Service for your SwitchBot Curtain 3:
+3． Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain 3:
 
 Launch the SwitchBot App.
 
@@ -516,9 +516,9 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-Turn on "Cloud Services" in the Settings screen.
+Turn on "Third-party Services" in the Settings screen.
 
-Turn on "Cloud Services" and connect it to SwitchBot Hub products in your account.
+Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
 4．
 
@@ -558,7 +558,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -588,7 +588,7 @@ Make sure SwitchBot Curtain 3 and SwitchBot Hub series has been added to your Ap
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Curtain 3:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain 3:
 
 Launch the SwitchBot App.
 
@@ -598,9 +598,9 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -630,7 +630,7 @@ Tap the relevant SwitchBot Curtain 3.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
