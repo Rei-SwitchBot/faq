@@ -146,13 +146,13 @@ Outdoor Meter.
 
 Tap the gear icon in the top right.
 
-Tap "Cloud Service" on the settings screen.
+Tap "Third-party Service" on the settings screen.
 
-Turn on cloud services.
+Turn on Third-party Services.
 
 Connect to the Hub products in your account.
 
-Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 
 Related Post:
 
@@ -267,7 +267,7 @@ and SwitchBot Hub series have been added to your App.
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot
+Please follow the steps below to turn on the Third-party Service for your SwitchBot
 
 Outdoor Meter
 
@@ -279,7 +279,7 @@ Tap the relevant SwitchBot Outdoor Meter.
 
 Tap the gear icon in the top right corner.
 
-Turn on "Cloud Services" in the Settings screen.
+Turn on "Third-party Services" in the Settings screen.
 
 4．
 
@@ -319,7 +319,7 @@ Outdoor Meter
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -352,7 +352,7 @@ Make sure SwitchBot Outdoor Meter and SwitchBot Hub series have been added to yo
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Outdoor Meter:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Outdoor Meter:
 
 Launch the SwitchBot App.
 
@@ -360,9 +360,9 @@ Tap the relevant SwitchBot Outdoor Meter.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -392,7 +392,7 @@ Tap the relevant SwitchBot Outdoor Meter.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -532,7 +532,7 @@ SwitchBot App Version: V6.26 or newer
 
 3. Uninstall the SwitchBot app and re-install it.
 
-*If you are using Bluetooth only(Cloud Service for the Outdoor Meter is not enabled), there is a risk that locally stored history data cannot be loaded again by uninstalling the app. When used with a Hub Series device, data is always automatically uploaded via Wi-Fi, allowing you to quickly read data anytime, anywhere.
+*If you are using Bluetooth only(Third-party Service for the Outdoor Meter is not enabled), there is a risk that locally stored history data cannot be loaded again by uninstalling the app. When used with a Hub Series device, data is always automatically uploaded via Wi-Fi, allowing you to quickly read data anytime, anywhere.
 
 4. Perform the data loading again.
 
@@ -575,7 +575,7 @@ Normally, I use my Outdoor Meter connected to a Hub at home, syncing all the dat
 
 Reason
 
-Starting from SwitchBot App V9.0, the "Cloud Service" option was removed from the settings. Instead, when you tap on the Outdoor Meter in the app, a “Store Data to Cloud” button now appears at the bottom of the graph screen. Tapping this button enables the cloud storage of temperature and humidity data, functioning the same as activating the previous "Cloud Service" option.
+Starting from SwitchBot App V9.0, the "Third-party Service" option was removed from the settings. Instead, when you tap on the Outdoor Meter in the app, a “Store Data to Cloud” button now appears at the bottom of the graph screen. Tapping this button enables the cloud storage of temperature and humidity data, functioning the same as activating the previous "Third-party Service" option.
 
 However, data recorded via Bluetooth and data saved to the cloud are stored through separate processes and do not merge. Once you enable the “Store Data to Cloud” feature, the app will prioritize displaying data stored in the cloud. As a result, data recorded via Bluetooth while away from the Hub will no longer appear on the graph screen.
 
