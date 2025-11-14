@@ -279,7 +279,7 @@ Make sure SwitchBot Battery Circulator Fan has been added to your App.
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Battery Circulator Fan:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Battery Circulator Fan:
 
 Launch the SwitchBot App.
 
@@ -289,7 +289,7 @@ Tap the gear icon in the top right corner.
 
 Turn
 
-on "Cloud Services"
+on "Third-party Services"
 
 in the Settings screen.
 
@@ -327,7 +327,7 @@ Tap the relevant SwitchBot Battery Circulator Fan.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -351,7 +351,7 @@ SwitchBot App Version: 7.7 or newer
 
 2. Make sure SwitchBot Battery Circulator Fan and Hub series products has been added to your App and your device firmware version is up to date. (Hub series products: Hub Mini/Hub 2)
 
-3. Follow the instructions below to turn on the cloud service of Battery Circulator Fan.
+3. Follow the instructions below to turn on the Third-party Service of Battery Circulator Fan.
 
 Open SwitchBot App.
 
@@ -359,7 +359,7 @@ Tap Battery Circulator Fan.
 
 Tap the "gear" icon upper right corner of the details page.
 
-Turn on the cloud services in the "Cloud Services" option.
+Turn on the Third-party Services in the "Third-party Services" option.
 
 4．Follow the instructions below to finish the Google links.
 
