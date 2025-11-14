@@ -494,7 +494,7 @@ First of all, login your Amazon Alexa account in the Alexa app.
 
 Open SwitchBot app, choose Indoor Cam.
 
-Tap Cloud Service and then tap Amazon Alexa.
+Tap Third-party Service and then tap Amazon Alexa.
 
 Follow the instructions to login to your Amazon Alexa account.
 
@@ -504,9 +504,9 @@ Enjoy controlling your SwitchBot devices with Alexa.
 
 * Note:
 
-Devices need Hub to turn the cloud service on: Bot, Curtain, Meter, Contact Sensor, Motion Sensor.
+Devices need Hub to turn the Third-party Service on: Bot, Curtain, Meter, Contact Sensor, Motion Sensor.
 
-Devices don't need Hub to turn the cloud service on: Plug, Indoor Cam, Humidifier, Color Bulb.
+Devices don't need Hub to turn the Third-party Service on: Plug, Indoor Cam, Humidifier, Color Bulb.
 
 
 
@@ -874,7 +874,7 @@ Tap the relevant SwitchBot Indoor Cam.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -934,7 +934,7 @@ Tap the relevant SwitchBot Indoor Cam.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
