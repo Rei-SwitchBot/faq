@@ -134,7 +134,7 @@ With Method 2, the device will automatically turn off its screen again after wak
 ### How Much Network Traffic Is Consumed When Using SwitchBot Hub 3?
 
 SwitchBot Hub 3 uses 159 kB of data traffic per hour. 
-When the Hub 3 has been used as a tool to enable the cloud service for the SwitchBot Bluetooth devices, the daily traffic can be calculated as follows.
+When the Hub 3 has been used as a tool to enable the Third-party Service for the SwitchBot Bluetooth devices, the daily traffic can be calculated as follows.
 159 kB x the number of Bluetooth devices x 24 hours
 For example, if you have two Meters, the daily traffic is: 159kB x 2 x 24 hours.
 
@@ -213,7 +213,7 @@ Once completed, the Hub 3 will update the weather forecast for the next 12 hours
 
 1. Yes, the infrared remotes learned on Hub 2, Hub Mini, etc. can be transferred to Hub 3. Please refer to the link below.
 https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-Learned-Infrared-Remotes-From-One-Hub-Mini-to-Another
-2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
+2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
 3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
 
 
@@ -222,7 +222,7 @@ https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-
 
 1. Yes, the infrared remotes learned on Hub 2, Hub Mini, etc. can be transferred to Hub 3. Please refer to the link below.
 https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-Learned-Infrared-Remotes-From-One-Hub-Mini-to-Another
-2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
+2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
 3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
 
 
