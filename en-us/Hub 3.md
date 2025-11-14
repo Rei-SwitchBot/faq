@@ -597,6 +597,26 @@ If other brands of lighting devices in your home also support the Matter protoco
 We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
+---
+### How To Display CO2 Concentration on Hub 3 Screen
+
+To display the CO2 concentration on the Hub 3 screen, you need to purchase our Meter Pro (CO2 Monitor) and add both devices to SwitchBot App.
+Please change Hub 3's temperature and humidity source in the following order:
+Launch SwitchBot app and log in.
+Tap your Hub 3.
+Tap "Displayed Info".
+Tap "Environmental Data Source".
+Choose CO2 Monitor and tap "confirm".
+
+Important Note:
+1. The Hub 3 itself cannot measure CO2. To display CO2 concentration, we kindly ask you to purchase our Meter Pro (CO2 Monitor).
+[https://us.switch-bot.com/products/switchbot-meter-pro-co2-monitor](https://us.switch-bot.com/products/switchbot-meter-pro-co2-monitor)
+2. After displaying data from CO2 Monitor on the hub 3 screen, the data from the hub 3 itself can only be viewed on the SwitchBot App.
+3. Currently, it is not possible to display the CO2 values on the Hub 3 display. Instead, the CO2 concentration will be shown using (green, orange, and red) icons. We appreciate your understanding.
+Green: Good 400~1000ppm
+Orange: Moderate 1000~1400ppm
+Red: Poor 1400~2000ppm
+
 
 
 
