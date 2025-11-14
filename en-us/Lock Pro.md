@@ -124,7 +124,7 @@ Save the routine.
 Note:
 
 *It is not recommended to regularly unlock the Lock for security reasons. Please understand that we are not responsible for any accidents or damages caused by this action.
-*Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near the installed Lock Pro, within Bluetooth range, and it will automatically connect to the Hub.
+*Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near the installed Lock Pro, within Bluetooth range, and it will automatically connect to the Hub.
 
 
 ---
@@ -433,7 +433,7 @@ To enable remote locking and unlocking for your Lock Pro, please check the follo
 
 3. The Lock product communicates with the Hub via Bluetooth, so keep both devices within close range (recommended within 5 meters).
 
-4. Starting with SwitchBot app version 9.0, cloud services are enabled automatically, no manual setup is needed (the cloud service option has been removed). Once the Lock product is placed near the Hub, they will connect automatically, allowing remote control via the app.
+4. Starting with SwitchBot app version 9.0, Third-party Services are enabled automatically, no manual setup is needed (the Third-party Service option has been removed). Once the Lock product is placed near the Hub, they will connect automatically, allowing remote control via the app.
 
 *You can check the communicaiton signals by navigating to SwitchBot App -> Profile -> Manage Hub.
 
@@ -561,7 +561,7 @@ Make sure your SwitchBot App version is up to date.
 
 Make sure SwitchBot Lock Pro has been added to your App.
 
-3. To use remote unlock notifications functions, you need to connect your Lock Pro Lock to SwitchBot Hub products (cloud service must be enabled). The Lock/Lock Pro is a BLE communication device, so the remote unlock notification option in the SwitchBot App appears grayed out and cannot be enabled when used alone.
+3. To use remote unlock notifications functions, you need to connect your Lock Pro Lock to SwitchBot Hub products (Third-party Service must be enabled). The Lock/Lock Pro is a BLE communication device, so the remote unlock notification option in the SwitchBot App appears grayed out and cannot be enabled when used alone.
 
 Related Post:
 
@@ -613,7 +613,7 @@ SwitchBot App Version: 8.4 or newer
 
 2． Make sure SwitchBot Lock Pro and SwitchBot Hub series have been added to your App.
 
-3． Please follow the steps below to turn on the Cloud Service for your SwitchBot Lock Pro:
+3． Please follow the steps below to turn on the Third-party Service for your SwitchBot Lock Pro:
 
 Launch the SwitchBot App.
 
@@ -621,9 +621,9 @@ Tap the relevant SwitchBot Lock Pro.
 
 Tap the gear icon in the top right corner.
 
-Tap "Cloud Services" in the Settings screen.
+Tap "Third-party Services" in the Settings screen.
 
-Turn on "Cloud Services" and connect it to SwitchBot Hub products in your account.
+Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
 4． Method 1: Please follow the steps below to integrate via the Alexa App.
 
@@ -655,7 +655,7 @@ Tap the relevant SwitchBot Lock Pro.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -682,7 +682,7 @@ SwitchBot App Version: 8.4 or newer
 
 2． Make sure SwitchBot Lock Pro and SwitchBot Hub series have been added to your App.
 
-3． Please follow the steps below to turn on the Cloud Service for your SwitchBot Lock Pro:
+3． Please follow the steps below to turn on the Third-party Service for your SwitchBot Lock Pro:
 
 Launch the SwitchBot App.
 
@@ -690,9 +690,9 @@ Tap the relevant SwitchBot Lock Pro.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4． Method 1: Please follow the steps below to integrate via the Google Home App.
 
@@ -718,7 +718,7 @@ Tap the relevant SwitchBot Lock Pro.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -922,7 +922,7 @@ SwitchBot App Version: 8.4 or newer
 
 2. Make sure SwitchBot Lock Pro and SwitchBot Hub have been added to your App.
 
-3. Enable the cloud service of SwitchBot Lock Pro.
+3. Enable the Third-party Service of SwitchBot Lock Pro.
 
 Launch SwitchBot App and login.
 
@@ -930,7 +930,7 @@ Tap your Lock Pro.
 
 Tap the gear icon in the upper right corner.
 
-Tap "cloud service" on the setting screen.
+Tap "Third-party Service" on the setting screen.
 
 connect Lock Pro to the hub that has been added to your account.
 
@@ -946,7 +946,7 @@ Tap the relevant SwitchBot Lock.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -1100,7 +1100,7 @@ Note: Old widgets are no longer available starting with iOS18. Please contact Ap
 
 2. Make sure SwitchBot Lock Pro and SwitchBot Hub products have been added to your App and your device firmware version is up to date.
 
-3. Enable the cloud service for your Lock Pro.
+3. Enable the Third-party Service for your Lock Pro.
 
 Launch the SwitchBot App and log in.
 
@@ -1108,9 +1108,9 @@ Tap the relevant SwitchBot Lock Pro.
 
 Tap the gear icon in the top right corner.
 
-Tap "Cloud Services" in the Settings screen.
+Tap "Third-party Services" in the Settings screen.
 
-Turn on "Cloud Services" and connect it to SwitchBot Hub products in your account.
+Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
 4. Set up a widget in the SwitchBot App.
 
@@ -1186,7 +1186,7 @@ tapes.
 
 
 ---
-### What to Do If I Can't Enable the Cloud Service of SwitchBot Lock Pro?
+### What to Do If I Can't Enable the Third-party Service of SwitchBot Lock Pro?
 
 Last Updated: 2024/05/28
 
@@ -1202,7 +1202,7 @@ Firmware Version: Lock 6.8 or newer, Hub Mini 5.4-3.8 or newer, Hub 2 2.0-1.2 or
 
 3. Make sure the Lock Pro is within Bluetooth range (recommended 5 meters) of the Hub.
 
-4. Please log out of the SwitchBot App, then log in again to confirm that you can enable the Lock Pro's cloud service.
+4. Please log out of the SwitchBot App, then log in again to confirm that you can enable the Lock Pro's Third-party Service.
 
 5. Please check if unplugging and plugging in the power supply of the Hub improves the problem.
 
@@ -1314,21 +1314,21 @@ A video of the Lock Pro not responding after inserting the battery case (with ba
 
 2. Make sure SwitchBot Lock Pro and SwitchBot Hub have been added to your App.
 
-3. Enable the cloud service of SwitchBot Lock Pro.
+3. Enable the Third-party Service of SwitchBot Lock Pro.
 
 Launch SwitchBot App and login.
 Tap your Lock Pro.
 Tap the gear icon in the upper right corner.
-Tap "cloud service" on the setting screen.
+Tap "Third-party Service" on the setting screen.
 connect Lock Pro to the hub that has been added to your account.
-Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near the installed Lock Pro, within Bluetooth range, and it will automatically connect to the Hub.
+Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near the installed Lock Pro, within Bluetooth range, and it will automatically connect to the Hub.
 
 4. Link SwitchBot App with Amazon Alexa App.
 
 Launch the SwitchBot App and log in.
 Tap the relevant SwitchBot Lock.
 Tap the gear icon in the top right corner.
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 Tap Amazon Alexa.
 Tap "Connect".
 Enter your Amazon Alexa App login ID and password.
@@ -2109,7 +2109,7 @@ Setup
 
 2. Make sure SwitchBot Lock Pro and SwitchBot Hub products have been added to your App and your device firmware version is up to date.
 
-3. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Lock Pro near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
+3. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Lock Pro near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
 
 4. Set up a widget in the SwitchBot App.
 
