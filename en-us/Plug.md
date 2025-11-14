@@ -201,7 +201,7 @@ Tap the name of the SwitchBot Plug to access the Plug Settings
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998805015703)
 
-Go into the Cloud Service
+Go into the Third-party Service
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998832301207)
 
@@ -321,7 +321,7 @@ In Plug Settings, tap "Firmware Version," then click the blue "Upgrade" button t
 
 SwitchBot Plug
 
-is connected to a (2.4Ghz)wifi network, we can enable cloud service for it and do not need a
+is connected to a (2.4Ghz)wifi network, we can enable Third-party Service for it and do not need a
 
 SwitchBot Hub Mini.
 
