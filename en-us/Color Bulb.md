@@ -479,7 +479,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -541,7 +541,7 @@ If the Action Panel is enabled, tap "More".
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
