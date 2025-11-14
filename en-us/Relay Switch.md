@@ -304,9 +304,5 @@ doorbells
 
 
 
----
-### Wiring Diagram for SwitchBot Relay Switch 1PM
-
-![image](https://github.com/user-attachments/assets/6e8a1892-bc14-472b-8678-04558f65a24f)
 
 
