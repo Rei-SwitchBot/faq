@@ -31,7 +31,7 @@ Even if there is no SwitchBot Hub Mini, the Motion Sensor or Contact Sensor can 
 
 4. Only two automation can be set and the name cannot be edited.
 
-5. When you turn on the Motion Sensor or Contact Sensor cloud service, the automation function is automatically disabled and you are forced to proceed to the scene setting screen. Any automation you have set is turned off.
+5. When you turn on the Motion Sensor or Contact Sensor Third-party Service, the automation function is automatically disabled and you are forced to proceed to the scene setting screen. Any automation you have set is turned off.
 
 
 ---
@@ -97,7 +97,7 @@ How to Set Up：
 
 Add SwitchBot Motion Sensor and SwitchBot hub products to your SwitchBot App.
 
-Open the SwitchBot App, then select "SwitchBot Motion Sensor". Click on the "Gear" symbol and activate the "Cloud Service".
+Open the SwitchBot App, then select "SwitchBot Motion Sensor". Click on the "Gear" symbol and activate the "Third-party Service".
 
 Connect the SwitchBot App with the Amazon Alexa App.
 
@@ -237,13 +237,13 @@ Make sure your SwitchBot Hub Mini/Plus ​is connected to the Internet.
 
 Then enable the Motion Sensor's
 
-cloud service
+Third-party Service
 
 .
 
 ■ Step 2
 
-Tap the Siri Shortcuts option on the cloud service page.
+Tap the Siri Shortcuts option on the Third-party Service page.
 
 ■ Step 3
 
@@ -344,7 +344,7 @@ Make sure SwitchBot Motion Sensor and SwitchBot Hub series have been added to yo
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Motion Sensor:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Motion Sensor:
 
 Launch the SwitchBot App.
 
@@ -352,9 +352,9 @@ Tap the relevant SwitchBot Motion Sensor.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -388,7 +388,7 @@ Launch the SwitchBot App and log in.
 
 Tap the relevant SwitchBot Motion Sensor.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Amazon Alexa.
 
@@ -418,7 +418,7 @@ Make sure SwitchBot Motion Sensor and SwitchBot Hub series have been added to yo
 
 3．
 
-Please follow the steps below to turn on the Cloud Service for your SwitchBot Motion Sensor:
+Please follow the steps below to turn on the Third-party Service for your SwitchBot Motion Sensor:
 
 Launch the SwitchBot App.
 
@@ -426,9 +426,9 @@ Tap the relevant SwitchBot Motion Sensor.
 
 Tap the gear icon at the top right.
 
-In the Settings screen, tap "Cloud Services".
+In the Settings screen, tap "Third-party Services".
 
-Turn on the "Cloud Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
+Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
 4．
 
@@ -458,7 +458,7 @@ Tap the relevant SwitchBot Motion Sensor.
 
 Tap the gear icon in the top right corner.
 
-In the Settings screen, tap on "Cloud Services".
+In the Settings screen, tap on "Third-party Services".
 
 Tap Google Assistant.
 
@@ -529,7 +529,7 @@ In order to make the trigger more accurate according to our desire, we can set m
 ### How to Enable Push Notifications for SwitchBot Motion Sensor
 
 1. If you would like to receive notifications from the Motion Sensor, you will need to purchase our hub product and add both devices to the SwitchBot app.
-2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 3. Turn on notifications for Motion Sensor in the following order:
 - Launch the SwitchBot app and log in.
 - Tap "Profile" at the bottom right.
@@ -549,7 +549,7 @@ In order to make the trigger more accurate according to our desire, we can set m
 ### What Settings Are Required to Receive Notifications from SwitchBot Motion Sensor When Motion Is Detected?
 
 1. If you would like to receive notifications from the Motion Sensor, you will need to purchase our hub product and add both devices to the SwitchBot app.
-2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
 3. Turn on notifications for Motion Sensor in the following order:
 - Launch the SwitchBot app and log in.
 - Tap "Profile" at the bottom right.
