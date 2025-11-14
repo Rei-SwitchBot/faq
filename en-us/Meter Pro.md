@@ -364,6 +364,17 @@ If you have a Hub product, you will receive alert notifications on your smartpho
 [https://support.switch-bot.com/hc/en-us/articles/26966864494359-SwitchBot-Meter-Pro-Alert-Conditions-Feature](https://support.switch-bot.com/hc/en-us/articles/26966864494359-SwitchBot-Meter-Pro-Alert-Conditions-Feature)
 
 
+---
+### Troubleshooting Temperature Unit Not Switching from Celsius to Fahrenheit When Pressing the Button on SwitchBot Meter Pro
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. All Japanese versions of the temperature and humidity meters do not support switching the temperature unit to Fahrenheit. Make sure you are not using the Japanese version Meter Pro.
+2. Please use the latest version of the SwitchBot app from the app store. You may not be able to switch with the beta version.
+3. Please check for any available firmware updates by going to SwitchBot app → Meter Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Set the button function to "Change Display Unit & Refresh Data" by navigating to the SwitchBot app, selecting Meter Pro, tapping the gear icon, and choosing Top Button Function.
+
+
 
 
 
