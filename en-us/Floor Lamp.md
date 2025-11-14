@@ -46,3 +46,48 @@ Regarding this issue, could you please check the following points?
 
 Press and hold the power button and music mode button on the floor lamp for 8 seconds until it cycles through red, green, and blue to initialize the device.
 Please note that initializing the device will erase all settings and Wi-Fi information. Thanks for your understanding.
+
+
+
+---
+### Troubleshooting SwitchBot Floor Lamp Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the terminals of the controller and the Floor Lamp are connected correctly. If the orientation is incorrect, the Floor Lamp will not turn on.
+
+<img width="386" height="233" alt="image" src="https://github.com/user-attachments/assets/783da0dd-4955-4e39-bcf7-af7fc7f73389" />
+
+Please refer to the link below for information on installing the floor lamp.
+[https://support.switch-bot.com/hc/en-us/articles/32938470485783](https://support.switch-bot.com/hc/en-us/articles/32938470485783-How-to-Install-SwitchBot-Floor-Lamp-Video)
+
+2. Please check if it can be turned on with the included remote control.
+
+
+---
+### Troubleshooting Only a Part of SwitchBot Floor Lamp Can Light Up
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a photo or video showing the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
