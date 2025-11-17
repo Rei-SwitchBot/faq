@@ -49,4 +49,34 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting: Where Can I Purchase the Blub for SwitchBot Candle Warmer Lamp?
+
+Thank you for the information.
+If you are willing to pay the shipping fee, our team will arrange a payment link for you based on the order and delivery address you provided. 
+We appreciate your patience and understanding.
+If you have any other questions, please feel free to contact us.
+
+
+---
+### Troubleshooting SwitchBot Candle Warmer Lamp Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Brand and model of your home router  
+- A photo showing the specification information located on the side, back, or bottom of the router itself  
+- Screen recording of the failure to add the device to the SwitchBot app 
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
+
 
