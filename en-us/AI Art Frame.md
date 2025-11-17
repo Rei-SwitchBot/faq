@@ -92,6 +92,91 @@ SwitchBot app is available for free download from the app store. You can directl
 Yes, you can add the AI Art Frame to the SwitchBot app and display photos directly from your gallery without needing a subscription to AI Studio.
 
 
+---
+### How to Add SwitchBot AI Art Frame to SwitchBot App
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Please turn on the AI Art Frame.
+
+3. Add your AI Art Frame to SwitchBot App in the following order:
+- Launch SwitchBot App and log in.
+- Tap "+" icon in the upper right corner.
+- Tap "Add Device".
+- Scroll down and tap "AI Art Frame" in the "Smart Home Appliances" section.
+- Agree our Privacy Policy for AI Art Frame.
+- Press and hold the button on the back of the device for 2 seconds to enter pairing mode.
+- Tap "Connect Device" to connect the device.
+- Once the connection is complete, enter the SSID and password for the 2.4GHz Wi-Fi.
+- Tap "Start Using" to finish pairing.
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+
+
+---
+### What Is the AI Studio of SwitchBot AI Art Frame?
+
+AI Studio is an image generation and display service designed for use with the AI Art Frame. With this service, you can create or edit images by either entering text prompts or uploading existing photos. The AI will handle the rest, automatically generating, modifying and displaying the images for you.
+Please be aware that access to this service requires a paid subscription, which must be registered through the SwitchBot app.
+Note:
+You can also add the AI Art Frame to the SwitchBot app and display photos directly from your gallery without needing a subscription to AI Studio.
+
+<img width="748" height="1273" alt="image" src="https://github.com/user-attachments/assets/0a40f8ea-659c-4ec9-865e-a0530851c5cd" />
+
+
+---
+### AI Studio Plan for SwitchBot AI Art Frame
+
+Plan: Basic Monthly Plan
+Rate (USD): 3.99
+Free-Trial Period: 30 days*
+Number of Devices Supported: 1
+Number of Al-Generated Images: up to 400 per month
+
+Note:
+If your account has never subscribed to an AI Studio plan, you are eligible for a 30-day free trial under Basic Monthly Plan.
+
+
+---
+### Can SwitchBot AI Art Frame Be Recharged if the Battery Runs Out?
+
+Yes, please use the included 5V/2A charging adapter and Type-C cable to charge it. While charging, the indicator light fades in and out, mimicking a breathing motion. Once the charging is complete, the light stays steadily lit with a white glow.
+
+
+---
+### Troubleshooting SwitchBot AI Art Frame Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Charge the AI Art Frame using the included 5V2A charging adapter and Type-C charging cable.  
+2. Press and hold the button on the back of the AI Art Frame for 15 seconds to reset it.
+
+
+---
+### How to Reset SwitchBot AI Art Frame
+
+Press and hold the button on the back of the AI Art Frame for 15 seconds to reset it.  
+Please note that after restoring factory settings, Wi-Fi information and any settings made to the device will be automatically erased.
+
+
+---
+### Troubleshooting SwitchBot AI Art Frame Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Place the AI Art Frame closer to the Wi-Fi router (within 5 meters).  
+3. Please make sure that the Bluetooth on your smartphone is enabled. If it's already on, try turning it off and then back on again.
+4. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+5. When adding the device, make sure that you correctly enter the Wi-Fi SSID and password, including uppercase and lowercase letters.
+6. Restart your home router and then try again.  
+7. Press and hold the button on the back of the AI Art Frame for 15 seconds to reset it.  After resetting, attempt to reconnect your device to your home router.
+8. As a troubleshooting step, check if the AI Art Frame can connect to your smartphone's hotspot.  
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
+
+
+
 
 
 
