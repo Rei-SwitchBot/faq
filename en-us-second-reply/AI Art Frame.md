@@ -1,4 +1,8 @@
+---
 
+## AI Art Frame
+
+---
 
 ---
 ### Troubleshooting SwitchBot AI Art Frame Not Powering on
