@@ -83,7 +83,7 @@ The above estimates are based on SwitchBot laboratory test conditions and may di
 ---
 ### Do I Need to Download a Paid App to Display Images on SwitchBot AI Art Frame?
 
-SwitchBot app is available for free download from the app store. Without using AI Studio, you can directly add the AI Art Frame to the SwitchBot app and display photos directly from your Gallery app.
+SwitchBot app is available for free download from the app store. You can directly add the AI Art Frame to the SwitchBot app and display photos directly from your Gallery app. No fees will be charged unless you subscribe to AI Studio.
 
 
 ---
