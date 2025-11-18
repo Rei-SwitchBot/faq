@@ -341,7 +341,7 @@ High sensitivity: 7~9 meters
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please try using a tool with a fine tip as shown in the video below to remove the card.
-[https://drive.google.com/file/d/1nZUoO0_BQXLgg6iiIYDGk6ZMRQHRByeB/view?usp=sharing](https://drive.google.com/file/d/1nZUoO0_BQXLgg6iiIYDGk6ZMRQHRByeB/view)
+[https://drive.google.com/file/d/1483DG0IRwnUUYNpfAh4gLqOIhyYtBAql/view?usp=sharing](https://drive.google.com/file/d/1483DG0IRwnUUYNpfAh4gLqOIhyYtBAql/view)
 
 
 ---
