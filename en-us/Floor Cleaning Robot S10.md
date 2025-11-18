@@ -1561,7 +1561,6 @@ Please enable "dampen mop" feature by going to SwitchBot App -> S10 -> Functions
 
 
 
-
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Is Not Sucking the Dirty Water After Mopping
 
@@ -1575,20 +1574,20 @@ Regarding this issue, could you please check the following points?
 
 4. Make sure that the water station's auto-drain port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/ee753645-f45e-460f-aa49-ba3835f446f5" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/f982eb1c-d71f-45f0-b919-34a3c451b98c" />
 
 5. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
 
-<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/2ac40743-6f4e-458a-b7dc-e69d7f448e92" />
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/56717636-98cd-4403-80ad-1c115aa059a7" />
 
 6. Please check if the wastewater box is dry and the sealing gasket is intact.
 
-<img width="1073" height="800" alt="image" src="https://github.com/user-attachments/assets/60d58a75-4060-408e-bc77-c9ccc954c771" />
+<img width="1073" height="800" alt="image" src="https://github.com/user-attachments/assets/c6ad65de-e433-41ba-8c6b-7656993294ae" />
 
 7. Please deep clean the mop by opening the SwitchBot app and navigating to S10 Robot -> Functions -> Control -> Wash Mop. After that, remove the waste water box from the S10 and check if it is full of dirty water. If there is no dirty water, please contact us to request a replacement of the waste water box. If there is water in the waste water box, please manually clean the waste water box. 
 Note: If the red-marked part in the picture is blocked and cannot be cleaned, we kindly ask you to request a replacement of the wastewater box.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/98d03fa7-2107-4b93-bdf5-477df4120f73" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a0ef310-b1a8-48ed-80b6-e757e0aa0743" />
 
 
 
