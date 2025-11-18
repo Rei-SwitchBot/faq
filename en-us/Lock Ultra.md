@@ -485,7 +485,17 @@ If your home's front door is equipped with an electric lock, please make sure th
 If you cannot disable the electronic functions or manual/key-based locking/unlocking is not possible, do not install the lock product.
 
 
+---
+### Is It Possible To Purchase the Mounting Bracket for SwitchBot Lock Ultra Separately?
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+You can purchase the Lock Ultra Adapte kit on our official website.
+[https://us.switch-bot.com/products/switchbot-lock-ultra-adapter-kit](https://us.switch-bot.com/products/switchbot-lock-ultra-adapter-kit)
+Note:
+Please switch the official website site according to your country or region.
+
+If you have any other questions, please do not hesitate to contact us.
 
 
 
