@@ -1575,18 +1575,20 @@ Regarding this issue, could you please check the following points?
 
 4. Make sure that the water station's auto-drain port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/8a57d18d-39e2-4adb-a453-022d472bf906" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/ee753645-f45e-460f-aa49-ba3835f446f5" />
 
 5. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
 
-<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/cbead68f-86a5-4403-b6ea-b285b4448856" />
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/2ac40743-6f4e-458a-b7dc-e69d7f448e92" />
 
-6. Please check if the waste water box is full or empty. 
+6. Please check if the wastewater box is dry and the sealing gasket is intact.
 
-7. Remove the waste water box from the S10 and check if it is full of dirty water. If there is no dirty water, please contact us to request a replacement of the waste water box. If there is water in the waste water box, please manually clean the waste water box. 
+<img width="1073" height="800" alt="image" src="https://github.com/user-attachments/assets/60d58a75-4060-408e-bc77-c9ccc954c771" />
+
+7. Please deep clean the mop by opening the SwitchBot app and navigating to S10 Robot -> Functions -> Control -> Wash Mop. After that, remove the waste water box from the S10 and check if it is full of dirty water. If there is no dirty water, please contact us to request a replacement of the waste water box. If there is water in the waste water box, please manually clean the waste water box. 
 Note: If the red-marked part in the picture is blocked and cannot be cleaned, we kindly ask you to request a replacement of the wastewater box.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/f98a3db9-d61c-48a4-9bf3-a07d8b5e639e" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/98d03fa7-2107-4b93-bdf5-477df4120f73" />
 
 
 
