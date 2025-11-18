@@ -320,6 +320,37 @@ It appears that the product is defective, so we would like to offer you a replac
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### How to Trigger SwitchBot Safety Alarm SOS Alert
+
+When the Safety Alarm's pin is removed, the device emits a loud alarm and activates a flashing light. 
+
+If the pin is pulled out while both the device and smartphone are within Bluetooth range, and the SwitchBot app is running in the background, a notification with location details will be sent to the smartphone. 
+
+The alarm will stop once the pin is reinserted. 
+
+For security purposes, only the homeowner can deactivate the emergency SOS alert message in the SwitchBot app. Administrators and other household members are unable to disable the alert. Thank you for your understanding.
+
+
+---
+### How to Trigger SwitchBot Safety Silent Alarm
+
+Press and hold the Safety Alarm button for 5 seconds to activate silent alarm mode.  
+In this mode, the Safety Alarm will not produce any sound. However, if the device and your smartphone are within Bluetooth range and the SwitchBot app is running in the background, a notification containing location details will be sent to your smartphone.
+For security purposes, only the homeowner can deactivate the emergency SOS alert message in the SwitchBot app. Administrators and other household members are unable to disable the alert. Thank you for your understanding.
+
+
+---
+### How to Enable the Lost Mode for SwitchBot Safety Alarm
+
+1. Please add your Safety Alarm to SwitchBot App.
+2. Enable the lost mode in the following order:
+- Launch SwitchBot App and log in.
+- Tap your Safety Alarm.
+- Enable the lost mode then fill in the contact information.
+Note: 
+When Lost Mode is enabled, you will be notified via email or push notification whenever the Safety Alarm's location is updated. Anyone who finds the Safety Alarm can scan its QR code to view your preset contact information.
+
 
 
 
