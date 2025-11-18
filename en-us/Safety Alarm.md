@@ -352,7 +352,50 @@ Note:
 When Lost Mode is enabled, you will be notified via email or push notification whenever the Safety Alarm's location is updated. Anyone who finds the Safety Alarm can scan its QR code to view your preset contact information.
 
 
+---
+### How to Replace the Batteries for SwitchBot Safety Alarm
 
+Use a screwdriver to loosen the screw on the back of the Safety Alarm and open the battery cover.  
+Remove the old batteries and insert two CR2032 batteries with the negative side facing down, as shown in the diagram.  
+Put the battery cover back in place.  
+Note:  
+Please check the battery level of the Safety Alarm regularly, and replace the batteries promptly if the charge is running low.
+
+<img width="343" height="398" alt="image" src="https://github.com/user-attachments/assets/484dfa39-6077-484f-a195-424c1c4df565" />
+
+
+---
+### Troubleshooting the Location Information for My Safety Alarm SwitchBot on SwitchBot App Is Not Updated
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. For Android users, ensure that the SwitchBot App's battery usage is set to unrestricted in order to update the location information for your Safety Alarm. For iOS users, allow background app refresh for the SwitchBot App.
+Android users: go to Android System Settings App → Apps → All Apps → SwitchBot → Battery → Change from Optimization to "Unrestricted".
+iOS users: go to SwitchBot App -> Profile -> Preferences -> Permissions -> Allow background app refresh.
+2. When your Safety Alarm is within the Bluetooth range of your phone, SwitchBot App updates its location every 10 minutes. If it’s outside your phone’s Bluetooth range, the App will display the last location where your phone detected the Safety Alarm via Bluetooth.
+3. If the Safety Alarm is near your phone but the location hasn’t updated for a while, please press the button on the Safety Alarm and wait for a beep, which should trigger an update.
+
+
+---
+### Troubleshooting the Location Information for My Safety Alarm SwitchBot on Find My App Is Not Updated
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. In Apple's Find My App, the Safety Alarm does not update its location in real-time. Instead, it relies on nearby Apple devices to track its location. The frequency of updates depends on the availability of Apple's network and whether an iPhone detects the signal from the Safety Alarm.
+In places with lots of iPhones around, the location may update every few minutes. However, in areas where there are fewer iPhones, it might take longer—sometimes 15 or 30 minutes, or even more. These intervals are not consistent and can be influenced by external factors beyond your control.
+For more information about how Find My App works, we recommend checking Apple's official documentation: [https://support.apple.com/en-us/104978](https://support.apple.com/en-us/104978)
+2. Open the Find My app and press the button on the Safety Alarm once near your iPhone to reconnect them.
+3. Try resetting the device:
+Unscrew and remove the battery cover.
+Use the screwdriver to press and hold the pairing button for 15s until you hear 5 "beeps" to complete the reset process.
+
+
+---
+### Troubleshooting SwitchBot Safety Alarm Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check whether replacing the batteries resolves the issue. When inserting the batteries, place two CR2032 batteries with the negative terminals facing downward.
 
 
 
