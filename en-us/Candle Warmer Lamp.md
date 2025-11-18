@@ -108,7 +108,14 @@ Please note that after restoring factory settings, Wi-Fi information and any set
 <img width="261" height="352" alt="image" src="https://github.com/user-attachments/assets/b8754dc7-1d7d-4ec2-a66e-656f24961c3a" />
 
 
+---
+### Is It Possible to Add SwitchBot Candle Warmer Lamp Directly to Apple Home without Using Hub 2?
 
+Yes, the Candle Warmer Lamp can be added directly to Apple Home or Google Home without requiring a Matter-compatible hub product (Hub 2, Hub 3 or Hub Mini Matter Enabled).  
+Press and hold the Candle Warmer Lamp's power button for 15 seconds to switch the device to Matter pairing mode. Then, add it to Apple Home using any of the following methods.
+Open Apple Home App -> Tap "Add or scan Accessory" -> scan the QR code.
+Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+You can check the Matter setup code on the device itself or via the SwitchBot app by navigating to Candle Warmer → Gear Icon → Matter Setup.
 
 
 
