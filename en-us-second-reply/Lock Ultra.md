@@ -362,6 +362,11 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Is It Possible To Purchase the Mounting Bracket for SwitchBot Lock Ultra Separately?
+
+Thank you for reporting this issue. 
+Our team will review your request and get back to you soon. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
