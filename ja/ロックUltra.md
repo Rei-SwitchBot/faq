@@ -671,5 +671,11 @@ MIWA B5とU1玄関錠専用のサムターンホルダーをご希望の場合�
 [https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra](https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra)
 
 
+---
+### トラブルシューティングロックUltraがひっかかって、施錠・解錠できない
 
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. SwitchBotアプリ→ロックUltra→歯車マーク→ファームウェア&バッテリーの順番で、更新可能なファムウェアバージョンがあるかご確認ください。必要であれば、デバイスの近くでファームウェアを最新バージョンにアップデートしてください。
 
