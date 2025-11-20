@@ -369,5 +369,12 @@ Thank you for reporting this issue.
 Our team will review your request and get back to you soon. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Lock Ultra Jams and Fails to Lock or Unlock My Door Lock
+
+Thank you for reporting this issue. 
+After confirming with our R&D team, the firmware to fix this issue is scheduled for release later this month.
+We appreciate your patience and understanding!
+If you have any other questions, please do not hesitate to contact us.
 
 
