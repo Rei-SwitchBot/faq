@@ -3254,3 +3254,41 @@ Setup
 ### Can I Schedule a Designated Room Cleaning for the SwitchBot Floor Cleaning Robot S10 within the Scene and Automation?
 
 Starting from SwitchBot app V9.14, you can possible to set up specified room cleaning for the S10 robot as an action in Scenes and Automations. Please update to the latest version of the SwitchBot app to access this feature.
+
+
+---
+### Is It Possible to Purchase the Front Wheel for SwitchBot Floor Cleaning Robot S10 Separately?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the accessory you requested is currently not available for individual purchase. However, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
