@@ -3352,6 +3352,15 @@ For more information on SwitchBot devices supported by the widget, please click 
 [https://support.switch-bot.com/hc/en-us/articles/20399026689559](https://support.switch-bot.com/hc/en-us/articles/20399026689559-Widget-Compatibility-with-iOS-18)
 
 
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Not Picking up the Trash on the Floor When Performing Cleaning Tasks
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the robot's dustbin is full and empty it manually if needed. 
+2. Check for any error messages or broadcast sounds coming from the robot, such as a fan malfunction. If there is a fan malfunction error, adjust the robot's suction power using the SwitchBot app and listen for changes in airflow sound from the exhaust port.
+
+<img width="830" height="226" alt="image" src="https://github.com/user-attachments/assets/722f5933-bdfb-4fad-8288-1669cc15443a" />
 
 
 
