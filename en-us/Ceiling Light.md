@@ -693,4 +693,33 @@ SwitchBot Ceiling Light is equipped with built-in Wi-Fi and Bluetooth chips. Whe
 
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light will Turn on and off by Itself During Use.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
+2. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
