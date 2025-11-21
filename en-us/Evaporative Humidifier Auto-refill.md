@@ -809,5 +809,59 @@ Regarding this issue, could you please check the following points?
 [https://www.switch-bot.com/products/switchbot-evaporative-humidifier-auto-refill?variant=46310797410471](https://www.switch-bot.com/products/switchbot-evaporative-humidifier-auto-refill?variant=46310797410471)
 
 
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Is Leaking Water
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the water tank and check if the tray is full of water.
+
+<img width="552" height="275" alt="image" src="https://github.com/user-attachments/assets/a8c65894-27bb-4ac3-8eb1-d9aeaea41a83" />
+
+2. Move the float up and down as shown in the diagram to see if it is stuck.
+
+<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/0f1f0117-d723-482d-9d0d-3a3f65ecd839" />
+
+3. Remove the float and inspect the axis for any deformation, as shown in the picture.
+
+<img width="1103" height="869" alt="image" src="https://github.com/user-attachments/assets/a6c594ed-c4f1-45e3-a30b-70f6b582b935" />
+
+4. With the water tank filled, lift it and check if water is leaking from the bottom of the tank.
+
+<img width="907" height="1103" alt="image" src="https://github.com/user-attachments/assets/01ea601c-02b9-4141-aadf-c7ea343ea87d" />
+
+5. Check the bottom of the water tank to see if there is a hole (to be confirmed by our R&D team, not directly related to water leakage).
+
+<img width="1005" height="1100" alt="image" src="https://github.com/user-attachments/assets/398fc7e2-1bfd-4ee6-b55c-ea79b480a45e" />
+
+6. Remove the open/close plug at the bottom of the water tank as shown in the video, check that each part is properly aligned, and then replace each part.
+Video: https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view
+
+<img width="605" height="200" alt="image" src="https://github.com/user-attachments/assets/784d638e-5822-4ca4-b17c-f141a79bfdfa" />
+
+7. Adjust the installation of the filter and frame as shown in the diagram.
+
+<img width="755" height="875" alt="image" src="https://github.com/user-attachments/assets/61faeb14-5040-4f59-8ede-0874db657a41" />
+
+<img width="747" height="934" alt="image" src="https://github.com/user-attachments/assets/4a4c2999-051a-4acd-8b68-c7fb36ff4488" />
+
+8. Add water directly to the tray and check if any water leaks out.
+
+<img width="1268" height="743" alt="image" src="https://github.com/user-attachments/assets/a0d4bb4c-bc81-4252-87ff-5a0f1834beb3" />
+
+9. Please note that placing the humidifier at an angle of more than 8 degrees, as shown in the diagram, can cause water leakage. Be mindful of this during daily use.
+
+<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/48f79051-728a-444a-9c91-39ca59c7d7bf" />
+
+
+
+
+
+
+
+
+
+
+
 
 
