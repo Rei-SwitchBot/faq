@@ -1718,6 +1718,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging adaptor to charge the station for 0.5 to 1 hour.
 2. Press and hold the Bluetooth button for 6 seconds until the indicator light flashes white to confirm it is activated.
+3. Please check whether the charging port of the water station shows signs of mold, corrosion, or rust.
 
 
 
