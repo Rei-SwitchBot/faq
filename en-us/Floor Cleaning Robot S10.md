@@ -3101,15 +3101,12 @@ Regarding this issue, could you please check the following points?
 2. Press and hold the Bluetooth Reset Button for 6 seconds until the indicator light flashes white to confirm it is activated.
 3. Gently clean the charging contacts of the water station with tissue paper.
 4. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
-https://support.switch-bot.com/hc/en-us/articles/25122838665111
+[https://support.switch-bot.com/hc/en-us/articles/25122838665111](https://support.switch-bot.com/hc/en-us/articles/25122838665111-How-to-Re-pair-the-Floor-Cleaning-Robot-S10-with-the-Water-Station)
 5. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
-6. Update the water station firmware using your Android smartphone.
-Tips:
-  1. Download the attached file.
-  2. Locate the MAC address on the back of the water station.
-  3. Update the firmware as per the video.
-  4. Do not support upgrading using iPhone.
-Video: https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?usp=sharing
+6. If any water stations are linked to the S10, please unlink them all and then mark the water station again.
+[https://support.switch-bot.com/hc/en-us/articles/28128059735959](https://support.switch-bot.com/hc/en-us/articles/28128059735959-How-to-Unpair-the-Water-Station-from-SwitchBot-Floor-Cleaning-Robot-S10)
+
+
 
 
 ---
