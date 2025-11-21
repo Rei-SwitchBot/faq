@@ -835,7 +835,7 @@ Regarding this issue, could you please check the following points?
 <img width="1005" height="1100" alt="image" src="https://github.com/user-attachments/assets/398fc7e2-1bfd-4ee6-b55c-ea79b480a45e" />
 
 6. Remove the open/close plug at the bottom of the water tank as shown in the video, check that each part is properly aligned, and then replace each part.
-Video: https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view
+Video: [https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view](https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view)
 
 <img width="605" height="200" alt="image" src="https://github.com/user-attachments/assets/784d638e-5822-4ca4-b17c-f141a79bfdfa" />
 
