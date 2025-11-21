@@ -3271,7 +3271,14 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - A screenshot of your order
 
 
+---
+### Can I Use a Two-Tuft Side Brush with SwitchBot Floor Cleaning Robot S10?
 
+Yes, it is perfectly fine to use side brushes with two tufts on the S10 robot. If needed, you can purchase them on our official website.
+[https://us.switch-bot.com/products/s-series-side-brush?variant=49022176526569](https://us.switch-bot.com/products/s-series-side-brush?variant=49022176526569)
+
+Note:
+Please switch the official website site according to your country or region.
 
 
 
