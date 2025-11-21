@@ -74,6 +74,28 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Is Leaking Water
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Results of the 9 checks above
+- Duration of product usage
+- Product state when the leakage occurred (standby or operating)
+- Method of adding water (lifting the tank to refill or adding water directly from the top)
+- Whether water remains inside the water tank
+- Photos of the leakage around the machine when it occurred
+- Photo showing the filter installation
+
+<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/bea832a3-3d24-4ba8-9a6e-cb1581d13a53" />
+
+- A photo of the tray’s serial number (located on the bottom right of the tray)
+
+<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/642001df-5edb-4b0a-8d35-e7fbbafc7acd" />
+
+Thank you for your cooperation, and we’re here to assist further if needed.
+
 
 
 
