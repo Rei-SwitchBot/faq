@@ -278,6 +278,19 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light will Turn on and off by Itself During Use.
+
+Thank you for the information vided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+1. the BLE MAC address by going to SwitchBot app → Ceiling Light → Gear icon → Device Information
+2. (If possible) The time when the phenomenon occurred.  
+3. (If capturable) A video of the phenomenon.  
+4. Whether any other electrical appliances were operated before the phenomenon occurred.  
+
+
+*If you have already vided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
