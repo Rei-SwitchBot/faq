@@ -647,6 +647,8 @@ Link the Add-on Monitor to the Smart Video Doorbell in the following order:
 - Follow the app's guidance to connect the Add-on Monitor to the Video Doorbell.  
 Note:
 The appearance of the Add-on Monitor is almost identical to the monitor, but the upper right corner of the Add-on Monitor screen has a mark for distinguishing it from the monitor.
+Please ensure a stable connection between the monitor and the doorbell. If you experience interruptions when viewing video from the doorbell on the monitor, it may also affect video viewing on the Add-on Monitor.
+[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
 
 
 ---
