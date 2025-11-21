@@ -253,7 +253,12 @@ The diagram below shows the oval-shaped design of the Presence Sensor.
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/49caf537-9ef0-4bbd-80ff-0acbeff681f2" />
 
 
+---
+### Troubleshooting SwitchBot Presence Sensor Is Recognized as an "Unknown Device" in SwitchBot App.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If "Unknown Device" or "Unknown Data" is displayed, it is usually because the app version is outdated or a beta version of the app is being used. Please download and use the latest SwitchBot app from the app store.
 
 
 
