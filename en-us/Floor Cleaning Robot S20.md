@@ -3269,4 +3269,25 @@ Below are the actions the S20 can perform under Matter 1.4 with third-party serv
 <img width="733" height="960" alt="image" src="https://github.com/user-attachments/assets/f735b833-1809-4c42-b106-57760ceacb40" />
 
 
+---
+### Troubleshooting There Are Some Cracks Around SwitchBot Floor Cleaning Robot S20 Charging Port.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, to determine if your robot needs to be replaced/repaired, could you please provide us with a photo showing the issue?
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
