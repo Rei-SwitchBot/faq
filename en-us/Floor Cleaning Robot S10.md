@@ -2967,12 +2967,12 @@ Way to open the waste filter cover: Hold the main body of the water station with
 ---
 ### Can SwitchBot Floor Cleaning Robot S10 Be Added to Home Assistant?
 
-Currently, the S10 does not support integration with Home Assistant through SwitchBot Cloud. If you try to add it via Cloud, the device won't be detected.
+Yes, you can integrate the S10 with Home Assistant via SwitchBot Cloud, Bluetooth, and Matter. The actions that can be controlled with each integration method are as follows.
 
-To integrate the S10 with Home Assistant, you can use either SwitchBot Bluetooth mode or matter.  This requires your Home Assistant setup to have a compatible Bluetooth module for proper pairing and control.
+<img width="727" height="323" alt="image" src="https://github.com/user-attachments/assets/a03a16d6-f73d-4098-90de-bb1082b8f5ae" />
 
-If you run into issues setting up via Bluetooth or Matter, feel free to reach out to our support team for help.
-
+For more information about integration, please refer to the link below:
+[https://www.home-assistant.io/integrations/switchbot/](https://www.home-assistant.io/integrations/switchbot/)
 
 
 ---
