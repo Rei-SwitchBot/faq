@@ -97,5 +97,29 @@ We will forward your feedback to our R&D team for further investigation, and wou
 Thank you for your cooperation, and we’re here to assist further if needed.
 
 
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Won’t Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+If the iron items are not attracted to the magnet area, the magnet sensor may not be properly installed in the filter frame. Our support team will arrange a replacement for you under warranty.  
+If the magnet is present and responsive, the issue may lie with the humidifier itself. In this case, a device replacement might be necessary. 
+To expedite the process, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+- Serial number (located on the tray sticker or can be checked via the QR code on the back of the water tank)
+
+<img width="499" height="754" alt="image" src="https://github.com/user-attachments/assets/c2c57b66-03c3-426a-a2ae-09662987c4db" />
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
