@@ -35,7 +35,7 @@ Do not dismantle the S10 Cleaning Robot by yourself.
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Cannot Connect to Wi-Fi Network
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -862,6 +862,7 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
