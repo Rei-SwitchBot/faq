@@ -1189,16 +1189,17 @@ Note: Keep your phone near the robot and don’t leave the page during the updat
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Cannot Connect to Wi-Fi Network
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please download the latest version of the SwitchBot App from the App Store.
-2. Make sure your S10 is connected to 2.4GHz Wi-Fi.
-3. Make sure that your Wi-Fi SSID and password do not include any special characters.
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
 4. For mesh Wi-Fi, disable the Fast Roaming feature.
-5. Please try connecting your S10 to your smartphone's tethering. Once you've successfully connected via tethering, please update the firmware to version 1.0.460 and then attempt to connect to your home Wi-Fi again.
-1. Make sure your S10 is connected to 2.4GHz Wi-Fi.
+5. Please remove the faceplate of the S10, turn the power off and on again, then press and hold the charging button and mode switch button for more than 3 seconds to connect to Wi-Fi.  
+6.  If you have another smartphone, please try adding the robot using that smartphone.
+7. Please try connecting your S10 to your smartphone's tethering. Once you've successfully connected via tethering, please check for any available firmware updates by going to SwitchBot app → S10 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After updating, try connecting to your home router again.
 
 
 
