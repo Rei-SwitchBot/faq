@@ -3279,11 +3279,32 @@ Regarding this issue, to determine if your robot needs to be replaced/repaired, 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Can SwitchBot Floor Cleaning Robot S20 Be Added to Home Assistant?
+
+Yes, you can integrate the S20 with Home Assistant via SwitchBot Cloud and Matter. The actions that can be controlled with each integration method are as follows.
+
+<img width="734" height="325" alt="image" src="https://github.com/user-attachments/assets/525c55ce-2bd3-4f8b-b5f1-e9e33100779f" />
+
+For more information about integration, please refer to the link below:
+[https://www.home-assistant.io/integrations/switchbot/](https://www.home-assistant.io/integrations/switchbot/)
 
 
+---
+### SwitchBot Floor Cleaning Robot S20 Matter Setup (Android)
 
-
-
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Floor Cleaning Robot S20
+- Android Phone
+- Google Nest Hub 47.9.4 or newer
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Floor Cleaning Robot S20 has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your smartphone, Google Nest Hub, and Floor Cleaning Robot S20) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your S20 -> Gear Icon (Settings screen) ->Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
 
 
 
