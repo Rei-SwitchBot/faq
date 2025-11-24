@@ -115,11 +115,17 @@ To expedite the process, please provide the following details:
 - State/Province
 - ZIP/Postal Code
 - A screenshot of your order
-- Serial number (located on the tray sticker or can be checked via the QR code on the back of the water tank)
+- A photo of the serial number (found on the tray sticker or the QR code on the back of the water tank)
 
-<img width="499" height="754" alt="image" src="https://github.com/user-attachments/assets/c2c57b66-03c3-426a-a2ae-09662987c4db" />
+<img width="499" height="754" alt="image" src="https://github.com/user-attachments/assets/8f264816-6fed-4363-aee4-987b568ac5c1" />
+
+<img width="701" height="1018" alt="image" src="https://github.com/user-attachments/assets/fe9600eb-9700-4999-a4ab-6b295d028400" />
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+
+
 
 
