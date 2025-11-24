@@ -855,6 +855,24 @@ Video: [https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view](
 
 
 
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Won’t Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The filter frame has a built-in magnet that helps the humidifier detect whether the filter is installed. Please check if the magnet is functioning:
+- Remove the filter frame from the humidifier.
+
+<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/b0aa58cf-7c03-4314-b761-f30ea29b67b0" />
+
+- Use a metal object, such as a small iron rod or any magnetic material, to touch the marked area on the frame (see image below).
+
+<img width="1280" height="861" alt="image" src="https://github.com/user-attachments/assets/16c6a041-7bcf-4a81-9278-a74367386d61" />
+
+2. Please provide the confirmation results for the magnet test mentioned above.
+- No magnet inside the filter frame: Iron rods and similar items are not attracted to the magnet area.
+- Magnet inside the filter frame: Iron rods and similar items are effectively attracted to the magnetic area.
+
 
 
 
