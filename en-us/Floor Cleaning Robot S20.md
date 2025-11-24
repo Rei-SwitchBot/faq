@@ -3257,6 +3257,16 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - A screenshot of your order
 
 
+---
+### Does SwitchBot Floor Cleaning Robot S20 Support Matter?
+
+Yes, the S20 supports Matter. You can sync it to either the Apple Home app or Google Home app as a secondary device through a Hub 2 or Hub Mini Matter. This lets you control cleaning and recharging from either app.
+
+Starting with firmware V1.1.059, the S20 works directly with Matter as a standalone device. This means you can add it straight to your Apple Home app to control mapping, start cleaning, and check standby status. 
+
+Below are the actions the S20 can perform under Matter 1.4 with third-party services such as Apple Home and Google Home:
+
+<img width="733" height="960" alt="image" src="https://github.com/user-attachments/assets/f735b833-1809-4c42-b106-57760ceacb40" />
 
 
 
