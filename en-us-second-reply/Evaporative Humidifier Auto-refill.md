@@ -88,13 +88,13 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Photos of the leakage around the machine when it occurred
 - Photo showing the filter installation
 
-<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/bea832a3-3d24-4ba8-9a6e-cb1581d13a53" />
+<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/764b78df-a0fe-4ec6-80af-7e218328b800" />
 
-- A photo of the tray’s serial number (located on the bottom right of the tray)
+- A photo of the serial number (found on the tray sticker or the QR code on the back of the water tank)
 
-<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/642001df-5edb-4b0a-8d35-e7fbbafc7acd" />
+<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/317dcf1b-8b37-4be0-9275-4a987953b561" />
 
-Thank you for your cooperation, and we’re here to assist further if needed.
+<img width="701" height="1018" alt="image" src="https://github.com/user-attachments/assets/990eb3bb-524c-40d7-97bb-a38b629a2f74" />
 
 
 ---
