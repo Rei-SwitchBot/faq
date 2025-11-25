@@ -211,6 +211,7 @@ Regarding this issue, could you please check the following points?
 2. To enable communication between the Keypad Vision Pro and the lock product, go to the SwitchBot App -> Keypad Vision Pro -> Gear Icon -> Turn on Quick Unlocking. This setting ensures that after manually locking the door, the status will be synced to the Keypad Vision Pro via Bluetooth. Your Lock will not unlock during sleep mode, even if your face is scanned.
 3. If the problem persists, consider setting activation times for your Keypad Vision Pro by navigating to SwitchBot App -> Keypad Vision Pro -> Gear Icon -> Face Entry Settings -> Trigger Face Recognition -> Custom (required SwitchBot app V9.13 and firmware V15). Once you set a custom activation time, the Keypad Vision Pro will automatically activate when your face is scanned during that time. Outside this specified time, you will need to manually activate the device.
 
+
 ---
 ### Troubleshooting the Lock Was Unlocked Again After Being Scanned by SwitchBot Keypad Vision Pro When I Locked It with a Key.
 
@@ -227,6 +228,7 @@ After registering, you can unlock your door by holding your smartwatch against t
 Note: 
 The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. 
 There are currently no compatible European or American transit cards in the SwitchBot Lab data. As a temporary solution, you can add a Japanese transportation card in the Wallet app to achieve smartwatch attachment Keypad Vision Pro unlocking.
+
 
 ---
 ### How to Set SwitchBot Keypad Vision Pro to Automatically Wake Up at a Specific Time
