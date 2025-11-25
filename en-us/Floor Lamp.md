@@ -73,6 +73,11 @@ Regarding this issue, could you please provide us with a photo or video showing 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### How to Add SwitchBot Floor Lamp to Apple Home via Matter
+
+You can add the Floor Lamp directly to Apple Home by scanning the QR code on the device, or you can first add the device to the SwitchBot App to confirm the Matter setup code, then add the device to Apple Home by entering the Matter setup code. For detailed instructions, please refer to the video.
+Video: [https://youtu.be/JHStfb5fHwY](https://www.youtube.com/watch?v=JHStfb5fHwY)
 
 
 
