@@ -3307,7 +3307,10 @@ Setup
 6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
 
 
+---
+### What Is the Diatom Mud Mat of SwitchBot Floor Cleaning Robot S20 Made of?
 
+The diatom mud mat for the S20 robot is composed of 80% gypsum (calcium sulfate) and 20% diatomaceous earth. It contains no harmful substances, making it safe for use.
 
 
 
