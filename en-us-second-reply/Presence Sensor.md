@@ -58,10 +58,12 @@ We will forward your feedback to our R&D team for further investigation, and wou
 Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Photos showing the device's installation location  
-- Photos showing the device's operating environment  
+- Photos showing the device’s installation location and operating environment are shown below
+
+<img width="992" height="545" alt="image" src="https://github.com/user-attachments/assets/dde31941-382e-4d6a-9389-fadc5ac5ea4a" />
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 
 ---
