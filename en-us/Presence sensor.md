@@ -39,11 +39,12 @@ If you have any questions or need further assistance, feel free to reach out, we
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check if you have moved the Presence Sensor or added any new appliances or furniture within its detection range. If you relocate the sensor or rearrange the room, we suggest re-running the "Auto-Adjust Detection Sensitivity" feature to recalibrate it for accurate performance in the new environment.
+1. Go to SwitchBot App → Presence Sensor → Gear Icon → Detection Settings → Unoccupied Timer, and set the timer to a shorter duration.
+[https://support.switch-bot.com/hc/en-us/articles/35589869028887](https://support.switch-bot.com/hc/en-us/articles/35589869028887-What-Is-SwitchBot-Presence-Sensor-s-Unoccupied-Timer)
+2. Please check if you have moved the Presence Sensor or added any new appliances or furniture within its detection range. If you relocate the sensor or rearrange the room, we suggest re-running the "Auto-Adjust Detection Sensitivity" feature to recalibrate it for accurate performance in the new environment.
 You can use this feature by going to SwitchBot app → Presence Sensor → Gear icon → Detection Sensitivity → Auto Adjust.
-2. If there are no changes in the installation position or layout, first adjust the angle of the device and then check if sensitivity improves by readjusting it with the "Auto-Adjust Detection Sensitivity" function.
+3. If there are no changes in the installation position or layout, first adjust the angle of the device and then check if sensitivity improves by readjusting it with the "Auto-Adjust Detection Sensitivity" function.
 [https://support.switch-bot.com/hc/en-us/articles/35589886593943](https://support.switch-bot.com/hc/en-us/articles/35589886593943-When-Should-I-Use-the-Auto-Adjust-Detection-Sensitivity-Function-of-SwitchBot-Presence-Sensor)
-
 
 
 ---
