@@ -674,10 +674,42 @@ Regarding this issue, could you please check the following points?
 1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
+---
+### How to Change the Sound Emitted from the Monitor When the Doorbell Is Pressed
+
+Please change the inside bell sound in the following order:
+- Launch SwitchBot app and log in.  
+- Tap your Smart Video Doorbell.  
+- Tap the gear icon in the upper right corner.  
+- Tap "Inside Bell Sound".  
+- Choose your preferred tone.
+
+Note:  
+There are 10 different ringtones available.
 
 
+---
+### How to Add SwitchBot Smart Video Doorbell to SwitchBot App
 
+1. Make sure your SwitchBot App version is up to date.
 
+2. Please turn on the power of the Monitor and the Doorbell.
+
+3. Add your Smart Video Doorbell to SwitchBot App in the following order:
+- Launch SwitchBot App and log in.
+- Tap "+" icon in the upper right corner.
+- Tap "Add Device".
+- Scroll down and tap "Smart Video Doorbell" in the "Security" section.
+- Press and hold the call button and the hang-up button simultaneously for 2 seconds to enter pairing mode.
+- Tap "Connect Device" to connect the device.
+- Once the connection is complete, enter the SSID and password for the 2.4GHz Wi-Fi.
+- Tap "Start Using" to finish pairing.
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+Once the pairing is complete, a prompt for the cloud storage subscription will appear. If you do not need it, tap "Later" to use the Smart Video Doorbell.
+To ensure a more stable connection, please minimize the distance between the doorbell and the monitor, as well as between the monitor and the router. For installation instructions, please refer to the link below.
+[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
 
 
 
