@@ -176,10 +176,25 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
 
+---
+### How to Subscribe to the AI Studio Plan for SwitchBot AI Art Frame
+
+Please subscribe to the AI Studio plan for the AI Art Frame in the following order:  
+- Launch SwitchBot App and log in.  
+- Tap your AI Art Frame.  
+- Tap "AI Studio".  
+- Tap either "AI Art Prompt" or "AI Art Remix".
+- When you send a text (or select a style), a subscription prompt will appear.
+- Agree to the terms of service and complete the subscription.  
+
+Note:
+Only homeowners are eligible to subscribe to AI Studio. Subscriptions from home administrators or members are not supported.
 
 
+---
+### Do I Need a Hub to Remotely Change the Images on SwitchBot Al Art Frame?
 
-
+Yes, the Al Art Frame changes images by connecting to your smartphone via Bluetooth. Therefore, you currently need to be near the device to change images. In future updates, if you have a hub product, you will be able to change images remotely. Stay tuned!
 
 
 
