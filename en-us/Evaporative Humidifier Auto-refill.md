@@ -874,7 +874,21 @@ Regarding this issue, could you please check the following points?
 - Magnet inside the filter frame: Iron rods and similar items are effectively attracted to the magnetic area.
 
 
+---
+### How to Disable the Notification "The Target Humidity You Set Has Been Reached" on SwitchBot Evaporative Humidifier
 
+1. Please turn off notifications for the Evaporative Humidifier in the following order:
+- Launch SwitchBot App and log in.
+- Tap "Profile" at the bottom right.
+- Tap on "Preferences".
+- Tap on "App Notifications".
+- Tap on "Notification Management" below device notifications.
+- Switch to the Home where the Evaporative Humidifier is located at the top left.
+- Tap on the corresponding Evaporative Humidifier.
+- Disable "Other" notifications.
+
+
+2. You can turn on "other" notifications in the same order.
 
 
 
