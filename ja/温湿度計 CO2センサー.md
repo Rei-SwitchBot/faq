@@ -950,7 +950,11 @@ Hub 2またはHub Mini Matter経由でCO2センサーをApple Homeに同期し�
 ネット情報：[https://crd.ndl.go.jp/reference/entry/index.php?id=1000347085&page=ref_view](https://crd.ndl.go.jp/reference/entry/index.php?id=1000347085&page=ref_view)
 
 
+---
+### CO2センサー（温湿度計）はバッテリーを装着したまま、USB Type-C経由で給電していいでしょうか。
 
+CO2センサー（温湿度計）にバッテリーを装着した状態でType-C給電を行うと、Type-C給電が優先されます。そのため、CO2データの更新頻度は自動的に1分ごとに切り替わり、電池給電時に表示されるディスプレイのカウントダウンも自動的に消えます。
+普段使用する際に、Type-CケーブルでCO2センサーに給電する場合は、長期間電池を使用しないため、使用推奨期限が切れて液漏れなどのトラブルを防ぐために、電池を取り外すことをお勧めします。
 
 
 
