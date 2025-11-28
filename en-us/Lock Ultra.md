@@ -510,6 +510,28 @@ Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. 
 
 
+---
+### Is It Possible to Use Multiple Keypad Touchs to Lock and Unlock SwitchBot Lock Ultra?
+
+Yes, a single Lock Ultra can connect with up to 7 Keypad Touchs. Please add Keypad Touchs within the Lock Ultra's Bluetooth range according to your preference.
+
+
+---
+### Is It Possible to Use Multiple Keypad Visions to Lock and Unlock SwitchBot Lock Ultra?
+
+Yes, a single Lock Ultra can connect with up to 7 Keypad Visions. Please add Keypad Visions within the Lock Ultra's Bluetooth range according to your preference.
+
+
+---
+### Is It Possible to Use Multiple Keypad Vision Pros to Lock and Unlock SwitchBot Lock Ultra?
+
+Yes, a single Lock Ultra can connect with up to 7 Keypad Vision Pros. Please add Keypad Vision Pros within the Lock Ultra's Bluetooth range according to your preference.
+
+
+---
+### Is It Possible to Use Multiple Video Doorbells to Lock and Unlock SwitchBot Lock Ultra?
+
+Yes, a single Lock Ultra can connect with up to 7 Video Doorbells. Please add Video Doorbells within the Lock Ultra's Bluetooth range according to your preference.
 
 
 
