@@ -3313,5 +3313,13 @@ Setup
 The diatom mud mat for the S20 robot is composed of 80% gypsum (calcium sulfate) and 20% diatomaceous earth. It contains no harmful substances, making it safe for use.
 
 
+---
+### How Do I Charge SwitchBot Floor Cleaning Robot S20 Water Station?
 
+There are three methods to charge the Water Station:
+1. Use a 5V 3A charging adapter and a Type-C cable to charge the water station. 
+2. When the water station is low on power, tapping the S20 robot in the SwitchBot app will display the message, "Charge water station". Tapping this message will prompt the robot to automatically move to the water station and begin charging (requires SwitchBot app V9.17 and S20 firmware V1.1.067 or later).  
+Note:
+If you tap the message "Water station low battery" on the S20 robot operation screen, a prompt to "Charge water station" will also appear.
+3. Go to SwitchBot app → S20 → Gear icon → Schedules → Add → Select Scheduled Charging and save.
 
