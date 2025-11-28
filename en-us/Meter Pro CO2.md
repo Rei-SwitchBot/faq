@@ -391,7 +391,11 @@ Regarding this issue, could you please check the following points?
 4. Set the button function to "Change Display Unit & Refresh Data" by navigating to the SwitchBot app, selecting CO2 Monitor, tapping the gear icon, and choosing Top Button Function.
 
 
+---
+### Can SwitchBot Meter Pro (CO2 Monitor) Be Powered by Connecting a Type-C Charging Cable While the Batteries Are Installed?
 
+When the CO2 monitor is powered by a Type-C supply while two AA batteries are installed, the Type-C power takes priority. As a result, the CO2 data update frequency automatically switches to once per minute, and the countdown displayed on the screen during battery operation disappears.
+If you prefer to power the CO2 monitor with a Type-C cable, it is recommended to remove the batteries to prevent potential issues such as leakage from prolonged inactivity after the recommended usage period.
 
 
 
