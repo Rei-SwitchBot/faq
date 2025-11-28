@@ -712,8 +712,17 @@ To ensure a more stable connection, please minimize the distance between the doo
 [https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
 
 
+---
+### What Are the Dimensions of the Monitor and the Doorbell?
 
+The Dimensions of the Monitor and the Doorbell are:
+Doorbell: 131 × 65 × 30 mm
+Monitor: 125 × 129 × 29 mm
 
+<img width="634" height="163" alt="image" src="https://github.com/user-attachments/assets/ba832929-6fb5-477d-b79a-38b284f55dfc" />
+
+For more information about our Video Doorbell，please refer to the link below and switch the official website site according to your country or region before making a purchase.
+[https://www.switch-bot.com/products/switchbot-video-doorbell](https://www.switch-bot.com/products/switchbot-video-doorbell)
 
 
 
