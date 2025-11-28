@@ -2180,6 +2180,35 @@ Sync Lock Pro as a sub-device to Apple Home, use "Hey Siri" to operate:
 Matter-compatible hub: Hub 2, Hub Mini Matter Enabled, Hub 3
 
 
+---
+### Is It Possible to Use Multiple Video Doorbells to Lock and Unlock Lock Pro?
+
+Yes, a single Lock Pro can connect with up to 7 Video Doorbells. Please add Video Doorbells within the Lock Pro's Bluetooth range according to your preference.
+
+
+---
+### Is It Possible to Use Multiple Keypad Vision Pros to Lock and Unlock Lock Pro?
+
+Yes, a single Lock Pro can connect with up to 7 Keypad Vision Pros. Please add Keypad Vision Pros within the Lock Pro's Bluetooth range according to your preference.
+
+
+---
+### Is It Possible to Use Multiple Keypad Visions to Lock and Unlock Lock Pro?
+
+Yes, a single Lock Pro can connect with up to 7 Keypad Visions. Please add Keypad Visions within the Lock Pro's Bluetooth range according to your preference.
+
+
+---
+### Is It Possible to Use Multiple Keypad Touchs to Lock and Unlock SwitchBot Lock Pro?
+
+Yes, a single Lock Pro can connect with up to 7 Keypad Touchs. Please add Keypad Touchs within the Lock Pro's Bluetooth range according to your preference.
+
+
+---
+### How Many SwitchBot Remotes Can Be Registered on a SwitchBot Lock Pro?
+
+For security purposes, one SwitchBot Lock Pro can register a maximum of three SwitchBot Remotes. However, for other SwitchBot devices that are compatible with SwitchBot Remotes, there is no restriction on the number of SwitchBot Remotes that can be utilized.
+
 
 
 
