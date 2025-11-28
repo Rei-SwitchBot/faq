@@ -3323,3 +3323,17 @@ Note:
 If you tap the message "Water station low battery" on the S20 robot operation screen, a prompt to "Charge water station" will also appear.
 3. Go to SwitchBot app → S20 → Gear icon → Schedules → Add → Select Scheduled Charging and save.
 
+
+---
+### Troubleshooting: I Did Not Purchase the Water Station, Yet the SwitchBot App Displays Its Firmware Information, and SwitchBot Floor Cleaning Robot S20 Fails to Start.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → S20 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Unpair the Water Station from the S20 by going to SwitchBot app -> your S20 ->Functions -> Settings -> Mark Water Station Position -> "⋮" in the upper right corner.
+
+
+
+
+
+
