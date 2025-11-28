@@ -3296,7 +3296,15 @@ Regarding this issue, to determine if your robot needs to be replaced/repaired, 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### How Do I Charge SwitchBot Floor Cleaning Robot S10 Water Station?
 
+There are three methods to charge the Water Station:
+1. Use a 5V 3A charging adapter and a Type-C cable to charge the water station. 
+2. When the water station is low on power, tapping the S10 robot in the SwitchBot app will display the message, "Charge water station". Tapping this message will prompt the robot to automatically move to the water station and begin charging (requires SwitchBot app V9.17 and S10 firmware V1.1.056 or later).  
+Note:
+If you tap the message "Water station low battery" on the S10 robot operation screen, a prompt to "Charge water station" will also appear.
+3. Go to SwitchBot app → S10 → Gear icon → Schedules → Add → Select Scheduled Charging and save.
 
 
 
