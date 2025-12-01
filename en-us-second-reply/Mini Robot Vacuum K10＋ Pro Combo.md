@@ -98,7 +98,6 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
 ---
 ### Troubleshooting The Side Brush on SwitchBot Robot Vacuum K10+ Pro Combo Stops Rotating During Cleaning
 
@@ -119,5 +118,35 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindlyvide the following information?
+  1. A screenshot of the error message related to the bumper issue.
+  2. A video with sound capturing the "The bumper got stuck" error message being announced.
+
+2. Also, if the replacement service is needed, to expedite shipment, pleasevide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have alreadyvided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+
+
+
 
 
