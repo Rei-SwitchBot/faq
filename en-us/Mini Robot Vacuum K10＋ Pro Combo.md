@@ -329,7 +329,32 @@ Note:
 When setting up a virtual wall on the generated map, the virtual wall cannot span across walls or rooms. If you attempt to force the virtual wall into such positions, it may automatically jump to an unexpected location.
 
 
+---
+### Is It Possible to Purchase the Front Wheel for SwitchBot Mini Robot Vacuum K10+ Pro Combo Separately?
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the accessory you requested is currently not available for individual purchase. However, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+
+---
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if any foreign object is caught in the K10+ Pro Combo.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
 
 
 
