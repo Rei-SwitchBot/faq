@@ -11,5 +11,8 @@ AIハブローカルオートメーションに対応可能なSwitchBotデバイ
 [https://support.switch-bot.com/hc/ja/articles/36405172630039](https://support.switch-bot.com/hc/ja/articles/36405172630039-AI%E3%83%8F%E3%83%96%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%AB%E5%AF%BE%E5%BF%9C%E5%8F%AF%E8%83%BD%E3%81%AASwitchBot%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9)
 
 
+---
+### AIハブは赤外線リモコン学習機能はついていますか
 
+いいえ、AIハブは中枢ハブの役割となり、赤外線リモコンの学習ができかねます。赤外線リモコン学習機能付きのハブをご希望の場合、弊社のほかのハブをご検討をお願いいたします。
 
