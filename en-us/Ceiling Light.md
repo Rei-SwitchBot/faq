@@ -523,6 +523,7 @@ Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
 2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
+
 ---
 ### Troubleshooting  Unable to Use SwitchBot Ceiling Light Pro to Learn the Remote Control
 
