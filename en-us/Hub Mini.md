@@ -2373,14 +2373,9 @@ Regarding this issue, could you please check the following points?
   3. Unplug the power for the Wi-Fi router and the Hub Mini, then restart them.  
   4. Turn off the power to the Wi-Fi router and connect the Hub Mini to your smartphone's tethering to check if the firmware can be updated.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
-3. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Hub Mini to the router and try updating the firmware again.  
-4. There may be failures due to network connection issues, so please wait for some time and try multiple times.
-5. Try recovering the firmware of your Hub Mini.
-- Unplug the Hub Mini.
-- Hold the button on the devive while plugging it back in.
-- Open the SwitchBot app, go to Profile > Firmware recovery, and follow the instructions.
-
-6. Remove and reset Hub Mini.
+  5. Change the router's DNS server address to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then reconnect the Hub Mini to the router and try updating the firmware again.  
+  6. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+  7. Remove and reset Hub Mini.
 - Delete the device from the SwitchBot app by long-pressing it.
 - Press and hold the button on the Hub Mini for 15 seconds to reset.
 - Re-add the device to the app.
