@@ -721,3 +721,32 @@ The SmartThings App can only detect the opening and closing of doors or windows 
 - Enable the necessary notification items.
 
 4. You can turn off notifications in the same order.
+
+
+---
+### Troubleshooting SwitchBot Contact Sensor Does Not Turn on Even After Replacing the Batteries with Brand New Ones
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check if the batteries are inserted in the correct orientation.  
+2. Replace with new AAA batteries and check if the issue is resolved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
