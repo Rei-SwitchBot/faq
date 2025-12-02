@@ -33,3 +33,23 @@ As long as you log in with the same SwitchBot account on both your iPad and iPho
 ### Can the Home Location Information Set on SwitchBot App Be Deleted?
 
 Currently, you cannot delete the home location information you have set. If necessary, we can escalate the matter to our R&D team for assistance. Please feel free to contact us.
+
+
+---
+### How to Check Coupons Redeemed with Points
+
+1. Please use the latest version of the SwitchBot app from the app store. 
+2. You can check the coupons exchanged with points in the following order.  
+- Launch the SwitchBot app and log in.  
+- Tap "Profile" at the bottom right.  
+- Tap the points displayed at the top right.  
+- Tap "My Coupons".
+
+<img width="748" height="1248" alt="image" src="https://github.com/user-attachments/assets/582dd353-5a97-49dd-97d4-b40b38e69d03" />
+
+
+
+
+
+
+
