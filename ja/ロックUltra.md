@@ -366,7 +366,6 @@ B. お持ちのロックUltraの台数に合わせて、サムターンホルダ
 本件について、以下をご確認いただけますでしょうか。
 1．スマートフォンのBluetoothはオンになっているかご確認ください。
 2．ドアロックから約2メートル離れ、障害物のない所でSwitchBotアプリを立ち上げ、ロックUltraをタップし、操作画面右上のBluetooth信号が二本以上であるかご確認ください。
-3．Bluetooth信号が二本より弱い場合、SwitchBotアプリからロックUltraを削除し、再度追加して改善されるかご確認ください。
 
 <img width="1121" height="2199" alt="image" src="https://github.com/user-attachments/assets/e02bdb95-2c34-4e58-a282-5bfdac3cd73d" />
 
@@ -396,7 +395,6 @@ B. お持ちのロックUltraの台数に合わせて、サムターンホルダ
 本件について、以下をご確認いただけますでしょうか。
 1．スマートフォンのBluetoothはオンになっているかご確認ください。
 2．ドアロックから約2メートル離れ、障害物のない所でSwitchBotアプリを立ち上げ、ロックUltraをタップし、操作画面右上のBluetooth信号が二本以上であるかご確認ください。
-3．Bluetooth信号が二本より弱い場合、SwitchBotアプリからロックUltraを削除し、再度追加して改善されるかご確認ください。
 
 <img width="1121" height="2199" alt="image" src="https://github.com/user-attachments/assets/fbb0c444-f275-4091-9022-b8ea35c651ac" />
 
