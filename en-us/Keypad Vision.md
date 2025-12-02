@@ -411,7 +411,13 @@ The iPhone Wallet app allows you to add ICOCA, Suica and PASMO in Japan. The abo
 There are currently no compatible European or American transit cards in the SwitchBot Lab data. As a temporary solution, you can add a Japanese transportation card in the Wallet app to achieve smartphone attachment Keypad Vision unlocking.
 
 
+---
+### Troubleshooting SwitchBot Keypad Vision Power Indicator Light Does Not Turn Green and Can Not Fully Charge.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported has been fixed in the firmware update. Please check if there is any available firmware by going to SwitchBot App → Keypad Vision → Gear Icon → Firmware & Battery. If necessary, perform the firmware update near the device.  
+*If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 
 
