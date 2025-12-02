@@ -563,3 +563,61 @@ In order to make the trigger more accurate according to our desire, we can set m
 - Enable the necessary notification items.
 
 4. You can turn off notifications in the same order.
+
+
+---
+### How to Set Up Sound Playback from a Smart Speaker When Motion is Detected by SwitchBot Motion Sensor
+
+We will explain using Amazon Echo Show as an example.
+
+Product：
+- SwitchBot Motion Sensor
+- SwitchBot Hub Product
+- Echo Show
+
+Software：
+- SwitchBot App
+- Amazon Alexa App
+
+How to Set Up：
+- Add SwitchBot Motion Sensor and SwitchBot hub products to your SwitchBot App.
+- Place your Motion Sensor close to the hub for automatic connection.
+- Connect the SwitchBot App with the Amazon Alexa App.
+[https://support.switch-bot.com/hc/en-us/articles/1500012758462-SwitchBot-Motion-Sensor-Alexa-Setup-Guide](https://support.switch-bot.com/hc/en-us/articles/1500012758462-SwitchBot-Motion-Sensor-Alexa-Setup-Guide)
+- Open the Amazon Alexa App, select "Devices", then click on the "+" icon, and finally choose "Add Device" to add an Echo show.
+- Open the Amazon Alexa App, select "More", then proceed to "Routines".
+- When this happens → Smart Home → Save the status of the Motion Sensor as "Detected".
+- Add action → Alexa Says→ Customized → Save.
+- In this configuration, the Alexa Echo device will produce a sound when the SwitchBot Motion Sensor determines that there is a movement.
+
+
+Note:  
+Google Automation does not support setting SwitchBot devices as execution conditions. Therefore, configurations like the one mentioned above cannot be implemented. This means that audio cannot play from the Google Nest Hub when motion is detected by the Motion Sensor.
+
+
+---
+### Troubleshooting SwitchBot Motion Sensor Does Not Turn on Even After Replacing the Batteries with Brand New Ones
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check if the batteries are inserted in the correct orientation.  
+2. Replace with new AAA batteries and check if the issue is resolved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
