@@ -66,15 +66,25 @@ We apologize for any inconvenience caused.
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro Turns on by Itself. When Checking the Logs, It Shows as the Wall Switch.
 
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A screenshot displaying the logs of the ceiling light controlled by a wall switch.
-- (If possible) The time when the phenomenon occurred.  
-- (If capturable) A video of the phenomenon.  
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot displaying the logs of the ceiling light controlled by a wall switch.
 
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -324,6 +334,7 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
