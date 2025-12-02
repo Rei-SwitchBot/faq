@@ -357,7 +357,16 @@ Regarding this issue, could you please check the following points?
 [https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
 
 
+---
+### How to Re-pair the Cordless Vacuum Cleaner with the Dual Empty Station
 
+1. If the dust in the Cordless Vacuum Cleaner does not automatically be emptyed when inserted into the Dual Empty Station, please try repairing the Cordless Vacuum Cleaner and the Dual Empty Station in the following order:
+- Launch SwitchBot app and log in.
+- Tap Robot Vacuum K10+ Pro Combo.
+- Tap the gear icon in the upper right corner.
+- Tap "Pair Device" on the Settings screen.
+- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap “next”.
+- The device will be searched and connected automatically.
 
 
 
