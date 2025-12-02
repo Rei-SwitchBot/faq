@@ -516,9 +516,12 @@ Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHo
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-Upon verification, we have confirmed that the issue you pointed out is due to a firmware bug. We plan to address this with a firmware update scheduled for mid-August. We kindly ask for your patience and understanding!
-If you have any other questions, please do not hesitate to contact us.
+1. Reset your Ceiling Light.
+Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
+Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
 
+2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 ---
 ### Troubleshooting  Unable to Use SwitchBot Ceiling Light Pro to Learn the Remote Control
@@ -567,6 +570,7 @@ Please check the following to determine if it is an issue with the included remo
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
+2. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -702,10 +706,23 @@ Regarding this issue, could you please check the following points?
 2. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light Pro Suddenly Stopped Connecting to Wi-Fi.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light Pro → Gear Icon → Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
+2. Restart your router.  
+3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light Pro → Gear Icon → Firmware & Battery. Check for and install any available firmware updates.
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
 
 
+---
+### Troubleshooting When Adding SwitchBot Ceiling Light Pro to the App, the Wi-Fi Mac Address Displays as 00:00:00:00:00:00, Making It Unable To Connect to the Network.
 
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn off the Ceiling Light Pro using the wall switch, then turn it back on again (this will reset the power).
 
 
 
