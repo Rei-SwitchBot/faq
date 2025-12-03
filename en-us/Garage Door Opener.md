@@ -17,10 +17,20 @@ Regarding this issue, could you please check the following points?
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
 
 
+---
+### How to Install SwitchBot Garage Door Opener for Green, Red and Orange Button Garage Doors
+
+If the garage door button in your home is green, red, or orange, we have an installation video for you. Please follow the illustrated instructions in the link below.
+[https://support.switch-bot.com/hc/en-us/articles/32863467015575](https://support.switch-bot.com/hc/en-us/articles/32863467015575-How-to-Install-SwitchBot-Garage-Door-Opener-for-Green-Red-and-Orange-Button-Garage-Doors-Video)
+If you experience any issues with the compatibility or installation of the Garage Door Opener, please submit feedback through the SwitchBot App. We are here to assist you. When submitting feedback, kindly include a photo of your garage door to help us better assess the situation.
 
 
+---
+### How to Install SwitchBot Garage Door Opener for Yellow and Purple Button Garage Doors
 
-
+If the garage door button in your home is yellow or purple, please follow the illustrated instructions provided in the link below for installation.
+[https://support.switch-bot.com/hc/en-us/articles/32708116725271](https://support.switch-bot.com/hc/en-us/articles/32708116725271-How-to-Install-SwitchBot-Garage-Door-Opener-for-Yellow-and-Purple-Button-Garage-Doors)
+If you experience any issues with the compatibility or installation of the Garage Door Opener, please submit feedback through the SwitchBot App. We are here to assist you. When submitting feedback, kindly include a photo of your garage door to help us better assess the situation.
 
 
 
