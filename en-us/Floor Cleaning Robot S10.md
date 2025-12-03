@@ -1578,20 +1578,22 @@ Regarding this issue, could you please check the following points?
 
 4. Make sure that the water station's auto-drain port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/f982eb1c-d71f-45f0-b919-34a3c451b98c" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/bfaed20a-7ed5-4114-a059-b79ae44a7223" />
 
-5. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
+5. Please manually push the S10 into the water station immediately after docking to ensure the drainage outlet is securely sealed and to confirm that it drains properly. If the drainage functions correctly, the floor where the water station is installed may not be level. In that case, please place the water replacement station on a flat surface.
 
-<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/56717636-98cd-4403-80ad-1c115aa059a7" />
+6. If you are using an External Water Tank, make sure that the Type-C cord of the external water tank is firmly connected to the Water Station. Also, if possible, try plugging and unplugging the Type-C cord a few times.
 
-6. Please check if the wastewater box is dry and the sealing gasket is intact.
+<img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/68ada371-a00b-41c7-b186-d34fba25a4d3" />
 
-<img width="1073" height="800" alt="image" src="https://github.com/user-attachments/assets/c6ad65de-e433-41ba-8c6b-7656993294ae" />
+7. Please check if the wastewater box is dry and the sealing gasket is intact.
 
-7. Please deep clean the mop by opening the SwitchBot app and navigating to S10 Robot -> Functions -> Control -> Wash Mop. After that, remove the waste water box from the S10 and check if it is full of dirty water. If there is no dirty water, please contact us to request a replacement of the waste water box. If there is water in the waste water box, please manually clean the waste water box. 
+<img width="1073" height="800" alt="image" src="https://github.com/user-attachments/assets/61d2b6cb-b4bb-4adb-a291-d80e91f0c769" />
+
+8. Please deep clean the mop by opening the SwitchBot app and navigating to S10 Robot -> Functions -> Control -> Wash Mop. After that, remove the waste water box from the S10 and check if it is full of dirty water. If there is no dirty water, please contact us to request a replacement of the waste water box. If there is water in the waste water box, please manually clean the waste water box. 
 Note: If the red-marked part in the picture is blocked and cannot be cleaned, we kindly ask you to request a replacement of the wastewater box.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a0ef310-b1a8-48ed-80b6-e757e0aa0743" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/94e50e2a-a07f-4dac-9d4c-e1102aa11bc7" />
 
 
 
