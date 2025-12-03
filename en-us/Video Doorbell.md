@@ -725,7 +725,14 @@ For more information about our Video Doorbell，please refer to the link below a
 [https://www.switch-bot.com/products/switchbot-video-doorbell](https://www.switch-bot.com/products/switchbot-video-doorbell)
 
 
+---
+### Troubleshooting After Connecting SwitchBot Smart Video Doorbell to the Network, the App Displayed a Page Prompting Subscription to Cloud Storage. The Video Doorbell Cannot Be Used without This Subscription.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Once pairing is complete, our camera products, including the Video Doorbell, will prompt you to subscribe to cloud storage. If you do not need this service, simply tap "Later" to continue using the Smart Video Doorbell.
+
+<img width="741" height="1280" alt="image" src="https://github.com/user-attachments/assets/84f16d52-c858-443a-9734-192b449e096f" />
 
 
 
