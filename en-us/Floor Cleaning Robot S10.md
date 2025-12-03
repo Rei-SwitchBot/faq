@@ -1485,6 +1485,9 @@ Tips:
 
   c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
+  
+7. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot’s water inlet, as shown in the video below, improves the situation.
+Video: [https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing](https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view)
 
 
 
