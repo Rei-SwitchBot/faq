@@ -1514,25 +1514,24 @@ Regarding this issue, could you please check the following points?
 When using the S20's base station:
 1. Make sure that the auto-drain port on the base station is properly installed and not damaged.
 
-<img width="622" height="648" alt="image" src="https://github.com/user-attachments/assets/9361e6ba-8098-49d8-98c1-2f0a3168f3ed" />
+<img width="622" height="648" alt="image" src="https://github.com/user-attachments/assets/e05b3e79-4d01-43c3-810c-acbfaee977af" />
 
 2. Please check if the waste water tank is full of water.  
 3. Please confirm that the waste water tank is securely attached. Lift the waste water tank once and put it back in place.  
-4. Check the rubber valve at the connection part of the waste water tank is not damaged. Remove it manually and reattach it.  
+4. Check the rubber valve at the connection part of the waste water tank is not damaged. Remove it manually and reattach it.
 
-<img width="870" height="675" alt="image" src="https://github.com/user-attachments/assets/57730cc8-b6b6-4674-8e30-410e9d8a1cf5" />
+<img width="870" height="675" alt="image" src="https://github.com/user-attachments/assets/df4c8a76-d7e9-4a2d-a8c2-546e2f5e366c" />
 
 5. Please refer to the video below to verify whether your S20 robot's waste water pump is functioning correctly.
 Video: [https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing](https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing)
 Tips:
-  a. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+  1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
 
-<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/1f91d5a7-f468-46e5-bb49-c5be2c0889c3" />
+<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/c86318c1-2785-4cdd-902c-9c42a05875b2" />
 
-  c. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  d. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
-
+  3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
 
 When using the water station:
 1. Remove the robot's faceplate and restart it.
@@ -1543,20 +1542,23 @@ When using the water station:
 
 4. Make sure that the water station's auto-drain port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/ed8197ee-7a19-49c7-886c-59674fc54fb4" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/80b7f495-96a3-4cf8-a4c1-658c33d68579" />
 
-5. Please check if the waste water box is full or empty. 
+5. Please manually push the S20 into the water station immediately after docking to ensure the drainage outlet is securely sealed and to confirm that it drains properly. If the drainage functions correctly, the floor where the water station is installed may not be level. In that case, please place the water replacement station on a flat surface.
 
-6. Please refer to the video below to verify whether your S20 robot's waste water pump is functioning correctly.
+6. Please check if the waste water box is full or empty. 
+
+7. Please refer to the video below to verify whether your S20 robot's waste water pump is functioning correctly.
 Video: [https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing](https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing)
 Tips:
-  a. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+  1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
 
-<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/d0b97ebf-d306-4ff3-aa6f-65ec8510ebe2" />
+<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/20d16ff3-7f68-4155-8af2-2eb0a820aec5" />
 
-  c. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  d. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+  3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
 
 
 ---
