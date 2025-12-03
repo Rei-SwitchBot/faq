@@ -2947,43 +2947,50 @@ Video: [https://drive.google.com/file/d/1obc4Bg5BufiVeV1lIzu9KhIisqSXmTuv/view?u
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 When using the S20's base station:
-1. Make sure that the auto-fill ports on the base station is properly installed and not damaged.
+1. Make sure that the auto-fill port on the base station is properly installed and not damaged.
 
-<img width="673" height="669" alt="image" src="https://github.com/user-attachments/assets/0c0d36b8-1282-4a93-a4f8-3548b809502f" />
+<img width="673" height="669" alt="image" src="https://github.com/user-attachments/assets/5caf9f69-6007-4516-9ac3-00d2b66e659f" />
 
 2. Please make sure that there is water in the fresh water tank and that it is securely attached. As a precaution, lift the fresh water tank once and then place it back.
 
-3. Please refer to the video below to verify whether your S20 robot ’s fresh water pump is functioning correctly.
-[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view)
+3. Please refer to the video below to verify whether your S20 robot's fresh water pump is functioning correctly.
+[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing)
 Tips:
   1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
 
-<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/d1e23587-9c45-427e-938d-0411f5b7dc5d" />
+ <img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/f424bbcb-4ac0-49b0-a0bd-71bd922fef14" />
 
-  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+   3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
+4. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot’s water inlet, as shown in the video below, improves the situation.
+Video: [https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing](https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing)
+
 
 When using the water station:
 1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
 2. Make sure that the fresh water hose is not damaged or folded.
 3. Make sure that the water station's auto-fill port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/1bd292d2-61a0-46a8-9ce9-b7404758b35c" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/ab08731d-1057-49b9-b562-ac465d353d4b" />
 
 4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
-[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view)
+[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing)
 5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-6. Please refer to the video below to verify whether your S20 robot ’s fresh water pump is functioning correctly.
-[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view)
+6. Please refer to the video below to verify whether your S20 robot 's fresh water pump is functioning correctly.
+[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing)
 Tips:
   1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+  2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
 
-<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/63d0376e-9a90-4489-8f0c-7d56b8a1d760" />
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/bf1dd425-f94a-4f89-85a8-3d16686b4887" />
 
-  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
   4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+
+7. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot’s water inlet, as shown in the video below, improves the situation.
+Video: [https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing](https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing)
 
 
 ---
