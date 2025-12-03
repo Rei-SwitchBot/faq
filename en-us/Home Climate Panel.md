@@ -82,8 +82,16 @@ Note:
 When using the Home Climate Panel together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
 
 
+---
+### Troubleshooting After Pairing the Smart Radiator Thermostats to SwitchBot Home Climate Panel, No Temperature Is Displayed on the Panel.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. After binding the Smart Radiator Thermostats to the Home Climate Panel, the bottom of the panel screen will be off by default. Press the power button to turn on the thermostat and view the temperature data.
 
+<img width="386" height="192" alt="image" src="https://github.com/user-attachments/assets/deeaf78d-7a34-4f51-8274-f01bed065fd1" />
+
+2. Unlink the paired thermostat by navigating to the SwitchBot App → Home Climate Panel → Paired Device, then relink it.
 
 
 
