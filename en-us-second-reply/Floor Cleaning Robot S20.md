@@ -922,6 +922,30 @@ Conclusion from the R&D Team:
 3. If the video is not available, we will directly repair both the S20 robot and the water station.
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Is Not Sucking the Dirty Water After Mopping
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+When using the S20's base station:
+  1. A video demonstrating the testing of the waste water pump
+  2. Remove the waste water box and take a photo for us
+  3. A photo showing the backside of the waste water filter cover 
+Note: Remove the waste water tank and open the cover of the waste water filter indicated by the red mark in the diagram below.
+
+<img width="501" height="657" alt="image" src="https://github.com/user-attachments/assets/7b83512f-1d60-439d-bb86-8bc7f93f89c5" />
+
+When using the water station:
+  1. A video demonstrating the testing of the waste water pump
+  2. Remove the waste water box and take a photo for us
+  3. A photo showing the backside of the waste water filter cover 
+Note:
+Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
+
+<img width="447" height="178" alt="image" src="https://github.com/user-attachments/assets/1184ef49-958c-4adb-9111-d9fbba80ba4c" />
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
