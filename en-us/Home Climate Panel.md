@@ -94,7 +94,13 @@ Regarding this issue, could you please check the following points?
 2. Unlink the paired thermostat by navigating to the SwitchBot App → Home Climate Panel → Paired Device, then relink it.
 
 
+---
+### Troubleshooting When Attempting to Pair the AC Remote Learned with SwitchBot Ceiling Light Pro on SwitchBot Home Climate Panel, a Message Indicates That the Firmware Version Is Outdated, Preventing the Pairing.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Upon confirmation, if the firmware version of your Ceiling Light Pro is 2.4-1.2 or earlier, pairing an AC remote learned on the Ceiling Light Pro to the Home Climate Panel will prompt a firmware update notification in the app. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If no firmware is available for the update, our team will schedule the firmware update at a later time. Thank you for your patience!
 
 
 
