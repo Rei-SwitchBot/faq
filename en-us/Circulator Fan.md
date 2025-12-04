@@ -79,6 +79,16 @@ The front guard is washable with water.
 The blades aren't suitable for water cleaning due to their built-in motor. Kindly use a cloth to wipe them clean.
 
 
+---
+### Troubleshooting SwitchBot Battery Circulator Fan Is Offline and Cannot Be Operated in the Switchbot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please try unplugging and plugging in the AC power cable to check if the circulator can start.
+2. The circulator is a Bluetooth-enabled device. When used without a hub, you can operate it through the SwitchBot app when near the device. However, if you are away from home, the device will appear offline in the app.
+3. When used with a hub product, please make sure that the hub is placed within the circulator's Bluetooth range and is connected to a stable Wi-Fi network.  
+4. Please use the latest version of the SwitchBot app from the app store. Note that the Beta version of the app may cause unstable connections. Thank you for your understanding.
+
 
 
 
