@@ -1468,26 +1468,24 @@ Regarding this issue, could you please check the following points?
 2. Make sure that the fresh water hose is not damaged or folded.
 3. Make sure that the water station's auto-fill port is attached and undamaged.
 
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/b867287b-648c-41ed-baa5-ee4d82b911d8" />
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/51322aa1-2182-47fb-af12-772adf001b51" />
 
-
-4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
-[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view)
+4. Refer to the linked video and check for any unusual noises by shaking the water station up and down. If you hear a rattling noise, the water station is malfunctioning and needs to be repaired or replaced.
+[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing)
 5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
 6. Please refer to the video below to verify whether your S10 robot ’s fresh water pump is functioning correctly.
-[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view)
+[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing)
 Tips:
   1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
   2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
 
-<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/c0e31b31-5102-45c2-9ac5-97068d34fc0d" />
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/c2ebbce7-7d13-4f7b-86e6-ee2d4a26311d" />
 
+  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+  4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 
-  c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
-  
 7. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot’s water inlet, as shown in the video below, improves the situation.
-Video: [https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing](https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view)
+Video: [https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing](https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing)
 
 
 
