@@ -735,7 +735,23 @@ Regarding this issue, could you please check the following points?
 <img width="741" height="1280" alt="image" src="https://github.com/user-attachments/assets/84f16d52-c858-443a-9734-192b449e096f" />
 
 
+---
+### How to Receive Notifications on My Smart Phone When SwitchBot Smart Video Doorbell Detects Motion
 
+1. Turn on notifications for Smart Video Doorbell in the following order:
+- Launch the SwitchBot app and log in.
+- Tap "Profile" at the bottom right.
+- Tap on "Preferences".
+- Tap on "App Notifications".
+- Enable "App Notifications".
+- Turn on "Device Notifications".
+- Tap on "Notification Management" below device notifications.
+- Switch to the Home where the Smart Video Doorbell is located at the top left.
+- Tap on the corresponding Smart Video Doorbell.
+- Enable "Allow Notifications".
+- Enable the "Motion Detection" and "Human Detection" notification items.
+
+2. You can turn off notifications in the same order.
 
 
 
