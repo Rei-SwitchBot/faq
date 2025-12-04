@@ -420,4 +420,9 @@ Regarding this issue, could you please check the following points?
 *If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 
+---
+### Is It Possible To Keep SwitchBot Keypad Vision Backlight on at All Times?
 
+We regret to inform you that it is not possible to set the backlight for the Keypad Touch, Keypad, or Keypad Vision to remain constantly illuminated. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+Note:
+When using the device in a dark environment, it cannot automatically adjust the backlight based on the surrounding brightness while in standby mode; however, pressing any button on the device will activate the backlight.
