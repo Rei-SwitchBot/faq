@@ -884,6 +884,42 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Failed to Refill Water
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, please assist us by providing the following:
+When using the S20's base station:
+  1. A video demonstrating the water refill failure. (Note: The video should include sound.)
+  2. A video demonstrating the testing of the fresh water pump
+
+2. When using the water station:
+  1. A video demonstrating the water auto-fill failure (Note: The video should include sound.)
+  2. Photos showing fresh water hose and sewage hose in place
+  3. How long after using the Water Station is unable to auto-refill
+  4. A video showing the Water Station being shaken up and down with force
+  5. A video demonstrating the testing of the fresh water pump
+
+3. Also, if the replacement or repair service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+Conclusion from the R&D Team:
+1. If the fresh water pump of the S20 is working properly, we will arrange repair service of the water station.
+2. If there is a strange noise when the water station is shaken up and down, we will arrange for repair service of the water exchange station. At the same time, if the S20's fresh water pump doesn't make any air blowing sound or suction force cannot be confirmed, we will also arrange for repair of the robot S20.
+3. If the video is not available, we will directly repair both the S20 robot and the water station.
 
 
 
