@@ -241,3 +241,38 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting SwitchBot Battery Circulator Fan Is Offline and Cannot Be Operated in the Switchbot App.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+If the power switch is on and the AC power cable is plugged in but the circulator does not turn on, to determine if your device needs to be replaced, could you kindly provide a video demonstrating the circulator fan not turning on after connecting the AC charging cable and pressing the power button for 15 seconds?
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+If the power is on but the device appears offline in the SwitchBot app and cannot be operated, we will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: 
+• A screenshot confirming that the device is offline in the app.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+
+
+
+
+
+
+
+
+
+
