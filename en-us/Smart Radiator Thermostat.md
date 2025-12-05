@@ -29,3 +29,17 @@ SwitchBot scenes and automations require a network to operate. The Smart Radiato
 After purchasing a hub, simply place it near the Smart Radiator Thermostat (recommended within 5m), and the thermostat will automatically connect to the hub. You can check the Bluetooth connection status by going to SwitchBot App -> Profile -> Manage hub -> the relevant hub.
 
 
+---
+### Troubleshooting After Configuring the Meter as the Data Source for SwitchBot Smart Radiator Thermostat, the Temperature Displayed on the Thermostat Differs from the Meter Readings.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When you connect the meter under your account as a temperature data source to the thermostatic valve, please note that unlike the meter, the thermostatic valve does not display decimal points. It shows the temperature as a whole number. For example, if the meter reads 20.8°C, the thermostatic valve will display 20°C. This is not a product malfunction but a design feature. 
+We sincerely apologize for any inconvenience this may cause and appreciate your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
+
+
+
+
+
