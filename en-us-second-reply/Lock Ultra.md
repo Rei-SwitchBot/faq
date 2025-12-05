@@ -372,9 +372,11 @@ Our team will review your request and get back to you soon. Thank you for your p
 ---
 ### Troubleshooting SwitchBot Lock Ultra Jams and Fails to Lock or Unlock My Door Lock
 
-Thank you for reporting this issue. 
-After confirming with our R&D team, the firmware to fix this issue is scheduled for release later this month.
-We appreciate your patience and understanding!
-If you have any other questions, please do not hesitate to contact us.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. 
+*After the firmware update is complete, please recalibrate youre Lock Ultra before use.  
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
 
 
