@@ -861,20 +861,6 @@ Related Products: SwitchBot Floor Cleaning Robot S10
 5. The external water tank will be available on SwitchBot official website this year. Stay tuned for updates!
 
 
-
----
-### Is the Cleaning Solution for SwitchBot Floor Cleaning Robot S10 Pet Friendly?
-
-Last Updated: 2024 Sep 05
-
-Related Product: SwitchBot Floor Cleaning Robot S10
-
-The main ingredients of the Floor Cleaning Robot S10's cleaning fluid are deionized water and surfactants. It also contains a citrus fragrance (with a concentration lower than 0.0025% after dilution), which emits a mild, pleasant scent when used. These components are effective in cleaning and are harmless, containing no essential oils, and therefore will not cause any harm to pets. Thus, you can use our product with confidence.
-
-As an additional suggestion, we recommend that you only use the cleaning solution specified by SwitchBot official. It is not advisable to add any essential oils (such as pine oil) to the water, as this may damage the internal structure of the Floor Cleaning Robot S10, and many essential oils could be hazardous to your pet's respiratory and digestive systems.
-
-
-
 ---
 ### Is the LiDAR SLAM Laser Equipped on SwitchBot Floor Cleaning Robot S10 Harmful to Humans?
 
