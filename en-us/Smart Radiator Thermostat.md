@@ -39,7 +39,13 @@ We sincerely apologize for any inconvenience this may cause and appreciate your 
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Troubleshooting Smart Radiator Thermostat Not Automatically Turning off After Reaching the Target Temperature
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If your thermostat's temperature data comes directly from the device itself, please open the SwitchBot app, select the thermostat, tap the gear icon to access the settings, and try recalibrating the temperature to see if it helps.
+How to verify the thermostat's temperature data source: SwitchBot App -> Smart Radiator Thermosta -> Gear Icon -> Temperature display -> Data source
 
 
 
