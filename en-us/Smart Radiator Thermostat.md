@@ -48,4 +48,27 @@ Regarding this issue, could you please check the following points?
 How to verify the thermostat's temperature data source: SwitchBot App -> Smart Radiator Thermosta -> Gear Icon -> Temperature display -> Data source
 
 
+---
+### Troubleshooting SwitchBot Smart Radiator Thermostat Not Powering on After Inserting Two Batteries
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check if the batteries are inserted in the correct orientation.  
+2. Replace with new AAA batteries and check if the issue is resolved.
+[https://support.switch-bot.com/hc/en-us/articles/35251838747159](https://support.switch-bot.com/hc/en-us/articles/35251838747159-How-to-Replace-the-Batteries-for-SwitchBot-Smart-Radiator-Thermostat-Video)
+
+
+---
+### Troubleshooting SwitchBot Smart Radiator Thermostat Failing to Complete Calibration and Displaying "LC".
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press and hold the bottom button for 2 seconds to check if you can disable the child lock and see if the temperature is displayed on the device.
+2. Remove the two batteries, reinsert them, and then perform the calibration. Please note that it is not necessary to hold the button continuously during calibration.
+3. Repeat step 1 once more.
+
+
+
+
+
 
