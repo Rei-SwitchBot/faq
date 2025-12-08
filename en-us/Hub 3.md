@@ -618,9 +618,13 @@ Orange: Moderate 1000~1400ppm
 Red: Poor 1400~2000ppm
 
 
+---
+### Can the Settings of Hub 2 and Hub Mini Be Transferred to the Newly Purchased Hub 3?
 
-
-
+1. Yes, the infrared remotes learned on Hub 2, Hub Mini, etc. can be transferred to Hub 3. Please refer to the link below.
+[https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-Learned-Infrared-Remotes-From-One-Hub-Mini-to-Another](https://support.switch-bot.com/hc/en-us/articles/30725182122647-How-to-Transfer-Learned-Infrared-Remotes-From-One-Hub-Mini-to-Another)
+2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub 3 close to the device (within Bluetooth range), and it will automatically connect.
+3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
 
 
 
