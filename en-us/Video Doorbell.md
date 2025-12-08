@@ -754,7 +754,17 @@ Regarding this issue, could you please check the following points?
 2. You can turn off notifications in the same order.
 
 
+---
+### How to Set the Language for the Monitor and Doorbell
 
+1. Please set the language for Smart Video Doorbell in the following order:
+- Launch SwitchBot App and log in.
+- Tap the Smart Video Doorbell.
+- Tap the gear icon in the upper right corner.  
+- Tap "More Features" on the settings screen.  
+- Tap "Language".  
+- Select your desired language and save.
+Once the setup is complete, the language on both your doorbell chime and monitor display will change.
 
 
 
