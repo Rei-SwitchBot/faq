@@ -68,7 +68,12 @@ Regarding this issue, could you please check the following points?
 3. Repeat step 1 once more.
 
 
+---
+### Can SwitchBot Smart Radiator Thermostat Be Connected to an External Temperature Sensor?
 
+Yes, you can connect other SwitchBot Meters (temperature and humidity sensors) as data sources for the Smart Radiator Thermostat. If the environment around your thermostat valve is too hot or too cold and doesn’t accurately reflect the room temperature, we recommend connecting additional SwitchBot indoor or outdoor meters to ensure automatic and precise control of the thermostat valve.
+Note:
+Non-SwitchBot temperature sensors cannot be connected to the Smart Radiator Thermostat.
 
 
 
