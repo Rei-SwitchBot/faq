@@ -1120,8 +1120,6 @@ If you need a new NFC Card, please visit the link below to purchase.
 ---
 ### What to Do If My SwitchBot Keypad/Keypad Touch Has Stopped Responding?
 
-Updated: Dec 27th, 2022
-
 Applicable Products: SwitchBot Keypad, SwitchBot Keypad Touch
 
 SwitchBot App Version: V6.19.1 or newer
