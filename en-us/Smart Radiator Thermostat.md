@@ -76,4 +76,22 @@ Note:
 Non-SwitchBot temperature sensors cannot be connected to the Smart Radiator Thermostat.
 
 
+---
+### Troubleshooting SwitchBot Smart Radiator Thermostat Failing to Connect the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure your Hub is connected to a stable network.
+2. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. The Smart Radiator Thermostat and Hub communicate via Bluetooth. For automatic connection, place both devices within Bluetooth range, preferably within five meters of each other. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+4. Restart your home router.
+5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the thermostat.
+
+
+
+
+
+
+
+
 
