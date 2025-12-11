@@ -103,4 +103,63 @@ Upon confirmation, if the firmware version of your Ceiling Light Pro is 2.4-1.2 
 *If no firmware is available for the update, our team will schedule the firmware update at a later time. Thank you for your patience!
 
 
+---
+### After Adjusting the Air Conditioner with SwitchBot Home Climate Panel, Will Its Status, Like Temperature, Sync to SwitchBot App?
+
+1. When you control the air conditioner using the SwitchBot app, the temperature display on the Home Climate Panel will update accordingly.  
+2. When you operate the air conditioner via the Home Climate Panel, its status will sync with the SwitchBot app.  
+3. If the air conditioner is controlled through schedules, automations, or scenes, its status will sync with both the Home Climate Panel and the SwitchBot app.  
+4. However, if you use the infrared remote control that comes with the air conditioner, its status will not sync with either the Home Climate Panel or the SwitchBot app.
+
+
+---
+### Troubleshooting SwitchBot Home Climate Panel Failing to Connect the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure your Hub is connected to a stable network.
+2. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. The Home Climate Panel and Hub communicate via Bluetooth. For automatic connection, place both devices within Bluetooth range, preferably within five meters of each other. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+4. Open the SwitchBot app and go to the Home Climate Panel. Tap the temperature or humidity, then scroll down to the meter chart screen and tap "Store data to cloud" to upload your data to the server.
+5. Restart your home router.
+6. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the panel.
+
+
+---
+### What Does the Button on the Back of SwitchBot Home Climate Panel Do?
+
+Button on the back of the Home Climate Panel
+Press the button on the back of the Home Climate Panel once to toggle between Fahrenheit and Celsius.
+
+On and Off Buttons on the Home Climate Panel
+To add your Home Climate Panel to the SwitchBot App, press and hold the on and off buttons simultaneously for 2 seconds to enter pairing mode.
+To reset your device to factory settings, press and hold the on and off buttons simultaneously for 15 seconds.
+If you add SwitchBot devices or scenes to the on and off buttons on the Home Climate Panel, you can control them simply by pressing the button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
