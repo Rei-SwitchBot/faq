@@ -332,7 +332,7 @@ Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
 4. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
 5. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
-
+6. We plan to release the new firmware within this month. We understand your eagerness and kindly ask for your patience.
 
 
 ---
@@ -414,10 +414,11 @@ Regarding this issue, could you please check the following points?
 2. If the real-time video from the doorbell is displayed on the monitor following step 1, please check the installation of the monitor.
 Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
 Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
-[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
+[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103)
 
 3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
 4. Press and hold the doorbell button for 5 to 8 seconds to reset it.
+5. Installing the doorbell on a metal door can interfere with communication with the monitor, so please install it on a wall or another surface.
 
 
 ---
