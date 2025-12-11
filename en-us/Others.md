@@ -116,34 +116,6 @@ Related Products: SwitchBot Products
 Note: This software is distributed as open source software, but the copyright belongs to the copyright holders listed in the source code. Please note that we will not be able to answer questions about the contents of the source code.
 
 
-
----
-### About the problem with Bluetooth connection disconnecting by itself on cellphone with Android 13 OS version.
-
-Currently, a cellphone bug with the OS version Android 13 is causing many SwitchBot Bluetooth devices to disconnect themselves. More information can be found at the following link.
-
-English website:
-
-[https://issuetracker.google.com/issues/242755161](https://issuetracker.google.com/issues/242755161)
-
-Japanese website:
-
-[https://enjoypclife.net/android-13-release-update-app-error-bug-matome/](https://enjoypclife.net/android-13-release-update-app-error-bug-matome/)
-
-Please try the following solution to alleviate the issue.
-
-1. Try to turn off the Bluetooth on your cellphone and turn it on after 30 seconds.
-
-2. Try to reboot the cellphone.
-
-3. If you have an iOS device, try to connect the SwitchBot Bluetooth device with it.
-
-Our technical department also published a SwitchBot App that can alleviate Android 13 issues. Please visit the link below to download the dedicated version of the SwitchBot App.
-
-[Download](https://drive.google.com/file/d/1gfUXCxFyJg45NASON6Cs4SlVtGtGFblk/view)
-
-
-
 ---
 ### Alexa App Says Switchbot Device Is Unresponsive
 
