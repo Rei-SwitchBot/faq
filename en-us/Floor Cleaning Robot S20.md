@@ -3342,7 +3342,13 @@ Regarding this issue, could you please check the following points?
 2. Unpair the Water Station from the S20 by going to SwitchBot app -> your S20 ->Functions -> Settings -> Mark Water Station Position -> "⋮" in the upper right corner.
 
 
+---
+### Can I Place SwitchBot Floor Cleaning Robot S20 Water Station and Base Station in Separate Rooms?
 
+We would like to provide you with important installation instructions for the base station and the water station.
+1. When installing the water station and base station for the S20, it is recommended to maintain a distance of at least 1 meter between them. Failure to do so may result in signal interference leading to cleaning leaks.
+2. If the base station and the water station are installed in separate rooms on the same floor, please open the doors of both rooms before cleaning.
+3. The base station and the water station can also be installed in separate locations, such as on different floors. Please arrange them according to your preferences.
 
 
 
