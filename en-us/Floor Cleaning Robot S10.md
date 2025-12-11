@@ -3296,6 +3296,21 @@ If you tap the message "Water station low battery" on the S10 robot operation sc
 3. Go to SwitchBot app → S10 → Gear icon → Schedules → Add → Select Scheduled Charging and save.
 
 
+---
+### Can I Place SwitchBot Floor Cleaning Robot S10 Water Station and Auto-empty Station in Separate Rooms?
+
+1. When installing the water station and auto-empty station for the S10, it is recommended to maintain a distance of at least 1 meter between them. Failure to do so may result in signal interference leading to cleaning leaks.
+
+<img width="668" height="282" alt="image" src="https://github.com/user-attachments/assets/ad0de70a-b14b-459f-906f-8f38f66afc74" />
+
+<img width="241" height="225" alt="image" src="https://github.com/user-attachments/assets/b8de242d-c7c4-4005-8d08-659b5888fe76" />
+
+2. If the auto-empty station and the water station are installed in separate rooms on the same floor, please open the doors of both rooms before cleaning.
+3. The auto-empty station and the water station can also be installed in separate locations, such as on different floors. Please arrange them according to your preferences.
+
+
+
+
 
 
 
