@@ -3351,4 +3351,48 @@ We would like to provide you with important installation instructions for the ba
 3. The base station and the water station can also be installed in separate locations, such as on different floors. Please arrange them according to your preferences.
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Saying the Waste Water Tank Has Been Removed Even When It Isn't
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the waste water tank  is properly installed. As a precaution, lift the tank once and then set it back in its original position. When correctly installed, the tank will be level with the highest point of the base station, as shown in the illustration below.
+
+<img width="948" height="1013" alt="image" src="https://github.com/user-attachments/assets/a15e48bf-dca3-4fc7-8bb1-15eddeebcd32" />
+
+2. Unplug the base station, then plug it back in to see if the issue improves.
+3. Please verify if a magnetic sensor is installed on the waste water tank , as indicated by the red mark in the illustration below.
+
+<img width="728" height="672" alt="image" src="https://github.com/user-attachments/assets/7c6cbff8-e1da-4fac-8941-3c6a912a7427" />
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Saying the Clean Water Tank Has Been Removed Even When It Isn't
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the clean water tank  is properly installed. As a precaution, lift the tank once and then set it back in its original position. When correctly installed, the tank will be level with the highest point of the base station, as shown in the illustration below.
+
+<img width="948" height="1013" alt="image" src="https://github.com/user-attachments/assets/ad9d4c38-9f96-4a43-953e-5e67fab256d2" />
+
+2. Unplug the base station, then plug it back in to see if the issue improves.
+3. Please verify if a magnetic sensor is installed on the clean water tank , as indicated by the red mark in the illustration below.
+
+<img width="728" height="672" alt="image" src="https://github.com/user-attachments/assets/538d2714-fad2-4a5c-b40b-a6c2b0fdafe0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
