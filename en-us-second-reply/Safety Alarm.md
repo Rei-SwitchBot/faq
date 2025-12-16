@@ -21,9 +21,9 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, could you please remove the batteries from the Safety Alarm and provide a photo as shown in the diagram below?
+If the issue of rapid power consumption persists after upgrading the firmware, we will forward your feedback to our R&D team for further investigation, could you please remove the batteries from the Safety Alarm and provide a photo as shown in the diagram below?
 
-<img width="961" height="1280" alt="image" src="https://github.com/user-attachments/assets/715c9882-61f3-4754-b8ef-9069f7a3ba9f" />
+<img width="961" height="1280" alt="image" src="https://github.com/user-attachments/assets/f5d19c9f-e7fb-46d0-82cc-a8cbfb76e3b9" />
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
