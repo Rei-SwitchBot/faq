@@ -948,6 +948,61 @@ Way to open the waste filter cover: Hold the main body of the water station with
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Saying the Waste Water Tank Has Been Removed Even When It Isn't
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if the waste water tank needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A screenshot showing the error message notificaiton
+  
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+Additionally, if there is no improvement after replacing the waste water tank , we will arrange repair/replacement services for the base station within the warranty. Feel free to contact us if needed.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Saying the Clean Water Tank Has Been Removed Even When It Isn't
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if the clean water tank needs to be replaced, could you kindly provide a short video showing the issue?
+  1. A screenshot showing the error message notificaiton
+  
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+Additionally, if there is no improvement after replacing the clean water tank , we will arrange repair/replacement services for the base station within the warranty. Feel free to contact us if needed.
+
+
+
 
 
 
