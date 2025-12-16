@@ -506,7 +506,7 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We would appreciate it if you could provide the following information so that we can determine whether the wastewater box needs to be replaced.
 - Remove the waste water box and take a photo for us
-- A video showing the robot not being able to drain water
+- A video showing the robot deep-cleaning (SwitchBot app -> S10 Robot -> Functions -> Control -> Wash Mop) its mop with sound
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 - Purchase channel
@@ -520,8 +520,10 @@ We would appreciate it if you could provide the following information so that we
 - ZIP/Postal Code
 - A screenshot of your order
 
-Note: If replacing the waste water box does not fix the problem, we will assess if repairs to the water station are needed. Please contact us again. Thank you for your patience and understanding!
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+If replacing the waste water box does not fix the problem, we will forward your feedback to our R&D team for further investigation. Thank you for your patience and understanding!
 
 
 ---
@@ -883,6 +885,7 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 
 
 
