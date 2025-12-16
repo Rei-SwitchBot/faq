@@ -8,11 +8,11 @@
 ---
 ### Wiring Diagram for SwitchBot Relay Switch 2PM
 
-![image](https://github.com/user-attachments/assets/d588171b-1d8f-41f1-bb2b-55fed6ebf656)
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/7c28efe8-c546-4927-a6db-cdc7df868baf" />
 
 
 ---
-### Wiring Diagram for SwitchBot Relay Switch 2PM
+### Can SwitchBot Relay Switch Remain off After Power Is Restored?
 
 Yes, please use the "Power Loss Recovery" function to achieve this goal:
 - Launch SwitchBot App and log in.
