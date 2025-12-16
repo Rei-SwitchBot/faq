@@ -324,152 +324,6 @@ If you would not like the motion sensor to detect the motions of your pets, you 
 
 
 ---
-### SwitchBot Motion Sensor Alexa Setup Guide
-
-Last Updated:
-
-2024 Feb 2
-
-Related Products: SwitchBot Motion Sensor
-
-SwitchBot App Version: 7.11 or newer
-
-1．
-
-Make sure your SwitchBot App version is up to date.
-
-2．
-
-Make sure SwitchBot Motion Sensor and SwitchBot Hub series have been added to your App.
-
-3．
-
-Please follow the steps below to turn on the Third-party Service for your SwitchBot Motion Sensor:
-
-Launch the SwitchBot App.
-
-Tap the relevant SwitchBot Motion Sensor.
-
-Tap the gear icon at the top right.
-
-In the Settings screen, tap "Third-party Services".
-
-Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
-
-4．
-
-Method 1: Please follow the steps below to integrate via the Alexa App.
-
-Launch the Alexa App and log in.
-
-Tap "More" located at the bottom right corner.
-
-Tap "Skills & Games" in the middle right of the screen.
-
-Enter "SwitchBot" in the search field with the magnifying glass icon and search.
-
-Tap "SwitchBot Smart" that appears.
-
-Tap "Enable to Use".
-
-The screen will automatically switch to the SwitchBot App. If you are already logged in, tap "Connect" that appears (if you are not logged in to the SwitchBot App, log in first and then proceed with the linking).
-
-Wait for the status to change from "Account Linking " to "Your SwitchBot Smart account has been successfully linked".
-
-Tap "Close".
-
-The Alexa App will automatically detect and synchronize with the connected devices.
-
-5．
-
-Method 2: Please follow the steps below to integrate via the SwitchBot App.
-
-Launch the SwitchBot App and log in.
-
-Tap the relevant SwitchBot Motion Sensor.
-
-In the Settings screen, tap on "Third-party Services".
-
-Tap Amazon Alexa.
-
-Tap "Connect".
-
-Enter your Amazon Alexa App login ID and password.
-
-The link will be automatically established.
-
-
----
-### SwitchBot Motion Sensor Google Home Setup Guide
-
-Last Updated：2024 Feb 02
-
-Related Products： SwitchBot Motion Sensor
-
-SwitchBot App Version：7.11 or newer
-
-1．
-
-Make sure your SwitchBot App version is up to date.
-
-2．
-
-Make sure SwitchBot Motion Sensor and SwitchBot Hub series have been added to your App.
-
-3．
-
-Please follow the steps below to turn on the Third-party Service for your SwitchBot Motion Sensor:
-
-Launch the SwitchBot App.
-
-Tap the relevant SwitchBot Motion Sensor.
-
-Tap the gear icon at the top right.
-
-In the Settings screen, tap "Third-party Services".
-
-Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
-
-4．
-
-Method 1: Please follow the steps below to integrate via the Google Home App.
-
-Tap the Google Home App.
-
-Tap Devices.
-
-Tap the "+".
-
-Tap "Works with Google".
-
-Select "SwitchBot" from the list.
-
-Tap continue and then log in to your SwitchBot account in the browser.
-
-The link will be completed.
-
-5．
-
-Method 2: Please follow the steps below to integrate via the SwitchBot App.
-
-Launch the SwitchBot App and log in.
-
-Tap the relevant SwitchBot Motion Sensor.
-
-Tap the gear icon in the top right corner.
-
-In the Settings screen, tap on "Third-party Services".
-
-Tap Google Assistant.
-
-Tap "Connect".
-
-Enter your Google Home App login ID and password.
-
-The link will be automatically established.
-
-
----
 ### SwitchBot Motion Sensor Troubleshooting
 
 １．
@@ -605,15 +459,34 @@ Regarding this issue, could you please check the following points?
 2. Replace with new AAA batteries and check if the issue is resolved.
 
 
+---
+### SwitchBot Motion Sensor Alexa Setup Guide
+
+1. To use the Motion Sensor with the Alexa app, you will need to purchase our hub and add both devices to the SwitchBot app.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+3. Please refer to the link below to connect Alexa and SwitchBot.
+[https://support.switch-bot.com/hc/en-us/articles/1500012758462](https://support.switch-bot.com/hc/en-us/articles/1500012758462)
 
 
+---
+### SwitchBot Motion Sensor Google Home Setup Guide
+
+1. To use the Motion Sensor with the Google Home app, you will need to purchase our hub and add both devices to the SwitchBot app.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+3. Please refer to the link below to connect Google Home and SwitchBot.
+[https://support.switch-bot.com/hc/en-us/articles/21062323971351](https://support.switch-bot.com/hc/en-us/articles/21062323971351)
 
 
+---
+### SwitchBot Motion Sensor Google Home Setup Guide
 
-
-
-
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure your Hub is connected to a stable network.
+2. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. The Motion Sensor and Hub communicate via Bluetooth. For automatic connection, place both devices within Bluetooth range, preferably within five meters of each other. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+4. Restart your home router.
+5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the sensor.
 
 
 
