@@ -137,7 +137,10 @@ To reset your device to factory settings, press and hold the on and off buttons 
 If you add SwitchBot devices or scenes to the on and off buttons on the Home Climate Panel, you can control them simply by pressing the button.
 
 
+---
+### Is It Possible to Disable SwitchBot Home Climate Panel's Backlight That Automatically Turns on with Motion?
 
+Currently, the backlight of the Home Climate Panel, which automatically turns on after motion is detected, cannot be disabled. We plan to add this feature in the next firmware and app updates. We apologize for any inconvenience and appreciate your patience.
 
 
 
