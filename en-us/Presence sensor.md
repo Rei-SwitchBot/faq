@@ -273,6 +273,32 @@ You can use this feature by going to SwitchBot app → Presence Sensor → Gear 
 [https://support.switch-bot.com/hc/en-us/articles/35589886593943](https://support.switch-bot.com/hc/en-us/articles/35589886593943-When-Should-I-Use-the-Auto-Adjust-Detection-Sensitivity-Function-of-SwitchBot-Presence-Sensor)
 
 
+---
+### Troubleshooting Failed to Add SwitchBot Presence Sensor to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Make sure the batteries in the Presence Sensor are correctly inserted and that the power is turned on.
+3. Press and hold the button on the top of the Presence Sensor for two seconds to enter pairing mode, then perform the pairing near the device. 
+4. If you have another smartphone available, please try using it to pair with the device.  
+5. Bluetooth communication between the app and the device may sometimes be unstable. Please wait for a while and then attempt pairing again.
+
+
+---
+### Troubleshooting SwitchBot Presence Sensor Failing to Connect the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure your Hub is connected to a stable network.
+2. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. The Presence Sensor and Hub communicate via Bluetooth. For automatic connection, place both devices within Bluetooth range, preferably within five meters of each other. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+4. Restart your home router.
+5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the sensor.
+
+
+
+
 
 
 
