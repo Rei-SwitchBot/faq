@@ -1726,6 +1726,14 @@ Note: After-sales service can arrange firmware updates, please contact us via yo
 4. If you have any questions, please contact us via SwitchBot App > Profile > Help & Feedback >Feedback.
 
 
+---
+### Troubleshooting The Added Air Conditioner Remote Has a Cooling Button but No Heating Button.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. AC remotes registered via "Smart Matching" or "Select Manually" can switch to heating or auto mode by tapping the cooling button of the respective remote in the SwitchBot app. Please check if you can change the mode from cool to heat by tapping the "cool" button on the added AC remotes.
+
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/8641198e-7820-4e4c-a28c-52a592c2844c" />
 
 
 
