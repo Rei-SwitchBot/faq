@@ -164,9 +164,8 @@ If you have any other questions, please do not hesitate to contact us.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-- Please remove the device from the SwitchBot app.  
-- Reinsert the batteries and add the device to the app again.  
-- Press the lightning button on the device and turn on the flashlight.  
+After confirmation, the issue you reported is a firmware bug and has been fixed. Please check for any available firmware updates by going to SwitchBot app → Safety Alarm → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 
 
 ---
