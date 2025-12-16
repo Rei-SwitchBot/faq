@@ -744,6 +744,21 @@ Important Note:
 [https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807-Can-Infrared-Remote-Control-in-SwitchBot-Hub-2-Be-Controlled-by-Apple-Home-App)
 
 
+---
+### Troubleshooting The Added Air Conditioner Remote Has a Cooling Button but No Heating Button.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. AC remotes registered via "Smart Matching" or "Select Manually" can switch to heating or auto mode by tapping the cooling button of the respective remote in the SwitchBot app. Please check if you can change the mode from cool to heat by tapping the "cool" button on the added AC remotes.
+
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/836ebb69-7036-4921-9462-d9205b86a326" />
+
+
+
+
+
+
+
 
 
 
