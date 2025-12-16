@@ -768,4 +768,46 @@ Regarding this issue, could you please check the following points?
 Once the setup is complete, the language on both your doorbell chime and monitor display will change.
 
 
+---
+### Troubleshooting Failed to Pair the Add-on Monitor with SwitchBot Smart Video Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please assist us by providing a screen recording that shows the process where the add-on monitor registration fails in the SwitchBot app?
+
+
+---
+### Troubleshooting the Doorbell's Indicator Remains Blue, Preventing SwitchBot Smart Video Doorbell from Functioning.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, the indicator on the doorbell is designed not to light up with a blue lamp. To more accurately assess the issue, could you please assist us by providing a video showing the doorbell lighting up with a blue lamp?
+
+
+---
+### How to Power the Monitor and the Doorbell?
+
+The Monitor is designed for continuous power supply. It accepts an input voltage of AC 110-220V at 50-60Hz. In contrast, the Doorbell itself features a built-in 5000mAh lithium battery and is typically powered by a 5V 2A adapter with a Type-C cable or 5-6.2V DC low-voltage wires.
+[https://support.switch-bot.com/hc/en-us/articles/28730515057687](https://support.switch-bot.com/hc/en-us/articles/28730515057687)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
