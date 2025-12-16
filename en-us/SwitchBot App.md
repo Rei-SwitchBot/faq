@@ -48,6 +48,12 @@ Currently, you cannot delete the home location information you have set. If nece
 <img width="748" height="1248" alt="image" src="https://github.com/user-attachments/assets/582dd353-5a97-49dd-97d4-b40b38e69d03" />
 
 
+---
+### Troubleshooting Unable to Submit Feedback from SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, please use the latest version of the SwitchBot app from the app store. If your SwitchBot app is version V6.14 or older, you will not be able to submit feedback through the app. We regularly release new versions of the SwitchBot app to support new products, implement new features, and fix bugs. We strongly recommend always using the latest version of the app for a better software experience.
+We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
 
