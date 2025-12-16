@@ -887,11 +887,17 @@ Regarding this issue, could you please check the following points?
 - Tap on the corresponding Evaporative Humidifier.
 - Disable "Other" notifications.
 
-
 2. You can turn on "other" notifications in the same order.
 
 
+---
+### Troubleshooting the Received SwitchBot Evaporative Humidifier's Water Tank Is Purple, Not the Colorless Trainsparent Tank Shown on the Purchase Page.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we sincerely apologize for the confusion caused by our outdated website materials, and truly appreciate you bringing this to our attention.
+Please be assured that all currently produced units feature the same purple water tank as the one you received. The color is a normal part of the current product design and does not affect the device’s performance or safety in any way. Your humidifier is functioning exactly as intended.
+We have already relayed your feedback to our web team so that the product visuals can be updated as soon as possible. Thank you again for helping us improve.
+If you have any further questions, please feel free to reach out.
 
 
 
