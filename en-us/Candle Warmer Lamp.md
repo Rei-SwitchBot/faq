@@ -159,7 +159,34 @@ We regret to inform you that SwitchBot store does not sell aroma candles. Please
 <img width="588" height="513" alt="image" src="https://github.com/user-attachments/assets/3cfff0f7-4406-4937-b998-80d9b016f4d4" />
 
 
+---
+### SwitchBot Candle Warmer Lamp Matter Setup Instructions (iOS)
 
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Candle Warmer Lamp
+- iPhone
+- Homepod or Apple TV
+
+Method 1 Add SwitchBot Candle Warmer Lamp to Apple Home without Using SwitchBot App 
+1. Press and hold the Candle Warmer Lamp's power button for 15 seconds to switch the device to Matter pairing mode. Then, add it to Apple Home using any of the following methods.
+2. Open Apple Home App -> Tap "Add or scan Accessory" -> scan the QR code.
+3. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+4. You can check the Matter setup code on the device itself or via the SwitchBot app by navigating to Candle Warmer → Gear Icon → Matter Setup.
+
+
+Method 2 Add SwitchBot Candle Warmer Lamp to Apple Home with SwitchBot App
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Candle Warmer Lamp has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Candle Warmer Lamp) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Candle Warmer Lamp -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+
+Video: [https://youtu.be/VQrMO5k_5NE](https://youtu.be/VQrMO5k_5NE)
+
+Note:
+Without a HomePod or Apple TV as a home hub, you might be able to add the device to Apple Home successfully, but remote control of the device will not be possible.
 
 
 
