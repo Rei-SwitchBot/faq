@@ -627,4 +627,15 @@ Red: Poor 1400~2000ppm
 3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
 
 
+---
+### Troubleshooting The Added Air Conditioner Remote Has a Cooling Button but No Heating Button.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. AC remotes registered via "Smart Matching" or "Select Manually" can switch to heating or auto mode by tapping the cooling button of the respective remote in the SwitchBot app. Please check if you can change the mode from cool to heat by tapping the "cool" button on the added AC remotes.
+
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/576a643b-c4f4-4825-a7b5-581dad91ffd1" />
+
+
+
 
