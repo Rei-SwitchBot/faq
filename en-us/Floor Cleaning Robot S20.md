@@ -39,7 +39,7 @@ When using the S20's base station:
 2. When changing the water, some dripping may occur, which is normal. It is recommended to place a diatomaceous earth mat under the auto-fill port.
 3. Make sure that the waste water tank and fresh water tank are correctly installed.
 
-<img width="660" height="588" alt="image" src="https://github.com/user-attachments/assets/64045460-c4d9-4142-8ece-bb3bac1f0ac0" />
+<img width="948" height="1013" alt="image" src="https://github.com/user-attachments/assets/5220db87-e681-4288-926d-24294fb4cf01" />
 
 4. Please ensure that the waste water filter cover is securely closed. If it is protruding, it may cause water leakage.
 
@@ -1978,7 +1978,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Remove the robot's faceplate and restart it.
 2. Remove the waste water box and then replace it.
-3. Please check if the robot's firmware is 1.1.049 by going to SwitchBot App -> S20 -> Gear Icon -> Firmware & Battery. If not, update the firmware near the device.
+3. Please check for any available firmware updates by going to SwitchBot app → S20 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
