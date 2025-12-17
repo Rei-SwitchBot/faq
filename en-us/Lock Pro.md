@@ -2210,6 +2210,24 @@ Yes, a single Lock Pro can connect with up to 7 Keypad Touchs. Please add Keypad
 For security purposes, one SwitchBot Lock Pro can register a maximum of three SwitchBot Remotes. However, for other SwitchBot devices that are compatible with SwitchBot Remotes, there is no restriction on the number of SwitchBot Remotes that can be utilized.
 
 
+---
+### Troubleshooting No Action Was Taken, Yet SwitchBot Lock Pro Suddenly Unlocked on Its Own.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+As smart locks directly impact both property and personal safety, we fully recognize that any instance of a lock opening automatically without user operation is a serious issue. To be sure, we would like to confirm whether you have enabled the "Auto-Unlock" feature on your Lock Pro.
+[https://support.switch-bot.com/hc/en-us/articles/25330863432727](https://support.switch-bot.com/hc/en-us/articles/25330863432727)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
