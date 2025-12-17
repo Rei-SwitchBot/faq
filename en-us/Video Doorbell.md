@@ -789,10 +789,32 @@ The Monitor is designed for continuous power supply. It accepts an input voltage
 [https://support.switch-bot.com/hc/en-us/articles/28730515057687](https://support.switch-bot.com/hc/en-us/articles/28730515057687)
 
 
+---
+### [Request Handling]Video Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Video Doorbell can only be added to one account. If a Video Doorbell is added to another account of yours, please delete the Video Doorbell from that account first and then add it to a new account.
+※SwitchBot App -> Long press the Video Doorbell icon -> tap the Delete button -> confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Video Doorbell will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### How to Change the Wi-Fi Network on SwitchBot Smart Video Doorbell
 
+1. Please update the Wi-Fi information for your Smart Video Doorbell in the following order:
+- Launch SwitchBot App and log in.
+- Tap the Smart Video Doorbell.
+- Tap the gear icon in the upper right corner.  
+- Tap "Wi-Fi Settings" on the settings screen.  
+- Tap "Wi-Fi".  
+- Enter your new 2.4GHz Wi-Fi SSID and password to reconnect your device.
 
+Note:  
+When you delete and re-add the device, you can also update the Wi-Fi information.
 
 
 
