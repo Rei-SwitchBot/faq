@@ -3309,7 +3309,11 @@ If you tap the message "Water station low battery" on the S10 robot operation sc
 3. The auto-empty station and the water station can also be installed in separate locations, such as on different floors. Please arrange them according to your preferences.
 
 
+---
+### Is It Possible to Set SwitchBot Floor Cleaning Robot S10 to Avoid Automatically Drying the Roller Mop After Refilling the Evaporative Humidifier?
 
+When the S10 robot starts an auto-refill task for the humidifier, it first returns to the Water Station to perform a deep cleaning cycle. This process refreshes the water in the clean water box by using it to clean the roller mop, ensuring that only fresh water is used to refill your humidifier.
+Once the refill task is completed, the robot will automatically activate its drying function to dry the wet roller mop. This standard feature helps maintain hygiene and prevent odors. Currently, there is no option to disable the drying function specifically after a humidifier refill task. We sincerely apologize for any inconvenience this may cause and truly appreciate your understanding. 
 
 
 
