@@ -77,24 +77,25 @@ We apologize for any inconvenience caused.
 ---
 ### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Is Leaking Water
 
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Results of the 9 checks above
-- Duration of product usage
-- Product state when the leakage occurred (standby or operating)
-- Method of adding water (lifting the tank to refill or adding water directly from the top)
-- Whether water remains inside the water tank
-- Photos of the leakage around the machine when it occurred
-- Photo showing the filter installation
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing water leakage
 
-<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/764b78df-a0fe-4ec6-80af-7e218328b800" />
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
-- A photo of the serial number (found on the tray sticker or the QR code on the back of the water tank)
-
-<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/317dcf1b-8b37-4be0-9275-4a987953b561" />
-
-<img width="701" height="1018" alt="image" src="https://github.com/user-attachments/assets/990eb3bb-524c-40d7-97bb-a38b629a2f74" />
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
