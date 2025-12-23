@@ -374,6 +374,9 @@ Regarding this issue, could you please check the following points?
 3. Please check for any available firmware updates by going to SwitchBot app → Meter Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 4. Set the button function to "Change Display Unit & Refresh Data" by navigating to the SwitchBot app, selecting Meter Pro, tapping the gear icon, and choosing Top Button Function.
 
+<img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/c840d574-816a-40bb-b1f4-6285f42f3f61" />
+
+
 
 
 
