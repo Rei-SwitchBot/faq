@@ -514,39 +514,6 @@ Please refer to the below picture to install the Contact sensor correctly.
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999675656599)
 
 
----
-### The status of my Contact Sensor via my app is different from actually being opened or closed.
-
-Last updated: 22/09/2022
-
-Related products: Contact Sensor
-
-SwitchBot App Version: 6.14 or later
-
-Firmware Version: 1.0 or later
-
-This error is typically caused by outdated firmware, or improper mounting/installation in most cases. Please follow the steps below to troubleshoot your issue.
-
-1. Please make sure SwitchBot Contact Sensor has been added to your SwitchBot account.
-
-2. Make sure you are using the latest firmware version.
-
-3. If you are not using firmware version 1.0 or later, please update your firmware via the sub-menu.
-
-4. Please check the installation position of your device magnet.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/15694985046295)
-
-5. Please check if your device is installed correctly according to the guide provided below.
-
-Refer to:
-
-[SwitchBot Contact Sensor installation guide](https://support.switch-bot.com/hc/en-us/articles/9235149944215)
-
-.
-
-6. Please follow the instructions in the app to adjust the installation position and check if there is an improvement.
-
 
 ---
 ### Why Contact Sensor Could Not Work in Google Home?
