@@ -51,12 +51,13 @@ If the device connection fails, please unplug the AI Hub's power and then try ag
 3. Once the AI Hub pairing is complete, the SwitchBot app will prompt you to format the microSD card. Please proceed with the formatting.
 
 4. The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell. Other camera models cannot be registered with the AI Hub. Thank you for your understanding.
-5. Go to SwitchBot app → Cameras/Video Doorbell → Gear icon → More Features → "Camera Account"  create an account and password.
+5. Go to SwitchBot app → Cameras/Video Doorbell → Gear icon → More Features → "Camera Account" to create an account and password.
 
 6. Go to SwitchBot app → AI Hub → tap the camera addition icon in the bottom menu bar → tap the "+" on the left side of the camera to save. If you have not created an account and password for your camera, selecting the camera will automatically redirect you to the account creation screen. Please create an account first, then try registering the camera in the AI Hub again.
 
 Note:
-You can add up to 8 SwitchBot cameras to the AI hub.
+RTSP-compatible cameras from other manufacturers can also be added to the AI Hub. 
+You can add up to 8 cameras to the AI hub.
 
 
 ---
