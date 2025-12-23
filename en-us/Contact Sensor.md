@@ -631,6 +631,42 @@ Regarding this issue, could you please check the following points?
 5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the sensor.
 
 
+---
+### Troubleshooting Unable to Upgrade the Firmware of SwitchBot Contact Sensor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to update with the beta version.
+2. When performing a firmware update, please stay close to the device.
+3. Turn off your smartphone's Bluetooth, then turn it back on and see if the update can proceed.
+4. Please perform a firmware recovery for the Contact Sensor.  
+Remove the battery from the Contact Sensor.  
+Press and hold the button on the sensor's main unit while reinserting the battery.  
+Open the SwitchBot app and navigate to Profile, tap Firmware Recovery to recover the firmware.
+5. If you have another smartphone, please try using it to see if the update is possible.
+
+
+---
+### Troubleshooting: Although the Door Is Closed, SwitchBot Contact Sensor Indicates It as Open.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The magnet of the Contact Sensor can only be detected from both sides, please ensure during installation that the magnet's sides face the main body of the Contact Sensor.
+
+<img width="756" height="572" alt="image" src="https://github.com/user-attachments/assets/1d22a4c1-09c7-4040-be3a-dd8712c8a1ba" />
+
+2. Depending on your environment, you can also attach the spare double-sided tape to the side of the magnet and install it on the door frame or similar surfaces.
+
+<img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/2032fdbd-bfdc-498c-8d70-8926c29de630" />
+
+3. Keep the magnet within 30mm of the Contact Sensor. If it's farther, the sensor will detect the door as open.
+
+<img width="406" height="292" alt="image" src="https://github.com/user-attachments/assets/3d9e0efc-41d5-43fc-8bcf-bddada46441d" />
+
+
+
+
+
 
 
 
