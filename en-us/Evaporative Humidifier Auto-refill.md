@@ -816,42 +816,21 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Remove the water tank and check if the tray is full of water.
 
-<img width="552" height="275" alt="image" src="https://github.com/user-attachments/assets/0ce66a46-ee50-4616-91ee-6be9d5e6902e" />
+<img width="552" height="275" alt="image" src="https://github.com/user-attachments/assets/9051fc47-f469-4175-8f8f-295f5e6c596a" />
 
-2. Move the float up and down as shown in the diagram to see if it is stuck.
-
-<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/3994d906-a40e-4ca6-b521-a4c2acb4349d" />
-
-3. Remove the float and inspect the axis for any deformation, as shown in the picture.
-
-<img width="1103" height="869" alt="image" src="https://github.com/user-attachments/assets/96a97be3-18b9-454f-8a3a-b565c3aae069" />
-
-4. With the water tank filled, lift it and check if water is leaking from the bottom of the tank.
-
-<img width="907" height="1103" alt="image" src="https://github.com/user-attachments/assets/24aa6970-8e13-488a-8bfa-0be6cb634de5" />
-
-5. Check the bottom of the water tank to see if there is a hole (to be confirmed by our R&D team, not directly related to water leakage).
-
-<img width="1005" height="1100" alt="image" src="https://github.com/user-attachments/assets/644d3e1c-0bac-4c11-b1f2-de2fc093e9fb" />
-
-6. Remove the open/close plug at the bottom of the water tank as shown in the video, check that each part is properly aligned, and then replace each part.
+2. If the tray is filled with water, refer to the video and readjust the open/close valve at the bottom of the water tank so that the white part in the diagram below is nearly level with the adjacent transparent rib.
 Video: [https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view](https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view)
 
-<img width="605" height="200" alt="image" src="https://github.com/user-attachments/assets/cb9e8e2d-4884-4fcc-8988-96c15ac9751b" />
+<img width="814" height="827" alt="image" src="https://github.com/user-attachments/assets/bc2a7402-4f80-4e38-9768-5e03af690583" />
 
-7. Adjust the installation of the filter and frame as shown in the diagram.
+3. If there is little water in the tray, please adjust the installation position to ensure there are no gaps between the filter and the frame.
 
-<img width="755" height="875" alt="image" src="https://github.com/user-attachments/assets/8ae7de36-a2db-451b-8404-3d79d9d08e8b" />
+<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/2509c477-6484-4e8c-96f5-705019238617" />
 
-<img width="747" height="934" alt="image" src="https://github.com/user-attachments/assets/2133e06d-84e0-423d-968d-655b22f6ff88" />
+4. Move the float up and down as shown in the diagram to check if it is stuck. If it is, please follow the steps in the video to reinstall it.
+Video: [https://drive.google.com/file/d/1ZcmzBf3dMxO3rLpszlXL-MXbZmvNsLYZ/view?usp=sharing](https://drive.google.com/file/d/1ZcmzBf3dMxO3rLpszlXL-MXbZmvNsLYZ/view?usp=sharing)
 
-8. Add water directly to the tray and check if any water leaks out.
-
-<img width="1268" height="743" alt="image" src="https://github.com/user-attachments/assets/37a39373-1632-4ac7-8e62-b6751713d899" />
-
-9. Please note that placing the humidifier at an angle of more than 8 degrees, as shown in the diagram, can cause water leakage. Be mindful of this during daily use.
-
-<img width="1280" height="763" alt="image" src="https://github.com/user-attachments/assets/e36d71b8-5cb5-492d-b592-9ce63bb228e6" />
+<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/b72e77e9-7b76-4cb7-ae27-130bbb3a35b0" />
 
 
 
