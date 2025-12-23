@@ -297,10 +297,22 @@ Regarding this issue, could you please check the following points?
 5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the sensor.
 
 
+---
+### Can I Integrate SwitchBot Presence Sensor into Home Assistant?
+
+Yes, the Presence Sensor supports both Bluetooth and cloud integration with Home Assistant. Bluetooth integration does not require a hub, whereas cloud integration does.  
+Once configured, you can view the motion status in Home Assistant, including when the space is occupied or unoccupied.  
+Please note that Home Assistant does not support light sensors, so it is not possible to set light sensor as a condition for automation.
 
 
+---
+### Troubleshooting Unable to Open the Battery Cover of SwitchBot Presence Sensor
 
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+To ensure water resistance in environments such as bathrooms, the Presence Sensor battery cover is designed to fit tightly against the device to prevent moisture and splashed water from entering inside. If you have something like a thin flathead screwdriver at home, please use it to insert into the gap between the cover and the main body, and try to open it by lifting upward.
+*Please avoid using your nails or forcing it open, as this could cause damage or injury.
+If you have any other questions, please do not hesitate to contact us.
 
 
 
