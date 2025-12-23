@@ -88,7 +88,14 @@ Regarding this issue, could you please check the following points?
 5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the thermostat.
 
 
+---
+### Troubleshooting SwitchBot Smart Radiator Thermostat Body Displays "--" and Cannot Be Calibrated.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When the Smart Radiator Thermostat is not installed on the radiator, it cannot detect the temperature and therefore cannot be calibrated. Please install the device on the radiator, then complete the calibration following the app's instructions.
+
+If you have any other questions, please do not hesitate to contact us.
 
 
 
