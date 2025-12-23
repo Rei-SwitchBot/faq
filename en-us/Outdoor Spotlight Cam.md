@@ -1612,6 +1612,37 @@ The traditional camera series products do not offer a cloud storage plan for thr
 Open the waterproof cover of the Outdoor Spotlight Cam to view the MAC address.
 
 
+---
+### How To Switch Between Different Cameras by Swiping Left and Right on the Real-Time Monitoring Screen
+
+1. Make sure all your cameras have been added to the SwitchBot app.
+
+2. You can disable the promotional advertisement as follows:
+- Please configure it in the following order:  
+- Launch SwitchBot app and log in.  
+- Tap on any camera.  
+- Tap on the camera feed screen.  
+- Tap the Multi-View icon in the upper right corner of the feed screen.  
+- Tap the "+" icon to add the cameras you wish to display.  
+- Tap the Multi-View icon again to exit Multi-View mode.  
+
+Note:  
+If you have multiple cameras, performing the above operation on one camera is enough. No need to do it for each camera.
+
+3. With these settings, you can switch to a different camera feed by swiping the camera image screen.
+
+
+---
+### Can the Solar Panel for Outdoor Spotlight Cam 2K Be Used on SwitchBot Outdoor Spotlight Cam?
+
+Yes, the solar panels for the Outdoor Spotlight Cam and the Outdoor Spotlight Cam 2K are interchangeable. You can use the solar panel for the Outdoor Spotlight Cam 2K on the Outdoor Spotlight Cam, and vice versa.
+
+
+---
+### What Is the Length of the Usb-C Cable on the Solar Panel for SwitchBot Outdoor Spotlight Cam?
+
+The Outdoor Spotlight Cam solar panel cable length is 3 meters.
+
 
 
 
