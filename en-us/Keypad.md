@@ -701,22 +701,10 @@ Related Posts:
 ---
 ### Is It Possible to Add the Password for SwitchBot Keypad Touch Remotely?
 
-Updated: Mar 22nd, 2023
-
-Applicable Products: SwitchBot Keypad, Keypad Touch
-
-SwitchBot App Version: V6.25 or newer
-
-1. Make sure you have the latest SwitchBot app installed.
-
-2. By connecting to our Hub series products, you can add or remove passcodes remotely.
-
-※Product series: SwitchBot Hub Mini/Hub 2
-
-※Tap the relevant Keypad/Keypad Touch→tap the gear mark in the upper right corner→connect to your account's Hub series product in the "Connect to Hub" section of the settings screen.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26002234256023)
-
+When the Keypad Touch is installed within the Bluetooth range of the hub, it will automatically connect to the hub and network. Once networked, you can remotely add or delete passwords.  
+Note:
+1. Remote addition and deletion of passwords are supported; however, remote editing of existing passwords is not. If necessary, please delete the old password before creating a new one.
+2. Adding fingerprints and NFC cards remotely is not supported.
 
 
 ---
