@@ -1,4 +1,4 @@
----
+<img width="727" height="944" alt="image" src="https://github.com/user-attachments/assets/e17636c8-0aa9-4b01-9440-a7344e5528a3" />---
 
 ## Lock
 
@@ -3012,6 +3012,21 @@ Jimmy-Proof:
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/6c390e99-2c6e-433d-80da-8ee15280cd63" />
 
 
+---
+### Can SwitchBot Lock Be Installed on an Electric Lock?
+
+If your home's front door is equipped with an electric lock, please make sure the following prerequisites are met before installing SwitchBot Lock:
+- The electronic functions of the door lock must be able to be disabled by cutting off power.  
+- Manual locking and unlocking should still work after power is cut off, and key-based unlocking must function properly.  
+If you cannot disable the electronic functions or manual/key-based locking/unlocking is not possible, do not install the lock product.
+
+
+---
+### What Are the Dimensions of SwitchBot Lock?
+
+<img width="746" height="947" alt="image" src="https://github.com/user-attachments/assets/723e6e49-9b41-4c17-8549-f26e97f4d6f4" />
+
+<img width="746" height="947" alt="image" src="https://github.com/user-attachments/assets/60ede473-c684-4f13-a80b-1e27d1cea87b" />
 
 
 
