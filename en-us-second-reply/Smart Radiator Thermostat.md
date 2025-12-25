@@ -32,11 +32,8 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
-If recalibrating the temperature does not help, or if you are using temperature data from SwitchBot Meter products, we will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Temperature data source of the thermostatic valve
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 
 ---
