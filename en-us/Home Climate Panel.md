@@ -143,10 +143,20 @@ If you add SwitchBot devices or scenes to the on and off buttons on the Home Cli
 Currently, the backlight of the Home Climate Panel, which automatically turns on after motion is detected, cannot be disabled. We plan to add this feature in the next firmware and app updates. We apologize for any inconvenience and appreciate your patience.
 
 
+---
+### Can the Air Conditioner Remote Controllers Added via the Learn Buttons Be Used with SwitchBot Home Climate Panel to Adjust Temperature and Airflow Settings, Beyond Just Power On/Off?
+
+We regret to inform you that air conditioner remote controls registered in the "Learn Buttons" and "Others" modes can only operate the power switch through the Home Climate Panel. Adjusting the temperature or fan speed is not supported. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
+---
+### Troubleshooting Unable to Pair the AC Remotes Added via Hub Plus with SwitchBot Home Climate Panel.
 
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We regret to inform you that the air conditioner remote control learned through Hub Plus is currently not supported, in addition to the Home Climate Panel. 
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+If you have any other questions, please do not hesitate to contact us.
 
 
 
