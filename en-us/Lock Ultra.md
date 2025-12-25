@@ -502,6 +502,26 @@ Yes, a single Lock Ultra can connect with up to 7 Keypad Vision Pros. Please add
 Yes, a single Lock Ultra can connect with up to 7 Video Doorbells. Please add Video Doorbells within the Lock Ultra's Bluetooth range according to your preference.
 
 
+---
+### Troubleshooting SwitchBot Lock Ultra Jams and Fails to Lock or Unlock My Door Lock
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. 
+*After the firmware update is complete, please recalibrate youre Lock Ultra before use.  
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+
+---
+### What Are the Dimensions of SwitchBot Lock Ultra?
+
+<img width="834" height="681" alt="image" src="https://github.com/user-attachments/assets/03f4f322-f88a-4f4f-9ca1-9e8d55a41f66" />
+
+
+
+
+
+
 
 
 
