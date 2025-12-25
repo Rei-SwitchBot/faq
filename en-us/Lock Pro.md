@@ -2218,7 +2218,16 @@ As smart locks directly impact both property and personal safety, we fully recog
 [https://support.switch-bot.com/hc/en-us/articles/25330863432727](https://support.switch-bot.com/hc/en-us/articles/25330863432727)
 
 
+---
+### Troubleshooting SwitchBot Lock Pro Quick Key won't work.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the quick is enabled by going to SwitchBot App -> Lock Pro -> Gear Icon in the upper right corner -> Quick Key.
+2. Please check the button function settings for the quick key. If only locking is selected, pressing the quick key will not unlock the door (and vice versa).
+3. Please check whether the quick key is activated by pressing it once or twice.
+4. Delete the Lock Pro from your App and re-add it.
+5. Recalibrate your Lock Pro.
 
 
 
