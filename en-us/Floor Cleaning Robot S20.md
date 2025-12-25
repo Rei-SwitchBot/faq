@@ -3381,7 +3381,10 @@ Regarding this issue, could you please check the following points?
 <img width="728" height="672" alt="image" src="https://github.com/user-attachments/assets/538d2714-fad2-4a5c-b40b-a6c2b0fdafe0" />
 
 
+---
+### Is It Possible to Pair Multiple base stations for One Floor Cleaning Robot S20?
 
+In the case of multi-floor use, it is possible to install multiple water stations and pair them on each floor. However, one S20 robot cannot be paired with multiple base stations. Please manually carry the S20 to a different floor for cleaning, then dock it at the base station for waste collection.
 
 
 
