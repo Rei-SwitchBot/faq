@@ -57,7 +57,9 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-We're happy to provide this bulb at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request the bulb, please contact us and we'll provide a shipping quote.
+The bulb for the Candle Warmer Lamp is not sold separately. We would like to offer you two options:  
+1. You can purchase a halogen bulb with the specification GU10 50W for the Candle Warmer Lamp yourself.
+2. We're happy to provide the bulb at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request the bulb, please contact us and we'll provide a shipping quote.
 Also, to help us arrange the shipment quickly, please provide the following details:
 - Purchase channel
 - Order ID
