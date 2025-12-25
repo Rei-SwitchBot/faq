@@ -1,4 +1,4 @@
-<img width="727" height="944" alt="image" src="https://github.com/user-attachments/assets/e17636c8-0aa9-4b01-9440-a7344e5528a3" />---
+---
 
 ## Lock
 
