@@ -677,6 +677,12 @@ matter対応のハブ：ハブ2、ハブミニ（matter対応）、ハブ3
 はい、一台のロックUltraは最大で7つのスマートテレビドアホンと連携できます。ご希望に合わせて、ロックUltraのBluetooth範囲内にスマートテレビドアホンを増設してください。
 
 
+---
+### ロックUltra本体のサイズはどれくらいですか
+
+ロックUltraのサイズを案内いたします。ご確認お願いいたします。
+
+<img width="834" height="681" alt="image" src="https://github.com/user-attachments/assets/42cfb914-cba4-4e8e-96ae-bc3118b3efd4" />
 
 
 
