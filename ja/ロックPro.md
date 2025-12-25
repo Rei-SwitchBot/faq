@@ -2345,3 +2345,31 @@ matter対応のハブ：ハブ2、ハブミニ（matter対応）、ハブ3
 スマートロックは住居やご家族の安全に直結する製品であるため、当社としてもこのような事象を最も重大な問題と認識しております。念のため、オート解錠機能をご利用になっているかどうか、ご確認いただけますでしょうか。
 [https://support.switch-bot.com/hc/ja/articles/25330863432727](https://support.switch-bot.com/hc/ja/articles/25330863432727)
 
+
+---
+### ロックPro本体のサイズはどれくらいですか
+
+ロックProのサイズを案内いたします。ご確認お願いいたします。
+
+<img width="774" height="791" alt="image" src="https://github.com/user-attachments/assets/91a87471-ab09-48e0-9229-f70cadc663b7" />
+
+<img width="685" height="709" alt="image" src="https://github.com/user-attachments/assets/de194e88-7b26-45f1-a607-444362dc30e9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
