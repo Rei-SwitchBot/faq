@@ -194,7 +194,112 @@ Only homeowners are eligible to subscribe to AI Studio. Subscriptions from home 
 ---
 ### Do I Need a Hub to Remotely Change the Images on SwitchBot Al Art Frame?
 
-Yes, the Al Art Frame changes images by connecting to your smartphone via Bluetooth. Therefore, you currently need to be near the device to change images. In future updates, if you have a hub product, you will be able to change images remotely. Stay tuned!
+Yes, the Al Art Frame changes images by connecting to your smartphone via Bluetooth, so a hub product is required for remote control of the images.  
+If you have a hub product, you can change the images stored on the device (up to 10 images) while away from home, but you cannot upload new images to the device from the gallery app.
+
+
+---
+### Voice Commands for Changing SwitchBot AI Art Frame Images via Alexa
+
+You will need a Hub to control your AI Art Frame using voice commands.
+You can change the images stored on the device (up to 10) using Alexa voice commands. However, it is not possible to upload new images from the gallery app to the device and make changes via voice.
+
+
+---
+### SwitchBot AI Art Frame Alexa Setup Guide
+
+1. To use the AI Art Frame with the Alexa app, you will need to purchase our hub and add both devices to the SwitchBot app.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub near your device, within Bluetooth range, and it will automatically connect to the Hub. The connection status can be checked by going to SwitchBot app -> Profile -> Manage Hubs -> Tap the appropriate hub.
+3. Please refer to the link below to connect Alexa and SwitchBot.
+[https://support.switch-bot.com/hc/en-us/articles/37114340123671](https://support.switch-bot.com/hc/en-us/articles/37114340123671)
+
+
+---
+### Troubleshooting SwitchBot AI Art Frame Gets Stuck at 90% When Syncing Images.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the AI Art Frame is connected to a Wi-Fi network. For troubleshooting, if you have other Wi-Fi devices, check whether their connections are stable.  
+2. Press the button on the back of the AI Art Frame once to connect the device, then try syncing the images again.  
+3. In the SwitchBot app, go to AI Art Frame → gear icon → Wi-Fi settings, select your smartphone's personal hotspot as the Wi-Fi network, and then try syncing the images again.  
+4. Disable the router's firewall.  
+5. Change the router's DNS server addresses to 8.8.8.8 and 8.8.4.4 (Google's public DNS servers), then try syncing the images again.
+
+
+---
+### Troubleshooting the Display Keeps Flickering When Changing Images in SwitchBot AI Art Frame.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot AI Art Frame uses color E Ink electronic paper for its display. Unlike traditional screens, E Ink works by physically moving tiny particles to create each image. During screen updates, this movement can cause brief flickering or temporary remnants of the previous image.
+Color E Ink displays typically require a slightly longer refresh time than black-and-white E Ink screens, so these visual effects may be more noticeable in color mode. This behavior is a normal characteristic of E Ink technology and not a malfunction of your device. Please feel assured that your AI Art Frame is working as intended, and you can continue to enjoy it as usual.
+If you have any further questions, we're always here to help.
+
+
+---
+### What Is the Purpose of the Three Included Acid-Free Mat Boards in SwitchBot AI Art Frame Packaging?
+
+The three additional mat boards included in the package are primarily provided as replacements. If the pre-installed mat board becomes worn, bent, or damaged over time, you'll have spares available for replacement.
+
+
+---
+### Troubleshooting After Syncing the Image to SwitchBot AI Art Frame, It Appears Rough and Grainy.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot AI Art Frame uses E Ink Spectra 6 electronic paper to display images. This screen works by physically moving small color particles, much like traditional printed art. Because of this unique technology, you may notice a visible texture or graininess when viewing the screen up close, especially within about 30 cm (12 inches).
+This textured appearance, or visible graininess, is a natural characteristic of the screen, not a defect or a sign of low resolution. For the best viewing experience, we recommend enjoying the artwork from a distance of 50 cm (20 inches) or more. At this distance, the particles blend seamlessly, and the artwork appears as intended.
+Please also note that the appearance of texture can vary depending on the image content and brightness. Some pictures may show more noticeable grain than others.
+We understand that this visual style may be different from what you expected from a digital display, and we sincerely apologize that we are unable to change this aspect of the technology. We genuinely appreciate your understanding and patience as you experience the unique aesthetic of electronic paper.
+If you have any other questions or concerns, please feel free to let us know. We're here to help.
+
+
+---
+### What Should Be Noted When Placing SwitchBot AI Art Frame?
+
+Please use the AI Art Frame indoors.  
+Operating Environments:
+Temperature: 0~40°C (32°F~104°F)
+Humidity: ≤90%
+
+
+---
+### Why Is It Not Possible To Generate Nude Artwork Using AI Studio on SwitchBot AI Art Frame?
+
+SwitchBot's generative AI technology empowers you to explore creativity, expand learning, and bring ideas to life through text-to-image or image-to-image generation. We require all users to engage with our AI Studio services in a responsible, lawful, and safe manner. Regarding the restriction regulations, we would appreciate it if you could kindly read the following link.
+[https://support.switch-bot.com/hc/en-us/articles/37216835689879](https://support.switch-bot.com/hc/en-us/articles/37216835689879)
+We apologize for any inconvenience and appreciate your understanding.
+
+
+---
+### Can the Frame of SwitchBot AI Art Frame Be Replaced?
+
+Yes, you can exchange the frame of your AI Art Frame according to your preference. When exchanging, please be sure to select a frame with an appropriate thickness that matches the size of the frames you purchased.  
+Details:  
+7.3-inch AI Art Frame → Dimensions: 20×25 cm → Requires a frame with a minimum thickness of 2 cm  
+13.3-inch AI Art Frame → Dimensions: 31×41 cm → Requires a frame with a minimum thickness of 2 cm  
+31.5-inch AI Art Frame → Dimensions: 61×91 cm → Requires a frame with a minimum thickness of 2.5 cm
+
+
+---
+### Troubleshooting When Hanging SwitchBot AI Art Frame Horizontally on the Wall, It Becomes Tilted and Cannot Be Leveled.
+
+Thank you for reaching out to us. 
+We sincerely apologize for the inconvenience caused by the AI Art Frame not hanging level when mounted horizontally. Our R&D team is actively investigating this issue, and we appreciate your patience as we work to improve the product.
+In the meantime, we would like to share an alternative mounting method that may help achieve a level display. The video guide linked below demonstrates how adjusting the placement of the adhesive hook, specifically, hooking it over the edge of the device rather than the bracket, can provide better stability and balance.
+Video guide: [https://drive.google.com/file/d/1FiUjgH-iVmnC9rDwKFeCZ5FuDrOcBJMR/view?usp=drive_link](https://drive.google.com/file/d/1FiUjgH-iVmnC9rDwKFeCZ5FuDrOcBJMR/view?usp=drive_link)
+Key point: For best results, please ensure the hook is placed over the edge of the frame, not on the central hook area shown in the video.
+
+<img width="674" height="506" alt="image" src="https://github.com/user-attachments/assets/7aa38348-0d43-4efa-a253-2c3ac2ad506e" />
+
+We understand this is not an ideal solution and again apologize for the trouble this has caused. If you have any further questions or need additional assistance, please do not hesitate to let us know. We are here to help.
+
+
+
+
+
+
+
 
 
 
