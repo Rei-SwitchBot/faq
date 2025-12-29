@@ -508,6 +508,13 @@ Regarding this issue, could you please check the following points?
 <img width="834" height="681" alt="image" src="https://github.com/user-attachments/assets/03f4f322-f88a-4f4f-9ca1-9e8d55a41f66" />
 
 
+---
+### How to Use the Direction Tape Included with SwitchBot Lock Ultra
+
+After calibrating the Lock Ultra’s locking and unlocking positions using the SwitchBot App, you can apply the included direction tape to the Lock Ultra as desired to make these positions more visible.  
+The image below shows an example with the stickers applied. If you prefer, you can choose not to use them.
+
+<img width="1280" height="1112" alt="image" src="https://github.com/user-attachments/assets/ed04cc85-6146-415e-8fa8-d2548741d6b6" />
 
 
 
