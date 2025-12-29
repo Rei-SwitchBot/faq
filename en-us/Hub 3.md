@@ -637,5 +637,21 @@ Regarding this issue, could you please check the following points?
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/576a643b-c4f4-4825-a7b5-581dad91ffd1" />
 
 
+---
+### How to Display Local Weather on SwitchBot Hub 3 Screen
+
+Set the Weather Forecast for your Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Displayed Info".
+- Enable "Weather Data".
+SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 is located -> Set up home location
+
+Once completed, the Hub 3 display shows a 24-hour weather overview for the day. The weather forecast is updated hourly, with various weather conditions such as snow and rain indicated by icons, along with the day's high and low temperatures.
+
+
+
+
+
 
 
