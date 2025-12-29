@@ -685,6 +685,13 @@ matter対応のハブ：ハブ2、ハブミニ（matter対応）、ハブ3
 <img width="834" height="681" alt="image" src="https://github.com/user-attachments/assets/42cfb914-cba4-4e8e-96ae-bc3118b3efd4" />
 
 
+---
+### ロックUltraの施解錠表示シールの使用方法
+
+SwitchBotアプリでロックUltraの施錠・解錠位置を記録した後、ご希望に応じてパッケージ内の施解錠表示シールをロックUltra本体に貼り付けることで、記録済みの施錠位置と解錠位置をより分かりやすく確認できます。  
+下図は貼り付けた後のイメージですが、必要ない場合はこのシールを使用しなくても問題ありません。
+
+<img width="1280" height="1112" alt="image" src="https://github.com/user-attachments/assets/d3bff8cb-79b7-46a8-a68b-a0ae7b062c05" />
 
 
 
