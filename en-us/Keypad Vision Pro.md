@@ -436,6 +436,28 @@ Temporary palm veins are valid for a limited period of time.
 If the number of saved palm veins exceeds the limit, you must delete some before adding a new one.
 
 
+---
+### Is It Possible To Keep SwitchBot Keypad Vision Pro Backlight on at All Times?
+
+We regret to inform you that it is not possible to set the backlight for the Keypad Touch, Keypad, or Keypad Vision Pro to remain constantly illuminated. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+Note:
+When using the device in a dark environment, it cannot automatically adjust the backlight based on the surrounding brightness while in standby mode; however, pressing any button on the device will activate the backlight.
+
+
+---
+### Is It Possible to Add the Password for SwitchBot Keypad Vision Pro Remotely?
+
+When the Keypad Vision Pro is installed within the Bluetooth range of the hub, it will automatically connect to the hub and network. Once networked, you can remotely add or delete passwords.  
+Note:
+1. Remote addition and deletion of passwords are supported; however, remote editing of existing passwords is not. If necessary, please delete the old password before creating a new one.
+2. Adding faces, fingerprints, and NFC cards remotely is not supported.
+
+
+---
+### Can I Use the Solar Panel from SwitchBot Smart Video Doorbell to Charge SwitchBot Keypad Vision Pro?
+
+Yes, the solar panels of the Smart Video Doorbell and the Keypad Vision Pro can be used interchangeably.
+
 
 
 
