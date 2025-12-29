@@ -56,6 +56,28 @@ Regarding this issue, please use the latest version of the SwitchBot app from th
 We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
 
 
+---
+### How to Create and Switch Homes in SwitchBot App
+
+Please use the latest version of the SwitchBot app from the app store. 
+Create homes
+- Launch SwitchBot App and log in.
+- Tap My Home in the upper left corner. (The default home name will be My Home.)
+- Tap "Manage Homes".
+- Tap "Create Home" in the lower right corner of the Manage Homes screen.
+- Enter a name for the shared home and tap Create.
+
+Once your home is created, please switch to your desired home using the following steps.
+
+Switch Homes
+- Launch SwitchBot App and log in.
+- Tap My Home in the upper left corner. (The default home name will be My Home.)
+- You can see a list of other created homes and homes you have joined.  
+- Tap the target home to switch.
+
+
+
+
 
 
 
