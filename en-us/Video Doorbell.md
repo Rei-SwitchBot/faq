@@ -817,6 +817,13 @@ Note:
 When you delete and re-add the device, you can also update the Wi-Fi information.
 
 
+---
+### Can I Use the Solar Panel from SwitchBot Smart Video Doorbell to Charge SwitchBot Keypad Vision Pro?
+
+Yes, the solar panels of the Smart Video Doorbell and the Keypad Vision Pro can be used interchangeably.
+
+
+
 
 
 
