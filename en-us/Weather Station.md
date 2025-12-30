@@ -132,6 +132,93 @@ You can sync up to five personal calendars to the Weather Station.
 To ensure accurate weather data, the Weather Station automatically connects to the internet and updates the information every three hours. In contrast, calendar data and AI-recommended content are updated automatically once a day at midnight. If necessary, press and hold the device's top button for 2 seconds to manually update the data and instantly view the latest weather information and any changes to calendar events.
 
 
+---
+### How Many Scenes Can Be Linked to SwitchBot Weather Station?
+
+Up to two SwitchBot scenes can be linked to the Weather Station. By registering scenes, you can control home appliances such as room light and air condition. When the Weather Station displays the weather or AI recommendation page, briefly press the two buttons at the bottom right of the screen to activate the associated scene.  
+Note: Operating scenes on the Weather Station requires our hub device.
+
+<img width="1110" height="713" alt="image" src="https://github.com/user-attachments/assets/31bc1552-e3fa-48ac-952c-ab86e68c8cae" />
+
+
+---
+### Why Does the Screen of SwitchBot Weather Station Flicker Periodically?
+
+The Weather Station features a monochrome e-ink display. When the partial refresh count in the clock area reaches a certain threshold, a full-screen refresh is required to maintain display quality. Additionally, to ensure weather data accuracy, the Weather Station automatically connects to the internet every 3 hours to update weather information. During this data refresh, the device will perform a full-screen refresh. The resulting screen flickering is a characteristic of the device and does not affect normal operation. Please feel free to use it.
+
+
+---
+### What Is the Accuracy of the Temperature and Humidity Measurements of SwitchBot Weather Station?
+
+1. In normal cases, the readings of the Weather Station have a ±0.2°C difference in temperature and a ±2% difference in humidity.
+
+2. Temperature accuracy overall:
+±0.4°C at -20°C to 0°C
+±0.2°C at 0°C to 65°C
+±0.3°C at 65°C to 80°C
+
+3. Humidity accuracy overall:
+±2% (at 25°C, 10%~90%RH)
+±4% (at 25°C, 0%~10%, 90%~99%RH)
+
+4. Calibration is recommended in case of temperature/humidity differences.
+
+
+---
+### How to Add SwitchBot Weather Station to SwitchBot App
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Please turn on the Weather Station.
+
+3. Insert the included microSD card into the Weather Station.
+
+4. Add your Weather Station to SwitchBot App in the following order:
+- Launch SwitchBot App and log in.
+- Tap "+" icon in the upper right corner.
+- Tap "Add Device".
+- Scroll down and tap "Weather Station" in the "Sensor" section.
+- Press and hold the button on the back of the device for two seconds.
+- Tap "Connect Device" to connect the device.
+- Once the connection is established, enter the SSID and password for the 2.4 GHz network.
+- Tap "Start Using" to finish pairing.
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.   
+When using it for the first time, the Weather Station will automatically update and download data, which may take some time, so please wait patiently.
+
+
+---
+### How to Display Local Weather on SwitchBot Weather Station Screen
+
+1. Set the Local Weather for your Weather Station in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Weather Station.
+- Tap "Displayed Info".
+- Tap the home location.
+- Set the home location.
+
+2. After completing the setup, press and hold the button on the top of the device for 2 seconds to trigger an automatic update and retrieve the latest weather data.
+
+Note:
+You can also set your home location by navigating to SwitchBot App -> Profile -> Manage Home -> Home where your Weather Station is located.
+The Weather Station automatically connects to the internet and updates the weather information every three hours.
+Your home location is set by you. We only store your city information and do not actively track your precise location.
+
+
+---
+### How to Switch the Temperature Unit of SwitchBot Weather Station to Fahrenheit?
+
+We will explain the functions of the button on the back of the weather station.
+1. Press the button on the back of the Weather Station once to toggle between Fahrenheit and Celsius.
+2. To add your Weather Station to the SwitchBot App, press and hold the button for 2 seconds to enter pairing mode.
+3. To reset your device to factory settings, press and hold the button for 15 seconds.
+
+To change the temperature unit in the SwitchBot app, follow these steps:
+Tap Profile -> Tap Preferences -> Tap Temperature Unit, select your preferred unit.
+
 
 
 
