@@ -2531,8 +2531,7 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 2. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2548,8 +2547,7 @@ Note: Depending on the lot, the latest firmware versions for the lock are 7.0 an
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure that you are using the latest* firmware version of your Lock and Hub. If not, please update the firmware near your device by going to SwitchBot App -> Lock/Hub -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. Make sure that the hub is connected to a stable Wi-Fi network.
 3. Make sure that the lock is within Bluetooth range (recommended 5 meters) of the Hub.
 4. Log out of the SwitchBot app, then log in again to confirm that you can connect the lock to the hub.
@@ -2606,8 +2604,7 @@ If this is okay for you, please provide us with the necessary details so we can 
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
  
 2. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2629,9 +2626,7 @@ Regarding this issue, could you please check the following points?
 
 3. Make sure that your phone's system allows push notifications from the SwitchBot App. This can usually be found in your phone's notification settings.
 
-
-4. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+4. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
  
 5. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2693,8 +2688,7 @@ If the issue persists, please record a short video showing the calibration proce
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 2. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2751,8 +2745,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
  
 2. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2773,8 +2766,8 @@ Regarding this issue, could you please share us a screenshot of the error messag
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Try replacing batteries with two Panasonic CR123A 3V to troubleshoot the issue. When installing the battery, please make sure that it is facing the right way.
-2. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+
+2. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
  
 3. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2800,8 +2793,7 @@ Note: The side with double-sided tape and the opposite side can't be detected.
 
 <img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/46bff786-1ab9-4572-a197-819d03ad1184" />
 
-4. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+4. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
  
 5. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
@@ -2819,8 +2811,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app available on the app store.  
 2.  Make sure the lock's battery level is sufficient. If necessary, replace with the two Panasonic CR123A 3V batteries and check if the issue is resolved.  
-3. Make sure that you are using the latest* firmware version of your Lock. If not, please update the firmware near your device by going to SwitchBot App -> Lock -> Gear Icon -> Firmware & Battery.
-Note: Depending on the lot, the latest firmware versions for the lock are 7.0 and 7.5. Both are the latest versions and there are no differences in usage. If you have version 7.0, there is no need to update to version 7.5. If you have a version older than 7.0, feel free to contact us to request a firmware update.
+3. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
  
 4. After updating, recalibrate your Lock.
 *SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
