@@ -1096,7 +1096,11 @@ The positioning magnet of Curtain 3 is determined by the host unit. If you only 
 The Curtain 3 can operate up to 10 meters in one direction. However, due to battery consumption, noise, and potential loss of driving force from extended use on longer tracks, we recommend a maximum single track length of 3 meters. If you do not mind increased battery usage, noise, and reduced driving force, you are welcome to purchase it anytime from our official website.
 
 
+---
+### How to Quick Calibrate SwitchBot Curtain 3 U-Rail
 
+Please use the link below to calibrate your smart Curtain.
+[https://support.switch-bot.com/hc/en-us/articles/35613575150359](https://support.switch-bot.com/hc/en-us/articles/35613575150359)
 
 
 
