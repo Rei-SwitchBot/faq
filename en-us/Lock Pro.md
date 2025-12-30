@@ -1459,7 +1459,7 @@ We sincerely apologize, but the cost for locksmith services would need to be cov
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please try replacing all four 1.5V AA batteries with new ones to troubleshoot the issue.
-2. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+2. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 3. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
@@ -1482,7 +1482,7 @@ Regarding this issue, could you please check the following points?
  <img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/d6f92a58-bca4-4f2d-a248-2d0e840fd148" />
 
 2. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
-3. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+3. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
@@ -1504,7 +1504,7 @@ https://support.switch-bot.com/hc/en-us/articles/4424755304215
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+1. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 2. Please recalibrate your Lock Pro.
 [https://support.switch-bot.com/hc/en-us/articles/20338729091223](https://support.switch-bot.com/hc/en-us/articles/20338729091223-How-to-Calibrate-or-Recalibrate-SwitchBot-Lock-Pro)
 
@@ -1551,7 +1551,7 @@ Regarding this issue, could you please check the following points?
 <img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/49096064-514b-49ee-bb86-be846b675845" />
 
 5. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
-6. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+6. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 7. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
@@ -1562,7 +1562,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Pull out the rechargeable batteries A and B and then reattach them.
 2. Lock and unlock the Lock Pro.
-3. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+3. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 4. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
@@ -1585,7 +1585,7 @@ Regarding this issue, could you please check the following points?
 <img width="672" height="442" alt="image" src="https://github.com/user-attachments/assets/632a9cc4-65ba-4b6b-9859-580678742773" />
 
 5. When calibrating, lock in Step 1, unlock in Step 2, lock again in Step 3, close the door about one fist away (approximately 10cm), and tap "Next" on the SwitchBot app. Make sure there is no signal interference during calibration by keeping metal objects like smartphones or watches at least 30cm away from Lock Pro.
-6. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+6. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 7. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 
 
@@ -1603,7 +1603,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+1. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 2. Long press the Lock Pro on the app to delete it and then re-add it to see if it helps.
 Important Note: Deleting and re-adding the Lock Pro will clear all previous logs.
 
@@ -1614,7 +1614,7 @@ Important Note: Deleting and re-adding the Lock Pro will clear all previous logs
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Go to the SwitchBot App, tap your Lock Pro to access the operation screen, and lock/unlock it once to check if the logs can be synced.
-2. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+2. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 3. Remove Lock Pro from the SwitchBot app, then re-add and calibrate it.
 Important Note: Deleting and re-adding the Lock Pro will clear all previous logs.
 
@@ -1624,7 +1624,7 @@ Important Note: Deleting and re-adding the Lock Pro will clear all previous logs
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+1. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 2. Long press the Lock Pro on the app to delete it and then re-add it to see if it helps.
 Important Note: Deleting and re-adding the Lock Pro will clear all previous logs.
 
@@ -1634,7 +1634,7 @@ Important Note: Deleting and re-adding the Lock Pro will clear all previous logs
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please confirm that the firmware version is 3.0 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
+1. Please confirm that the firmware version is 3.4 or later by going to SwitchBot app > Lock Pro > Gear Icon > Firmware & Battery.
 2. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
 3. Recalibrate your Lock Pro.
 [https://support.switch-bot.com/hc/en-us/articles/20338729091223](https://support.switch-bot.com/hc/en-us/articles/20338729091223-How-to-Calibrate-or-Recalibrate-SwitchBot-Lock-Pro)
