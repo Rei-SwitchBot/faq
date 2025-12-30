@@ -1088,3 +1088,26 @@ The positioning magnet of Curtain 3 is determined by the host unit. If you only 
 2. Place Curtain 3 near the hub (within Bluetooth range), it will automatically connect to the hub. 
 3. Follow the link below to connect it with Alexa.
 [https://support.switch-bot.com/hc/en-us/articles/360051462654](https://support.switch-bot.com/hc/en-us/articles/360051462654-SwitchBot-Curtain-Curtain-3-Alexa-Setup-Guide)
+
+
+---
+### How Many Meters Can SwitchBot Curtain 3 Move at Maximum?
+
+The Curtain 3 can operate up to 10 meters in one direction. However, due to battery consumption, noise, and potential loss of driving force from extended use on longer tracks, we recommend a maximum single track length of 3 meters. If you do not mind increased battery usage, noise, and reduced driving force, you are welcome to purchase it anytime from our official website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
