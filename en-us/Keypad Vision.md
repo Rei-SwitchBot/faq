@@ -53,6 +53,7 @@ The button at the bottom of the Keypad Vision can be customized in the SwitchBot
 Setting up the button by going to SwitchBot App -> Keypad Vision -> Gear Icon -> Button Settings -> Rings -> Paired Device
 Please enable Quick Unlocking feature by going to SwitchBot app -> Keypad Vision -> Gear icon to communicate faster with Ultra or Hub 3.
 
+
 ---
 ### Troubleshooting SwitchBot Keypad Vision Won't Power on
 
