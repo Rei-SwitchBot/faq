@@ -136,6 +136,10 @@ To add your Home Climate Panel to the SwitchBot App, press and hold the on and o
 To reset your device to factory settings, press and hold the on and off buttons simultaneously for 15 seconds.
 If you add SwitchBot devices or scenes to the on and off buttons on the Home Climate Panel, you can control them simply by pressing the button.
 
+Note:
+To change the temperature unit in the SwitchBot app, follow these steps:
+Tap Profile -> Tap Preferences -> Tap Temperature Unit, select your preferred unit.
+
 
 ---
 ### Is It Possible to Disable SwitchBot Home Climate Panel's Backlight That Automatically Turns on with Motion?
