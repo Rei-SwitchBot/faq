@@ -1609,12 +1609,31 @@ Note:
 After enabling "Reverse On/Off Directions", there will be no change in position of icons for Bot "on" and "off" in SwitchBot app.
 
 
-
 ---
 ### What Is the Use of SwitchBot Bot's Password?
 
 After setting a password for your Bot, in order to improve the convenience of operation, you will need to enter the password for the first operation, and then you do not need to enter it again. 
 The Bot with a password set cannot be re-added even if it is within the Bluetooth range of other SwitchBot users' smartphones. In addition, if the Bot is not added to the SwitchBot application and is used through "Bot Nearby", after setting a password, other users cannot operate the Bot even within Bluetooth range.
 When you open the Bot's cover, you will find the reset button. Pressing it once will restore the Bot to its factory settings and erase any configured passwords.
+
+
+---
+### How to Install SwitchBot Bot
+
+Please click the link below and install the bot by following the video instructions.
+[https://support.switch-bot.com/hc/en-us/articles/37313265519639](https://support.switch-bot.com/hc/en-us/articles/37313265519639)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
