@@ -163,7 +163,26 @@ We apologize for any inconvenience this may cause. Please rest assured that we w
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### How to Add SwitchBot Home Climate Panel to SwitchBot App
 
+1. Make sure your SwitchBot App version is up to date.
+
+2. Please turn on the Home Climate Panel.
+
+3. Insert the included microSD card into the Home Climate Panel.
+
+4. Add your Home Climate Panel to SwitchBot App in the following order:
+- Launch SwitchBot App and log in.
+- Tap "+" icon in the upper right corner.
+- Tap "Add Device".
+- Scroll down and tap "Home Climate Panel" in the "Sensor" section.
+- Simultaneously press and hold the ON/OFF button for two seconds.
+- Tap "Connect Device" to connect the device.
+- Once the connection is established, tap "Start Using" to finish pairing.
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 
 
 
