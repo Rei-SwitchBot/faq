@@ -469,8 +469,6 @@ Our support team can assist you with a replacement shade. Please note, the shade
 If you wish to proceed, please use the following link to pay the shipping fee:
 [https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239](https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239)
 After completing the payment, kindly provide the order number starting with #JP and the necessary details so we can assist you as soon as possible.
-
----
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -482,11 +480,8 @@ After completing the payment, kindly provide the order number starting with #JP 
 - ZIP/Postal Code
 - A screenshot of your order
 
----
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-Thank you for your understanding, and we're here to support you if you need further assistance!
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Please note that the accessories are shipped from our Hong Kong warehouse and it takes about two weeks to arrive. We appreciate your patience and understanding!
 
 
 ---
