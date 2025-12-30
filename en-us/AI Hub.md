@@ -30,7 +30,7 @@ No, AI Hub cannot learn infrared remote controls. If you need infrared remote co
 - Launch SwitchBot App and log in.
 - Tap "+" icon in the upper right corner.
 - Tap "Add Device".
-- Scroll down and tap "AI Hub" in the "" section.
+- Scroll down and tap "AI Hub" in the "Hub" section.
 - Tap "Connect Device" to connect the device.
 - Agree our Privacy Policy for AI Hub.
 - Once the connection is established, enter the SSID and password for the 2.4 GHz or 5 GHz Wi-Fi network.
