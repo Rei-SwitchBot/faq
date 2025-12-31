@@ -220,14 +220,113 @@ To change the temperature unit in the SwitchBot app, follow these steps:
 Tap Profile -> Tap Preferences -> Tap Temperature Unit, select your preferred unit.
 
 
+---
+### How to Assign SwitchBot Scenes to the Custom Buttons of SwitchBot Weather Station
+
+1. Create SwitchBot scenes first.
+[https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
+2. Please assign SwitchBot Scenes to the ON/OFF buttons of the Weather Station in the following order:  
+Launch SwitchBot App and log in.  
+Tap your Weather Station.  
+Tap the Custom Buttons.  
+Select your desired scene for Button A.
+Select the target scene for Button B using the same method.  
+
+Note:  
+To operate SwitchBot scenes using the Weather Station, you will need a hub. Additionally, the Weather Station must be installed within the hub's Bluetooth range.
 
 
+---
+### How to Set Temperature and Humidity Alert Conditions for SwitchBot Weather Station
+
+1. Please set alert conditions in the following order.
+- Launch SwitchBot App and log in.
+- Tap Weather Station.
+- Tap the gear icon in the upper right corner.
+- Tap "Alert Conditions".
+- Enable and set the alert range for temperature, humidity, absolute humidity, dew point, and VPD as needed.
+- Enable "Alert Sound & Light" if you would like the screen to flash or an alarm to sound when the alert setpoint is reached.
+
+<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/6aecdf83-80cd-4d4f-af74-717a66ce5c60" />
+
+Note:  
+When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
 
 
+---
+### How to Set an Alarm for SwitchBot Weather Station
+
+1. Please set an alarm for your Weather Station in the following order:
+Launch SwitchBot App and log in.
+Tap your Weather Station.
+Tap the gear icon in the upper right corner.
+Tap "Alarm Settings" on the settings screen.
+Tap "+Add".
+Set an alarm according to your needs and save it.
+
+Note:
+You can set up to 3 alarms for your Weather Station.
+When the set time arrives, the alarm will sound. Press and hold the top button for 2 seconds to dismiss the alarm. A single short press activates snooze mode. After snoozing, the alarm will sound again in 10 minutes. You can snooze up to 3 times.
 
 
+---
+### How to Change the Units of Wind Speed, Air Pressure, and Visibility Displayed on SwitchBot Weather Station?
+
+1. Please set an alarm for your Weather Station in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Weather Station.
+- Tap "Displayed Info".
+- Tap "Units" to set the units for wind speed, pressure, and visibility.
 
 
+---
+### How to Change the Time Display on SwitchBot Weather Station Display to 12-Hour
+
+1.  Change the time display in the following order.
+- Launch SwitchBot App and log in.
+- Tap Weather Station.
+- Tap "Displayed Info".
+- Disable "24-hour time".
+
+With the above settings, the time display on your Weather Station will be changed to 12-hour time.
+
+
+---
+### How to Attach the Brackets to SwitchBot Weather Station
+
+Please install the brackets onto the weather station using the following method.  
+1. Remove the bracket from the packaging. Align the protruding part with the mounting holes on the back of the weather station, insert it, and push upward to secure it.
+2. Install the other bracket following the same procedure.
+
+<img width="1114" height="728" alt="image" src="https://github.com/user-attachments/assets/e9ed35eb-e668-4f37-8433-6e44351a7bda" />
+
+
+---
+### How to Wall-Mount SwitchBot Weather Station
+
+Please secure the Weather Station to the wall using the following method.
+1. Before installation, make sure the wall surface is clean and free of dust.
+2. Peel off the backing of the adhesive pad and affix it to the designated area on the back of the Weather Station.
+3. Remove the wall mounting bracket from the package, peel off the backing, and attach it to the wall. Press firmly for at least 30 seconds to ensure a secure hold.
+4. Align the mounting holes on the back of the weather station with the protruding points on both sides of the bracket. Insert the station and press down firmly to lock it in place.
+
+<img width="798" height="987" alt="image" src="https://github.com/user-attachments/assets/b324c089-ee32-4030-a8d7-483dbd0c823e" />
+
+
+---
+### How to Restart SwitchBot Weather Station
+
+Using the reset pin or a slender tool, press and hold the reset hole for 3 seconds until the indicator lights up, then release the button. Once the screen updates, the reboot is complete.
+
+<img width="774" height="602" alt="image" src="https://github.com/user-attachments/assets/9732c006-755a-4afa-82b1-9e0e85f602c0" />
+
+
+---
+### How to Reset SwitchBot Weather Station
+
+Press and hold the button on the back of the Weather Station for 15 seconds to reset the device. After the reset, all Wi-Fi information and settings will be restored to factory default.
+
+<img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/e2a13fec-bf3a-4226-915c-30ab51357dd0" />
 
 
 
