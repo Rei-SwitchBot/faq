@@ -148,19 +148,13 @@ SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
 ---
 ### How to Change the Time Display on SwitchBot Meter Pro Display to 12-Hour
 
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure your Meter Pro has been added to your App.
-
-3. Change the time display in the following order.
+1. Change the time display in the following order.
 - Launch SwitchBot App and log in.
 - Tap Meter Pro.
 - Tap gear icon in the upper right corner.
 - Tap "Panel Display".
 - Disable "24-hour time".
 With the above settings, the time display on your Meter Pro will be changed to 12-hour time.
-
-4. If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.
 
 
 ---
