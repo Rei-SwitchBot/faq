@@ -459,7 +459,12 @@ Note:
 Yes, the solar panels of the Smart Video Doorbell and the Keypad Vision Pro can be used interchangeably.
 
 
+---
+### How Is the Indicator Displayed on the SwitchBot Keypad Vision Pro While Charging?
 
+1. When charging with a 5V2A adapter, if the power button on the back of the Keypad Vision Pro is turned on, the indicator light will glow red during charging and turn off when fully charged. If the power button on the back of the Keypad Vision Pro remains off, it can still be charged, but the indicator light will not turn on, and locking or unlocking cannot be done through it.  
+2. When charging with a solar panel, if the power button on the back of the Keypad Vision Pro is turned on, the indicator light will first glow red once and then turn off. If the power button on the back of the Keypad Vision Pro remains off, it can still be charged, but the indicator light will not turn on, and locking or unlocking cannot be done through it.
+3. When powered on, whether using a charger or a solar panel, you can unlock the door with Keypad Vision Pro, including palm veins and facial recognition.
 
 
 
