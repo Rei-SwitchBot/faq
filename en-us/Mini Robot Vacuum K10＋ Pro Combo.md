@@ -152,19 +152,19 @@ We sincerely apologize for the inconvenience you’ve experienced with our produ
 Regarding the issue with your cordless vacuum cleaner not charging, could you please check the following points for us?
 1. Make sure the dust collection bracket is properly seated in the dual empty station. Refer to the image provided and make sure the back gray plate is flat, with no dents or protrusions.
 
-![image](https://github.com/user-attachments/assets/383832a6-115c-4cbc-b5c1-6a380dedddfb)
+<img width="1030" height="820" alt="image" src="https://github.com/user-attachments/assets/a0ea048e-9b51-470c-aa5b-041595731191" />
 
 2. Open the lid of the dual empty station and check if the four screws (especially the ones marked with red arrows in the image) are securely tightened. If they’re loose, please use a screwdriver to tighten them.
 
-![image](https://github.com/user-attachments/assets/da0e4615-249b-475b-8fb8-d75b03e2a15f)
+<img width="851" height="871" alt="image" src="https://github.com/user-attachments/assets/cde6e4ce-4a82-4975-afd5-1ed1fc5a5b7b" />
 
 3. Please check if the charging terminals on the dust-empty bracket are bent or damaged.
 
-![image](https://github.com/user-attachments/assets/25fea5ac-4d4c-4f39-8a88-5c533cedd819)
+<img width="416" height="856" alt="image" src="https://github.com/user-attachments/assets/e33e7837-a3fa-41bd-846a-a5e40fbe8fea" />
 
 4. If the dust collection bracket seems fine, please verify if the magnet on the dust cup of the cordless vacuum cleaner is intact.
 
-![image](https://github.com/user-attachments/assets/3834f855-7dd4-4c7c-b902-77515b2d6f6e)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed8f51c1-c62f-4a83-8539-849146be7fc0" />
 
 5. After checking the above, please reach out to our support team with the results. It would be incredibly helpful if you could include photos of the items checked in steps 1, 3, and 4.
 
@@ -183,7 +183,9 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 We truly appreciate your patience and cooperation in resolving this matter. Please don’t hesitate to let us know if you have any further questions or need additional assistance.
 
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 
 ---
