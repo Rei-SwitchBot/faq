@@ -517,9 +517,51 @@ The image below shows an example with the stickers applied. If you prefer, you c
 <img width="1280" height="1112" alt="image" src="https://github.com/user-attachments/assets/ed04cc85-6146-415e-8fa8-d2548741d6b6" />
 
 
+---
+### How to Install SwitchBot Lock Ultra on MIWA B5 and U1 Door Locks Using a Special Thumbturn Holder (Only for Japan)
+
+We will guide you through the process of installing Lock Ultra on the MIWA B5 and U1 door locks with a video. 
+Video: [https://www.youtube.com/watch?v=WiiPP9-_t-4](https://www.youtube.com/watch?v=WiiPP9-_t-4)
+
+If  you wish to obtain this special thumbturn holder, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*The thumbturn holder shown in the video is specifically designed for the MIWA B5 and U1 door locks. If your door lock model is anything other than these two, please do not apply.
+*The accessory will be shipped from our Hong Kong warehouse and should arrive in Japan in about two weeks.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### How to Make SwitchBot Lock Ultra Emit an Alarm When the Door Is Not Closed or Locked
 
+1． Make sure your SwitchBot App version is up to date.
+2． Make sure SwitchBot Lock Ultra has been added to your App.
+3． Enable app notifications for your SwitchBot App.
+- Launch SwitchBot App and log in.
+- Tap on "Profile" at the bottom right.
+- Tap on "Preferences".
+- Tap on "App Notifications" and enable it.
 
+4． Set up Alarms for SwitchBot Lock Ultra:
+- Launch SwitchBot App and log in.
+- Tap the SwitchBot Lock Ultra.
+- Tap the gear icon at the top right.
+- Tap on "Alarms" in the Settings screen.
+- Enable "Door Ajar" and set the specified time.
+- Enable "Left Unlocked" and set the specified time.
+5． With these settings, the Lock device will beep three times when the specified time is reached. When used with the SwitchBot Hub series products, you will also receive a notification on your smartphone in addition to the beep.
+Note：
+- For iOS devices, if you're using the SwitchBot App and don't receive notifications at the set time, it's not a bug. This is due to a limitation with the iOS system: notifications won't be delivered if you are actively using the SwitchBot App at the time the notification is scheduled to be sent. iOS only sends app notifications when the app is running in the background or the device is locked, among other conditions. So, if you remain in the SwitchBot App when the conditions for a notification are met, you will not receive the notification.
+- There are no such restrictions on Android devices.
 
 
