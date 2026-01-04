@@ -440,7 +440,14 @@ Note:
 2. Adding faces, fingerprints, and NFC cards remotely is not supported.
 
 
+---
+### What Charging Adapter Should I Use to Charge SwitchBot Keypad Vision?
 
+Please use a 5V2A charging adapter for the Keypad Vision. It takes about 6 hours to fully charge the Keypad Vision. While charging, the indicator will light up in red and change to green when charging is complete. 
+Note:
+If an adapter below specifications (for example, 5V1A) is used, the indicator on the device will flash alternately between red and green to indicate a charging abnormality.
+During charging, the facial recognition feature on the Keypad Vision cannot be used. Please use passcodes, fingerprints, or NFC cards to lock your door lock.
+Currently, charging the Keypad Vision with a solar panel is not supported.
 
 
 
