@@ -272,7 +272,7 @@ When the set time arrives, the alarm will sound. Press and hold the top button f
 ---
 ### How to Change the Units of Wind Speed, Air Pressure, and Visibility Displayed on SwitchBot Weather Station?
 
-1. Please set an alarm for your Weather Station in the following order:
+1. Please change the units of wind speed, air pressure, and visibility displayed on SwitchBot Weather Station in the following order:
 - Launch SwitchBot app and log in.
 - Tap your Weather Station.
 - Tap "Displayed Info".
