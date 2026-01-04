@@ -2230,7 +2230,28 @@ Regarding this issue, could you please check the following points?
 5. Recalibrate your Lock Pro.
 
 
+---
+### How to Make SwitchBot Lock Pro Emit an Alarm When the Door Is Not Closed or Locked
 
+1． Make sure your SwitchBot App version is up to date.
+2． Make sure SwitchBot Lock Pro has been added to your App.
+3． Enable app notifications for your SwitchBot App.
+- Launch SwitchBot App and log in.
+- Tap on "Profile" at the bottom right.
+- Tap on "Preferences".
+- Tap on "App Notifications" and enable it.
+
+4． Set up Alarms for SwitchBot Lock Pro:
+- Launch SwitchBot App and log in.
+- Tap the SwitchBot Lock Pro.
+- Tap the gear icon at the top right.
+- Tap on "Alarms" in the Settings screen.
+- Enable "Door Ajar" and set the specified time.
+- Enable "Left Unlocked" and set the specified time.
+5． With these settings, the Lock device will beep three times when the specified time is reached. When used with the SwitchBot Hub series products, you will also receive a notification on your smartphone in addition to the beep.
+Note：
+- For iOS devices, if you're using the SwitchBot App and don't receive notifications at the set time, it's not a bug. This is due to a limitation with the iOS system: notifications won't be delivered if you are actively using the SwitchBot App at the time the notification is scheduled to be sent. iOS only sends app notifications when the app is running in the background or the device is locked, among other conditions. So, if you remain in the SwitchBot App when the conditions for a notification are met, you will not receive the notification.
+- There are no such restrictions on Android devices.
 
 
 
