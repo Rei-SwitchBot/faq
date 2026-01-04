@@ -145,7 +145,11 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting SwitchBot Cordless Vacuum Cleaner Won't Charge
 
+If the dust cup has a magnet, we will arrange shipping of the dust collection bracket.
+On the other hand, if the dust cup does not have a magnet, we will arrange for a dust cup.
 
 
 
