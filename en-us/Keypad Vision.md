@@ -8,6 +8,8 @@
 ### What Is the Operating Temperature Range for SwitchBot Keypad Vision?
 
 The Keypad Vision works in temperatures from -20°C to 45°C (-4°F~113°F).
+Note:
+Due to the characteristics of lithium batteries, battery life shortens when temperatures drop in winter. In environments as cold as minus 20°C, battery life can decrease by 40 to 50%. It is recommended to regularly check the battery level and charge it frequently.
 
 
 ---
