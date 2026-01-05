@@ -823,7 +823,10 @@ When you delete and re-add the device, you can also update the Wi-Fi information
 Yes, the solar panels of the Smart Video Doorbell and the Keypad Vision Pro can be used interchangeably.
 
 
+---
+### Can the Doorbell Be Charged without Turning on Power?
 
+No, if the power button of the doorbell is not turned on, the device's circuit will be disconnected, and the doorbell cannot be charged. Therefore, please make sure to turn on the power button on the back of the doorbell before charging.
 
 
 
