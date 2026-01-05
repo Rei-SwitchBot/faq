@@ -138,7 +138,20 @@ The SwitchBot cameras compatible with the AI Hub are the Pan Tilt Cam Plus 3K, P
 - Outdoor Spotlight Cam 2K
 
 
+---
+### What Are the Differences Between the Master Hub, Slave Hubs, and Isolated Hubs Displayed on the "Manage Hub" Screen?
 
+1. If an AI Hub has not been added to your SwitchBot account, the "Manage Hub" screen will not display the grouping of Master Hub, Slave Hubs, and Isolated hubs. Instead, all hub devices will be shown in a list.   
+2. Once an AI Hub or other hub products (such as the Hub Mini or Hub 2) have been active in your app for more than 12 hours, the system automatically organizes them into a hierarchy. The AI Hub functions as the Master Hub, while other standard hubs, like the Hub Mini, automatically become Slave Hubs.
+3. If your account has multiple AI Hubs, the system will intelligently select the one with the most stable connection and the highest number of scanned devices as the Master Hub. The remaining AI Hubs will be designated as Backup Hubs. If the Master Hub fails or loses power, a Backup Hub will automatically take over as the new Master Hub.
+4. The primary advantage of the AI Hub is its support for local automation. Acting as your Master Hub, the AI Hub significantly reduces the response time for automation triggers. More importantly, your automations will continue to function even if your internet connection goes down, as long as the AI Hub remains connected to your local area network (LAN).
+[https://support.switch-bot.com/hc/en-us/articles/36405172630039](https://support.switch-bot.com/hc/en-us/articles/36405172630039)
+
+Important Things to Know:
+1. Hub Mini, Hub 2, Hub 3, and similar devices are supported as Slave Hubs; however, Video Doorbell and Ceiling Light cannot yet function as Slave Hubs and will be shown as Isolated Hubs.
+2. If the AI Hub malfunctions or loses power, the Slave Hubs will become Isolated Hubs, causing both the group of Slave Hubs and the Master Hub to automatically disappear. In this case, your automations will switch from "Local" to "Cloud" mode until the AI Hub is back online.
+3. If your home router does not support mDNS, the app will not be able to group your hub products into Master and Slave roles. 
+4. Regardless of its role, any hub device that loses its network connection for more than 5 to 10 minutes will be moved to the Offline Hubs group.
 
 
 
