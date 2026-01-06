@@ -113,3 +113,25 @@ If you have any other questions, please do not hesitate to contact us.
 
 <img width="754" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b56eadc-a56e-4baa-a1de-40bc532dbd83" />
 
+
+---
+### How to Integrate SwitchBot Smart Radiator Thermostat into Home Assistant via Cloud
+
+1. Make sure your SwitchBot App and Home Assistant versions are both up to date.
+
+2. Make sure SwitchBot Smart Radiator Thermostat has been added to SwitchBot App and your device firmware version is up to date.
+
+3. Search for SwitchBot brand in Home Assistant and select SwitchBot Cloud according to the illustration below.
+
+<img width="2998" height="6840" alt="image" src="https://github.com/user-attachments/assets/12f52a08-831b-47fb-a31b-f739f6153b93" />
+
+4. Obtain the token and secret key information from SwitchBot App.
+[https://support.switch-bot.com/hc/en-us/articles/12822710195351](https://support.switch-bot.com/hc/en-us/articles/12822710195351)
+
+5. Enter the API key and token.
+
+<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/9b4cdbba-82ed-4888-a831-4bc69c5912c6" />
+
+6. You will see the created devices list.
+
+<img width="1280" height="697" alt="image" src="https://github.com/user-attachments/assets/435d2cab-a973-4071-b188-b8724606a40d" />
