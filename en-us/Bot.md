@@ -1012,8 +1012,6 @@ Applicable Products: SwitchBot Bot
 
 3. If you are using only Bluetooth, please adjust the time once a week. You may tap the corresponding bot and proceed to the schedule item, it will be corrected automatically.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25996908026391)
-
 4. Please operate the bot with the app and check if the arm works properly. If the bot itself does not work, please troubleshoot in the related post below.
 
 Note: Resetting the bot will erase the schedule. Thank you for your understanding.
