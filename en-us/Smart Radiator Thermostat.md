@@ -98,7 +98,18 @@ Regarding this issue, could you please check the following points?
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### How to Integrate SwitchBot Smart Radiator Thermostat into Home Assistant via Bluetooth
 
+1. Make sure your SwitchBot App and Home Assistant versions are both up to date.
 
+2. Make sure SwitchBot Smart Radiator Thermostat has been added to SwitchBot App and your device firmware version is up to date.
 
+3.  Search for SwitchBot brand in Home Assistant and select SwitchBot Bluetooth according to the illustration below.
+
+<img width="3012" height="6856" alt="image" src="https://github.com/user-attachments/assets/39f43b2e-d38e-415a-8089-7b57a88a2100" />
+
+4. Enter the SwitchBot App account and password, and select the thermostat under the account to complete the intergration.
+
+<img width="754" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b56eadc-a56e-4baa-a1de-40bc532dbd83" />
 
