@@ -462,7 +462,13 @@ Setting method: Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry 
 If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Can I Set up My Echo Show to Alert Me with a Sound When SwitchBot Keypad Vision Button Is Pressed?
 
+We regret to inform you that SwitchBot Keypad Vision cannot be integrated with third-party services such as Alexa or Google Home. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+We would like to present the following two alternatives for your consideration.
+1. After linking the Hub 3 or Lock Ultra to the button on the Keypad Vision, pressing the button will trigger a sound from the Hub 3 or Lock Ultra.
+2. By introducing SwitchBot Smart Video Doorbell, a sound will play from the Alexa smart speaker when the doorbell is pressed.
 
 
 
