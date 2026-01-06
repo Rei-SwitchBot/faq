@@ -467,7 +467,16 @@ Yes, the solar panels of the Smart Video Doorbell and the Keypad Vision Pro can 
 3. When powered on, whether using a charger or a solar panel, you can unlock the door with Keypad Vision Pro, including palm veins and facial recognition.
 
 
+---
+### Troubleshooting SwitchBot Keypad Vision Pro Displaying the Message “Identifier Recognition Is Activated Frequently” on SwitchBot App
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Including passersby, frequent activation of the Keypad Vision Pro increases battery consumption. Therefore, the SwitchBot app issues a warning banner stating "Identifier recognition is activated frequently." We apologize for the inconvenience and kindly ask for your understanding.
+In this situation, we recommend setting the face recognition trigger to either manual activation or automatic activation at a specified time.
+Setting method: Go to SwitchBot App -> Keypad Vision Pro -> Gear Icon -> Face Entry Settings -> Tigger Face Recognition -> Manual
+[https://support.switch-bot.com/hc/en-us/articles/33066333360919](https://support.switch-bot.com/hc/en-us/articles/33066333360919)
+If you have any other questions, please do not hesitate to contact us.
 
 
 
