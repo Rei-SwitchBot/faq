@@ -450,7 +450,16 @@ During charging, the facial recognition feature on the Keypad Vision cannot be u
 Currently, charging the Keypad Vision with a solar panel is not supported.
 
 
+---
+### Troubleshooting SwitchBot Keypad Vision Displaying the Message “Identifier Recognition Is Activated Frequently” on SwitchBot App
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Including passersby, frequent activation of the Keypad Vision increases battery consumption. Therefore, the SwitchBot app issues a warning banner stating "Identifier recognition is activated frequently." We apologize for the inconvenience and kindly ask for your understanding.
+In this situation, we recommend setting the face recognition trigger to either manual activation or automatic activation at a specified time.
+Setting method: Go to SwitchBot App -> Keypad Vision -> Gear Icon -> Face Entry Settings -> Tigger Face Recognition -> Manual
+[https://support.switch-bot.com/hc/en-us/articles/33066333360919](https://support.switch-bot.com/hc/en-us/articles/33066333360919)
+If you have any other questions, please do not hesitate to contact us.
 
 
 
