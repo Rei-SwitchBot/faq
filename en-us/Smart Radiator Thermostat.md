@@ -135,3 +135,45 @@ If you have any other questions, please do not hesitate to contact us.
 6. You will see the created devices list.
 
 <img width="1280" height="697" alt="image" src="https://github.com/user-attachments/assets/435d2cab-a973-4071-b188-b8724606a40d" />
+
+
+---
+### Troubleshooting SwitchBot Smart Radiator Thermostat Body Displays "IN" After Battery Insertion.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If you remove or replace the batteries, the previous calibration data will be automatically cleared, requiring you to recalibrate the thermostatic. After the IN indicator stops flashing, press the button to initiate calibration.
+Note: If calibration fails, the device will display "--". Press the button again to recalibrate.
+
+
+---
+### Troubleshooting Even After Pressing the Button in the Center of SwitchBot Smart Radiator Thermostat, the Motor Lever Did Not Retract.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please follow these steps to properly reinstall the device again?
+1. Align the parts indicated by the red arrow align perfectly for proper installation.
+
+<img width="1188" height="1178" alt="image" src="https://github.com/user-attachments/assets/c108dbda-11e9-42cd-9539-c3668cf61e14" />
+
+2. Open the battery compartment and reinstall the battery, while holding down the motor lever until the motor retracts completely.
+3. Open the battery compartment again and reinstall the batteries, waiting for the motor to fully retract.
+For reference, the normal installation process is demonstrated in the video below.
+[https://drive.google.com/file/d/159To4FkMFjUvL_h4o4_5R0UHIe7eu3UR/view?usp=sharing](https://drive.google.com/file/d/159To4FkMFjUvL_h4o4_5R0UHIe7eu3UR/view?usp=sharing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
