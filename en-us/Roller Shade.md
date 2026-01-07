@@ -417,7 +417,42 @@ When choosing your shade fabric, remember:
 <img width="545" height="555" alt="image" src="https://github.com/user-attachments/assets/78bd5336-131a-40d5-9b1a-2578f7838178" />
 
 
+---
+### Troubleshooting Unable to Charge SwitchBot Roller Shade with the Solar Panel
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To charge more efficiently, please make sure to place the solar panel in a spot where it is exposed to sunlight that creates clear and distinct shadow outlines.
+2. Please check if any liquids have entered the solar panel. If water gets inside, it could cause the panel to stop functioning.
+3. If you have another solar panel available, please try replacing the current one to see if it can charge the Roller Shade.
+Note:
+Please do not use the folding solar panel dedicated to Curtain 3 to charge your Roller Shade.
+
+
+---
+### Troubleshooting Unable to Charge Roller Shade Using the Charging Adapter
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When using a charging adapter with overcharge prevention, charging will automatically stop once the device is fully charged. Please try charging the Roller Shade with a different 5V 1A adapter and a Type-C cable.
+
+
+---
+### Troubleshooting When Charging with the Solar Panel, SwitchBot Roller Shade's Power Increases Very Slowly.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure proper connection and charging of the solar panel for the Roller Shade. 
+
+2. Please ensure the following when using solar panels to charge your device:
+- The solar panel must be securely connected to your camera
+- Install the panel in an area with direct sunlight exposure (minimum 4 hours daily)
+- Keep the panel surface clean and undamaged – remove leaves/debris immediately
+- Maintain installation angle below 45 degrees from horizontal for optimal performance
+
+3. If you have multiple solar panels, please switch to another solar panel and see if the problem improves.
+Note:
+Please do not use the folding solar panel dedicated to Curtain 3 to charge your Roller Shade.
 
 
 
