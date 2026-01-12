@@ -38,12 +38,14 @@ While they share the Type C standard, the port lengths differ slightly. Although
 
 Each Lock, including Dual-Lock, can only be paired with one video doorbell at a time for security reasons. Thank you for your understanding.
 
+
 ---
 ### Can I Use SwitchBot Smart Video Doorbell to Unlock the Lock Pro?
 
 The Smart Video Doorbell is compatible with our Lock, Lock Pro, and Lock Ultra for unlocking.
 Note:
 You can only link one Lock product to your video doorbell at a time.
+
 
 ---
 ### How to Pair Lock Products to SwitchBot Smart Video Doorbell
@@ -66,7 +68,7 @@ You can only link one Lock product to your video doorbell at a time.
 Note:
 Please make sure two devices are within Bluetooth range during pairing process.
 Once completed, you can remotely unlock your Lock directly through the SwitchBot app without requiring an additional hub because the Video Doorbell has a built-in hub function.
-Each Lock, including Dual-Lock, can only be paired with one video doorbell at a time for security reasons. 
+SwitchBot Lock can only be paired with one video doorbell at a time. In contrast, the Lock Pro and Lock Ultra can connect with up to seven video doorbells.
 
 
 ---
@@ -536,7 +538,7 @@ Note: Weather information is updated hourly.
 ---
 ### Can I Use Multiple SwitchBot Smart Video Doorbells to Unlock the Lock?
 
-One Lock (or Dual-Lock) can be linked with up to 7 Smart Video Doorbells.
+SwitchBot Lock can only be paired with one video doorbell at a time. In contrast, the Lock Pro and Lock Ultra can connect with up to seven video doorbells.
 
 
 ---
