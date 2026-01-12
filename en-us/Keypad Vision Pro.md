@@ -486,3 +486,43 @@ We regret to inform you that SwitchBot Keypad Vision Pro cannot be integrated wi
 We would like to present the following two alternatives for your consideration.
 After linking the Hub 3 or Lock Ultra to the button on the Keypad Vision Pro, pressing the button will trigger a sound from the Hub 3 or Lock Ultra.
 By introducing SwitchBot Smart Video Doorbell, a sound will play from the Alexa smart speaker when the doorbell is pressed.
+
+
+---
+### How to Remove SwitchBot Keypad Vision Pro?
+
+1. Remove the Keypad Vision Pro body from the mounting kit.
+
+2. The mounting kit is attached to the door with double-sided tape. Please warm it with warm air from a hair dryer until the adhesive side is loosened.
+
+3. Remove the mounting kit from the door using an unused card or similar object.
+
+4. Clean the sticky residue from the door and the mounting kit with alcohol wipes.
+
+5. If the mounting kit is damaged during the Keypad Vision Pro removal process, please submit feedback through the SwitchBot app to request replacement parts. 
+
+Note:
+Please warm it carefully with the hairdryer's warm air to avoid burns.
+Grab the mounting kit and remove it with small side-to-side movements.
+A shipping fee may apply for replacement parts. Thank you for your understanding.
+Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
