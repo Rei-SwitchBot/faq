@@ -565,3 +565,30 @@ Note：
 - There are no such restrictions on Android devices.
 
 
+---
+### How to Remove SwitchBot Lock Ultra
+
+1. If you are mounting your Lock Ultra using the adapter kit, first remove the Lock Ultra body from the adapter kit using the provided screwdriver.
+
+2. The adapter kit is attached to the door with double-sided tape. Please warm it with warm air from a hair dryer until the adhesive side is loosened.
+
+3. Remove the adapter kit from the door using an unused card or similar object.
+
+5. Clean the sticky residue from the door and the adapter kit with alcohol wipes.
+
+6. In the unlikely event that the adapter kit is damaged during the Lock Ultra removal process, please consider purchasing it from our official website. You may need to switch the official website site according to your country or region.
+[https://www.switch-bot.com/products/switchbot-lock-ultra-adapter-kit](https://www.switch-bot.com/products/switchbot-lock-ultra-adapter-kit)
+
+Note:
+If you attach the Lock Ultra directly to the door without using the adapter kit, it can still be removed using the method described above.  
+Please warm it carefully with the hairdryer's warm air to avoid burns.
+Grab the adapter kit or lock Ultra body and remove it with small side-to-side movements.
+Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
+
+
+
+
+
+
+
+
