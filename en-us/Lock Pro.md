@@ -2254,6 +2254,29 @@ Note：
 - There are no such restrictions on Android devices.
 
 
+---
+### How to Remove SwitchBot Lock Pro?
+
+1. Lift the Lock Pro battery case cover upward and remove it.
+
+2. Remove the Lock Pro body from the adjustable base adapter using the screwdriver provided.
+
+3. The adjustable base adapter is attached to the door with double-sided tape. Please warm it with warm air from a hair dryer until the adhesive side is loosened.
+
+<img width="782" height="506" alt="image" src="https://github.com/user-attachments/assets/94f97c42-3ae9-4e6f-9869-1be8481e9998" />
+
+4. Remove the base adapter from the door using an unused card or similar object.
+
+5. Clean the sticky residue from the door and the base adapter with alcohol wipes.
+
+6. In the unlikely event that the base adapter is distorted during the Lock Pro removal process, please submit feedback through the SwitchBot app to request replacement parts.
+
+
+Note:
+Please warm it carefully with the hairdryer's warm air to avoid burns.
+Grab the Lock Pro body and remove it with small side-to-side movements.
+A shipping fee may apply for replacement parts. Thank you for your understanding.
+Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
 
 
 
