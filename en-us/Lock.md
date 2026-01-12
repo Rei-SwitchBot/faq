@@ -882,29 +882,28 @@ If the operation fails, please try the above steps several times, as the Lock mi
 
 
 ---
-### How to Remove SwitchBot Lock from My Door?
+### How to Remove SwitchBot Lock?
 
-Last Updated: 2023 Dec 25
-
-Related Products:
-
-SwitchBot Lock
-
-1.
-
-Lift the Lock battery case cover upward and remove it.
+1. Lift the Lock battery case cover upward and remove it.
 
 2. Remove the Lock body from the adjustable base adapter using the screwdriver provided.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25998507048983)
-
 3. The adjustable base adapter is attached to the door with double-sided tape. Please warm it with warm air from a hair dryer until the adhesive side is loosened.
+
+<img width="782" height="506" alt="image" src="https://github.com/user-attachments/assets/30c00228-ae69-4413-864b-bd8f92d96084" />
 
 4. Remove the base adapter from the door using an unused card or similar object.
 
 5. Clean the sticky residue from the door and the base adapter with alcohol wipes.
 
-6. In the unlikely event that the base adapter is distorted during the Lock removal process, please feel free to contact our after-sales service.
+6. In the unlikely event that the base adapter is distorted during the Lock removal process, please submit feedback through the SwitchBot app to request replacement parts.
+
+
+Note:
+Please warm it carefully with the hairdryer's warm air to avoid burns.
+Grab the lock body and remove it with small side-to-side movements.
+A shipping fee may apply for replacement parts. Thank you for your understanding.
+Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
 
 
 
