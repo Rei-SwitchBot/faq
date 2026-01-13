@@ -629,6 +629,25 @@ Regarding this issue, could you please check the following points?
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/576a643b-c4f4-4825-a7b5-581dad91ffd1" />
 
 
+---
+### How to Switch the Temperature Unit of SwitchBot Hub 3 from Celsius to Fahrenheit
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 3 has been added to your App and your device firmware version is up to date.
+
+3. Please switch the temperature units of your Hub 3 in the following order:
+- Launch SwitchBot App and log in.
+- Tap Profile.
+- Tap Preferences.
+- Tap Temperature Units.
+- Switch the temperature units to Fahrenheit.
+- Return to the SwitchBot App homepage, tap on Hub 3.
+- Tap the "Sync" button to synchronize the temperature units with your Hub 3.
+
+Note: The image below is for Hub 2 but also applies to Hub 3.
+
+<img width="456" height="907" alt="image" src="https://github.com/user-attachments/assets/0b3ca576-afa5-4e91-a242-081c44110576" />
 
 
 
