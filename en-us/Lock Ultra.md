@@ -586,6 +586,13 @@ Grab the adapter kit or lock Ultra body and remove it with small side-to-side mo
 Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
 
 
+---
+### Which Type of Charging Adapter Do I Need to Use for the Rechargeable Battery of SwitchBot Lock Ultra?
+
+Please use a charging adapter with a USB-A interface and an output of 5V 1A or higher to charge the Lock Ultra rechargeable battery.
+
+
+
 
 
 
