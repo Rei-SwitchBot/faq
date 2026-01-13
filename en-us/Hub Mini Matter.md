@@ -543,7 +543,7 @@ If you have any further questions, feel free to contact us anytime. We’re happ
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Insufficient voltage or current may cause unstable operation. Please avoid using USB ports similar to the one shown on the left side of the diagram below.
+1. Insufficient voltage or current may cause unstable operation. Please avoid using USB ports similar to the one shown on the left side of the diagram below. 
 
 <img width="993" height="1072" alt="image" src="https://github.com/user-attachments/assets/5759fb6e-7635-41fb-9bc8-811ef60303de" />
 
@@ -552,7 +552,7 @@ Regarding this issue, could you please check the following points?
 4. Unplug the Wi-Fi router and the Hub Mini, then plug them back in.
 5. Please set up Wi-Fi again by going to SwitchBot app -> Hub Mini -> Gear icon -> Wi-Fi settings near the device.
 6. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire: in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
-7. Make sure your Hub Mini firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub Mini → Gear Icon → Firmware & Battery.
+7. If your Hub Mini can connect to your phone's personal hotspot, please go to Hub Mini → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
 8. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
 
