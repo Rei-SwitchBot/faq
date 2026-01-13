@@ -831,7 +831,14 @@ Yes, the solar panels of the Smart Video Doorbell and the Keypad Vision Pro can 
 No, if the power button of the doorbell is not turned on, the device's circuit will be disconnected, and the doorbell cannot be charged. Therefore, please make sure to turn on the power button on the back of the doorbell before charging.
 
 
+---
+### Troubleshooting Unable to Use the Add-on Monitor to View the Doorbell Video.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the monitor and the add-on monitor are not connected to the router's guest Wi-Fi, as the doorbell's video will not be displayed when connected to the guest Wi-Fi.
+2. Make sure that the monitor is installed near your home router.
+3. Please place the monitor near the doorbell and confirm that the video from the doorbell can be viewed smoothly on the monitor.
 
 
 
