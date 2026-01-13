@@ -2358,8 +2358,9 @@ Regarding this issue, could you please check the following points?
 1. Please set up Wi-Fi again by going to SwitchBot app -> Hub Mini -> Gear icon -> Wi-Fi settings near the device.
 2. Restart your home router.  
 3. As troubleshooting, check if the Hub Mini can connect to your smartphone's hotspot.
-[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
-4. Make sure your Hub Mini firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub Mini → Gear Icon → Firmware & Battery.
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
+4. If your Hub Mini can connect to your phone's personal hotspot, please go to Hub Mini → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
+
 
 
 ---
