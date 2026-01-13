@@ -1630,7 +1630,7 @@ Regarding this issue, could you please check the following points?
 2. Unplug the Wi-Fi router and the Hub 2, then plug them back in.
 3. Please set up Wi-Fi again by going to SwitchBot app -> Hub 2 -> Gear icon -> Wi-Fi settings near the device.
 4. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire: in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
-5. Make sure your Hub 2 firmware version is 5.1-6.2 or later if it can connect to your smartphone's hotspot. If not, update it near the device by following this sequence: SwitchBot App → Hub 2 → Gear Icon → Firmware & Battery.
+5. If your Hub 2 can connect to your phone's personal hotspot, please go to Hub 2 → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
 6. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
 
