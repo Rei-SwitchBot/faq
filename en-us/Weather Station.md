@@ -16,7 +16,7 @@ Obtaining the URL of an ICS File Format from Google Calendar
 4. Select "Settings and sharing".
 5. Scroll down and copy the "Secret address in iCal format" in the "Integrate calendar" section.
 
-<img width="1109" height="759" alt="image" src="https://github.com/user-attachments/assets/181c62fe-71ed-41f3-b439-6d6d52d72fbd" />
+<img width="1109" height="759" alt="image" src="https://github.com/user-attachments/assets/4aae1c89-892d-4627-b7fc-464ed254c7b5" />
 
 Synchronizing the Acquired iCal Format Private URL with the Weather Station
 1. Make sure your SwitchBot App version is up to date.
@@ -26,6 +26,8 @@ Synchronizing the Acquired iCal Format Private URL with the Weather Station
 
 Note:  
 To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Google Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
+From a data security perspective, if you move the Weather Station to a different Home within the SwitchBot app, the synchronized personal calendar will be automatically deleted. If necessary, please follow the steps again to resynchronize.
+
 
 
 ---
@@ -327,7 +329,6 @@ Using the reset pin or a slender tool, press and hold the reset hole for 3 secon
 Press and hold the button on the back of the Weather Station for 15 seconds to reset the device. After the reset, all Wi-Fi information and settings will be restored to factory default.
 
 <img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/e2a13fec-bf3a-4226-915c-30ab51357dd0" />
-
 
 
 
