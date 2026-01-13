@@ -72,6 +72,34 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting After Setting SwitchBot Candle Warmer Lamp, the Candle Did Not Melt at All.
+
+Thank you for the information.
+If you are willing to pay the shipping fee, our team will arrange a payment link for you based on the order and delivery address you provided. 
+We appreciate your patience and understanding.
+If you have any other questions, please feel free to contact us.
+
+
+---
+### Troubleshooting the Controller on SwitchBot Candle Warmer Lamp Gets Too Hot to Touch
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+After confirmation, we will provide you with a replacement service covered under the warranty. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
