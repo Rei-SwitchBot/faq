@@ -164,6 +164,24 @@ We regret to inform you that SwitchBot store does not sell aroma candles. Please
 <img width="588" height="513" alt="image" src="https://github.com/user-attachments/assets/3cfff0f7-4406-4937-b998-80d9b016f4d4" />
 
 
+---
+### Troubleshooting After Setting SwitchBot Candle Warmer Lamp, the Candle Did Not Melt at All.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the controller or the SwitchBot app to increase the candle warmer's brightness (for example, to 100%) to see if it improves the situation.
+
+
+---
+### Troubleshooting the Controller on SwitchBot Candle Warmer Lamp Gets Too Hot to Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide a photo of the environment where the Candle Warmer Lamp is being used?
+
+
+
+
+
 
 
 
