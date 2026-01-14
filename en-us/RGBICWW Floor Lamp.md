@@ -1,6 +1,6 @@
 ---
 
-## AI Art Frame
+## RGBICWW Floor Lamp
 
 ---
 
