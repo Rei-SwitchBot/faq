@@ -170,7 +170,6 @@ The link will be automatically established.
 3. Please kindly note that the remote control can only be operated at a distance of approximately 4 meters from the controller's IR(infrared) signal receiver.
 
 
-
 ---
 ### Troubleshooting SwitchBot LED Strip Light Won't Turn on
 
@@ -184,7 +183,6 @@ If the LED Strip Light still does not light up after checking the above, could y
 If the LED Strip Light still does not light up after checking the above, could you please provide us with a video showing that the main unit does not glow when the LED Strip Light is plugged into an outlet?
 
 
-
 ---
 ### Troubleshooting SwitchBot LED Strip Light Glows Weakly in Total Darkness Even When Turned Off
 
@@ -195,4 +193,12 @@ Please attempt to reset the strip light and observe if it resolves the issue.
 2. Press and hold the power (on/off) button and the music mode button on the controller at the same time for 8 seconds.
 3. The LED Strip Light will flash red, green, and blue in sequence to indicate that the reset is complete.
 
-<img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/0dd0fa40-316a-4a51-a8f7-e90505f83244" />
+<img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/5daa2650-6353-4ab7-8883-609b160e542c" />
+
+
+
+
+
+
+
+
