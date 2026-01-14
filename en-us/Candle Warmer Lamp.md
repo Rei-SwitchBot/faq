@@ -179,7 +179,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please provide a photo of the environment where the Candle Warmer Lamp is being used?
 
 
+---
+### Troubleshooting SwitchBot Candle Warmer Lamp Won’t Connect to Apple Home App via Matter
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. You can add the Candle Warmer Lamp directly to Apple Home by scanning the QR code on the device, or you can first add the device to the SwitchBot App to confirm the Matter setup code, then add the device to Apple Home by entering the Matter setup code. For detailed instructions, please refer to the video.
+You can check the matter setup code by going to SwitchBot app → Candle Warmer Lamp → Gear Icon (Settings) → Matter Setup.
+Video: [https://support.switch-bot.com/hc/en-us/articles/36381750654359](https://support.switch-bot.com/hc/en-us/articles/36381750654359)
 
 
 
