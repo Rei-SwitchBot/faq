@@ -196,7 +196,11 @@ Please attempt to reset the strip light and observe if it resolves the issue.
 <img width="277" height="379" alt="image" src="https://github.com/user-attachments/assets/5daa2650-6353-4ab7-8883-609b160e542c" />
 
 
+---
+### Troubleshooting the Portion of SwitchBot LED Strip Light That Can Be Cut Has Turned Yellow.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide with a photo showing the issue?
 
 
 
