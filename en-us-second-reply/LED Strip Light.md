@@ -34,9 +34,8 @@ https://us.switch-bot.com/products/switchbot-led-strip-light-3
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
 To determine if there is a hardware issue with your device, could you kindly provide a short video showing the issue?
-We regret to inform you that the LES light strip is out of stock and has been discontinued. We are happy to replace it with the new version LED Strip Light 3. Please provide us with the necessary details for expedited shipment so we can assist you promptly.
-https://us.switch-bot.com/products/switchbot-led-strip-light-3
-
+We regret to inform you that the LED Strip Light is out of stock and has been discontinued. We are happy to replace it with the new version LED Strip Light 3. Please provide us with the necessary details for expedited shipment so we can assist you promptly.
+[https://us.switch-bot.com/products/switchbot-led-strip-light-3](https://us.switch-bot.com/products/switchbot-led-strip-light-3)
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -48,5 +47,6 @@ https://us.switch-bot.com/products/switchbot-led-strip-light-3
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
