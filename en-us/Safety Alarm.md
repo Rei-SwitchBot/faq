@@ -397,7 +397,19 @@ Regarding this issue, could you please check the following points?
 1. Check whether replacing the batteries resolves the issue. When inserting the batteries, place two CR2032 batteries with the negative terminals facing downward.
 
 
+---
+### Is It Possible To Purchase the Battery Cover for SwitchBot Safety Alarm Separately?
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The battery cover of the Safety Alarm is uniquely paired with its corresponding main unit, and a QR code containing your contact information is printed on it. As a result, the battery cover cannot be replaced separately. If the cover is lost or damaged, the entire device must be replaced. We sincerely apologize for any inconvenience this may cause and kindly ask that you purchase a new unit if needed.
+[https://us.switch-bot.com/products/switchbot-safety-alarm](https://us.switch-bot.com/products/switchbot-safety-alarm)
+
+Note:  
+In the case of initial defects, we kindly ask for your cooperation in providing photos that clearly show the issue. Please rest assured we will address the matter through after-sales service and arrange for device replacementwithin the warranty period.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+If you have any other questions, please do not hesitate to contact us.
 
 
 
