@@ -841,7 +841,11 @@ Regarding this issue, could you please check the following points?
 3. Please place the monitor near the doorbell and confirm that the video from the doorbell can be viewed smoothly on the monitor.
 
 
+---
+### Will There Be a Notification on the Apple Watch When Someone Rings the Doorbell?
 
+Yes, an incoming call notification will appear on the Apple Watch when the doorbell button is pressed.
+Note: The displayed content may vary depending on your Apple Watch model.
 
 
 
