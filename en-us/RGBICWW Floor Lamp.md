@@ -36,6 +36,31 @@ When using the RGBICWW Floor Lamp under Music Mode, please place the controller 
 We plan to release a firmware update for Music Mode soon. Once it is available, our after-sales team will arrange an update for you. Please check whether the issue improves at that time. We apologize for the inconvenience and appreciate your patience and understanding.
 
 
+---
+### Troubleshooting SwitchBot RGBICWW Floor Lamp Is Unresponsive in Music Mode.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. You can add the RGBICWW Floor Lamp directly to Apple Home by scanning the QR code on the device, or you can first add the device to the SwitchBot App to confirm the Matter setup code, then add the device to Apple Home by entering the Matter setup code. For detailed instructions, please refer to the video.
+You can check the matter setup code by going to SwitchBot app → RGBICWW Floor Lamp → Gear Icon (Settings) → Matter Setup.
+Video: [https://youtu.be/JHStfb5fHwY](https://youtu.be/JHStfb5fHwY)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
