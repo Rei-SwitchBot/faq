@@ -46,7 +46,15 @@ You can check the matter setup code by going to SwitchBot app → RGBICWW Floor 
 Video: [https://youtu.be/JHStfb5fHwY](https://youtu.be/JHStfb5fHwY)
 
 
+---
+### Troubleshooting SwitchBot RGBICWW Floor Lamp Keeps Asking for Firmware Update Even Though It’s Successfully Updated Before
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We have recently made some background adjustments to our system regarding the firmware for the SwitchBot RGBICWW Floor Lamp. As a result of these updates, some users currently on firmware version 0.6 or 0.7 may receive repeated notifications to upgrade to version 0.8. 
+To stop these repeated notifications from appearing, please simply force-close the SwitchBot app on your smartphone and then restart it. Once the app has been refreshed, the update prompt will no longer appear. Your Floor Lamp will remain on its current stable version (0.6 or 0.7), and you can continue to enjoy all of its features and settings exactly as before. 
+We apologize for any confusion or inconvenience this may cause and appreciate your understanding.
+If you have any other questions, please do not hesitate to contact us.
 
 
 
