@@ -759,7 +759,17 @@ After completing the payment, kindly provide the order number starting with #JP 
 *Please note that the accessories are shipped from our Hong Kong warehouse and it takes about two weeks to arrive. We appreciate your patience and understanding!
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light Turns on by Itself. When Checking the Logs, It Shows as the Wall Switch.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Reset your Ceiling Light.
+Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
+Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
+
+2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 
 
