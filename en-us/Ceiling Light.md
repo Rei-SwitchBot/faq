@@ -731,7 +731,32 @@ Regarding this issue, could you please check the following points?
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/a023ea96-846a-494b-82ac-b1e0fa8a5dbf" />
 
 
+---
+### Troubleshooting SwitchBot Ceiling Light Shade Is Broken
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Our support team can assist you with a replacement shade. Please note, the shade is not sold separately, but we can send one to you for free, with the shipping cost to be covered by you.
+- Shipping fees:
+  - For the Ceiling Light Pro Shade, the shipping cost is 3800 Japanese yen.
+  - For the Ceiling Light Pro Shade, the shipping cost is 4800 Japanese yen.
+
+If you wish to proceed, please use the following link to pay the shipping fee:
+[https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239](https://www.switchbot.jp/products/switchbot-shipping-fee?variant=43087964504239)
+After completing the payment, kindly provide the order number starting with #JP and the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Please note that the accessories are shipped from our Hong Kong warehouse and it takes about two weeks to arrive. We appreciate your patience and understanding!
 
 
 
