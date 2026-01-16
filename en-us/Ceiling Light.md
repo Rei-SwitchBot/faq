@@ -772,7 +772,19 @@ Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
 *If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 
+---
+### Troubleshooting the Added IR Remote Control Has Stopped Working.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the Ceiling Light Pro is connected to a power source and powered on.
+2. Make sure that the Ceiling Light Pro is connected to a stable 2.4GHz (802.11b/g/n, IPv4) network.
+3. Make sure there are no obstacles, such as walls, between the Ceiling Light Pro and the infrared appliances. 
+4. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+5. If other infrared remotes are added, please check whether they operate correctly.  
+6. Please try adding the relevant IR infrared remote again.  
+7. As a troubleshooting step in case there is a problem with the Ceiling Light Pro, if you have other Hub products, please copy the infrared remote to another Hub and check if it can be controlled.
+[https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
 
 
 
