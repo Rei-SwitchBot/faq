@@ -2553,7 +2553,6 @@ Note:
 If another hub is grayed out and cannot be selected, it is highly likely that the infrared signal is outdated, and unfortunately, neither customer service nor R&D team will be able to assist. Please try deleting the applicable infrared remote control and registering it again.
 
 
-
 Method 2
 Use the "Duplicate remotes" function.
 SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
@@ -2570,7 +2569,19 @@ Regarding this issue, could you please check the following points?
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/b93efb0d-1678-4eb3-a10f-8177caaed9b5" />
 
 
+---
+### Troubleshooting the Added IR Remote Control Has Stopped Working.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the Hub Mini is connected to a power source and that the output adapter is 5V1A/5V2A.  
+2. Make sure that the Hub Mini is connected to a stable 2.4GHz (802.11b/g/n, IPv4) network.
+3. Make sure there are no obstacles, such as walls, between the Hub Mini and the infrared appliances. 
+4. Please check for any available firmware updates by going to SwitchBot app → Hub Mini → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+5. If other infrared remotes are added, please check whether they operate correctly.  
+6. Please try adding the relevant IR infrared remote again.  
+7. As a troubleshooting step in case there is a problem with the Hub Mini, if you have other Hub products, please copy the infrared remote to another Hub and check if it can be controlled.
+[https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
 
 
 
