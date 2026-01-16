@@ -386,7 +386,16 @@ We apologize for any inconvenience caused.
 If the recommended SD card cannot be recognized, please provide a detailed description of the issue to help us determine if a replacement Pan Tilt Cam Plus 3K is necessary.
 
 
+---
+### Troubleshooting After Connecting SwitchBot Pan Tilt Cam Plus 3K to the Network, the App Displayed a Page Prompting Subscription to Cloud Storage. The Camera Cannot Be Used without This Subscription.
 
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing the issue you reported
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
