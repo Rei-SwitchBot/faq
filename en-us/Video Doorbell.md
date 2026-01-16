@@ -848,6 +848,12 @@ Yes, an incoming call notification will appear on the Apple Watch when the doorb
 Note: The displayed content may vary depending on your Apple Watch model.
 
 
+---
+### What Is the Video Resolution of SwitchBot Smart Video Doorbell Recording?
+
+Whether you use a microSD card or cloud storage, the Smart Video Doorbell records video at a resolution of 640 x 360 pixels.
+
+
 
 
 
