@@ -396,12 +396,15 @@ If the recommended SD card cannot be recognized, please provide a detailed descr
 
 
 ---
-### How to Check the Order Number for Purchased Cloud Storage
+### Troubleshooting After Connecting SwitchBot Pan Tilt Cam Plus 2K to the Network, the App Displayed a Page Prompting Subscription to Cloud Storage. The Camera Cannot Be Used without This Subscription.
 
-If you are using a SwitchBot Pan/Tilt Cam Plus 3K or Pan/Tilt Cam Plus 2K, you will receive an order confirmation email at the address linked to your App Store account after purchasing cloud storage. The order number is included in this email.
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing the issue you reported
 
 
-
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
