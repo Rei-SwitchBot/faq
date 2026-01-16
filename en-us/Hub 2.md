@@ -1736,9 +1736,38 @@ Regarding this issue, could you please check the following points?
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/8641198e-7820-4e4c-a28c-52a592c2844c" />
 
 
+---
+### How to Switch the Temperature Unit of SwitchBot Hub 2 from Celsius to Fahrenheit
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 2 has been added to your App and your device firmware version is up to date.
+
+3. Please switch the temperature units of your Hub 2 in the following order:
+- Launch SwitchBot App and log in.
+- Tap Profile.
+- Tap Preferences.
+- Tap Temperature Units.
+- Switch the temperature units to Fahrenheit.
+- Return to the SwitchBot App homepage, tap on Hub 2.
+- Tap the "Sync" button to synchronize the temperature units with your Hub 2.
+
+<img width="456" height="907" alt="image" src="https://github.com/user-attachments/assets/6fd6b5db-211c-41fc-8eaf-e8810c1b6987" />
 
 
+---
+### Troubleshooting the Added IR Remote Control Has Stopped Working.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the Hub 2 is connected to a power source and powered on.
+2. Make sure that the Hub 2 is connected to a stable 2.4GHz (802.11b/g/n, IPv4) network.
+3. Make sure there are no obstacles, such as walls, between the Hub 2 and the infrared appliances. 
+4. Please check for any available firmware updates by going to SwitchBot app → Hub 2 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+5. If other infrared remotes are added, please check whether they operate correctly.  
+6. Please try adding the relevant IR infrared remote again.  
+7. As a troubleshooting step in case there is a problem with the Hub 2, if you have other Hub products, please copy the infrared remote to another Hub and check if it can be controlled.
+[https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
 
 
 
