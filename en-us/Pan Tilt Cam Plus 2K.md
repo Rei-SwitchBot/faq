@@ -562,9 +562,20 @@ If you have multiple cameras, performing the above operation on one camera is en
 3. With these settings, you can switch to a different camera feed by swiping the camera image screen.
 
 
+---
+### Troubleshooting After Connecting SwitchBot Pan Tilt Cam Plus 2K to the Network, the App Displayed a Page Prompting Subscription to Cloud Storage. The Camera Cannot Be Used without This Subscription.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Once pairing is complete, our camera products, including the Video Doorbell, will prompt you to subscribe to cloud storage. If you do not need this service, simply tap "Later" to continue using the camera.
+
+<img width="741" height="1280" alt="image" src="https://github.com/user-attachments/assets/5fdf75ae-3d63-4522-9839-ebf454ecfc58" />
 
 
+---
+### How to Check the Order Number for Purchased Cloud Storage
 
+If you are using a SwitchBot Pan/Tilt Cam Plus 3K or Pan/Tilt Cam Plus 2K, you will receive an order confirmation email at the address linked to your App Store account after purchasing cloud storage. The order number is included in this email.
 
 
 
