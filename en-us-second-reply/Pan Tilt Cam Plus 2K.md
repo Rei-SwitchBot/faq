@@ -395,6 +395,11 @@ We apologize for any inconvenience caused.
 If the recommended SD card cannot be recognized, please provide a detailed description of the issue to help us determine if a replacement Pan Tilt Cam Plus 2K is necessary.
 
 
+---
+### How to Check the Order Number for Purchased Cloud Storage
+
+If you are using a SwitchBot Pan/Tilt Cam Plus 3K or Pan/Tilt Cam Plus 2K, you will receive an order confirmation email at the address linked to your App Store account after purchasing cloud storage. The order number is included in this email.
+
 
 
 
