@@ -854,7 +854,11 @@ Note: The displayed content may vary depending on your Apple Watch model.
 Whether you use a microSD card or cloud storage, the Smart Video Doorbell records video at a resolution of 640 x 360 pixels.
 
 
+---
+### How to Check the Order Number for Purchased Cloud Storage
 
+If you have purchased cloud storage for a SwitchBot Pan/Tilt Cam Plus 3K, Pan/Tilt Cam Plus 2K, or Video Doorbell, you will receive an order confirmation email at the address linked to your App Store account. This email will include your order number.
+For cloud storage order inquiries about other cameras, please contact us via Feedback in SwitchBot App. 
 
 
 
