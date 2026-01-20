@@ -185,7 +185,10 @@ Note:
 Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 
 
+---
+### Is It Possible to Disable SwitchBot Home Climate Panel's Backlight That Automatically Turns on with Motion?
 
+Yes, please open the SwitchBot app, go to the Home Climate Panel, tap the gear icon in the top right corner, and select "Backlight" in the settings to turn it off (SwitchBot App V9.22 and Home Climate Panel Firmware V1.2 or newer required).
 
 
 
