@@ -508,6 +508,10 @@ A shipping fee may apply for replacement parts. Thank you for your understanding
 Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
 
 
+---
+### If I Place the NFC Card Inside an RFID-Blocking Wallet, Can I Unlock the Door Lock by Holding the Wallet Close to SwitchBot Keypad Vision Pro?
+
+If your wallet blocks RFID signals, it will also block NFC communication when the NFC card is inside. Therefore, you cannot unlock the door by touching the wallet to the Keypad Vision Pro. Instead, you must remove the NFC card from the wallet and touch it directly to the Keypad Vision Pro to unlock the door.
 
 
 
