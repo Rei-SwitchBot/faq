@@ -1783,7 +1783,10 @@ For security reasons, one SwitchBot Keypad/SwitchBot Keypad Touch can only pair 
 Lock Products: Lock, Lock Pro, Lock Ultra
 
 
+---
+### If I Place the NFC Card Inside an RFID-Blocking Wallet, Can I Unlock the Door Lock by Holding the Wallet Close to SwitchBot Keypad Touch?
 
+If your wallet blocks RFID signals, it will also block NFC communication when the NFC card is inside. Therefore, you cannot unlock the door by touching the wallet to the Keypad Touch. Instead, you must remove the NFC card from the wallet and touch it directly to the Keypad Touch to unlock the door.
 
 
 
