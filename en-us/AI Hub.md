@@ -154,6 +154,23 @@ Important Things to Know:
 4. Regardless of its role, any hub device that loses its network connection for more than 5 to 10 minutes will be moved to the Offline Hubs group.
 
 
+---
+### Can SwitchBot Al Hub Connect to a 5GHZ Network?
+
+Yes, AI Hub supports connection to both 2.4GHz and 5GHz networks.
+
+
+---
+### [Request Handling]AI Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot AI Hub can only be added to one account. If a AI Hub is added to another account of yours, please delete the AI Hub from that account first and then add it to a new account.
+※SwitchBot App -> Long press the AI Hub icon -> tap the Delete button -> confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+[https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215)
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the AI Hub will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
