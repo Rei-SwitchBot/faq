@@ -312,6 +312,45 @@ Once either operation is completed, all data stored on the device, such as accou
 The minimum width that KATA Friends can pass through is 46 cm. Entering areas or passageways narrower than 46 cm may cause them to get stuck and be unable to exit, so any area narrower than 46 cm should be designated as a no-go zone.
 
 
+---
+### Troubleshooting SwitchBot KATA Friends Make Abnormal Noises When Moving.
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. Please check the KATA Friends wheels and casters for any foreign objects. If necessary, clean the wheels and casters manually.
+
+
+---
+### Troubleshooting SwitchBot KATA Friends Display the Error Message "Neck movement issue".
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. Could you please provide a video showing the condition of the KATA Friends when the error message is displayed?
+
+
+---
+### When Will SwitchBot KATA Friends Return to Their Nest to Rest?
+
+KATA Friends will automatically return to their nest and rest under the following conditions:  
+• When the battery level is low (15%)  
+• When the set sleep time arrives  
+• When a voice or gesture command to take a break is received  
+• When switching to sleep mode  
+• When tapping the home icon in SwitchBot app  
+
+Except for the above cases, it is also possible to manually pick up KATA Friends and return them to their nest.
+
+
+---
+### How to Purchase KATA Companion Care for SwitchBot KATA Friends
+
+You can purchase the KATA Companion Care through the following options:  
+• Using the purchase card included in the package  
+• Through our official website  
+• Via the KATA Friends settings screen in the SwitchBot app
+If you experience any issues during your purchase, please feel free to provide feedback through the SwitchBot app.
+
+
 
 
 
