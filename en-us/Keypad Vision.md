@@ -497,6 +497,17 @@ Please note that SwitchBot cannot assume responsibility for any damage to doors 
 If your wallet blocks RFID signals, it will also block NFC communication when the NFC card is inside. Therefore, you cannot unlock the door by touching the wallet to the Keypad Vision. Instead, you must remove the NFC card from the wallet and touch it directly to the Keypad Vision to unlock the door.
 
 
+---
+### Troubleshooting the Settings Page for SwitchBot Keypad Vision in SwitchBot App Does Not Include a Backlight Option.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The Keypad Vision is designed so that pressing any button activates the backlight, which is why there is no separate "Backlight" setting in the SwitchBot app. Please rest assured and continue using it as normal.  
+If, in the unlikely event that the backlight does not turn on when a button is pressed, please contact our after-sales service with a video demonstrating the issue.
+
+
+
+
 
 
 
