@@ -271,6 +271,15 @@ We are sorry for any inconvenience caused and appreciate your understanding.
 [https://support.switch-bot.com/hc/en-us/articles/34535932018839-What-Is-the-Standby-Power-Consumption-of-SwitchBot-Plug-Mini-EU-Itself](https://support.switch-bot.com/hc/en-us/articles/34535932018839-What-Is-the-Standby-Power-Consumption-of-SwitchBot-Plug-Mini-EU-Itself)
 
 
+---
+### How to Remove SwitchBot Plug Mini EU Added to Home Assistant via Matter
+
+Please delete the devices added to Home Assistant through Matter under the "web UI" in the Matter server, as shown in the illustration below.
+
+<img width="757" height="1280" alt="image" src="https://github.com/user-attachments/assets/a6bec100-4918-4eb3-9231-670ec3d5197d" />
+
+<img width="766" height="1280" alt="image" src="https://github.com/user-attachments/assets/c5ac117d-9ca8-4619-b570-ccec05160153" />
+
 
 
 
