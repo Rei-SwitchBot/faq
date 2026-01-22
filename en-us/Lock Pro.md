@@ -2281,7 +2281,14 @@ A shipping fee may apply for replacement parts. Thank you for your understanding
 Please note that SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
 
 
+---
+### Troubleshooting SwitchBot Lock Pro Cannot Be Added to the App, It Displays the Message “Device Secret Info Not Found”.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo of the MAC address or QR code sticker on the Lock Pro device  
+Note:  
+Our R&D team will investigate the issue based on the logs. If you haven't yet provided feedback through the SwitchBot app, we kindly ask for your cooperation. Thank you for your understanding!
 
 
 
