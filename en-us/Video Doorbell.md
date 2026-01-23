@@ -861,6 +861,34 @@ If you have purchased cloud storage for a SwitchBot Pan/Tilt Cam Plus 3K, Pan/Ti
 For cloud storage order inquiries about other cameras, please contact us via Feedback in SwitchBot App. 
 
 
+---
+### Troubleshooting Purchased Cloud Storage for SwitchBot Smart Video Doorbell, but No Recordings Are Available for Playback When Clicking on Event Photos.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If only some events have no recordings, it is likely due to the network environment. Poor network conditions can cause the upload of recordings to fail, and it is difficult to prevent this entirely. We sincerely apologize for the inconvenience and appreciate your understanding.
+2. If no recordings are available for any events, please remove the device from the app and then add it again. After that, please reassign the cloud storage service to the relevant device.
+3. Completely close the SwitchBot app, then perform motion detection in front of the doorbell lens until the white light turns off. After confirming that the device has entered sleep mode, please verify whether the videos have been saved to cloud storage. If the videos have been saved properly, it can be concluded that uploading to cloud storage is functioning correctly.
+
+
+---
+### Troubleshooting After Purchasing Cloud Storage, Clicking on SwitchBot Smart Video Doorbell Events Revealed That No Events or Videos Were Available for Playback Suddenly.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm whether cloud storage has been assigned to the relevant device.
+2. Remove the device from the app and then add it again. After that, please reassign the cloud storage service to the relevant device.
+
+
+---
+### Troubleshooting Unpleasant Noise Is Heard When Watching the Video on the Monitor.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the protective seal on the lens of the doorbell has been removed.  
+2. Bring the doorbell into a quieter room and press the call button on the monitor to check if you can hear any noise.
+
+
 
 
 
