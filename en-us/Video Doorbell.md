@@ -889,6 +889,103 @@ Regarding this issue, could you please check the following points?
 2. Bring the doorbell into a quieter room and press the call button on the monitor to check if you can hear any noise.
 
 
+---
+### Troubleshooting Noise Can Be Heard When Accessing the Doorbell Stream Through SwitchBot app.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the protective seal on the lens of the doorbell has been removed.  
+2. Bring the doorbell into a quieter room and tap the Video Doorbell from the SwitchBot app to check if you can hear any noise from the real-time video.
+
+
+---
+### Troubleshooting After Pressing the Call Button on the Monitor, the Noise Level Makes It Impossible to Have a Normal Conversation with the Doorbell.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the protective seal on the lens of the doorbell has been removed.  
+2. Bring the doorbell into a quieter room and press the call button on the monitor to check if you can hear any noise.
+
+
+---
+### Troubleshooting Unable to Hear the Visitor's Voice From the Monitor When the Doorbell Rings.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the protective seals on the monitor and the doorbell have been removed.
+2. Please place the doorbell near the monitor and check if you can make a call.
+3. Press the doorbell and check if the call sound rings from the monitor. If no sound is heard, the Video Doorbell speaker may malfunction. A replacement is possible within the warranty period.
+4. If you cannot hear the visitor's voice through the monitor, please tap the real-time video of the video door phone in the SwitchBot app, press the call button to speak, and check if you can hear the visitor's voice within the app. If you still cannot hear it, the Video Doorbell speaker may malfunction. A replacement is possible within the warranty period.
+
+
+---
+### Troubleshooting When Pressing the Call Button to Speak from the Monitor, No Sound Can Be Heard from the Doorbell Side.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the protective seals on the monitor and the doorbell have been removed.
+2. Please place the doorbell near the monitor and check if you can make a call.
+3. Press the doorbell and check if the call sound rings from the monitor. If no sound is heard, the Video Doorbell speaker may malfunction. A replacement is possible within the warranty period.
+4.  If sound from the monitor does not reach the doorbell, tap the real-time video of the Video Doorbell in the SwitchBot app, press the call button to speak, and check if the sound from the app reaches the doorbell. If the doorbell cannot hear the sound from the app, the Video Doorbell speaker may malfunction. A replacement is possible within the warranty period.
+
+
+---
+### How to Download Videos Recorded by SwitchBot Smart Video Doorbell to My Smartphone
+
+If you are using a microSD card, you cannot download recordings directly. However, by tapping the desired recording and pressing the screen recording button, you can save it to the gallery app.
+Method: Open the SwitchBot app → select Video Doorbell → go to Playback → choose microSD card Videos → tap the video you want to download → tap the screen recording icon.
+
+<img width="1064" height="620" alt="image" src="https://github.com/user-attachments/assets/f5905146-0315-4ff6-b7ae-d8f87329fec5" />
+
+If you are using cloud storage, you can download recordings by selecting the desired file and tapping the download button to save it to your gallery app.
+
+
+---
+### Troubleshooting SwitchBot Smart Video Doorbell Frequently Detects Motion.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+2. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can trigger motion detection.
+
+
+---
+### Troubleshooting the Visitor Is Standing in front of the Doorbell, but No Motion Detection Event Has Been Recorded.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The doorbell detects only moving people and cannot sense those who are stationary. We apologize for the inconvenience and appreciate your understanding.
+2. Adjust the detection sensitivity to high to see if it improves the situation.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+3. Please install the doorbell at a height of approximately 1.2 to 1.5 meters above the ground.
+
+
+---
+### Troubleshooting No Visitors, but Received a Notification That the Doorbell Detected Motion.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Adjust the detection sensitivity to low to see if it improves the situation.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+2. The AI recognition system integrated into the Video Doorbell learns to identify various objects through machine learning algorithms trained on large datasets. However, it may occasionally misidentify objects in complex, ambiguous, or unfamiliar situations. For example, it might mistakenly recognize human-like objects such as sculptures, dolls, or clothing as people. We sincerely apologize for any inconvenience this may cause and appreciate your understanding.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
