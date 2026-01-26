@@ -423,6 +423,114 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Noise Can Be Heard When Accessing the Doorbell Stream Through SwitchBot app.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video demonstrating noise when watching videos on the app
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting After Pressing the Call Button on the Monitor, the Noise Level Makes It Impossible to Have a Normal Conversation with the Doorbell.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video demonstrating noise during conversation through the monitor
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Unable to Hear the Visitor's Voice From the Monitor When the Doorbell Rings.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. We will determine whether it is necessary to replace the device due to a speaker malfunction, so it would be helpful if you could provide any of the following information.
+  1. A video demonstrating that pressing the doorbell does not produce a ringing sound on the monitor.
+  2. A video showing that the visitor's voice cannot be heard through the SwitchBot app during a call.
+
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+If there is no issue with the Video Doorbell speaker and you cannot hear the visitor's voice through the monitor, our technical team will investigate the matter. We appreciate your patience and understanding!
+
+
+---
+### Troubleshooting When Pressing the Call Button to Speak from the Monitor, No Sound Can Be Heard from the Doorbell Side.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. We will determine whether it is necessary to replace the device due to a speaker malfunction, so it would be helpful if you could provide any of the following information.
+  1. A video demonstrating that pressing the doorbell does not produce a ringing sound on the monitor.
+  2. A video showing no sound coming from the doorbell when speaking through the SwitchBot app.
+
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+If there is no issue with the Video Doorbell speaker and the sound from the monitor is not reaching the doorbell, our technical team will investigate the matter. We appreciate your patience and understanding!
+
+
+---
+### Troubleshooting SwitchBot Smart Video Doorbell Frequently Detects Motion.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Time periods with frequent motion detection
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the Visitor Is Standing in front of the Doorbell, but No Motion Detection Event Has Been Recorded.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Screenshot showing the detection sensitivity of the Video Doorbell
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
 
 
 
