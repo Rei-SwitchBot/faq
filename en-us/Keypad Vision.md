@@ -506,6 +506,16 @@ The Keypad Vision is designed so that pressing any button activates the backligh
 If, in the unlikely event that the backlight does not turn on when a button is pressed, please contact our after-sales service with a video demonstrating the issue.
 
 
+---
+### Troubleshooting After the Firmware Update, SwitchBot Keypad Vision’s Green Light Remains Continuously On, but the Device Becomes Unresponsive.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn off the power switch on the back of the Keypad Vision, then turn it back on.
+2. If the lock button on the Keypad Vision is set to "Enable when door closed", please disable this function and set it to "Enable".
+Note: The reference illustration shows the Keypad Touch, but it also applies to the Keypad Vision.
+
+
 
 
 
