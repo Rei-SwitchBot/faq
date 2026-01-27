@@ -416,25 +416,38 @@ For Indoor Cam:
 
 
 ---
-### Control SwitchBot Scene with Siri Shortcuts
+### How to Control SwitchBot Scene with Siri Shortcuts
 
-Now you could use voice control to control SwitchBot Scene. With this feature, you could not only control multiple devices with one command but also control "Others" appliances with Siri directly.
+1. Make sure your SwitchBot App version is up to date.
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25998241733015)
+2. Create a Scene first.
 
-Open the SwitchBot App and then tap Scene to create a scene.
+Related Post: [How to Create Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
 
-Tap add a condition and then choose manual execution
+3. Here is how to run a Scene using Siri Shortcut.
 
-Tap add an action and then choose the appliances you want to add in this scene.
+Launch SwitchBot app and log in.
+Tap the "..." icon in the upper right of the home screen.
+Tap "Manage Scenes".
+Tap the name of the desired scene.
+In the scene editing screen, tap "More ways to trigger".
+Tap "Siri Shortcuts".
+Tap "Add to Siri Shortcuts".
+Tap "Record Phrase" and record your phrase.
+Tap "Done".
+Note:
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25998228413207)
+Phrases may not always be recognized accurately in recordings; in such cases, manual input is recommended.
+When creating a scene, you can also add shortcuts directly by tapping "More ways to trigger."
+To edit or delete shortcuts, go to the SwitchBot app and navigate to Profile → Siri Shortcuts.
+For more information about Siri Shortcuts, we recommend you visit the official Apple website directly.
+4. Once above is complete, you will be able to control the scene with voice commands using Hey Siri.
 
-You could tap the + icon to add more appliances
+Related Post: [Where Can I Find Scene That Have Already Been Created?](https://support.switch-bot.com/hc/en-us/articles/19445115870871-Where-Can-I-Find-Scene-That-Have-Already-Been-Created)
 
-Tap the pencil icon to change the name of this scene
+Related Post: [How to Disable Pop-up Notifications in iOS Shortcuts?](https://support.switch-bot.com/hc/en-us/articles/13831386398231-How-to-Disable-Pop-up-Notifications-in-iOS-Shortcuts)
 
-Then Tap Third-party Service to set up a Siri Shortcuts.
+If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
 
 
 
