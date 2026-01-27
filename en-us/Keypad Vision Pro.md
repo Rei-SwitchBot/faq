@@ -514,11 +514,25 @@ Please note that SwitchBot cannot assume responsibility for any damage to doors 
 If your wallet blocks RFID signals, it will also block NFC communication when the NFC card is inside. Therefore, you cannot unlock the door by touching the wallet to the Keypad Vision Pro. Instead, you must remove the NFC card from the wallet and touch it directly to the Keypad Vision Pro to unlock the door.
 
 
+---
+### Troubleshooting the Settings Page for SwitchBot Keypad Vision Pro in SwitchBot App Does Not Include a Backlight Option.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The Keypad Vision Pro is designed so that pressing any button activates the backlight, which is why there is no separate "Backlight" setting in the SwitchBot app. Please rest assured and continue using it as normal.  
+If, in the unlikely event that the backlight does not turn on when a button is pressed, please contact our after-sales service with a video demonstrating the issue.
 
 
+---
+### Troubleshooting After the Firmware Update, SwitchBot Keypad Vision Pro’s Green Light Remains Continuously On, but the Device Becomes Unresponsive.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn off the power switch on the back of the Keypad Vision Pro, then turn it back on.
+2. If the lock button on the Keypad Vision Pro is set to "Enable when door closed", please disable this function and set it to "Enable".
+Note: The reference illustration shows the Keypad Touch, but it also applies to the Keypad Vision Pro.
 
-
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/527c1855-c2cf-4b5a-ae6f-aac4d8589ae3" />
 
 
 
