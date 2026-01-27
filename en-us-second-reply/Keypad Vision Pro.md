@@ -229,7 +229,14 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting After the Firmware Update, SwitchBot Keypad Vision Pro’s Green Light Remains Continuously On, but the Device Becomes Unresponsive.
 
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+After checking with our R&D team, they are currently working on a firmware update to resolve the issue. We want to make sure the fix is thoroughly tested and stable, so it is taking a bit more time than we initially anticipated. We don’t have a confirmed release date just yet, but we are moving as quickly as we can. 
+We truly apologize for the frustration this has caused and appreciate you sticking with us while we get this right.
+If you have any other questions, please do not hesitate to contact us.
 
 
 
