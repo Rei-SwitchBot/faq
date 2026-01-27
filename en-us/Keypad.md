@@ -1789,4 +1789,29 @@ Lock Products: Lock, Lock Pro, Lock Ultra
 If your wallet blocks RFID signals, it will also block NFC communication when the NFC card is inside. Therefore, you cannot unlock the door by touching the wallet to the Keypad Touch. Instead, you must remove the NFC card from the wallet and touch it directly to the Keypad Touch to unlock the door.
 
 
+---
+### Troubleshooting After the Firmware Update, SwitchBot Keypad Touch’s Green Light Remains Continuously On, but the Device Becomes Unresponsive.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please remove and reinsert the batteries of the Keypad Touch.  
+2. If the lock button on the Keypad Touch is set to "Enable when door closed", please disable this function and set it to "Enable".
+
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/51cf491d-ae7c-439d-8a62-9d5aa58a8460" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
