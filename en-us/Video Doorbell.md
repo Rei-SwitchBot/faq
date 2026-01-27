@@ -977,8 +977,97 @@ High sensitivity: 7~9 meters
 2. The AI recognition system integrated into the Video Doorbell learns to identify various objects through machine learning algorithms trained on large datasets. However, it may occasionally misidentify objects in complex, ambiguous, or unfamiliar situations. For example, it might mistakenly recognize human-like objects such as sculptures, dolls, or clothing as people. We sincerely apologize for any inconvenience this may cause and appreciate your understanding.
 
 
+---
+### Troubleshooting the Doorbell Does Not Detect Motion
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that motion detection is enabled by navigating to the SwitchBot App → Video Doorbell → Gear Icon → Doorbell Settings.
+2. Please verify that you have set the detection time zones and areas for your Video Doorbell. Events occurring outside these designated times and areas will not be recorded.
+3. Adjust the detection sensitivity to high to see if it improves the situation.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+4. The doorbell detects only warm-blooded animals and cannot sense cold-blooded ones. We apologize for any inconvenience this may cause and appreciate your understanding.
+5. Please install the doorbell at a height of approximately 1.2 to 1.5 meters above the ground. The doorbell can detect movement at distances greater than 0.5 meters; if it is too close, it may not detect movement properly.
+6. Please check whether you can view the video from the doorbell on the monitor or via the SwitchBot app.
+7. Please delete the Video Doorbell from the SwitchBot app, reset the doorbell, then turn off the power to the doorbell and wait for 2 minutes before adding it back to the app again to see if the issue improves.
+[https://support.switch-bot.com/hc/en-us/articles/37931517692183](https://support.switch-bot.com/hc/en-us/articles/37931517692183)
 
 
+---
+### Troubleshooting the Doorbell's Motion Detection Is Unstable and Occasionally Fails to Record Events.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify that you have set the detection time zones and areas for your Video Doorbell. Events occurring outside these designated times and areas will not be recorded.
+2. Adjust the detection sensitivity to high to see if it improves the situation.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+3. The doorbell detects only warm-blooded animals and cannot sense cold-blooded ones. We apologize for any inconvenience this may cause and appreciate your understanding.
+4. Please install the doorbell at a height of approximately 1.2 to 1.5 meters above the ground. The doorbell can detect movement at distances greater than 0.5 meters; if it is too close, it may not detect movement properly.
+5. Please check whether you can view the video from the doorbell on the monitor or via the SwitchBot app.
+6. Please delete the Video Doorbell from the SwitchBot app, reset the doorbell, then turn off the power to the doorbell and wait for 2 minutes before adding it back to the app again to see if the issue improves.
+[https://support.switch-bot.com/hc/en-us/articles/37931517692183](https://support.switch-bot.com/hc/en-us/articles/37931517692183)
+
+
+---
+### Troubleshooting When Clicking on the Event Photos of SwitchBot Smart Video Doorbell on the app, There Are No Videos Available for Playback on the microSD Card.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the microSD card is properly inserted.  
+2. Please check if the microSD card is correctly recognized by the SwitchBot app.  
+3. Insert the microSD card into your computer using a card reader to verify it can be read.  
+4. Please check that recording is enabled by navigating to the SwitchBot app → Smart Video Doorbell → Gear icon → Local Storage.
+5. Reset the doorbell and see if it resolves the issue.
+[https://support.switch-bot.com/hc/en-us/articles/37931517692183](https://support.switch-bot.com/hc/en-us/articles/37931517692183)
+
+
+---
+### Troubleshooting No Motion Detection Notifications from SwitchBot Smart Video Doorbell Have Been Received on the Phone
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the link below and enable notifications for the SwitchBot app and the Video Doorbell.
+[https://support.switch-bot.com/hc/en-us/articles/36745401470231](https://support.switch-bot.com/hc/en-us/articles/36745401470231)
+2. Try logging out of the SwitchBot app and then logging back in to see if the issue is resolved.
+3. If you are using an Android smartphone, go to the Settings app, navigate to "Notifications", and turn on "Turn on screen when notifications are received". Also, from the Settings app, select "Apps", choose "SwitchBot", and within "Notifications", enable "Notifications on the lock screen".
+
+
+---
+### How to Reset SwitchBot Smart Video Doorbell
+
+Resetting the Doorbell:
+Press and hold the reset button on the back for more than 3 seconds to reset the doorbell.
+
+<img width="255" height="219" alt="image" src="https://github.com/user-attachments/assets/22e1135b-58c2-4871-a01a-3d8c956f65ed" />
+
+Resetting the Monitor:
+Press and hold the reset button on the side for more than 3 seconds to reset the monitor.
+
+<img width="326" height="268" alt="image" src="https://github.com/user-attachments/assets/e55e540b-0b45-4474-a05c-dd5a6b3cf487" />
+
+
+---
+### Troubleshooting After Pressing the Doorbell, There Is a Brief Delay Before It Rings.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+
+---
+### Troubleshooting Unable to Connect to the Device During the Initial Setup, Preventing the SwitchBot Smart Video Doorbell from Being Added to SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Make sure that Bluetooth on your smartphone is turned on.   
+3. Press and hold both the call button and the hang up button on the monitor master unit simultaneously for two seconds to enter pairing mode.  
+4. Open Bluetooth in your smartphone's settings app. If there are any paired devices, please unpair them first. After adding the Video Doorbell, you can pair Bluetooth with other devices again.
+5. Restart both the smartphone and the monitor.
 
 
 
