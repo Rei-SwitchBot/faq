@@ -525,6 +525,74 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting the Doorbell Does Not Detect Motion
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Screenshot showing the detection sensitivity of the Video Doorbell
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the Doorbell's Motion Detection Is Unstable and Occasionally Fails to Record Events.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Screenshot showing the detection sensitivity of the Video Doorbell
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting When Clicking on the Event Photos of SwitchBot Smart Video Doorbell on the app, There Are No Videos Available for Playback on the microSD Card.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screen recording without playback when clicking the event photo.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting No Motion Detection Notifications from SwitchBot Smart Video Doorbell Have Been Received on the Phone
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshots displaying the notification content of the Video Doorbell can be found by navigating to the SwitchBot App → Profile → tapping the Notification Center bell icon in the top right corner.
+- Screenshots displaying the notification settings of the  Video Doorbell can be found by navigating to the SwitchBot App → Profile → Preferences → App Notifications → Device Notification Management.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting After Pressing the Doorbell, There Is a Brief Delay Before It Rings.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+---
+### Troubleshooting Unable to Connect to the Device During the Initial Setup, Preventing the SwitchBot Smart Video Doorbell from Being Added to SwitchBot App.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screen recording of the failure to add the device to the SwitchBot app 
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 
 
