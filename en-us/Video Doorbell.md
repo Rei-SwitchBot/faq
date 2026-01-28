@@ -1105,6 +1105,48 @@ Please do not use WPA3 encryption.
 Disable the any function related to VPN and try again.
 
 
+---
+### Troubleshooting the Video of the Doorbell Displayed on SwitchBot App Is Very Blurry, Making It Impossible to See the Visitor's Face Clearly.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the protective film on the doorbell lens has been removed.  
+2. Gently wipe the lens with a soft cloth, such as a non-woven fabric.  
+3. If it is too close, moving objects may not be properly detected. Please check whether moving objects can be captured more clearly at least 0.5 meters away from the doorbell sub-unit.  
+Note: 
+Unlike the real-time video, the resolution of videos recorded on the microSD card or cloud storage, is 640×360 pixels. Thank you for your understanding.
+
+
+---
+### Troubleshooting the Doorbell Video Is Flickering
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any glass or other reflective objects near the doorbell. Reflections from glass or similar materials can affect the doorbell's video, so try to keep as much distance as possible between the doorbell and these surfaces.  
+2. If there is no interference from glass or reflective materials, please see if adjusting the doorbell's installation position improves the issue.
+
+
+---
+### Troubleshooting the Doorbell Video Is Pink
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Restart your SwitchBot app.  
+2. Turn off the power button on the back of the doorbell, then turn it back on.  
+3. Tap "Night Vision" by navigating to SwitchBot app → Video Doorbell → Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
+
+
+---
+### Troubleshooting the Doorbell Video Is Purple
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Restart your SwitchBot app.  
+2. Turn off the power button on the back of the doorbell, then turn it back on.  
+3. Tap "Night Vision" by navigating to SwitchBot app → Video Doorbell → Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
+
+
+
 
 
 
