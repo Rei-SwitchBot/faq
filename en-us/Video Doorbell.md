@@ -1070,6 +1070,48 @@ Regarding this issue, could you please check the following points?
 5. Restart both the smartphone and the monitor.
 
 
+---
+### Troubleshooting SwitchBot Smart Video Doorbell Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. If you are using mesh Wi-Fi, please check whether the Video Doorbell can connect to your smartphone's hotspot. If you can successfully add the device via hotspot, the device itself is not faulty, and the issue can be resolved with a Wi-Fi repeater. In that case, please provide a detailed explanation of the situation when contacting after-sales service.
+[https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
+3. Place the Smart Video Doorbell closer to the Wi-Fi router (within 5 meters).  
+4. When adding the device, make sure that you correctly enter the 2.4 GH Wi-Fi SSID and password, including uppercase and lowercase letters.
+5. If your home router requires registering MAC addresses on a whitelist to connect to the internet, either disable this feature or connect to your smartphone's hotspot to add the device to the SwitchBot app. Once the MAC address is confirmed, register the smart video doorbell's MAC address on your router's whitelist.
+6.  If you can connect to other Wi-Fi networks or use smartphone tethering, the issue is likely not with the doorbell. Please consider replacing your home router or requesting a return and refund.
+7.  Please ensure that your smartphone or other SwitchBot Wi-Fi devices are properly connected to the network.
+8. Please review the following information about your home router settings.
+Please do not use WPA3 encryption.
+Wi-Fi must have a password.
+Hidden Wi-Fi is not supported.
+Disable the any function related to VPN and try again.
+
+
+---
+### Troubleshooting the Add-on Monitor Has a Communication Error and Cannot Connect to the Network.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the add-on monitor is connected to the same local network as the monitor.
+2. Place the add-on monitor closer to the Wi-Fi router (within 5 meters).  
+3. When adding the device, make sure that you correctly enter the 2.4 GH Wi-Fi SSID and password, including uppercase and lowercase letters.
+4. If your home router requires registering MAC addresses on a whitelist to connect to the internet, either disable this feature or connect to your smartphone's hotspot to add the device to the SwitchBot app. Once the MAC address is confirmed, register the add-on monitor's MAC address on your router's whitelist.
+5. Please connect the add-on monitor to the same Wi-Fi as the monitor and check if the issue is resolved.
+6. Please review the following information about your home router settings.
+Please do not use WPA3 encryption.
+Disable the any function related to VPN and try again.
+
+
+
+
+
+
+
+
+
 
 
 
