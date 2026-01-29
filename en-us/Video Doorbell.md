@@ -1146,6 +1146,15 @@ Regarding this issue, could you please check the following points?
 3. Tap "Night Vision" by navigating to SwitchBot app → Video Doorbell → Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
 
 
+---
+### Troubleshooting the Doorbell Cannot Be Charged Using the Charger and Cable, and the Charging Indicator Light Does Not Turn On.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn on the power switch located on the back of the doorbell and check if it can be charged using the Type-C charging cable included in the package and a 5V2A charging adapter.
+2. Please try changing the charger and charging cable to see if it helps.
+
+
 
 
 
