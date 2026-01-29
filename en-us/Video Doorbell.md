@@ -419,7 +419,7 @@ Apartments: within 5 meters of the entrance (steel)  door with no obstruction. F
 [https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103)
 
 3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
-4. Press and hold the doorbell button for 5 to 8 seconds to reset it.
+4. Please delete the Video Doorbell from the app and add it again.
 5. Installing the doorbell on a metal door can interfere with communication with the monitor, so please install it on a wall or another surface.
 
 
