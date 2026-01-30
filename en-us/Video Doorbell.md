@@ -1156,10 +1156,33 @@ Regarding this issue, could you please check the following points?
 2. Please try changing the charger and charging cable to see if it helps.
 
 
+---
+### Troubleshooting the Doorbell and Monitor Are Connected With Low-Voltage Wires, but the Doorbell Is Not Powered.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Please verify that the positive and negative wires of the low-voltage cable are connected correctly. If they are properly connected and the device is charging, the indicator on the bottom of the doorbell will light up. If necessary, please restart the monitor once and then check the indicator on the doorbell again.
+3. If the doorbell indicator does not light up, as a troubleshooting step, please turn on the power switch on the back of the doorbell and check whether it can be charged using the Type-C charging cable and 5V 2A charger included in the package.  
+4.  Use a voltmeter to measure whether the voltage at the connection point of the low-voltage wire is 6.2V. If there is a problem with the low-voltage wire, please contact the staff who installed it.
 
 
+---
+### Troubleshooting the Doorbell and Monitor Are Connected Using Low-Voltage Wires, but the Power of the Doorbell Has Decreased Instead.
 
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Please verify that the positive and negative wires of the low-voltage cable are connected correctly. If they are properly connected and the device is charging, the indicator on the bottom of the doorbell will light up. If necessary, please restart the monitor once and then check the indicator on the doorbell again.
+3. If the doorbell indicator does not light up, as a troubleshooting step, please turn on the power switch on the back of the doorbell and check whether it can be charged using the Type-C charging cable and 5V 2A charger included in the package.  
+4.  Use a voltmeter to measure whether the voltage at the connection point of the low-voltage wire is 6.2V. If there is a problem with the low-voltage wire, please contact the staff who installed it.
+5. If the Wi-Fi connection is unstable, the device will constantly attempt to connect to Wi-Fi, causing the battery to drain faster. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
+6. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+7. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
+8. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
 
 
 
