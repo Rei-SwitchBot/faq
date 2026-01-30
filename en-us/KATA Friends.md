@@ -127,7 +127,7 @@ Regarding this issue, could you please check the following points?
 
 Yes, you can purchase a plan at any time during the trial. Once purchased, your Companion Care will automatically begin the day after your trial expires. For example:
 
-If you complete the initial setup on January 1, your free trial remains active until January 15. If you purchase and activate a yearly plan on January 3, your software service period will run for one year starting from January 16, while your repair service coverage will run for one year starting from January 3.
+If you complete the initial setup on January 1, your free trial remains active until January 15. If you purchase and activate a yearly plan on January 3, both your software service period and repair service coverage will all run for one year starting from January 16.
 
 Please note that you must redeem the plan within the SwitchBot app to begin your service.
 
