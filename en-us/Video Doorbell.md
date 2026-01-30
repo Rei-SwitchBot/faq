@@ -396,10 +396,11 @@ Regarding this issue, could you please check the following points?
 1. Delays during calls are closely related to the network connection, so please check the installation of the video doorbell.
 Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
 Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
-[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103-Installation-Precautions-for-SwitchBot-Smart-Video-Doorbell)
+[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103)
 
 2. Install the monitor as close to the router as possible.
 3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
+4. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
