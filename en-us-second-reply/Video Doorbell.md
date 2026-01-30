@@ -772,6 +772,100 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting I Set the Doorbell to Answer Automatically When Guests Arrive, but the "Auto Reply" Feature Isn't Working.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video demonstrating the doorbell's "Auto Reply" not working
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting When Charging the Doorbell With the Charger and Charging Cable, the Indicator Lights Up, but the Battery Level Does Not Increase and It Seems That It Is Not Charging.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot showing the doorbell battery level before charging
+  2. A screenshot showing the battery level after connecting the charger and charging cable and charging the doorbell for one hour.
+
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Troubleshooting Although the Doorbell Is Connected to the Solar Panel, It Barely Seems to Charge.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Screenshot showing the detection sensitivity of the Video Doorbell
+- The frequency of using the video doorbell (e.g., 5 times a day)
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting After Connecting the Solar Panel, the Doorbell's Charging Indicator Does Not Light Up, and the Doorbell Does Not Charge.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if your solar panel needs to be replaced, could you kindly provide the following information?
+  1. A video showing that the charging indicator does not light up when the solar panel is connected to the doorbell
+  2. A video showing that charging is possible with the charging adapter
+
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Troubleshooting Regarding the Firmware Update, the Doorbell Has Reached 100%, but the Monitor Is Not Progressing at All.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+*Since we will investigate based on the operation logs, if you have not yet sent feedback through the SwitchBot app, please provide feedback via the app first.
+
+
+
+
+
+
+
+
+
 
 
 
