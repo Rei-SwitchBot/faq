@@ -1185,6 +1185,74 @@ High sensitivity: 7~9 meters
 8. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
 
 
+---
+### Troubleshooting Regarding the Firmware Update, the Doorbell Has Reached 100%, but the Monitor Is Not Progressing at All.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please disconnect the power supply of your home router.
+2. Unplug the monitor, wait two to three seconds, then plug it back in.
+3. Bring the doorbell close to the monitor (about 1 meter), and keep pressing the doorbell until the video appears on the monitor.  
+4. After that, press the doorbell three to five more times to ensure the monitor can display the doorbell video.
+5. Turn the router back on.
+6. When the Video Doorbell shows as online in the SwitchBot app, perform the firmware update.
+
+
+---
+### Troubleshooting After Connecting the Solar Panel, the Doorbell's Charging Indicator Does Not Light Up, and the Doorbell Does Not Charge.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the solar panel specifically designed for the Video Doorbell. Do not use the outdoor camera’s solar panel with the Video Doorbell, as they are incompatible.
+2. Make sure the solar panel is properly connected to the doorbell.
+3. Please check if there is any damage to the charging port of the solar panel's USB cable.
+4. Please ensure the following when using solar panels to charge your device:
+- The solar panel must be securely connected to your camera
+- Install the panel in an area with direct sunlight exposure (minimum 4 hours daily)
+- Keep the panel surface clean and undamaged – remove leaves/debris immediately
+- Maintain installation angle below 45 degrees from horizontal for optimal performance
+
+5. For troubleshooting, please check if you can charge the doorbell with a 5V2A charging adapter. If the charger successfully powers the device, the doorbell itself is considered to be functioning properly, and the solar panel needs to be replaced.
+
+
+---
+### Troubleshooting Although the Doorbell Is Connected to the Solar Panel, It Barely Seems to Charge.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the Wi-Fi connection is unstable, the device will constantly attempt to connect to Wi-Fi, causing the battery to drain faster. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
+2. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
+Low sensitivity: 1~3 meters
+Medium sensitivity: 4~6 meters
+High sensitivity: 7~9 meters
+3. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
+4. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
+5. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+
+---
+### Troubleshooting When Charging the Doorbell With the Charger and Charging Cable, the Indicator Lights Up, but the Battery Level Does Not Increase and It Seems That It Is Not Charging.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When using a charging adapter with overcharge prevention, charging will automatically stop once the device is fully charged. Please try charging the doorbell with a different 5V 1A adapter and a Type-C cable.
+2. Please try changing the charger and charging cable to see if it helps.
+3. Please turn off the power switch located on the back of the doorbell, wait two minutes, then turn it back on to see if that helps.
+
+
+---
+### Troubleshooting I Set the Doorbell to Answer Automatically When Guests Arrive, but the "Auto Reply" Feature Isn't Working.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please refer to the link below and review the settings again.
+[https://support.switch-bot.com/hc/en-us/articles/31601503495319](https://support.switch-bot.com/hc/en-us/articles/31601503495319)
+2. Please verify if you are using the Video Doorbell with Alexa. If they are already linked, pressing the doorbell triggers Alexa's stream acquisition, and calls on the Alexa side take priority over the "Auto Reply" feature. As a result, the doorbell's speaker will be used for Alexa call, and the "Auto Reply" voice will not be heard. This behavior is a specification of the Video Doorbell and not a malfunction. We apologize for any inconvenience and appreciate your understanding.
+
+
+
+
+
 
 
 
