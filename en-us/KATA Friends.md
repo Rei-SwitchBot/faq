@@ -351,6 +351,103 @@ You can purchase the KATA Companion Care through the following options:
 If you experience any issues during your purchase, please feel free to provide feedback through the SwitchBot app.
 
 
+---
+### Troubleshooting SwitchBot KATA Friends Abnormally Steps Back While Walking  
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. Please check the wheels and casters for any debris, such as hair, that could cause jams. If necessary, clean the wheels manually.
+2. Clean the obstacle avoidance and cliff sensors with a soft cloth.
+3. Please confirm that KATA Friends have not encountered any dark-colored carpeted areas while walking. Dark carpets can be mistaken for stairs, triggering the cliff sensor and causing KATA Friends to move backward. Therefore, it is recommended to designate dark-colored carpeted areas as no-entry zones.
+4. Please check whether KATA Friends continuously move backward in a more open space.
+
+
+---
+### Troubleshooting SwitchBot KATA Friends Unable to Move
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. Please check the wheels and casters for any debris, such as hair, that could cause jams. If necessary, clean the wheels manually.
+2. Clean the obstacle avoidance and cliff sensors with a soft cloth.
+3. Please check if the KATA Friends can move in a wider space.
+
+
+---
+### How to Put SwitchBot KATA Friends into Sleep Mode
+
+You can put your KATA Friends to sleep using the following methods:  
+• Press KATA Friends’ head to switch to sleep mode  
+• Set the sleep time for KATA Friends via the SwitchBot app  
+If you have any questions, please feel free to contact us.
+
+
+---
+### Troubleshooting An Error Occurred While Entering the Redemption Code to Activate KATA Companion Care, Preventing Activation.
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. The "Premium Plan (Lifetime Access Users Only) - Annual" applies only to devices purchased under the "Lifetime Access Plan". It cannot be used with devices purchased under the Essential Plan and Premium Plan. If you have purchased it by mistake, please feel free to contact after-sales service.
+2. After purchasing the KATA Companion Care, if your redemption code is shown as already used, please feel free to contact after-sales service for assistance.
+
+
+---
+### Troubleshooting When SwitchBot KATA Friends Return to Their Nest, They Cause It to Shift Position.
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+If the nest is placed against a wall, KATA Friends may collide with the nest when returning to it, causing position deviation and making docking difficult. We recommend using the two included 3M adhesive tapes to fix the nest position on the wall in order to improve docking stability. When securing the nest with 3M tape, please confirm the following:
+Tips:
+1. Wipe the wall surface to remove dirt and moisture.
+2. Take out two pieces of 3M tape and stick them to the back of the nest.
+3. Press firmly to securely attach the nest to the wall.
+Video: [https://drive.google.com/file/d/1_aCBj90q85KViZgghr0i6sbLSozHfYD_/view?usp=sharing](https://drive.google.com/file/d/1_aCBj90q85KViZgghr0i6sbLSozHfYD_/view?usp=sharing)
+
+Precautions:  
+1. Use 3M adhesive tape to secure the nest to hard, smooth surfaces such as marble, glass, or tile.  
+2. Not suitable for wallpaper or rough, uneven surfaces, using 3M tape on these walls can reduce its effectiveness and may also damage the wall.
+
+When removing the nest from the wall, first lightly warm the adhesive tape with a hair dryer, then slowly remove the nest using a tool such as a ruler. Please do not pull it off forcefully.
+Video: [https://drive.google.com/file/d/1MBqQPSApDrqrl8YlgAW7inwAmEyaVgV4/view?usp=sharing](https://drive.google.com/file/d/1MBqQPSApDrqrl8YlgAW7inwAmEyaVgV4/view?usp=sharing)
+
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting When Issuing Voice Commands to SwitchBot KATA Friends, the Response Is Very Slow, Almost Unresponsive.
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+The environment where KATA Friends is located may be somewhat complex, causing it not to hear your voice. Please try raising your voice and speaking again.  
+For words that KATA Friends can understand, please refer to the link below. Please note that more complex words may not be recognized, so we kindly ask for your understanding.
+[https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
+
+
+---
+### Troubleshooting When Making Gestures at SwitchBot KATA Friends, It Responds Very Slowly, or Almost Not at All.
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+For gestures that KATA Friends can understand, please refer to the link below. Please note that KATA Friends are still learning more complex gestures and may not be able to understand them yet , so we kindly ask for your understanding.
+[https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
+
+
+---
+### How to Maintain the SwitchBot KATA Friends' Nest
+
+Charging Adapter: Firmly plug the charging adapter into the power outlet, and fully connect the other end to the bottom of the nest. To prevent power loss caused by pulling during use, we recommend wrapping the charging cable once around the two support posts on either side of the nest.
+
+Charging Cable: If the charging cable is damaged, stop using it immediately and contact after-sales service. Please note that a replacement fee may apply.
+
+Nest Surface: Wipe away dirt with a damp cloth. When cleaning, take care to avoid letting water droplets enter the two charging terminals.
+
+Charging Terminals: Gently wipe with a dry cloth to remove dirt and maintain smooth operation.
+
+Charging Recognition Area: Do not cover the charging recognition area. If it becomes dirty, gently wipe it with a soft, dry cloth.
+
+
+
+
+
 
 
 
