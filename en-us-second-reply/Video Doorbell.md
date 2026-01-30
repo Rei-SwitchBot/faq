@@ -747,6 +747,31 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+---
+### Troubleshooting the Doorbell and Monitor Are Connected Using Low-Voltage Wires, but the Power of the Doorbell Has Decreased Instead.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photo showing the installation of the doorbell
+- Screenshot showing the detection sensitivity of the Video Doorbell
+- The frequency of using the video doorbell (e.g., 5 times a day)
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the Doorbell and Monitor Are Connected With Low-Voltage Wires, but the Doorbell Is Not Powered.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing the indicator on the doorbell not lighting up when connected with low-voltage wires
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
 
 
 
