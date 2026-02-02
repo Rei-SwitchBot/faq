@@ -859,6 +859,160 @@ If you have any other questions, please let us know, and we'll try to accommodat
 *Since we will investigate based on the operation logs, if you have not yet sent feedback through the SwitchBot app, please provide feedback via the app first.
 
 
+---
+### Troubleshooting After Using It for a While, SwitchBot Smart Video Doorbell's SD Card Suddenly Became Unrecognizable but Started Working Again After Reinserting It.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot of an error message indicating that the microSD card is not recognized
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+If the recommended SD card cannot be recognized, please provide a detailed description of the issue to help us determine if a replacement Smart Video Doorbell is necessary.
+
+
+---
+### Troubleshooting the microSD Card in SwitchBot Smart Video Doorbell Is Not Recording.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot showing that there was an event, but no playback video can be viewed.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this informattedion, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+If the issue is not related to the microSD card, please provide us with a screen recording of the relevant symptom so that we can escalate the matter to our technical team for investigation.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Smart Video Doorbell Cannot Be Recognized
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. If the issue lies with the microSD card, we will determine whether a replacement is necessary. To assist us, please provide the following:  
+  1. A screenshot of an error message indicating that the microSD card is not recognized
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+If the recommended SD card cannot be recognized, please provide a detailed description of the issue to help us determine if a replacement Smart Video Doorbell is necessary.
+
+
+---
+### Troubleshooting After Pressing the Doorbell, the Indicator Light Fails to Illuminate, and the Doorbell Does Not Ring.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+---
+### Troubleshooting the Doorbell Needs to Be Pressed Two or Three Times Beforre It Makes a Sound
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+
+---
+### Troubleshooting Pressing the Lock/Unlock Button on SwitchBot Smart Video Doorbell in the SwitchBot App Does Not Lock or Unlock My Door Lock
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Video demonstrating that pressing the lock/unlock button on the Video Doorbell in the SwitchBot app does not lock or unlock the lock.
+- Video confirming the installation of the Video Doorbell
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Unable to Lock and Unlock My Door Lock Using the Monitor
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Video demonstrating the inability to lock or unlock your door lock using the monitor
+- Video confirming the installation of the Video Doorbell
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Unable to Pair Lock Products with SwitchBot Smart Video Doorbell
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Video demonstrating that the lock product cannot be paired with the Video Doorbell 
+- Video confirming the installation of the Video Doorbell
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting I Pressed the Quick Reply Button on the Monitor, but the Doorbell Did Not Play Any Voice Message.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Symptom onset time
+- A video showing that no sound is heard from the doorbell when a quick reply is sent from the monitor
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
