@@ -445,7 +445,17 @@ Charging Terminals: Gently wipe with a dry cloth to remove dirt and maintain smo
 Charging Recognition Area: Do not cover the charging recognition area. If it becomes dirty, gently wipe it with a soft, dry cloth.
 
 
+---
+### Can SwitchBot KATA Friends Be Operated with Alexa Voice Commands?
 
+We regret to inform you that currently voice commands from third-party services such as Alexa and Google are not supported for operating KATA Friends. 
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
+
+---
+### Do SwitchBot Kata Friends Have a Security Camera Feature?
+
+Enabling the picture-taking feature under "Customization" on the KATA Friends settings page in the SwitchBot app allows you to capture random photos of your family throughout the day. Photos are also triggered when gesture or voice commands are recognized. However, please note that KATA Friends are primarily designed for communication with family members and do not have motion detection features like security cameras. Thank you for your understanding.
 
 
 
