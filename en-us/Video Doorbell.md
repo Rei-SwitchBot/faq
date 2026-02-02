@@ -1250,6 +1250,108 @@ Regarding this issue, could you please check the following points?
 2. Please verify if you are using the Video Doorbell with Alexa. If they are already linked, pressing the doorbell triggers Alexa's stream acquisition, and calls on the Alexa side take priority over the "Auto Reply" feature. As a result, the doorbell's speaker will be used for Alexa call, and the "Auto Reply" voice will not be heard. This behavior is a specification of the Video Doorbell and not a malfunction. We apologize for any inconvenience and appreciate your understanding.
 
 
+---
+### Troubleshooting I Pressed the Quick Reply Button on the Monitor, but the Doorbell Did Not Play Any Voice Message.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the doorbell is not activated, no sound will come from it, even if you manually trigger the quick reply function on the monitor. When using the quick reply feature, please ensure that the indicator lamp on the doorbell is lit or blinking.
+
+
+---
+### Troubleshooting Unable to Pair Lock Products with SwitchBot Smart Video Doorbell
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the power for the doorbell, monitor, and lock products is turned on.  
+2. Please shorten the distance between the doorbell, monitor, and lock products to confirm whether they can interact. When the distance is too far, Bluetooth communication may not be possible.
+
+
+---
+### Troubleshooting Unable to Lock and Unlock My Door Lock Using the Monitor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the power for the doorbell, monitor, and lock products is turned on.  
+2. Please shorten the distance between the doorbell, monitor, and lock products to confirm whether you can control your lock using the monitor. When the distance is too far, Bluetooth communication may not be possible.
+
+
+---
+### Troubleshooting Pressing the Lock/Unlock Button on SwitchBot Smart Video Doorbell in the SwitchBot App Does Not Lock or Unlock My Door Lock
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the power for the doorbell, monitor, and lock products is turned on.  
+2. Please reduce the distance between the doorbell, monitor, and lock to verify whether you can control your lock using the Video Doorbell through the SwitchBot App. When the distance is too far, Bluetooth communication may not be possible.
+
+
+---
+### Troubleshooting the Doorbell Needs to Be Pressed Two or Three Times Beforre It Makes a Sound
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Could you please provide us with a video demonstrating the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting After Pressing the Doorbell, the Indicator Light Fails to Illuminate, and the Doorbell Does Not Ring.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Could you please provide us with a video demonstrating the issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting the microSD Card Attached to SwitchBot Smart Video Doorbell Cannot Be Recognized
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be recognized. If it cannot be recognized even on the computer, the issue is likely with the microSD card itself. 
+ 
+2. Format the microSD card to the FAT32 format on your computer, then insert it into the Smart Video Doorbell and check if the issue is resolved.  
+
+3. If you have multiple microSD cards, try inserting a different microSD card into the Smart Video Doorbell and check if it can be recognized. If other microSD cards can be recognized without any issues, the problem is likely with the specific microSD card.  
+
+4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be recognized.
+
+
+---
+### Troubleshooting the microSD Card in SwitchBot Smart Video Doorbell Is Not Recording.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please make sure that the recording option is turned on by going to SwitchBot app → Smart Video Doorbell → Gear icon → Local Storage.
+
+2. Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
+ 
+3. Format the microSD card to the FAT32 format on your computer, then insert it into the Smart Video Doorbell and check if the issue is resolved.  (If formatting is possible in the SwitchBot app, please try formatting within the app.)
+
+4. If you have multiple microSD cards, try inserting a different microSD card into the Smart Video Doorbell and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
+
+5. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
+
+
+---
+### Troubleshooting After Using It for a While, SwitchBot Smart Video Doorbell's SD Card Suddenly Became Unrecognizable but Started Working Again After Reinserting It.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Insert the microSD card into the SD card reader and check on your computer if the microSD card can be recognized. If it cannot be recognized even on the computer, the issue is likely with the microSD card itself. 
+ 
+2. Format the microSD card to the FAT32 format on your computer, then insert it into the Smart Video Doorbell and check if the issue is resolved.  
+
+3. If you have multiple microSD cards, try inserting a different microSD card into the Smart Video Doorbell and check if it can be recognized. If other microSD cards can be recognized without any issues, the problem is likely with the specific microSD card.  
+
+4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be recognized.  
+
+
+
+
+
+
+
 
 
 
