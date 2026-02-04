@@ -295,7 +295,13 @@ Key point: For best results, please ensure the hook is placed over the edge of t
 We understand this is not an ideal solution and again apologize for the trouble this has caused. If you have any further questions or need additional assistance, please do not hesitate to let us know. We are here to help.
 
 
+---
+### What Are the Dimensions of the Outer Frame and the Screen Size of SwitchBot AI Art Frame?
 
+We will guide you through the outer frame size and screen size of the AI Art Frame.
+7.3-inch: with frame measuring 25 × 20 cm (8 × 10 in.), screen size 15.4 x 9 cm (6.06 × 3.54 in.)
+13.3-inch: with frame measuring 41 × 31 cm (12 × 16 in.), screen size 26.6 x 19.8 cm (10.47 × 7.80 in.)
+31.5-inch: with frame measuring 91 × 41 cm (24 × 36 in.), screen size 69 x 38.5 cm (27.17 × 15.16 in.)
 
 
 
