@@ -360,9 +360,12 @@ The wireless charging pad on the SwitchBot Air Purifier Table supports up to 15W
 
 In Pet Mode, the air purifier operates at a minimum speed of 1800 rpm and a maximum speed of 2250 rpm. When set to Pet Mode, the fan speed automatically adjusts between 1800 and 2250 rpm based on changes in odor levels. As the odor weakens, the fan speed will gradually decrease to the minimum speed of 1800 rpm.
 
+Note:
+In Auto Mode, the air purifier's rotation speed ranges from a minimum of 350 rpm to a maximum of 2250 rpm. When switching from auto mode to pet mode, the operating noise will increase. This is a normal feature of the device and not a malfunction.
+
 
 ---
-### Will SwitchBot Air Purifier Reduce Its Fan Speed After Odors Dissipate When Set to Pet Mode?
+### Troubleshooting SwitchBot Air Purifier Table's Mood Light Won't Turn on
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the mood light not turning on, could you please check the following points?
