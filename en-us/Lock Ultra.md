@@ -68,7 +68,7 @@ Yes. When you pull out the rechargeable battery, you will see a QR code where yo
 
 
 ---
-### How Long Does It Take to Fully Charge SwitchBot Lock Ultra's Rechargeable Battery?
+### Troubleshooting SwitchBot Lock Ultra Does Not Recognize the Rechargeable Battery, Displaying an Error That the Main Battery Is Not Installed, Preventing Operation.
 
 It takes about 6 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete.
 Note:
