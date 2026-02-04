@@ -776,7 +776,13 @@ Left View and Right View Settings
 Press the left or right key on the Hub 3 main unit to view configured devices.
 
 
+---
+### Troubleshooting the Time Shown on the Hub 3 Screen Differs Significantly from the Actual Time.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Set the location of the Home where the Hub 3 is added by going to the SwitchBot App → Profile → Manage Home → Select the Home.
+2. Please delete Hub 3 from the app and add it again.
 
 
 
