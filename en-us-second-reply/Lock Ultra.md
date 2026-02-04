@@ -65,7 +65,7 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 
 
 ---
-### Troubleshooting SwitchBot Lock Ultra Main Battery Is not Recognized
+### Troubleshooting SwitchBot Lock Ultra Does Not Recognize the Rechargeable Battery, Displaying an Error That the Main Battery Is Not Installed, Preventing Operation.
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -380,4 +380,5 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A video showing the Lock Ultra getting stuck, unable to lock or unlock
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
