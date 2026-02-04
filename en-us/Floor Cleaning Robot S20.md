@@ -3387,6 +3387,13 @@ Regarding this issue, could you please check the following points?
 In the case of multi-floor use, it is possible to install multiple water stations and pair them on each floor. However, one S20 robot cannot be paired with multiple base stations. Please manually carry the S20 to a different floor for cleaning, then dock it at the base station for waste collection.
 
 
+---
+### How to Clean the Inside of the Water Station
+
+Please do not disassemble the water change station yourself. If you wish to clean the inside, please drain the water and let it air dry naturally before use.
+For instructions on maintaining the water filter of the water station, please refer to the diagram below. After maintenance, be sure to reinstall the filter properly.
+
+<img width="384" height="503" alt="image" src="https://github.com/user-attachments/assets/1ae5ccbd-7446-4423-9410-6ba262d58696" />
 
 
 
