@@ -665,6 +665,122 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
 
 
+---
+### How to Add Infrared Remotes & Bluetooth Devices to SwitchBot Hub 3
+
+Add Infrared Remotes & Bluetooth Devices to your Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Manage Devices".
+- Tap "+"  in the upper right corner.
+- Tap "Import Existing Appliances".
+- Select SwitchBot devicesand infrared remote controls.
+- Tap "Batch add".
+After successful synchronization, you can view and control the devices on the Hub3 screen.
+
+
+---
+### How to Add Bluetooth Remotes to SwitchBot Hub 3 and Set up Matter
+
+Add Bluetooth Remotes and Set up Matter in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Manage Devices".
+- Tap "+"  in the upper right corner.
+- Tap "Third-party Control".
+- Follow the app's guidance to pair the Bluetooth remote controls and set up Matter
+After successful addition, you can view and control the devices on the Hub3 screen.
+
+
+---
+### How to Add Scenes to SwitchBot Hub 3
+
+Add created Scenes to SwitchBot Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Manage Scenes".
+- Tap "+" icon next to the target scenes.
+After successful synchronization, you can view and control the scenes on the Hub3 screen.
+
+
+---
+### How to Display Local Weather on SwitchBot Hub 3 Screen
+
+Set the Weather Forecast for your Hub 3 in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Enable "Weather Data".
+SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 is located -> Set up home location
+
+Once completed, the Hub 3 display shows a 24-hour weather overview for the day. The weather forecast is updated hourly, with various weather conditions such as snow and rain indicated by icons, along with the day's high and low temperatures.
+
+
+---
+### How to Display Outdoor Meter’s Temperature and Humidity on SwitchBot Hub 3 Screen
+
+Change the Hub 3's temperature and humidity source in the following order:
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Environmental Data Source".
+- Choose a device and tap "confirm".
+After displaying data from other thermohygrometers on the hub 3 screen, the data from the hub 3 itself can only be viewed on the SwitchBot App.
+
+
+---
+### How to Display Locking and Unlocking Status of SwitchBot Lock on SwitchBot Hub 3 Screen
+
+Lock Status Setting
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Lock Status".
+- Select the Lock and tap "confirm".
+Once completed, the Hub 3 will show the status of your Lock on its screen.
+
+
+---
+### How to Assign Devices and Scenes to Custom Buttons on SwitchBot Hub 3 Screen
+
+Customized Shortcuts (A, B, C, and D buttons) Setting
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Customized Buttons".
+- Assign the devices and scenes already added to Hub 3 to A, B, C, and D buttons.
+Once completed, touch the Custom buttons on the Hub 3 unit and the devices already added will appear on the display.
+
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/73e358c5-ecd2-4de4-aaa2-42bea639ce36" />
+
+Once completed, touch the Custom buttons on the Hub 3 unit and the devices already added will appear on the display.
+
+
+---
+### How to Setup SwitchBot Hub 3 Left View and Right View
+
+Left View and Right View Settings
+- Launch SwitchBot app and log in.
+- Tap your Hub 3.
+- Tap "Displayed Info".
+- Swipe left and tap "Choose a device".
+- Select a device that has already been added to your Hub 3.
+- Set the right view in the same order.
+Press the left or right key on the Hub 3 main unit to view configured devices.
+
+
+
+
+
+
+
 
 
 
