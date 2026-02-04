@@ -3316,6 +3316,13 @@ When the S10 robot starts an auto-refill task for the humidifier, it first retur
 Once the refill task is completed, the robot will automatically activate its drying function to dry the wet roller mop. This standard feature helps maintain hygiene and prevent odors. Currently, there is no option to disable the drying function specifically after a humidifier refill task. We sincerely apologize for any inconvenience this may cause and truly appreciate your understanding. 
 
 
+---
+### How to Clean the Inside of the Water Station
+
+Please do not disassemble the water change station yourself. If you wish to clean the inside, please drain the water and let it air dry naturally before use.
+For instructions on maintaining the water filter of the water station, please refer to the diagram below. After maintenance, be sure to reinstall the filter properly.
+
+<img width="384" height="503" alt="image" src="https://github.com/user-attachments/assets/63c9b09a-5cc2-46ef-a3d5-b689388464e5" />
 
 
 
