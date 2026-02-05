@@ -29,12 +29,6 @@ The Built-in lithium battery capacity of SwitchBot KATA Friends is 3200mAh.
 
 
 ---
-### How Long Can SwitchBot KATA Friends Battery Last on a Single Charge?
-
-KATA Friends is equipped with a built-in 3200mAh lithium battery, allowing up to 30 minutes of playtime on a single charge. Under normal use, the battery can provide stable performance for over a year; however, it will inevitably degrade over time. By conducting a health check (maintenance) of your KATA Friends about once a year and replacing parts such as the battery if necessary, you can enjoy even longer and more fun times.
-
-
----
 ### Can I Take SwitchBot KATA Friends on an Airplane?
 
 If you plan to bring your KATA Friends on a plane, we recommend checking with the airline or airport staff regarding its built-in lithium battery. If carry-on is permitted, please ensure it is carefully and securely packed. For long trips, please contact our after-sales service for advice on packing precautions.
