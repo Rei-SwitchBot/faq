@@ -173,7 +173,7 @@ After confirmation, the issue you reported is a firmware bug and has been fixed.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-If you add the safety alarm to the Apple Find My app and it does not reconnect to your iPhone or iPad within 72 hours, the device will emit intermittent warning sounds lasting 15-20 seconds when motion is detected. To resolve this, we recommend connecting the device to your iPhone or iPad daily. If the device starts sounding, pressing the button on the safety alarm itself will stop the warning sound.
+If you add the safety alarm to the Apple Find My app and it is not scanned via Bluetooth by the owner’s iPhone or iPad within 72 hours, the device will emit intermittent warning sounds lasting 15-20 seconds when motion is detected. To resolve this, we recommend connecting the device to your iPhone or iPad daily. If the device starts sounding, pressing the button on the safety alarm itself will stop the warning sound.
 [https://support.switch-bot.com/hc/en-us/articles/33474911648279-Anti-malicious-Tracking-Feature-for-SwitchBot-Safety-Alarm](https://support.switch-bot.com/hc/en-us/articles/33474911648279-Anti-malicious-Tracking-Feature-for-SwitchBot-Safety-Alarm)
 If you have any other questions, please do not hesitate to contact us.
 
