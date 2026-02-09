@@ -498,6 +498,30 @@ Regarding this issue, could you please check the following points?
 <img width="682" height="631" alt="image" src="https://github.com/user-attachments/assets/22243c53-14af-4d74-8d7e-7795454c2032" />
 
 
+---
+### Anti-malicious Tracking Feature for SwitchBot Wallet Finder Card
+
+SwitchBot Wallet Finder Card is designed with features to help prevent unwanted tracking, but these are only available for iOS users. If someone places a Wallet Finder Card that has been added to the Apple Find My App in your belongings, and it’s detected by your iPhone or iPad (running iOS 14.5 or later), you’ll receive a push notification from the Apple Find My App, alerting you to the device.
+Additionally, if the Wallet Finder Card is not scanned via Bluetooth by the owner’s iPhone or iPad within 72 hours, it will emit a 15 to 20-second sound alert when it detects movement, helping to notify you of its presence.
+Please note that Android users will not receive any notifications or alerts, as this feature is only supported on iOS devices.
+These features are in place to ensure your privacy and security, helping to prevent any unwanted tracking.
+If you have any questions, please contact us via SwitchBot App > Profile > Support >Feedback.
+
+
+---
+### Troubleshooting SwitchBot Wallet Finder Card Emits a Sound When I Pick up My Wallet
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Wallet Finder Card is designed with features to help prevent unwanted tracking, but these are only available for iOS users. If someone places a Wallet Finder Card that has been added to the Apple Find My App in your belongings, and it’s detected by your iPhone or iPad (running iOS 14.5 or later), you’ll receive a push notification from the Apple Find My App, alerting you to the device.
+Additionally, if the Wallet Finder Card is not scanned via Bluetooth by the owner’s iPhone or iPad within 72 hours, it will emit a 15 to 20-second sound alert when it detects movement, helping to notify you of its presence.
+If your card is making periodic sounds, check if it has been added to the "Find My" app on your iPhone or iPad and if the Bluetooth connection has been disconnected for over 72 hours. Follow these steps to stop the sound:
+1. Keep Bluetooth on in your iOS device, place the card near the device for a while, and wait for it to connect.
+2. If you are unsure which iOS device the card is added to, press the button on the card body five times in a row, hold down on the fifth press for 15 seconds to reset. After resetting, add the card again to either the SwitchBot app or "Find My" app.
+
+Note: This function relies on Apple's network, so it can only be experienced with iOS devices. If you are using an Android device and you hear a sound coming from your card, please check if someone is tracking maliciously or if it has been added to an iOS device.
+
+If you have any further questions, please don't hesitate to ask.
 
 
 
