@@ -24,7 +24,7 @@ For Android users, the Safety Alarm does not support worldwide tracking. You can
 ### Anti-malicious Tracking Feature for SwitchBot Safety Alarm
 
 SwitchBot Safety Alarm is designed with features to help prevent unwanted tracking, but these are only available for iOS users. If someone places a Safety Alarm that has been added to the Apple Find My App in your belongings, and it's detected by your iPhone or iPad (running iOS 14.5 or later), you'll receive a push notification from the Apple Find My App, alerting you to the device.
-Additionally, if the Safety Alarm does not reconnect to its owner's iPhone or iPad within 72 hours, it will emit a 15 to 20-second sound alert* when it detects movement, helping to notify you of its presence.
+Additionally, if the Safety Alarm is not scanned via Bluetooth by the owner’s iPhone or iPad within 72 hours, it will emit a 15 to 20-second sound alert* when it detects movement, helping to notify you of its presence.
 *When the Safety Alarm makes a sound, press the button once to stop it. Alternatively, you can let the Safety Alarm finish sounding the alert and then leave the Safety Alarm still to avoid detecting movement.
 These features are in place to ensure your privacy and security, helping to prevent any unwanted tracking.
 Please note that Android users will not receive any notifications or alerts, as this feature is only supported on iOS devices.
