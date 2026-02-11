@@ -514,7 +514,18 @@ Regarding this issue, could you please check the following points?
 Note: The reference illustration shows the Keypad Touch, but it also applies to the Keypad Vision.
 
 
+---
+### How Many Faces Can I Add to SwitchBot Keypad Vision?
 
+SwitchBot Keypad Vision can currently store up to 100 faces.
+
+There are two types of face settings: permanent and temporary.
+
+Permanent faces have no time limit and will be available for use permanently.
+
+Temporary faces are valid for a limited period of time.
+
+If the number of saved faces exceeds the limit, you must delete some before adding a new one.
 
 
 
