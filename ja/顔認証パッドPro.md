@@ -542,7 +542,11 @@ iPhoneのウォレットアプリでは、ICOCA、SuicaとPASMOの追加が可�
 <img width="443" height="908" alt="image" src="https://github.com/user-attachments/assets/e9ea0abc-8c03-4a9a-b0f4-9643798a66e4" />
 
 
+---
+### 顔認証パッドProにはおいくつの顔を登録できますか
 
+最大100個の顔を1つの顔認証パッドProに登録でき、これには常に有効な顔と期間内に有効な顔が含まれます。
+追加された顔が制限に達したら、現在登録済みの顔を削除し、新しい顔の登録を行ってください。
 
 
 
