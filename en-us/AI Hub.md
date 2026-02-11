@@ -173,9 +173,22 @@ Regarding this issue, could you please check the following points?
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### What Are the Two USB Ports on SwitchBot Al Hub Used for?
+
+The two USB-C ports on the AI hub, USB-C1 and USB-C2, offer similar functions, both supporting connections to hard drives and Ethernet cables. However, USB-C1, located near the power port, supports the USB 3.0 standard, can connect to external displays, and achieves a transmission speed of up to 1000 Mbps when connected to an Ethernet cable. In contrast, USB-C2 supports the USB 2.0 standard, does not support external displays, and has a maximum transmission speed of 100 Mbps when connected to an Ethernet cable.
 
 
+Note:  
+When hard drives are connected to both USB-C ports, the AI Hub will recognize only the first connected drive and cannot detect two drives simultaneously.
 
+<img width="318" height="238" alt="image" src="https://github.com/user-attachments/assets/f5765457-dd22-4787-973a-6a45cafdd7bf" />
+
+
+---
+### Can SwitchBot AI Hub Recognize Both a USB HDD and the Included Microsd Card Simultaneously?
+
+No, the AI hub only recognizes storage devices that are connected first. If a microSD card is inserted first, the camera footage will be saved to the card by default. To use an external HDD, you must remove the microSD card first. Simultaneous saving to multiple storage devices is not supported.
 
 
 
