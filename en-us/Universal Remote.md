@@ -1010,7 +1010,11 @@ Regarding this issue, could you please check the following points?
 We regret to inform you that the Universal Remote will automatically lock the screen after a set period of time to save battery. To activate it, you will need to lift or press any button on the device. We apologize for any inconvenience and appreciate your understanding!
 
 
+---
+### Which Devices Can I Operate with SwitchBot Universal Remote?
 
+Please check the following link for a list of devices compatible with the Universal Remote.
+[https://support.switch-bot.com/hc/en-us/articles/23497233642135](https://support.switch-bot.com/hc/en-us/articles/23497233642135)
 
 
 
