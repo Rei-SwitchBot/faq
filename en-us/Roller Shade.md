@@ -42,6 +42,7 @@ The controller (1.5m) of the Roller Shade is fixed to the left side of the devic
 Related Product: SwitchBot Roller Shade
 We currently have no plans to sell the Roller Shade body separately. We apologize for any inconvenience and will consider improvements in future product models.
 
+
 ---
 ### Is It Possible to Purchase the Fabric for SwitchBot Roller Shade Separately?
 
@@ -50,7 +51,7 @@ Currently, we do not have plans to sell Roller Shade fabric separately.
 
 Related Post: What Is the Recommended Length for Customizing SwitchBot Roller Shade Fabric?
 
-https://support.switch-bot.com/hc/en-us/articles/28469485462167
+[https://support.switch-bot.com/hc/en-us/articles/28469485462167](https://support.switch-bot.com/hc/en-us/articles/28469485462167-What-Is-the-Recommended-Length-for-Customizing-SwitchBot-Roller-Shade-Fabric)
 
 
 ---
