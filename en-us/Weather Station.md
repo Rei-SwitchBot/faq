@@ -331,7 +331,26 @@ Press and hold the button on the back of the Weather Station for 15 seconds to r
 <img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/e2a13fec-bf3a-4226-915c-30ab51357dd0" />
 
 
+---
+### How to Add SwitchBot Weather Station to SwitchBot App
 
+1. Make sure your SwitchBot App version is up to date.
+
+2. Add your Weather Station to SwitchBot App in the following order:
+- Launch SwitchBot App and log in.
+- Tap "+" icon in the upper right corner.
+- Tap "Add Device".
+- Scroll down and tap "Weather Station" in the "Sensor" section.
+- Press and hold the button on the back of the device for two seconds.
+- Tap "Connect Device" to connect the device.
+- Once the connection is established, enter the SSID and password for the 2.4 GHz network.
+- Tap "Start Using" to finish pairing.
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.   
+When using it for the first time, the Weather Station will automatically update and download data, which may take some time, so please wait patiently.
 
 
 
