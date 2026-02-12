@@ -360,7 +360,10 @@ Put the battery cover back in place.
 Note:  
 Please check the battery level of the Safety Alarm regularly, and replace the batteries promptly if the charge is running low.
 
-<img width="343" height="398" alt="image" src="https://github.com/user-attachments/assets/484dfa39-6077-484f-a195-424c1c4df565" />
+<img width="343" height="398" alt="image" src="https://github.com/user-attachments/assets/0644d0a2-575a-4e62-a885-d6f514d5c962" />
+
+Video: https://youtu.be/AHzdVyS33jE
+
 
 
 ---
