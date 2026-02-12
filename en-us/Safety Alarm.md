@@ -362,7 +362,7 @@ Please check the battery level of the Safety Alarm regularly, and replace the ba
 
 <img width="343" height="398" alt="image" src="https://github.com/user-attachments/assets/0644d0a2-575a-4e62-a885-d6f514d5c962" />
 
-Video: https://youtu.be/AHzdVyS33jE
+Video: [https://youtu.be/AHzdVyS33jE](https://youtu.be/AHzdVyS33jE)
 
 
 
