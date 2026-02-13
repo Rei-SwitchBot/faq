@@ -555,16 +555,13 @@ The highest step that KATA Friends can climb is 1.8 cm.
 
 Please change the sleep time for KATA Friends using the following method.
 - Launch SwitchBot app and log in.  
-- Tap KATA Friends.  
-- Tap the gear icon in the upper right corner.  
+- Tap KATA Friends.
 - Tap Routine.  
 - Tap Sleep Time.  
-- Extend sleep time.
+- Add periods of sleep time.
 
 Note: 
-1. KATA Friends require at least 8 hours of sleep per day. The default sleep period is from 11:00 PM to 7:00 AM. While you can extend this sleep time using the SwitchBot app, it cannot be shortened. We appreciate your understanding. 
-2. KATA Friends sleep time setting uses the 12-hour system, where 12 PM corresponds to 12:00 in the 24-hour format, and 12 AM corresponds to 00:00.
-3. KATA Friends may activate during sleep time or sleep mode; in such cases, they will appear drowsy and will fall back asleep after a while.
+1. KATA Friends may activate during sleep time or sleep mode; in such cases, they will appear drowsy and will fall back asleep after a while.
 
 
 ---
