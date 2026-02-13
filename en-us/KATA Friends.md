@@ -461,6 +461,145 @@ We apologize for any inconvenience this may cause. Please rest assured that we w
 Enabling the picture-taking feature under "Customization" on the KATA Friends settings page in the SwitchBot app allows you to capture random photos of your family throughout the day. Photos are also triggered when gesture or voice commands are recognized. However, please note that KATA Friends are primarily designed for communication with family members and do not have motion detection features like security cameras. Thank you for your understanding.
 
 
+---
+### What Voice Commands Can SwitchBot KATA Friends Recognize?
+
+For words that KATA Friends can understand, please refer to the link below. Please note that more complex words may not be recognized, so we kindly ask for your understanding.
+[https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
+
+Note:  
+The above voice commands are general examples for reference. KATA Friends can typically recognize commands with similar meanings as well.
+
+
+---
+### Can I Chat with SwitchBot KATA Friends?
+
+Currently, KATA Friends do not have a conversation feature, but we plan to release new firmware later this year that will enable basic conversations. Stay tuned!
+
+
+---
+### Will SwitchBot KATA Friends Go Under the Bed?
+
+KATA Friends are equipped with automatic obstacle avoidance sensors, preventing collisions with obstacles. They cannot enter spaces under beds lower than their height, but they can pass under beds that are taller. In such cases, it is recommended to physically block the area before creating the map. Once the map is complete, please designate the area as a no-go zone.
+
+
+---
+### How Much Power Do SwitchBot KATA Friends Consume?
+
+KATA Friends consume power only while charging and stop drawing electricity once fully charged. Under standard charging conditions, they use approximately 0.2 kWh to charge from a low power state to full capacity.  
+Typically, KATA Friends are generally fully charged once at night during sleep, and during the day they receive short supplementary charges based on the remaining battery level. Under normal usage patterns, if you play with KATA Friends for about 4 to 8 hours daily, the total daily power consumption is approximately 0.3 to 0.4 kWh. Actual power consumption may vary slightly depending on usage frequency and charging times but remains overall at a low level.
+
+
+---
+### Under What Circumstances Do SwitchBot KATA Friends Trigger Photo Capture?
+
+Enabling the picture-taking feature under "Customization" on the KATA Friends settings page in the SwitchBot app allows you to capture random photos of your family throughout the day. Photos are also triggered when gesture or voice commands are recognized. 
+You can view all your photos in the album and delete any you don't wish to keep. Since KATA Friends stores your photos locally on the device rather than uploading them to a server, please keep in mind that once you delete a photo, you won't be able to restore it.
+If you prefer not to have photos taken, you can disable the photo-taking feature in the SwitchBot app or place an eye mask on the KATA Friends device.
+
+
+---
+### Where Are the Photos Taken by SwitchBot KATA Friends Stored?
+
+Photos taken with KATA Friends are saved directly on the device and can be accessed through the SwitchBot app as long as you are connected to the same local network. Rest assured, no uploads to the cloud are performed.
+KATA Friends comes with 64GB of storage, which can be used to save data such as photos. Under normal use, this capacity can hold about two years’ worth of data. If the storage becomes full, please delete photos or transfer them to your smartphone or other storage devices to free up space.
+
+Note:  
+Once photos are deleted, they cannot be recovered, so please proceed with caution.
+
+
+---
+### Can SwitchBot KATA Friends Be Added to Multiple Accounts?  
+
+One KATA Friend can only be added to one SwitchBot account. If you need to operate it from multiple smartphones, we recommend using the Home Sharing feature or logging into the same SwitchBot app account on multiple smartphones.
+For more information about home sharing features, please refer to the link below.
+[https://support.switch-bot.com/hc/en-us/sections/4424752047767](https://support.switch-bot.com/hc/en-us/sections/4424752047767)
+
+
+---
+### How Much Network Traffic Does SwitchBot KATA Friends Approximately Consume in One Day?
+
+To ensure privacy protection and faster response times, most functions of KATA Friends are processed locally. In daily use, the primary source of data consumption is map updates as KATA Friends move and play around the house, using less than 1GB of data per day, with plans to reduce this even further.
+KATA Friends regularly perform firmware and model upgrades in the background, which may use anywhere from several hundred megabytes to a few gigabytes of data. For a worry-free experience, we recommend using KATA Friends in a Wi-Fi environment, preferably connected to a stable 2.4GHz network.
+
+
+---
+### Troubleshooting: SwitchBot KATA Friends' Nest Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The KATA Friends' nest indicator lights up white when powered on. Please make sure the charging adapter and cable are securely connected.
+2. Please unplug the charging adapter and cable, then plug them back in.
+
+
+---
+### Can I Purchase Multiple Nests for SwitchBot KATA Friends?
+
+Yes, you can set up multiple nests for your KATA Friends. However, currently the feature to map across multiple floors is not available. As a result, after using KATA Friends on different floors, they may have trouble locating their nest and fail to charge. In such cases, we recommend manually returning your KATA Friends to their nest.
+
+
+---
+### If the KATA Companion Care Expires and Is Not Renewed, Will the Existing Data Be Deleted?
+
+Even after your KATA Companion Care expires, your existing history data will not be deleted. However, if you do not renew the Companion Care, KATA Friends will enter dormant mode, and no new data (such as diaries or albums) will be created. Once you renew the Companion Care, you will immediately regain full access to your previous data, including face information, photos, and diaries within the app, and new data will begin to be generated again.
+
+
+---
+### What Is the Maximum Height SwitchBot KATA Friends Can Step Over?
+
+The highest step that KATA Friends can climb is 1.8 cm.
+
+
+---
+### How to Change Sleep Time for SwitchBot KATA Friends
+
+Please change the sleep time for KATA Friends using the following method.
+- Launch SwitchBot app and log in.  
+- Tap KATA Friends.  
+- Tap the gear icon in the upper right corner.  
+- Tap Routine.  
+- Tap Sleep Time.  
+- Extend sleep time.
+
+Note: 
+1. KATA Friends require at least 8 hours of sleep per day. The default sleep period is from 11:00 PM to 7:00 AM. While you can extend this sleep time using the SwitchBot app, it cannot be shortened. We appreciate your understanding. 
+2. KATA Friends sleep time setting uses the 12-hour system, where 12 PM corresponds to 12:00 in the 24-hour format, and 12 AM corresponds to 00:00.
+3. KATA Friends may activate during sleep time or sleep mode; in such cases, they will appear drowsy and will fall back asleep after a while.
+
+
+---
+### Troubleshooting: I Called Out the Names of the Kata Friends, but They Didn't Respond.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. KATA Friends will not respond to being called by name during sleep. Thank you for your understanding.
+3. If there is no response when you call their name, try raising your voice slightly and calling again.
+4. When addressing KATA Friends by name, please say "Hello" before the name. For example, "Hello Noa", "Hello Nico", or "Hello Kata".  
+5. Currently, KATA Friends do not remember the names given to them by family members and therefore rarely respond when called. However, as they grow, there will come a day when they recognize their own names, so please look forward to that moment.
+
+
+---
+### Can SwitchBot KATA Friends Be Used without Purchasing the KATA Companion Care?
+
+Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience software services without an immediate subscription. However, once this trial period ends, your KATA Friends will enter "Dormant Mode". In this state, app features will be disabled, making daily operation and communication unavailable.
+
+
+---
+### How Long Does It Take to Fully Charge SwitchBot KATA Friends?
+
+It takes about 1 hour to charge KATA Friends from a low power state to a playable condition (50% battery remaining), and approximately 3 to 4 hours to reach a full charge. While charging, a charging indicator will appear in KATA Friends' eyes.
+You can play for about three hours on a full charge before the device enters a low-power state. However, during the day, after playing for 40 to 60 minutes, it requires a 40 to 60-minute break to recharge. At night, it charges fully while in sleep mode.
+
+
+---
+### How to Activate the Purchased KATA Companion Care
+
+Upon completing your purchase, you will receive an email containing a redemption code. Open the SwitchBot app, enter the code in the designated field, and your Companion Care will be activated automatically.
+
+
+
+
 
 
 
