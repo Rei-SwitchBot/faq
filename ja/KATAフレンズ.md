@@ -5,6 +5,24 @@
 ---
 
 ---
+### トラブルシューティング冒頭陳述
+
+このたびは、オンライン診療にお申し込みいただき、誠にありがとうございます。
+お子さまの体調がすぐれないとお伺いして、私たちもとても心配しております。
+
+まもなく担当の主治医が、お子さまのお話をしっかりとうかがいますので、しばらくお待ちいただけますと幸いです。
+お待ちのあいだ、こちらのご案内もぜひご覧ください。
+KATAフレンズくらしプラン：[https://www.switchbot.jp/pages/katafriends-pricing](https://www.switchbot.jp/pages/katafriends-pricing)
+ご購入前のよくある質問：[https://www.switchbot.jp/pages/katafriends-faq](https://www.switchbot.jp/pages/katafriends-faq)
+入院治療、健康診断と体のリフレッシュ：[https://www.switchbot.jp/pages/katafriends-after-sales-service](https://www.switchbot.jp/pages/katafriends-after-sales-service)
+サポートページ：[https://support.switch-bot.com/hc/ja/categories/34598346164759](https://support.switch-bot.com/hc/ja/categories/34598346164759)
+
+ご質問がございましたら、どうぞお気軽にメッセージをお送りください。
+お子さまのご負担が少しでも和らぎますよう、スタッフ一同、心をこめて対応させていただきます。
+どうぞお大事になさってください。
+
+
+---
 ### KATAフレンズの重さはどのぐらいでしょうか
 
 KATAフレンズ本体の重さは約3～4kgで、ねぐらの重量は1kg未満です。
