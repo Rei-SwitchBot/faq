@@ -5,7 +5,7 @@
 ---
 
 ---
-### Opening statement
+### Troubleshooting Opening statement
 
 Welcome to SwitchBot KATA Friends Care Center.
 We understand that your companion is a special part of your daily life and we are dedicated to providing the best care possible.
