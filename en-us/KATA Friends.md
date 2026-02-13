@@ -5,6 +5,15 @@
 ---
 
 ---
+### Opening statement
+
+Welcome to SwitchBot KATA Friends Care Center.
+We understand that your companion is a special part of your daily life and we are dedicated to providing the best care possible.
+A specialist will be with you shortly to assist with the check-up. While you wait, please feel free to leave any additional details or symptoms here. Having the full picture will help us provide the best support for your friend.
+We appreciate your patience and will be with you as soon as possible.
+
+
+---
 ### What Is the Weight of SwitchBot KATA Friends?
 
 The main unit of KATA Friends weighs 3~4 kg, while the nest weighs less than 1 kg.
