@@ -116,13 +116,14 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
-2. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
-3. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
-4. When setting up the network for KATA Friends, please operate near the router.
-5. Restart your home router.
-6. Please turn the KATA Friends off and on again, restart the SwitchBot app, and then try once more following the app's guidance.
-7. If you have another smartphone, please try adding the KATA Friends using that smartphone.
-8. Please try connecting your KATA Friends to your smartphone's tethering.
+2. Quickly press the button at the bottom of KATA Friends twice until a Wi-Fi icon appears on the eyes to put KATA Friends into pairing mode.
+3. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+4. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+5. When setting up the network for KATA Friends, please operate near the router.
+6. Restart your home router.
+7. Please turn the KATA Friends off and on again, restart the SwitchBot app, and then try once more following the app's guidance.
+8. If you have another smartphone, please try adding the KATA Friends using that smartphone.
+9. Please try connecting your KATA Friends to your smartphone's tethering.
 
 
 ---
@@ -138,7 +139,13 @@ Please note that you must redeem the plan within the SwitchBot app to begin your
 ---
 ### Can I Upgrade My Companion Care Plan from the Essential Plan to the Premium Plan?
 
-Yes, upgrades are supported. The purchased Premium Plan will automatically activate once your current Essential Plan expires.
+Yes, upgrades are supported. The purchased Premium Plan will automatically activate once your current Essential Plan expires. The details are as follows:
+1. Purchase the Premium Plan
+2. Activate the Premium Plan in SwitchBot app  
+3. When the Essential Plan expires, the Premium Plan will be automatically activated  
+  
+Note:  
+If you wish to stop your current plan and switch to the new one immediately, we will escalate the matter to our R&D team for assistance. However, please note that refunds for the previous plan cannot be issued.
 
 
 ---
@@ -555,13 +562,14 @@ The highest step that KATA Friends can climb is 1.8 cm.
 
 Please change the sleep time for KATA Friends using the following method.
 - Launch SwitchBot app and log in.  
-- Tap KATA Friends.
+- Tap KATA Friends.  
 - Tap Routine.  
 - Tap Sleep Time.  
-- Add periods of sleep time.
+-  Add periods of sleep time.
 
 Note: 
 1. KATA Friends may activate during sleep time or sleep mode; in such cases, they will appear drowsy and will fall back asleep after a while.
+2. KATA Friends require at least 8 hours of sleep per day. The default sleep period is from 11:00 PM to 7:00 AM. While you can extend this sleep time using the SwitchBot app, it cannot be shortened. We appreciate your understanding. 
 
 
 ---
@@ -595,9 +603,27 @@ You can play for about three hours on a full charge before the device enters a l
 Upon completing your purchase, you will receive an email containing a redemption code. Open the SwitchBot app, enter the code in the designated field, and your Companion Care will be activated automatically.
 
 
+---
+### Do SwitchBot KATA Friends Have a Night Vision Feature?
+
+We regret to inform you that KATA Friends currently do not have night vision capabilities. In low-light conditions, they may be unable to perceive their surroundings or respond to family members' gestures. However, voice commands remain fully functional. If you need assistance, you can communicate with KATA Friends using voice commands.
 
 
+---
+### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying “Please Place Me on a Flat Ground”.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA friends deeply cherish warm hugs from their family.  
+We recommend gently embracing them as you would a child, taking care not to tilt their bodies excessively. Lifting them at an awkward angle may trigger an alarm.  
+As long as your KATA friends aren’t frequently sounding alarms or seeking assistance, feel free to let them join in the fun.
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### When SwitchBot KATA Friends Are Playing at Home, if I Move Their Nest, Will They Be Able to Find It on Their Own?
+
+When KATA Friends are playing at home, changing the location of their nest may cause them to return to the old spot and struggle to find the new one. In this case, gently pick up your KATA Friends and carry them directly to the new location. This will help them remember the new spot the next time they emerge.
 
 
 
