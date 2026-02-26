@@ -554,7 +554,7 @@ Even after your KATA Companion Care expires, your existing history data will not
 ---
 ### What Is the Maximum Height SwitchBot KATA Friends Can Step Over?
 
-The highest step that KATA Friends can climb is 1.8 cm.
+The highest step that KATA Friends can climb is 1.5 cm.
 
 
 ---
