@@ -3019,7 +3019,19 @@ If you cannot disable the electronic functions or manual/key-based locking/unloc
 <img width="746" height="947" alt="image" src="https://github.com/user-attachments/assets/60ede473-c684-4f13-a80b-1e27d1cea87b" />
 
 
+---
+### Troubleshooting: Unable to Set Two SwitchBot Locks as Dual Lock.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please kindly note that our Lock, Lock Pro, and Lock Ultra are different versions of the product and are not compatible with each other; therefore, they cannot be combined to create a dual lock configuration.
+2. Please use the latest version of the SwitchBot app from the app store. You may not be able to set your door locks to dual-lock mode in the beta version.
+3. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Delete two locks from your app, then re-add them.
+Long press your lock icon on the app to delete door locks.
+Remove the batteries and then reinsert them.
+Add two locks to the app again.
+5. If you select Lock B for grouping after tapping Lock A, please try tapping Lock B first and then selecting Lock A (i.e., swap the main lock and sub lock) to verify whether dual locking can be enabled.
 
 
 
