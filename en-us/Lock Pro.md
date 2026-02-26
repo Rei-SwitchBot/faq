@@ -2291,6 +2291,12 @@ Note:
 Our R&D team will investigate the issue based on the logs. If you haven't yet provided feedback through the SwitchBot app, we kindly ask for your cooperation. Thank you for your understanding!
 
 
+---
+### Troubleshooting: Unable to Set Two SwitchBot Locks as Dual Lock.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that Lock Pro does not support grouping. However, our third-generation lock, Lock Ultra, does offer this feature. If you are considering an upgrade, please refer to the link below for more information on Lock Ultra.
+[https://www.switch-bot.com/products/switchbot-lock-ultra](https://www.switch-bot.com/products/switchbot-lock-ultra)
+[https://support.switch-bot.com/hc/en-us/articles/32548376807447](https://support.switch-bot.com/hc/en-us/articles/32548376807447)
 
 
