@@ -592,7 +592,20 @@ Please note that SwitchBot cannot assume responsibility for any damage to doors 
 Please use a charging adapter with a USB-A interface and an output of 5V 1A or higher to charge the Lock Ultra rechargeable battery.
 
 
+---
+### Troubleshooting: Unable to Set Two SwitchBot Locks as Dual Lock.
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please kindly note that our Lock, Lock Pro, and Lock Ultra are different versions of the product and are not compatible with each other; therefore, they cannot be combined to create a dual lock configuration.
+[https://support.switch-bot.com/hc/en-us/articles/32548376807447](https://support.switch-bot.com/hc/en-us/articles/32548376807447)
+2. Please use the latest version of the SwitchBot app from the app store. You may not be able to set your door locks to dual-lock mode in the beta version.
+3. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra→ Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Delete two locks from your app, then re-add them.
+Long press your lock icon on the app to delete door locks.
+Remove the batteries and then reinsert them.
+Add two locks to the app again.
+5. If you select Lock Ultra B for grouping after tapping Lock Ultra A, please try tapping Lock Ultra B first and then selecting Lock Ultra A (i.e., swap the main lock and sub lock) to verify whether dual locking can be enabled.
 
 
 
