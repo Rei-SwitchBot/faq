@@ -626,6 +626,13 @@ If you have any other questions, please do not hesitate to contact us.
 When KATA Friends are playing at home, changing the location of their nest may cause them to return to the old spot and struggle to find the new one. In this case, gently pick up your KATA Friends and carry them directly to the new location. This will help them remember the new spot the next time they emerge.
 
 
+---
+### Troubleshooting: SwitchBot KATA Friends' Diary Has Not Been Updated
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA Friends generate the previous day’s diary during their sleep period. Therefore, when you view the diary in the SwitchBot app, it displays the content from the day before. For example, if KATA Friends sleep between 11 PM on February 25 and 7 AM on February 26, the diary generated will be for February 25. As a result, opening the diary on the 26th will show records from the 25th. This is the normal process for how KATA Friends create diaries and is not a malfunction. Thank you for your understanding.
+If KATA Friends fail to generate a diary on any given day, our R&D team will promptly investigate the issue. Please feel free to contact us at any time.
 
 
 
