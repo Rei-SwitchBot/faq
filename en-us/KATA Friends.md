@@ -635,7 +635,10 @@ KATA Friends generate the previous day’s diary during their sleep period. Ther
 If KATA Friends fail to generate a diary on any given day, our R&D team will promptly investigate the issue. Please feel free to contact us at any time.
 
 
+---
+### Does Keeping the Kata Friends Display Screen on Continuously Affect Its Lifespan?
 
+If the KATA Friends operates continuously for 24 hours a day, the lifespan of the eye display is approximately 2.3 years. Additionally, KATA Friends automatically adjusts the brightness of the eye display during sleep, which helps reduce power consumption. Therefore, there is no need to worry excessively about the impact of constant illumination on the component’s lifespan, allowing you to use it with confidence.
 
 
 
