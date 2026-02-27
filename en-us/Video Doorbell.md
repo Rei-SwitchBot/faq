@@ -1347,15 +1347,131 @@ Regarding this issue, could you please check the following points?
 4. We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be recognized.  
 
 
+---
+### Troubleshooting Unable to View Doorbell Video on Home Assistant
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please refer to the link below for how to display video from the Video Doorbell on Home Assistant.
+ [https://support.switch-bot.com/hc/en-us/articles/31984833990423](https://support.switch-bot.com/hc/en-us/articles/31984833990423)
+2. The Video Doorbell is a low power consumption device, it is not possible to view the doorbell camera footage continuously for 24 hours. Under the following conditions, you can view the footage using Home Assistant. Please confirm:
+• When the doorbell button is pressed  
+• When viewing the doorbell camera footage via the SwitchBot app or the monitor 
+• After 15 seconds have passed since linking the Video Doorbell with Home Assistant
 
 
+---
+### Troubleshooting: Placing the NFC Card on the Doorbell, but the Lock Does Not Open.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please confirm that the power for the doorbell, monitor, and lock products is turned on.  
+2. Please shorten the distance between the doorbell, monitor, and lock products to confirm whether you can unlock the door by tapping the NFC card on the doorbell. When the distance is too far, Bluetooth communication may not be possible.
 
 
+---
+### Troubleshooting: SwitchBot App Does Not Offer a Matter Setup Option on the Smart Video Doorbell Settings Page.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The Japanese version of the Video Doorbell does not currently support Matter. Please confirm that you have purchased the US, EU, or UK version of the Video Doorbell.
+2. Please use the latest version of the SwitchBot app from the app store. Versions below 9.15 or test versions may not have the matter setup option.
+3. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. Kindly note that firmware versions below 2.01.122 do not include the matter setup option.
 
 
+---
+### Troubleshooting: I Added the Smart Video Doorbell to Apple Home Using Matter, but the Doorbell Video Cannot Be Viewed in Apple Home.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the Video Doorbell only functions as a Matter bridge, supporting the addition of Lock, Lock Pro, Lock Lite (sold only in Japan), and Lock Ultra as sub-devices to Apple Home, but it cannot display video streams on Matter third-party services such as Apple Home.
+
+Important Note:
+The video doorbell supports syncing with up to two sub-devices. One of them is the doorbell itself, so you can add only one additional sub-device at most.
+Please note that the product SwitchBot Lock Pro Matter Enabled does not support being synchronized as a sub-device of the video doorbell to Apple Home, because this product itself supports Matter and can be directly added to Apple Home.
+
+If you have any other questions, please do not hesitate to contact us.
 
 
+---
+### Which Products Can I Synchronize as Sub-Devices to Apple Home through SwitchBot Smart Video Doorbell?
 
+As a Matter bridge, SwitchBot Smart Video Doorbell supports the addition of Lock, Lock Pro, Lock Lite (sold only in Japan), and Lock Ultra as sub-devices to Apple Home, but it cannot display video streams on Matter third-party services such as Apple Home.
+
+Important Note:
+The video doorbell supports syncing with up to two sub-devices. One of them is the doorbell itself, so you can add only one additional sub-device at most.
+Please note that the product SwitchBot Lock Pro Matter Enabled does not support being synchronized as a sub-device of the video doorbell to Apple Home, because this product itself supports Matter and can be directly added to Apple Home.
+
+
+---
+### Troubleshooting: I Added SwitchBot Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I’m Unable to Operate the Lock Through Apple Home.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please delete the lock that has already been synced with Apple Home, then sync it again.
+
+
+---
+### Troubleshooting: I Added the Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I Controlled the Locking in Apple Home, but the Door Lock Shows as Unlocked.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please delete the lock that has already been synced with Apple Home, then sync it again.
+
+
+---
+### Troubleshooting My Newly Purchased SwitchBot Smart Video Doorbell Freezes on the “SwitchBot” Logo Screen and Cannot Be Added to SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To help us better understand the issue, could you please provide a video demonstrating the problem you reported?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting After Using It for a While, the Monitor Freezes on the “SwitchBot” Logo Screen and Becomes Unresponsive.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will arrange a dedicated device repair card for you. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+When the repair card arrives, please follow the steps below to repair the monitor.  
+1. Unplug the monitor.
+2. Insert the SD card into the monitor. 
+3. Turn on the power and wait for 5–15 minutes.
+4. Once the repair is complete, the monitor will turn on automatically.
+
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### How to Adjust the Doorbell Volume
+
+Please adjust the doorbell volume in the following order.
+Launch SwitchBot app and log in.  
+Tap the Video Doorbell.
+Tap the gear icon in the upper right corner.  
+Tap "Sound & Light" in the settings screen.  
+Adjust the monitor, doorbell, and intercom volume according to your preference.
+
+
+---
+### Can I Use SwitchBot Smart Video Doorbell Overseas?
+
+Smart Video Doorbell supports a voltage range of 100V to 240V, allowing you to use them overseas without a voltage converter.
+
+Note: 
+Depending on your country or region, you may need to purchase a conversion adapter separately.
 
 
 
