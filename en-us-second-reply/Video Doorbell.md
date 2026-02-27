@@ -1003,27 +1003,86 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting Unable to View Doorbell Video on Home Assistant
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Time when the relevant symptoms appeared
+- Video showing the relevant symptoms
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting: Placing the NFC Card on the Doorbell, but the Lock Does Not Open.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing not being able to unlock the door lock by tapping the NFC card on the doorbell
+- A video confirming the installation of the Video Doorbell
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting: SwitchBot App Does Not Offer a Matter Setup Option on the Smart Video Doorbell Settings Page.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video demonstrating the matter setup process
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting: I Added SwitchBot Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I’m Unable to Operate the Lock Through Apple Home.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video demonstrating not being able to control the lock in Apple Home
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting: I Added the Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I Controlled the Locking in Apple Home, but the Door Lock Shows as Unlocked.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screen recording of controlling the door lock in Apple Home but the status not syncing
 
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
+---
+### Troubleshooting My Newly Purchased SwitchBot Smart Video Doorbell Freezes on the “SwitchBot” Logo Screen and Cannot Be Added to SwitchBot App.Thank you for reporting this issue. 
 
+We apologize for any inconvenience caused.
+If the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 
