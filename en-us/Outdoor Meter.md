@@ -648,6 +648,16 @@ Note: Once you tap the "Store data to cloud" button, it will automatically disap
 6. Turn off the Hub and re-power it after 10 minutes.
 
 
+---
+### How to Remotely Check the Temperature and Humidity Data of SwitchBot Outdoor Meter
+
+1. To remotely monitor temperature and humidity data, you need to use meter products together with our Hub Series devices. Please note that the Hub Series has been added to the SwitchBot App.
+2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub. Once completed, temperature and humidity data will be uploaded to the cloud (stored for up to two years) for remote viewing.
+
+
+
+
+
 
 
 
