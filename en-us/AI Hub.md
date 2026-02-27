@@ -191,6 +191,34 @@ When hard drives are connected to both USB-C ports, the AI Hub will recognize on
 No, the AI hub only recognizes storage devices that are connected first. If a microSD card is inserted first, the camera footage will be saved to the card by default. To use an external HDD, you must remove the microSD card first. Simultaneous saving to multiple storage devices is not supported.
 
 
+---
+### If I Don't Subscribe to the AI+ Service, Will SwitchBot AI Hub Store Events Categorized by Facial Recognition, Vehicles, or Animals?
+
+Yes, even if you do not purchase the AI+ service, you can still view events classified by humans, vehicles, animals, and more in the AI Hub’s event log (requied firmware V2.8 or newer).
+
+<img width="742" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d2a3f5d-0a46-4760-9862-97631978b9d7" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
