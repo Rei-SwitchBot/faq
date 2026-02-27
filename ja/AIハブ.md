@@ -193,6 +193,13 @@ AIハブの2つのUSB-Cポート（USB-C1とUSB-C2）は基本的に同じ機能
 <img width="567" height="410" alt="image" src="https://github.com/user-attachments/assets/c93e0786-6d3b-41d5-9558-c4cd46c60119" />
 
 
+---
+### AI+サービスを契約しない場合、AIハブはイベントを顔認識や車両やペットなどの分類で保存しますか。
+
+はい、AI+サービスをご購入いただけなくても、AIハブのAIできごとログで人や乗り物や動物などの分類でイベントを確認することができます（ファームウェアV2.8以降必要）。
+
+<img width="1127" height="2205" alt="image" src="https://github.com/user-attachments/assets/15c2c8ac-8337-45e6-a46d-40c796dce9e2" />
+
 
 
 
