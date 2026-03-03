@@ -48,3 +48,33 @@ Regarding this issue, could you please check the following points?
 2. Remove the insulation strip from the spare battery.
 3. Please verify whether the indicator light on the exterior assembly is illuminated.
 
+
+---
+### Troubleshooting Unable to Enroll Face on SwitchBot Lock Vision Pro
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Direct sunlight on the device or your face (including backlight situations) can mess with registration. Try installing it on the side of your doorframe using the included A+B mounting plates to see if it helps.
+[image1]
+2. When wearing glasses, sunglasses, hats, or helmets, please expose your face as much as possible. There is a possibility of registration failure if it is too tightly hidden.
+3. If your kids are having trouble with face registration, try having them stand about 90–100 cm (35–39 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.2 meters (47 inches), which works well for both adults and kids. If needed, you can also try increasing the registration sensitivity in the settings for better results.
+4. Please do not wear a mask when registering faces.
+
+
+---
+### How to Set SwitchBot Lock Vision Pro to Automatically Wake Up at a Specific Time
+
+You can set your Lock Vision Pro to automatically wake up at a specific time in the following order:
+1. Launch SwitchBot App and log in.
+2. Tap your Lock Vision Pro.
+3. Tap the gear icon in the upper right corner.
+4. Tap "Face Entry Settings".
+5. Tap "Trigger Face Recognition".
+6. Tap "Custom".
+7. Tap "Add".
+8. Set the activation time period as needed.
+
+Note:
+Up to ten activation times can be set.
+Once you set a custom activation time, the Lock Vision Pro will automatically activate when your face is scanned during that time. Outside this specified time, you will need to manually activate the device.
+
