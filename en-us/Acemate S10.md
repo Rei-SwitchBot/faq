@@ -79,3 +79,24 @@ iOS 16.6 or newer required
 Android 7.0 or newer required  
 If you have HarmonyOS 4.2, you can download directly from the app store. For HarmonyOS 5 or newer, please download via the droitong app.
 
+
+---
+### What Are the Packaging Dimensions of the Finished Acemate 10?
+
+The outer packaging dimensions of the finished Acemate 10 tennis robot are 645 × 543 × 703 mm.
+
+
+---
+### What Are the Standard Court Dimensions Supported by the Acemate 10 Tennis Robot?
+
+When using the Acemate 10 tennis robot on a non-standard tennis court, only the "Serve Mode" is available; "Rally Mode" cannot be used. The Acemate 10's "Rally Mode" is only accessible on a standard tennis court. The dimensions of a standard tennis court are as follows:  
+Effective area within the match lines, excluding buffer zones:  
+Singles court: 23.77 m × 8.23 m  
+Doubles court: 23.77 m × 10.97 m
+
+
+---
+### What Is the Maximum Distance the Acemate S10 Tennis Robot Can Shoot the Ball?
+
+Depending on the ball height you set, the Acemate S10 tennis machine can shoot balls up to 24 meters high.
+
