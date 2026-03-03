@@ -225,3 +225,44 @@ You can disable the "Auto-Lock" function using the same steps.
 When the battery level is below 20%, the "Auto Lock" feature will be automatically disabled.
 Please be sure to calibrate the magnet in the SwitchBot App.
 
+
+---
+### How Many Passwords Can I Add to SwitchBot Lock Vision Pro?
+
+You can use four different kinds of passcodes when using SwitchBot Lock Vision Pro, including Permanent Passcodes, Temporary Passcodes, One-time Passcodes, and Emergency Passcodes.(10 Emergency Passcodes and a total of 90 other passcodes can be set, for a combined total of 100.)
+ 
+Permanent Passcode: This is a passcode that is valid at all times. We need to set up a Permanent Passcode first before we can set up others.
+ 
+Temporary Passcode: This is a passcode that can only be available for a certain period. The maximum validation period is 5 years.
+ 
+One-time Passcode: This is a passcode that is only valid once. And can be set with a time limit between 1 to 24 hours.
+ 
+Emergency Passcode: Should you use an emergency passcode to unlock your door, this action will be recorded and a relevant notification will be sent to a verified email address.
+ 
+You can have a total of 100 Passcodes simultaneously, including 10 Emergency Passcodes and 90 Passcodes of other types.
+
+Virtual Passcode: This is a built-in function that needs no extra operation. You can input a totally random number, as long as the correct passcode is included in the last 20 or fewer digits.
+For example, if you set the passcode to 123456.
+Example 1- 5846758 (123456)
+Example 2- (123456) 849761
+Example 3- 8639 (123456) 247
+Passcode 123456 can be unlocked by entering it consecutively as shown in the example.
+Example of a virtual password that cannot be unlocked (because the last 20 digits do not contain the setting password 123456):.
+123456 x x x x x x x x x x x x x x x x x x x x
+x x x x x 123456 x x x x x x x x x x x x x x x x x x x x x x x x x x
+
+
+---
+### How to Add Passwords to SwitchBot Lock Vision Pro
+
+Set passcodes for the Lock Vision Pro in the following order:
+1. Launch the SwitchBot App and Log in.
+2. Tap your Lock Vision Pro.
+3. There are passwords, fingerprints and NFC cards in the middle of the screen. Make sure you stay on password. then tap "+" icon.
+4. Select the passcode type you plan to add.
+5. Enter the passcode then tap "next" to save it.
+6. The added passcode will appear in the passcode list.
+
+For more information about the passwords that can be added to the Lock Vision Pro, please refer to the link below:
+https://support.switch-bot.com/hc/en-us/articles/38706551464599
+
