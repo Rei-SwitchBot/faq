@@ -172,7 +172,9 @@ https://support.switch-bot.com/hc/en-us/articles/38706551464599
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Direct sunlight on the device or your face (including backlight situations) can mess with registration. Try installing it on the side of your doorframe using the included A+B mounting plates to see if it helps.
-[image1]
+
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/82a24356-9141-453f-9eaf-4ea32a9ca8c7" />
+
 2. When wearing glasses, sunglasses, hats, or helmets, please expose your face as much as possible. There is a possibility of registration failure if it is too tightly hidden.
 3. If your kids are having trouble with face registration, try having them stand about 90–100 cm (35–39 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.2 meters (47 inches), which works well for both adults and kids. If needed, you can also try increasing the registration sensitivity in the settings for better results.
 4. Please do not wear a mask when registering faces.
