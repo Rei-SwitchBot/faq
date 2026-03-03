@@ -201,6 +201,34 @@ AIハブの2つのUSB-Cポート（USB-C1とUSB-C2）は基本的に同じ機能
 <img width="1127" height="2205" alt="image" src="https://github.com/user-attachments/assets/15c2c8ac-8337-45e6-a46d-40c796dce9e2" />
 
 
+---
+### 他社RTSP対応カメラをAIハブに登録する方法
+
+SwitchBotアプリは最新バージョンであることをご確認ください。
+
+AIハブとSwitchBotカメラをSwitchBotアプリに入れてください。
+
+お持ちの他社カメラがRTSP対応であることをご確認ください。
+
+他社カメラを入れたアプリで当該カメラのRTSPリンクを取得し、コピーしてください。
+
+SwitchBotアプリ→AIハブ→下部のメニューバーにあるカメラ追加アイコン→「サードパーティーサービスカメラを追加」→メインストリームURL、サブストリームURLを設定し、デバイスIDを付けて保存してください。
+
+ビデオストリームフォーマットは以下の通りです：
+username：ユーザー名、デフォルトはadmin。  
+password：パスワード、デフォルトはカメラの台座に貼られたシールにある認証コード。  
+IP：機器のIPアドレス、例：192.168.31.108。  
+port：ポート番号、デフォルトは554、すでにデフォルトの番号になった場合は記入不要。  
+codec：h264、MPEG-4、mpeg4のいずれか。  
+channel：チャンネル番号は1から始まる。例えばチャンネル1ならch1となる。  
+subtype：ストリームタイプで、メインストリームはmain、サブストリームはsub。
+
+参考動画：https://drive.google.com/file/d/1Ha2pJUj7PLmDxDzbysyb_rCY_5rJotrZ/view?usp=sharing
+
+ご注意：
+RTSPリンクの取得方法についてカメラメーカーまでお問い合わせください。
+
+
 
 
 

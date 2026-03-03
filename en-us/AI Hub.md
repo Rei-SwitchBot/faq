@@ -56,7 +56,7 @@ If the device connection fails, please unplug the AI Hub's power and then try ag
 6. Go to SwitchBot app → AI Hub → tap the camera addition icon in the bottom menu bar → tap the "+" on the left side of the camera to save. If you have not created an account and password for your camera, selecting the camera will automatically redirect you to the account creation screen. Please create an account first, then try registering the camera in the AI Hub again.
 
 Note:
-RTSP-compatible cameras from other manufacturers can also be added to the AI Hub. 
+RTSP-compatible cameras from other manufacturers can also be added to the AI Hub.
 You can add up to 8 cameras to the AI hub.
 
 
@@ -66,11 +66,11 @@ You can add up to 8 cameras to the AI hub.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
-2. Place the AI Hub closer to the Wi-Fi router (within 5 meters).  
+2. Place the AI Hub closer to the Wi-Fi router (within 5 meters).
 3. The AI Hub supports both 2.4 GHz and 5 GHz Wi-Fi. If your device fails to connect, please unplug the AI Hub's power, wait a moment, and then plug it back in before trying again.
 4. When adding the device, make sure that you correctly enter the Wi-Fi SSID and password, including uppercase and lowercase letters.
-5. Restart your home router and then try again.  
-6. As a troubleshooting step, check if the AI Hub can connect to your smartphone's hotspot.  
+5. Restart your home router and then try again.
+6. As a troubleshooting step, check if the AI Hub can connect to your smartphone's hotspot.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
 
 
@@ -98,7 +98,7 @@ Regarding this issue, could you please check the following points?
 ---
 ### Which SwitchBot Cameras Are Compatible with SwitchBot Hub?
 
-The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell. 
+The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell.
 Unfortunately, the traditional camera series listed below are not supported for addition to the AI Hub. We apologize for any inconvenience and appreciate your understanding.
 - Indoor Cam
 - Pan Tilt Cam
@@ -141,7 +141,7 @@ The SwitchBot cameras compatible with the AI Hub are the Pan Tilt Cam Plus 3K, P
 ---
 ### What Are the Differences Between the Master Hub, Slave Hubs, and Isolated Hubs Displayed on the "Manage Hub" Screen?
 
-1. If an AI Hub has not been added to your SwitchBot account, the "Manage Hub" screen will not display the grouping of Master Hub, Slave Hubs, and Isolated hubs. Instead, all hub devices will be shown in a list.   
+1. If an AI Hub has not been added to your SwitchBot account, the "Manage Hub" screen will not display the grouping of Master Hub, Slave Hubs, and Isolated hubs. Instead, all hub devices will be shown in a list.
 2. Once an AI Hub or other hub products (such as the Hub Mini or Hub 2) have been active in your app for more than 12 hours, the system automatically organizes them into a hierarchy. The AI Hub functions as the Master Hub, while other standard hubs, like the Hub Mini, automatically become Slave Hubs.
 3. If your account has multiple AI Hubs, the system will intelligently select the one with the most stable connection and the highest number of scanned devices as the Master Hub. The remaining AI Hubs will be designated as Backup Hubs. If the Master Hub fails or loses power, a Backup Hub will automatically take over as the new Master Hub.
 4. The primary advantage of the AI Hub is its support for local automation. Acting as your Master Hub, the AI Hub significantly reduces the response time for automation triggers. More importantly, your automations will continue to function even if your internet connection goes down, as long as the AI Hub remains connected to your local area network (LAN).
@@ -150,7 +150,7 @@ The SwitchBot cameras compatible with the AI Hub are the Pan Tilt Cam Plus 3K, P
 Important Things to Know:
 1. Hub Mini, Hub 2, Hub 3, and similar devices are supported as Slave Hubs; however, Video Doorbell and Ceiling Light cannot yet function as Slave Hubs and will be shown as Isolated Hubs.
 2. If the AI Hub malfunctions or loses power, the Slave Hubs will become Isolated Hubs, causing both the group of Slave Hubs and the Master Hub to automatically disappear. In this case, your automations will switch from "Local" to "Cloud" mode until the AI Hub is back online.
-3. If your home router does not support mDNS, the app will not be able to group your hub products into Master and Slave roles. 
+3. If your home router does not support mDNS, the app will not be able to group your hub products into Master and Slave roles.
 4. Regardless of its role, any hub device that loses its network connection for more than 5 to 10 minutes will be moved to the Offline Hubs group.
 
 
@@ -179,7 +179,7 @@ Regarding this issue, could you please check the following points?
 The two USB-C ports on the AI hub, USB-C1 and USB-C2, offer similar functions, both supporting connections to hard drives and Ethernet cables. However, USB-C1, located near the power port, supports the USB 3.0 standard, can connect to external displays, and achieves a transmission speed of up to 1000 Mbps when connected to an Ethernet cable. In contrast, USB-C2 supports the USB 2.0 standard, does not support external displays, and has a maximum transmission speed of 100 Mbps when connected to an Ethernet cable.
 
 
-Note:  
+Note:
 When hard drives are connected to both USB-C ports, the AI Hub will recognize only the first connected drive and cannot detect two drives simultaneously.
 
 <img width="318" height="238" alt="image" src="https://github.com/user-attachments/assets/f5765457-dd22-4787-973a-6a45cafdd7bf" />
@@ -194,9 +194,37 @@ No, the AI hub only recognizes storage devices that are connected first. If a mi
 ---
 ### If I Don't Subscribe to the AI+ Service, Will SwitchBot AI Hub Store Events Categorized by Facial Recognition, Vehicles, or Animals?
 
-Yes, even if you do not purchase the AI+ service, you can still view events classified by humans, vehicles, animals, and more in the AI Hub’s event log (requied firmware V2.8 or newer).
+Yes, even if you do not purchase the AI+ service, you can still view events classified by humans, vehicles, animals, and more in the AI Hub's event log (requied firmware V2.8 or newer).
 
 <img width="742" height="1280" alt="image" src="https://github.com/user-attachments/assets/6d2a3f5d-0a46-4760-9862-97631978b9d7" />
+
+
+---
+### How to Add Non-SwitchBot Cameras to SwitchBot AI Hub
+
+Make sure your SwitchBot App version is up to date.
+
+Make sure SwitchBot cameras and AI Hub have been added to your App.
+
+Make sure your existing third-party camera supports RTSP.
+
+Please obtain and copy the RTSP link (usually found in the app where the camera is added).
+
+Go to SwitchBot app → AI Hub → tap the camera addition icon in the bottom menu bar → tap "Add third-party camera" → paste the RTSP links and name your device → save.
+
+The video stream format is as follows:
+username: Username, default is: admin.  
+password: Password, default is the verification code on the camera base sticker.  
+ip: Device IP, for example: 192.168.31.108.  
+port: Port number, default: 554. If it is already the default value, keep it unchanged.  
+codec: Options include h264, MPEG-4, mpeg4.  
+channel: Channel number, starting from 1; for example, channel 1 is ch1.  
+subtype: Stream type. main stream is main, sub stream is sub.
+
+Setup Video: https://drive.google.com/file/d/1iFpNUUspdhDAkqGfhTEC68DfRYoHHFC0/view?usp=sharing
+
+Note:
+Please contact the camera manufacturer for instructions on how to obtain the RTSP link.
 
 
 
