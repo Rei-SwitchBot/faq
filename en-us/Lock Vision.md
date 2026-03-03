@@ -164,3 +164,40 @@ Set passcodes for the Lock Vision in the following order:
 
 For more information about the passwords that can be added to the Lock Vision, please refer to the link below:
 https://support.switch-bot.com/hc/en-us/articles/38706551464599
+
+
+---
+### Troubleshooting Unable to Enroll Face on SwitchBot Lock Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Direct sunlight on the device or your face (including backlight situations) can mess with registration. Try installing it on the side of your doorframe using the included A+B mounting plates to see if it helps.
+[image1]
+2. When wearing glasses, sunglasses, hats, or helmets, please expose your face as much as possible. There is a possibility of registration failure if it is too tightly hidden.
+3. If your kids are having trouble with face registration, try having them stand about 90–100 cm (35–39 inches) away from the device when unlocking. Another option is to adjust the mounting height to around 1.2 meters (47 inches), which works well for both adults and kids. If needed, you can also try increasing the registration sensitivity in the settings for better results.
+4. Please do not wear a mask when registering faces.
+
+
+---
+### Troubleshooting SwitchBot Lock Vision Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Place the Lock Vision closer to the Wi-Fi router (within 5 meters).  
+3. Please make sure that the Bluetooth on your smartphone is enabled. If it's already on, try turning it off and then back on again.
+4. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+5. When adding the device, make sure that you correctly enter the Wi-Fi SSID and password, including uppercase and lowercase letters.
+6. Restart your home router and then try again.  
+7. As a troubleshooting step, check if the Lock Vision can connect to your smartphone's hotspot.  
+https://support.switch-bot.com/hc/en-us/articles/32573508408983
+
+
+---
+### Troubleshooting: SwitchBot Lock Vision Won't Power on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Charge the rechargeable battery until the green light turns on, which takes approximately 7 hours.
+2. Remove the insulation strip from the spare battery.
+3. Please verify whether the indicator light on the exterior assembly is illuminated.
