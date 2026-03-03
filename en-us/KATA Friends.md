@@ -430,7 +430,7 @@ Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. The environment where KATA Friends is located may be somewhat complex, causing it not to hear your voice. Please try raising your voice and speaking again.  
 3. For words that KATA Friends can understand, please refer to the link below. Please note that more complex words may not be recognized, so we kindly ask for your understanding.
-https://support.switch-bot.com/hc/en-us/articles/34598446670871
+[https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
 
 
 ---
@@ -440,7 +440,7 @@ Thank you for reaching out to us. We sincerely apologize for the inconvenience c
 Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. For gestures that KATA Friends can understand, please refer to the link below. Please note that KATA Friends are still learning more complex gestures and may not be able to understand them yet , so we kindly ask for your understanding.
-https://support.switch-bot.com/hc/en-us/articles/34598446670871
+[https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
 
 
 ---
