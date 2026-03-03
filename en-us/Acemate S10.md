@@ -27,3 +27,9 @@ Whether in rally mode or drill mode, the Acemate S10 can be used for approximate
 
 We regret to inform you that the Acemate S10 tennis robot does not support voice control. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
+
+---
+### What Is the Function of the Backlight Mode on the Acemate S10 Tennis Robot?
+
+The Acemate S10 tennis robot's backlight mode is designed to ensure the device functions properly in high-contrast environments like direct sunlight. This feature does not automatically activate or deactivate based on sunlight, you can manually enable or disable it as needed via the Acemate App.
+
