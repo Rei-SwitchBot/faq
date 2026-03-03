@@ -51,3 +51,31 @@ The Acemate S10 tennis robot can move side-to-side at a maximum speed of 5 m/s.
 
 The Acemate S10 tennis robot is not waterproof, so please refrain from using it outdoors on rainy days.
 
+
+---
+### Is It Possible to Purchase the Battery for Acemate S10 Tennis Robot Separately?
+
+Yes, you can purchase the battery for the Acemate S10 tennis robot on our official website.
+https://www.acematetennis.com/collections/tennis-robot-accessories
+
+
+---
+### How To Replace the Battery of Acemate S10 Tennis Robot
+
+You can replace the battery of the Acemate S10 tennis robot yourself by following the manual.
+1. Open the battery cover on the bottom right of the robot's back side.
+2. Disconnect the DC power cord from the battery.
+3. Pull the battery out.
+4. Insert the new battery.
+5. Plug the DC power cord into the battery.
+6. Close the battery cover.
+
+
+---
+### Are There Any Requirements for the Phone to Download and Install the Acemate App?
+
+Please check your smartphone's system version before installing the Acemate app.  
+iOS 16.6 or newer required  
+Android 7.0 or newer required  
+If you have HarmonyOS 4.2, you can download directly from the app store. For HarmonyOS 5 or newer, please download via the droitong app.
+
