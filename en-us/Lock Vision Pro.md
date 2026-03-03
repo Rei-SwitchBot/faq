@@ -80,3 +80,38 @@ Note:
 Up to ten activation times can be set.
 Once you set a custom activation time, the Lock Vision Pro will automatically activate when your face is scanned during that time. Outside this specified time, you will need to manually activate the device.
 
+
+---
+### How Long Does It Take to Fully Charge SwitchBot Lock Vision Pro's Rechargeable Battery?
+
+It takes about 7 hours for the rechargeable battery of Lock Vision Pro to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete.
+Note:
+During charging, the backup battery will be automatically activated, and the auto-lock function is temporarily disabled.
+
+
+---
+### Which Type of Charging Adapter Do I Need to Use for the Rechargeable Battery of SwitchBot Lock Vision Pro?
+
+Please use a charging adapter with a USB-A interface and an output of 5V 1A or higher to charge the Lock Vision Pro rechargeable battery.
+
+
+---
+### How Should I Charge the Exterior Assembly for SwitchBot Lock Vision Pro?
+
+The exterior assembly and interior assembly of SwitchBot Lock Vision Pro are connected by a wire, with the interior assembly directly supplying power to the exterior assembly. During daily use, you only need to charge the interior assembly's rechargeable battery, there is no need to charge the exterior assembly sepparately.
+
+
+---
+### How Long Can SwitchBot Lock Vision Pro Rechargeable Battery Last on a Single Charge?
+
+Locking once with the lock key and unlocking once with facial recognition count as one lock-unlock cycle. Assuming 10 such cycles occur daily, the Lock Vision Pro's rechargeable battery can last up to nine months on a single charge.
+
+Note:
+The above estimates are based on SwitchBot laboratory test conditions and may differ depending on actual usage environments.
+
+
+---
+### Can the Type-C Port on SwitchBot Lock Vision Pro Exterior Assembly Be Used for Charging?
+
+If both the main and backup batteries of the Interior Assembly are depleted, you can connect a portable power bank to the Exterior Assembly's Type-C port to supply power and restore operation. However, this port only provides power and cannot charge the Lock Vision Pro.
+
