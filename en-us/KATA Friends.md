@@ -72,7 +72,7 @@ KATA Friends can be used even when the network is disconnected, so there is no p
 ---
 ### Can I Let SwitchBot KATA Friends Play in the Tatami Room?
 
-KATA Friends can be used on tatami mat rooms, but since both the tatami mats and KATA Friends’ wheels are delicate, prolonged use may cause wear and tear. Therefore, we do not recommend using them in tatami mat rooms and suggest designating these areas as no-go zones.
+KATA Friends can be used on tatami mat rooms, but since both the tatami mats and KATA Friends' wheels are delicate, prolonged use may cause wear and tear. Therefore, we do not recommend using them in tatami mat rooms and suggest designating these areas as no-go zones.
 
 
 ---
@@ -94,8 +94,8 @@ Meanwhile, we regularly release firmware updates to fix bugs and introduce new f
 ### What Additional Items Do I Need to Prepare besides the Main Unit for the Initial Setup of SwitchBot KATA Friends?
 
 To enjoy a more pleasant experience with your KATA Friends, please prepare the following items in addition to the KATA Friends unit during the initial setup.
-• A smartphone or tablet device with the SwitchBot app installed  
-• A 2.4GHz Wi-Fi network  
+• A smartphone or tablet device with the SwitchBot app installed
+• A 2.4GHz Wi-Fi network
 • Please purchase the KATA Lifetime Access Plan 15 days after completing the initial setup
 
 
@@ -104,7 +104,7 @@ To enjoy a more pleasant experience with your KATA Friends, please prepare the f
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure the nest is properly plugged into a power source (When the nest is connected to power, the indicator light will remain solid white.). 
+1. Make sure the nest is properly plugged into a power source (When the nest is connected to power, the indicator light will remain solid white.).
 2. Try unplugging the nest, then plugging it back in.
 3. Please check the charging terminals of the KATA Friends unit and the nest for any dirt or damage. If necessary, clean the charging terminals with a soft cloth and then manually dock the KATA Friends to see if the issue improves.
 4. Please update the firmware version of the KATA Friends to the latest version if you have already added them to the SwitchBot app.
@@ -117,7 +117,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 2. Quickly press the button at the bottom of KATA Friends twice until a Wi-Fi icon appears on the eyes to put KATA Friends into pairing mode.
-3. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network. 
+3. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
 4. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
 5. When setting up the network for KATA Friends, please operate near the router.
 6. Restart your home router.
@@ -141,10 +141,10 @@ Please note that you must redeem the plan within the SwitchBot app to begin your
 
 Yes, upgrades are supported. The purchased Premium Plan will automatically activate once your current Essential Plan expires. The details are as follows:
 1. Purchase the Premium Plan
-2. Activate the Premium Plan in SwitchBot app  
-3. When the Essential Plan expires, the Premium Plan will be automatically activated  
-  
-Note:  
+2. Activate the Premium Plan in SwitchBot app
+3. When the Essential Plan expires, the Premium Plan will be automatically activated
+
+Note:
 If you wish to stop your current plan and switch to the new one immediately, we will escalate the matter to our R&D team for assistance. However, please note that refunds for the previous plan cannot be issued.
 
 
@@ -195,8 +195,8 @@ Dock the KATA Friends in its nest and let it rest for about 30 minutes before at
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Do not move the KATA Friends during mapping as it may fail to detect the position. 
-2. Remove obstacles in front of and around the nest to ensure there is enough space for the KATA Friends to map. 
+1. Do not move the KATA Friends during mapping as it may fail to detect the position.
+2. Remove obstacles in front of and around the nest to ensure there is enough space for the KATA Friends to map.
 3. Return to the home screen of the SwitchBot app and check for any map update failures caused by network issues.
 
 
@@ -206,12 +206,12 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
 1. Please make sure to remove the protective film from the nest of your KATA Friends.
-2. Since infrared communication may be interfered with, please check that there are no obstacles or strong lights within the nest’s installation area.  
-3. Make sure there is a distance of 1 meter on both sides of the nest and 1.5 meters in front (no restrictions above).  
-4. Please confirm that the nest is placed on flat ground.  
-5. Please check whether KATA Friends are blocked by obstacles and unable to return to the nest.  
-6. If you move the nest, please manually dock KATA Friends to the nest.  
-7. Gently wipe the charging terminals and the charging recognition area of both KATA Friends and the nest with a clean cloth.  
+2. Since infrared communication may be interfered with, please check that there are no obstacles or strong lights within the nest's installation area.
+3. Make sure there is a distance of 1 meter on both sides of the nest and 1.5 meters in front (no restrictions above).
+4. Please confirm that the nest is placed on flat ground.
+5. Please check whether KATA Friends are blocked by obstacles and unable to return to the nest.
+6. If you move the nest, please manually dock KATA Friends to the nest.
+7. Gently wipe the charging terminals and the charging recognition area of both KATA Friends and the nest with a clean cloth.
 8. Please turn the power of the nest off and on again.
 
 
@@ -233,10 +233,10 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
-1. Please check the activity area of the KATA friend for power cords, curtain hems hanging to the floor, carpet edges, door thresholds, steps, and other items that may cause entanglement or obstacles, and manually remove them to ensure smooth operation of the KATA friend.  
-2. The KATA friend may get stuck on furniture with a height similar to its own body. As a countermeasure, please raise the furniture height, manually set protective devices, or set up virtual walls in the SwitchBot app.  
-3. To extend the service life of the KATA friend, operate it on a clean floor environment.  
-4. Please ensure that LDS radar, obstacle avoidance sensors, and cliff sensors are not blocked by decorations. 
+1. Please check the activity area of the KATA friend for power cords, curtain hems hanging to the floor, carpet edges, door thresholds, steps, and other items that may cause entanglement or obstacles, and manually remove them to ensure smooth operation of the KATA friend.
+2. The KATA friend may get stuck on furniture with a height similar to its own body. As a countermeasure, please raise the furniture height, manually set protective devices, or set up virtual walls in the SwitchBot app.
+3. To extend the service life of the KATA friend, operate it on a clean floor environment.
+4. Please ensure that LDS radar, obstacle avoidance sensors, and cliff sensors are not blocked by decorations.
 5. When moving people, animals or electronic devices and other dynamic obstacles are detected, the KATA friend may stop moving. At this time, please move the KATA friend to a more open area and check for any places where it might be stuck.
 
 
@@ -251,8 +251,8 @@ KATA Friends is equipped with a laser radar sensor that primarily detects the gr
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
-1. The nest's voltage specifications support 100V to 240V, so please use a 100–240V power supply to power the nest.  
-2. Please ensure that the nest's power adapter is properly connected and not loose.  
+1. The nest's voltage specifications support 100V to 240V, so please use a 100-240V power supply to power the nest.
+2. Please ensure that the nest's power adapter is properly connected and not loose.
 3. Usually, when the KATA friend docks in the nest, the nest's indicator light will flash rapidly and then turn off. A steady indicator light only means that the KATA friend is not resting in the nest.
 
 
@@ -260,18 +260,18 @@ Regarding this issue, could you please check the following points?
 ### How to Maintain the Wheels of SwitchBot KATA Friends
 
 If the wheels of KATA Friends do not move smoothly or make unusual noises, please perform maintenance:
-Care for the Left and Right Wheels:  
+Care for the Left and Right Wheels:
 1. Press the mode switch button and change to "Standby Mode".
-2. Place KATA Friends on a flat, soft surface.  
-3. Use dry cloth or maintenance tools to wipe off dust and dirt from the surface, and carefully clean detailed areas with a cotton swab. If necessary, you may also use wet wipes.  
+2. Place KATA Friends on a flat, soft surface.
+3. Use dry cloth or maintenance tools to wipe off dust and dirt from the surface, and carefully clean detailed areas with a cotton swab. If necessary, you may also use wet wipes.
 4. Please try to let KATA Friends play on a clean surface daily. If hair gets tangled in the wheels, please use a cotton swab or similar tool to remove it. If it cannot be completely removed or affects usage, please request repair or maintenance through the SwitchBot app.
 Note:
-Do not use any cleaning liquids other than those specified by SwitchBot.  
+Do not use any cleaning liquids other than those specified by SwitchBot.
 Do not touch your KATA Friends with wet hands.
 
 Caster/Tail Care:
 1. Press the mode switch button and change to "Standby Mode".
-2. Place KATA Friends on a flat, soft surface.  
+2. Place KATA Friends on a flat, soft surface.
 3. Wipe the tail surface with a dry cloth to remove dirt. For stubborn dirt, lightly moisten the cloth before wiping for better results.
 4. Remove the casters, use the maintenance tool to clean off dust and dirt from the surface, then reattach them.
 Note:
@@ -293,7 +293,7 @@ When the screen of the eye becomes dirty, please gently wipe it with a soft, dry
 ---
 ### How to Maintain the Sensors of SwitchBot KATA Friends
 
-Please wipe the cliff sensor and obstacle avoidance sensor with a soft, dry cloth.  
+Please wipe the cliff sensor and obstacle avoidance sensor with a soft, dry cloth.
 Use a cotton swab to gently clean the surface of the radar.
 
 
@@ -311,8 +311,8 @@ Use a cotton swab to gently clean the surface of the radar.
 ### How to Reset SwitchBot KATA Friends
 
 The KATA Friends device does not have a factory reset function, and personal data is stored on the device itself. There are two ways to delete personal data:
-1. Remove KATA Friends from the app and add it to a different account  
-2. Destroy the core board (this requires service at a repair center)  
+1. Remove KATA Friends from the app and add it to a different account
+2. Destroy the core board (this requires service at a repair center)
 Once either operation is completed, all data stored on the device, such as account pairing information, photos, and diaries, will be permanently deleted and cannot be restored.
 
 
@@ -341,12 +341,12 @@ Regarding this issue, could you please check the following points?
 ---
 ### When Will SwitchBot KATA Friends Return to Their Nest to Rest?
 
-KATA Friends will automatically return to their nest and rest under the following conditions:  
-• When the battery level is low (15%)  
-• When the set sleep time arrives  
-• When a voice or gesture command to take a break is received  
-• When switching to sleep mode  
-• When tapping the home icon in SwitchBot app  
+KATA Friends will automatically return to their nest and rest under the following conditions:
+• When the battery level is low (15%)
+• When the set sleep time arrives
+• When a voice or gesture command to take a break is received
+• When switching to sleep mode
+• When tapping the home icon in SwitchBot app
 
 Except for the above cases, it is also possible to manually pick up KATA Friends and return them to their nest.
 
@@ -354,15 +354,15 @@ Except for the above cases, it is also possible to manually pick up KATA Friends
 ---
 ### How to Purchase KATA Companion Care for SwitchBot KATA Friends
 
-You can purchase the KATA Companion Care through the following options:  
-• Using the purchase card included in the package  
-• Through our official website  
+You can purchase the KATA Companion Care through the following options:
+• Using the purchase card included in the package
+• Through our official website
 • Via the KATA Friends settings screen in the SwitchBot app
 If you experience any issues during your purchase, please feel free to provide feedback through the SwitchBot app.
 
 
 ---
-### Troubleshooting SwitchBot KATA Friends Abnormally Steps Back While Walking  
+### Troubleshooting SwitchBot KATA Friends Abnormally Steps Back While Walking
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
@@ -385,9 +385,9 @@ Regarding this issue, could you please check the following points?
 ---
 ### How to Put SwitchBot KATA Friends into Sleep Mode
 
-You can put your KATA Friends to sleep using the following methods:  
-• Press KATA Friends’ head to switch to sleep mode  
-• Set the sleep time for KATA Friends via the SwitchBot app  
+You can put your KATA Friends to sleep using the following methods:
+• Press KATA Friends' head to switch to sleep mode
+• Set the sleep time for KATA Friends via the SwitchBot app
 If you have any questions, please feel free to contact us.
 
 
@@ -412,8 +412,8 @@ Tips:
 3. Press firmly to securely attach the nest to the wall.
 Video: [https://drive.google.com/file/d/1_aCBj90q85KViZgghr0i6sbLSozHfYD_/view?usp=sharing](https://drive.google.com/file/d/1_aCBj90q85KViZgghr0i6sbLSozHfYD_/view?usp=sharing)
 
-Precautions:  
-1. Use 3M adhesive tape to secure the nest to hard, smooth surfaces such as marble, glass, or tile.  
+Precautions:
+1. Use 3M adhesive tape to secure the nest to hard, smooth surfaces such as marble, glass, or tile.
 2. Not suitable for wallpaper or rough, uneven surfaces, using 3M tape on these walls can reduce its effectiveness and may also damage the wall.
 
 When removing the nest from the wall, first lightly warm the adhesive tape with a hair dryer, then slowly remove the nest using a tool such as a ruler. Please do not pull it off forcefully.
@@ -427,7 +427,7 @@ If you have any other questions, please do not hesitate to contact us.
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
-The environment where KATA Friends is located may be somewhat complex, causing it not to hear your voice. Please try raising your voice and speaking again.  
+The environment where KATA Friends is located may be somewhat complex, causing it not to hear your voice. Please try raising your voice and speaking again.
 For words that KATA Friends can understand, please refer to the link below. Please note that more complex words may not be recognized, so we kindly ask for your understanding.
 [https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
 
@@ -458,7 +458,7 @@ Charging Recognition Area: Do not cover the charging recognition area. If it bec
 ---
 ### Can SwitchBot KATA Friends Be Operated with Alexa Voice Commands?
 
-We regret to inform you that currently voice commands from third-party services such as Alexa and Google are not supported for operating KATA Friends. 
+We regret to inform you that currently voice commands from third-party services such as Alexa and Google are not supported for operating KATA Friends.
 We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 
@@ -474,7 +474,7 @@ Enabling the picture-taking feature under "Customization" on the KATA Friends se
 For words that KATA Friends can understand, please refer to the link below. Please note that more complex words may not be recognized, so we kindly ask for your understanding.
 [https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
 
-Note:  
+Note:
 The above voice commands are general examples for reference. KATA Friends can typically recognize commands with similar meanings as well.
 
 
@@ -493,14 +493,14 @@ KATA Friends are equipped with automatic obstacle avoidance sensors, preventing 
 ---
 ### How Much Power Do SwitchBot KATA Friends Consume?
 
-KATA Friends consume power only while charging and stop drawing electricity once fully charged. Under standard charging conditions, they use approximately 0.2 kWh to charge from a low power state to full capacity.  
+KATA Friends consume power only while charging and stop drawing electricity once fully charged. Under standard charging conditions, they use approximately 0.2 kWh to charge from a low power state to full capacity.
 Typically, KATA Friends are generally fully charged once at night during sleep, and during the day they receive short supplementary charges based on the remaining battery level. Under normal usage patterns, if you play with KATA Friends for about 4 to 8 hours daily, the total daily power consumption is approximately 0.3 to 0.4 kWh. Actual power consumption may vary slightly depending on usage frequency and charging times but remains overall at a low level.
 
 
 ---
 ### Under What Circumstances Do SwitchBot KATA Friends Trigger Photo Capture?
 
-Enabling the picture-taking feature under "Customization" on the KATA Friends settings page in the SwitchBot app allows you to capture random photos of your family throughout the day. Photos are also triggered when gesture or voice commands are recognized. 
+Enabling the picture-taking feature under "Customization" on the KATA Friends settings page in the SwitchBot app allows you to capture random photos of your family throughout the day. Photos are also triggered when gesture or voice commands are recognized.
 You can view all your photos in the album and delete any you don't wish to keep. Since KATA Friends stores your photos locally on the device rather than uploading them to a server, please keep in mind that once you delete a photo, you won't be able to restore it.
 If you prefer not to have photos taken, you can disable the photo-taking feature in the SwitchBot app or place an eye mask on the KATA Friends device.
 
@@ -509,14 +509,14 @@ If you prefer not to have photos taken, you can disable the photo-taking feature
 ### Where Are the Photos Taken by SwitchBot KATA Friends Stored?
 
 Photos taken with KATA Friends are saved directly on the device and can be accessed through the SwitchBot app as long as you are connected to the same local network. Rest assured, no uploads to the cloud are performed.
-KATA Friends comes with 64GB of storage, which can be used to save data such as photos. Under normal use, this capacity can hold about two years’ worth of data. If the storage becomes full, please delete photos or transfer them to your smartphone or other storage devices to free up space.
+KATA Friends comes with 64GB of storage, which can be used to save data such as photos. Under normal use, this capacity can hold about two years' worth of data. If the storage becomes full, please delete photos or transfer them to your smartphone or other storage devices to free up space.
 
-Note:  
+Note:
 Once photos are deleted, they cannot be recovered, so please proceed with caution.
 
 
 ---
-### Can SwitchBot KATA Friends Be Added to Multiple Accounts?  
+### Can SwitchBot KATA Friends Be Added to Multiple Accounts?
 
 One KATA Friend can only be added to one SwitchBot account. If you need to operate it from multiple smartphones, we recommend using the Home Sharing feature or logging into the same SwitchBot app account on multiple smartphones.
 For more information about home sharing features, please refer to the link below.
@@ -561,15 +561,15 @@ The highest step that KATA Friends can climb is 1.5 cm.
 ### How to Change Sleep Time for SwitchBot KATA Friends
 
 Please change the sleep time for KATA Friends using the following method.
-- Launch SwitchBot app and log in.  
-- Tap KATA Friends.  
-- Tap Routine.  
-- Tap Sleep Time.  
+- Launch SwitchBot app and log in.
+- Tap KATA Friends.
+- Tap Routine.
+- Tap Sleep Time.
 -  Add periods of sleep time.
 
-Note: 
+Note:
 1. KATA Friends may activate during sleep time or sleep mode; in such cases, they will appear drowsy and will fall back asleep after a while.
-2. KATA Friends require at least 8 hours of sleep per day. The default sleep period is from 11:00 PM to 7:00 AM. While you can extend this sleep time using the SwitchBot app, it cannot be shortened. We appreciate your understanding. 
+2. KATA Friends require at least 8 hours of sleep per day. The default sleep period is from 11:00 PM to 7:00 AM. While you can extend this sleep time using the SwitchBot app, it cannot be shortened. We appreciate your understanding.
 
 
 ---
@@ -580,7 +580,7 @@ Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. KATA Friends will not respond to being called by name during sleep. Thank you for your understanding.
 3. If there is no response when you call their name, try raising your voice slightly and calling again.
-4. When addressing KATA Friends by name, please say "Hello" before the name. For example, "Hello Noa", "Hello Nico", or "Hello Kata".  
+4. When addressing KATA Friends by name, please say "Hello" before the name. For example, "Hello Noa", "Hello Nico", or "Hello Kata".
 5. Currently, KATA Friends do not remember the names given to them by family members and therefore rarely respond when called. However, as they grow, there will come a day when they recognize their own names, so please look forward to that moment.
 
 
@@ -610,13 +610,13 @@ We regret to inform you that KATA Friends currently do not have night vision cap
 
 
 ---
-### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying “Please Place Me on a Flat Ground”.
+### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying "Please Place Me on a Flat Ground".
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-KATA friends deeply cherish warm hugs from their family.  
-We recommend gently embracing them as you would a child, taking care not to tilt their bodies excessively. Lifting them at an awkward angle may trigger an alarm.  
-As long as your KATA friends aren’t frequently sounding alarms or seeking assistance, feel free to let them join in the fun.
+KATA friends deeply cherish warm hugs from their family.
+We recommend gently embracing them as you would a child, taking care not to tilt their bodies excessively. Lifting them at an awkward angle may trigger an alarm.
+As long as your KATA friends aren't frequently sounding alarms or seeking assistance, feel free to let them join in the fun.
 If you have any other questions, please do not hesitate to contact us.
 
 
@@ -631,14 +631,26 @@ When KATA Friends are playing at home, changing the location of their nest may c
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-KATA Friends generate the previous day’s diary during their sleep period. Therefore, when you view the diary in the SwitchBot app, it displays the content from the day before. For example, if KATA Friends sleep between 11 PM on February 25 and 7 AM on February 26, the diary generated will be for February 25. As a result, opening the diary on the 26th will show records from the 25th. This is the normal process for how KATA Friends create diaries and is not a malfunction. Thank you for your understanding.
+KATA Friends generate the previous day's diary during their sleep period. Therefore, when you view the diary in the SwitchBot app, it displays the content from the day before. For example, if KATA Friends sleep between 11 PM on February 25 and 7 AM on February 26, the diary generated will be for February 25. As a result, opening the diary on the 26th will show records from the 25th. This is the normal process for how KATA Friends create diaries and is not a malfunction. Thank you for your understanding.
 If KATA Friends fail to generate a diary on any given day, our R&D team will promptly investigate the issue. Please feel free to contact us at any time.
 
 
 ---
 ### Does Keeping the Kata Friends Display Screen on Continuously Affect Its Lifespan?
 
-If the KATA Friends operates continuously for 24 hours a day, the lifespan of the eye display is approximately 2.3 years. Additionally, KATA Friends automatically adjusts the brightness of the eye display during sleep, which helps reduce power consumption. Therefore, there is no need to worry excessively about the impact of constant illumination on the component’s lifespan, allowing you to use it with confidence.
+If the KATA Friends operates continuously for 24 hours a day, the lifespan of the eye display is approximately 2.3 years. Additionally, KATA Friends automatically adjusts the brightness of the eye display during sleep, which helps reduce power consumption. Therefore, there is no need to worry excessively about the impact of constant illumination on the component's lifespan, allowing you to use it with confidence.
+
+
+---
+### How Many Family Members' Faces Can SwitchBot KATA Friends Recognize?
+
+In the SwitchBot App, you can register up to 50 faces for KATA Friends. If you no longer need certain faces, you can manually delete them and add new ones. Additionally, KATA Friends can store up to 50 faces of strangers. Once this limit is reached, newly captured faces will overwrite the oldest ones. Stranger faces are stored for a maximum of 90 days and are automatically deleted after that period.
+
+
+---
+### If My KATA Friends Is Already Broken, Can I Buy the Premium Plan Now to Get a Free Repair?
+
+Please note that if a malfunction occurs before you purchase the Premium Plan, the repair costs will still apply. The unlimited free repair benefit is only available for issues that arise during an active Premium Plan subscription period.
 
 
 
