@@ -115,3 +115,113 @@ The above estimates are based on SwitchBot laboratory test conditions and may di
 
 If both the main and backup batteries of the Interior Assembly are depleted, you can connect a portable power bank to the Exterior Assembly's Type-C port to supply power and restore operation. However, this port only provides power and cannot charge the Lock Vision Pro.
 
+
+---
+### How Many Palm Veins Can I Add to SwitchBot Lock Vision Pro?
+
+SwitchBot Lock Vision Pro can currently store up to 100 palm veins.
+
+There are two types of palm vein settings: Permanent and Temporary.
+
+Permanent palm veins have no time limit and will be available for use permanently.
+
+Temporary palm veins are valid for a limited period of time.
+
+If the number of saved palm veins exceeds the limit, you must delete some before adding a new one.
+
+
+---
+### How Many Faces Can I Add to SwitchBot Lock Vision Pro?
+
+SwitchBot Lock Vision Pro can currently store up to 100 faces.
+
+There are two types of face settings: permanent and temporary.
+
+Permanent faces have no time limit and will be available for use permanently.
+
+Temporary faces are valid for a limited period of time.
+
+If the number of saved faces exceeds the limit, you must delete some before adding a new one.
+
+
+---
+### Where Is the Registered Information for Passwords, Fingerprints, Palm Veins, NFC Cards and Faces That Has Already Been Added to SwitchBot Lock Vision Pro Store?
+
+All passwords, fingerprints, faces, palm veins and NFC cards added are stored on the Lock Vision Pro body. If you want to delete any information, you must go to SwitchBot App and delete it yourself. Also, deleting and re-adding the device will automatically erase all previously added information.
+
+
+---
+### How Many NFC Cards Can I Add to SwitchBot Lock Vision Pro?
+
+You can add up to 100 SwitchBot NFC cards to the Lock Vision Pro, including cards that are always valid and those that are valid for some period of time.
+When the NFC cards reach the limit, you must delete the current card and pair a new one.
+If you lose a registered NFC card, please delete it.
+Note: 
+SwitchBot Wallet Finder Card and Safety Alarm, can also function as a regular NFC card and be added to the Lock Vision Pro for unlocking the interior assembly.
+
+
+---
+### How Many Fingerprints Can I Add to SwitchBot Lock Vision Pro?
+
+SwitchBot Lock Vision Pro is currently able to configure up to 100 fingerprints.
+There are three types of fingerprint settings to choose from. Permanent fingerprints, emergency fingerprints, and temporary fingerprints.
+ 
+Permanent fingerprints, when set, have no time limit and will be available to use permanently.
+Temporary fingerprints can be set to expire after any time between 1 hour and five years.
+Emergency fingerprints can help send an emergency alert to someone via email when your Lock is unlocked using your emergency fingerprint (SwitchBot Hub required).
+ 
+Please note: you can set up to 90 fingerprints at any one time a period of time with an additional 10 emergency fingerprints. In the event that the number of fingerprints set exceeds your maximum limit, current fingerprints must be deleted and a new fingerprint can then be set.
+
+
+---
+### Does SwitchBot Lock Vision Pro Support Matter?
+
+Yes, Lock Vision Pro supports Matter. You can add the device directly to third-party services like Apple Home and Google Home through Matter. After adding it, you can control the interior assembly. 
+Please note that the Exterior Assembly is not supported for third-party control.
+
+
+---
+### Can I Also Use the Doorbell Directly to Unlock SwitchBot Lock Vision Pro?
+
+Yes, you can use your current SwitchBot Smart Video Doorbell to operate your Lock Vision Pro.  
+The maximum number of SwitchBot Remotes that can be paired with the Lock Vision Pro is 3. Devices like the Keypad Vision Pro, Keypad Vision, Keypad Touch, and Doorbell have no individual pairing limits. However, the total number of Remotes and these devices combined cannot exceed 7. In other words, you can pair up to seven devices with your Lock Vision Pro for locking and unlocking.
+
+
+---
+### How to Add SwitchBot Lock Vision Pro to SwitchBot App
+
+Make sure your SwitchBot App version is up to date.
+
+Add your Lock Vision Pro to SwitchBot App in the following order:
+1. Launch SwitchBot App and log in.
+2. Tap "+" icon in the upper right corner.
+3. Tap "Add Device".
+4. Scroll down and tap "Lock Vision Pro" in the "Security" section.
+5. Press and hold the button on the back of the interior assembly for two seconds.
+6. Tap "Connect Device" to connect the device.
+7. Once the connection is established, enter the SSID and password for the 2.4 GHz network.
+8. Calibrate the device according to the app instructions.
+9. Tap "Start Using" to finish pairing.
+
+Note:
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+
+
+---
+### How to Automatically Lock SwitchBot Lock Vision Pro When the Door Closes
+
+Please enable the "Auto Lock" function via the steps below.
+1. Launch the SwitchBot App and login.
+2. Tap "Lock Vision Pro".
+3. Tap the gear icon in the upper right corner.
+4. Tap "Auto-Lock".
+5. Turn on "Auto-Lock"
+6. Set up "Auto-Lock Timing" (Auto-lock will lock your door after it has been closed for the specified time).
+7. If necessary, we can also enable "Re-Lock" and set up "Re-lock Timing" (Re-Lock will lock your door if it has been unlocked after the specified time, no matter your door is open or closed).
+
+Note:
+You can disable the "Auto-Lock" function using the same steps.
+When the battery level is below 20%, the "Auto Lock" feature will be automatically disabled.
+Please be sure to calibrate the magnet in the SwitchBot App.
+
