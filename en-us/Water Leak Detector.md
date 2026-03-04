@@ -584,3 +584,12 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+---
+### Troubleshooting: I Set the Alarm Notification Interval for SwitchBot Water Leak Detector to 60 Minutes, but I Continue to Receive Alarm Notifications Every Minute.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If a Water Leak Detector alert is triggered, even if you manually dismiss it, the device will immediately reissue the alert if it still detects a water leak, prompting you to take action. However, if an alert is triggered and left unattended without dismissal, it will continue to repeat at the set intervals. This behavior is a built-in feature of the Water Leak Detector and is not a malfunction. 
+We apologize for any inconvenience this may cause and appreciate your understanding!
+If you have any other questions, please do not hesitate to contact us.
