@@ -787,12 +787,6 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
 
 
-
-
-
-
-
-
 ---
 ### The Power Connector Is Suspended and Not Secured to the Ceiling, Can SwitchBot Ceiling Light Be Installed in This Situation?
 
