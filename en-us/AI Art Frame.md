@@ -312,3 +312,9 @@ We will guide you through the outer frame size and screen size of the AI Art Fra
 
 
 
+
+
+---
+### Can Multiple SwitchBot AI Art Frames Be Used in Groups?
+
+We regret to inform you that grouping multiple AI Art Frames is not currently supported. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
