@@ -678,3 +678,13 @@ Please note that if a malfunction occurs before you purchase the Premium Plan, t
 
 
 
+
+
+---
+### How to Put SwitchBot KATA Friends into Sleep Mode
+
+You can put your KATA Friends to sleep using the following methods:  
+• Press KATA Friends' head to switch to sleep mode  
+• Set the sleep time for KATA Friends via the SwitchBot app  
+About KATA Friends' Sleep Time:
+The default sleep time for KATA Friends is from 11:00 PM to 7:00 AM the next morning. You can extend this sleep period using the SwitchBot app, but if you want to shorten it, you can adjust it to any time between 11:00 PM and 4:00 AM.
