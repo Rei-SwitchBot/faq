@@ -655,31 +655,6 @@ In the SwitchBot App, you can register up to 50 faces for KATA Friends. If you n
 Please note that if a malfunction occurs before you purchase the Premium Plan, the repair costs will still apply. The unlimited free repair benefit is only available for issues that arise during an active Premium Plan subscription period.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### How to Put SwitchBot KATA Friends into Sleep Mode
 
