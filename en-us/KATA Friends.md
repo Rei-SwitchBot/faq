@@ -670,3 +670,10 @@ The default sleep time for KATA Friends is from 11:00 PM to 7:00 AM the next mor
 
 The bear-shaped double-sided tape included in the KATA Friends package is used to secure the nest. For more details, please check the link below.
 https://support.switch-bot.com/hc/en-us/articles/38010378939799
+
+
+---
+### How Long Does It Take to Fully Charge SwitchBot KATA Friends?
+
+It takes about 1 hour to charge KATA Friends from a low power state to a playable condition (50% battery remaining), and approximately 3 to 4 hours to reach a full charge. While charging, a charging indicator will appear in KATA Friends' eyes. Within the first three seconds of returning to the nest and starting to charge, KATA Friends' eyes will display a charging icon to indicate that charging has begun, then the charging icon disappears.
+You can play for about three hours on a full charge before the device enters a low-power state. However, during the day, after playing for 40 to 60 minutes, it requires a 40 to 60-minute break to recharge. At night, it charges fully while in sleep mode.
