@@ -663,3 +663,10 @@ You can put your KATA Friends to sleep using the following methods:
 • Set the sleep time for KATA Friends via the SwitchBot app  
 About KATA Friends' Sleep Time:
 The default sleep time for KATA Friends is from 11:00 PM to 7:00 AM the next morning. You can extend this sleep period using the SwitchBot app, but if you want to shorten it, you can adjust it to any time between 11:00 PM and 4:00 AM.
+
+
+---
+### What Is the Bear-Shaped Adhesive Tape Included in SwitchBot KATA Friends Package Used For?
+
+The bear-shaped double-sided tape included in the KATA Friends package is used to secure the nest. For more details, please check the link below.
+https://support.switch-bot.com/hc/en-us/articles/38010378939799
