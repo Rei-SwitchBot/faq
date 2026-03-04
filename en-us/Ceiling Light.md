@@ -791,3 +791,11 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+
+---
+### The Power Connector Is Suspended and Not Secured to the Ceiling, Can SwitchBot Ceiling Light Be Installed in This Situation?
+
+Our ceiling lights are installed by inserting the included adapter into the ceiling wiring fixture and then securing the light fixture. If the wiring fixture in your home is suspended rather than fixed to the ceiling, our ceiling lights cannot be securely installed. Please consult an electrician or apartment manager to confirm whether the wiring fixture can be properly fixed to the ceiling.
+For more information about the Installation of Ceiling Lights, please refer to the link below:
+https://support.switch-bot.com/hc/ja/articles/7079868054807
