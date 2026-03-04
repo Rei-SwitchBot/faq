@@ -340,23 +340,12 @@ We will forward your feedback to our R&D team for further investigation, and wou
 ---
 ### Troubleshooting Failed to Pair the Add-on Monitor with SwitchBot Smart Video Doorbell
 
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-If the issue is related to the add-on monitor, we will provide a replacement under the warranty. Please provide us with the necessary details so we can assist you as soon as possible.
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*Since we will investigate based on the operation logs, if you have not yet sent feedback through the SwitchBot app, please provide feedback via the app first.
 
 
 ---
@@ -1145,3 +1134,4 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 *Since we will investigate based on the operation logs, if you have not yet sent feedback through the SwitchBot app, please provide feedback via the app first.
+
