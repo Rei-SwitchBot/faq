@@ -155,12 +155,6 @@ If you are unable to activate your plan due to eligibility issues, please submit
 
 
 ---
-### How to Activate the Purchased KATA Companion Care
-
-Upon completing your purchase, you will receive an email containing a redemption code. Open the SwitchBot app, enter the code in the designated field, and your Companion Care will be activated automatically.
-
-
----
 ### How to Check the Details of Your Purchased KATA Companion Care
 
 You can check the validity period of your purchased plan by going to SwitchBot app → KATA Friends → gear icon → Companion Care on the settings screen. For detailed information about the number of repairs, maintenance sessions, or discount benefits, please submit feedback through the SwitchBot app and contact customer support.
@@ -383,15 +377,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### How to Put SwitchBot KATA Friends into Sleep Mode
-
-You can put your KATA Friends to sleep using the following methods:
-• Press KATA Friends' head to switch to sleep mode
-• Set the sleep time for KATA Friends via the SwitchBot app
-If you have any questions, please feel free to contact us.
-
-
----
 ### Troubleshooting An Error Occurred While Entering the Redemption Code to Activate KATA Companion Care, Preventing Activation.
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
@@ -590,13 +575,6 @@ Regarding this issue, could you please check the following points?
 ### Can SwitchBot KATA Friends Be Used without Purchasing the KATA Companion Care?
 
 Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience software services without an immediate subscription. However, once this trial period ends, your KATA Friends will enter "Dormant Mode". In this state, app features will be disabled, making daily operation and communication unavailable.
-
-
----
-### How Long Does It Take to Fully Charge SwitchBot KATA Friends?
-
-It takes about 1 hour to charge KATA Friends from a low power state to a playable condition (50% battery remaining), and approximately 3 to 4 hours to reach a full charge. While charging, a charging indicator will appear in KATA Friends' eyes.
-You can play for about three hours on a full charge before the device enters a low-power state. However, during the day, after playing for 40 to 60 minutes, it requires a 40 to 60-minute break to recharge. At night, it charges fully while in sleep mode.
 
 
 ---
