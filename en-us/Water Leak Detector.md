@@ -580,11 +580,6 @@ Regarding this issue, could you please check the following points?
 
 
 
-
-
-
-
-
 ---
 ### Troubleshooting: I Set the Alarm Notification Interval for SwitchBot Water Leak Detector to 60 Minutes, but I Continue to Receive Alarm Notifications Every Minute.
 
