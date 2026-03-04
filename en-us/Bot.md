@@ -1635,3 +1635,8 @@ Please click the link below and install the bot by following the video instructi
 
 
 
+
+---
+### Can the Rechargeable Battery of the Bot Charge Be Used in the Regular Bot?
+
+The regular Bot does not support rechargeable batteries, so using them may cause incorrect battery level readings or prevent the switch from being pressed properly. Therefore, do not use Bot Charge rechargeable batteries with regular Bot.
