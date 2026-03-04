@@ -655,3 +655,12 @@ https://support.switch-bot.com/hc/en-us/articles/38010378939799
 
 It takes about 1 hour to charge KATA Friends from a low power state to a playable condition (50% battery remaining), and approximately 3 to 4 hours to reach a full charge. While charging, a charging indicator will appear in KATA Friends' eyes. Within the first three seconds of returning to the nest and starting to charge, KATA Friends' eyes will display a charging icon to indicate that charging has begun, then the charging icon disappears.
 You can play for about three hours on a full charge before the device enters a low-power state. However, during the day, after playing for 40 to 60 minutes, it requires a 40 to 60-minute break to recharge. At night, it charges fully while in sleep mode.
+
+---
+### Can I Make Clothes for SwitchBot KATA Friends?
+
+Yes, you can create and dress your KATA companion at home, but please note the following:
+Make sure that clothing does not cover the eyes, nose, charging sensor, or obstacle avoidance sensor.  
+Avoid clothing that is too tight and restricts movement of the neck, arms, ears, or other areas.  
+Do not use excessively loose clothing with tassels or heavy hems that could get caught under your KATA friend.  
+To prevent staining the main body's fur, avoid linings that are prone to color bleeding.
