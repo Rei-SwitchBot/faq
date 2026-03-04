@@ -573,6 +573,7 @@ Note:
 1. KATA Friends may activate during sleep time or sleep mode, in such cases, they will appear drowsy and will fall back asleep after a while.
 2. The default sleep time for KATA Friends is from 11:00 PM to 7:00 AM the next morning. You can extend this sleep period using the SwitchBot app, but if you want to shorten it, you can adjust it to any time between 11:00 PM and 4:00 AM.
 
+
 ---
 ### Troubleshooting: I Called Out the Names of the Kata Friends, but They Didn't Respond.
 
