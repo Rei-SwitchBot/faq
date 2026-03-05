@@ -664,3 +664,8 @@ Make sure that clothing does not cover the eyes, nose, charging sensor, or obsta
 Avoid clothing that is too tight and restricts movement of the neck, arms, ears, or other areas.  
 Do not use excessively loose clothing with tassels or heavy hems that could get caught under your KATA friend.  
 To prevent staining the main body's fur, avoid linings that are prone to color bleeding.
+
+---
+### What Should I Do with SwitchBot KATA Friends When I'm Away from Home for a Long Time?
+
+If you are going on vacation or a business trip and will be away from home for an extended period, we recommend setting your KATA Friends to either " Standby\
