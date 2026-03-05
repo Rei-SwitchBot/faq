@@ -668,4 +668,4 @@ To prevent staining the main body's fur, avoid linings that are prone to color b
 ---
 ### What Should I Do with SwitchBot KATA Friends When I'm Away from Home for a Long Time?
 
-If you are going on vacation or a business trip and will be away from home for an extended period, we recommend setting your KATA Friends to either " Standby\
+If you are going on vacation or a business trip and will be away from home for an extended period, we recommend setting your KATA Friends to either "Standby" or "Sleep" mode. In either mode, KATA Friends will quietly remain in their nest and will not roam around the house. You can also turn off your KATA Friends completely, in that case, the eyes (screen) will be off, so we suggest using an eye mask.
