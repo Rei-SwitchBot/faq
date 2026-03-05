@@ -1517,12 +1517,7 @@ Regarding this issue, could you please check the following points?
 ---
 ### Troubleshooting SwitchBot Hub 2 no longer turns on
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please confirm that the power outlet at your home is supplying electricity.  
-2. Make sure that the charging cable is securely inserted into the device.  
-3. If you have another 5V2A charging adapter and Type-C charging cable on hand, switch to those and check if they supply power.
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\n1. Please confirm that the power outlet at your home is supplying electricity.\n2. Please firmly insert the charging cable into the Hub 2. If it is not properly connected, temperature and humidity data will not be displayed.\n[image1]\n3. If you have another 5V2A charging adapter and Type-C charging cable on hand, switch to those and check if they supply power.
 
 ---
 ### Troubleshooting When I press the off button on SwitchBot hub 2, the temperature display, etc. turns black and disappears.
