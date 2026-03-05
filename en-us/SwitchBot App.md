@@ -94,3 +94,8 @@ Important Things to Know:
 
 
 
+
+---
+### Troubleshooting: Unable to Join Home
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you provide the home owner account and member account (email address)?\nHome owner account:\nHome member account:\nNote:\nAs a temporary measure for urgent cases, members can log in to the same SwitchBot app account on their phones to access the added products.
