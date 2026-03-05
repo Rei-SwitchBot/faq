@@ -3393,3 +3393,8 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 
 
 
+
+---
+### Is the Side Brush Installed on the Newly Purchased SwitchBot Mini Robot Vacuum K10+?
+
+No, the side brush is not attached to the K10+ main unit; instead, it is tucked inside the paper case. If you cannot find the side brush, please carefully check every part of the package. If it still cannot be located, please provide a video of the unboxing or photos taken after opening. Our after-sales team will assist you shortly. Thank you for your patience and understanding!
