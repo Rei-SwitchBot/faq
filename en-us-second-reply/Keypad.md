@@ -428,3 +428,24 @@ If you have any other questions, please do not hesitate to contact us.
 
 
 
+
+---
+### Troubleshooting SwitchBot Keypad Touch Battery Drains Very Quickly
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+To determine if your device needs to be replaced, we would appreciate it if you could kindly provide a brief explanation of the battery depletion status of the Keypad Touch.
+(For example, after using it for XX days, the battery level became XX.)
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+Purchase channel
+Order ID
+Recipient Full Name
+Phone Number
+Country
+Street Address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
