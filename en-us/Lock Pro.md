@@ -2300,3 +2300,14 @@ Regarding this issue, we regret to inform you that Lock Pro does not support gro
 [https://support.switch-bot.com/hc/en-us/articles/32548376807447](https://support.switch-bot.com/hc/en-us/articles/32548376807447)
 
 
+
+---
+### Troubleshooting: Unable to Upgrade SwitchBot Lock Pro Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please use the latest version of the SwitchBot app from the app store. You may not be able to update with the beta version.
+Try updating the firmware again after restarting your smartphone's Bluetooth and the SwitchBot app itself.
+Remove and reinsert the batteries of the Lock Pro.
+Firmware updates cannot be performed with a low battery. If necessary, please replace the batteries in your Lock Pro and try again.
+If you have another smartphone, please try using it to see if the update can be completed.
