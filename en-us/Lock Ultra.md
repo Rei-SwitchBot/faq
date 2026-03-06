@@ -612,3 +612,19 @@ Add two locks to the app again.
 
 
 
+
+---
+### Is It Possible to Purchase the Rechargeable Battery for SwitchBot Lock Ultra Separately?
+
+We regret to inform you that the accessory you requested is currently not available for individual purchase. However, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
