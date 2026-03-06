@@ -1,4 +1,8 @@
+---
 
+## LED Strip Light 2
+
+---
 
 ---
 ### Is It Possible to Connect Multiple SwitchBot LED Strip Lights into One (Only for Japan)?
