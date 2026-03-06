@@ -2311,3 +2311,20 @@ Try updating the firmware again after restarting your smartphone's Bluetooth and
 Remove and reinsert the batteries of the Lock Pro.
 Firmware updates cannot be performed with a low battery. If necessary, please replace the batteries in your Lock Pro and try again.
 If you have another smartphone, please try using it to see if the update can be completed.
+
+---
+### Is It possible to Purchase a SwitchBot Lock Pro Battery Cover?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the accessory you requested is currently not available for individual purchase. However, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
