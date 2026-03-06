@@ -422,13 +422,6 @@ We truly apologize for the frustration this has caused and appreciate you sticki
 If you have any other questions, please do not hesitate to contact us.
 
 
-
-
-
-
-
-
-
 ---
 ### Troubleshooting SwitchBot Keypad Touch Battery Drains Very Quickly
 
@@ -449,3 +442,4 @@ ZIP/Postal Code
 A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
