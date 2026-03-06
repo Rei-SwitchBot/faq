@@ -27,3 +27,8 @@ Regarding this issue, could you please provide us with a photo or video showing 
 ### Is It Possible to Extend SwitchBot RGBICWW Strip Light?
 
 Please refrain from extending the RGBIC strip lights, as the extended section may not function properly.
+
+---
+### Is It Possible to Connect Multiple SwitchBot RGBICWW Strip Lights into One?
+
+Since the connection parts or even the entire RGBICWW Strip Light may fail to light up, please avoid joining multiple strips yourself to combine them into one.
