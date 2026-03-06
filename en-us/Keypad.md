@@ -1800,21 +1800,6 @@ Regarding this issue, could you please check the following points?
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: Lost the Triangular Opener and Unable to Open the Battery Cover of SwitchBot Keypad Touch.
 
