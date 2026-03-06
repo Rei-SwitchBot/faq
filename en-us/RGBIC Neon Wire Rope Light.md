@@ -14,3 +14,8 @@ Please avoid making significant shape adjustments midway through the installatio
 Shape it into smooth curves, avoiding sharp bends or excessive twisting.
 Bending the same section repeatedly may result in internal wire or circuit damage. When installing, apply force gradually and avoid pulling forcibly.
 Please note that installation using the double-sided tape is not suitable for environments with high temperatures, high humidity, or rough wall surfaces. Thank you for your understanding.
+
+---
+### Is It Possible to Connect Multiple SwitchBot RGBIC Neon Wire Rope Lights into One?
+
+Since the connection parts or even the entire RGBIC Neon Wire Rope Light may fail to light up, please avoid joining multiple strips yourself to combine them into one.
