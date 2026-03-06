@@ -1814,3 +1814,12 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+---
+### Troubleshooting: Lost the Triangular Opener and Unable to Open the Battery Cover of SwitchBot Keypad Touch.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will guide you through two methods to open the battery cover of the Keypad Touch without a triangular opener. Please review the following:
+Use the metal plate of the Keypad Touch to open the battery cover. Please note that this method may cause scratches on the battery cover.
+Use a slender-tipped screwdriver to open the battery cover.
+If you wish to purchase the opener for the Keypad Touch, we regret to inform you that this accessory is not available for individual sale at this time. However, we would be happy to provide it to you free of charge. Please note that the item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us, and we will be glad to provide a shipping quote.
