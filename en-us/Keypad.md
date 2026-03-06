@@ -1644,12 +1644,11 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please confirm that the firmware version of your Keypad Touch is 2.4 or newer. If not, update it near the device via the SwitchBot app → Keypad Touch → Gear Icon → Firmware & Battery.
-2. Please make sure you are using two Panasonic or SwitchBot original CR123A 3V batteries.
-3. Remove and reinsert the batteries of the Keypad Touch, then operate the Lock product again.  
-4. Delete the Keypad Touch from SwitchBot app, and re-add it.
+Please check for any available firmware updates by going to SwitchBot app → Keypad Touch → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+Please make sure you are using two Panasonic or SwitchBot original CR123A 3V batteries.
+Remove and reinsert the batteries of the Keypad Touch, then operate the Lock product again.
+Delete the Keypad Touch from SwitchBot app, and re-add it.
 Note: Deleting the Keypad Touch from the app will automatically erase all registered passwords, fingerprints, and NFC cards.
-
 
 ---
 ### Troubleshooting cannot add an NFC card made by another company to SwitchBot Keypad Touch
