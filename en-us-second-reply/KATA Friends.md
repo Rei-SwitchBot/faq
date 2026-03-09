@@ -14,7 +14,6 @@ A video showing KATA Friends docking on their nest to display the charging indic
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
-
 ---
 ### Troubleshooting SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
 
