@@ -1,4 +1,10 @@
 ---
+
+## Humidifier
+
+---
+
+---
 ### Troubleshooting: SwitchBot Humidifier Keeps Showing "Out of Water"
 
 Thank you for reporting this issue.
