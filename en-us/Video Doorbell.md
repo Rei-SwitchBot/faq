@@ -1482,3 +1482,11 @@ Depending on your country or region, you may need to purchase a conversion adapt
 
 
 
+
+---
+### Troubleshooting: The Monitor Screen Displays Numerous Vertical Lines, Making It Impossible to Watch the Video.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please check the following link and reset the monitor unit.
+https://support.switch-bot.com/hc/en-us/articles/37931517692183
