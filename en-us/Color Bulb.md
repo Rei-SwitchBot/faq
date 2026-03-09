@@ -731,19 +731,6 @@ Regarding this issue, could you please provide us with a picture showing the iss
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting SwitchBot Color Bulb Schedule Won't work
 
