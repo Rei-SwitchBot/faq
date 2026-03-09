@@ -1846,3 +1846,20 @@ Note:
 If the removal alert is triggered due to your own carelessness, you can disable it using the following method.
 Disable the removal alert by tapping the Keypad Touch in the SwitchBot app.
 The removal alert will be disabled once the lock is unlocked using the correct passcode, fingerprint, or NFC card.
+
+---
+### How to Enable SwitchBot SwitchBot Keypad Touch Removal Alerts
+
+SwitchBot App Version: 9.23 or newer
+Please turn on the Removal Alerts for your Keypad Touch in the following order:
+Launch the SwitchBot app and log in.
+Tap the Keypad Touch.
+Tap the gear icon in the upper right corner.
+Turn on "Removal Alert".
+With these settings, the device will emit a beep when the Keypad Touch is removed. Additionally, if a hub product is within the Keypad Touch's Bluetooth range, a push notification reading "Removed" will be sent to your smartphone.
+If you don't need removal alerts, please disable the item in the same order.
+
+Note:
+If the removal alert is triggered due to your own carelessness, you can disable it using the following method.
+Disable the removal alert by tapping the Keypad Touch in the SwitchBot app.
+The removal alert will be disabled once the lock is unlocked using the correct passcode, fingerprint, or NFC card.
