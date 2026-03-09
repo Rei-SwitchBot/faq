@@ -634,3 +634,11 @@ This is an anti-microbial design for the SwitchBot Humidifier. After you turn t
 ### Is It Possible to Purchase the Sponge for the Aroma Function of SwitchBot Humidifier Separately?
 
 We regret to inform you that the aromatherapy sponge for Humidifiers is not sold separately. If needed, you may purchase sponges independently and modify them to fit the required shape for use.
+
+---
+### Troubleshooting: SwitchBot Humidifier Keeps Showing Out
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+After filling the humidifier with water, let it sit for at least two hours to see if a "water shortage" error appears in the app.
+https://support.switch-bot.com/hc/en-us/articles/12820502546711
