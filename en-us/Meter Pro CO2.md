@@ -424,3 +424,12 @@ If you prefer to power the CO2 monitor with a Type-C cable, it is recommended to
 
 
 
+
+---
+### Troubleshooting: The Type-C Charging Cable of the CO2 Monitor Cannot Be Unplugged
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Due to the narrow space and lack of leverage points, it is difficult to unplug the charging cable by pinching its base with your fingers. Please refer to the video below and grip the cable a little further away from the base when pulling it out.
+https://drive.google.com/file/d/1NEJz3y8LoKOEnV2bShY8OA3mvisr-DIv/view?usp=sharing
+If you have any other questions, please do not hesitate to contact us.
