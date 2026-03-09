@@ -1819,7 +1819,9 @@ Currently, the transportation IC cards that can be added to Keypad Touch are Sui
 Please check the link below and enable the "Express Transit Card" for the relevant mobile transportation card in the Wallet app.
 https://support.switch-bot.com/hc/en-us/articles/32888246095639
 When adding the mobile transit IC card, please hold the top of your smartphone over the Keypad Touch's scanning area, as shown in the illustration below.
-[image1]
+
+<img width="687" height="1223" alt="image" src="https://github.com/user-attachments/assets/0031779b-1519-4ec6-8783-1ed43a4769e3" />
+
 
 ---
 ### Troubleshooting: SwitchBot Keypad Touch Passcode Has Stopped Working, and the Device Does Not Respond When the Buttons Are Pressed.
@@ -1831,6 +1833,7 @@ Remove and reinsert the batteries in the Keypad Touch, then try unlocking your L
 If five consecutive attempts to unlock with the keypad (passcode) fail, the password unlocking function will be temporarily disabled. Use an NFC card or fingerprint to unlock successfully, then try unlocking your lock using the passcode again.
 Remove the Keypad Touch from the SwitchBot App, then re-add it along with the passcode to unlock your Lock.
 Important Note: When you remove the device, all added passcodes, fingerprints, and NFC cards will be cleared. You will need to add them again. Thank you for your understanding.
+
 
 ---
 ### How to Disable SwitchBot SwitchBot Keypad Touch Removal Alerts
