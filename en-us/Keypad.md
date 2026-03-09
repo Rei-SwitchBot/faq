@@ -1808,3 +1808,15 @@ Regarding this issue, we will guide you through two methods to open the battery 
 Use the metal plate of the Keypad Touch to open the battery cover. Please note that this method may cause scratches on the battery cover.
 Use a slender-tipped screwdriver to open the battery cover.
 If you wish to purchase the opener for the Keypad Touch, we regret to inform you that this accessory is not available for individual sale at this time. However, we would be happy to provide it to you free of charge. Please note that the item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us, and we will be glad to provide a shipping quote.
+
+---
+### Troubleshooting: Mobile Transit IC Cards Like Suica Cannot Be Added to SwitchBot Keypad Touch
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please confirm whether your Keypad Touch is the Suica-compatible version. The older Keypad Touch model does not support Suica cards. Even if you have added the card successfully, you will not be able to use it to lock or unlock your door.
+Currently, the transportation IC cards that can be added to Keypad Touch are Suica, ICOCA, and PASMO. Other transportation IC cards may not be supported. Thank you for your understanding.
+Please check the link below and enable the "Express Transit Card" for the relevant mobile transportation card in the Wallet app.
+https://support.switch-bot.com/hc/en-us/articles/32888246095639
+When adding the mobile transit IC card, please hold the top of your smartphone over the Keypad Touch's scanning area, as shown in the illustration below.
+[image1]
