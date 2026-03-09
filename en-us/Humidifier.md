@@ -629,3 +629,8 @@ This is an anti-microbial design for the SwitchBot Humidifier. After you turn t
 
 
 
+
+---
+### Is It Possible to Purchase the Sponge for the Aroma Function of SwitchBot Humidifier Separately?
+
+We regret to inform you that the aromatherapy sponge for Humidifiers is not sold separately. If needed, you may purchase sponges independently and modify them to fit the required shape for use.
