@@ -743,3 +743,13 @@ Regarding this issue, could you please provide us with a picture showing the iss
 
 
 
+
+---
+### Troubleshooting SwitchBot Color Bulb Schedule Won't work
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If the Wi-Fi disconnects, the schedule will stop working, so please install the Color Bulb near the router to ensure a stable internet connection.
+If you are using the Color Bulbs grouped together, please ungroup them and check if the schedule functions properly.
+Please reset the Color Bulb.
+https://support.switch-bot.com/hc/en-us/articles/4416605563415
