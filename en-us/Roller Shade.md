@@ -466,3 +466,15 @@ Please do not use the folding solar panel dedicated to Curtain 3 to charge your 
 
 
 
+
+---
+### How to Install SwitchBot Roller Shade
+
+There are two installation methods for SwitchBot Roller Shade: "Mount Inside" and "Mount Outside".
+When installing inside the window frame, a gap of approximately 25mm on each side will occur. If you are concerned about the light leakage caused by this gap, we recommend considering an outside window frame installation.
+[image1]
+
+Please refer to the link below for installation instructions.
+https://support.switch-bot.com/hc/en-us/articles/25068435589655
+
+If you are unsure whether installation is possible, we would appreciate it if you could provide a photo of your home's window. Our after-sales team will assist you shortly.
