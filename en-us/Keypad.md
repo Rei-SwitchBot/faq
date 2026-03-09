@@ -1863,3 +1863,18 @@ Note:
 If the removal alert is triggered due to your own carelessness, you can disable it using the following method.
 Disable the removal alert by tapping the Keypad Touch in the SwitchBot app.
 The removal alert will be disabled once the lock is unlocked using the correct passcode, fingerprint, or NFC card.
+
+---
+### How to Mark SwitchBot Keypad Touch as a Lost Device
+
+SwitchBot App Version: 9.23 or newer
+If you have lost your Keypad Touch, you can mark it as a lost device in the SwitchBot app by following the steps below:
+Launch the SwitchBot app and log in.
+Tap the Keypad Touch.
+Tap the gear icon in the upper right corner.
+Tap "Devices Pairing".
+Tap "unable to unpair because the device is lost".
+Tap "Mark as Lost."
+Tap "Confirm".
+This operation will automatically erase the information related to the lock paired with the Keypad Touch.
+If the lost Keypad Touch is found, you can cancel the loss report in the app. After canceling the report, please re-pair the Keypad Touch with the lock.
