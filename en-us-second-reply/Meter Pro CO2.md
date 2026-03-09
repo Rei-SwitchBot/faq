@@ -7,26 +7,25 @@
 ---
 ### Troubleshooting SwitchBot  Meter Pro (CO2 Monitor) Is Not Showing the CO2 Readings
 
-Thank you for reporting this issue. 
+Thank you for reporting this issue.
 We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
-  1. A phone showing the display of your Meter Pro (CO2 Monitor)
-  2. A video demonstrating the reset process
+To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
+A phone showing the display of your Meter Pro (CO2 Monitor)
+A video demonstrating the reset process
 
-2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+Purchase channel
+Order ID
+Recipient Full Name
+Phone Number
+Country
+Street Address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
 
 ---
 ### Troubleshooting SwitchBot Meter Pro (CO2 Monitor) Display is partially missing
