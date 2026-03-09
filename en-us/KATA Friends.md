@@ -104,11 +104,12 @@ To enjoy a more pleasant experience with your KATA Friends, please prepare the f
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure the nest is properly plugged into a power source (When the nest is connected to power, the indicator light will remain solid white.).
-2. Try unplugging the nest, then plugging it back in.
-3. Please check the charging terminals of the KATA Friends unit and the nest for any dirt or damage. If necessary, clean the charging terminals with a soft cloth and then manually dock the KATA Friends to see if the issue improves.
-4. Please update the firmware version of the KATA Friends to the latest version if you have already added them to the SwitchBot app.
-
+Make sure the nest is properly plugged into a power source (When the nest is connected to power, the indicator light will remain solid white.).
+Try unplugging the nest, then plugging it back in.
+Please check the charging terminals of the KATA Friends unit and the nest for any dirt or damage. If necessary, clean the charging terminals with a soft cloth and then manually dock the KATA Friends to see if the issue improves.
+Turn off your KATA Friends, then turn them back on.
+Please update the firmware version of the KATA Friends to the latest version if you have already added them to the SwitchBot app.
+Please manually dock the KATA Friends to the nest and check if it can be charged.
 
 ---
 ### Troubleshooting SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
