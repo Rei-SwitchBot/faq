@@ -1831,3 +1831,18 @@ Remove and reinsert the batteries in the Keypad Touch, then try unlocking your L
 If five consecutive attempts to unlock with the keypad (passcode) fail, the password unlocking function will be temporarily disabled. Use an NFC card or fingerprint to unlock successfully, then try unlocking your lock using the passcode again.
 Remove the Keypad Touch from the SwitchBot App, then re-add it along with the passcode to unlock your Lock.
 Important Note: When you remove the device, all added passcodes, fingerprints, and NFC cards will be cleared. You will need to add them again. Thank you for your understanding.
+
+---
+### How to Disable SwitchBot SwitchBot Keypad Touch Removal Alerts
+
+SwitchBot App Version: 9.23 or newer
+Launch the SwitchBot app and log in.
+Tap the Keypad Touch.
+Tap the gear icon in the upper right corner.
+Turn on "Removal Alert".
+With these settings, the device will emit a beep when the Keypad Touch is removed. Additionally, if a hub product is within the Keypad Touch's Bluetooth range, a push notification reading "Removed" will be sent to your smartphone.
+
+Note:
+If the removal alert is triggered due to your own carelessness, you can disable it using the following method.
+Disable the removal alert by tapping the Keypad Touch in the SwitchBot app.
+The removal alert will be disabled once the lock is unlocked using the correct passcode, fingerprint, or NFC card.
