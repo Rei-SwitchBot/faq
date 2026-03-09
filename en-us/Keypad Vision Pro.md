@@ -550,12 +550,6 @@ If the number of saved faces exceeds the limit, you must delete some before addi
 
 
 
-
-
-
-
-
-
 ---
 ### Troubleshooting: Mobile Transit IC Cards Like Suica Cannot Be Added to SwitchBot Keypad Vision Pro
 
@@ -565,4 +559,5 @@ Currently, the transportation IC cards that can be added to Keypad Vision Pro ar
 Please check the link below and enable the "Express Transit Card" for the relevant mobile transportation card in the Wallet app.
 https://support.switch-bot.com/hc/en-us/articles/32888246095639
 When adding the mobile transit IC card, please hold the top of your smartphone over the Keypad Vision Pro's scanning area, as shown in the illustration below.
-[image1]
+<img width="687" height="1223" alt="image" src="https://github.com/user-attachments/assets/30a96140-6968-4033-a7f5-83d08859eed6" />
+
