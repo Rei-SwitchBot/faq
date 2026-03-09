@@ -9,16 +9,16 @@
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Remove the batteries from the CO2 Monitor (or unplug the power adapter if using the charging cable) and wait for about one minute.
-2. Power the CO2 Monitor back on.
-3. Remove the device from your app, reset it, and then re-add it.
-  1. In the SwitchBot app, long press the CO2 Monitor (Meter Pro) to remove it.
-  2. Press and hold the button at the top of the CO2 Monitor for 15 seconds to reset it.
-  3. After resetting, try re-adding the CO2 Monitor to the SwitchBot app.
+Make sure the sensor opening is free of dust or debris. If needed, gently blow air into the sensor opening to clean it.
+Remove the batteries from the CO2 Monitor (or unplug the power adapter if using the charging cable) and wait for about one minute.
+Power the CO2 Monitor back on.
+Remove the device from your app, reset it, and then re-add it.
+In the SwitchBot app, long press the CO2 Monitor (Meter Pro) to remove it.
+Press and hold the button at the top of the CO2 Monitor for 15 seconds to reset it.
+After resetting, try re-adding the CO2 Monitor to the SwitchBot app.
 
 Important Note: After restoring factory settings, all data stored on the device will be automatically erased. We recommend exporting the data beforehand.
 SwitchBot App -> CO2 Monitor -> Scroll down to the bottom of the graph page -> Export Data
-
 
 ---
 ### Troubleshooting SwitchBot Meter Pro (CO2 Monitor) Display is partially missing
