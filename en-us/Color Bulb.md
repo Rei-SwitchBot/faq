@@ -753,3 +753,14 @@ If the Wi-Fi disconnects, the schedule will stop working, so please install the 
 If you are using the Color Bulbs grouped together, please ungroup them and check if the schedule functions properly.
 Please reset the Color Bulb.
 https://support.switch-bot.com/hc/en-us/articles/4416605563415
+
+---
+### Troubleshooting: SwitchBot Color Bulb Won't Turn On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please check if the light socket works by installing another bulb of the same specification to ensure it can light up properly.
+Remove the Color Bulb from the SwitchBot App.
+Try resetting the bulb by turning it on and off eight times.
+Reset Video: https://support.switch-bot.com/hc/en-us/articles/4416605563415
+After resetting, turn off the power, then turn it back on and try adding the bulb again in the app.
