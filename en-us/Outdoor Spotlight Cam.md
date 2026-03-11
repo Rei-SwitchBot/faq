@@ -463,20 +463,6 @@ If you switch the power mode of the Outdoor Spotlight Cam from Battery Mode to W
 [The Difference Between Battery Mode and Wired Mode of the Outdoor Spotlight Camera](https://support.switch-bot.com/hc/en-us/articles/9798908917271-The-Difference-Between-Battery-Mode-and-Wired-Mode-of-the-Outdoor-Spotlight-Camera?source=search&auth_token=eyJhbGciOiJIUzI1NiJ9.eyJhY2NvdW50X2lkIjo5MTgyMjQzLCJ1c2VyX2lkIjoxMDUwMTQ3NTI4ODIxNSwidGlja2V0X2lkIjoyNDAzNTQsImNoYW5uZWxfaWQiOjYzLCJ0eXBlIjoiU0VBUkNIIiwiZXhwIjoxNjcyNDcwNDU1fQ.Jwf1ACH0j-WYOAYPPxeW9buEhPqBjy2s7WRutNgkseQ)
 
 
-
----
-### Is It Possible to Record Continuously With SwitchBot Outdoor Spotlight Cam 2K Using a Solar Panel?
-
-Last Updated: 2024 Oct 28
-
-Related Product: SwitchBot Outdoor Spotlight Cam 2K
-
-We wanted to let you know that when using the continuous recording or pre-event recording modes, the battery may drain completely within a day, even if a solar panel is connected. This happens because the camera is continuously operating in these modes. To avoid this, we recommend using the power adapter to keep the camera charged when operating in these modes.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/26911354328855)
-
-
-
 ---
 ### Is SwitchBot Outdoor Spotlight Cam waterproof and dustproof?
 
@@ -1691,19 +1677,6 @@ The Outdoor Spotlight Cam 2K solar panel cable length is 3 meters.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Is it possible to record continuously with SwitchBot Outdoor Spotlight Cam 2K using a solar panel?
 
@@ -1717,6 +1690,7 @@ When using your Outdoor Spotlight Cam 2K with solar panels, please set it to "Ev
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 If your mobile carrier is Rakuten (or Docomo), internet restrictions in certain areas may prevent you from accessing video streams from outside. Please check if the issue is resolved by toggling the data High-speed mode on or off in the Rakuten Mobile app.
-[image1]
+<img width="745" height="1280" alt="image" src="https://github.com/user-attachments/assets/34d1eeb7-c6a7-438b-aad5-a5bf1d3fa1ca" />
+
 Note:
 The affected models are our Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam and Outdoor Spotlight Cam 2K.
