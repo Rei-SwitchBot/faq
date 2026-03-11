@@ -796,3 +796,16 @@ Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
 Note:
 The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting SwitchBot Hub 3 Keeps Disconnecting from Wi-Fi
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please place the Hub 3 closer to the Wi-Fi router (within 5 meters).
+Unplug the Wi-Fi router and the Hub 3, then plug them back in.
+Please set up Wi-Fi again by going to SwitchBot app -> Hub 3 -> Gear icon -> Wi-Fi settings near the device.
+If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire" in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
+If your Hub 3 can connect to your phone's personal hotspot, please go to Hub 3 → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
+If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
+*If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
