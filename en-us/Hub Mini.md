@@ -2584,8 +2584,6 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
 
 
-
-
 ---
 ### Troubleshooting: The Swing Button on the Air Conditioner Remote Added via "Select Manually" Is Grayed Out and Cannot Be Operated.
 
