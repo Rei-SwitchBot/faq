@@ -817,3 +817,9 @@ If you have any other questions, please do not hesitate to contact us.
 
 Please refer to the installation video and PDF for the Ceiling Light Pro mounting plate at the link below.
 https://support.switch-bot.com/hc/ja/articles/27399457855639
+
+---
+### How to Install SwitchBot Ceiling Light Mounting Plate (Only for Japan)
+
+Please refer to the installation video and PDF for the ceiling light mounting plate at the link below.
+https://support.switch-bot.com/hc/ja/articles/27399457855639
