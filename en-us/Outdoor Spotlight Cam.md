@@ -1690,7 +1690,8 @@ When using your Outdoor Spotlight Cam 2K with solar panels, please set it to "Ev
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 If your mobile carrier is Rakuten (or Docomo), internet restrictions in certain areas may prevent you from accessing video streams from outside. Please check if the issue is resolved by toggling the data High-speed mode on or off in the Rakuten Mobile app.
-[image1]
+<img width="745" height="1280" alt="image" src="https://github.com/user-attachments/assets/6601d971-38c8-46b9-bde5-f6f127b95e61" />
+
 Note:
 The affected models are our Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam and Outdoor Spotlight Cam 2K.
 
