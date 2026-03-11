@@ -800,3 +800,14 @@ https://support.switch-bot.com/hc/ja/articles/7079868054807
 Our Ceiling Light Pros are installed by inserting the included adapter into the ceiling wiring fixture and then securing the light fixture. If the wiring fixture in your home is suspended rather than fixed to the ceiling, our Ceiling Light Pros cannot be securely installed. Please consult an electrician or apartment manager to confirm whether the wiring fixture can be properly fixed to the ceiling.
 For more information about the Installation of Ceiling Lights, please refer to the link below:
 https://support.switch-bot.com/hc/ja/articles/7079868054807
+
+---
+### Troubleshooting: The Swing Button on the Air Conditioner Remote Added via "Select Manually" Is Grayed Out and Cannot Be Operated.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If the swing button on the AC remote, added by selecting the air conditioner brand and model, is gray and unresponsive, it means the manufacturer's infrared code does not include a signal for this button. In this case, we recommend adding the swing button using either the "Learn Buttons" or "Others" mode.
+Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
+Note:
+The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
+If you have any other questions, please do not hesitate to contact us.
