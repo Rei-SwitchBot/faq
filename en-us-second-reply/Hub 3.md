@@ -211,16 +211,6 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 
 
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting SwitchBot Hub 3 Keeps Disconnecting from Wi-Fi
 
