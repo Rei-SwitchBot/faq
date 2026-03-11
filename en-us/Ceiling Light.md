@@ -811,3 +811,9 @@ Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
 Note:
 The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### How to Install SwitchBot Ceiling Light Pro Mounting Plate (Only for Japan)
+
+Please refer to the installation video and PDF for the Ceiling Light Pro mounting plate at the link below.
+https://support.switch-bot.com/hc/ja/articles/27399457855639
