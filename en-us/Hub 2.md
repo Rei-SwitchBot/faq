@@ -1774,3 +1774,14 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+---
+### Troubleshooting: The Swing Button on the Air Conditioner Remote Added via "Select Manually" Is Grayed Out and Cannot Be Operated.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If the swing button on the AC remote, added by selecting the air conditioner brand and model, is gray and unresponsive, it means the manufacturer's infrared code does not include a signal for this button. In this case, we recommend adding the swing button using either the "Learn Buttons" or "Others" mode.
+Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
+Note:
+The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
+If you have any other questions, please do not hesitate to contact us.
