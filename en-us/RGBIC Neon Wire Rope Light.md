@@ -19,3 +19,9 @@ Please note that installation using the double-sided tape is not suitable for en
 ### Is It Possible to Connect Multiple SwitchBot RGBIC Neon Wire Rope Lights into One?
 
 Since the connection parts or even the entire RGBIC Neon Wire Rope Light may fail to light up, please avoid joining multiple strips yourself to combine them into one.
+
+---
+### How to Shape SwitchBot RGBIC Neon Wire Rope Light into Various Designs
+
+Please refer to the video in the following link to shape your RGBIC Neon Wire Rope Light into the style you like.
+https://support.switch-bot.com/hc/en-us/articles/38898258536983
