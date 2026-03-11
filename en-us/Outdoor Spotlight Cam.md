@@ -1715,3 +1715,9 @@ The Outdoor Spotlight Cam 2K solar panel cable length is 3 meters.
 
 
 
+
+---
+### Is it possible to record continuously with SwitchBot Outdoor Spotlight Cam 2K using a solar panel?
+
+We wanted to let you know that when using the continuous recording or pre-event recording modes, the battery may drain completely within a day, even if a solar panel is connected. This happens because the camera is continuously operating in these modes. To avoid this, we recommend using the power adapter to keep the camera charged when operating in these modes.
+When using your Outdoor Spotlight Cam 2K with solar panels, please set it to "Events Only" mode. How to setup: SwitchBot App → Outdoor Spotlight Cam 2K → Gear Icon in the upper right corner → Basic Settings → Recording Settings → Events Only
