@@ -951,13 +951,6 @@ Appleホームアプリでは、エアコンリモコンの冷房、暖房、オ
 [https://support.switch-bot.com/hc/ja/articles/30725182122647](https://support.switch-bot.com/hc/ja/articles/30725182122647)
 
 
-
-
-
-
-
-
-
 ---
 ### トラブルシューティング手動学習で登録したエアコンリモコンのスイングボタンがグレーアウトしており操作できません。
 
