@@ -786,28 +786,6 @@ Regarding this issue, could you please check the following points?
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: The Swing Button on the Air Conditioner Remote Added via "Select Manually" Is Grayed Out and Cannot Be Operated.
 
