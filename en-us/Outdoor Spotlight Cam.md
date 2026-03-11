@@ -1694,3 +1694,8 @@ If your mobile carrier is Rakuten (or Docomo), internet restrictions in certain 
 
 Note:
 The affected models are our Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam and Outdoor Spotlight Cam 2K.
+
+---
+### SKIP
+
+SKIP
