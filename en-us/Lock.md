@@ -170,8 +170,7 @@ Currently, the iOS Home App does not support battery level checking for the Swit
 ---
 ### Can I Use Commercially Available Magnets for SwitchBot Lock?
 
-We do not recommend using non-SwitchBot magnets, as they may interfere with the auto-lock function.
-
+We do not recommend using non-SwitchBot magnets, as they may interfere with the auto-lock function.\nIf needed, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.\nAlso, to help us arrange the shipment quickly, please provide the following details:\nPurchase channel\nOrder ID\nRecipient's full name\nPhone number\nCountry\nStreet address\nCity\nState/Province\nZIP/Postal Code\nA screenshot of your order\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Can I Use SwitchBot Contact Sensor or Motion Sensor as a Trigger to Unlock SwitchBot Lock?
