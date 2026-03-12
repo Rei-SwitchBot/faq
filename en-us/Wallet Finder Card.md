@@ -534,3 +534,8 @@ If you have any further questions, please don't hesitate to ask.
 
 
 
+
+---
+### Is It Possible to Add SwitchBot Wallet Finder Card as a Regular NFC Card with Non-Switchbot Products?
+
+SwitchBot Wallet Finder Card features built-in encryption that prevents it from working with third-party systems. If you try to add it to a non-SwitchBot product, you'll likely run into a login failure. To ensure everything stays secure and functions correctly, we recommend only using it within the SwitchBot ecosystem.
