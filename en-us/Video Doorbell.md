@@ -1472,15 +1472,6 @@ Depending on your country or region, you may need to purchase a conversion adapt
 
 
 
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: The Monitor Screen Displays Numerous Vertical Lines, Making It Impossible to Watch the Video.
 
