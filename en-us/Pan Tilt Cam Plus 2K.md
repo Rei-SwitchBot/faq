@@ -587,3 +587,8 @@ If you are using a SwitchBot Pan/Tilt Cam Plus 3K or Pan/Tilt Cam Plus 2K, you w
 ### Troubleshooting SwitchBot Pan Tilt Cam Plus 2K Solid Red Light Always On, Preventing Camera Reset.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nIf you have another 5V2A charging adapter or USB-C cable, please test it to see if your problem is resolved. \nPlease try resetting the camera to see if it resolves the issue. Press and hold the reset hole located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone (depending on your product model). The indicator light should change from red to flashing for about 20 to 45 seconds.
+
+---
+### Troubleshooting: SwitchBot Pan Tilt Cam Plus 2K Automatically Powers off, Making it Appear Offline in SwitchBot app.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nTo maintain more stable operation, the camera will automatically restart every Thursday around 4 AM local time. The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a " buzzing\
