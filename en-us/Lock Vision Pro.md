@@ -271,3 +271,8 @@ https://support.switch-bot.com/hc/en-us/articles/38706551464599
 ### Can the Wallet Finder Card Be Used to Add to SwitchBot Lock Vision Pro for Unlocking?
 
 Yes, you can add the Wallet Finder Card to Lock Vision Pro and use it to unlock. The image below demonstrates the correct way to scan the card.\n[image1]
+
+---
+### Can the Safety Alarm Be Used to Add to SwitchBot Lock Vision Pro for Unlocking?
+
+Yes, you can add the Safety Alarm to Lock Vision Pro and use it to unlock. The image below demonstrates the correct way to scan the Safety Alarm.\n[image1]
