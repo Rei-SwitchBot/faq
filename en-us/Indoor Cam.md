@@ -1515,3 +1515,21 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 The IP address shown on the indoor camera's Wi-Fi settings page is the public or global IP address for your broadband line, not the local network IP address of your home router. Therefore, it may be different from your home router's IP address. Thank you for your understanding.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### How To Switch Between Different Cameras by Swiping Left and Right on the Real-Time Monitoring Screen
+
+Make sure all your cameras have been added to the SwitchBot app.
+
+Please configure it in the following order:  
+Launch SwitchBot app and log in.  
+Tap on any camera.  
+Tap on the camera feed screen.  
+Tap the Multi-View icon in the upper right corner of the feed screen.  
+Tap the "+" icon to add the cameras you wish to display.  
+Tap the Multi-View icon again to exit Multi-View mode.  
+
+Note:  
+If you have multiple cameras, performing the above operation on one camera is enough. No need to do it for each camera.
+
+With these settings, you can switch to a different camera feed by swiping the camera image screen.
