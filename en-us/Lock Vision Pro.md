@@ -266,3 +266,8 @@ Set passcodes for the Lock Vision Pro in the following order:
 For more information about the passwords that can be added to the Lock Vision Pro, please refer to the link below:
 https://support.switch-bot.com/hc/en-us/articles/38706551464599
 
+
+---
+### Can the Wallet Finder Card Be Used to Add to SwitchBot Lock Vision Pro for Unlocking?
+
+Yes, you can add the Wallet Finder Card to Lock Vision Pro and use it to unlock. The image below demonstrates the correct way to scan the card.\n[image1]
