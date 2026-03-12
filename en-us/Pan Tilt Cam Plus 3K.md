@@ -580,3 +580,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 To maintain more stable operation, the camera will automatically restart every Thursday around 4 AM local time. The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This temporary offline period is a normal part of the product's operation and not a malfunction. We appreciate your understanding.
 To determine if the offline issue is caused by a poor connection, please replace the power adapter with another 5V 2A adapter and also swap out the Type-C cable. Then, monitor the situation for a few days.
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Rotates on Its Own at Night.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+To maintain more stable operation, the camera will automatically restart every Thursday around 4 AM local time. The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This is a normal operation of the product and not a malfunction. We kindly ask for your understanding regarding this matter.
+If the restart of your camera is not the above phenomenon, please check the following:
+- Make sure to use a 5V2A power adapter with the camera.
+- Check if the camera is rebooting more than three times per week.
