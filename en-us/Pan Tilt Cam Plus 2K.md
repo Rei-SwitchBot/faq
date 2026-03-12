@@ -424,11 +424,10 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-To maintain more stable operation, the camera will automatically restart every Wednesday between 10:00 AM and 11:00 AM (PST). The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This is a normal operation of the product and not a malfunction. We kindly ask for your understanding regarding this matter.
+To maintain more stable operation, the camera will automatically restart every Thursday around 4 AM local time. The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This is a normal operation of the product and not a malfunction. We kindly ask for your understanding regarding this matter.
 If the restart of your camera is not the above phenomenon, please check the following:
 - Make sure to use a 5V2A power adapter with the camera.
 - Check if the camera is rebooting more than three times per week.
-
 
 ---
 ### Troubleshooting SwitchBot Pan Tilt Cam Plus 2K Feels Too High When Touched.
