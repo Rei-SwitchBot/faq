@@ -475,3 +475,8 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 2K Solid Red Light Always On, Preventing Camera Reset.
+
+Thank you for reporting this issue. \nWe apologize for any inconvenience caused.\nTo determine if your device needs to be replaced, could you kindly provide the following information?\nA video of pressing the reset hole for 5 seconds and the device does not make a sound and the red light is always on\n\nAlso, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.\nPurchase channel\nOrder ID\nRecipient Full Name\nPhone Number\nCountry\nStreet Address\nCity\nState/Province\nZIP/Postal Code\nA screenshot of your order\n\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.\n*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
