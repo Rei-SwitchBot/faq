@@ -343,3 +343,8 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
+
+---
+### How to Check the MAC Address of SwitchBot Indoor Cam
+
+The MAC address of the Indoor Cam is located at the bottom of the camera.
