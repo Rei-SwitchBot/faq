@@ -572,3 +572,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 If you have another 5V2A charging adapter or USB-C cable, please test it to see if your problem is resolved. 
 Please try resetting the camera to see if it resolves the issue. Press and hold the reset hole located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone (depending on your product model). The indicator light should change from red to flashing for about 20 to 45 seconds.
+
+---
+### Troubleshooting: SwitchBot Pan Tilt Cam Plus 3K Automatically Powers off, Making it Appear Offline in SwitchBot app.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+To maintain more stable operation, the camera will automatically restart every Thursday around 4 AM local time. The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This temporary offline period is a normal part of the product's operation and not a malfunction. We appreciate your understanding.
+To determine if the offline issue is caused by a poor connection, please replace the power adapter with another 5V 2A adapter and also swap out the Type-C cable. Then, monitor the situation for a few days.
