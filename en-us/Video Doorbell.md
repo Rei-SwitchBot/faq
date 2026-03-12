@@ -1488,3 +1488,18 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 Please check the following link and reset the monitor unit.
 https://support.switch-bot.com/hc/en-us/articles/37931517692183
+
+---
+### Troubleshooting Unable to View the Playback Recordings on SwitchBot Smart Video Doorbell's microSD Card.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please make sure that the recording option is turned on by going to SwitchBot app → Smart Video Doorbell → Gear icon → Local Storage.
+
+Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
+ 
+Format the microSD card to the FAT32 format on your computer, then insert it into the Smart Video Doorbell and check if the issue is resolved.  
+
+If you have multiple microSD cards, try inserting a different microSD card into the Smart Video Doorbell and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
+
+We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
