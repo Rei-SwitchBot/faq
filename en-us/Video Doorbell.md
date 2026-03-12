@@ -326,16 +326,14 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
-2. If the Wi-Fi connection is unstable, the device will constantly attempt to connect to Wi-Fi, causing the battery to drain faster. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
-3. The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
+Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+If the Wi-Fi connection is unstable, the device will constantly attempt to connect to Wi-Fi, causing the battery to drain faster. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
+The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
 Low sensitivity: 1~3 meters
 Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
-4. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
-5. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
-6. We plan to release the new firmware within this month. We understand your eagerness and kindly ask for your patience.
-
+If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
+If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
 
 ---
 ### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
