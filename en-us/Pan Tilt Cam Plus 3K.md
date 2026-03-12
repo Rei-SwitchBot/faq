@@ -564,3 +564,11 @@ Regarding this issue, could you please check the following points?
 
 If you are using a SwitchBot Pan/Tilt Cam Plus 3K or Pan/Tilt Cam Plus 2K, you will receive an order confirmation email at the address linked to your App Store account after purchasing cloud storage. The order number is included in this email.
 
+
+---
+### Troubleshooting SwitchBot Pan Tilt Cam Plus 3K Solid Red Light Always On, Preventing Camera Reset.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If you have another 5V2A charging adapter or USB-C cable, please test it to see if your problem is resolved. 
+Please try resetting the camera to see if it resolves the issue. Press and hold the reset hole located at the back of the camera for 5 seconds. After resetting, you will hear an audible tone (depending on your product model). The indicator light should change from red to flashing for about 20 to 45 seconds.
