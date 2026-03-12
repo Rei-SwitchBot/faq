@@ -1497,17 +1497,6 @@ The traditional camera series products do not offer a cloud storage plan for thr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting the IP Address Shown for SwitchBot Indoor Cam in the Switchbot App Does Not Match My Home Router's IP Address.
 
@@ -1540,7 +1529,8 @@ With these settings, you can switch to a different camera feed by swiping the ca
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 If your mobile carrier is Rakuten (or Docomo), internet restrictions in certain areas may prevent you from accessing video streams from outside. Please check if the issue is resolved by toggling the data High-speed mode on or off in the Rakuten Mobile app.
-[image1]
+<img width="745" height="1280" alt="image" src="https://github.com/user-attachments/assets/92bf607e-53b7-40ad-aa3b-8c1a7d58d1aa" />
+
 
 Note:  
 The affected models are our Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam and Outdoor Spotlight Cam 2K.
