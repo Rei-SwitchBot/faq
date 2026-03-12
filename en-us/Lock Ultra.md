@@ -608,11 +608,6 @@ Add two locks to the app again.
 5. If you select Lock Ultra B for grouping after tapping Lock Ultra A, please try tapping Lock Ultra B first and then selecting Lock Ultra A (i.e., swap the main lock and sub lock) to verify whether dual locking can be enabled.
 
 
-
-
-
-
-
 ---
 ### Is It Possible to Purchase the Rechargeable Battery for SwitchBot Lock Ultra Separately?
 
@@ -629,7 +624,21 @@ State/Province
 ZIP/Postal Code
 A screenshot of your order
 
+
 ---
 ### Can I Use Commercially Available Magnets for SwitchBot Lock Ultra?
 
-We do not recommend using non-SwitchBot magnets, as they may interfere with the auto-lock function.\nIf needed, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.\nAlso, to help us arrange the shipment quickly, please provide the following details:\nPurchase channel\nOrder ID\nRecipient's full name\nPhone number\nCountry\nStreet address\nCity\nState/Province\nZIP/Postal Code\nA screenshot of your order\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+We do not recommend using non-SwitchBot magnets, as they may interfere with the auto-lock function.
+If needed, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
