@@ -579,10 +579,6 @@ If you are using a SwitchBot Pan/Tilt Cam Plus 3K or Pan/Tilt Cam Plus 2K, you w
 
 
 
-
-
-
-
 ---
 ### Troubleshooting SwitchBot Pan Tilt Cam Plus 2K Solid Red Light Always On, Preventing Camera Reset.
 
