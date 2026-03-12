@@ -203,3 +203,8 @@ Regarding this issue, could you please check the following points?
 1. Charge the rechargeable battery until the green light turns on, which takes approximately 7 hours.
 2. Remove the insulation strip from the spare battery.
 3. Please verify whether the indicator light on the exterior assembly is illuminated.
+
+---
+### Can the Wallet Finder Card Be Used to Add to SwitchBot Lock Vision for Unlocking?
+
+Yes, you can add the Wallet Finder Card to Lock Vision and use it to unlock. The image below shows the correct way to scan the card on Lock Vision Pro, which also applies to Lock Vision.\n[image1]
