@@ -221,3 +221,8 @@ Yes, you can add the Safety Alarm to Lock Vision and use it to unlock. The image
 
 <img width="981" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b191002-1975-4be6-b07c-17fafe863508" />
 
+
+---
+### If the Key Inside SwitchBot Lock Vision Packaging Is Lost, Can I Contact the After-Sales Team to Get a Replacement?
+
+We regret to inform you that the key included with each Lock Vision is uniquely paired to its specific unit. If you lose your key, SwitchBot cannot provide a replacement, which means you may no longer be able to use a physical key to lock or unlock the door. Therefore, we strongly recommend making backup keys in advance as needed.
