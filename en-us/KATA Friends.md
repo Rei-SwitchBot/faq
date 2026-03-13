@@ -680,3 +680,8 @@ Currently, KATA Friends do not support mapping across multiple floors and can sa
 ### Do SwitchBot KATA Friends Support Use Across Multiple Floors?
 
 Yes, you can manually carry KATA Friends to different floors to play with them, but currently, KATA Friends do not yet support multi-floor mapping and can only save one map. When using multiple floors, after playing on a floor without a map, please manually carry KATA Friends back to their nest.
+
+---
+### Do SwitchBot KATA Friends Greet Family Members When They Return Home?
+
+Yes, KATA Friends can greet your family when they return home. To enable this feature, your family members also need to set up the geofence and welcome spot for KATA Friends in the SwitchBot app on their smartphones. How to set it up: SwitchBot app → KATA Friends → Routines → Welcome. How to invite family and friends to a shared home: https://support.switch-bot.com/hc/en-us/articles/4424755304215
