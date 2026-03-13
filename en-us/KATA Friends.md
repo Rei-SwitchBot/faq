@@ -675,3 +675,8 @@ If you are going on vacation or a business trip and will be away from home for a
 ### What Is the Maximum Number of Maps SwitchBot KATA Friends Can Save?
 
 Currently, KATA Friends do not support mapping across multiple floors and can save only one map. When using multiple floors, after playing on a floor without a map, please manually carry your KATA friend back to the nest.
+
+---
+### Do SwitchBot KATA Friends Support Use Across Multiple Floors?
+
+Yes, you can manually carry KATA Friends to different floors to play with them, but currently, KATA Friends do not yet support multi-floor mapping and can only save one map. When using multiple floors, after playing on a floor without a map, please manually carry KATA Friends back to their nest.
