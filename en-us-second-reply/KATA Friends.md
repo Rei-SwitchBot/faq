@@ -235,3 +235,8 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
+
+---
+### How to Maintain the Wheels of SwitchBot KATA Friends
+
+If the wheels of KATA Friends do not move smoothly or make unusual noises, please perform maintenance:\nCare for the Left and Right Wheels:\nPress the mode switch button and change to " Standby Mode\.\nPlace
