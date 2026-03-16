@@ -243,3 +243,8 @@ Caster/Tail Care:
 Note:
 The metal part in the center of the casters is coated with lubricant. This is to ensure smooth wheel rotation, so do not remove the lubricant.
 Lubricating oil is typically applied to metal shafts. If it is accidentally wiped off, please use a silicone-based lubricant instead of liquid oil.
+
+---
+### Troubleshooting: Received a Notification That SwitchBot KATA Friends Cannot Move Their Own Hands.
+
+Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: A video showing abnormalities in KATA Friends' hands. Screenshot of the notification that KATA Friends' hands are not moving. Time when abnormality occurs. *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
