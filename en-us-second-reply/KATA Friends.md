@@ -248,3 +248,8 @@ Lubricating oil is typically applied to metal shafts. If it is accidentally wipe
 ### Troubleshooting: Received a Notification That SwitchBot KATA Friends Cannot Move Their Own Hands.
 
 Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: A video showing abnormalities in KATA Friends' hands. Screenshot of the notification that KATA Friends' hands are not moving. Time when abnormality occurs. *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Sometimes Can't Cross the Threshold
+
+Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: A video showing KATA Friends struggling to overcome the steps. *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
