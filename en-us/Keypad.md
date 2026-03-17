@@ -1881,3 +1881,10 @@ Tap "Mark as Lost."
 Tap "Confirm".
 This operation will automatically erase the information related to the lock paired with the Keypad Touch.
 If the lost Keypad Touch is found, you can cancel the loss report in the app. After canceling the report, please re-pair the Keypad Touch with the lock.
+
+---
+### Can I unlock the door lock by using my Apple Watch to touch SwitchBot Keypad Touch?
+
+If you are using a Keypad Touch version that supports transit cards, you can add a Japanese electronic transit card (such as Suica) through the Wallet app. Once the card is added to the Keypad Touch, you can unlock it by tapping your Apple Watch on the Keypad Touch.
+If you are unsure whether your Keypad Touch supports transit cards, please submit feedback through the SwitchBot App, and our after-sales team will verify it for you.
+How to Add the Suica Transportation Card to SwitchBot Keypad Touch: https://support.switch-bot.com/hc/en-us/articles/32888246095639
