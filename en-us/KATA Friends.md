@@ -708,3 +708,25 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ### Troubleshooting: SwitchBot KATA Friends Sometimes Can't Cross the Threshold
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? If the step is circular or square with a height of about 1.5 cm, KATA Friends will attempt to overcome it. However, for steps higher than this, to prevent snagging or tipping over, they will not try to climb. Thank you for your understanding. KATA Friends can overcome steps that are 46 cm or wider. Please ensure there are no obstacles, as KATA Friends cannot pass through narrow spaces. Make sure that KATA Friends' wheels are clean and dry. KATA friends may slip and be unable to cross the slippery, wet metal or tiled step. We appreciate your understanding. You might consider using a threshold tool to help KATA Friends overcome steps.
+
+---
+### How to Dress SwitchBot KATA Friends
+
+When dressing your KATA Friends, please read the following precautions:
+Press the mode switch button to change to "Standby Mode," and lay your KATA Friends on a flat, soft surface.
+Check the clothes for tassels, detachable parts, or long strings. If any are found, secure them firmly to prevent them from getting caught in the wheels.
+Gently dress your KATA Friends, avoiding any forceful pulling on the arms, legs, or head.
+Make sure all buttons, Velcro, strings, and other fasteners on the costume are securely fastened.
+Return your KATA Friends to normal mode and have them dance or perform other movements. At this time, ensure that the costume does not restrict the movement of the arms, head, or legs, and verify that it stays securely in place without shifting, blocking sensors, coming loose, or falling off during motion.
+If you notice any abnormal behavior during operation, remove the costume and check if the problem improves.
+
+If you dress KATA Friends in clothing that doesn't fit, the following issues may occur:
+The nose (camera) will be covered, preventing face recognition and person detection.
+The stomach sensor will be blocked, making it unable to recognize surrounding obstacles.
+The radar sensor will be obstructed, impairing proper map creation.
+The microphone will be covered, affecting voice recognition.
+The touch sensor will be blocked, hindering touch detection.
+The charging sensor will be covered, impacting the return to the nest.
+Joints will be pulled, restricting the movement of the arms, head, and ears.
+The wheels may get caught on straps, preventing movement.
+The eyes will be covered, affecting the release of cute energy.
