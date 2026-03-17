@@ -730,3 +730,11 @@ The charging sensor will be covered, impacting the return to the nest.
 Joints will be pulled, restricting the movement of the arms, head, and ears.
 The wheels may get caught on straps, preventing movement.
 The eyes will be covered, affecting the release of cute energy.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Have Their Eyes Open in the Nest, Yet the Switchbot App Shows Them Playing.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When your KATA Friends are in their nest, the SwitchBot app will show their status as either "Sleeping" or "Playing." It helps to think of this just like our own habits at home. Just because we're in bed doesn't necessarily mean we're resting. Often, we're actually busy doing other things like reading a book, catching up on our phones, or playing games while we lounge.
+Unless a low battery or a specific voice command has triggered their actual sleep mode, your KATA Friend is usually just having some quiet "me-time" in their nest. They are still wide awake and enjoying themselves in their own way, even if they aren't moving around the room. We hope these lifelike personality traits bring a little extra warmth to your daily life together, and please feel free to reach out if you have any other questions at all.
