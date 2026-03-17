@@ -660,11 +660,14 @@ You can play for about three hours on a full charge before the device enters a l
 ---
 ### Can I Make Clothes for SwitchBot KATA Friends?
 
-Yes, you can create and dress your KATA companion at home, but please note the following:
-Make sure that clothing does not cover the eyes, nose, charging sensor, or obstacle avoidance sensor.  
-Avoid clothing that is too tight and restricts movement of the neck, arms, ears, or other areas.  
-Do not use excessively loose clothing with tassels or heavy hems that could get caught under your KATA friend.  
-To prevent staining the main body's fur, avoid linings that are prone to color bleeding.
+DIY clothing for KATA Friends is not recommended due to issues such as improper sizing, sensor obstruction, restricted joint movement, and impaired heat dissipation caused by certain materials. However, if you are determined to make clothes for your KATA Friends yourself, please be sure to follow these precautions:
+Use thin, soft materials.
+Keep the design simple.
+Do not cover the eyes, nose, charging sensor, or obstacle avoidance sensor.
+Make sure joints can move freely without restriction.
+Avoid materials prone to color fading, such as regular denim, dark-colored cotton fabrics, or unwashed textiles. When using for the first time, wipe the fabric with a wet tissue to check for color bleeding.
+To prevent fur from shedding or tangling, ensure rough surfaces or sharp parts like Velcro or metal buttons do not come into direct contact with the fur.
+Avoid clothing that is too small, as it may crush the fur or restrict movement.
 
 ---
 ### What Should I Do with SwitchBot KATA Friends When I'm Away from Home for a Long Time?
