@@ -545,13 +545,22 @@ When adding the mobile transit IC card, please hold the top of your smartphone o
 ---
 ### Troubleshooting: SwitchBot Keypad Vision Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.
 
 ---
 ### Troubleshooting: When the NFC Card Is Placed on the Keypad Vision, There Is No Response, and the Door Lock Does Not Open.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease hold the NFC card horizontally over the Keypad Vision's scanning area as shown in the illustration below to unlock.\nNote: The illustration shows a Suica transit card, but the same applies to other NFC cards.\n
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please hold the NFC card horizontally over the Keypad Vision's scanning area as shown in the illustration below to unlock.  
+Note: The illustration shows a Suica transit card, but the same applies to other NFC cards.
 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ececb7e7-be0a-4b03-a55e-4dd5ab7cbd34" />
 
-If you have other NFC cards on hand, such as transit IC cards or SwitchBot NFC cards, please check whether you can register or unlock using them.\nPlease check for any available firmware updates by going to SwitchBot app → Keypad Vision → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.\nPlease turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.\nPlease remove the Keypad Vision from the app, then add it again.\nNote: Deleting Keypad Vision from the app will erase all saved fingerprint, passcode, facial recognition, and NFC card data. Thank you for your understanding.
+2. If you have other NFC cards on hand, such as transit IC cards or SwitchBot NFC cards, please check whether you can register or unlock using them.
+3. Please check for any available firmware updates by going to SwitchBot app → Keypad Vision → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Please turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.
+5. Please remove the Keypad Vision from the app, then add it again.
+Note: Deleting Keypad Vision from the app will erase all saved fingerprint, passcode, facial recognition, and NFC card data. Thank you for your understanding.
