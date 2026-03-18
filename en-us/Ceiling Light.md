@@ -828,3 +828,8 @@ https://support.switch-bot.com/hc/ja/articles/27399457855639
 ### Troubleshooting: The Mounting Plate Cannot Be Installed on SwitchBot Ceiling Light.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease refer to the link below for instructions on how to install the ceiling light mounting plate.\nhttps://support.switch-bot.com/hc/ja/articles/27399457855639\nWe would like to thoroughly determine whether the issue stems from the mounting method, the plate, or the light fixture itself. Please provide photos or videos showing how the ceiling light mounting plate fails to fit properly.
+
+---
+### Troubleshooting: The Mounting Plate Cannot Be Installed on SwitchBot Ceiling Light Pro.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease refer to the link below for instructions on how to install the Ceiling Light Pro mounting plate.\nhttps://support.switch-bot.com/hc/ja/articles/27399457855639\nWe would like to thoroughly determine whether the issue stems from the mounting method, the plate, or the light fixture itself. Please provide photos or videos showing how the Ceiling Light Pro mounting plate fails to fit properly.
