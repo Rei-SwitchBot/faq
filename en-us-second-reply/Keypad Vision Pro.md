@@ -260,3 +260,8 @@ Which transportation IC card are you using
 A video demonstrating the process of logging into the mobile transportation card to Keypad Vision Pro
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Pro Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
+
+Thank you for the information provided.\nSorry for any inconvenience caused.\nWe will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:\nA video showing the keyboard not responding\n\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
