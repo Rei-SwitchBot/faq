@@ -541,3 +541,8 @@ When adding the mobile transit IC card, please hold the top of your smartphone o
 
 <img width="687" height="1223" alt="image" src="https://github.com/user-attachments/assets/4c7e83e4-4cc1-4025-84a5-afc4ae10bc44" />
 
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.
