@@ -231,9 +231,30 @@ A video demonstrating the process of logging into the mobile transportation card
 ---
 ### Troubleshooting: SwitchBot Keypad Vision Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
 
-Thank you for the information provided.\nSorry for any inconvenience caused.\nUpon confirmation, our R&D team is currently testing the next firmware version. Once it is officially released, we will arrange a firmware update for you. Although the release date has not been finalized, we are aiming for as early as March. We sincerely apologize for the inconvenience and kindly ask for your continued patience.
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+Upon confirmation, our R&D team is currently testing the next firmware version. Once it is officially released, we will arrange a firmware update for you. Although the release date has not been finalized, we are aiming for as early as March. We sincerely apologize for the inconvenience and kindly ask for your continued patience.
 
 ---
 ### Troubleshooting: When the NFC Card Is Placed on the Keypad Vision, There Is No Response, and the Door Lock Does Not Open.
 
-Thank you for reporting this issue.\nWe apologize for any inconvenience caused.\nTo determine whether the issue can be resolved through the replacement of the NFC card, we would appreciate it if you could share a video showing the problem.\nA video showing the Keypad Vision indicator lamp status while scanning the NFC card.\n\nAlso, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.\nPurchase channel\nOrder ID\nRecipient Full Name\nPhone Number\nCountry\nStreet Address\nCity\nState/Province\nZIP/Postal Code\nA screenshot of your order\n\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.\n*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+To determine whether the issue can be resolved through the replacement of the NFC card, we would appreciate it if you could share a video showing the problem. 
+  1. A video showing the Keypad Vision indicator lamp status while scanning the NFC card.
+
+
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
