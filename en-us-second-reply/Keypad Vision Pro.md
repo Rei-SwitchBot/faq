@@ -239,17 +239,6 @@ We truly apologize for the frustration this has caused and appreciate you sticki
 If you have any other questions, please do not hesitate to contact us.
 
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: Mobile Transit IC Cards Like Suica Cannot Be Added to SwitchBot Keypad Vision Pro
 
@@ -264,9 +253,34 @@ A video demonstrating the process of logging into the mobile transportation card
 ---
 ### Troubleshooting: SwitchBot Keypad Vision Pro Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
 
-Thank you for the information provided.\nSorry for any inconvenience caused.\nWe will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:\nA video showing the keyboard not responding\n\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing the keyboard not responding
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting: When the NFC Card Is Placed on the Keypad Vision Pro, There Is No Response, and the Door Lock Does Not Open.
 
-Thank you for reporting this issue.\nWe apologize for any inconvenience caused.\nTo determine whether the issue can be resolved through the replacement of the NFC card, we would appreciate it if you could share a video showing the problem.\nA video showing the Keypad Vision Pro indicator lamp status while scanning the NFC card.\n\nAlso, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.\nPurchase channel\nOrder ID\nRecipient Full Name\nPhone Number\nCountry\nStreet Address\nCity\nState/Province\nZIP/Postal Code\nA screenshot of your order\n\n*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.\n*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+To determine whether the issue can be resolved through the replacement of the NFC card, we would appreciate it if you could share a video showing the problem. 
+  1. A video showing the Keypad Vision Pro indicator lamp status while scanning the NFC card.
+
+
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
