@@ -228,31 +228,6 @@ Please contact the camera manufacturer for instructions on how to obtain the RTS
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: The Already Added Face Appears in the Stranger List on SwitchBot Al Hub.
 
