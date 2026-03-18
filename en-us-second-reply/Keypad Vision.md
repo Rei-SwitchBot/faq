@@ -217,12 +217,6 @@ We truly apologize for the frustration this has caused and appreciate you sticki
 If you have any other questions, please do not hesitate to contact us.
 
 
-
-
-
-
-
-
 ---
 ### Troubleshooting: Mobile Transit IC Cards Like Suica Cannot Be Added to SwitchBot Keypad Vision
 
