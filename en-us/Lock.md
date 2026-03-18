@@ -3035,3 +3035,8 @@ Add two locks to the app again.
 
 
 
+
+---
+### Can I Use Screws to Secure SwitchBot Lock on the Door?
+
+Yes, if you prefer to install your Lock on the door using screws instead of adhesive tape, please use the recommended standard KA3x8 (2pcs) screws.
