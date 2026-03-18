@@ -252,3 +252,12 @@ Please contact the camera manufacturer for instructions on how to obtain the RTS
 
 
 
+
+---
+### Troubleshooting: The Already Added Face Appears in the Stranger List on SwitchBot Al Hub.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Just as someone can look quite different to us from the side than they do from the front, your AI Hub may not immediately recognize a face if it is captured from a new or unusual angle. When this happens, the Hub might process the person as an unfamiliar visitor even if they have already been registered in your system.
+To help the AI Hub stay as accurate as possible, we recommend registering each face from several different angles. Taking a few extra moments to capture a direct front-on view along with slight side profiles ensures the system can reliably recognize your friends and family no matter which way they are facing.
+If you have any other questions, please do not hesitate to contact us.
