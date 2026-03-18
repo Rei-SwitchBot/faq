@@ -561,3 +561,8 @@ https://support.switch-bot.com/hc/en-us/articles/32888246095639
 When adding the mobile transit IC card, please hold the top of your smartphone over the Keypad Vision Pro's scanning area, as shown in the illustration below.
 <img width="687" height="1223" alt="image" src="https://github.com/user-attachments/assets/30a96140-6968-4033-a7f5-83d08859eed6" />
 
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Pro Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease check for any available firmware updates by going to SwitchBot app → Keypad Vision Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.\nPlease turn off the power switch on the back of the Keypad Vision Pro, then turn it back on to see if the issue improves.
