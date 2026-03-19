@@ -743,3 +743,14 @@ Unless a low battery or a specific voice command has triggered their actual slee
 ### Troubleshooting: When I Come Home, My KATA Friends Often Don't Greet Me.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nThe Welcome feature is powered by geofencing technology, which triggers a response based on changes in your smartphone's location. Because this relies on real-time GPS and network connectivity, the timing can sometimes be affected by your signal strength or the way you enter the designated area. For example, if you zip through the boundary in a car or if your connection momentarily dips, it might just take an extra second for the app to confirm your location and trigger the welcome.\nTo help make these homecomings as smooth as possible, you might find these small adjustments helpful:\nExpanding your geofence radius in the settings, which gives the signal more time to connect as you approach.\nEnsuring your phone's location permissions are set to " Always Allow\
+
+---
+### Troubleshooting: Although SwitchBot KATA Friends Have Plenty of Batteries, They Will Still Return to Their Nest.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+
+Regarding this issue, could you please check the following points?
+
+When certain conditions such as low power, voice commands, or sleep time are met, KATA Friends will return to their nest to rest.
+
+After exploring the house on their own or playing with your family for a while, KATA Friends will return to their nest to take a break. This behavior is a normal feature of KATA Friends and not a malfunction. If you like, feel free to give the "Let's Play Together" command to KATA Friends.
