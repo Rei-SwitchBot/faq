@@ -8860,24 +8860,6 @@ Go to the Wi-Fi settings and check if the Hub Mini is stably connected to the ne
 ![Image](https://support.switch-bot.com/attachments/token/Icrj0STfjHYKi81MQjYiJ7u6C/?name=image.png)
 
 
-
----
-### What to Do if I Am Unable to Join Home Due to Error of 2186
-
-Last Updated: 2024 Apr 30
-
-SwitchBot App Version: 8.3 or newer
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. When contacting us, we would appreciate it if you could provide the following information.
-
-Home owner account:
-
-Home member account:
-
-
-
 ---
 ### Where Can I Find Automation That Have Already Been Created?
 
