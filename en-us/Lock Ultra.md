@@ -642,3 +642,13 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - ZIP/Postal Code
 - A screenshot of your order
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Is It Possible to Install SwitchBot Lock Ultra on an Entrance Door That Has a Thumb Turn on the Inside and No Keyhole on the Outside?
+
+We recommend always keeping a physical key on hand, even after installing our smart lock. This ensures you can still enter your home if the device becomes temporarily inoperable due to unexpected issues like battery exhaustion.
+
+Please note that our products are not recommended for entrance doors without a physical keyhole. Since these locks lack a manual override, any emergency or power failure could leave you locked out with no way to enter, causing significant inconvenience. To ensure you always have a reliable backup, we kindly ask that you only install our products on doors that allow for physical key access.
+
+Important Note:
+For any door lock, please ensure that installing SwitchBot lock products does not interfere with other locking or unlocking methods.
