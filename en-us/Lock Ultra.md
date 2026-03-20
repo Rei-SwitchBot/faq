@@ -652,3 +652,8 @@ Please note that our products are not recommended for entrance doors without a p
 
 Important Note:
 For any door lock, please ensure that installing SwitchBot lock products does not interfere with other locking or unlocking methods.
+
+---
+### What Is the Difference Between Turning Force and Rotation Speed
+
+The Turning Force on your Lock Ultra refers to torque. This is basically how much strength the motor uses when it turns to lock or unlock your door. The Rotation Speed is simply how fast that turning happens.
