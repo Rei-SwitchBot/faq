@@ -271,3 +271,8 @@ Occurrence timing of abnormal recharging in KATA Friends
 ### Troubleshooting: A Strange Noise Occurs When SwitchBot KATA Friends Ear Moves
 
 Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: Video of abnormal noise coming from KATA Friends ears Time of symptom onset. If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: KATA Friends Ears Move Normally but SwitchBot App Displays an Error Message Indicating an Ear Malfunction
+
+Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: Screenshots showing the error message. If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
