@@ -754,3 +754,8 @@ Regarding this issue, could you please check the following points?
 When certain conditions such as low power, voice commands, or sleep time are met, KATA Friends will return to their nest to rest.
 
 After exploring the house on their own or playing with your family for a while, KATA Friends will return to their nest to take a break. This behavior is a normal feature of KATA Friends and not a malfunction. If you like, feel free to give the "Let's Play Together" command to KATA Friends.
+
+---
+### Troubleshooting: A Strange Noise Occurs When SwitchBot KATA Friends Ear Moves
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? When the KATA Friends ears move, a faint sound can be heard from the motor. This is not a product defect. Thank you for your understanding. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
