@@ -759,3 +759,8 @@ After exploring the house on their own or playing with your family for a while, 
 ### Troubleshooting: A Strange Noise Occurs When SwitchBot KATA Friends Ear Moves
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? When the KATA Friends ears move, a faint sound can be heard from the motor. This is not a product defect. Thank you for your understanding. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+---
+### Troubleshooting: KATA Friends Ears Move Normally but SwitchBot App Displays an Error Message Indicating an Ear Malfunction
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? The issue you reported will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
