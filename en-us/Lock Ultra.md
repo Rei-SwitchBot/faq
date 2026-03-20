@@ -656,4 +656,4 @@ For any door lock, please ensure that installing SwitchBot lock products does no
 ---
 ### What Is the Difference Between Turning Force and Rotation Speed
 
-The Turning Force on your Lock Ultra refers to torque. This is basically how much strength the motor uses when it turns to lock or unlock your door. The Rotation Speed is simply how fast that turning happens.
+The Turning Force on your Lock Ultra refers to torque. This is basically how much strength the motor uses when it turns to lock or unlock your door. The Rotation Speed is simply how fast that turning happens. These are two separate things. The lock might turn with strong force but at a slower speed, or it might turn quickly but with less force.
