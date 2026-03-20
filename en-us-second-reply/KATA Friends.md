@@ -281,3 +281,8 @@ Thank you for the information provided. Sorry for any inconvenience caused. We w
 ### Troubleshooting: KATA Friends Ears Don't Move
 
 We will forward your feedback to our R&D team for further investigation.
+
+---
+### Troubleshooting: The Cover inside SwitchBot KATA Friends Ear Is Installed Backwards
+
+Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
