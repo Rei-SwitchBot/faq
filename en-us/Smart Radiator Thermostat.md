@@ -162,23 +162,17 @@ For reference, the normal installation process is demonstrated in the video belo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### How Does the Window Detect Feature of SwitchBot Smart Radiator Thermostat Work?
 
-When enabled the Window Detect function monitors for sudden temperature drops. If the temperature falls by more than 6C within 4 minutes the device considers this a window-open event. It will display OP on the screen and close the valve automatically. This helps prevent energy waste when a window is left open. The device will exit this window-open state and return to normal temperature control once any of the following conditions are met: The temperature rises by 3C within 4 minutes; The window-open state has lasted for more than 48 minutes; The temperature source is switched; The Window Detect function is turned off. Important Note: For more precise window detection we recommend using our Contact Sensor together with your Smart Radiator Thermostat in automations. If you have already set up automations involving the Contact Sensor and thermostat we suggest disabling the built-in Window Detect function on the device itself. Running both simultaneously may result in conflicting commands. Automation features require a hub.
+When enabled, the Window Detect function monitors for sudden temperature drops. If the temperature falls by more than 6°C (42.8°F) within 4 minutes, the device considers this a window-open event. It will display "OP" on the screen and close the valve automatically. This helps prevent energy waste when a window is left open.
+The device will exit this window-open state and return to normal temperature control once any of the following conditions are met:
+The temperature rises by 3°C (37.4°F) within 4 minutes
+The window-open state has lasted for more than 48 minutes
+The temperature source is switched
+The Window Detect function is turned off
+
+Important Note:
+For more precise window detection, we recommend using our Contact Sensor together with your Smart Radiator Thermostat in automations.
+If you have already set up automations involving the Contact Sensor and thermostat, we suggest disabling the built-in Window Detect function on the device itself. Running both simultaneously may result in conflicting commands.
+Automation features require a hub.
