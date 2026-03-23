@@ -19,3 +19,8 @@ It takes about 1 hour for the rechargeable battery of Bot Rechargeable to be ful
 ### How Long Can SwitchBot Bot Rechargeable Rechargeable Battery Last on a Single Charge?
 
 If you use the Bot Rechargeable to press the switch once a day, the rechargeable battery will last about six months on a single charge. Note: It takes about 1 hour for the rechargeable battery of Bot Rechargeable to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete.
+
+---
+### Is It Possible to Use Disposable CR2 Lithium Batteries with SwitchBot Bot Rechargeable?
+
+Bot Rechargeable has different hardware and uses a different method for detecting battery level than standard Bots. If a standard lithium battery intended for regular Bots is used, the remaining-charge display may become inaccurate or suddenly indicate low power, and in the worst case it could prevent Bot Rechargeable from operating properly. Therefore, please use the original rechargeable battery for Bot Rechargeable.
