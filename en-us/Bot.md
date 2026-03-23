@@ -1651,3 +1651,8 @@ If you use the Bot Rechargeable to press the switch once a day, the rechargeable
 ### Is It Possible to Use Disposable CR2 Lithium Batteries with SwitchBot Bot Rechargeable?
 
 Bot Rechargeable has different hardware and uses a different method for detecting battery level than standard Bots. If a standard lithium battery intended for regular Bots is used, the remaining-charge display may become inaccurate or suddenly indicate low power, and in the worst case it could prevent Bot Rechargeable from operating properly. Therefore, please use the original rechargeable battery for Bot Rechargeable.
+
+---
+### Is It Possible to Use Non-SwitchBot Rechargeable CR2 Batteries with SwitchBot Bot Rechargeable?
+
+If you use a third-party rechargeable CR2 battery in the SwitchBot Bot Rechargeable, the remaining charge indicator may become inaccurate or suddenly show low battery, and in the worst case it may prevent the device from operating properly. Therefore, please use the original rechargeable battery for Bot Rechargeable.
