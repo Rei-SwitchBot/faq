@@ -1,4 +1,8 @@
-# Bot Rechargeable FAQ
+---
+
+## Bot Rechargeable
+
+---
 
 ---
 ### Can the Rechargeable Battery of the Rechargeable Bot Be Used in the Regular Bot?
