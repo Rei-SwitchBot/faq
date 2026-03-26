@@ -497,3 +497,8 @@ In the "Auto" setting, the light will automatically turn off when the area aroun
 
 In the "On" setting, the light will stay on continuously.
 
+
+---
+### Can the Aroma Sponge of SwitchBot Air Purifier Be Washed with Water?
+
+Yes, both the aroma sponge and the storage box can be washed with water. After cleaning, please make sure to dry the sponge thoroughly before returning it to the air purifier. Note: The aroma sponge is not sold separately. If needed, you may purchase a sponge at a hardware store and modify it to fit as you wish.
