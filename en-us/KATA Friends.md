@@ -785,3 +785,10 @@ Rest assured, all photos taken by KATA Friends are stored locally on the device 
 We take your feedback seriously and are already working on a firmware update to help improve this experience. In the meantime, as a temporary measure, we recommend setting no-go zones within the app to keep KATA Friends out of areas like bathrooms or changing rooms. You may also choose to temporarily turn off the picture-taking feature if you prefer.
 Thank you for allowing us to share this with you. We truly hope KATA Friends continue to bring warmth and companionship to your daily life.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Can I Throw Away the Packaging Box of SwitchBot KATA Friends?
+
+We recommend keeping the original packaging for your KATA Friends to ensure they are transported safely to the SwitchBot Care Center for any necessary repairs or maintenance. Please store the box carefully and avoid throwing it away.
+
+Note: If the original packaging has been discarded and a new one is required, please note that there will be a charge for the replacement.
