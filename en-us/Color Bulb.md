@@ -751,3 +751,10 @@ Remove the Color Bulb from the SwitchBot App.
 Try resetting the bulb by turning it on and off eight times.
 Reset Video: https://support.switch-bot.com/hc/en-us/articles/4416605563415
 After resetting, turn off the power, then turn it back on and try adding the bulb again in the app.
+
+---
+### When the Scene and Automation Actions Are Set to Turn On SwitchBot Color Bulb, Can I Confirm Which Color It Is Set to Through the Displayed Icon?
+
+We regret to inform you that, in SwitchBot scenes and automations, the operation icons for all lighting devices, including the Color Bulb, are currently displayed in warm yellow when turned on and gray when turned off. Unfortunately, there is no functionality to synchronize and update the icons to match the color you have set.
+
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
