@@ -240,7 +240,9 @@ Since the connection parts or even the entire LED Strip Light may fail to light 
 ---
 ### When the Scene and Automation Actions Are Set to Turn On SwitchBot LED Strip Light, Can I Confirm Which Color It Is Set to Through the Displayed Icon?
 
-We regret to inform you that, in SwitchBot scenes and automations, the operation icons for all lighting devices, including the LED Strip Light, are currently displayed in warm yellow when turned on and gray when turned off. Unfortunately, there is no functionality to synchronize and update the icons to match the color you have set.\n\nWe apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+We regret to inform you that, in SwitchBot scenes and automations, the operation icons for all lighting devices, including the LED Strip Light, are currently displayed in warm yellow when turned on and gray when turned off. Unfortunately, there is no functionality to synchronize and update the icons to match the color you have set.
+
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 ---
 ### Troubleshooting SwitchBot LED Strip Light Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
