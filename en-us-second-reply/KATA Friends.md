@@ -286,3 +286,16 @@ We will forward your feedback to our R&D team for further investigation.
 ### Troubleshooting: The Cover inside SwitchBot KATA Friends Ear Is Installed Backwards
 
 Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+
+---
+### Troubleshooting: I Adjusted the Volume of SwitchBot KATA Friends on SwitchBot App, but the Volume Changes on Its Own
+
+Thank you for the information provided.
+
+Sorry for any inconvenience caused.
+
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
