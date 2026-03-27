@@ -247,4 +247,24 @@ We apologize for any inconvenience this may cause. Please rest assured that we w
 ---
 ### Troubleshooting SwitchBot LED Strip Light Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\n\nRegarding this issue, could you please check the following points?\n\nPlease use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.\n\nPlace the LED Strip Light closer to the Wi-Fi router (within 5 meters).\n\nIf your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.\n\nWhen adding the device, make sure that you correctly enter the Wi-Fi SSID and password, including uppercase and lowercase letters.\n\nRestart your home router and then try again.\n\nIf pairing fails, reset the device by pressing the power button and music mode button on the LED Strip Light for 8 seconds until it cycles through red, green, and blue. After resetting, attempt to reconnect your device to your home router.\n\nhttps://support.switch-bot.com/hc/en-us/articles/10890128411031\n\nAs a troubleshooting step, check if the LED Strip Light can connect to your smartphone's hotspot.\n\nhttps://support.switch-bot.com/hc/en-us/articles/32573508408983
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+
+Regarding this issue, could you please check the following points?
+
+Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+
+Place the LED Strip Light closer to the Wi-Fi router (within 5 meters).
+
+If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
+
+When adding the device, make sure that you correctly enter the Wi-Fi SSID and password, including uppercase and lowercase letters.
+
+Restart your home router and then try again.
+
+If pairing fails, reset the device by pressing the power button and music mode button on the LED Strip Light for 8 seconds until it cycles through red, green, and blue. After resetting, attempt to reconnect your device to your home router.
+
+https://support.switch-bot.com/hc/en-us/articles/10890128411031
+
+As a troubleshooting step, check if the LED Strip Light can connect to your smartphone's hotspot.
+
+https://support.switch-bot.com/hc/en-us/articles/32573508408983
