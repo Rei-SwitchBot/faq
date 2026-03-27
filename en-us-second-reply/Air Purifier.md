@@ -116,3 +116,8 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 ### Test Title
 
 Solution EN
+
+---
+### Troubleshooting Poor Air Purification Performance on SwitchBot Air Purifier
+
+Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: A photo that can illustrate the environment in which an air purifier is used. *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
