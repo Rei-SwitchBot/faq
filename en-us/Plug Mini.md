@@ -856,13 +856,6 @@ Note:
 Power consumption used while the Wi-Fi connection is disconnected cannot be synced to the cloud. Thank you for your understanding.
 
 
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: SwitchBot Plug Mini Has Remained in an On State and Cannot Be Turned Off
 
