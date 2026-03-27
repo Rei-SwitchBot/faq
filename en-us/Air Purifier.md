@@ -512,3 +512,8 @@ AI First Reply EN
 ### Is It Possible to Purchase the Sponge for the Aroma Function of SwitchBot Air Purifier Separately?
 
 We regret to inform you that the aromatherapy sponge for Air Purifiers is not sold separately. If needed, you may purchase sponges independently and modify them to fit the required shape for use.
+
+---
+### Troubleshooting Poor Air Purification Performance on SwitchBot Air Purifier
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? Make sure the plastic bag around the filter has been removed. Make sure there are no objects blocking the Air Purifier's intake or exhaust vents. Clear any dust or debris from the intake and exhaust vents, as well as the pre-filter. Set the Air Purifier to its highest mode or pet mode for stronger air purification. If the filter has been in use for a while, it may be time to replace it for optimal performance.
