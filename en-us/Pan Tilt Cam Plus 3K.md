@@ -590,3 +590,17 @@ To maintain more stable operation, the camera will automatically restart every T
 If the restart of your camera is not the above phenomenon, please check the following:
 - Make sure to use a 5V2A power adapter with the camera.
 - Check if the camera is rebooting more than three times per week.
+
+---
+### Can SwitchBot Pan Tilt Cam Plus 3K Cloud Storage Family Plan Be Used for Cameras in Different Homes Under the Same SwitchBot Account?
+
+If you are using multiple Pan Tilt Cam Plus 2K or Pan Tilt Cam Plus 3K cameras, you can subscribe to cloud storage plans like the Premium or Family plans. This enables you to allocate cloud storage for cameras associated with different homes within the same SwitchBot account.
+
+On the other hand, with traditional cameras, if you purchase a cloud storage plan that supports multiple cameras, it can only be used for cameras associated with the same account within the same home and cannot be shared across different homes. Thank you for your understanding.
+
+SwitchBot traditional cameras:
+Indoor Cam
+Pan Tilt Cam
+Pan Tilt Cam 2K
+Outdoor Spotlight Cam
+Outdoor Spotlight Cam 2K
