@@ -536,3 +536,8 @@ Regarding the issue of the air purifier not powering on, could you please check 
 
 <img width="673" height="496" alt="image" src="https://github.com/user-attachments/assets/da7ea001-194d-4004-9b2a-dc541af128f0" />
 
+
+---
+### Can the Aroma Sponge of SwitchBot Air Purifier Table Be Washed with Water?
+
+Yes, both the aroma sponge and the storage box can be washed with water. After cleaning, please make sure to dry the sponge thoroughly before returning it to the air purifier. Note: The aroma sponge is not sold separately. If needed, you may purchase a sponge at a hardware store and modify it to fit as you wish.
