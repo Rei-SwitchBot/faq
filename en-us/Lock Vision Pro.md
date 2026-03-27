@@ -294,3 +294,8 @@ We regret to inform you that the key included with each Lock Vision Pro is uniqu
 ### Does SwitchBot Lock Vision Pro Support Apple Home Key?
 
 Yes, Lock Vision Pro supports unlocking with the Apple Home Key. You can unlock it by tapping your iPhone or Apple Watch.
+
+---
+### What Is the Capacity of SwitchBot Lock Vision Pro Rechargeable Battery?
+
+The rechargeable battery capacity of SwitchBot Lock Vision Pro is 10000mAh.
