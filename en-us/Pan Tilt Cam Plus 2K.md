@@ -590,3 +590,17 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 To maintain more stable operation, the camera will automatically restart every Thursday around 4 AM local time. The reboot process takes approximately 35 to 80 seconds, during which the camera may emit a "buzzing" sound and slight vibrations (similar to the vibration of a mobile phone). This temporary offline period is a normal part of the product's operation and not a malfunction. We appreciate your understanding.
 To determine if the offline issue is caused by a poor connection, please replace the power adapter with another 5V 2A adapter and also swap out the Type-C cable. Then, monitor the situation for a few days.
+
+---
+### Can SwitchBot Pan Tilt Cam Plus 2K Cloud Storage Family Plan Be Used for Cameras in Different Homes Under the Same SwitchBot Account?
+
+If you are using multiple Pan Tilt Cam Plus 2K or Pan Tilt Cam Plus 3K cameras, you can subscribe to cloud storage plans like the Premium or Family plans. This enables you to allocate cloud storage for cameras associated with different homes within the same SwitchBot account.
+
+On the other hand, with traditional cameras, if you purchase a cloud storage plan that supports multiple cameras, it can only be used for cameras associated with the same account within the same home and cannot be shared across different homes. Thank you for your understanding.
+
+SwitchBot traditional cameras:
+Indoor Cam
+Pan Tilt Cam
+Pan Tilt Cam 2K
+Outdoor Spotlight Cam
+Outdoor Spotlight Cam 2K
