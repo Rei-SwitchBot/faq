@@ -526,4 +526,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ---
 ### Troubleshooting SwitchBot Air Purifier Cannot Be Turned on
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding the issue of the air purifier not powering on, could you please check the following points? Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet. Check if there is any visible damage to the Air Purifier's power cord. Confirm that the air intake (as shown in the diagram, number 6) is properly attached to the Air Purifier.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue of the air purifier not powering on, could you please check the following points?
+1. Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet.
+2. Check if there is any visible damage to the Air Purifier’s power cord.
+3. Confirm that the air intake (as shown in the diagram, number 6) is properly attached to the Air Purifier.
+
+<img width="673" height="496" alt="image" src="https://github.com/user-attachments/assets/da7ea001-194d-4004-9b2a-dc541af128f0" />
+
