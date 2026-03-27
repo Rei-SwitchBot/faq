@@ -507,3 +507,8 @@ Yes, both the aroma sponge and the storage box can be washed with water. After c
 ### Test Title
 
 AI First Reply EN
+
+---
+### Is It Possible to Purchase the Sponge for the Aroma Function of SwitchBot Air Purifier Separately?
+
+We regret to inform you that the aromatherapy sponge for Air Purifiers is not sold separately. If needed, you may purchase sponges independently and modify them to fit the required shape for use.
