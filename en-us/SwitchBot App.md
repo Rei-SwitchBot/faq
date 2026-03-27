@@ -99,3 +99,8 @@ Important Things to Know:
 ### Troubleshooting: Unable to Join Home
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you provide the home owner account and member account (email address)?\nHome owner account:\nHome member account:\nNote:\nAs a temporary measure for urgent cases, members can log in to the same SwitchBot app account on their phones to access the added products.
+
+---
+### Where Can I Sign out of the Store in SwitchBot App?
+
+For security purposes, once you sign in to the store via the SwitchBot app, you cannot sign out directly within the app itself. If you need to sign out, please do so from our official website instead. This change will sync automatically and sign you out of the app as well. We sincerely apologize for the inconvenience and appreciate your understanding.
