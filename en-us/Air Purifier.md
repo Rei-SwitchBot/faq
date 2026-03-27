@@ -522,3 +522,8 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ### Troubleshooting SwitchBot Air Purifier Keeps Making Noise While Running
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? Make sure your Air Purifier Table is placed on a firm, flat surface. Make sure that the plastic bag around the filter has been removed and that the filter is properly installed. Inspect the Air Purifier Table for any foreign objects that may have entered the device. Depending on the environment, we recommend replacing the filter every 6 to 12 months. If it's been a while, you may want to replace the filter.
+
+---
+### Troubleshooting SwitchBot Air Purifier Cannot Be Turned on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding the issue of the air purifier not powering on, could you please check the following points? Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet. Check if there is any visible damage to the Air Purifier's power cord. Confirm that the air intake (as shown in the diagram, number 6) is properly attached to the Air Purifier.
