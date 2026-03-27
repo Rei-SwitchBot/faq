@@ -231,3 +231,10 @@ We regret to inform you that the key included with each Lock Vision is uniquely 
 ### Does SwitchBot Lock Vision Support Apple Home Key?
 
 Yes, Lock Vision supports unlocking with the Apple Home Key. You can unlock it by tapping your iPhone or Apple Watch.
+
+---
+### What is the Difference Between SwitchBot Lock Vision Pro and Lock Vision?
+
+Compared to the Lock Vision Pro, the Lock Vision does not support palm vein or fingerprint unlocking, nor does it feature automatic locking upon detecting that the door is closed. Other basic functions are similar to those of the Lock Vision Pro. For more details, please refer to the link below.
+
+https://support.switch-bot.com/hc/en-us/articles/39248909938583
