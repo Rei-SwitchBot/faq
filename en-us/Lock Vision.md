@@ -238,3 +238,8 @@ Yes, Lock Vision supports unlocking with the Apple Home Key. You can unlock it b
 Compared to the Lock Vision Pro, the Lock Vision does not support palm vein or fingerprint unlocking, nor does it feature automatic locking upon detecting that the door is closed. Other basic functions are similar to those of the Lock Vision Pro. For more details, please refer to the link below.
 
 https://support.switch-bot.com/hc/en-us/articles/39248909938583
+
+---
+### What Is the Capacity of SwitchBot Lock Vision Rechargeable Battery?
+
+The rechargeable battery capacity of SwitchBot Lock Vision is 10000mAh.
