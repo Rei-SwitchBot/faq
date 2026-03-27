@@ -32,3 +32,10 @@ Please refrain from extending the RGBIC strip lights, as the extended section ma
 ### Is It Possible to Connect Multiple SwitchBot RGBICWW Strip Lights into One?
 
 Since the connection parts or even the entire RGBICWW Strip Light may fail to light up, please avoid joining multiple strips yourself to combine them into one.
+
+---
+### When the Scene and Automation Actions Are Set to Turn On SwitchBot RGBICWW Strip Light, Can I Confirm Which Color It Is Set to Through the Displayed Icon?
+
+We regret to inform you that, in SwitchBot scenes and automations, the operation icons for all lighting devices, including the RGBICWW Strip Light, are currently displayed in warm yellow when turned on and gray when turned off. Unfortunately, there is no functionality to synchronize and update the icons to match the color you have set.
+
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
