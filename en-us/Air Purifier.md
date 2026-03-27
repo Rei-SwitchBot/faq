@@ -517,3 +517,8 @@ We regret to inform you that the aromatherapy sponge for Air Purifiers is not so
 ### Troubleshooting Poor Air Purification Performance on SwitchBot Air Purifier
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? Make sure the plastic bag around the filter has been removed. Make sure there are no objects blocking the Air Purifier's intake or exhaust vents. Clear any dust or debris from the intake and exhaust vents, as well as the pre-filter. Set the Air Purifier to its highest mode or pet mode for stronger air purification. If the filter has been in use for a while, it may be time to replace it for optimal performance.
+
+---
+### Troubleshooting SwitchBot Air Purifier Has a Strange Odor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? Check the filter to see if it's dirty. If needed, please replace the filter. If the Air Purifier has been used in a high-humidity environment (over 70% humidity) for a long period, bacteria may grow, leading to odors. We recommend using the purifier in a less humid environment. If the Air Purifier is used in a room with strong odors (like cigarette smoke or barbecue), the Air Purifier may emit odors for several weeks. In this case, replacing the filter can help. Please note: Depending on the environment, it is recommended to replace the filter every 6 to 12 months to ensure optimal performance.
