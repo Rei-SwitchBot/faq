@@ -859,4 +859,4 @@ Power consumption used while the Wi-Fi connection is disconnected cannot be sync
 ---
 ### Troubleshooting: SwitchBot Plug Mini Has Remained in an On State and Cannot Be Turned Off
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? Please press and hold the button on the side of the plug mini for 15 seconds to reset it.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\n\nRegarding this issue, could you please check the following points?\n\nPlease press and hold the button on the side of the plug mini for 15 seconds to reset it.
