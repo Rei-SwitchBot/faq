@@ -792,3 +792,14 @@ If you have any other questions, please do not hesitate to contact us.
 We recommend keeping the original packaging for your KATA Friends to ensure they are transported safely to the SwitchBot Care Center for any necessary repairs or maintenance. Please store the box carefully and avoid throwing it away.
 
 Note: If the original packaging has been discarded and a new one is required, please note that there will be a charge for the replacement.
+
+---
+### Troubleshooting: I Adjusted the Volume of SwitchBot KATA Friends on SwitchBot App, but the Volume Changes on Its Own
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+
+Regarding this issue, could you please check the following points?
+
+The issue you've identified is that KATA Friends picks up surrounding sounds and mistakenly interprets them as commands to adjust the volume, resulting in incorrect volume changes. This will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
