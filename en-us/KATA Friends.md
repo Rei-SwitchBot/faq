@@ -66,8 +66,17 @@ The main unit of the KATA Friends measures 400 × 270 × 370 mm (15.75 × 10.63 
 ---
 ### Can I Use SwitchBot KATA Friends Outdoors?
 
-KATA Friends can be used even when the network is disconnected, so there is no problem taking it outdoors. However, do not leave it outside for extended periods, expose it to rain, or direct sunlight. Also, when transporting it, carefully wrap it in a protective pouch or similar covering, and carry it in your arms as much as possible to avoid shocks or collisions.
+You can definitely take KATA Friends along for short outdoor trips like walks, camping, or photo sessions. To keep your companion in the best shape, here are a few things to keep in mind before you head out.
 
+Outdoor play is best kept to 2~3 hours. Avoid exposing KATA Friends to rain, direct sunlight, or other harsh environments.
+
+To protect the tires, sensors, and fur from dirt or damage, please avoid letting KATA Friends walk directly on outdoor surfaces.
+
+Hold KATA Friends or use a flat surface when outdoors. This prevents it from getting lost or encountering obstacles that aren't shown in the app's map.
+
+Use a protective bag when moving between locations to prevent any accidental bumps or scratches.
+
+Give KATA Friends a quick charge as soon as you return. This helps it recover and stay ready for your next interaction.
 
 ---
 ### Can I Let SwitchBot KATA Friends Play in the Tatami Room?
