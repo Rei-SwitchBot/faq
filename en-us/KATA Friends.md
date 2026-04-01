@@ -852,10 +852,7 @@ Before sending your KATA Friends to the SwitchBot Care Center for hospitalizatio
 - Do not pack it with hard objects.
 - For information on air transport precautions, please check with the airline.
 
----
-### When Will SwitchBot KATA Friends Create the Diary?
 
-KATA Friends will create a diary every day between 23:00 and 08:00. You can check the diary as early as after 23:00 on the same day, and no later than 08:00 the following day.
 
 
 
