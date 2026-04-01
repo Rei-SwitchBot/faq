@@ -650,3 +650,10 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+---
+### Troubleshooting my SwitchBot Battery Circulator Fan is not charging with the provided AC cable
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please first charge the battery for one hour using the included power cable.
