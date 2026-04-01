@@ -555,18 +555,6 @@ Regarding this issue, could you please provide us with a video showing the issue
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
-
----
-### Troubleshooting my SwitchBot Battery Circulator Fan is not charging with the provided AC cable
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please first charge the battery for one hour using the included power cable.
-2. Please video that the battery mark on the main unit does not light up or the battery cage does not increase when the power cable is connected.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
 ---
 ### Troubleshooting my SwitchBot Battery Circulator Fan cannot be charged from USB Type-C port
 
@@ -632,23 +620,6 @@ Regarding this issue, could you please check the following points?
 2. The circulator is a Bluetooth-enabled device. When used without a hub, you can operate it through the SwitchBot app when near the device. However, if you are away from home, the device will appear offline in the app.
 3. When used with a hub product, please make sure that the hub is placed within the circulator's Bluetooth range and is connected to a stable Wi-Fi network.  
 4. Please use the latest version of the SwitchBot app from the app store. Note that the Beta version of the app may cause unstable connections. Thank you for your understanding.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
