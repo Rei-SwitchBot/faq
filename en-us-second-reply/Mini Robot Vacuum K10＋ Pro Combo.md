@@ -154,3 +154,14 @@ On the other hand, if the dust cup does not have a magnet, we will arrange for a
 
 
 
+---
+### Troubleshooting the Dust in the Cordless Vacuum Cleaner Is not Automatically Collected After Placing it in the Dual Empty Station
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing dust not being collected automatically in the cordless vacuum cleaner.
+- A video demonstrating whether the dust collection hole of the cordless vacuum cleaner at the Dual Empty Station is clogged.
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
