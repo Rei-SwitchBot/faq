@@ -2357,3 +2357,14 @@ Please note that our products are not recommended for entrance doors without a p
 
 Important Note:
 For any door lock, please ensure that installing SwitchBot lock products does not interfere with other locking or unlocking methods.
+
+---
+### Troubleshooting: After Upgrading SwitchBot Lock Pro Firmware to Version 3.4, the Sub-Lock Remains Offline.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the two Lock Pros from the app, then re-add them.
+A. Remove the Lock Pro from the app.  
+B. Remove and reinsert the batteries of both Lock Pros.  
+C. Add the Lock Pro back to the app.  
+1. If you tap Lock Pro A and select Lock Pro B to group them, please try tapping Lock Pro B and selecting Lock Pro A instead (in other words, switch the main lock and sub-lock) to see if that helps.

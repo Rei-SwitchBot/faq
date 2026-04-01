@@ -761,3 +761,11 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 *Since we will investigate based on the operation logs, if you have not yet sent feedback through the SwitchBot app, please provide feedback via the app first.
+---
+### Troubleshooting: After Upgrading SwitchBot Lock Pro Firmware to Version 3.4, the Sub-Lock Remains Offline.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
