@@ -1,6 +1,6 @@
----
+﻿---
 
-## Mini Robot Vacuum K10＋ Pro Combo
+## Mini Robot Vacuum K10锛?Pro Combo
 
 ---
 
@@ -9,7 +9,7 @@
 
 We sincerely apologize for any inconvenience caused by our product.
 Upon checking, we found that the deformation of the brush on the nozzle was caused by pressure from the screwdriver inside the packaging.
-To restore the brush to its original shape, please try softening the bristles with hot water at approximately 80°C (176°F), then gently straighten them and allow them to dry completely. Please be careful to avoid burns during this process.
+To restore the brush to its original shape, please try softening the bristles with hot water at approximately 80掳C (176掳F), then gently straighten them and allow them to dry completely. Please be careful to avoid burns during this process.
 If the brush does not return to its original condition after trying the above method, we will arrange for a replacement nozzle to be sent to you. Please feel free to contact us.
 Once again, we sincerely apologize for the inconvenience. Please rest assured that we have already improved the packaging to prevent this issue from happening in the future.
 Thank you for your understanding and continued support.
@@ -49,8 +49,8 @@ How Do Not Disturb Time Works:
 During the scheduled Do Not Disturb Time, the Robot Vacuum K10+ Pro Combo will not clean automatically, including scheduled tasks and automations. It will also not activate automatic dust collection. Moreover, the voice prompt volume will be lowered and the indicator lights dimmed to minimize interruptions.
 The Do Not Disturb Time settings are saved directly on the robot. This means that the vacuum must be connected to the dual empty station in order to sync these settings with the cordless vacuum cleaner. If the cordless vacuum cleaner is docked during a Do Not Disturb Time while the robot is connected to the dual empty station, dust collection will not be performed. However, if the robot is not connected to the dual empty station, such as when it is actively cleaning, docking the cordless vacuum cleaner will still trigger dust collection. This behavior occurs because the Do Not Disturb Time settings are not synced in this scenario and should be considered a normal operational feature rather than a product defect. Thank you for your understanding.
 To sum it up:
-Do Not Disturb Time + robot connected to the dual empty station → automatic dust collection of the cordless vacuum cleaner will not be performed
-Do Not Disturb Time + robot is not connected to the dual empty station → automatic dust collection will be performed
+Do Not Disturb Time + robot connected to the dual empty station 鈫?automatic dust collection of the cordless vacuum cleaner will not be performed
+Do Not Disturb Time + robot is not connected to the dual empty station 鈫?automatic dust collection will be performed
 
 
 ---
@@ -86,15 +86,15 @@ Regarding this issue, could you please check the following points?
 2. Check if the dust bag is full.
 3. If the dust bag is full, replace the dust bag with a new one. Also manually clean the bottom of the dust cup.
 
-<img width="551" height="447" alt="image" src="https://github.com/user-attachments/assets/33b52ef4-e06f-4eec-a128-53f17eeb4f1e" />
+[image1]
 
 4. It is recommended to collect dust when the dust cup reaches the MAX line.
 
-<img width="614" height="686" alt="image" src="https://github.com/user-attachments/assets/f6087cd0-f7e4-43f3-aae5-227fe7f7a99d" />
+[image1]
 
 5. If it's the tangled hairs that aren't completely vacuumed up, please press the button on the dust cup to open the lid, then manually remove any remaining debris, such as hair or dust.
 
-<img width="1062" height="675" alt="image" src="https://github.com/user-attachments/assets/db6becae-32a6-425d-a631-c5f68e0de30a" />
+[image1]
 
 
 
@@ -128,7 +128,7 @@ Video Link: https://drive.google.com/file/d/1P5kvccENpRTCBZg3XPqmGbvdYmo6vhf0/vi
 
 Thank you for reaching out to us.
 We sincerely apologize for the inconvenience caused by the issue with your Robot Vacuum K10+ Pro Combo. We appreciate the opportunity to assist you and would like to provide a solution to the problem where the robot stops running immediately after leaving the station.
-This issue can sometimes occur if the firmware version of the robot is outdated. We have resolved this in firmware version 1.1.040. If you haven’t updated yet, please follow these steps:
+This issue can sometimes occur if the firmware version of the robot is outdated. We have resolved this in firmware version 1.1.040. If you haven鈥檛 updated yet, please follow these steps:
 1. Open the SwitchBot App.
 2. Select your Robot Vacuum K10+ Pro Combo.
 3. Tap the gear icon (settings).
@@ -148,23 +148,23 @@ Currently, the K10+ Pro Combo and the S10 do not support setting the voice to a 
 ### Troubleshooting SwitchBot Cordless Vacuum Cleaner Won't Charge
 
 Thank you so much for reaching out to us.
-We sincerely apologize for the inconvenience you’ve experienced with our product.
+We sincerely apologize for the inconvenience you鈥檝e experienced with our product.
 Regarding the issue with your cordless vacuum cleaner not charging, could you please check the following points for us?
 1. Make sure the dust collection bracket is properly seated in the dual empty station. Refer to the image provided and make sure the back gray plate is flat, with no dents or protrusions.
 
-<img width="1030" height="820" alt="image" src="https://github.com/user-attachments/assets/a0ea048e-9b51-470c-aa5b-041595731191" />
+[image1]
 
-2. Open the lid of the dual empty station and check if the four screws (especially the ones marked with red arrows in the image) are securely tightened. If they’re loose, please use a screwdriver to tighten them.
+2. Open the lid of the dual empty station and check if the four screws (especially the ones marked with red arrows in the image) are securely tightened. If they鈥檙e loose, please use a screwdriver to tighten them.
 
-<img width="851" height="871" alt="image" src="https://github.com/user-attachments/assets/cde6e4ce-4a82-4975-afd5-1ed1fc5a5b7b" />
+[image1]
 
 3. Please check if the charging terminals on the dust-empty bracket are bent or damaged.
 
-<img width="416" height="856" alt="image" src="https://github.com/user-attachments/assets/e33e7837-a3fa-41bd-846a-a5e40fbe8fea" />
+[image1]
 
 4. If the dust collection bracket seems fine, please verify if the magnet on the dust cup of the cordless vacuum cleaner is intact.
 
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed8f51c1-c62f-4a83-8539-849146be7fc0" />
+[image1]
 
 5. After checking the above, please reach out to our support team with the results. It would be incredibly helpful if you could include photos of the items checked in steps 1, 3, and 4.
 
@@ -180,7 +180,7 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - ZIP/Postal Code
 - A screenshot of your order
 
-We truly appreciate your patience and cooperation in resolving this matter. Please don’t hesitate to let us know if you have any further questions or need additional assistance.
+We truly appreciate your patience and cooperation in resolving this matter. Please don鈥檛 hesitate to let us know if you have any further questions or need additional assistance.
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
@@ -212,9 +212,9 @@ Thank you for reaching out to us. We sincerely apologize for the inconvenience c
 Regarding this issue, we would like to explain the situation with the silicone plugs:
 These small accessories were originally included to protect the four screw heads. However, after receiving thoughtful feedback about removal difficulties (especially when the plugs fit too snugly), we made a conscious choice to simplify the design.
 Here's what we've implemented:
-• Removed the plugs entirely from newer production batches
-• All manuals now reflect this change (we've retired old instructions mentioning the plugs)
-• Confirmed through testing that your vacuum works perfectly without them
+鈥?Removed the plugs entirely from newer production batches
+鈥?All manuals now reflect this change (we've retired old instructions mentioning the plugs)
+鈥?Confirmed through testing that your vacuum works perfectly without them
 If your manual still shows plug-related information, you can safely ignore those pages. We're sorry for any confusion this outdated content might have caused.
 This experience has taught us to better balance protective design with user convenience. We've added new checkpoints in our production process to catch such details earlier.
 Please know we're always here if you notice anything else or just want to share suggestions. Your perspective makes our products better for everyone.
@@ -224,8 +224,8 @@ Please know we're always here if you notice anything else or just want to share 
 ### Troubleshooting Suction Power Drops After SwitchBot Mini Robot Vacuum K10+ Pro Combo Runs at Max Power for Around 5 Minutes
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-We’d like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
-This feature is designed to protect the fan’s lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
+We鈥檇 like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
+This feature is designed to protect the fan鈥檚 lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
 We apologize for any confusion this may cause and appreciate your understanding. If you have any further questions, please feel free to reach out.
 
 
@@ -250,7 +250,7 @@ If your robot does not match the description provided, it would be helpful if yo
 - Tap Robot Vacuum K10+ Pro Combo.
 - Tap the gear icon in the upper right corner.
 - Tap "Pair Device" on the Settings screen.
-- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap “next”.
+- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap 鈥渘ext鈥?
 - The device will be searched and connected automatically.
 3. Please perform dust collection again after repairing.
 
@@ -268,20 +268,20 @@ Regarding this issue, could you please check the following points?
 - Tap Robot Vacuum K10+ Pro Combo.
 - Tap the gear icon in the upper right corner.
 - Tap "Pair Device" on the Settings screen.
-- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap “next”.
+- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap 鈥渘ext鈥?
 - The device will be searched and connected automatically.
 5. Press the button in the middle of the dust collection bracket to check if the cordless vacuum cleaner is collecting dust.
 
-<img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/f185bedd-7585-4597-b7d7-0c01dc436b6e" />
+[image1]
 
 
 ---
-### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Won’t Enter Dark Carpet Areas
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Won鈥檛 Enter Dark Carpet Areas
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The K10+ Pro Combo is equipped with highly sensitive cliff sensors designed to ensure your robot’s safety by preventing falls. These sensors are so precise that they may occasionally recognize dark-colored carpets as a drop, triggering the fall-prevention function and causing the robot to stop working on those areas. While we work on a permanent solution, we can offer a temporary workaround to help maintain uninterrupted cleaning.
-You can use the SwitchBot App to mark the dark carpet areas, allowing the K10+ Pro Combo to continue cleaning those zones without interruption. Here’s how you can set it up:
+The K10+ Pro Combo is equipped with highly sensitive cliff sensors designed to ensure your robot鈥檚 safety by preventing falls. These sensors are so precise that they may occasionally recognize dark-colored carpets as a drop, triggering the fall-prevention function and causing the robot to stop working on those areas. While we work on a permanent solution, we can offer a temporary workaround to help maintain uninterrupted cleaning.
+You can use the SwitchBot App to mark the dark carpet areas, allowing the K10+ Pro Combo to continue cleaning those zones without interruption. Here鈥檚 how you can set it up:
 - Open the SwitchBot App.
 - Tap your K10+ Pro Combo robot.
 - Tap the map icon in the center-left of the screen.
@@ -291,7 +291,7 @@ You can use the SwitchBot App to mark the dark carpet areas, allowing the K10+ P
 Important Note:
 When you mark dark-colored areas for cleaning, the cliff sensor sensitivity will decrease. If you have staircases or other potential hazards nearby, we recommend setting those areas as "No-Go Zones" instead of marking them as dark carpet areas to prevent accidents.
 
-We sincerely apologize for any inconvenience this may cause and appreciate your understanding as we work towards a permanent solution. If you need further assistance or have any questions, please don’t hesitate to reach out.
+We sincerely apologize for any inconvenience this may cause and appreciate your understanding as we work towards a permanent solution. If you need further assistance or have any questions, please don鈥檛 hesitate to reach out.
 
 
 
@@ -367,7 +367,7 @@ Regarding this issue, could you please check the following points?
 - Tap Robot Vacuum K10+ Pro Combo.
 - Tap the gear icon in the upper right corner.
 - Tap "Pair Device" on the Settings screen.
-- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap “next”.
+- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap 鈥渘ext鈥?
 - The device will be searched and connected automatically.
 
 
@@ -402,3 +402,4 @@ Regarding this issue, could you please check the following points?
 - Remove the lid and dust bag from the Dual Empty Station.
 - Check if the dust collection hole at the top, indicated by the red frame in the image, is open or blocked by debris.
 *This hole is designed to close during the robot vacuum's dust collection and open when the cordless vacuum is collecting dust. If the hole remains closed during the cordless vacuum's operation, it may indicate a malfunction in the switching mechanism of the Dual Empty Station.*
+

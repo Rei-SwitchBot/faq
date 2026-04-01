@@ -1,6 +1,6 @@
----
+﻿---
 
-## Mini Robot Vacuum K10＋ Pro Combo
+## Mini Robot Vacuum K10锛?Pro Combo
 
 ---
 
@@ -165,3 +165,4 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
