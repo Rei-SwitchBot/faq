@@ -1,6 +1,6 @@
 ﻿---
 
-## Mini Robot Vacuum K10锛?Pro Combo
+## Mini Robot Vacuum K10+Pro Combo
 
 ---
 
@@ -256,26 +256,6 @@ If your robot does not match the description provided, it would be helpful if yo
 
 
 ---
-### Troubleshooting the Dust in the Cordless Vacuum Cleaner Is not Automatically Collected After Placing it in the Dual Empty Station
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. The cordless vacuum cleaner will only start collecting dust after being turned on for more than a minute.
-2. Please note that the cordless vacuum cleaner can only collect dust twice within a five-minute period.
-3. Please make sure the battery of the cordless vacuum cleaner is securely inserted. It will not be fully inserted when shipped from the factory, so please insert it yourself before use.
-4. Try repairing the Cordless Vacuum Cleaner and the Dual Empty Station in the following order:
-- Launch SwitchBot app and log in.
-- Tap Robot Vacuum K10+ Pro Combo.
-- Tap the gear icon in the upper right corner.
-- Tap "Pair Device" on the Settings screen.
-- Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap 鈥渘ext鈥?
-- The device will be searched and connected automatically.
-5. Press the button in the middle of the dust collection bracket to check if the cordless vacuum cleaner is collecting dust.
-
-[image1]
-
-
----
 ### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Won鈥檛 Enter Dark Carpet Areas
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -370,17 +350,6 @@ Regarding this issue, could you please check the following points?
 - Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap 鈥渘ext鈥?
 - The device will be searched and connected automatically.
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting the Dust in the Cordless Vacuum Cleaner Is not Automatically Collected After Placing it in the Dual Empty Station
 
@@ -397,9 +366,14 @@ Regarding this issue, could you please check the following points?
 - Place the cordless vacuum cleaner on the dual station, press the mode switch button for two seconds and tap "next".
 - The device will be searched and connected automatically.
 5. Press the button in the middle of the dust collection bracket to check if the cordless vacuum cleaner is collecting dust.
+<img width="423" height="354" alt="image" src="https://github.com/user-attachments/assets/84b75e08-7d69-4cba-99f2-dd6cfe37d970" />
+
 6. Please check whether the dust collection hole for the cordless vacuum cleaner at the Dual Empty Station is clogged.
 - Position the cordless vacuum cleaner in the Dual Empty Station and manually trigger the dust collection.
 - Remove the lid and dust bag from the Dual Empty Station.
 - Check if the dust collection hole at the top, indicated by the red frame in the image, is open or blocked by debris.
 *This hole is designed to close during the robot vacuum's dust collection and open when the cordless vacuum is collecting dust. If the hole remains closed during the cordless vacuum's operation, it may indicate a malfunction in the switching mechanism of the Dual Empty Station.*
+
+<img width="518" height="851" alt="image" src="https://github.com/user-attachments/assets/bb3e4f07-092a-4113-902c-58823a8464d7" />
+
 
