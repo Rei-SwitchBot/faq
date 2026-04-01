@@ -1,20 +1,8 @@
 ﻿---
 
-## Mini Robot Vacuum K10锛?Pro Combo
+## Mini Robot Vacuum K10+Pro Combo
 
 ---
-
----
-### Troubleshooting the Dust in the Cordless Vacuum Cleaner Is not Automatically Collected After Placing it in the Dual Empty Station
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A video showing dust not being collected automatically in the cordless vacuum cleaner.
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 ---
 ### Troubleshooting Debris Left in the Dust Cup of SwitchBot Cordless Vacuum Cleaner
