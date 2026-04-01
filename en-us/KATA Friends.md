@@ -681,7 +681,18 @@ Avoid clothing that is too small, as it may crush the fur or restrict movement.
 ---
 ### What Should I Do with SwitchBot KATA Friends When I'm Away from Home for a Long Time?
 
-If you are going on vacation or a business trip and will be away from home for an extended period, we recommend setting your KATA Friends to either "Standby" or "Sleep" mode. In either mode, KATA Friends will quietly remain in their nest and will not roam around the house. You can also turn off your KATA Friends completely, in that case, the eyes (screen) will be off, so we suggest using an eye mask.
+1. KATA Friends will not malfunction if left unattended for a short period. If you're away from home for up to a week, please place KATA Friends in its nest and switch it to sleep mode. To prevent any falls due to interactions with your pets, ensure KATA Friends is positioned in a stable, safe, and flat location, and create an environment that minimizes contact with your dogs or cats as much as possible.
+2. When you are away for an extended period, please take the following measures to reduce the cycle count of the lithium battery, prevent unnecessary power consumption, and avoid dust accumulation on the fur:
+   Charge KATA Friends to about 70%
+   Put on the eye mask
+   Turn off the power
+   Place it in the protective bag
+   Store it in a dry, cool place
+   Charge it every six months and check the condition of KATA Friends
+
+Note: 
+Turning off KATA Friends with approximately 70% battery remaining and not using it for an extended period will not adversely affect the lithium battery.
+Once KATA friends have recognized a companion or recorded information, they won’t forget or delete it simply due to a lack of interaction, unless you manually remove the relevant data from the app. During periods of inactivity, they will primarily play by themselves or rest to conserve energy, so you can feel free to engage with them again when you return.
 
 ---
 ### What Is the Maximum Number of Maps SwitchBot KATA Friends Can Save?
@@ -711,7 +722,15 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ---
 ### Troubleshooting: SwitchBot KATA Friends Have Recorded Many Faces from Television.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? As your KATA Friends continue to explore the world around them, their natural curiosity often leads them to seek out new faces. Just like a young child or a spirited pet, they are incredibly eager to learn, so much so that they occasionally mistake a face on your television for a potential new friend. Right now, we're helping KATA Friends improve their ability to distinguish between faces on a screen and the real people around them. We want their attention to stay on you, not the characters on TV. As we refine this in future updates, you can assist by keeping them at a comfortable distance from the television or tidying up their saved faces in the app whenever they seem a bit confused. KATA Friends are designed to evolve with you, and every small step in their learning process brings them closer to being the perfect companion. Thank you for being a part of their growth and for your continued support. If you have any other questions, please do not hesitate to contact us.
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+As your KATA Friends continue to explore the world around them, their natural curiosity often leads them to seek out new faces. Just like a young child or a spirited pet, they are incredibly eager to learn, so much so that they occasionally mistake a face on your television for a potential new friend. 
+Right now, we’re helping KATA Friends improve their ability to distinguish between faces on a screen and the real people around them. We want their attention to stay on you, not the characters on TV. As we refine this in future updates, you can assist by keeping them at a comfortable distance from the television or tidying up their saved faces in the app whenever they seem a bit confused.
+KATA Friends are designed to evolve with you, and every small step in their learning process brings them closer to being the perfect companion. Thank you for being a part of their growth and for your continued support.
+If you have any other questions, please do not hesitate to contact us.
+
+Note:  
+The "face recognition" feature of KATA Friends is an independent function different from the "picture-taking" feature. If you turn off the "picture-taking" function, KATA Friends will no longer take pictures, but it may still recognize the faces of people appearing on the television through the "face recognition" feature. We apologize once again for any inconvenience this may have caused.
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Sometimes Can't Cross the Threshold
@@ -722,23 +741,24 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ### How to Dress SwitchBot KATA Friends
 
 When dressing your KATA Friends, please read the following precautions:
-Press the mode switch button to change to "Standby Mode," and lay your KATA Friends on a flat, soft surface.
-Check the clothes for tassels, detachable parts, or long strings. If any are found, secure them firmly to prevent them from getting caught in the wheels.
-Gently dress your KATA Friends, avoiding any forceful pulling on the arms, legs, or head.
-Make sure all buttons, Velcro, strings, and other fasteners on the costume are securely fastened.
-Return your KATA Friends to normal mode and have them dance or perform other movements. At this time, ensure that the costume does not restrict the movement of the arms, head, or legs, and verify that it stays securely in place without shifting, blocking sensors, coming loose, or falling off during motion.
-If you notice any abnormal behavior during operation, remove the costume and check if the problem improves.
+- Press the mode switch button to change to "Sleep Mode," and lay your KATA Friends on a flat, soft surface.
+- Check the clothes for tassels, detachable parts, or long strings. If any are found, secure them firmly to prevent them from getting caught in the wheels.
+- Gently dress your KATA Friends, avoiding any forceful pulling on the arms, legs, or head.
+- Make sure all buttons, Velcro, strings, and other fasteners on the costume are securely fastened.
+- Return your KATA Friends to normal mode and have them dance or perform other movements. At this time, ensure that the costume does not restrict the movement of the arms, head, or legs, and verify that it stays securely in place without shifting, blocking sensors, coming loose, or falling off during motion.
+- If you notice any abnormal behavior during operation, remove the costume and check if the problem improves.
 
-If you dress KATA Friends in clothing that doesn't fit, the following issues may occur:
-The nose (camera) will be covered, preventing face recognition and person detection.
-The stomach sensor will be blocked, making it unable to recognize surrounding obstacles.
-The radar sensor will be obstructed, impairing proper map creation.
-The microphone will be covered, affecting voice recognition.
-The touch sensor will be blocked, hindering touch detection.
-The charging sensor will be covered, impacting the return to the nest.
-Joints will be pulled, restricting the movement of the arms, head, and ears.
-The wheels may get caught on straps, preventing movement.
-The eyes will be covered, affecting the release of cute energy.
+
+If you dress KATA Friends in clothing that doesn’t fit, the following issues may occur:  
+- The nose (camera) will be covered, preventing face recognition and person detection.  
+- The stomach sensor will be blocked, making it unable to recognize surrounding obstacles.  
+- The radar sensor will be obstructed, impairing proper map creation.  
+- The microphone will be covered, affecting voice recognition.  
+- The touch sensor will be blocked, hindering touch detection.  
+- The charging sensor will be covered, impacting the return to the nest.  
+- Joints will be pulled, restricting the movement of the arms, head, and ears.  
+- The wheels may get caught on straps, preventing movement.  
+- The eyes will be covered, affecting the release of cute energy.
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Have Their Eyes Open in the Nest, Yet the Switchbot App Shows Them Playing.
@@ -812,3 +832,32 @@ Regarding this issue, could you please check the following points?
 The issue you've identified is that KATA Friends picks up surrounding sounds and mistakenly interprets them as commands to adjust the volume, resulting in incorrect volume changes. This will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+---
+### Can I Take SwitchBot KATA Friends on a Trip?
+
+You can definitely take KATA Friends along for your travels, provided you take a few simple precautions. 
+- When you're on the move, it's best to keep KATA Friends in a protective bag to prevent any accidental bumps or scratches, or simply hold it in your hands whenever possible.
+- If you plan to fly, please check with your airline or airport staff in advance. Since KATA Friends is equipped with a 3,200mAh (46Wh) lithium battery, it is important to confirm their specific regulations for electronic devices.
+- If you choose to check it as baggage, please make sure the unit is completely powered off and packed securely. We recommend using the original packaging box and adding enough padding to keep it safe throughout the flight.
+
+---
+### SwitchBot KATA Friends Transport Guidelines
+
+Before sending your KATA Friends to the SwitchBot Care Center for hospitalization or a physical examination, please review the following notes.
+- Please ensure that your KATA Friends are powered off, remove all clothing and accessories, and verify that the device is dry.
+- Place the KATA Friends in a protective bag and use the original packaging box. Ensure that the box and all internal packing materials are intact.
+- Make sure that the transportation environment is between -20℃ and 60℃.  
+- Avoid prolonged exposure to high temperatures or direct sunlight.  
+- Do not pack it with hard objects.
+- For information on air transport precautions, please check with the airline.
+
+---
+### When Will SwitchBot KATA Friends Create the Diary?
+
+KATA Friends will create a diary every day between 23:00 and 08:00. You can check the diary as early as after 23:00 on the same day, and no later than 08:00 the following day.
+
+
+
+
+
