@@ -642,3 +642,23 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 After filling the humidifier with water, let it sit for at least two hours to see if a "water shortage" error appears in the app.
 https://support.switch-bot.com/hc/en-us/articles/12820502546711
+
+---
+### Troubleshooting SwitchBot Humidifier Indicator Light Not Changing Color When Switching Modes
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please reset your humidifier by pressing and holding the button for 15 seconds.
+
+
+
+
+
+
+
+
+
+
+
+
+
