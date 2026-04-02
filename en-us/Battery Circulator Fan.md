@@ -560,8 +560,7 @@ Regarding this issue, could you please provide us with a video showing the issue
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-- If you have another USB Type C cable available, please try using it instead and see if the issue improves.
-- Please video that the battery mark on the main unit does not light up or the battery cage does not increase when charging with the type C cable.
+1. If you have another USB Type C cable available, please try using it instead and see if the issue improves.
 
 
 ---
