@@ -92,9 +92,6 @@ Important Things to Know:
 4. Regardless of its role, any hub device that loses its network connection for more than 5 to 10 minutes will be moved to the Offline Hubs group.
 
 
-
-
-
 ---
 ### Troubleshooting: Unable to Join Home
 
@@ -104,3 +101,41 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ### Where Can I Sign out of the Store in SwitchBot App?
 
 For security purposes, once you sign in to the store via the SwitchBot app, you cannot sign out directly within the app itself. If you need to sign out, please do so from our official website instead. This change will sync automatically and sign you out of the app as well. We sincerely apologize for the inconvenience and appreciate your understanding.
+
+
+---
+### Troubleshooting: When I log in to the SwitchBot app, I do not receive the verification code for my account's two-step verification.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check your spam folder to see if the verification code has arrived.
+2. We kindly ask you to add our email address to your designated receipt box. The domain name is as follows.
+@wondertechlabs.com
+@switch-bot.com
+@switchbot.jp
+3. Tap on "Didn't receive a verification code?" below the code entry section, then select "Verify via email."
+4. Copy the verification email address and subject from the image below, then create a new email in your mailbox. After sending the verification email, tap "I've sent the email."
+Important Note:  
+You must send the email to the specified address yourself. You cannot log in by simply tapping "I've sent the email" without actually sending the verification email.
+
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/db74a622-4fc2-49c3-b19d-a56e684f3aee" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
