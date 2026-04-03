@@ -878,7 +878,22 @@ Please be assured that all currently produced units feature the same purple wate
 We have already relayed your feedback to our web team so that the product visuals can be updated as soon as possible. Thank you again for helping us improve.
 If you have any further questions, please feel free to reach out.
 
+---
+### Is It Possible to Purchase the Water Pump for SwitchBot Evaporative Humidifier Separately?
 
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we regret to inform you that the accessory you requested is currently not available for individual purchase. However, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+- Purchase channel
+- Order ID
+- Recipient's full name
+- Phone number
+- Country
+- Street address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
 
 
 
