@@ -487,33 +487,6 @@ Once connected to the Lock, the Keypad will create a test passcode. Use this cod
 
 
 ---
-### How to Remove SwitchBot Keypad / Keypad Touch?
-
-Last Updated
-
-: 2023 Mar 30
-
-Related
-
-Products: SwitchBot Kyepad, Keypad Touch
-
-1. Before removing the Keypad/Keypad Touch, please launch the SwitchBot application and deactivate the Keypad/Keypad Touch removal alert.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25999676076567)
-
-2. Detach the device by lifting it upward and utilizing the provided removal pin. Insert the pin into the hole located at the bottom of the Keypad/Keypad Touch.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25999676069015)
-
-3. If the alert buzzer is triggered due to improper handling, you can utilize the SwitchBot app to cancel the alert, or enter the correct passcode, use the appropriate fingerprint, or present a valid NFC card to deactivate the alert.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25999686855447)
-
-[Embedded Content](//www.youtube-nocookie.com/embed/sO7M8Nd2Qks)
-
-
-
----
 ### How to Replace the Battery of  Switchbot Keypad?
 
 Updated: Feb 19th, 2023
@@ -1904,7 +1877,8 @@ Solution:
 1. Before removing the Keypad/Keypad Touch, please launch the SwitchBot application and deactivate the Keypad/Keypad Touch removal alert.
 SwitchBot App -> the Keypad/Keypad Touch -> Gear Icon -> Keypad Touch Removal Alerts -> disable the removal alerts.
 2. Detach the device by lifting it upward and utilizing the provided removal pin. Insert the pin into the hole located at the bottom of the Keypad/Keypad Touch.
-[image1]
+<img width="590" height="292" alt="image" src="https://github.com/user-attachments/assets/8e5d3787-204e-4583-848d-c2df6854dccc" />
+
 
 3. If it does not come off even after inserting the removal pin, try using a screwdriver with a tip width of 2 mm or less and a shaft length of at least 8 mm.
 Tips:
