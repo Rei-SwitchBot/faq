@@ -758,3 +758,17 @@ After resetting, turn off the power, then turn it back on and try adding the bul
 We regret to inform you that, in SwitchBot scenes and automations, the operation icons for all lighting devices, including the Color Bulb, are currently displayed in warm yellow when turned on and gray when turned off. Unfortunately, there is no functionality to synchronize and update the icons to match the color you have set.
 
 We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
+---
+### Troubleshooting SwitchBot Color Bulb Frequently Goes Offline
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Move the Color Bulb closer to your Wi-Fi router. This can often improve the signal strength and reduce disconnections.
+1. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
+*If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
+1. Restart your router. Sometimes a simple reboot can help stabilize the connection.
+1. Reset the Color Bulb by turning it off and on eight times. This will restore it to factory settings.
+1. Remove the Color Bulb from the SwitchBot App and then add it back. This can help refresh the connection between the bulb and the app.
+1. Ensure your Color Bulb is updated to the latest firmware. Firmware updates often include improvements that can fix connectivity issues.
+1. Test the connection using your phone's hotspot. If the bulb stays connected, the issue might be with your home network settings.
