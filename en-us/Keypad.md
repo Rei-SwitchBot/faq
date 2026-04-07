@@ -1888,3 +1888,32 @@ If the lost Keypad Touch is found, you can cancel the loss report in the app. Af
 If you are using a Keypad Touch version that supports transit cards, you can add a Japanese electronic transit card (such as Suica) through the Wallet app. Once the card is added to the Keypad Touch, you can unlock it by tapping your Apple Watch on the Keypad Touch.
 If you are unsure whether your Keypad Touch supports transit cards, please submit feedback through the SwitchBot App, and our after-sales team will verify it for you.
 How to Add the Suica Transportation Card to SwitchBot Keypad Touch: https://support.switch-bot.com/hc/en-us/articles/32888246095639
+
+---
+### How to Remove SwitchBot Keypad / Keypad Touch?
+
+Product:
+SwitchBot Keypad
+SwitchBot Keypad Touch
+
+Facts:
+1. SwitchBot App Version: 8.4 or newer
+
+
+Solution:
+1. Before removing the Keypad/Keypad Touch, please launch the SwitchBot application and deactivate the Keypad/Keypad Touch removal alert.
+SwitchBot App -> the Keypad/Keypad Touch -> Gear Icon -> Keypad Touch Removal Alerts -> disable the removal alerts.
+2. Detach the device by lifting it upward and utilizing the provided removal pin. Insert the pin into the hole located at the bottom of the Keypad/Keypad Touch.
+[image1]
+
+3. If it does not come off even after inserting the removal pin, try using a screwdriver with a tip width of 2 mm or less and a shaft length of at least 8 mm.
+Tips:
+Press down on the Keypad with your finger, apply slight pressure to the device, and insert the screwdriver into the hole at the bottom.
+Video: https://www.youtube.com/watch?v=a5qlr2iKTOo
+4. If the alert buzzer is triggered due to improper handling, you can utilize the SwitchBot app to cancel the alert, or enter the correct passcode, use the appropriate fingerprint, or present a valid NFC card to deactivate the alert.
+5. The mounting plate is secured to the door with double-sided tape. To detach the keypad body from the mounting plate, warm the adhesive side using a hair dryer until it loosens. Then, use an unused card or a similar object to remove the mounting plate from the door. Finally, clean any sticky residue from both the door and the mounting kit using alcohol wipes. If the mounting plate is damaged during the Keypad removal process, please submit feedback through the SwitchBot app to request replacement parts.
+Note:
+To avoid injury, please carefully warm it with the hot air from the hairdryer.
+Grab the mounting plate and remove it with small side-to-side movements.
+A shipping fee may apply for replacement parts. Thank you for your understanding.
+SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
