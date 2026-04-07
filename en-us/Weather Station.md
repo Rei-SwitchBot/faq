@@ -123,12 +123,6 @@ The above data comes from tests conducted by the SwitchBot laboratory under cond
 
 
 ---
-### How Many Personal Calendars Can Be Synchronized with SwitchBot Weather Station?
-
-You can sync up to five personal calendars to the Weather Station.
-
-
----
 ### How Often Is the Weather on SwitchBot Weather Station Screen Updated?
 
 To ensure accurate weather data, the Weather Station automatically connects to the internet and updates the information every three hours. In contrast, calendar data and AI-recommended content are updated automatically once a day at midnight. If necessary, press and hold the device's top button for 2 seconds to manually update the data and instantly view the latest weather information and any changes to calendar events.
@@ -351,27 +345,6 @@ Please use the latest version of the SwitchBot app from the app store. You may n
 When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
 If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.   
 When using it for the first time, the Weather Station will automatically update and download data, which may take some time, so please wait patiently.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
