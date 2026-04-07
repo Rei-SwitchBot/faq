@@ -268,3 +268,10 @@ https://support.switch-bot.com/hc/en-us/articles/10890128411031
 As a troubleshooting step, check if the LED Strip Light can connect to your smartphone's hotspot.
 
 https://support.switch-bot.com/hc/en-us/articles/32573508408983
+
+---
+### Troubleshooting SwitchBot LED Strip Light Schedule Won't Work
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the Wi-Fi disconnects, the schedule will stop working, so please install the LED Strip Light near the router to ensure a stable internet connection.
