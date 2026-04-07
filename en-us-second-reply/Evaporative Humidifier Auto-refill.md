@@ -130,3 +130,28 @@ To expedite the process, please provide the following details:
 
 
 
+---
+### Troubleshooting: The Water Level in the Tank Is Below the Full Mark, Yet SwitchBot App Frequently Sends Notifications Indicating That the Evaporative Humidifier Is Full.
+
+Thank you for reporting this issue. 
+We apologize for any inconvenience caused.
+1. To determine if the water tank needs to be replaced, could you kindly provide the following information?
+- A photo or video showing the position of the float inside the tank when the "full water" error occurs. 
+- A screenshot showing the "full water" error
+*If the float appears to be functioning correctly, the issue may lie with the humidifier itself, in which case we will provide a replacement under warranty.
+
+Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.

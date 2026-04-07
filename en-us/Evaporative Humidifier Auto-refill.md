@@ -897,3 +897,11 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 
 
 
+
+---
+### Troubleshooting: The Water Level in the Tank Is Below the Full Mark, Yet SwitchBot App Frequently Sends Notifications Indicating That the Evaporative Humidifier Is Full.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check whether the float in the water tank is stuck at the top. If it is, gently move the tank up and down, as well as side to side, to manually adjust the position of the float after draining the water, as demonstrated in the video.
+https://www.youtube.com/watch?v=sG951O9kZe8
