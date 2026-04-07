@@ -96,3 +96,10 @@ Video: [https://youtu.be/JHStfb5fHwY](https://www.youtube.com/watch?v=JHStfb5fHw
 
 
 
+
+---
+### Troubleshooting SwitchBot Floor Lamp Schedule Won't Work
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the Wi-Fi disconnects, the schedule will stop working, so please install the Floor Lamp near the router to ensure a stable internet connection.
