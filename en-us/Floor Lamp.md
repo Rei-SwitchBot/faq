@@ -80,23 +80,6 @@ You can add the Floor Lamp directly to Apple Home by scanning the QR code on the
 Video: [https://youtu.be/JHStfb5fHwY](https://www.youtube.com/watch?v=JHStfb5fHwY)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting SwitchBot Floor Lamp Schedule Won't Work
 
