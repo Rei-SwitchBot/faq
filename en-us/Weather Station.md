@@ -138,12 +138,6 @@ Note: Operating scenes on the Weather Station requires our hub device.
 
 
 ---
-### Why Does the Screen of SwitchBot Weather Station Flicker Periodically?
-
-The Weather Station features a monochrome e-ink display. When the partial refresh count in the clock area reaches a certain threshold, a full-screen refresh is required to maintain display quality. Additionally, to ensure weather data accuracy, the Weather Station automatically connects to the internet every 3 hours to update weather information. During this data refresh, the device will perform a full-screen refresh. The resulting screen flickering is a characteristic of the device and does not affect normal operation. Please feel free to use it.
-
-
----
 ### What Is the Accuracy of the Temperature and Humidity Measurements of SwitchBot Weather Station?
 
 1. In normal cases, the readings of the Weather Station have a ±0.2°C difference in temperature and a ±2% difference in humidity.
