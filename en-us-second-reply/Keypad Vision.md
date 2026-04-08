@@ -228,12 +228,6 @@ A video demonstrating the process of logging into the mobile transportation card
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
----
-### Troubleshooting: SwitchBot Keypad Vision Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-Upon confirmation, our R&D team is currently testing the next firmware version. Once it is officially released, we will arrange a firmware update for you. Although the release date has not been finalized, we are aiming for as early as March. We sincerely apologize for the inconvenience and kindly ask for your continued patience.
 
 ---
 ### Troubleshooting: When the NFC Card Is Placed on the Keypad Vision, There Is No Response, and the Door Lock Does Not Open.
@@ -258,6 +252,7 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
 ---
 ### Troubleshooting: SwitchBot Keypad Vision Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
 
