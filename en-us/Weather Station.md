@@ -351,3 +351,27 @@ You can sync up to five personal calendars to the Weather Station. On the calend
 ### Why Does the Screen of SwitchBot Weather Station Flicker Periodically?
 
 SwitchBot Weather Station features a monochrome e-ink display. When the partial refresh count for the clock, temperature, and humidity display reaches a specific threshold, a full-screen refresh is required to maintain display quality. Additionally, to ensure weather data accuracy, the Weather Station automatically connects to the internet every 3 hours to update weather information. During this data refresh, the device will perform a full-screen refresh. The resulting screen flickering is a characteristic of the device and does not affect normal operation. Please feel free to use it.
+
+---
+### What Is the AI Analysis Function of SwitchBot Weather Station?
+
+When you tap the AI Analysis button, an encouraging message appears at the top of your Weather Station screen. The AI generates this message by selecting literary quotes and proverbs that correspond to the current weather conditions.
+The bottom of the screen displays practical health and lifestyle advice based on an analysis of air quality and multi-day forecasts. This section includes alerts for severe weather along with tips for cold prevention and pollen allergy risks. It also provides suggestions for clothing and travel planning. You can sync your personal calendar with the Weather Station to receive even more specific recommendations based on your daily schedule.
+
+---
+### How Many Temperature and Humidity Data Sources Can SwitchBot Weather Station Display at Most?
+
+The Weather Station can display up to three SwitchBot temperature and humidity data sources.
+Note:
+1. To use this feature, the Weather Station firmware must be version 1.7 or later, and the SwitchBot app must be version 9.25 or later.
+2. The data sources for the following meter products are now available.
+SwitchBot Meter
+SwitchBot Meter Plus
+SwitchBot Outdoor Meter
+SwitchBot Meter Pro
+SwitchBot Meter Pro (CO2 Monitor)
+SwitchBot Home Climate Panel
+SwitchBot Hub 2
+SwitchBot Hub 3
+SwitchBot Hub Mini Matter Enabled
+3. SwitchBot Weather Station can also display the CO2 readings from the CO2 Monitor.
