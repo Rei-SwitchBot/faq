@@ -352,3 +352,8 @@ When using it for the first time, the Weather Station will automatically update 
 ### How Many Personal Calendars Can Be Synchronized with SwitchBot Weather Station?
 
 You can sync up to five personal calendars to the Weather Station. On the calendar screen, you can view up to 30 schedules.
+
+---
+### Why Does the Screen of SwitchBot Weather Station Flicker Periodically?
+
+SwitchBot Weather Station features a monochrome e-ink display. When the partial refresh count for the clock, temperature, and humidity display reaches a specific threshold, a full-screen refresh is required to maintain display quality. Additionally, to ensure weather data accuracy, the Weather Station automatically connects to the internet every 3 hours to update weather information. During this data refresh, the device will perform a full-screen refresh. The resulting screen flickering is a characteristic of the device and does not affect normal operation. Please feel free to use it.
