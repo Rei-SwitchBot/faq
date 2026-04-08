@@ -543,13 +543,6 @@ When adding the mobile transit IC card, please hold the top of your smartphone o
 
 
 ---
-### Troubleshooting: SwitchBot Keypad Vision Keyboard Is Unresponsive and Cannot Be Used to Unlock the Door With a Password.
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.
-
----
 ### Troubleshooting: When the NFC Card Is Placed on the Keypad Vision, There Is No Response, and the Door Lock Does Not Open.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
