@@ -1060,17 +1060,6 @@ Regarding this issue, could you please check the following points?
 The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
----
-### Troubleshooting Unable to Connect to the Device During the Initial Setup, Preventing the SwitchBot Smart Video Doorbell from Being Added to SwitchBot App.
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
-2. Make sure that Bluetooth on your smartphone is turned on.   
-3. Press and hold both the call button and the hang up button on the monitor master unit simultaneously for two seconds to enter pairing mode.  
-4. Open Bluetooth in your smartphone's settings app. If there are any paired devices, please unpair them first. After adding the Video Doorbell, you can pair Bluetooth with other devices again.
-5. Restart both the smartphone and the monitor.
-
 
 ---
 ### Troubleshooting SwitchBot Smart Video Doorbell Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
