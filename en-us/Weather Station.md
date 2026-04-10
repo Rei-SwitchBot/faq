@@ -312,14 +312,6 @@ Using the reset pin or a slender tool, press and hold the reset hole for 3 secon
 
 
 ---
-### How to Reset SwitchBot Weather Station
-
-Press and hold the button on the back of the Weather Station for 15 seconds to reset the device. After the reset, all Wi-Fi information and settings will be restored to factory default.
-
-<img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/e2a13fec-bf3a-4226-915c-30ab51357dd0" />
-
-
----
 ### How to Add SwitchBot Weather Station to SwitchBot App
 
 1. Make sure your SwitchBot App version is up to date.
@@ -424,4 +416,5 @@ If the built-in backlight is always on, it may lead to faster battery drain and 
 ### How to Reset SwitchBot Weather Station
 
 After holding the button on the back of the device for 15 seconds, the screen will refresh and turn white, indicating that the reset is complete. Once the reset is finished, all Wi-Fi information and settings will be restored to their factory defaults.
-[image1]
+<img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/eb58c391-8117-452f-b463-8f03c07bb5ce" />
+
