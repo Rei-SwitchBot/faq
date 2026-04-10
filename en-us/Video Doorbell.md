@@ -1498,3 +1498,14 @@ Format the microSD card to the FAT32 format on your computer, then insert it int
 If you have multiple microSD cards, try inserting a different microSD card into the Smart Video Doorbell and check if the playback can be viewed. If other microSD cards can be viewed without any issues, the problem is likely with the specific microSD card.  
 
 We recommend using microSD cards from SanDisk, Samsung, or Kioxia. Please check if the recommended card can be viewed.
+
+---
+### Troubleshooting Unable to Connect to the Device During the Initial Setup, Preventing the SwitchBot Smart Video Doorbell from Being Added to SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Make sure that Bluetooth on your smartphone is turned on.
+3. Press and hold both the call button and the hang up button on the monitor master unit simultaneously for two seconds to enter pairing mode.
+4. Open Bluetooth in your smartphone's settings app. If there are any paired devices, please unpair them first. After adding the Video Doorbell, you can pair Bluetooth with other devices again.
+5. Restart both the smartphone and the monitor.
