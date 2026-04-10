@@ -418,3 +418,19 @@ If the built-in backlight is always on, it may lead to faster battery drain and 
 After holding the button on the back of the device for 15 seconds, the screen will refresh and turn white, indicating that the reset is complete. Once the reset is finished, all Wi-Fi information and settings will be restored to their factory defaults.
 <img width="933" height="613" alt="image" src="https://github.com/user-attachments/assets/eb58c391-8117-452f-b463-8f03c07bb5ce" />
 
+
+---
+### How to Set Temperature and Humidity Alert Conditions for SwitchBot Weather Station
+
+1. Please set alert conditions in the following order.
+- Launch SwitchBot App and log in.
+- Tap Weather Station.
+- Tap the gear icon in the upper right corner.
+- Tap "Alert Conditions".
+- Enable and set the alert range for temperature, humidity, absolute humidity, dew point, and VPD as needed.
+- Enable "Alert Sound & Light" if you would like the screen to flash or an alarm to sound when the alert setpoint is reached.
+[image1]
+
+Note:
+1. When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
+2. When displaying other temperature and humidity data on the Weather Station, you can set the alert conditions for temperature and humidity in the settings screen of each meter, which will allow the alert to be reflected on the Weather Station's display.
