@@ -375,3 +375,47 @@ SwitchBot Hub 2
 SwitchBot Hub 3
 SwitchBot Hub Mini Matter Enabled
 3. SwitchBot Weather Station can also display the CO2 readings from the CO2 Monitor.
+
+---
+### How to Display the Temperature and Humidity of Multiple Thermohygrometers on SwitchBot Weather Station
+
+1. Please select the data sources for the meters, such as SwitchBot Outdoor Meter, for the Weather Station display in the following order.
+- Launch SwitchBot App and log in.
+- Tap Weather Station.
+- Tap "Displayed Info".
+- Tap "Temp and Humidity Source".
+- Scroll down and tap "AI analysis page".
+- Tap "Next".
+- Tap "Environmental Data".
+- Tap "Add".
+- Select the devices you wish to display and save.
+
+The Weather Station can display up to 3 SwitchBot temperature and humidity data sources.
+To display the data source from SwitchBot Meter products on the Weather Station, the devices must be placed within Bluetooth range of each other. If the Bluetooth communication distance is exceeded, a hub product is required to use this function.
+
+---
+### Troubleshooting SwitchBot Weather Station Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Press the button on the back of the Weather Station for 2 seconds to enter pairing mode.
+3. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
+4. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+5. When setting up the network for Weather Station, please operate near the router.
+6. Restart your home router.
+7. Hold the button on the back of the Weather Station for 15 seconds to reset it, then restart the SwitchBot app and follow the in-app instructions to try again.
+8. If you have another smartphone, please try adding Weather Station using that smartphone.
+9. Please try connecting your Weather Station to your smartphone's tethering.
+
+---
+### Is the Display of SwitchBot Weather Station Waterproof?
+
+SwitchBot Weather Station's display is not waterproof, so please be careful to avoid letting water drip onto it during daily use. If water accidentally splashes onto the display, gently wipe it with a tissue or a clean, soft cloth.
+
+---
+### Does SwitchBot Weather Station Have a Built-In Backlight?
+
+Yes, the Weather Station is equipped with a built-in backlight. If necessary, press the button on the upper right corner of the device to turn on the backlight.
+Note:
+If the built-in backlight is always on, it may lead to faster battery drain and could also affect the accuracy of temperature and humidity measurements due to heat generation. Therefore, please be aware that the backlight of the daily station is designed to automatically turn off 10 seconds after being activated. We appreciate your understanding.
