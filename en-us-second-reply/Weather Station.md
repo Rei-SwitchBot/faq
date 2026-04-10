@@ -1,3 +1,8 @@
+---
+
+## Weather Station
+
+---
 
 ---
 ### Troubleshooting SwitchBot Weather Station Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
