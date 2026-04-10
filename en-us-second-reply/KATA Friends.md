@@ -15,19 +15,6 @@ A video showing KATA Friends docking on their nest to display the charging indic
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
-### Troubleshooting SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Whether your smartphone and the KATA Friends were connected to the same Wi-Fi when the Wi-Fi connection failed
-- Voice content played from the KATA Friends at the time of Wi-Fi connection failure
-- The brand and model of your router (screenshots of the Wireless and Wan setup would also be helpful)
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
 ### Troubleshooting SwitchBot KATA Friends Not Powering on and Unresponsive
 
 Thank you for the information provided.
@@ -277,15 +264,18 @@ Thank you for the information provided. Sorry for any inconvenience caused. We w
 
 Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information: Screenshots showing the error message. If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
 ---
 ### Troubleshooting: KATA Friends Ears Don't Move
 
 We will forward your feedback to our R&D team for further investigation.
 
+
 ---
 ### Troubleshooting: The Cover inside SwitchBot KATA Friends Ear Is Installed Backwards
 
 Thank you for the information provided. Sorry for any inconvenience caused. We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+
 
 ---
 ### Troubleshooting: I Adjusted the Volume of SwitchBot KATA Friends on SwitchBot App, but the Volume Changes on Its Own
@@ -299,6 +289,8 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 *We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
+
 ---
 ### Troubleshooting SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
 
