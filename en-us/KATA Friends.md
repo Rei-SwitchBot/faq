@@ -862,3 +862,18 @@ Before sending your KATA Friends to the SwitchBot Care Center for hospitalizatio
 ### When Will SwitchBot KATA Friends Create the Diary?
 
 KATA Friends will create a diary every day between 23:00 and 08:00. You can check the diary as early as after 23:00 on the same day, and no later than 08:00 the following day.
+
+---
+### Troubleshooting SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Quickly press the bottom button of the KATA Friends twice within one second until the Wi-Fi icon appears on the screen to enter pairing mode.
+3. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
+4. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
+5. When setting up the network for KATA Friends, please operate near the router.
+6. Restart your home router.
+7. Please turn the KATA Friends off and on again, restart the SwitchBot app, and then try once more following the app's guidance.
+8. If you have another smartphone, please try adding KATA Friends using that smartphone.
+9. Please try connecting your KATA Friends to your smartphone's tethering.
