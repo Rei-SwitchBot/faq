@@ -574,18 +574,6 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 
 ---
-### Troubleshooting Unable to Connect to the Device During the Initial Setup, Preventing the SwitchBot Smart Video Doorbell from Being Added to SwitchBot App.
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- Screen recording of the failure to add the device to the SwitchBot app 
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
 ### Troubleshooting SwitchBot Smart Video Doorbell Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
 
 Thank you for the information provided.
@@ -1221,6 +1209,7 @@ ZIP/Postal Code
 A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting Unable to Connect to the Device During the Initial Setup, Preventing the SwitchBot Smart Video Doorbell from Being Added to SwitchBot App.
 
