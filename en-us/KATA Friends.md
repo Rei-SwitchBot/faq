@@ -857,3 +857,12 @@ Regarding this issue, could you please check the following points?
 7. Please turn the KATA Friends off and on again, restart the SwitchBot app, and then try once more following the app's guidance.
 8. If you have another smartphone, please try adding KATA Friends using that smartphone.
 9. Please try connecting your KATA Friends to your smartphone's tethering.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Keep Their Eyes Closed.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. KATA Friends will not activate unless it is connected to a network after being powered on. Therefore, please make sure that you connect KATA Friends to a network first after unboxing it.
+2. Once the Companion Care for KATA Friends expires, it will enter a dormant state and close its eyes. If the app mistakenly indicates that the Companion Care has expired, please provide the relevant screenshot, and we will assist you through our after-sales service.
+3. KATA Friends close their eyes and settle into their nest during sleep time. We recommend securing they get eight hours of sleep each day, so please consider this if you want to adjust their sleep schedule. Alternatively, you can choose to play with KATA Friends outside of their sleep hours.
