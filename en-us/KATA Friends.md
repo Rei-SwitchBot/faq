@@ -120,21 +120,6 @@ Turn off your KATA Friends, then turn them back on.
 Please update the firmware version of the KATA Friends to the latest version if you have already added them to the SwitchBot app.
 Please manually dock the KATA Friends to the nest and check if it can be charged.
 
----
-### Troubleshooting SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
-2. Quickly press the button at the bottom of KATA Friends twice until a Wi-Fi icon appears on the eyes to put KATA Friends into pairing mode.
-3. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
-4. When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
-5. When setting up the network for KATA Friends, please operate near the router.
-6. Restart your home router.
-7. Please turn the KATA Friends off and on again, restart the SwitchBot app, and then try once more following the app's guidance.
-8. If you have another smartphone, please try adding the KATA Friends using that smartphone.
-9. Please try connecting your KATA Friends to your smartphone's tethering.
-
 
 ---
 ### Is It Possible to Purchase the KATA Companion Care for SwitchBot KATA Friends During the 15-Day Free Software Trial Period?
@@ -851,11 +836,6 @@ Before sending your KATA Friends to the SwitchBot Care Center for hospitalizatio
 - Avoid prolonged exposure to high temperatures or direct sunlight.  
 - Do not pack it with hard objects.
 - For information on air transport precautions, please check with the airline.
-
-
-
-
-
 
 
 ---
