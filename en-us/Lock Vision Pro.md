@@ -299,3 +299,40 @@ Yes, Lock Vision Pro supports unlocking with the Apple Home Key. You can unlock 
 ### What Is the Capacity of SwitchBot Lock Vision Pro Rechargeable Battery?
 
 The rechargeable battery capacity of SwitchBot Lock Vision Pro is 10000mAh.
+
+---
+### How to Setup Matter with SwitchBot Lock Vision Pro (iOS)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Lock Vision Pro
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+https://support.apple.com/en-hk/102557
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Lock Vision Pro has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and Lock Vision Pro) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Lock Vision Pro -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+7. You can also scan the QR code at the bottom of the Interior Assembly to add Lock Vision Pro to the Apple Home app.
+
+---
+### How to Setup Matter with SwitchBot Lock Vision Pro (Android)
+
+Preparation
+Before setting up devices using Matter, you will need the following:
+- SwitchBot Lock Vision Pro
+- Android Phone
+- Google Nest Hub 47.9.4 or newer
+
+Setup
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot Lock Vision Pro has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your Android phone, Google Nest Hub, and Lock Vision Pro) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to Switch Bot App -> Your Lock Vision Pro -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
