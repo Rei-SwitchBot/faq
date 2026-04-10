@@ -227,23 +227,6 @@ To operate SwitchBot scenes using the Weather Station, you will need a hub. Addi
 
 
 ---
-### How to Set Temperature and Humidity Alert Conditions for SwitchBot Weather Station
-
-1. Please set alert conditions in the following order.
-- Launch SwitchBot App and log in.
-- Tap Weather Station.
-- Tap the gear icon in the upper right corner.
-- Tap "Alert Conditions".
-- Enable and set the alert range for temperature, humidity, absolute humidity, dew point, and VPD as needed.
-- Enable "Alert Sound & Light" if you would like the screen to flash or an alarm to sound when the alert setpoint is reached.
-
-<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/6aecdf83-80cd-4d4f-af74-717a66ce5c60" />
-
-Note:  
-When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
-
-
----
 ### How to Set an Alarm for SwitchBot Weather Station
 
 1. Please set an alarm for your Weather Station in the following order:
@@ -429,7 +412,8 @@ After holding the button on the back of the device for 15 seconds, the screen wi
 - Tap "Alert Conditions".
 - Enable and set the alert range for temperature, humidity, absolute humidity, dew point, and VPD as needed.
 - Enable "Alert Sound & Light" if you would like the screen to flash or an alarm to sound when the alert setpoint is reached.
-[image1]
+<img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/7c8818c2-0f63-463d-b88b-a505faa1ea60" />
+
 
 Note:
 1. When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
