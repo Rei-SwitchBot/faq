@@ -866,3 +866,18 @@ Regarding this issue, could you please check the following points?
 1. KATA Friends will not activate unless it is connected to a network after being powered on. Therefore, please make sure that you connect KATA Friends to a network first after unboxing it.
 2. Once the Companion Care for KATA Friends expires, it will enter a dormant state and close its eyes. If the app mistakenly indicates that the Companion Care has expired, please provide the relevant screenshot, and we will assist you through our after-sales service.
 3. KATA Friends close their eyes and settle into their nest during sleep time. We recommend securing they get eight hours of sleep each day, so please consider this if you want to adjust their sleep schedule. Alternatively, you can choose to play with KATA Friends outside of their sleep hours.
+
+---
+### Troubleshooting SwitchBot KATA Friends Does Not Return to the Nest
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. Please make sure to remove the protective film from the nest of your KATA Friends.
+2. Since infrared communication may be interfered with, please check that there are no obstacles or strong lights within the nest's installation area.
+3. Make sure there is a distance of 1 meter on both sides of the nest and 1.5 meters in front (no restrictions above).
+4. Please confirm that the nest is placed on flat ground.
+5. Please check whether KATA Friends are blocked by obstacles and unable to return to the nest.
+6. If you move the nest, please manually dock KATA Friends to the nest.
+7. Gently wipe the charging terminals and the charging recognition area of both KATA Friends and the nest with a clean cloth.
+8. Please turn the power of the nest off and on again.
+
