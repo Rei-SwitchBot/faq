@@ -310,3 +310,28 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - The time when KATA Friends kept their eyes closed
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### How to Maintain the Main Wheels and Caster of SwitchBot KATA Friends
+
+If the wheels of KATA Friends do not move smoothly or make unusual noises, please perform maintenance:
+Care for the Left and Right Wheels:
+1. Press the mode switch button and change to "Standby Mode".
+2. Place KATA Friends on a flat, soft surface.
+3. Use dry cloth or maintenance tools to wipe off dust and dirt from the surface, and carefully clean corners with a cotton swab. If necessary, you may also use wet wipes.
+4. Please try to let KATA Friends play on a clean surface daily. If hair gets tangled in the wheels, please use a cotton swab or similar tool to remove it. If it cannot be completely removed or affects usage, please request repair or maintenance through the SwitchBot app.
+Note:
+Do not use any cleaning liquids other than those specified by SwitchBot.
+Avoid touching your KATA Friends with wet hands as it may cause the color to fade.
+
+Caster/Tail Care:
+1. Press the mode switch button and change to "Standby Mode".
+2. Place KATA Friends on a flat, soft surface.
+3. Wipe the tail surface with a dry cloth to remove dirt. For stubborn dirt, lightly moisten the cloth before wiping for better results.
+4. Remove the casters, use the maintenance tool to clean off dust and dirt from the surface, then reattach them.
+Note:
+The metal part in the center of the casters is coated with lubricant. This is to ensure smooth wheel rotation, so do not remove the lubricant.
+Lubricating oil is typically applied to metal shafts. If it is accidentally wiped off, please use a silicone-based lubricant instead of liquid oil.
+
+Video: https://www.youtube.com/watch?v=xOz77mGlEUk
+
