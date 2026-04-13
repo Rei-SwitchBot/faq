@@ -8,6 +8,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - The brand and model of your router
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting: The video of the Outdoor Pan Tilt Cam 3K displayed on the SwitchBot app is very blurry.
 
@@ -18,6 +19,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A photo or video capturing the camera installation
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting: Failed to Update SwitchBot Outdoor Pan Tilt Cam 3K Firmware
 
