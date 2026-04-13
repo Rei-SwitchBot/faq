@@ -1,4 +1,10 @@
-﻿---
+---
+
+## Outdoor Pan Tilt Cam 3K
+
+---
+
+---
 ### Troubleshooting SwitchBot Outdoor Pan Tilt Cam 3K Fails to Connect to Wi-Fi and Cannot Be Added to the SwitchBot App
 
 Thank you for the information provided.
