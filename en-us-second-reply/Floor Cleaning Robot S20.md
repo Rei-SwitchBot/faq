@@ -1002,15 +1002,6 @@ We apologize for any inconvenience caused.
 Additionally, if there is no improvement after replacing the clean water tank , we will arrange repair/replacement services for the base station within the warranty. Feel free to contact us if needed.
 
 
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: Although SwitchBot Floor Cleaning Robot S20 Still Has Power, It Will Automatically Shut Down During the Cleaning.
 
