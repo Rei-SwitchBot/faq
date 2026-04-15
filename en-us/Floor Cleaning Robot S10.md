@@ -3326,12 +3326,6 @@ For instructions on maintaining the water filter of the water station, please re
 
 
 
-
-
-
-
-
-
 ---
 ### Troubleshooting: Although SwitchBot Floor Cleaning Robot S10 Still Has Power, It Will Automatically Shut Down During the Cleaning.
 
