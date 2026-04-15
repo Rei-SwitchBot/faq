@@ -86,3 +86,18 @@ Video: [https://youtu.be/JHStfb5fHwY](https://www.youtube.com/watch?v=JHStfb5fHw
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. If the Wi-Fi disconnects, the schedule will stop working, so please install the Floor Lamp near the router to ensure a stable internet connection.
+
+---
+### Troubleshooting: The Power Cord of SwitchBot Floor Lamp Was Chewed up by My Pet.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. We regret to inform you that issues unrelated to the product itself do not qualify for free returns or replacements. Thanks for your understanding!
+https://www.switch-bot.com/pages/switchbot-return-and-refund-policy
+2. We recommend purchasing a replacement adapter with specifications of 100-240 V AC and 50/60 Hz if the adapter is damaged.
+[image1]
+3. Our after-sales service can arrange a replacement if the controller is damaged (shipping fees will apply). Please feel free to contact us again if necessary.
+[image2]
+4. If the cord attached to the floor lamp is damaged, we kindly ask that you repurchase it through Amazon or our official website.
+[image3]
+
