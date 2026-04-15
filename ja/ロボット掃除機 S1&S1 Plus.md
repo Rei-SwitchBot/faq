@@ -2513,13 +2513,6 @@ https://www.switchbot.jp/pages/s1-s1plus-functional-comparison
 <img width="620" height="909" alt="image" src="https://github.com/user-attachments/assets/2981abdb-2b6f-45d7-90bd-c2e8f5f17ba4" />
 
 
-
-
-
-
-
-
-
 ---
 ### トラブルシューティング 新しく購入したダストバッグはSwitchBotロボット掃除機S1 Plusのごみ収集ステーションに挿入できません。
 
