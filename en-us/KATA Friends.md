@@ -881,3 +881,24 @@ Regarding this issue, could you please check the following points?
 7. Gently wipe the charging terminals and the charging recognition area of both KATA Friends and the nest with a clean cloth.
 8. Please turn the power of the nest off and on again.
 
+
+---
+### How Do I Transfer the Purchased Companion Care When Giving SwitchBot KATA Friends to Someone Else?
+
+KATA Friends Companion Care is linked to the device once activated. When gifting KATA Friends to family or friends, we recommend the following steps:
+1. Remove KATA Friends from your own account.
+2. Package KATA Friends in the original box and give it to your family or friends.
+3. Ask your family or friends to create an account on the SwitchBot app and add KATA Friends.
+By switching accounts in the SwitchBot app as described above, data from the previous account will be automatically deleted. However, the Companion Care will be seamlessly transferred to the new account, requiring no additional procedures.
+
+
+---
+### Troubleshooting: SwitchBot KATA Friends Took Photos of Family Members While They Were Bathing or Changing Clothes.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Much like a real pet living in your home, KATA Friends do not have the ability to understand whether someone is dressed or undressed, or to judge when might be an appropriate moment to take a photo. When the picture-taking feature is turned on, they simply capture moments spontaneously throughout the day as part of their playful nature. This means there may be rare occasions when a photo is taken at an unintended moment, such as during a change of clothes.
+Rest assured, all photos taken by KATA Friends are stored locally on the device itself. They are never uploaded to the cloud or shared externally, so your privacy is always protected.
+We take your feedback seriously and have released a firmware update to address the issue you reported. In KATA Friends firmware version 1.2.055, the snapshots feature is automatically disabled, preventing KATA Friends from randomly capturing photos of family members. If you would like to take photos, please provide instructions to KATA Friends using voice commands or gestures. If you prefer to use the snapshot feature, it can be enabled in the app.
+If you have any other questions, please do not hesitate to contact us.
+
