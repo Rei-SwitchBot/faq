@@ -3331,3 +3331,11 @@ For instructions on maintaining the water filter of the water station, please re
 
 
 
+
+---
+### Troubleshooting: Although SwitchBot Floor Cleaning Robot S10 Still Has Power, It Will Automatically Shut Down During the Cleaning.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Clean the charging terminals between the S10 main unit and the auto-empty station. Then, manually dock the robot to the base to verify if it charges properly (When properly docked, the station will blink white three times and then turn off the light).
+
