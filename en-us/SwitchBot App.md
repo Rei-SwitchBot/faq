@@ -122,24 +122,6 @@ You must send the email to the specified address yourself. You cannot log in by 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### What Does the Red "X" on the SwitchBot Automation Edit Page Mean?
 
@@ -148,5 +130,7 @@ If you do not need the "And" prerequisite, you can simply tap the red "x" to rem
 If your automation is not triggering correctly, please send us a screenshot of your settings so our support team can assist you further.
 You can find more information about how "When" and "And" conditions work at the link provided below.
 https://support.switch-bot.com/hc/en-us/articles/19377092587671
-[image1]
+
+<img width="1280" height="1227" alt="image" src="https://github.com/user-attachments/assets/1f871de8-ab5c-4344-92a2-fd161227c030" />
+
 
