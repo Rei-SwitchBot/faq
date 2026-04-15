@@ -3406,3 +3406,19 @@ For instructions on maintaining the water filter of the water station, please re
 
 
 
+
+---
+### Troubleshooting: Although SwitchBot Floor Cleaning Robot S20 Still Has Power, It Will Automatically Shut Down During the Cleaning.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Clean the charging terminals between the S20 main unit and the auto-empty station. Then, manually dock the robot to the base to verify if it charges properly (When properly docked, the station will blink white three times and then turn off the light).
+
+
+---
+### Troubleshooting: SwitchBot Floor Cleaning Robot S20 AI Detected an Obstacle but Failed to Send a Photo of It.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → S20 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+

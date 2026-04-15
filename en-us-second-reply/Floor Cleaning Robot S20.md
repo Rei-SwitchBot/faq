@@ -1010,3 +1010,40 @@ Additionally, if there is no improvement after replacing the clean water tank , 
 
 
 
+
+---
+### Troubleshooting: Although SwitchBot Floor Cleaning Robot S20 Still Has Power, It Will Automatically Shut Down During the Cleaning.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine whether it is a battery issue, could you kindly provide a short video showing the issue?
+  1. Video of the robot failing to start
+  2. Battery level displayed in the SwitchBot app when the robot cannot be activated
+
+2. If you are willing to replace the battery yourself, we will send you the battery along with instructions for the replacement. Alternatively, we can arrange to replace or repair the S20 main unit for you. Regardless of which option you choose, please provide us with the necessary details to expedite the shipment, so we can assist you as quickly as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+
+---
+### Troubleshooting: SwitchBot Floor Cleaning Robot S20 AI Detected an Obstacle but Failed to Send a Photo of It.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshots of the relevant symptoms that can be checked on the app.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
