@@ -3333,3 +3333,29 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Clean the charging terminals between the S10 main unit and the auto-empty station. Then, manually dock the robot to the base to verify if it charges properly (When properly docked, the station will blink white three times and then turn off the light).
 
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves a Few Centimeters of Water Drops While Mopping the Floor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
+[image1]
+Maintenance video 1: https://www.youtube.com/watch?v=ikUtZlHQUQU
+Maintenance video 2: https://drive.google.com/file/d/1JMtJ7sA5jbO_kTp2nhE2CZXunxSfQZnR/view?usp=sharing
+2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
+[image2]
+[image3]
+3. Make sure you are using the latest firmware version for the S10. Check for updates by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery.
+4. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
+[image4]
+5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
+6. Please refer to the video below to verify whether your S10 robot's waste water pump is functioning correctly.
+Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
+Tips:
+1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
+[image5]
+3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
+

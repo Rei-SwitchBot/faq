@@ -912,3 +912,32 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves a Few Centimeters of Water Drops While Mopping the Floor
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, could you kindly provide the following information?
+  1. Photo or video of water leak
+  2. Photo showing inside of the waste water box
+  3. A video demonstrating the testing of the waste water pump
+
+2. If there are no issues with the sewage pump, we will arrange for the wastewater box under warranty. However, if the sewage pump is not functioning correctly and there is no water in the wastewater box, the robot will need to be repaired or replaced. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+If it is a case other than those mentioned above, our R&D team will investigate further. Thank you for your patience and understanding.
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
