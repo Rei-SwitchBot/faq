@@ -2519,3 +2519,13 @@ https://www.switchbot.jp/pages/s1-s1plus-functional-comparison
 
 
 
+
+---
+### トラブルシューティング 新しく購入したダストバッグはSwitchBotロボット掃除機S1 Plusのごみ収集ステーションに挿入できません。
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. ご購入いただいたダストバッグがS1 Plus専用であることをご確認ください。ロボット掃除機 S1 Plusの交換用ダストバッグはS1 Plus Wのものとは異なります。S1 Plus Wのダストバッグをご購入いただいた場合、ロボット掃除機 S1 Plusには使用できませんので、あらかじめご了承ください。
+2. 下記のリンクにてロボット掃除機 S1 Plus 交換用ダストバッグをご購入いただけます。
+https://www.switchbot.jp/products/switchbot-robot-vacuum-s1-plus-replacement-part-dirt-disposal-bags
