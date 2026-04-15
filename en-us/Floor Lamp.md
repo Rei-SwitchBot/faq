@@ -95,9 +95,12 @@ Regarding this issue, could you please check the following points?
 1. We regret to inform you that issues unrelated to the product itself do not qualify for free returns or replacements. Thanks for your understanding!
 https://www.switch-bot.com/pages/switchbot-return-and-refund-policy
 2. We recommend purchasing a replacement adapter with specifications of 100-240 V AC and 50/60 Hz if the adapter is damaged.
-[image1]
+<img width="177" height="179" alt="image" src="https://github.com/user-attachments/assets/629bffb9-da5d-4ad9-b416-803b12ef642e" />
+
 3. Our after-sales service can arrange a replacement if the controller is damaged (shipping fees will apply). Please feel free to contact us again if necessary.
-[image2]
+<img width="171" height="283" alt="image" src="https://github.com/user-attachments/assets/9c62b263-fe4c-443d-8d88-fa12c72e318d" />
+
 4. If the cord attached to the floor lamp is damaged, we kindly ask that you repurchase it through Amazon or our official website.
-[image3]
+<img width="870" height="1091" alt="image" src="https://github.com/user-attachments/assets/42ede4e1-24ce-47c2-b413-7d3cae1ead40" />
+
 
