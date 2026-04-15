@@ -75,6 +75,8 @@ HomepodやApple TVなどのホームハブがなくても、RGBICフロアライ
 弊社の製品で大変ご迷惑をおかけしております。
 本件について、以下をご確認いただけますでしょうか。
 1. Wi-Fiが切断されるとスケジュールが機能しなくなるため、RGBICフロアライトはルーターの近くに設置し、安定したネット接続を確保してください。
+
+
 ---
 ### トラブルシューティング RGBICフロアライトのコードがペットに噛まれて破損してしまった。
 
@@ -84,8 +86,12 @@ HomepodやApple TVなどのホームハブがなくても、RGBICフロアライ
 1. 製品に機能異常や品質問題などが発生していないため、返品返金対応ができかねます。ご理解よろしくお願いいたします。
 https://www.switchbot.jp/pages/refund-policy
 2. アダプターが破損した場合、ご自分で規格100-240 V AC 50/60Hzのをご自由にご購入いただけますが、アフターサービスにてアダプターの手配も可能です（別途料金が発生）。必要でしたら、再度ご連絡ください。
-[image1]
+<img width="177" height="179" alt="image" src="https://github.com/user-attachments/assets/dba36fd6-8179-4844-8ed8-7df60a4270f8" />
+
 3. コントローラーが破損してしまった場合、アフターサービスにてアダプターの手配が可能です（別途料金が発生）。必要でしたら、再度ご連絡ください。
-[image2]
+<img width="171" height="283" alt="image" src="https://github.com/user-attachments/assets/56343629-207d-4592-a415-5798bf6e2212" />
+
 4. フロアライト本体についているコードが破損した場合、アフターサービスにてライト本体が手配可能です（別途料金が発生）。必要でしたら、再度ご連絡ください。
-[image3]
+<img width="870" height="1091" alt="image" src="https://github.com/user-attachments/assets/0ff1c95e-3e41-40bd-8e11-d0daa1083931" />
+
+
