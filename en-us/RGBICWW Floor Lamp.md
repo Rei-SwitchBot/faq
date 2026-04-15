@@ -57,24 +57,6 @@ We apologize for any confusion or inconvenience this may cause and appreciate yo
 If you have any other questions, please do not hesitate to contact us.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### When the Scene and Automation Actions Are Set to Turn On SwitchBot RGBICWW Floor Lamp, Can I Confirm Which Color It Is Set to Through the Displayed Icon?
 
@@ -97,9 +79,12 @@ Regarding this issue, could you please check the following points?
 1. We regret to inform you that issues unrelated to the product do not qualify for free returns or replacements. Thank you for your understanding.
 https://www.switch-bot.com/pages/switchbot-return-and-refund-policy
 2. We recommend purchasing a replacement adapter with specifications of 100-240 V AC and 50/60 Hz if the adapter is damaged.
-[image1]
+<img width="177" height="179" alt="image" src="https://github.com/user-attachments/assets/4afb8d53-5335-4e8c-a40c-7ced1cba3a13" />
+
 3. Our after-sales service can arrange a replacement if the controller is damaged (shipping fees will apply). Please feel free to contact us again if necessary.
-[image2]
+<img width="171" height="283" alt="image" src="https://github.com/user-attachments/assets/d040d421-5988-4c94-a868-cf6597f77616" />
+
 4. If the cord attached to the floor lamp is damaged, we kindly ask that you repurchase it through Amazon or our official website.
-[image3]
+<img width="870" height="1091" alt="image" src="https://github.com/user-attachments/assets/0b884aa7-ac66-4a87-aab4-47fae34cd717" />
+
 
