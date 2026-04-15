@@ -418,3 +418,17 @@ After holding the button on the back of the device for 15 seconds, the screen wi
 Note:
 1. When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
 2. When displaying other temperature and humidity data on the Weather Station, you can set the alert conditions for temperature and humidity in the settings screen of each meter, which will allow the alert to be reflected on the Weather Station's display.
+
+---
+### Troubleshooting: SwitchBot Weather Station Does Not Display Personal Calendar Schedules.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur with the beta version.
+2. Check for any available firmware updates by going to SwitchBot app → Weather Station → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. Make sure that your personal calendar is synchronized with the Weather Station by using the ICS file format URL.
+4. Verify the validity of the ICS file format URL. If it is no longer valid, obtain the URL again.
+Note: If you can paste the URL into a browser and successfully download the ICS file, then the URL is valid. If you cannot download it, the URL is invalid. (For iOS Calendar, remember to change the prefix "webcal" to "https".)
+5. Verify that the time zone of your personal calendar matches the time zone of the Weather Station's home location.
+6. Long press the button in the top right of the Weather Station to manually update the device's data.
+
