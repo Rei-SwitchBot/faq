@@ -139,3 +139,14 @@ You must send the email to the specified address yourself. You cannot log in by 
 
 
 
+
+---
+### What Does the Red "X" on the SwitchBot Automation Edit Page Mean?
+
+SwitchBot automations allow you to set a "When" condition to trigger an action. You can also add an "And" condition as a prerequisite to further refine when that action occurs. Once you tap "Advanced Options" on the automation editing page, the "And" condition will appear along with a red "x" icon.
+If you do not need the "And" prerequisite, you can simply tap the red "x" to remove it. Please note that the presence of this red "x" does not mean there is an error with your automation setup. It is only there to give you the option to delete the additional condition.
+If your automation is not triggering correctly, please send us a screenshot of your settings so our support team can assist you further.
+You can find more information about how "When" and "And" conditions work at the link provided below.
+https://support.switch-bot.com/hc/en-us/articles/19377092587671
+[image1]
+
