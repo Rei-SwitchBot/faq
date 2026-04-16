@@ -96,28 +96,5 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - A screenshot of your order
 
 
----
-### Can I Purchase the Power Adapter for SwitchBot Floor Lamp Separately?
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, the accessory you requested is currently not available for individual purchase. However, SwitchBot can provide it for free, though it will be shipped from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. Therefore, if the adapter is damaged, we recommend that you purchase a replacement with specifications of 100-240 V AC and 50/60 Hz.
-If you have any other questions, please do not hesitate to contact us.
-
-
----
-### Can I Purchase the Controller for SwitchBot Floor Lamp Separately?
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, we regret to inform you that the accessory you requested is currently not available for individual purchase. However, we would be happy to provide the accessory to you free of charge. Please note that this item ships from our Hong Kong warehouse, and a shipping fee will apply based on your delivery address. If you would like to proceed, simply contact us and we will be happy to provide you with a shipping quote.
-Also, to help us arrange the shipment quickly, please provide the following details:
-- Purchase channel
-- Order ID
-- Recipient's full name
-- Phone number
-- Country
-- Street address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
 
