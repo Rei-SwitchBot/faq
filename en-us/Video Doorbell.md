@@ -1498,3 +1498,17 @@ Regarding this issue, could you please check the following points?
 3. Press and hold both the call button and the hang up button on the monitor master unit simultaneously for two seconds to enter pairing mode.
 4. Open Bluetooth in your smartphone's settings app. If there are any paired devices, please unpair them first. After adding the Video Doorbell, you can pair Bluetooth with other devices again.
 5. Restart both the smartphone and the monitor.
+
+---
+### Will There Be a Notification on the Apple Watch When Someone Rings the Doorbell?
+
+Yes, an incoming call notification will appear on the Apple Watch when the doorbell button is pressed.
+
+Important Note:
+1. The displayed content may vary depending on your Apple Watch model.
+2. Notifications appear when you're wearing your Apple Watch. They won't appear on your Apple Watch when you're using your iPhone.
+3. After setting up notifications on your iPhone, simply enable the "Mirror my iPhone" option for SwitchBot on Apple Watch app, notifications will be received according to your iPhone's settings.
+[image1]
+
+For more information: https://support.apple.com/en-us/108369
+
