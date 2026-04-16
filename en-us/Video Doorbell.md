@@ -844,13 +844,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Will There Be a Notification on the Apple Watch When Someone Rings the Doorbell?
-
-Yes, an incoming call notification will appear on the Apple Watch when the doorbell button is pressed.
-Note: The displayed content may vary depending on your Apple Watch model.
-
-
----
 ### What Is the Video Resolution of SwitchBot Smart Video Doorbell Recording?
 
 Whether you use a microSD card or cloud storage, the Smart Video Doorbell records video at a resolution of 640 x 360 pixels.
@@ -1508,7 +1501,8 @@ Important Note:
 1. The displayed content may vary depending on your Apple Watch model.
 2. Notifications appear when you're wearing your Apple Watch. They won't appear on your Apple Watch when you're using your iPhone.
 3. After setting up notifications on your iPhone, simply enable the "Mirror my iPhone" option for SwitchBot on Apple Watch app, notifications will be received according to your iPhone's settings.
-[image1]
+<img width="863" height="551" alt="image" src="https://github.com/user-attachments/assets/74ac7380-a864-4013-a111-b95b0e33637d" />
+
 
 For more information: https://support.apple.com/en-us/108369
 
