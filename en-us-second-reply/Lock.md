@@ -419,15 +419,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting: SwitchBot Lock Shows Offline in SwitchBot App.
 
