@@ -3051,3 +3051,14 @@ Please note that our products are not recommended for entrance doors without a p
 Important Note:
 For any door lock, please ensure that installing SwitchBot lock products does not interfere with other locking or unlocking methods.
 
+
+---
+### Troubleshooting: SwitchBot Lock Shows Offline in SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please replace the two CR 123A 3V batteries (we recommend using Panasonic) and check if the issue improves. If the lock does not power on after replacing the batteries, kindly provide a video that demonstrates the problem. Our representative will then assess whether a replacement is possible.
+2. To operate the lock remotely, you will need our Hub product. Please note that without the Hub, the lock can only be controlled via the app while within Bluetooth range.
+3. Enable location access on your smartphone, then turn Bluetooth off and back on.
+4. Please delete the lock from the app and add it again.
+
