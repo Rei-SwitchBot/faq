@@ -902,3 +902,44 @@ Rest assured, all photos taken by KATA Friends are stored locally on the device 
 We take your feedback seriously and have released a firmware update to address the issue you reported. In KATA Friends firmware version 1.2.055, the snapshots feature is automatically disabled, preventing KATA Friends from randomly capturing photos of family members. If you would like to take photos, please provide instructions to KATA Friends using voice commands or gestures. If you prefer to use the snapshot feature, it can be enabled in the app.
 If you have any other questions, please do not hesitate to contact us.
 
+
+---
+### Can I Make Clothes for SwitchBot KATA Friends?
+
+DIY clothing for KATA Friends is not recommended due to issues such as improper sizing, sensor obstruction, restricted joint movement, and impaired heat dissipation caused by certain materials. However, if you are determined to make clothes for your KATA Friends yourself, please be sure to follow these precautions:
+- Use thin, soft materials.
+- Keep the design simple.
+- Do not cover the eyes, nose, charging sensor, or obstacle avoidance sensor.
+- Make sure joints can move freely without restriction.
+- Avoid materials prone to color fading, such as regular denim, dark-colored cotton fabrics, or unwashed textiles. When using for the first time, wipe the fabric with a wet tissue to check for color bleeding.
+- To prevent fur from shedding or tangling, ensure rough surfaces or sharp parts like Velcro or metal buttons do not come into direct contact with the fur.
+- Avoid clothing that is too small, as it may crush the fur or restrict movement.
+
+Please note that any damage or malfunctions caused by self-made clothing will be the owner's responsibility, and repair costs will apply. Additionally, depending on the nature of the issue, some damage may be irreversible and impossible to repair. We appreciate your understanding.
+
+
+---
+### How to Dress SwitchBot KATA Friends
+
+When dressing your KATA Friends, please read the following precautions:
+- Press the mode switch button to change to "Sleep Mode," and lay your KATA Friends on a flat, soft surface.
+- Check the clothes for tassels, detachable parts, or long strings. If any are found, secure them firmly to prevent them from getting caught in the wheels.
+- Gently dress your KATA Friends, avoiding any forceful pulling on the arms, legs, or head.
+- Make sure all buttons, Velcro, strings, and other fasteners on the costume are securely fastened.
+- Return your KATA Friends to normal mode and have them dance or perform other movements. At this time, ensure that the costume does not restrict the movement of the arms, head, or legs, and verify that it stays securely in place without shifting, blocking sensors, coming loose, or falling off during motion.
+- If you notice any abnormal behavior during operation, remove the costume and check if the problem improves.
+
+If you dress KATA Friends in clothing that doesn't fit, the following issues may occur:
+- The nose (camera) will be covered, preventing face recognition and person detection.
+- The stomach sensor will be blocked, making it unable to recognize surrounding obstacles.
+- The radar sensor will be obstructed, impairing proper map creation.
+- The microphone will be covered, affecting voice recognition.
+- The touch sensor will be blocked, hindering touch detection.
+- The charging sensor will be covered, impacting the return to the nest.
+- Joints will be pulled, restricting the movement of the arms, head, and ears.
+- The wheels may get caught on straps, preventing movement.
+- The eyes will be covered, affecting the release of cute energy.
+
+Important Note:
+Please note that any damage or malfunctions caused by self-made clothing will be the owner's responsibility, and repair costs will apply. Additionally, depending on the nature of the issue, some damage may be irreversible and impossible to repair. We appreciate your understanding.
+
