@@ -651,17 +651,6 @@ https://support.switch-bot.com/hc/en-us/articles/38010378939799
 It takes about 1 hour to charge KATA Friends from a low power state to a playable condition (50% battery remaining), and approximately 3 to 4 hours to reach a full charge. While charging, a charging indicator will appear in KATA Friends' eyes. Within the first three seconds of returning to the nest and starting to charge, KATA Friends' eyes will display a charging icon to indicate that charging has begun, then the charging icon disappears.
 You can play for about three hours on a full charge before the device enters a low-power state. However, during the day, after playing for 40 to 60 minutes, it requires a 40 to 60-minute break to recharge. At night, it charges fully while in sleep mode.
 
----
-### Can I Make Clothes for SwitchBot KATA Friends?
-
-DIY clothing for KATA Friends is not recommended due to issues such as improper sizing, sensor obstruction, restricted joint movement, and impaired heat dissipation caused by certain materials. However, if you are determined to make clothes for your KATA Friends yourself, please be sure to follow these precautions:
-Use thin, soft materials.
-Keep the design simple.
-Do not cover the eyes, nose, charging sensor, or obstacle avoidance sensor.
-Make sure joints can move freely without restriction.
-Avoid materials prone to color fading, such as regular denim, dark-colored cotton fabrics, or unwashed textiles. When using for the first time, wipe the fabric with a wet tissue to check for color bleeding.
-To prevent fur from shedding or tangling, ensure rough surfaces or sharp parts like Velcro or metal buttons do not come into direct contact with the fur.
-Avoid clothing that is too small, as it may crush the fur or restrict movement.
 
 ---
 ### What Should I Do with SwitchBot KATA Friends When I'm Away from Home for a Long Time?
@@ -722,28 +711,6 @@ The "face recognition" feature of KATA Friends is an independent function differ
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? If the step is circular or square with a height of about 1.5 cm, KATA Friends will attempt to overcome it. However, for steps higher than this, to prevent snagging or tipping over, they will not try to climb. Thank you for your understanding. KATA Friends can overcome steps that are 46 cm or wider. Please ensure there are no obstacles, as KATA Friends cannot pass through narrow spaces. Make sure that KATA Friends' wheels are clean and dry. KATA friends may slip and be unable to cross the slippery, wet metal or tiled step. We appreciate your understanding. You might consider using a threshold tool to help KATA Friends overcome steps.
 
----
-### How to Dress SwitchBot KATA Friends
-
-When dressing your KATA Friends, please read the following precautions:
-- Press the mode switch button to change to "Sleep Mode," and lay your KATA Friends on a flat, soft surface.
-- Check the clothes for tassels, detachable parts, or long strings. If any are found, secure them firmly to prevent them from getting caught in the wheels.
-- Gently dress your KATA Friends, avoiding any forceful pulling on the arms, legs, or head.
-- Make sure all buttons, Velcro, strings, and other fasteners on the costume are securely fastened.
-- Return your KATA Friends to normal mode and have them dance or perform other movements. At this time, ensure that the costume does not restrict the movement of the arms, head, or legs, and verify that it stays securely in place without shifting, blocking sensors, coming loose, or falling off during motion.
-- If you notice any abnormal behavior during operation, remove the costume and check if the problem improves.
-
-
-If you dress KATA Friends in clothing that doesn’t fit, the following issues may occur:  
-- The nose (camera) will be covered, preventing face recognition and person detection.  
-- The stomach sensor will be blocked, making it unable to recognize surrounding obstacles.  
-- The radar sensor will be obstructed, impairing proper map creation.  
-- The microphone will be covered, affecting voice recognition.  
-- The touch sensor will be blocked, hindering touch detection.  
-- The charging sensor will be covered, impacting the return to the nest.  
-- Joints will be pulled, restricting the movement of the arms, head, and ears.  
-- The wheels may get caught on straps, preventing movement.  
-- The eyes will be covered, affecting the release of cute energy.
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Have Their Eyes Open in the Nest, Yet the Switchbot App Shows Them Playing.
