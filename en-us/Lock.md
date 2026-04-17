@@ -3062,3 +3062,12 @@ Regarding this issue, could you please check the following points?
 3. Enable location access on your smartphone, then turn Bluetooth off and back on.
 4. Please delete the lock from the app and add it again.
 
+
+---
+### Troubleshooting: The Sliding Part of SwitchBot Lock Designed to Fit the Adapter Is Damaged.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please send us a photo of the broken part related to this issue?
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+

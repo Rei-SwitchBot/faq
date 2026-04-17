@@ -429,3 +429,23 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 *We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
 
+
+---
+### Troubleshooting: The Sliding Part of SwitchBot Lock Designed to Fit the Adapter Is Damaged.
+
+Thank you for reporting this issue.
+We regret to inform you that the sliding component of the lock body cannot be replaced or repaired individually. In this case, we can replace the product for you free of charge under the warranty. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
