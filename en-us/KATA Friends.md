@@ -461,12 +461,6 @@ The above voice commands are general examples for reference. KATA Friends can ty
 
 
 ---
-### Can I Chat with SwitchBot KATA Friends?
-
-Currently, KATA Friends do not have a conversation feature, but we plan to release new firmware later this year that will enable basic conversations. Stay tuned!
-
-
----
 ### Will SwitchBot KATA Friends Go Under the Bed?
 
 KATA Friends are equipped with automatic obstacle avoidance sensors, preventing collisions with obstacles. They cannot enter spaces under beds lower than their height, but they can pass under beds that are taller. In such cases, it is recommended to physically block the area before creating the map. Once the map is complete, please designate the area as a no-go zone.
