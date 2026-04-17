@@ -910,3 +910,19 @@ If you dress KATA Friends in clothing that doesn't fit, the following issues may
 Important Note:
 Please note that any damage or malfunctions caused by self-made clothing will be the owner's responsibility, and repair costs will apply. Additionally, depending on the nature of the issue, some damage may be irreversible and impossible to repair. We appreciate your understanding.
 
+
+---
+### Can I Chat with SwitchBot KATA Friends?
+
+Updating your KATA Friends to firmware V1.2.058 or later unlocks the new Chat feature. This allows for natural language conversations where your companion can do much more than just react. Your KATA Friends can now answer your questions and keep the conversation going just like a real partner.
+To start using the Chat feature, please follow these steps.
+1. Update your SwitchBot App to V9.25 or later.
+2. Enable Chat by going to SwitchBot App -> KATA Friends -> Gear Icon -> Customization.
+3. Once enabled, use the designated command "Let's chat" to enter Chat Mode.
+4. You can ask questions or share your day and feelings with your KATA Friends.
+5. When you're ready to finish, simply say "No more talking, bye" to exit Chat Mode.
+
+Notes:
+Always use the language that matches your KATA Friends' current settings for all commands and conversations.
+If your KATA Friends does not receive a response for about one minute, it will automatically exit Chat Mode and wait for the next time you activate it.
+
