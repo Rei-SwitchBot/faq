@@ -1891,3 +1891,14 @@ To avoid injury, please carefully warm it with the hot air from the hairdryer.
 Grab the mounting plate and remove it with small side-to-side movements.
 A shipping fee may apply for replacement parts. Thank you for your understanding.
 SwitchBot cannot assume responsibility for any damage to doors or walls resulting from improper operation.
+
+---
+### Troubleshooting: When Attempting to Pair the Lock on SwitchBot Keypad Touch, the Message "Incorrect" Appears Regardless of How Many Times the Test Passcode Is Entered.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Keypad Touch → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Tap the return icon in the upper left corner of the screen to skip the test and confirm whether you can successfully control the lock.
+3. Reinsert the batteries into the Keypad Touch and check if that resolves the issue.
+4. Remove the Keypad Touch from the app and then add it again.
+
