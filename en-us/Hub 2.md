@@ -1785,3 +1785,21 @@ Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
 Note:
 The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### How to Sync the Added IR Remotes to Apple Home App
+
+Please synchronize the added infrared remotes to Apple Home app in the following order:
+1. Launch SwitchBot app and log in.
+2. Tap your Hub 2.
+3. Tap the gear icon in the upper right corner.
+4. Tap "Matter Setup".
+5. Tap "Secondary Device".
+6. Tap "Lab Features (Beta)" and add the target IR remote.
+
+Important Note:
+1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
+2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.
+3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
+https://support.switch-bot.com/hc/en-us/articles/13330959142807
+
