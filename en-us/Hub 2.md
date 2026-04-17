@@ -1693,26 +1693,6 @@ Important Note:
 
 
 ---
-### How to Sync the Added IR Remotes to Apple Home App
-
-Please synchronize the added infrared remotes to Apple Home app in the following order:
-Launch SwitchBot app and log in.  
-Tap your Hub Mini Matter.  
-Tap the gear icon in the upper right corner.  
-Tap "Matter Setup".  
-Tap "Secondary Device".  
-Tap "Lab Features (Beta)" and add the target IR remote.
-
-Important Note:
-
-1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
-2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
-3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
-[https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807-Can-Infrared-Remote-Control-in-SwitchBot-Hub-2-Be-Controlled-by-Apple-Home-App)
-
-
-
----
 ### Firmware Version Update for SwitchBot Hub 2
 
 1. Make sure your SwitchBot App version is up to date.
