@@ -809,3 +809,16 @@ If the device goes offline at a certain time, please check if the problem can be
 If your Hub 3 can connect to your phone's personal hotspot, please go to Hub 3 → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
 If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
+
+---
+### [Request Handling] Hub 3
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot Hub 3 can only be added to one account. If a Hub 3 is added to another account of yours, please delete the Hub 3 from that account first and then add it to a new account.
+※Long press the SwitchBot Hub 3 icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
+https://support.switch-bot.com/hc/en-us/articles/4424755304215
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Hub 3 will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
