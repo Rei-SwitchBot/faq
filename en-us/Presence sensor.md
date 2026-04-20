@@ -319,3 +319,10 @@ If you have any other questions, please do not hesitate to contact us.
 
 
 
+
+---
+### How to Install SwitchBot Presence Sensor
+
+Please refer to the link below to verify the installation guide for SwitchBot Presence Sensor.
+https://support.switch-bot.com/hc/en-us/articles/39816461206295
+

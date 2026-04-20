@@ -338,3 +338,9 @@ SwitchBotアプリを起動し、ログインします。
 
 
 
+
+---
+### 人感センサーProの設置ガイド
+
+下記のリンクにて人感センサーProの設置動画をご確認いただけます。
+https://support.switch-bot.com/hc/ja/articles/39816461206295
