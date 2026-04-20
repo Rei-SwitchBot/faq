@@ -315,11 +315,6 @@ To ensure water resistance in environments such as bathrooms, the Presence Senso
 If you have any other questions, please do not hesitate to contact us.
 
 
-
-
-
-
-
 ---
 ### How to Install SwitchBot Presence Sensor
 
