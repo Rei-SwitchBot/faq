@@ -1902,3 +1902,13 @@ Regarding this issue, could you please check the following points?
 3. Reinsert the batteries into the Keypad Touch and check if that resolves the issue.
 4. Remove the Keypad Touch from the app and then add it again.
 
+
+---
+### Troubleshooting: Cannot Pair SwitchBot Keypad Touch With the Newly Purchased Lock Because It Is Still Connected to the Old Lock.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To unpair your Keypad from the current Lock, we recommend using one of the following two methods. After you have disconnected the old Lock, you can then pair your Keypad with the new one.
+Method 1: SwitchBot App → Select the relevant Keypad/Keypad Touch → Gear icon → Device Pairing → Unpair → Confirm Unpair → Finish.
+Method 2: Unlink the keypad/Keypad Touch is automatically done when removing the Lock from the SwitchBot App.
+
