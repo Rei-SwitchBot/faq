@@ -432,3 +432,11 @@ Note: If you can paste the URL into a browser and successfully download the ICS 
 5. Verify that the time zone of your personal calendar matches the time zone of the Weather Station's home location.
 6. Long press the button in the top right of the Weather Station to manually update the device's data.
 
+
+---
+### How Many Scenes Can Be Linked to SwitchBot Weather Station?
+
+You can add two SwitchBot scenes to the weather station. By linking scenes, you can control home appliances such as room light and air condition. When the Weather Station displays the weather or AI analysis page, briefly press the two buttons at the bottom right of the screen to activate the associated scene.
+Note: Operating scenes on the Weather Station requires our hub device.
+[image1]
+
