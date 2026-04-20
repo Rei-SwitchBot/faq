@@ -393,7 +393,7 @@ SwitchBot Weather Station's display is not waterproof, so please be careful to a
 
 Yes, the Weather Station is equipped with a built-in backlight. If necessary, press the button on the upper right corner of the device to turn on the backlight.
 Note:
-If the built-in backlight is always on, it may lead to faster battery drain and could also affect the accuracy of temperature and humidity measurements due to heat generation. Therefore, please be aware that the backlight of the daily station is designed to automatically turn off 10 seconds after being activated. We appreciate your understanding.
+If the built-in backlight is always on, it may lead to faster battery drain and could also affect the accuracy of temperature and humidity measurements due to heat generation. Therefore, please be aware that the backlight of the Weather Station is designed to automatically turn off 10 seconds after being activated. We appreciate your understanding.
 
 ---
 ### How to Reset SwitchBot Weather Station
