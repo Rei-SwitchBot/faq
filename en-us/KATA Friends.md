@@ -844,16 +844,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### How Do I Transfer the Purchased Companion Care When Giving SwitchBot KATA Friends to Someone Else?
-
-KATA Friends Companion Care is linked to the device once activated. When gifting KATA Friends to family or friends, we recommend the following steps:
-1. Remove KATA Friends from your own account.
-2. Package KATA Friends in the original box and give it to your family or friends.
-3. Ask your family or friends to create an account on the SwitchBot app and add KATA Friends.
-By switching accounts in the SwitchBot app as described above, data from the previous account will be automatically deleted. However, the Companion Care will be seamlessly transferred to the new account, requiring no additional procedures.
-
-
----
 ### Troubleshooting: SwitchBot KATA Friends Took Photos of Family Members While They Were Bathing or Changing Clothes.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
