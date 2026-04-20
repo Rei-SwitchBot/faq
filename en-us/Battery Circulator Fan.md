@@ -627,3 +627,19 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please first charge the battery for one hour using the included power cable.
+
+---
+### How to Sync SwitchBot Battery Circulator Fan to Apple Home App
+
+Please synchronize the Circulator Fan to the Apple Home app in the following order:
+1. Launch SwitchBot app and log in.
+2. Tap the Matter-compatible hub you are using.
+3. Tap the gear icon in the upper right corner.
+4. Tap "Matter Setup".
+5. Tap "Secondary Device".
+6. Tap "Lab Features (Beta)" and add the Circulator Fan.
+
+Important Note:
+Please add your Matter-compatible hub to the Apple Home app in advance.
+Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
+
