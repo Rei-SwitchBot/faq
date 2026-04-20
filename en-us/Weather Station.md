@@ -129,15 +129,6 @@ To ensure accurate weather data, the Weather Station automatically connects to t
 
 
 ---
-### How Many Scenes Can Be Linked to SwitchBot Weather Station?
-
-Up to two SwitchBot scenes can be linked to the Weather Station. By registering scenes, you can control home appliances such as room light and air condition. When the Weather Station displays the weather or AI recommendation page, briefly press the two buttons at the bottom right of the screen to activate the associated scene.  
-Note: Operating scenes on the Weather Station requires our hub device.
-
-<img width="1110" height="713" alt="image" src="https://github.com/user-attachments/assets/31bc1552-e3fa-48ac-952c-ab86e68c8cae" />
-
-
----
 ### What Is the Accuracy of the Temperature and Humidity Measurements of SwitchBot Weather Station?
 
 1. In normal cases, the readings of the Weather Station have a ±0.2°C difference in temperature and a ±2% difference in humidity.
@@ -438,5 +429,7 @@ Note: If you can paste the URL into a browser and successfully download the ICS 
 
 You can add two SwitchBot scenes to the weather station. By linking scenes, you can control home appliances such as room light and air condition. When the Weather Station displays the weather or AI analysis page, briefly press the two buttons at the bottom right of the screen to activate the associated scene.
 Note: Operating scenes on the Weather Station requires our hub device.
-[image1]
+
+<img width="1110" height="713" alt="image" src="https://github.com/user-attachments/assets/86dc3a15-1487-44a4-8257-7adcb3c21c1f" />
+
 
