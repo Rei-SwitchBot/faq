@@ -588,3 +588,20 @@ Please use the latest version of the SwitchBot app from the app store. You may n
 
 
 
+
+---
+### How to Sync SwitchBot Remote to Apple Home App
+
+Please synchronize the Remote to the Apple Home app in the following order:
+1. Launch SwitchBot app and log in.
+2. Tap the Matter-compatible hub you are using.
+3. Tap the gear icon in the upper right corner.
+4. Tap "Matter Setup".
+5. Tap "Secondary Device".
+6. Tap "Lab Features (Beta)" and add the Remote.
+
+Important Note:
+1. Please add your Matter-compatible hub to the Apple Home app in advance.
+2. Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
+3. In Apple Home, the Remote generally appears under the name "matter accessory". You need to register a SwitchBot scene to SwitchBot Remote using the SwitchBot App first and then set up Apple Automation. At this time, it is not possible to delete the scene that has been previously registered to the Remote. We apologize for any inconvenience caused by the simultaneous triggering of SwitchBot scenes when using the Remote to control devices in Apple Home.
+
