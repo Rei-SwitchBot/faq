@@ -925,17 +925,18 @@ By switching accounts in the SwitchBot app as described above, data from the pre
 ### How to Name SwitchBot KATA Friends
 
 KATA Friends can now recognize the custom names given by their owners. To ensure your companion can hear and recognize its new name easily, please keep the following guidelines in mind when choosing a name.
-1. Please use a name that matches the current language of your KATA Friends. For example, if the language is set to English, we recommend choosing an English name for the best recognition.
+1. Please use a name that matches the current language of your KATA Friends. For example, if the language is set to English, an English name is required for the best recognition.
 2. Please follow the rules below when naming
 - Ideally, the name should be between 2 and 6 syllables and 4 to 16 characters long.
 - Names cannot include spaces, punctuation marks, or emojis.
 - Good examples: Luna, Bella, Chestnut, or Oscar.
-3. Name your KATA Friends by going to SwitchBot App -> your KATA Friends -> Gear icon -> Tap the basic information at the top -> Name -> Enter your chosen name according to the rules -> Save.
-4. Once you have set the name, you can use it to wake up or call your companion. This works alongside the original wake words such as Hello KATA, Hello Noa, Hello Niko, Hi KATA, Hi Noa, and Hi Niko.
-5. If you are unable to set the name, please check:
+3. To help KATA Friends recognize names more easily, please choose a name that is simple, clear, and has a rhythmic feel.
+4. Name your KATA Friends by going to SwitchBot App -> your KATA Friends -> Gear icon -> Tap the basic information at the top -> Name -> Enter your chosen name according to the rules -> Save.
+5. Once the name is set, you can start calling your KATA Friends by its new name to wake it up or get its attention.
+6. If you are unable to set the name, please check:
 - Make sure your SwitchBot App is version 9.26 or higher and that your firmware is up to date.
 - Double-check that the name follows all the rules mentioned above.
-6. If KATA Friends does not respond to the name, please check:
+7. If KATA Friends does not respond to the name, please check:
 - Try a different name that is easier to pronounce.
 - Try speaking a little louder or moving closer to your KATA Friends.
 - Try calling the name a few more times to help the device catch the sound.
