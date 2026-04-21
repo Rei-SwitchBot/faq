@@ -940,3 +940,24 @@ KATA Friends can now recognize the custom names given by their owners. To ensure
 - Try speaking a little louder or moving closer to your KATA Friends.
 - Try calling the name a few more times to help the device catch the sound.
 
+
+---
+### [Request Handling] KATA Friends
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. One SwitchBot KATA Friends can only be added to one account. If a KATA Friends is added to another account of yours, please delete the KATA Friends from that account first and then add it to a new account.
+※Long press the SwitchBot KATA Friends icon→tap the Delete button→confirm deletion
+2. If you are using the device with family or friends, you can either share your SwitchBot app account and password with multiple users or use the home sharing feature.
+https://support.switch-bot.com/hc/en-us/articles/4424755304215
+3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the KATA Friends will be automatically unbinded and you will be able to add it.
+4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting: Vertical Lines Appear on the Eye Display of SwitchBot KATA Friends.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+We have identified this as a bug and will have it fixed in our upcoming firmware release. Until the update is available, we suggest a simple power cycle as a temporary solution. Please turn off your KATA Friends, wait a short while, and then turn it back on to see if the situation improves.
+
