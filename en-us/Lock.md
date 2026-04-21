@@ -3132,3 +3132,19 @@ Note:
 - Due to the limitations of the iOS system, you will not receive notifications from SwitchBot while using the app. This means that notifications can only be received when your iPhone is locked or displaying other screens. At this time, you can check notifications in the SwitchBot app by going to Profile → Notification.
 - There are no such restrictions on Android devices.
 
+
+---
+### Troubleshooting: Unable to Lock and Unlock SwitchBot Lock
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the link below and confirm that the center of the lock's thumb turn is aligned with the center of the knob for installation
+https://support.switch-bot.com/hc/en-us/articles/7911260542999
+2. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. After updating, recalibrate your Lock.
+*SwitchBot app -> Lock -> gear icon in the upper right corner -> recalibrate
+4. Delete the Lock from your app and then re-add it.
+  A. Long press your Lock icon on the app to delete it.
+  B. Remove the batteries and then reinsert them.
+  C. Add Lock to the app again.
+
