@@ -2598,22 +2598,6 @@ If this is okay for you, please provide us with the necessary details so we can 
 
 
 ---
-### Troubleshooting Unable to Lock and Unlock SwitchBot Lock
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
- 
-2. After updating, recalibrate your Lock.
-*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
- 
-3. Delete the Lock from your app and then re-add it.
-  1. Long press your Lock icon on the app to delete it.
-  2. Remove the batteries and then reinsert them.
-  3. Add Lock to the app again.
-
-
----
 ### Troubleshooting Suddenly Stopped Receiving Notifications from SwitchBot Lock
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
