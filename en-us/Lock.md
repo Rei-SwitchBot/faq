@@ -2488,25 +2488,6 @@ SwitchBot App -> the Lock -> gear icon -> recalibrate
 
 
 ---
-### Troubleshooting SwitchBot Lock Gets Jammed Frequently
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by navigating to the SwitchBot app -> Lock -> gear icon in the upper right corner -> Firmware & Battery -> blue or red "Update" button. After updating, recalibrate your Lock.
-*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
-2. Remove the Lock from the app and then add it again.
-  1. Long press your Lock icon on the app to delete it.
-  2. Remove the batteries and then reinsert them.
-  3. Add Lock to the app again.
-3. If the issue persists, to determine if your Lock needs to be replaced, could you please provide the following information?
-  1. Video to confirm the Lock's jamming.
-  2. Video of recalibration of the Lock
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
----
 ### Troubleshooting The Locking and Unlocking Time Shown on SwitchBot App Doesn’t Match Reality
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -2522,23 +2503,6 @@ Important Note: Deleting and re-adding the Lock will clear all previous logs.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, we will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-
----
-### Troubleshooting SwitchBot Lock Gets Jammed Frequently
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → Lock → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
-
-2. After updating, recalibrate your Lock.
-*SwitchBot app -> Lock -> gear icon in the upper right corner ->recalibrate
-
-3. Remove the Lock from the app and then add it again.
-  a. Long press your Lock icon on the app to delete it.
-  b. Remove the batteries and then reinsert them.
-  c. Add Lock to the app again.
-
 
 ---
 ### Troubleshooting Can't Connect SwitchBot Lock to the Hub
