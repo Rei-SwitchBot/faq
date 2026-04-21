@@ -434,39 +434,3 @@ Note: Operating scenes on the Weather Station requires our hub device.
 
 
 
----
-### Introduction to Weather Information on SwitchBot Weather Station Home Screen
-
-When you press the home button on the Weather Station, various weather information will be displayed. We will explain the details using the example provided below.
-[image1]
-
-Top left:
-New York: Home location. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.
-Refresh Icon and Time: Indicates when the data was last updated.
-
-Top right:
-Schedule, Do Not Disturb mode, Alarm Clock, Battery Level
-
-Left:
-[image2]
-Date, Day of the Week, Time, Weather, High/Low Temperature, Outdoor/Indoor Temperature and Humidity, Comfort Level, Sunrise/Sunset Times
-Notes:
-You can freely set the time display to either a 12-hour or 24-hour format.
-The weather icons shown on the left represent different weather conditions, as illustrated in the diagram below. If an icon features a warning mark, it indicates that a severe weather alert has been issued for that day.
-[image3]
-The indoor temperature and humidity data shown on the left side of the screen are measured by the Weather Station. In contrast, the outdoor temperature and humidity data are retrieved through the network. By integrating with our Outdoor Meter, we can display the outdoor temperature and humidity data it records.
-The meanings of the comfort level icons are as follows.
-[image4]
-
-Central:
-[image5]
-1. The data displayed in the module at the center of the screen, listed from top to bottom, includes the Air Quality Index (AQI), PM2.5 levels, pollen count, wind speed, wind direction, ultraviolet (UV) levels, precipitation, visibility, and atmospheric pressure.
-2. In the app's settings, you can configure the display of the AQI, PM2.5, wind speed, and UV index levels. The categorization of AQI and PM2.5 follows EPA standards, which only provide full names for the six levels and do not include official abbreviations. Because of this, the third level "Unhealthy for Sensitive Groups" is displayed simply as "Unhealthy*" so that it fits clearly within the limited space on the weather station screen.
-3. Wind speed levels are measured using the Beaufort scale, while the UV index is categorized according to WHO standards.
-4. If an arrow is displayed before the atmospheric pressure data, it indicates that the pressure is either rising or falling compared to the previous measurement.
-
-Right:
-[image6]
-1. The module on the right side of the screen displays the weather forecast for yesterday, today, and the next five days, including the high and low temperatures. If there is a significant likelihood of precipitation, the expected probability of precipitation will be shown at the bottom of the date.
-2. If Weather Stations are added or the home location is changed, yesterday's weather data may not appear immediately. However, it will be available the following day. We appreciate your patience.
-
