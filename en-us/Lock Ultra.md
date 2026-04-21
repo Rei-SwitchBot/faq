@@ -658,3 +658,11 @@ Note:
 - Due to the limitations of the iOS system, you will not receive notifications from SwitchBot while using the app. This means that notifications can only be received when your iPhone is locked or displaying other screens. At this time, you can check notifications in the SwitchBot app by going to Profile → Notification.
 - There are no such restrictions on Android devices.
 
+
+---
+### What Should I Check Before Purchasing a SwitchBot Lock Ultra？
+
+1. Please check the link below and kindly provide photos and dimensions of your home's front door lock.
+https://us.switch-bot.com/pages/switchbot-lock-ultra-compatibility
+2. A specialist will evaluate the information you provided to determine if the Lock Ultra can be installed on your door lock and whether any additional accessories will be required later. We appreciate your patience.
+
