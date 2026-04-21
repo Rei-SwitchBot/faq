@@ -905,3 +905,19 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check whether the float in the water tank is stuck at the top. If it is, gently move the tank up and down, as well as side to side, to manually adjust the position of the float after draining the water, as demonstrated in the video.
 https://www.youtube.com/watch?v=sG951O9kZe8
+
+---
+### How to Sync SwitchBot Evaporative Humidifier to Apple Home App
+
+Please synchronize the Evaporative Humidifier to the Apple Home app in the following order:
+1. Launch SwitchBot app and log in.
+2. Tap the Matter-compatible hub you are using.
+3. Tap the gear icon in the upper right corner.
+4. Tap "Matter Setup".
+5. Tap "Secondary Device".
+6. Tap "Lab Features (Beta)" and add the Evaporative Humidifier.
+
+Important Note:
+Please add your Matter-compatible hub to the Apple Home app in advance.
+Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
+
