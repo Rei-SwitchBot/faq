@@ -860,3 +860,19 @@ Power consumption used while the Wi-Fi connection is disconnected cannot be sync
 ### Troubleshooting: SwitchBot Plug Mini Has Remained in an On State and Cannot Be Turned Off
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\n\nRegarding this issue, could you please check the following points?\n\nPlease press and hold the button on the side of the plug mini for 15 seconds to reset it.
+
+---
+### How to Sync SwitchBot Plug Mini to Apple Home App
+
+Please synchronize the Plug Mini to the Apple Home app in the following order:
+1. Launch SwitchBot app and log in.
+2. Tap the Matter-compatible hub you are using.
+3. Tap the gear icon in the upper right corner.
+4. Tap "Matter Setup".
+5. Tap "Secondary Device".
+6. Tap "Lab Features (Beta)" and add the Plug Mini.
+
+Important Note:
+Please add your Matter-compatible hub to the Apple Home app in advance.
+Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
+
