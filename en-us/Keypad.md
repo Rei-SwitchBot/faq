@@ -1912,3 +1912,15 @@ Regarding this issue, could you please check the following points?
 Method 1: SwitchBot App → Select the relevant Keypad/Keypad Touch → Gear icon → Device Pairing → Unpair → Confirm Unpair → Finish.
 Method 2: Unlink the keypad/Keypad Touch is automatically done when removing the Lock from the SwitchBot App.
 
+
+---
+### Troubleshooting: SwitchBot Keypad Touch Stopped Opening My Lock
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you are unable to lock or unlock your door using the SwitchBot app, troubleshooting the lock is necessary. However, if you can operate the lock successfully through the app, it can be assumed that there are no issues with the lock product.
+2. Please close the door and stand about one meter away from it to check whether you can operate the lock via Bluetooth using the SwitchBot app. If you can control the lock, it may indicate a weak connection with the Keypad Touch. Conversely, if you are unable to operate the lock, this might suggest that the communication with the lock itself is unstable.
+3. Please check for any available firmware updates by going to SwitchBot app → Keypad Touch → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. You can enable the Fast Unlock feature to improve the communication speed between the Keypad Touch and the lock product (the battery will be consumed more quickly).
+https://support.switch-bot.com/hc/en-us/articles/32284693015447
+
