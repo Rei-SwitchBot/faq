@@ -2368,3 +2368,17 @@ A. Remove the Lock Pro from the app.
 B. Remove and reinsert the batteries of both Lock Pros.  
 C. Add the Lock Pro back to the app.  
 1. If you tap Lock Pro A and select Lock Pro B to group them, please try tapping Lock Pro B and selecting Lock Pro A instead (in other words, switch the main lock and sub-lock) to see if that helps.
+
+---
+### Troubleshooting: SwitchBot Lock Pro's Thumb Turn Holder Doesn't Turn and Falls Off (Only for Japan).
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please follow the steps below to inspect the joint part of the Lock Pro for any damage. If you find any issues with the joint, we will arrange for a replacement through our after-sales service.
+A. Remove the Lock Pro main unit from the height adjustment plate.
+B. Pull out the adjustable thumb turn holder from the main unit.
+C. Loosen the screw indicated by the red mark in the diagram below and remove the joint part.
+[image1]
+D. Please check if there is any damage to the joint part as shown in the diagram below.
+[image2]
+

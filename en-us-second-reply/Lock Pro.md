@@ -769,3 +769,31 @@ Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 
 *We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
+---
+### Troubleshooting: SwitchBot Lock Pro's Thumb Turn Holder Doesn't Turn and Falls Off (Only for Japan).
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if the joint part needs to be replaced, could you kindly provide the following information?
+  A. A photo showing the damage to the joint part.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+How to replace the joint part: https://drive.google.com/file/d/11tBG4IFd0z6i1Hzbs0dwDQ5wlbpkqvK6/view
+If there is no damage to the joint part, but the lock Pro's thumb turn holder is unable to turn and has fallen out, we kindly ask you to provide a video that demonstrates the issue. Based on that video, we will determine whether it is necessary to replace the lock Pro main unit. Thank you for your cooperation.
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
