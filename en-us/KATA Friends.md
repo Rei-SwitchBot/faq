@@ -928,7 +928,7 @@ KATA Friends can now recognize the custom names given by their owners. To ensure
 1. Please use a name that matches the current language of your KATA Friends. For example, if the language is set to English, an English name is required for the best recognition.
 
 2. Please follow the rules below when naming
-- Ideally, the name should be between 2 and 6 syllables and 4 to 16 characters long.
+- The name should ideally be 2 to 6 syllables and 4 to 12 characters long.
 - Names cannot include spaces, punctuation marks, or emojis.
 - Good examples: Luna, Bella, Chestnut, or Oscar.
 
