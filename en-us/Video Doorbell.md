@@ -1514,3 +1514,12 @@ Whether you can customize the notification sound for SwitchBot depends entirely 
 For iPhone users, you can find more details on how to manage these alerts by visiting the official Apple Support page.
 https://support.apple.com/en-hk/120681
 
+
+---
+### Do I Need a Hub for Remote Unlocking via the App if I Have SwitchBot Smart Video Doorbell and Lock?
+
+No additional hub is required. The smart video doorbell has a built-in hub function*, allowing you to remotely unlock your Lock directly through the SwitchBot app, just the Video Doorbell and Lock set is enough.
+Note:
+The doorbell's hub function only works with Lock series products and does not support remote control for other SwitchBot devices (such as Bot or Curtain).
+The lock and the Video Doorbell communicate via Bluetooth, which means the monitor needs to remain within the lock's Bluetooth range for remote operation. To ensure a stable connection, we recommend placing the monitor within 5 meters of the lock.
+
