@@ -809,3 +809,13 @@ https://support.switch-bot.com/hc/en-us/articles/4424755304215
 3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Hub 3 will be automatically unbinded and you will be able to add it.
 4. Proof of purchase was not correctly identified or if you purchased from a second-hand channel, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting: The Time Displayed on SwitchBot Hub 3 Screen Is One Hour Behind the Actual Time.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported was likely caused by Hub 3 not automatically switching to daylight saving time. This issue has been resolved. Please check for any available firmware updates by going to SwitchBot app → Hub 3 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+2. Set the location of the Home where the Hub 3 is added one more time by going to the SwitchBot App → Profile → Manage Home → Select the Home.
+
