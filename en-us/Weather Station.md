@@ -5,32 +5,6 @@
 ---
 
 ---
-### How to Sync Your Google Calendar with SwitchBot Weather Station
-
-You can sync personal calendars from Google, iCloud, Outlook, and Yahoo to Weather Station using an ICS file format URL. Once the sync is complete, your personal calendar schedule will be viewable on the Weather Station display. Please follow the steps below to obtain the Google Calendar sharing link and sync it to Weather Station.
-
-Obtaining the URL of an ICS File Format from Google Calendar
-1. Access Google Calendar and log in.  
-2. Choose the personal calendar you want to share under "My Calendars".  
-3. Click the menu on the right side of the calendar.  
-4. Select "Settings and sharing".
-5. Scroll down and copy the "Secret address in iCal format" in the "Integrate calendar" section.
-
-<img width="1109" height="759" alt="image" src="https://github.com/user-attachments/assets/4aae1c89-892d-4627-b7fc-464ed254c7b5" />
-
-Synchronizing the Acquired iCal Format Private URL with the Weather Station
-1. Make sure your SwitchBot App version is up to date.
-2. Make sure SwitchBot Weather Station has been added to your App and your device firmware version is up to date.
-3. In the SwitchBot app, go to Weather Station → Calendar Settings → Sync, then paste the acquired iCal format private URL and name the calendar.  
-4. Once the setup is complete, the data will be updated automatically. If it has not been updated, you can manually refresh it by pressing the button on the top of the device.
-
-Note:  
-To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Google Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
-From a data security perspective, if you move the Weather Station to a different Home within the SwitchBot app, the synchronized personal calendar will be automatically deleted. If necessary, please follow the steps again to resynchronize.
-
-
-
----
 ### How to Sync Your iOS Calendar with SwitchBot Weather Station
 
 You can sync personal calendars from iOS, iCloud, Outlook, and Yahoo to Weather Station using an ICS file format URL. Once the sync is complete, your personal calendar schedule will be viewable on the Weather Station display. Please follow the steps below to obtain the iOS Calendar sharing link and sync it to Weather Station.
@@ -433,8 +407,6 @@ Note: Operating scenes on the Weather Station requires our hub device.
 <img width="1110" height="713" alt="image" src="https://github.com/user-attachments/assets/86dc3a15-1487-44a4-8257-7adcb3c21c1f" />
 
 
-
-
 ---
 ### How to Sync Your Google Calendar with SwitchBot Weather Station
 
@@ -447,7 +419,8 @@ Obtaining the URL of an ICS File Format from Google Calendar
 3. Click the menu on the right side of the calendar.
 4. Select "Settings and sharing".
 5. Scroll down and copy the "Secret address in iCal format" in the "Integrate calendar" section.
-[image1]
+<img width="1109" height="759" alt="image" src="https://github.com/user-attachments/assets/15c462f6-b9c9-48c6-8fb7-92dcfdb4d498" />
+
 
 Synchronizing the Acquired iCal Format Private URL with the Weather Station
 1. Make sure your SwitchBot App version is up to date.
@@ -473,7 +446,8 @@ Obtaining the URL of an ICS File Format from iOS Calendar
 4. In the "Edit Calendar" screen, enable the "Public Calendar".
 5. Tap "Share Link…".
 6. Tap "Copy" in the popup that appears.
-[image1]
+<img width="1280" height="913" alt="image" src="https://github.com/user-attachments/assets/03b74376-9694-43f0-8d56-eeae92bb7f1a" />
+
 
 Synchronizing the Shared URL with the Weather Station
 1. Make sure your SwitchBot App version is up to date.
