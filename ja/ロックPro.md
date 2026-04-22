@@ -2511,6 +2511,8 @@ C. ロックProを再度アプリに追加します。
 A. ロックPro本体を高さ調整プレートから取り外してください。
 B. ロックProの無段階サムターンホルダーを本体から抜き取ってください。
 C. 下図赤印で示されたネジを緩めて、ジョイント部分を外してください。
-[image1]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/fde48288-0e7b-46ad-be51-58a82abf4259" />
+
 D. ジョイント部分に下図のような破損があるかご確認ください。
-[image2]
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d0a7746a-63b8-4a1a-9a42-4f83be9e874e" />
+
