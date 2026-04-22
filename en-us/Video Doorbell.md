@@ -12,14 +12,6 @@ If multiple smartphones share the same SwitchBot account, they can all access th
 
 
 ---
-### Do I Need a Hub for Remote Unlocking via the App if I Have SwitchBot Smart Video Doorbell and Lock?
-
-No additional hub is required. The smart video doorbell has a built-in hub function*, allowing you to remotely unlock your Lock directly through the SwitchBot app, just the Video Doorbell and Lock set is enough.
-Note: 
-The doorbell’s hub function only works with Lock series products and does not support remote control for other SwitchBot devices (such as Bot or Curtain).
-
-
----
 ### How Many Smartphones Can One SwitchBot Smart Video Doorbell Be Added To?
 
 For security reasons, each smart video doorbell can only be linked to one SwitchBot app account. The device is not registered directly to a smartphone, but is instead stored under your account.
