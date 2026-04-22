@@ -1506,3 +1506,11 @@ Important Note:
 
 For more information: https://support.apple.com/en-us/108369
 
+
+---
+### Is It Possible to Change the Doorbell Notification Sound to One That Is Different From the Default Ringtone on the iPhone?
+
+Whether you can customize the notification sound for SwitchBot depends entirely on the settings provided by your smartphone manufacturer. Currently, the SwitchBot app follows the default notification protocols established by your phone's operating system, so any changes to these sounds must be made through your phone's system settings.
+For iPhone users, you can find more details on how to manage these alerts by visiting the official Apple Support page.
+https://support.apple.com/en-hk/120681
+
