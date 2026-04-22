@@ -7,31 +7,6 @@
 ---
 ### How to Sync Your iOS Calendar with SwitchBot Weather Station
 
-You can sync personal calendars from iOS, iCloud, Outlook, and Yahoo to Weather Station using an ICS file format URL. Once the sync is complete, your personal calendar schedule will be viewable on the Weather Station display. Please follow the steps below to obtain the iOS Calendar sharing link and sync it to Weather Station.
-
-Obtaining the URL of an ICS File Format from iOS Calendar
-1. Open the iOS calendar app.  
-2. Tap the "Calendar" icon at the bottom right.  
-3. Tap the "i" icon next to the personal calendar you want to share.  
-4. In the "Edit Calendar" screen, enable the "Public Calendar".  
-5. Tap "Share Link…".
-6. Tap "Copy" in the popup that appears.
-
-<img width="1280" height="913" alt="image" src="https://github.com/user-attachments/assets/528d9ea2-84e5-47c4-93a5-39fe32b959ca" />
-
-Synchronizing the Shared URL with the Weather Station
-1. Make sure your SwitchBot App version is up to date.
-2. Make sure SwitchBot Weather Station has been added to your App and your device firmware version is up to date.
-3. In the SwitchBot app, go to Weather Station → Calendar Settings → Sync, then paste the acquired iCal format private URL and name the calendar.  
-4. Once the setup is complete, the data will be updated automatically. If it has not been updated, you can manually refresh it by pressing the button on the top of the device.
-
-Note:  
-To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in iOS Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
-
-
----
-### How to Sync Your iOS Calendar with SwitchBot Weather Station
-
 You can sync personal calendars from Outlook, iCloud, Outlook, and Yahoo to Weather Station using an ICS file format URL. Once the sync is complete, your personal calendar schedule will be viewable on the Weather Station display. Please follow the steps below to obtain the Outlook Calendar sharing link and sync it to Weather Station.
 
 Obtaining the URL of an ICS File Format from Outlook Calendar
