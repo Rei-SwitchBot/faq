@@ -2384,3 +2384,12 @@ D. Please check if there is any damage to the joint part as shown in the diagram
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bcc6b081-da01-454d-b397-b2f8c0548007" />
 
 
+
+---
+### Troubleshooting: SwitchBot Lock Pro Shakes Considerably During the Locking and Unlocking Process.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Remove the Lock Pro from the door, then pull out the thumb turn holder as demonstrated in the video. Check whether the connecting screw is loose or missing. If the screw is loose, hold the dial knob and tighten it by turning clockwise (to loosen, turn counterclockwise).
+https://drive.google.com/file/d/1H17erY8Aeed3jMXJ6vA-wsSRNeaop76L/view?usp=sharing
+

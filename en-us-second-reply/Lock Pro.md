@@ -797,3 +797,28 @@ If there is no damage to the joint part, but the lock Pro's thumb turn holder is
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
+---
+### Troubleshooting: SwitchBot Lock Pro Shakes Considerably During the Locking and Unlocking Process.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. If the screw in the joint part is intact, please provide the following information to determine whether the Lock Pro needs to be replaced.
+  A. A video of the Lock Pro's lock body shaking during locking and unlocking.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
