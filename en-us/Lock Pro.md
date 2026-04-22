@@ -2378,7 +2378,9 @@ Please follow the steps below to inspect the joint part of the Lock Pro for any 
 A. Remove the Lock Pro main unit from the height adjustment plate.
 B. Pull out the adjustable thumb turn holder from the main unit.
 C. Loosen the screw indicated by the red mark in the diagram below and remove the joint part.
-[image1]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/62d3d3a2-cda4-483d-adbc-6f095eb99721" />
+
 D. Please check if there is any damage to the joint part as shown in the diagram below.
-[image2]
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/bcc6b081-da01-454d-b397-b2f8c0548007" />
+
 
