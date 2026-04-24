@@ -666,3 +666,12 @@ Note:
 https://us.switch-bot.com/pages/switchbot-lock-ultra-compatibility
 2. A specialist will evaluate the information you provided to determine if the Lock Ultra can be installed on your door lock and whether any additional accessories will be required later. We appreciate your patience.
 
+
+---
+### Troubleshooting: When the Door Is Open, SwitchBot Lock Ultra Can Be Controlled Using the Keypad; However, Once the Door Is Closed, the Keypad Cannot Control the Lock Ultra.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
+2. Delete the Lock Ultra from the SwitchBot app and add it again.
+
