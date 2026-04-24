@@ -2406,3 +2406,15 @@ https://support.switch-bot.com/hc/en-us/articles/20338729091223
 4. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
 5. Tap the emergency unlock button in the SwitchBot App under Lock Pro to ensure proper latching.
 
+
+---
+### Troubleshooting: SwitchBot Lock Pro Frequently Enters Emergency Power Mode, Causing the Battery to Drain Quickly.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate your Lock Pro before use.
+2. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
+3. Please confirm if your Lock Pro frequently jams during daily use.
+4. Please confirm whether the door lock is frequently left unlocked. In the unlocked state, Lock Pro will continuously monitor the door's open and closed status, which may drain the battery more quickly and enable easier access to emergency power mode.
+5. After removing and reinserting the batteries, tap on Lock Pro in the SwitchBot app, press the lock and unlock buttons on the control screen to operate Lock Pro, and then please check if the battery level is normal.
+
