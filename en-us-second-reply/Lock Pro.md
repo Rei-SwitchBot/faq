@@ -822,3 +822,15 @@ We apologize for any inconvenience caused.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
+---
+### Troubleshooting: SwitchBot Lock Pro JP Version Gets Jammed Frequently
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+Please tap on Lock Pro in the SwitchBot app, then press the lock and unlock buttons on the operation screen to control Lock Pro. This will allow us to retrieve the latest logs from your Lock Pro.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+

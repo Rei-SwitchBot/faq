@@ -2393,3 +2393,16 @@ Regarding this issue, could you please check the following points?
 Remove the Lock Pro from the door, then pull out the thumb turn holder as demonstrated in the video. Check whether the connecting screw is loose or missing. If the screw is loose, hold the dial knob and tighten it by turning clockwise (to loosen, turn counterclockwise).
 https://drive.google.com/file/d/1H17erY8Aeed3jMXJ6vA-wsSRNeaop76L/view?usp=sharing
 
+
+---
+### Troubleshooting: SwitchBot Lock Pro JP Version Gets Jammed Frequently
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please lock and unlock the front door manually and check that the door lock operates smoothly. If the door lock has become difficult to turn due to wear or other factors, it may also jam when using the Lock Pro. In that case, please apply lubricant to the door lock or consider replacing it altogether.
+2. Please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate your Lock Pro before use.
+3. Please recalibrate your Lock Pro.
+https://support.switch-bot.com/hc/en-us/articles/20338729091223
+4. Please check the battery level of Lock Pro and replace with new batteries if needed, then confirm proper operation.
+5. Tap the emergency unlock button in the SwitchBot App under Lock Pro to ensure proper latching.
+
