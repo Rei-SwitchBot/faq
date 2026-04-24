@@ -839,16 +839,19 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 
 丸形台座玄関錠の対応可否についてご不明な点などがございましたら、ご自宅の玄関錠の写真と必要なサイズ情報をご協力お願いいたします。
 1. つまみの中心からドア枠までの長さは40mm以上であることをご確認ください。40mm以下であると、ロックUltraの取付ができかねます。
-[image1]
+<img width="1145" height="1196" alt="image" src="https://github.com/user-attachments/assets/c9532346-7d7f-4aa3-9067-3bffbc62732b" />
+
 2. 十分な取り付けスペースがあるかご確認ください。スペースが足りない場合、ロックUltraの取付ができかねます。
-[image2]
+<img width="605" height="407" alt="image" src="https://github.com/user-attachments/assets/c0bb2f21-6b7f-47a3-b7cc-e4a1506333f4" />
+
 3. 以下のサイズをご確認ください。下記五つのサイズのいずれかが範囲を超える場合、ロックUltraの取付ができかねます。
 - A つまみの厚さ：＜23mm
 - B つまみの長さ：＜74mm
 - C 台座の直径：＜74mm
 - G 台座の高さ：＜48mm
 - F つまみの頂点からドア枠までの高さ：＜92mm
-[image3]
+<img width="1280" height="941" alt="image" src="https://github.com/user-attachments/assets/846c3327-c1df-40cf-9cf4-44f059bf9c0b" />
+
 4. 担当者が後ほど、ご協力いただいた内容に基づいて取り付け可能かどうか、また別途パーツが必要かを判断いたしますので、少々お待ちください。
 5. ロックUltraをご購入前の確認事項は下記のリンクにてご確認いただけます。
 https://support.switch-bot.com/hc/ja/articles/32707379047703
@@ -858,9 +861,11 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 
 箱錠玄関錠の対応可否についてご不明な点などがございましたら、ご自宅の玄関錠の写真と必要なサイズ情報をご協力お願いいたします。
 1. つまみの中心からドア枠までの長さは40mm以上であることをご確認ください。40mm以下であると、ロックUltraの取付ができかねます。
-[image1]
+<img width="1145" height="1196" alt="image" src="https://github.com/user-attachments/assets/8310e7da-c3c7-4a96-abf0-51f146cbdf27" />
+
 2. 十分な取り付けスペースがあるかご確認ください。スペースが足りない場合、ロックUltraの取付ができかねます。
-[image2]
+<img width="589" height="446" alt="image" src="https://github.com/user-attachments/assets/be84d71c-68be-4e65-850d-7e85aa440f14" />
+
 3. 以下を採寸してください。MとNのサイズは37mmを超えると、ロックUltraの取付ができかねます。
 - A つまみの厚さ
 - B つまみの長さ
@@ -868,8 +873,10 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 - E つまみの高さ
 - M つまみの中心から台座の端までの距離
 - N つまみの中心から台座の端までの距離
-[image3]
-[image4]
+<img width="1085" height="804" alt="image" src="https://github.com/user-attachments/assets/fa9a93d9-205d-482b-8cdd-02477ce94028" />
+
+<img width="1197" height="804" alt="image" src="https://github.com/user-attachments/assets/89b06ace-a370-4818-af23-cfccc25db8a1" />
+
 4. 担当者が後ほど、ご協力いただいた内容に基づいて取り付け可能かどうか、また別途パーツが必要かを判断いたしますので、少々お待ちください。
 5. ロックUltraをご購入前の確認事項は下記のリンクにてご確認いただけます。
 https://support.switch-bot.com/hc/ja/articles/32707379047703
@@ -879,9 +886,11 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 
 プッシュプル錠玄関錠の対応可否についてご不明な点などがございましたら、ご自宅の玄関錠の写真と必要なサイズ情報をご協力お願いいたします。
 1. つまみの中心からドア枠までの長さは40mm以上であることをご確認ください。40mm以下であると、ロックUltraの取付ができかねます。
-[image1]
+<img width="1145" height="1196" alt="image" src="https://github.com/user-attachments/assets/42252570-b4eb-4b3e-be8f-e3c426a6cddb" />
+
 2. 十分な取り付けスペースがあるかご確認ください。スペースが足りない場合、ロックUltraの取付ができかねます。
-[image2]
+<img width="700" height="466" alt="image" src="https://github.com/user-attachments/assets/f151f5f6-ca39-4ca9-8035-1b1935f53593" />
+
 3. 以下を採寸してください。MとNのサイズは37mmを超えると、ロックUltraの取付ができかねます。
 - A つまみの厚さ
 - B つまみの長さ
@@ -890,8 +899,10 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 - M つまみの中心から台座の端までの距離
 - N つまみの中心から台座の端までの距離
 - H ハンドルの最上部（または最下部）からドアまでの距離
-[image3]
-[image4]
+<img width="1085" height="804" alt="image" src="https://github.com/user-attachments/assets/5ea2fdd8-411d-4b17-bbad-7fc7314b016e" />
+
+<img width="1197" height="804" alt="image" src="https://github.com/user-attachments/assets/ab83ac6e-6206-409a-b097-350da47ee726" />
+
 4. 担当者が後ほど、ご協力いただいた内容に基づいて取り付け可能かどうか、また別途パーツが必要かを判断いたしますので、少々お待ちください。
 5. ロックUltraをご購入前の確認事項は下記のリンクにてご確認いただけます。
 https://support.switch-bot.com/hc/ja/articles/32707379047703
