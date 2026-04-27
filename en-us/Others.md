@@ -2201,9 +2201,7 @@ SwitchBot App Version: 8.6.1 or newer
 
 3. Make sure you have linked your SwitchBot App account to your SwitchBot account on the official website. If you have already linked your account, you can check your current points by going to the SwitchBot App -> Store -> account icon in the upper right corner.
 
-4. Except for special promotions, the maximum amount of discount when using SwitchBot Points that can be applied to an order is 50% of the total order amount. The maximum number of redeemable points is 200 points. 200 points gives a discount of $20.
-
-5. Please refer to our
+4. Please refer to our
 
 [official website](https://www.switch-bot.com/pages/switchbot-points)
 
