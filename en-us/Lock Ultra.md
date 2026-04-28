@@ -675,3 +675,13 @@ Regarding this issue, could you please check the following points?
 1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
 2. Delete the Lock Ultra from the SwitchBot app and add it again.
 
+
+---
+### Is It Possible to Keep SwitchBot Lock Ultra Unlocked During the Day and Then Lock It at Night?
+
+Yes, you can achieve this by using the night mode on the Lock Ultra. To enable night mode, go to the SwitchBot app, select Lock Ultra, tap the gear icon, then choose Night Mode. From there, you can set the duration and activate the auto-lock feature.
+[image1]
+
+Note:
+When used alongside hub products, the Lock Ultra will alert you with a warning sound from the device and a push notification from the app if it detects that the door is "unlocked" or "open". If you do not need these notifications, please turn them off.
+Please note that when unlocked, the Lock Ultra continuously monitors the door's open and close status, which may result in faster battery consumption. Thank you for your understanding.
