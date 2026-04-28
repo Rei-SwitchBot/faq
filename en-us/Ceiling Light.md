@@ -833,3 +833,12 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ### Troubleshooting: The Mounting Plate Cannot Be Installed on SwitchBot Ceiling Light Pro.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.\nRegarding this issue, could you please check the following points?\nPlease refer to the link below for instructions on how to install the Ceiling Light Pro mounting plate.\nhttps://support.switch-bot.com/hc/ja/articles/27399457855639\nWe would like to thoroughly determine whether the issue stems from the mounting method, the plate, or the light fixture itself. Please provide photos or videos showing how the Ceiling Light Pro mounting plate fails to fit properly.
+
+---
+### Can the Infrared Remotes Under the Hub in SwitchBot Home A Be Transferred to the Hub in SwitchBot Home B?
+
+Within the same Home, you can transfer learned IR remotes from one Hub to another. However, please note that IR remotes cannot be transferred across different Homes.
+As a temporary solution, you can try the following steps:
+- Navigate to the SwitchBot app, select the Hub, and tap the gear icon for Settings. Tap Device Info at the top, select Home, and temporarily move the Hub into the same Home as the other device.
+- Once both Hubs are in the same Home, you can proceed with transferring or copying the IR remotes.
+- After the operation is complete, simply follow these same steps to move the Hub back to its original Home.
