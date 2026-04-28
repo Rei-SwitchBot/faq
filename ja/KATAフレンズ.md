@@ -303,6 +303,11 @@ SwitchBot指定の洗浄液以外は使用しないでください。
 
 柔らかくて、乾いた布で落下防止センサーや障害物回避センサーを拭いてください。  
 綿棒を使ってレーダーの表面を優しく拭いてください。
+<img width="458" height="365" alt="image" src="https://github.com/user-attachments/assets/aee92790-c329-46bd-8ea2-e0b4a088239d" />
+
+<img width="729" height="488" alt="image" src="https://github.com/user-attachments/assets/376f827b-7e2d-4215-9507-5052bea9708b" />
+
+
 
 
 ---
