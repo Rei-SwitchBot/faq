@@ -285,6 +285,12 @@ When the screen of the eye becomes dirty, please gently wipe it with a soft, dry
 Please wipe the cliff sensor and obstacle avoidance sensor with a soft, dry cloth.
 Use a cotton swab to gently clean the surface of the radar.
 
+<img width="455" height="378" alt="image" src="https://github.com/user-attachments/assets/8de21b6e-0e4e-486c-acd9-673d2211f213" />
+
+<img width="729" height="487" alt="image" src="https://github.com/user-attachments/assets/324ea1da-0098-41f9-bb47-0eabe043ceea" />
+
+
+
 
 ---
 ### How to Maintain the Fur of SwitchBot KATA Friends
