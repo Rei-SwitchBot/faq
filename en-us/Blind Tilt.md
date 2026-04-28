@@ -757,6 +757,8 @@ To integrate the Blind Tilt with Home Assistant, you can use either SwitchBot Bl
 ### How Much Space Is Needed to Install SwitchBot Blind Tilt on Blinds with Decorative Covers?
 
 1. To install SwitchBot Blind Tilt, a gap of 3 cm is required between the decorative cover plate and the blinds.
-[image1]
+<img width="389" height="330" alt="image" src="https://github.com/user-attachments/assets/34109ea3-bee6-4a59-9cbc-83d19af3f248" />
+
 2. Please remove the decorative cover before installing the SwitchBot Blind Tilt. In the unlikely event that the decorative cover cannot be reattached due to interference with the base cover (the parts outlined in red in the figure below), you may remove the base cover and choose not to install it.
-[image2]
+<img width="651" height="736" alt="image" src="https://github.com/user-attachments/assets/19ddd949-04f9-4049-ad82-d2d029820c2c" />
+
