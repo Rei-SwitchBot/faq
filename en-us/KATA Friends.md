@@ -991,3 +991,26 @@ The metal part in the center of the casters is coated with lubricant. This is to
 Lubricating oil is typically applied to metal shafts. If it is accidentally wiped off, please use a silicone-based lubricant instead of liquid oil.
 
 Video: https://www.youtube.com/watch?v=xOz77mGlEUk
+
+---
+### Troubleshooting: SwitchBot KATA Friends Are Circling Around in the Same Place.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Check for any foreign objects in the main wheels of the KATA friends. If needed, clean the main wheels by hand.
+3. Restart the power of KATA friends.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Suddenly Stopped and Stepped Back for No Apparent Reason While Walking Home.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Gently wipe the KATA Friends' sensors with a soft cloth.
+[image1]
+3. Check for any interference caused by strong light.
+4. Make sure that the hair of your family members or your KATA friends does not block the radar sensor area. If, as shown in the left image of the diagram below, the tips of the hair are obstructing the radar sensor, please trim the hair slightly or gather it up.
+[image2]
+5. Check if any clothing or accessories are obstructing the sensors.
+6. Restart the power on the KATA Friends.
