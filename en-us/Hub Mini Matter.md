@@ -780,3 +780,12 @@ Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
 Note:
 The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Can the Infrared Remotes Under the Hub in SwitchBot Home A Be Transferred to the Hub in SwitchBot Home B?
+
+Within the same Home, you can transfer learned IR remotes from one Hub to another. However, please note that IR remotes cannot be transferred across different Homes.
+As a temporary solution, you can try the following steps:
+- Navigate to the SwitchBot app, select the Hub, and tap the gear icon for Settings. Tap Device Info at the top, select Home, and temporarily move the Hub into the same Home as the other device.
+- Once both Hubs are in the same Home, you can proceed with transferring or copying the IR remotes.
+- After the operation is complete, simply follow these same steps to move the Hub back to its original Home.
