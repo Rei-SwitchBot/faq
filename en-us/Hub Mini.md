@@ -2528,3 +2528,72 @@ This method creates a duplicate of the original infrared remote control. The old
 
 Note:
 The infrared remote for hub products within the same home can be migrated and copied. If the hub belongs to a different home, please first move the hub to the same home before migrating the infrared remote control.
+
+---
+### Can the Infrared Remotes Under the Hub in SwitchBot Home A Be Transferred to the Hub in SwitchBot Home B?
+
+Within the same Home, you can transfer learned IR remotes from one Hub to another. However, please note that IR remotes cannot be transferred across different Homes.
+As a temporary solution, you can try the following steps:
+- Navigate to the SwitchBot app, select the Hub, and tap the gear icon for Settings. Tap Device Info at the top, select Home, and temporarily move the Hub into the same Home as the other device.
+- Once both Hubs are in the same Home, you can proceed with transferring or copying the IR remotes.
+- After the operation is complete, simply follow these same steps to move the Hub back to its original Home.
+
+---
+### How to Connect SwitchBot Hub Mini to the Amazon Alexa App
+
+1. Please note that the Hub Mini itself cannot be operated through applications such as Alexa or Google Assistant, so it will not appear as a device in the Amazon Alexa app or Google Home app. Thank you for your understanding.
+2. Infrared remote controls added on the Hub Mini through Smart Matching/Select Manually/Learn Buttons can be voice-controlled via Alexa or Google Assistant. We will guide you on how to integrate them with the Alexa app.
+
+A. Add the infrared remotes with the Hub Mini.
+Methods for Adding IR Remotes: https://support.switch-bot.com/hc/en-us/articles/360038240833
+
+B. Method 1 Please follow the steps below to integrate via the Alexa App.
+- Launch the Alexa App and log in.
+- Tap "More" located at the bottom right corner.
+- Tap "Skills & Games" in the middle right of the screen.
+- Enter "SwitchBot" in the search field with the magnifying glass icon and search.
+- Tap "SwitchBot Smart" that appears.
+- Tap "Enable to Use".
+- The screen will automatically switch to the SwitchBot App. If you are already logged in, tap "Connect" that appears (if you are not logged in to the SwitchBot App, log in first and then proceed with the linking).
+- Wait for the status to change from "Account Linking" to "Your SwitchBot Smart account has been successfully linked".
+- Tap "Close".
+- The Alexa App will automatically detect and synchronize with the connected devices.
+
+Method 2
+Please follow the steps below to integrate via the SwitchBot App.
+- Launch the SwitchBot App and log in.
+- Tap on an added infrared remote or a device other than the Hub Mini in your account.
+- Tap the gear icon in the top right corner.
+- In the Settings screen, tap on "Third-party Services".
+- Tap Amazon Alexa.
+- Tap "Connect".
+- Enter your Amazon Alexa App login ID and password.
+- The link will be automatically established.
+
+---
+### How to Connect SwitchBot Hub Mini to the Google Home App
+
+1. Please note that the Hub Mini itself cannot be operated through applications such as Alexa or Google Assistant, so it will not appear as a device in the Amazon Alexa app or Google Home app. Thank you for your understanding.
+2. Infrared remote controls added on the Hub Mini through Smart Matching/Select Manually/Learn Buttons can be voice-controlled via Alexa or Google Assistant. We will guide you on how to integrate them with the Google Home app.
+
+A. Add the infrared remotes with the Hub Mini.
+Methods for Adding IR Remotes: https://support.switch-bot.com/hc/en-us/articles/360038240833
+
+B. Method 1 Link your SwitchBot account via Google Home app.
+- Open Google Home.
+- Select "Device" at the bottom of the menu.
+- Tap "Add device".
+- Tap on "Works with Google Home".
+- Type in and search for "SwitchBot".
+- Select "Switchbot Smart" from the add new services.
+- Enter your SwitchBot app account and password.
+
+C. Method 2 Please follow the steps below to integrate via the SwitchBot App.
+- Launch the SwitchBot App and log in.
+- Tap on an added infrared remote or a device other than the Hub Mini in your account.
+- Tap the gear icon in the top right corner.
+- In the Settings screen, tap on "Third-party Services".
+- Tap Google Assistant.
+- Tap "Connect".
+- Enter your Google Home App login ID and password.
+- The link will be automatically established.
