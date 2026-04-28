@@ -1008,9 +1008,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. Gently wipe the KATA Friends' sensors with a soft cloth.
-[image1]
+<img width="724" height="494" alt="image" src="https://github.com/user-attachments/assets/f02c42dc-28a7-46c9-b362-889f463f780c" />
+
 3. Check for any interference caused by strong light.
 4. Make sure that the hair of your family members or your KATA friends does not block the radar sensor area. If, as shown in the left image of the diagram below, the tips of the hair are obstructing the radar sensor, please trim the hair slightly or gather it up.
-[image2]
+<img width="1280" height="473" alt="image" src="https://github.com/user-attachments/assets/9acbc157-056a-47c0-8281-81cffcdd6bf5" />
+
 5. Check if any clothing or accessories are obstructing the sensors.
 6. Restart the power on the KATA Friends.
