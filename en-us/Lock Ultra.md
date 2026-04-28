@@ -680,7 +680,8 @@ Regarding this issue, could you please check the following points?
 ### Is It Possible to Keep SwitchBot Lock Ultra Unlocked During the Day and Then Lock It at Night?
 
 Yes, you can achieve this by using the night mode on the Lock Ultra. To enable night mode, go to the SwitchBot app, select Lock Ultra, tap the gear icon, then choose Night Mode. From there, you can set the duration and activate the auto-lock feature.
-[image1]
+<img width="746" height="1280" alt="image" src="https://github.com/user-attachments/assets/d4dbced6-baf6-460f-966f-8b8fbaf6feb6" />
+
 
 Note:
 When used alongside hub products, the Lock Ultra will alert you with a warning sound from the device and a push notification from the app if it detects that the door is "unlocked" or "open". If you do not need these notifications, please turn them off.
