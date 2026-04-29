@@ -665,3 +665,12 @@ Yes, you can achieve this by using the night mode on the Lock Ultra. To enable n
 Note:
 When used alongside hub products, the Lock Ultra will alert you with a warning sound from the device and a push notification from the app if it detects that the door is "unlocked" or "open". If you do not need these notifications, please turn them off.
 Please note that when unlocked, the Lock Ultra continuously monitors the door's open and close status, which may result in faster battery consumption. Thank you for your understanding.
+
+---
+### Troubleshooting: During Calibration, SwitchBot Lock Ultra Became Jammed, Preventing the Completion of the Test.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Verify if the dial knob turns smoothly when locked and unlocked manually.
+2. Please let us know how often the Ultra lock gets stuck during regular use.
+3. The emergency unlock feature can be used even if the lock product is uncalibrated. Simply tap on Lock Ultra in the SwitchBot app and use the emergency unlock function to verify whether Lock Ultra can rotate.
