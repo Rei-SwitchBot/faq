@@ -661,10 +661,10 @@ Regarding this issue, could you please check the following points?
 Yes, you can achieve this by using the night mode on the Lock Ultra. To enable night mode, go to the SwitchBot app, select Lock Ultra, tap the gear icon, then choose Night Mode. From there, you can set the duration and activate the auto-lock feature.
 <img width="746" height="1280" alt="image" src="https://github.com/user-attachments/assets/d4dbced6-baf6-460f-966f-8b8fbaf6feb6" />
 
-
 Note:
 When used alongside hub products, the Lock Ultra will alert you with a warning sound from the device and a push notification from the app if it detects that the door is "unlocked" or "open". If you do not need these notifications, please turn them off.
 Please note that when unlocked, the Lock Ultra continuously monitors the door's open and close status, which may result in faster battery consumption. Thank you for your understanding.
+
 
 ---
 ### Troubleshooting: During Calibration, SwitchBot Lock Ultra Became Jammed, Preventing the Completion of the Test.
@@ -674,3 +674,12 @@ Regarding this issue, could you please check the following points?
 1. Verify if the dial knob turns smoothly when locked and unlocked manually.
 2. Please let us know how often the Ultra lock gets stuck during regular use.
 3. The emergency unlock feature can be used even if the lock product is uncalibrated. Simply tap on Lock Ultra in the SwitchBot app and use the emergency unlock function to verify whether Lock Ultra can rotate.
+
+
+---
+### Troubleshooting When the Door Is Open, SwitchBot Lock Ultra Can Be Controlled Using the Keypad; However, Once the Door Is Closed, the Keypad Cannot Control the Lock Ultra.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
+2. Delete the Lock Ultra from the SwitchBot app and add it again.
