@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Lock Ultra
 
@@ -191,28 +191,13 @@ We will forward your feedback to our R&D team for further investigation, and wou
 ---
 ### Troubleshooting When Setting Two Lock Ultra Units to Dual-Lock, It Failed to Start and Couldn't Be Configured.
 
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced, could you kindly provide the following information?
-  1. A screenshot showing the Bluetooth signal in the top right corner of the Lock Ultra operation screen
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Error screenshot or video of failed setup for dual-lock
 
-2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 ---
 ### Troubleshooting After Using SwitchBot Lock Ultra for a Period of Time, the Locking and Unlocking Positions Have Shifted.
 
@@ -310,11 +295,10 @@ We apologize for any inconvenience and appreciate your understanding. If you hav
 Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A video demonstrating not being able to configure dual-lock
+- Error screenshot or video of failed setup for dual-lock
 
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
 ---
 ### Troubleshooting Unable to Connect SwitchBot Lock Ultra via Bluetooth Using the App Even Standing Next to the Door
 
