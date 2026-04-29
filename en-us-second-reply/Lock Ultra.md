@@ -383,3 +383,15 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 ***If the lock Ultra can be rotated through emergency unlock, we will escalate this matter to our R&D team for investigation. We appreciate your patience and understanding!***
+
+
+---
+### Troubleshooting When the Door Is Open, SwitchBot Lock Ultra Can Be Controlled Using the Keypad; However, Once the Door Is Closed, the Keypad Cannot Control the Lock Ultra.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+*To assist us in reviewing the latest operation log, please open the SwitchBot app, select Lock Ultra, perform a locking and unlocking action on the operation screen (even if the operation fails), and then submit your feedback.
