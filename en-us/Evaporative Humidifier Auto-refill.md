@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Evaporative Humidifier Auto-refill
 
@@ -38,11 +38,11 @@ SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidifier (Auto-refill)
 
 SwitchBot App Version: 7.10 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 The Care and Maintenance guide for the SwitchBot Evaporative Humidifier can be checked at any time via the SwitchBot App.
 
@@ -56,7 +56,7 @@ Follow the instructions in the App for regular maintenance.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002129626135)
 
-Note: The care indicator on the device body of the SwitchBot Evaporative Humidifier will automatically light up after approximately 240 hours of use of the filter. After cleaning the filter, such as by washing it with water, please reset the usage time in the SwitchBot App → SwitchBot Evaporative Humidifier → Care and Maintenance→ Filter.
+Note: The care indicator on the device body of the SwitchBot Evaporative Humidifier will automatically light up after approximately 240 hours of use of the filter. After cleaning the filter, such as by washing it with water, please reset the usage time in the SwitchBot App 鈫?SwitchBot Evaporative Humidifier 鈫?Care and Maintenance鈫?Filter.
 
 
 
@@ -73,13 +73,13 @@ Setting the Child Lock
 
 Method 1: Press and hold the mode switch button on the control panel for 3 seconds. A beep sound will indicate that the child lock has been activated.
 
-Method 2: Go to SwitchBot App → SwitchBot Evaporative Humidifier → Child Lock → Enable.
+Method 2: Go to SwitchBot App 鈫?SwitchBot Evaporative Humidifier 鈫?Child Lock 鈫?Enable.
 
 Disabling the Child Lock
 
 Method 1: Press and hold the mode switch button on the control panel for 3 seconds. A beep sound will indicate that the child lock has been deactivated.
 
-Method 2: Go to SwitchBot App → SwitchBot Evaporative Humidifier → Child Lock → Disable.
+Method 2: Go to SwitchBot App 鈫?SwitchBot Evaporative Humidifier 鈫?Child Lock 鈫?Disable.
 
 Note: Activating the child lock will disable the operation of the buttons on the device.
 
@@ -109,11 +109,11 @@ Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidi
 
 SwitchBot App Version: 7.10 or newer
 
-1． Whether through the SwitchBot App, the control panel on the device itself, or by executing automation or schedules, once a humidifying task is completed, the SwitchBot Evaporative Humidifier automatically activates its filter dry function. In the SwitchBot App, the drying time is counted down from 70 minutes, but pressing the stop button will terminate the automatically initiated drying process (it can also be stopped by pressing the operation on/off button on the control panel).
+1锛?Whether through the SwitchBot App, the control panel on the device itself, or by executing automation or schedules, once a humidifying task is completed, the SwitchBot Evaporative Humidifier automatically activates its filter dry function. In the SwitchBot App, the drying time is counted down from 70 minutes, but pressing the stop button will terminate the automatically initiated drying process (it can also be stopped by pressing the operation on/off button on the control panel).
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999628615831)
 
-2． If you do not wish the filter to be automatically dried after every humidifying task, you can disable this setting by going to SwitchBot App → SwitchBot Evaporative Humidifier → Gear Icon → Filter Dry Setting. If you prefer, you can manually use this function by following SwitchBot App → SwitchBot Evaporative Humidifier → Filter Dry Settings → Start.
+2锛?If you do not wish the filter to be automatically dried after every humidifying task, you can disable this setting by going to SwitchBot App 鈫?SwitchBot Evaporative Humidifier 鈫?Gear Icon 鈫?Filter Dry Setting. If you prefer, you can manually use this function by following SwitchBot App 鈫?SwitchBot Evaporative Humidifier 鈫?Filter Dry Settings 鈫?Start.
 
 Note: It is not recommended to disable the Filter Dry function, as mold and bacteria may proliferate.
 
@@ -143,17 +143,17 @@ Last Updated: 2024 Jan 15
 
 Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidifier (Auto-refill)
 
-1． Open the lid of the water tank.
+1锛?Open the lid of the water tank.
 
-2． Remove the water tank.
+2锛?Remove the water tank.
 
-3． Remove the pre-filter (located on the side).
+3锛?Remove the pre-filter (located on the side).
 
-4． Pull out the tray and dispose of the old water.
+4锛?Pull out the tray and dispose of the old water.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/26002234369303)
 
-Note：
+Note锛?
 
 Do not lift the main body of the SwitchBot Evaporative Humidifier/Evaporative Humidifier (Auto-refill) to drain it directly.
 
@@ -219,13 +219,13 @@ Last Updated: 2024 Jan 12
 
 Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidifier (Auto-refill)
 
-1． Open the lid of the water tank.
+1锛?Open the lid of the water tank.
 
-2.  The inside of the tank is designed to be easily lifted with your hands. As shown in the diagram, please lift it straight up to remove it.
+2.聽 The inside of the tank is designed to be easily lifted with your hands. As shown in the diagram, please lift it straight up to remove it.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999628590999)
 
-Note： Avoid removing the tank by grasping it at both ends.
+Note锛?Avoid removing the tank by grasping it at both ends.
 
 
 
@@ -249,15 +249,15 @@ Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidi
 
 SwitchBot App Version: 9.1 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 To use the Over-Humidity Protection function of the SwitchBot Evaporative Humidifier, it is essential to use it in conjunction with a SwitchBot Meter, SwitchBot Meter Plus, SwitchBot Outdoor Meter, SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor), or SwitchBot Hub 2.
 
-3．
+3锛?
 
 We will guide you on how to enable the Over-Humidity Protection function.
 
@@ -275,7 +275,7 @@ A message stating "Paired successfully" will appear.
 
 Note: Only one SwitchBot Meter device can be registered to one SwitchBot Evaporative Humidifier.
 
-4．
+4锛?
 
 After pairing, the operation screen of the SwitchBot Evaporative Humidifier will display the comfort level of humidity. You will also be able to use the "Auto" and "Humidity" modes. Moreover, the SwitchBot Evaporative Humidifier will automatically stop operating two minutes after reaching the set target humidity level.
 
@@ -290,11 +290,11 @@ Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidi
 
 SwitchBot App Version: 7.10 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Here are the instructions for setting a schedule:
 
@@ -310,11 +310,11 @@ Set the time, repeat interval, execution action, and mode.
 
 Tap "Save".
 
-3． The SwitchBot Evaporative Humidifier can have up to five schedules set. If you wish to have more than five schedules, please utilize the automation function of the SwitchBot App.
+3锛?The SwitchBot Evaporative Humidifier can have up to five schedules set. If you wish to have more than five schedules, please utilize the automation function of the SwitchBot App.
 
 *
 
-Related Post：[How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
+Related Post锛歔How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
 
 
 
@@ -329,11 +329,11 @@ Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidi
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Make sure
 
@@ -341,7 +341,7 @@ SwitchBot Evaporative Humidifier/ Evaporative Humidifier (Auto-refill)
 
 has been added to your App.
 
-3．
+3锛?
 
 Method 1: Please follow the steps below to integrate via the Alexa App.
 
@@ -365,7 +365,7 @@ Tap "Close".
 
 The Alexa App will automatically detect and synchronize with the connected devices.
 
-4．
+4锛?
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -403,15 +403,15 @@ SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidifier (Auto-refill)
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Make sure SwitchBot Evaporative Humidifier/ Evaporative Humidifier (Auto-refill) has been added to your App.
 
-3． Method 1: Please follow the steps below to integrate via the Google Home App.
+3锛?Method 1: Please follow the steps below to integrate via the Google Home App.
 
 Tap the Google Home App.
 
@@ -427,7 +427,7 @@ Tap continue and then log in to your SwitchBot account in the browser.
 
 The link will be completed.
 
-4．
+4锛?
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -463,15 +463,15 @@ Related Products: SwitchBot Evaporative Humidifier, SwitchBot Evaporative Humidi
 
 SwitchBot App Version: 7.10 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Turn on the power of the SwitchBot Evaporative Humidifier.
 
-3．
+3锛?
 
 Follow the steps below to set up your SwitchBot Evaporative Humidifier.
 
@@ -501,7 +501,7 @@ Related Products: SwitchBot Floor Cleaning Robot S10, SwitchBot Evaporative Humi
 
 SwitchBot App Version: 9.2 or newer
 
-SwitchBot Floor Cleaning Robot S10’s internal water tank holds about 250 ml, while the Evaporative Humidifier Auto-refill’s tank capacity is approximately 4.5 liters. In testing, if the S10 operates without interruptions or other task interference, it typically requires around
+SwitchBot Floor Cleaning Robot S10鈥檚 internal water tank holds about 250 ml, while the Evaporative Humidifier Auto-refill鈥檚 tank capacity is approximately 4.5 liters. In testing, if the S10 operates without interruptions or other task interference, it typically requires around
 
 23 trips
 
@@ -568,7 +568,7 @@ Product state when the leakage occurred (standby or operating)
 Method of adding water (lifting the tank to refill or adding water directly from the top)
 Whether water remains inside the water tank
 Photos of the leakage around the machine when it occurred
-A photo of the tray’s serial number (located on the bottom right of the tray)
+A photo of the tray鈥檚 serial number (located on the bottom right of the tray)
 ![image](https://github.com/user-attachments/assets/9d6ce3a5-93a2-48b9-b708-ae866dd39ace)
 
 ---
@@ -587,24 +587,9 @@ Orange Light (Solid): A SwitchBot Meter Series device is paired to the Evaporati
 ---
 ### Troubleshooting SwitchBot Evaporative Humidifier Won't Turn on
 
-We're sorry to hear that you're having trouble with your SwitchBot Evaporative Humidifier not powering on. If the device isn't responding when you press the button, here's what we recommend:
-1. Try a Different Outlet
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 Please check if the issue persists by plugging the humidifier into another power outlet. Sometimes, the issue may be with the outlet itself.
-2. Record a Video
-If the device still doesn't power on after trying a different outlet, we kindly ask that you provide us with a short video showing the issue. This will help our team better understand the problem and assist you more efficiently.
-If it's determined that there's a defect with your humidifier, we’ll gladly provide a replacement within the warranty period. To expedite the process, please provide the following details:
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting Unable to Update the Firmware on SwitchBot Evaporative Humidifier
@@ -614,13 +599,13 @@ If you have already provided this information, our team will review it and follo
 3. Restart your smartphone.
 4. Restart your Wi-Fi router.
 5. If you have another smartphone available, try updating the firmware using that phone.
-6. Check if the device firmware can be updated using your smartphone’s tethering (hotspot) connection.
+6. Check if the device firmware can be updated using your smartphone鈥檚 tethering (hotspot) connection.
 
 
 ---
 ### Troubleshooting There Is A Lot of Mold on the Fan Propeller of My Evaporative Humidifier
 
-We’re sorry to hear about this issue. The fan inside the Evaporative Humidifier, also known as the propeller, is non-removable and difficult to clean manually. However, we’d like to assist you in resolving this matter as quickly as possible.
+We鈥檙e sorry to hear about this issue. The fan inside the Evaporative Humidifier, also known as the propeller, is non-removable and difficult to clean manually. However, we鈥檇 like to assist you in resolving this matter as quickly as possible.
 
 If you have a long, narrow brush (like the brush included in our S10), you can gently insert the brush into the fan area to clean it as thoroughly as possible. This method may help remove dust or debris within reach. If you do not have a suitable brush, we can arrange to send you one free of charge. To expedite the process, kindly share the following details:
 - Purchase channel
@@ -641,9 +626,9 @@ We deeply regret any inconvenience this may have caused and appreciate your unde
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
-### Troubleshooting SwitchBot Evaporative Humidifier Won’t Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
+### Troubleshooting SwitchBot Evaporative Humidifier Won鈥檛 Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
 
-We’re sorry to hear that your Evaporative Humidifier isn’t detecting the installed filter, preventing it from starting. This issue is likely related to the magnetic sensor in the filter frame. Please follow the steps below to diagnose the problem.
+We鈥檙e sorry to hear that your Evaporative Humidifier isn鈥檛 detecting the installed filter, preventing it from starting. This issue is likely related to the magnetic sensor in the filter frame. Please follow the steps below to diagnose the problem.
 Check the Magnetic Sensor in the Filter Frame:
 The filter frame has a built-in magnet that helps the humidifier detect whether the filter is installed. To check if the magnet is functioning:
 - Remove the filter frame from the humidifier.
@@ -689,30 +674,12 @@ If cleaning with a brush does not resolve the issue, we kindly ask you to provid
 ---
 ### Troubleshooting the Fan on SwitchBot Evaporative Humidifier Suddenly Stops Spinning
 
-Thank you for reaching out to us regarding the issue with your Evaporative Humidifier (Auto-refill). We sincerely apologize for the inconvenience this has caused.
-After reviewing similar cases, we’ve found that the fan stopping is often caused by small foreign objects becoming lodged inside the unit. To resolve this, we recommend the following steps:
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
 1. Remove the water tank and gently shake the humidifier in all directions (up, down, left, and right) to dislodge any objects that may be obstructing the fan.
-![image](https://github.com/user-attachments/assets/a25dfed1-bb6f-49e0-959c-de94bd422da2)
-
-3. Once done, reassemble the unit and check if the fan resumes normal operation.
-4. If the issue persists after trying the above steps, our support team will assess whether a device replacement is necessary. To assist us in evaluating the situation, please provide a short video showing the following:
-- Place a tissue paper over the humidifier’s air outlet.
-- Switch between operating modes to demonstrate whether the airflow changes.
-
-Also, to expedite the process, kindly share the following details:
-- A video of resetting the humidifier
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+[image1]
+2. Please plug the humidifier into a different outlet and check if it operates normally.
+3. Change the operating mode of the humidifier and check for any changes in airflow. If you notice a significant difference in airflow based on the mode, the device is functioning properly and may temporarily stop to ensure humidity protection.
 
 ---
 ### How to Reset SwitchBot Evaporative Humidifier
@@ -835,7 +802,7 @@ Video: [https://drive.google.com/file/d/1ZcmzBf3dMxO3rLpszlXL-MXbZmvNsLYZ/view?u
 
 
 ---
-### Troubleshooting SwitchBot Evaporative Humidifier Won’t Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
+### Troubleshooting SwitchBot Evaporative Humidifier Won鈥檛 Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
@@ -874,7 +841,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, we sincerely apologize for the confusion caused by our outdated website materials, and truly appreciate you bringing this to our attention.
-Please be assured that all currently produced units feature the same purple water tank as the one you received. The color is a normal part of the current product design and does not affect the device’s performance or safety in any way. Your humidifier is functioning exactly as intended.
+Please be assured that all currently produced units feature the same purple water tank as the one you received. The color is a normal part of the current product design and does not affect the device鈥檚 performance or safety in any way. Your humidifier is functioning exactly as intended.
 We have already relayed your feedback to our web team so that the product visuals can be updated as soon as possible. Thank you again for helping us improve.
 If you have any further questions, please feel free to reach out.
 
@@ -921,3 +888,13 @@ Important Note:
 Please add your Matter-compatible hub to the Apple Home app in advance.
 Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
 
+
+---
+### Troubleshooting: No Airflow Is Coming From the Outlet of SwitchBot Evaporative Humidifier
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if the filter of the humidifier is wet. If water is not reaching the filter, please follow the troubleshooting steps in the link below.
+https://support.switch-bot.com/hc/en-us/articles/40064668872087
+2. Please check if the fan of the humidifier is running. If the fan is not running, please follow the troubleshooting steps in the link below.
+https://support.switch-bot.com/hc/en-us/articles/40064668872087
