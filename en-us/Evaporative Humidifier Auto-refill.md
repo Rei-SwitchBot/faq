@@ -677,7 +677,8 @@ If cleaning with a brush does not resolve the issue, we kindly ask you to provid
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Remove the water tank and gently shake the humidifier in all directions (up, down, left, and right) to dislodge any objects that may be obstructing the fan.
-[image1]
+<img width="1128" height="945" alt="image" src="https://github.com/user-attachments/assets/b25bd901-8f4b-4df2-a2d3-9a7c68c15c98" />
+
 2. Please plug the humidifier into a different outlet and check if it operates normally.
 3. Change the operating mode of the humidifier and check for any changes in airflow. If you notice a significant difference in airflow based on the mode, the device is functioning properly and may temporarily stop to ensure humidity protection.
 
