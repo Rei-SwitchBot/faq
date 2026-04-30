@@ -37,16 +37,6 @@ https://calendar.yahoo.com/ev7ficfcyxjb233mebtjodzccoxm3rtkp4z443rk/a8b717707712
 If you have any further questions, we recommend reaching out to Yahoo Support directly.
 
 
-
----
-### How to Sync Your Yahoo Calendar with SwitchBot Weather Station
-
-You can sync personal calendars from Yahoo, iCloud, and other providers to the Weather Station using an ICS file format URL. Once the sync is complete, you can view your personal calendar schedule on the Weather Station display and set notification sounds to alert you before events start. In addition to these calendars, any personal calendar that supports sharing via ICS format URLs can also be synchronized with the Weather Station.
-Note:
-The Weather Station does not support you changing scheduled events and syncing them back to your personal calendar.
-The calendar data is automatically updated daily at midnight.
-
-
 ---
 ### How Long Can SwitchBot Weather Station Battery Last on a Single Charge?
 
