@@ -32,24 +32,10 @@ To ensure the schedule syncs correctly, the location of the SwitchBot Home assoc
 ---
 ### How to Sync Your Yahoo Calendar with SwitchBot Weather Station
 
-You can sync personal calendars from Yahoo, iCloud, Yahoo, and Yahoo to Weather Station using an ICS file format URL. Once the sync is complete, your personal calendar schedule will be viewable on the Weather Station display. Please follow the steps below to obtain the Yahoo Calendar sharing link and sync it to Weather Station.
+We regret to inform you that synchronizing Yahoo Calendar with your SwitchBot Weather Station is currently unavailable. This is due to an ongoing update by Yahoo regarding their public calendar sharing links which has affected integration capabilities. For more information about these updates, please visit the official Yahoo Calendar page.
+https://calendar.yahoo.com/ev7ficfcyxjb233mebtjodzccoxm3rtkp4z443rk/a8b7177077120ad65774e7f03485d495?od=131&guccounter=1
+If you have any further questions, we recommend reaching out to Yahoo Support directly.
 
-Obtaining the URL of an ICS File Format from Yahoo Calendar
-1. Launch Yahoo Calendar and log in.  
-2. Click the menu icon to the right of the personal calendar you want to share in "My Calendars", then select "Edit Calendar".
-3. Enable "Get shareable link".  
-4. Copy the ICS link.
-
-<img width="784" height="1280" alt="image" src="https://github.com/user-attachments/assets/a450aba0-dc75-43b6-883b-16f9a1f8ca09" />
-
-Synchronizing the Shared URL with the Weather Station
-1. Make sure your SwitchBot App version is up to date.
-2. Make sure SwitchBot Weather Station has been added to your App and your device firmware version is up to date.
-3. In the SwitchBot app, go to Weather Station → Calendar Settings → Sync, then paste the acquired iCal format private URL and name the calendar.  
-4. Once the setup is complete, the data will be updated automatically. If it has not been updated, you can manually refresh it by pressing the button on the top of the device.
-
-Note:  
-To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Yahoo Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
 
 
 ---
@@ -434,3 +420,11 @@ Note:
 To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in iOS Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
 From a data security perspective, if you move the Weather Station to a different Home within the SwitchBot app, the synchronized personal calendar will be automatically deleted. If necessary, please follow the steps again to resynchronize.
 
+
+---
+### Which Personal Calendars Can I Sync with SwitchBot Weather Station?
+
+You can sync personal calendars from Yahoo, iCloud, and other providers to the Weather Station using an ICS file format URL. Once the sync is complete, you can view your personal calendar schedule on the Weather Station display and set notification sounds to alert you before events start. In addition to these calendars, any personal calendar that supports sharing via ICS format URLs can also be synchronized with the Weather Station.
+Note:
+The Weather Station does not support you changing scheduled events and syncing them back to your personal calendar.
+The calendar data is automatically updated each day at midnight. You can also manually initiate the data update by pressing the button in the upper right corner of the device for 2 seconds.
