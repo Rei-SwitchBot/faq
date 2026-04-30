@@ -2418,3 +2418,14 @@ Regarding this issue, could you please check the following points?
 4. Please confirm whether the door lock is frequently left unlocked. In the unlocked state, Lock Pro will continuously monitor the door's open and closed status, which may drain the battery more quickly and enable easier access to emergency power mode.
 5. After removing and reinserting the batteries, tap on Lock Pro in the SwitchBot app, press the lock and unlock buttons on the control screen to operate Lock Pro, and then please check if the battery level is normal.
 
+
+---
+### Troubleshooting SwitchBot Lock Pro Cannot Be Unlocked.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If you find yourself locked out of your home, please check if you can unlock it using the emergency unlock feature. To do this, navigate through the SwitchBot app, select Lock Pro and then choose "Emergency Unlock".
+Note: Please always carry your physical keys as a backup in case of unexpected battery depletion or connectivity issues. Please be aware that SwitchBot is not responsible for any locksmith service fees incurred. Thank you for your understanding and for helping us keep your home accessible.
+2. Please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+3. Recalibration of your lock Pro.
+4. Replace the batteries when the battery level is low.
