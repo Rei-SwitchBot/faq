@@ -254,20 +254,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting After Connecting the Power Cable of the Temperature and Humidity Sensor, Only the on and off Buttons on SwitchBot Hub 2 Are Lit, and the Temperature and Humidity Are Not Displayed.
 
