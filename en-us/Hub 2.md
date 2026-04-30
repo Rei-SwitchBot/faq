@@ -1792,3 +1792,13 @@ As a temporary solution, you can try the following steps:
 - Navigate to the SwitchBot app, select the Hub, and tap the gear icon for Settings. Tap Device Info at the top, select Home, and temporarily move the Hub into the same Home as the other device.
 - Once both Hubs are in the same Home, you can proceed with transferring or copying the IR remotes.
 - After the operation is complete, simply follow these same steps to move the Hub back to its original Home.
+
+---
+### Troubleshooting After Connecting the Power Cable of the Temperature and Humidity Sensor, Only the on and off Buttons on SwitchBot Hub 2 Are Lit, and the Temperature and Humidity Are Not Displayed.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To confirm whether there is a problem with the power cable for the temperature and humidity sensor, we kindly request that you provide a photo or video showing that Hub 2 is powered on using the cable.
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
