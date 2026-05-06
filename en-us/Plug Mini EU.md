@@ -287,3 +287,12 @@ Please delete the devices added to Home Assistant through Matter under the "web 
 
 
 
+
+---
+### Troubleshooting After SwitchBot Plug Mini EU Loses Power, It Must Be Reconnected to Matter to Function Properly in Apple Home.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, our R&D team has identified an issue where the Matter configuration may be lost if the Plug Mini is disconnected from power. We are currently working on a fix, but because this involves complex Matter protocols, it will take some time to fully resolve. We sincerely apologize for this inconvenience.
+To ensure your smart home remains stable, we recommend keeping your Plug Mini connected to a power source during daily use. Please be assured that the Plug Mini is a high-efficiency device with minimal standby power consumption, so leaving it on will have a negligible impact on your electricity bill.
+Beyond keeping your Apple Home connection active, maintaining power also ensures that the device's Hub functionality remains online for your other SwitchBot products. For these reasons, we suggest avoiding cutting the power to the Plug Mini unnecessarily.
+We know this is not the ideal experience, and we truly appreciate your patience while we work toward a permanent solution. Thank you again for your understanding and for your continued support.
