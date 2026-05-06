@@ -1534,3 +1534,13 @@ If your mobile carrier is Rakuten (or Docomo), internet restrictions in certain 
 
 Note:  
 The affected models are our Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam and Outdoor Spotlight Cam 2K.
+
+---
+### Troubleshooting: The real-time monitoring screen of SwitchBot Indoor Cam is black.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the camera lens is not covered by any obstructions.
+2. Adjust the camera angle and check if the screen becomes brighter.
+3. Verify that "Night Vision" is activated on the operation screen by navigating to the SwitchBot app and selecting Indoor Cam. Set Night Vision to Auto or Off manually, and see if this improves the situation.
+4. Disconnect the camera from the power source and then reconnect it.
