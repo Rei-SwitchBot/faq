@@ -282,12 +282,6 @@ Please delete the devices added to Home Assistant through Matter under the "web 
 
 
 
-
-
-
-
-
-
 ---
 ### Troubleshooting After SwitchBot Plug Mini EU Loses Power, It Must Be Reconnected to Matter to Function Properly in Apple Home.
 
