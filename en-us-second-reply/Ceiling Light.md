@@ -285,6 +285,7 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+
 ---
 ### Troubleshooting SwitchBot Ceiling Light will Turn on and off by Itself During Use.
 
