@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Ceiling Light
 
@@ -9,7 +9,7 @@
 
 Updated: Feb 23rd, 2023
 
-Applicable Products: SwitchBot Ceiling Light、SwitchBot Ceiling Light Pro
+Applicable Products: SwitchBot Ceiling Light銆丼witchBot Ceiling Light Pro
 
 Automation/Schedule/Scene functions are only available when connected to Wi-Fi.
 
@@ -42,15 +42,15 @@ Example of Manual Scene setup:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/11587352141207)
 
-※Related Posts:
+鈥籖elated Posts:
 
 [Remote Firmware Version Automatic Update](https://support.switch-bot.com/hc/en-us/articles/11397619712151)
 
-※Related Posts:
+鈥籖elated Posts:
 
 [How to use Remote control Manual Scene](https://support.switch-bot.com/hc/en-us/articles/11478778647703)
 
-※Related Posts:
+鈥籖elated Posts:
 
 [How to use voice control grouped SwitchBot Color Bulb with Alexa?](https://support.switch-bot.com/hc/en-us/articles/11293720585239)
 
@@ -59,7 +59,7 @@ Example of Manual Scene setup:
 ---
 ### Ceiling Light & IFTTT Guide
 
-Last Updated：
+Last Updated锛?
 
 2023 Nov 07
 
@@ -67,17 +67,17 @@ Related Products: SwitchBot Ceiling Light, SwitchBot Ceiling Light Pro
 
 SwitchBot App Version: 7.8 or newer
 
-1． Make sure your SwitchBot App version is up to date.
+1锛?Make sure your SwitchBot App version is up to date.
 
-2． Make sure SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro has been added to your App and your device firmware version is up to date.
+2锛?Make sure SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro has been added to your App and your device firmware version is up to date.
 
-3． Make sure SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro is connected to the internet.
+3锛?Make sure SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro is connected to the internet.
 
-4． Please ensure that the SwitchBot app and the IFTTT app are properly linked.
+4锛?Please ensure that the SwitchBot app and the IFTTT app are properly linked.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/18938587267095)
 
-5．
+5锛?
 
 Connect the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro to the IFTTT App.
 
@@ -95,14 +95,14 @@ Please search for "SwitchBot" on the "Choose a service" screen.
 
 Choose the preferred SwitchBot Ceiling Light option in the "Choose an action" screen, then tap "Create action".
 
-6． After the settings have been completed, the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro will be activated upon meeting the required conditions.
+6锛?After the settings have been completed, the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro will be activated upon meeting the required conditions.
 
 
 
 ---
 ### Ceiling Light & Siri Shortcuts Guide
 
-Last Updated：
+Last Updated锛?
 
 2023 Nov 07
 
@@ -110,13 +110,13 @@ Related Products: SwitchBot Ceiling Light, SwitchBot Ceiling Light Pro
 
 SwitchBot App Version: 7.8 or newer
 
-1． Make sure your SwitchBot App version is up to date.
+1锛?Make sure your SwitchBot App version is up to date.
 
-2． Make sure the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro has been added to your App.
+2锛?Make sure the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro has been added to your App.
 
-3． Make sure the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro is connected to the Internet.
+3锛?Make sure the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro is connected to the Internet.
 
-4． Kindly follow the steps below to create a Siri Shortcut.
+4锛?Kindly follow the steps below to create a Siri Shortcut.
 
 Launch the SwitchBot App.
 
@@ -132,7 +132,7 @@ Choose an action and document your command.
 
 Save.
 
-5． Saying "Hey Siri+" followed by a recorded phrase will activate voice control for the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro.
+5锛?Saying "Hey Siri+" followed by a recorded phrase will activate voice control for the SwitchBot Ceiling Light/SwitchBot Ceiling Light Pro.
 
 
 
@@ -175,15 +175,15 @@ IR Remote Function
 
 Ceiling Light
 
-〇
+銆?
 
-×
+脳
 
 Ceiling Light Pro
 
-〇
+銆?
 
-〇
+銆?
 
 Related Posts:
 
@@ -212,7 +212,7 @@ two
 
 seconds.
 
-※Related Posts:
+鈥籖elated Posts:
 
 [There Is No Wall Switch to Turn On/off the Ceiling Light, What Can I Do?](https://support.switch-bot.com/hc/en-us/articles/7695236291863)
 
@@ -235,15 +235,15 @@ Related Products: SwitchBot Ceiling Light, SwitchBot Ceiling Light Pro
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Make sure SwitchBot Ceiling Light/Ceiling Light Pro has been added to your App.
 
-3．
+3锛?
 
 Method 1: Please follow the steps below to integrate via the Alexa App.
 
@@ -267,7 +267,7 @@ Tap "Close".
 
 The Alexa App will automatically detect and synchronize with the connected devices.
 
-4．
+4锛?
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -302,15 +302,15 @@ Related Products: SwitchBot Ceiling Light/Ceiling Light Pro
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Make sure SwitchBot Ceiling Light/Ceiling Light Pro has been added to your App.
 
-3． Method 1: Please follow the steps below to integrate via the Google Home App.
+3锛?Method 1: Please follow the steps below to integrate via the Google Home App.
 
 Tap the Google Home App.
 
@@ -326,7 +326,7 @@ Tap continue and then log in to your SwitchBot account in the browser.
 
 The link will be completed.
 
-4．
+4锛?
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -344,7 +344,7 @@ Tap Google Assistant.
 
 Tap "Connect".
 
-Enter your Google Home App login ID and password.
+Enter your聽Google Home聽App login ID and password.
 
 The link will be automatically established.
 
@@ -366,19 +366,19 @@ SwitchBot App Version: V6.10 or newer
 
 2. Rotate the shade counterclockwise to the left and carefully remove it.
 
-※Refrence Picture:
+鈥籖efrence Picture:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/7594039819415/mceclip0.png)
 
 3. While pushing the hook of the adapter side connector, remove it from the body side connector. When removing, be sure to hold the connector part. If you hold the cord part, there is a risk of disconnection. Pay attention to electrical safety.
 
-※Refrence Picture:
+鈥籖efrence Picture:
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12707315042455)
 
 4. once you have reconnected the connector, check that you hear a 'beep' sound from the device. The moment the device is energized, the ceiling light will come on, so please be careful not to be dizzy. If no sound is heard, retry step.
 
-5. Then please follow the instructions on the SwitchBot App and tap Next.
+5.聽Then please follow the instructions on the SwitchBot App and tap Next.
 
 
 ---
@@ -414,31 +414,31 @@ Ceiling Light Pro 12 Mats
 
 [Download](https://support.switch-bot.com/hc/article_attachments/23111233576343)
 
-[Ceiling Light6畳保証書W2612231.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111240411671)
+[Ceiling Light6鐣充繚瑷兼浉W2612231.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111240411671)
 
 2 MB
 
 [Download](https://support.switch-bot.com/hc/en-us/article_attachments/23111240411671)
 
-[Ceiling Light8畳保証書W2612241.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111221618711)
+[Ceiling Light8鐣充繚瑷兼浉W2612241.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111221618711)
 
 2 MB
 
 [Download](https://support.switch-bot.com/hc/en-us/article_attachments/23111221618711)
 
-[Ceiling Lightプロ8畳保証書W2612221.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111221619607)
+[Ceiling Light銉椼儹8鐣充繚瑷兼浉W2612221.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111221619607)
 
 2 MB
 
 [Download](https://support.switch-bot.com/hc/en-us/article_attachments/23111221619607)
 
-[Ceiling Lightプロ6畳保証書W2612211.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111221619863)
+[Ceiling Light銉椼儹6鐣充繚瑷兼浉W2612211.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111221619863)
 
 2 MB
 
 [Download](https://support.switch-bot.com/hc/en-us/article_attachments/23111221619863)
 
-[Ceiling Lightプロ12畳保証書W2612251.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111233576343)
+[Ceiling Light銉椼儹12鐣充繚瑷兼浉W2612251.pdf](https://support.switch-bot.com/hc/en-us/article_attachments/23111233576343)
 
 2 MB
 
@@ -450,11 +450,11 @@ Ceiling Light Pro 12 Mats
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please update SwitchBot app to the latest version and then update the ceiling light firmware to V2.0-1.0 or newer to check for any improvement.
+1. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 2. Reset your Ceiling Light.
 Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
-Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
-
+Video: https://youtu.be/rouyr0OfHok
 
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro Shade Is Broken
@@ -515,7 +515,7 @@ Regarding this issue, could you please check the following points?
 Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
 
-2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app 鈫?Ceiling Light 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 
@@ -537,7 +537,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check if you are turning off the ceiling light daily with the wall switch, as this will cause the device to power off and appear offline in the app.
 2. Please keep the distance between the ceiling light pro and the Wi-Fi router within 5-10 meters as much as possible.  
-3. Reconnect the ceiling light pro to Wi-Fi by navigating in the SwitchBot app → Ceiling Light Pro → Gear Icon → Wi-Fi Settings.  
+3. Reconnect the ceiling light pro to Wi-Fi by navigating in the SwitchBot app 鈫?Ceiling Light Pro 鈫?Gear Icon 鈫?Wi-Fi Settings.  
 4. If you have other SwitchBot Wi-Fi devices, please check whether the Wi-Fi connection has stabilized.
 
 
@@ -547,7 +547,7 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check if the batteries in the included remote control are depleted. If necessary, replace the batteries and try again.
-2. Please confirm that the firmware version of your Ceiling Light Pro is 2.4 or newer. If not, update it near the device via the SwitchBot app → Ceiling Light Pro → Gear Icon → Firmware & Battery.
+2. Please confirm that the firmware version of your Ceiling Light Pro is 2.4 or newer. If not, update it near the device via the SwitchBot app 鈫?Ceiling Light Pro 鈫?Gear Icon 鈫?Firmware & Battery.
 
 Please check the following to determine if it is an issue with the included remote control:
 3. Open the SwitchBot app near the device to check if you can control the ceiling light pro. If you can operate it through the app, there may be an issue with the remote control. If not, our technical team will investigate further.
@@ -566,7 +566,7 @@ Please check the following to determine if it is an issue with the included remo
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
-2. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Please check for any available firmware updates by going to SwitchBot app 鈫?Ceiling Light 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -578,7 +578,7 @@ Regarding this issue, could you please check the following points?
 Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHok&feature=youtu.be)
 
-2. Please confirm that the firmware version of your Ceiling Light is 2.3-1.2 or newer. If not, update it near the device via the SwitchBot app → Ceiling Light→ Gear Icon → Firmware & Battery.
+2. Please confirm that the firmware version of your Ceiling Light is 2.3-1.2 or newer. If not, update it near the device via the SwitchBot app 鈫?Ceiling Light鈫?Gear Icon 鈫?Firmware & Battery.
 *If you wish to request firmware version 2.3-1.2 or newer, please contact us via feedback.
 
 
@@ -591,7 +591,7 @@ Regarding this issue, could you please check the following points?
 Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: [https://youtu.be/rouyr0OfHok](https://www.youtube.com/watch?v=rouyr0OfHok&feature=youtu.be)
 
-2. Please confirm that the firmware version of your Ceiling Light is 2.3-1.2 or newer. If not, update it near the device via the SwitchBot app → Ceiling Light→ Gear Icon → Firmware & Battery.
+2. Please confirm that the firmware version of your Ceiling Light is 2.3-1.2 or newer. If not, update it near the device via the SwitchBot app 鈫?Ceiling Light鈫?Gear Icon 鈫?Firmware & Battery.
 *If you wish to request firmware version 2.3-1.2 or newer, please contact us via feedback.
 
 
@@ -632,9 +632,9 @@ Regarding the firmware update issue, could you please check the following points
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light → Gear Icon → Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
+1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light 鈫?Gear Icon 鈫?Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
 2. Restart your router.  
-3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light → Gear Icon → Firmware & Battery. Check for and install any available firmware updates.
+3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light 鈫?Gear Icon 鈫?Firmware & Battery. Check for and install any available firmware updates.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
 
@@ -658,8 +658,8 @@ If the IR remotes cannot be added using "Smart Matching" or "Select Manually," o
 
 Important Note:
 - Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
-- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25°C + automatic air volume) to the ON button.
-- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
+- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25掳C + automatic air volume) to the ON button.
+- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29掳C + automatic fan speed).
 - Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
 
 
@@ -677,7 +677,7 @@ Important Note:
 - In the "Others" mode, buttons must be added manually one by one.
 - Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
 [https://support.switch-bot.com/hc/en-us/articles/19444800636183](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
-- For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
+- For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (鈭?
 
 
 ---
@@ -700,16 +700,16 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
 2. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
-
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro Suddenly Stopped Connecting to Wi-Fi.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light Pro → Gear Icon → Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
+1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light Pro 鈫?Gear Icon 鈫?Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
 2. Restart your router.  
-3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light Pro → Gear Icon → Firmware & Battery. Check for and install any available firmware updates.
+3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light Pro 鈫?Gear Icon 鈫?Firmware & Battery. Check for and install any available firmware updates.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
 
 
@@ -768,7 +768,7 @@ Regarding this issue, could you please check the following points?
 Turn/off the main switch ( eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: [https://youtu.be/rouyr0OfHok](https://youtu.be/rouyr0OfHok)
 
-2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app 鈫?Ceiling Light 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If no firmware is available for bug fixes, our team will arrange it later. We appreciate your patience and understanding!
 
 
@@ -780,7 +780,7 @@ Regarding this issue, could you please check the following points?
 1. Make sure that the Ceiling Light Pro is connected to a power source and powered on.
 2. Make sure that the Ceiling Light Pro is connected to a stable 2.4GHz (802.11b/g/n, IPv4) network.
 3. Make sure there are no obstacles, such as walls, between the Ceiling Light Pro and the infrared appliances. 
-4. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Please check for any available firmware updates by going to SwitchBot app 鈫?Ceiling Light Pro 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 5. If other infrared remotes are added, please check whether they operate correctly.  
 6. Please try adding the relevant IR infrared remote again.  
 7. As a troubleshooting step in case there is a problem with the Ceiling Light Pro, if you have other Hub products, please copy the infrared remote to another Hub and check if it can be controlled.
@@ -809,7 +809,7 @@ Regarding this issue, could you please check the following points?
 If the swing button on the AC remote, added by selecting the air conditioner brand and model, is gray and unresponsive, it means the manufacturer's infrared code does not include a signal for this button. In this case, we recommend adding the swing button using either the "Learn Buttons" or "Others" mode.
 Methods: https://support.switch-bot.com/hc/en-us/articles/360038373593
 Note:
-The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25°C, cooling, automatic fan speed, air direction 1.
+The air conditioner remote transmits information such as operation mode, temperature, and air direction all at once, so it is not possible to learn the air direction separately. If you wish to control the air direction, please register the full settings, for example: 25掳C, cooling, automatic fan speed, air direction 1.
 If you have any other questions, please do not hesitate to contact us.
 
 ---

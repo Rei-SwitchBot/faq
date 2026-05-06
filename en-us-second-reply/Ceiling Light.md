@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Ceiling Light
 
@@ -11,9 +11,7 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 1. To determine if your device needs to be replaced, could you kindly provide a short video showing the issue?
   1. a video of the full light not coming on after restoring the factory settings
-
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -25,8 +23,9 @@ We apologize for any inconvenience caused.
 - ZIP/Postal Code
 - A screenshot of your order
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 ---
 ### Troubleshooting Failed to Add SwitchBot Ceiling Light Pro to SwitchBot App
@@ -106,7 +105,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check if you are turning off the ceiling light daily with the wall switch, as this will cause the device to power off and appear offline in the app.
 2. Please keep the distance between the ceiling light pro and the Wi-Fi router within 5-10 meters as much as possible.  
-3. Reconnect the ceiling light pro to Wi-Fi by navigating in the SwitchBot app → Ceiling Light Pro → Gear Icon → Wi-Fi Settings.  
+3. Reconnect the ceiling light pro to Wi-Fi by navigating in the SwitchBot app 鈫?Ceiling Light Pro 鈫?Gear Icon 鈫?Wi-Fi Settings.  
 4. If you have other SwitchBot Wi-Fi devices, please check whether the Wi-Fi connection has stabilized.  
 
 
@@ -143,7 +142,7 @@ If there are no issues with the included remote control, our technical team will
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
-2. Please check for any available firmware updates by going to SwitchBot app → Ceiling Light → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Please check for any available firmware updates by going to SwitchBot app 鈫?Ceiling Light 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -289,26 +288,24 @@ We apologize for any inconvenience caused.
 ---
 ### Troubleshooting SwitchBot Ceiling Light will Turn on and off by Itself During Use.
 
-Thank you for the information vided.
+Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
 1. the BLE MAC address by going to SwitchBot app → Ceiling Light → Gear icon → Device Information
-2. (If possible) The time when the phenomenon occurred.  
-3. (If capturable) A video of the phenomenon.  
-4. Whether any other electrical appliances were operated before the phenomenon occurred.  
+2. (If possible) The time when the phenomenon occurred.
+3. (If capturable) A video of the phenomenon.
+4. Whether any other electrical appliances were operated before the phenomenon occurred.
 
-
-*If you have already vided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro Suddenly Stopped Connecting to Wi-Fi.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light Pro → Gear Icon → Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
+1. Please configure the Wi-Fi settings in the SwitchBot app by navigating to Ceiling Light Pro 鈫?Gear Icon 鈫?Settings screen. When reconfiguring, make sure that the Wi-Fi SSID and password are entered correctly, paying attention to uppercase and lowercase letters.  
 2. Restart your router.  
-3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light Pro → Gear Icon → Firmware & Battery. Check for and install any available firmware updates.
+3. Remove the device, connect it to your smartphone's personal hotspot, and re-add it to the app. Once added, open the SwitchBot app and navigate to Ceiling Light Pro 鈫?Gear Icon 鈫?Firmware & Battery. Check for and install any available firmware updates.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
 
 
