@@ -136,6 +136,7 @@ We apologize for any inconvenience caused.
 If there are no issues with the included remote control, our technical team will investigate this matter. Thanks for your patience and understanding!
 
 
+
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro will Turn on and off by Itself During Use.
 
