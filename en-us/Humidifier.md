@@ -671,3 +671,11 @@ Regarding this issue, could you please check the following points?
 1. Make sure that the power cable is securely connected to the humidifier.
 2. Try plugging the humidifier into a different outlet to see if it activates.
 3. If you have a power cable of the same specifications, please switch the cable and see if the humidifier can be turned on.
+
+---
+### Troubleshooting: SwitchBot Smart Humidifier's indicator light stays red, and pressing the button does not elicit any response.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Unplug the Humidifier, then plug it back in.
+2. Press and hold the power button for 15 seconds to reset the Humidifier.
