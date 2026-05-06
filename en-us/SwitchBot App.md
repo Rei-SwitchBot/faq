@@ -162,3 +162,12 @@ Way to check the Scene logs: SwitchBot App -> "..." in the upper right corner ->
 Note: If the automation is not triggered, no logs will remain in the execution history. Conversely, if the automation is triggered but fails to execute, a failure log will be recorded in the execution history.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### How to obtain source code?
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+Desired product for the source code:
+
+If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
