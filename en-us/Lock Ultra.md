@@ -683,3 +683,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please check if the Bluetooth on your smartphone is turned on. If it is already on, try turning it off once and then turning it back on.
 2. Delete the Lock Ultra from the SwitchBot app and add it again.
+
+---
+### Troubleshooting: When I Opened the Door, I Kept Receiving Notifications From Lock Ultra Stating "Door Left Open".
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When the door is left open, the Lock Ultra and the magnet will indicate that "the door is open." Depending on your settings, the Lock Ultra unit will emit a warning sound along with a notification that says "Door Left Open". You can follow the steps below to adjust the settings as necessary.
+1. SwitchBot App → Lock Ultra → Gear Icon → Alarms → Turn off "Door Ajar" to stop the warning sound from the unit.
+2. SwitchBot App → Profile → Preferences → App Notifications → Notification management under Device Notifications → Switch to the home where the Lock Ultra is located in the top left → Lock Ultra → Disable "Door Left Open".
+
+If you have any other questions, please do not hesitate to contact us.
