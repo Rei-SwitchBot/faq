@@ -139,11 +139,15 @@ If there are no issues with the included remote control, our technical team will
 ---
 ### Troubleshooting SwitchBot Ceiling Light Pro will Turn on and off by Itself During Use.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check if other lights in your home are experiencing the same issue to determine if the voltage has stabilized.
-2. Please check for any available firmware updates by going to SwitchBot app 鈫?Ceiling Light 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+1. the BLE MAC address by going to SwitchBot app → Ceiling Light Pro → Gear icon → Device Information
+2. (If possible) The time when the phenomenon occurred.
+3. (If capturable) A video of the phenomenon.
+4. Whether any other electrical appliances were operated before the phenomenon occurred.
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting SwitchBot Ceiling Light Turns on by Itself. When Checking the Logs, It Shows as the Wall Switch.
