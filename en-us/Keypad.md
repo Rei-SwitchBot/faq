@@ -1924,3 +1924,14 @@ Regarding this issue, could you please check the following points?
 4. You can enable the Fast Unlock feature to improve the communication speed between the Keypad Touch and the lock product (the battery will be consumed more quickly).
 https://support.switch-bot.com/hc/en-us/articles/32284693015447
 
+
+---
+### Troubleshooting: SwitchBot Keypad Touch Is Offline and Cannot Unlink the Lock That Is Already Paired with It.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. To unpair your Keypad from the current Lock, we recommend using one of the following two methods. After you have disconnected the old Lock, you can then pair your Keypad with the new one.
+Method 1: SwitchBot App → Select the relevant Keypad/Keypad Touch → Gear icon → Device Pairing → Tap "unable to unpair because the device is lost" → Tap "Mark as Lost", then delete it from the app.
+Method 2: Unlink the keypad/Keypad Touch is automatically done when removing the Lock from the SwitchBot App.
+
+If you have any other questions, please do not hesitate to contact us.
