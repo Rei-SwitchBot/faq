@@ -414,7 +414,7 @@ From a data security perspective, if you move the Weather Station to a different
 ---
 ### Which Personal Calendars Can I Sync with SwitchBot Weather Station?
 
-You can sync personal calendars from Yahoo, iCloud, and other providers to the Weather Station using an ICS file format URL. Once the sync is complete, you can view your personal calendar schedule on the Weather Station display and set notification sounds to alert you before events start. In addition to these calendars, any personal calendar that supports sharing via ICS format URLs can also be synchronized with the Weather Station.
+You can sync personal calendars from Yahoo, iCloud, Google, and Outlook to Weather Station using an ICS file format URL. Once the sync is complete, you can view your personal calendar schedule on the Weather Station display and set notification sounds to alert you before events start. In addition to these calendars, any personal calendar that supports sharing via ICS format URLs can also be synchronized with the Weather Station.
 Note:
 The Weather Station does not support you changing scheduled events and syncing them back to your personal calendar.
 The calendar data is automatically updated each day at midnight. You can also manually initiate the data update by pressing the button in the upper right corner of the device for 2 seconds.
