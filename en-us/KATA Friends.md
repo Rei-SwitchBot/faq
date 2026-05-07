@@ -1022,3 +1022,8 @@ Regarding this issue, could you please check the following points?
 
 5. Check if any clothing or accessories are obstructing the sensors.
 6. Restart the power on the KATA Friends.
+
+---
+### Will SwitchBot App Remind Me to Take KATA Friends for Maintenance Before the Purchased Companion Care Plan Expires?
+
+We regret to inform you that the SwitchBot App does not send automatic reminders for KATA Friends health checks or maintenance. We recommend checking your service plan details within the app periodically to confirm your maintenance eligibility. If you would like to request a health check, simply submit a ticket via Feedback in the SwitchBot App while your plan is still active.
