@@ -1935,3 +1935,15 @@ Method 1: SwitchBot App → Select the relevant Keypad/Keypad Touch → Gear ico
 Method 2: Unlink the keypad/Keypad Touch is automatically done when removing the Lock from the SwitchBot App.
 
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting SwitchBot Keypad Touch Has Been Disabled Due to Multiple Authentication Failures.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+For security reasons, if a fingerprint or passcode authentication fails five consecutive times, the Keypad Touch will be automatically disabled. This is a built-in safety specification and the failure threshold cannot be customized by the user. If your Keypad Touch has been disabled, you can restore it using either of the following methods:
+1. Manually unlock the Keypad Touch directly within the app settings.
+2. Successfully unlocking the door using a different method will automatically reactivate the keypad. For example, if fingerprint authentication is disabled after five failed attempts, simply unlocking the door with a Passcode or NFC Card will clear the lockout.
+
+We understand that this security measure may cause occasional inconvenience, and we truly appreciate your understanding and cooperation in keeping your home safe.
+If you have any other questions, please do not hesitate to contact us.
