@@ -171,3 +171,17 @@ We will forward your feedback to our R&D team for further investigation, and wou
 Desired product for the source code:
 
 If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### How to Obtain the Token and Key for Developers in SwitchBot App
+
+1. Please follow the steps below to obtain the token and secret key in the SwitchBot app.
+- Launch SwitchBot App and log in.
+- Tap "Profile" in the lower right corner.
+- Tap "Preferences".
+- Tap "About".
+- Tap the App Version (e.g., 9.25) several times in quick succession (about 5 to 15 times) to access the Developer Options.
+- Tap "Developer Options", you'll see the token and secret key information.
+
+Note:
+When you log out and back into the SwitchBot app, the token automatically updates with a validity of about 1 hour. To refresh the token, simply log out and log back in.
