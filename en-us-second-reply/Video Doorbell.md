@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Smart Video Doorbell
 
@@ -197,25 +197,10 @@ If the monitor does not display real-time video from the doorbell even when plac
 - Distance between the doorbell and the router, as well as the number of obstacles such as walls or doors.
 - A video showing the monitor unable to display real-time footage from the doorbell, even when placed near it.
 
-On the other hand, if there are no metal doors obstructing but the distance exceeds 5 meters, the doorbell video cannot be viewed from the monitor. In this case, we will arrange a free Add-on monitor. As long as the connection between the monitor and the doorbell is stable, you can view the doorbell video through the Add-on monitor even on the second floor. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-How to Pair the Add-On Monitor with Your Video Doorbell
-[https://support.switch-bot.com/hc/en-us/articles/35926762384407](https://support.switch-bot.com/hc/en-us/articles/35926762384407)
-
+On the other hand, if the video works normally within 5 meters but fails at longer distances, it indicates that the monitor and doorbell are functioning correctly, and the issue is simply the communication range. To ensure a stable connection, please try placing the monitor as close to the doorbell as possible.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 ---
 ### Troubleshooting Unable to Charge the Doorbell with a Charging Adapter
@@ -559,10 +544,9 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
 - Screenshots displaying the notification content of the Video Doorbell can be found by navigating to the SwitchBot App → Profile → tapping the Notification Center bell icon in the top right corner.
-- Screenshots displaying the notification settings of the  Video Doorbell can be found by navigating to the SwitchBot App → Profile → Preferences → App Notifications → Device Notification Management.
+- Screenshots displaying the notification settings of the Video Doorbell can be found by navigating to the SwitchBot App → Profile → Preferences → App Notifications → Device Notification Management.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
 
 ---
 ### Troubleshooting After Pressing the Doorbell, There Is a Brief Delay Before It Rings.
@@ -1019,7 +1003,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting: I Added SwitchBot Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I’m Unable to Operate the Lock Through Apple Home.
+### Troubleshooting: I Added SwitchBot Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I鈥檓 Unable to Operate the Lock Through Apple Home.
 
 Thank you for the information provided.
 Sorry for any inconvenience caused.
@@ -1043,7 +1027,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting My Newly Purchased SwitchBot Smart Video Doorbell Freezes on the “SwitchBot” Logo Screen and Cannot Be Added to SwitchBot App.Thank you for reporting this issue. 
+### Troubleshooting My Newly Purchased SwitchBot Smart Video Doorbell Freezes on the 鈥淪witchBot鈥?Logo Screen and Cannot Be Added to SwitchBot App.Thank you for reporting this issue. 
 
 We apologize for any inconvenience caused.
 If the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.

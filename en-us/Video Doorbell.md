@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Smart Video Doorbell
 
@@ -134,7 +134,7 @@ Please note that this feature is not available on Google Nest Hub.
 ---
 ### Can I use SwitchBot Smart Video Doorbell without Wi-Fi?
 
-If your home doesn’t have Wi-Fi, you can still use basic functions. When someone rings the doorbell, the monitor will display the live feed and enable two-way communication. However, features like app controls, Alexa integration, or remote access require Wi-Fi. We recommend using it in a Wi-Fi environment for full functionality.
+If your home doesn鈥檛 have Wi-Fi, you can still use basic functions. When someone rings the doorbell, the monitor will display the live feed and enable two-way communication. However, features like app controls, Alexa integration, or remote access require Wi-Fi. We recommend using it in a Wi-Fi environment for full functionality.
 
 
 
@@ -164,7 +164,7 @@ We regret to inform you that only one monitor can be connected to one doorbell a
 ---
 ### Can I Lock My Lock Using the Monitor of SwitchBot Smart Video Doorbell?
 
-Unfortunately, locking your door lock directly through the monitor is not supported at this time. Here’s how you can use your Smart Video Doorbell to control your lock:
+Unfortunately, locking your door lock directly through the monitor is not supported at this time. Here鈥檚 how you can use your Smart Video Doorbell to control your lock:
 1. Hold the NFC card against the doorbell to unlock the door.
 2. Press the "Electric Lock" button on the monitor to unlock the door. 
 3. For full control, open the SwitchBot app, select your Video Doorbell, tap "Features" at the bottom, then choose "Lock or Unlock" to secure or open your door.
@@ -204,7 +204,7 @@ Please note: For this setup to work, the monitor must remain plugged into a powe
 We regret to inform you that our video doorbell does not support live video display or chime notifications on Google Nest Hub when the doorbell is pressed.
 Note:
 This feature is available on Amazon Echo Show devices.
-Due to Google’s platform restrictions, including the video doorbell, all SwitchBot devices cannot be set as a trigger for Google Routines. For more information, we recommend contacting Google Support directly.
+Due to Google鈥檚 platform restrictions, including the video doorbell, all SwitchBot devices cannot be set as a trigger for Google Routines. For more information, we recommend contacting Google Support directly.
 We truly appreciate your feedback and will internally review this limitation for potential improvements in future products. Thank you for your understanding.
 
 
@@ -216,7 +216,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 
 Regarding this issue, could you please check the following points?
 
-The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app → video doorbell → gear icon → local storage.
+The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app 鈫?video doorbell 鈫?gear icon 鈫?local storage.
 
 If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
 
@@ -280,7 +280,7 @@ Doorbell:
 ---
 ### Can I Lock My Lock Using SwitchBot Smart Video Doorbell?
 
-Here’s how you can use your Smart Video Doorbell to control your lock:
+Here鈥檚 how you can use your Smart Video Doorbell to control your lock:
 1. Hold the NFC card against the doorbell to unlock the door.
 2. Press the "Electric Lock" button on the monitor to unlock the door. 
 3. For full control, open the SwitchBot app, select your Video Doorbell, tap "Features" at the bottom, then choose "Lock or Unlock" to secure or open your door.
@@ -322,14 +322,14 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 If the Wi-Fi connection is unstable, the device will constantly attempt to connect to Wi-Fi, causing the battery to drain faster. Please make sure there are no more than two walls or doors between the doorbell and monitor, or the monitor and router. Use the device within 10 meters of the router when possible. Keep the distance between the monitor and doorbell as short as possible for stable communication.
 The battery drains faster when many events occur in front of the camera lens. Adjust detection settings like time zone, area, low sensitivity, or long trigger interval to improve this.
 Low sensitivity: 1~3 meters
 Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
 If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
-If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
+If the temperature is extremely high or low, it can affect battery life. For example, at -20掳C, the battery may decrease by 40% to 50%.
 
 ---
 ### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
@@ -362,7 +362,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Please turn off the router.  
 2. Position the doorbell close to the monitor, and press the "Monitor" button on the main unit multiple times until the video shows up.
-3. Once the video is visible, press the "Monitor" button 3–5 more times.
+3. Once the video is visible, press the "Monitor" button 3鈥? more times.
 4. Then, turn the router back on, and when the device is connected to the internet, update firmware using the app.
 
 Important Notes:  
@@ -394,7 +394,7 @@ Apartments: within 5 meters of the entrance (steel)  door with no obstruction. F
 
 2. Install the monitor as close to the router as possible.
 3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
-4. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -402,21 +402,18 @@ Apartments: within 5 meters of the entrance (steel)  door with no obstruction. F
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check the communication between the doorbell and the monitor as follows:  
-- Detach the doorbell and place it near the monitor.  
-- Press the doorbell.  
-- Press the call button on the monitor.  
-- Confirm whether the video from the doorbell is displayed on the monitor.  
-
+1. Please check the communication between the doorbell and the monitor as follows:
+- Detach the doorbell and place it near the monitor.
+- Press the doorbell.
+- Press the call button on the monitor.
+- Confirm whether the video from the doorbell is displayed on the monitor.
 2. If the real-time video from the doorbell is displayed on the monitor following step 1, please check the installation of the monitor.
 Villas and Houses: 10 meters away from the entrance (steel) door without any obstruction. For example, installed in a bedroom doorway or living room.
-Apartments: within 5 meters of the entrance (steel)  door with no obstruction. For example, near the entrance to the living room.
-[https://support.switch-bot.com/hc/en-us/articles/33345537774103](https://support.switch-bot.com/hc/en-us/articles/33345537774103)
-
+Apartments: within 5 meters of the entrance (steel) door with no obstruction. For example, near the entrance to the living room.
+https://support.switch-bot.com/hc/en-us/articles/33345537774103
 3. Please avoid connecting to the doorbell simultaneously with the SwitchBot app and the monitor.
 4. Please delete the Video Doorbell from the app and add it again.
 5. Installing the doorbell on a metal door can interfere with communication with the monitor, so please install it on a wall or another surface.
-
 
 ---
 ### Troubleshooting Unable to Charge the Doorbell with a Charging Adapter
@@ -433,7 +430,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 After confirmation, we can confirm that the periodic static noise from your doorbell is related to an ongoing Alexa data migration process. To stop the noise right away, you can simply disconnect your doorbell from the Alexa app. This should resolve the sound issue immediately.
 Our team is already in touch with Amazon Alexa support to address this situation and prevent it from affecting other users. We appreciate your patience while we work on a permanent solution.
-If the sound continues after disconnecting from Alexa, or if you notice any other unusual behavior, please don’t hesitate to reach out, we’ll be glad to assist further.
+If the sound continues after disconnecting from Alexa, or if you notice any other unusual behavior, please don鈥檛 hesitate to reach out, we鈥檒l be glad to assist further.
 
 
 ---
@@ -441,7 +438,7 @@ If the sound continues after disconnecting from Alexa, or if you notice any othe
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please set the location to your current one by going to SwitchBot app → Profile → Manage Home → Home where the doorbell is added. If the device's location is not correct, there may be a time difference.
+1. Please set the location to your current one by going to SwitchBot app 鈫?Profile 鈫?Manage Home 鈫?Home where the doorbell is added. If the device's location is not correct, there may be a time difference.
 
 
 ---
@@ -481,22 +478,22 @@ Please note:
 Doorbell:
 1. It's recommended to position your device 1.2 m to 1.5 m (44 ft to 4.9 ft) off the ground. To get a better signal strength, please avoid installation on metal door or surface.
 
-<img width="289" height="260" alt="图片1" src="https://github.com/user-attachments/assets/cc5360ab-bf10-4578-a5e7-6748d01e44a0" />
+<img width="289" height="260" alt="鍥剧墖1" src="https://github.com/user-attachments/assets/cc5360ab-bf10-4578-a5e7-6748d01e44a0" />
 
 
 2. Use the provided wall mounting kit and corner kit to angle your device properly and avoid unwanted motion events.
 
-<img width="566" height="207" alt="图片2" src="https://github.com/user-attachments/assets/d623e98e-23b9-4287-b940-a00cde1a9f10" />
+<img width="566" height="207" alt="鍥剧墖2" src="https://github.com/user-attachments/assets/d623e98e-23b9-4287-b940-a00cde1a9f10" />
 
 
 3. Ensure your Doorbell's camera is not directed at light-coloreed walls, and keep it away from direct sunlight.
 
-<img width="782" height="257" alt="图片3" src="https://github.com/user-attachments/assets/7ddb5622-a321-4906-abf9-44fa19e8dc4e" />
+<img width="782" height="257" alt="鍥剧墖3" src="https://github.com/user-attachments/assets/7ddb5622-a321-4906-abf9-44fa19e8dc4e" />
 
 
 4. Leave at least 6 cm (2.4 in.) of clearance on the right side of your Doorbell for easy clamping and removal.
 
-<img width="276" height="257" alt="图片4" src="https://github.com/user-attachments/assets/4a99de1d-6943-492d-b6b6-e124cfddf13b" />
+<img width="276" height="257" alt="鍥剧墖4" src="https://github.com/user-attachments/assets/4a99de1d-6943-492d-b6b6-e124cfddf13b" />
 
 
 5. To ensure a stable connectivity, keep an appropriate distance beetween your Doorbell, Monitor, SwitchBot Lock devices, and the router.
@@ -547,7 +544,7 @@ You can only link one Lock product to your video doorbell at a time.
 ---
 ### Can I use SwitchBot Smart Video Doorbell without Wi-Fi?
 
-If your home doesn’t have Wi-Fi, you can still use basic functions. When someone rings the doorbell, the monitor will display the live feed and enable two-way communication. However, features like app controls, Alexa integration, or remote access require Wi-Fi. We recommend using it in a Wi-Fi environment for full functionality.
+If your home doesn鈥檛 have Wi-Fi, you can still use basic functions. When someone rings the doorbell, the monitor will display the live feed and enable two-way communication. However, features like app controls, Alexa integration, or remote access require Wi-Fi. We recommend using it in a Wi-Fi environment for full functionality.
 Important Note: When using the device without Wi-Fi, keep the doorbell and monitor within 5 meters for a stable connection.
 
 
@@ -661,7 +658,7 @@ Actually, the Monitor works as a Wi-Fi extender. As long as the connection betwe
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -669,7 +666,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -714,12 +711,12 @@ To ensure a more stable connection, please minimize the distance between the doo
 ### What Are the Dimensions of the Monitor and the Doorbell?
 
 The Dimensions of the Monitor and the Doorbell are:
-Doorbell: 131 × 65 × 30 mm
-Monitor: 125 × 129 × 29 mm
+Doorbell: 131 脳 65 脳 30 mm
+Monitor: 125 脳 129 脳 29 mm
 
 <img width="634" height="163" alt="image" src="https://github.com/user-attachments/assets/ba832929-6fb5-477d-b79a-38b284f55dfc" />
 
-For more information about our Video Doorbell，please refer to the link below and switch the official website site according to your country or region before making a purchase.
+For more information about our Video Doorbell锛宲lease refer to the link below and switch the official website site according to your country or region before making a purchase.
 [https://www.switch-bot.com/products/switchbot-video-doorbell](https://www.switch-bot.com/products/switchbot-video-doorbell)
 
 
@@ -791,7 +788,7 @@ The Monitor is designed for continuous power supply. It accepts an input voltage
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. One SwitchBot Video Doorbell can only be added to one account. If a Video Doorbell is added to another account of yours, please delete the Video Doorbell from that account first and then add it to a new account.
-※SwitchBot App -> Long press the Video Doorbell icon -> tap the Delete button -> confirm deletion
+鈥籗witchBot App -> Long press the Video Doorbell icon -> tap the Delete button -> confirm deletion
 2. If you are using the device with family or friends, you can choose to use one ID and password for multiple users, or use the home sharing feature.
 [https://support.switch-bot.com/hc/en-us/articles/4424755304215](https://support.switch-bot.com/hc/en-us/articles/4424755304215)
 3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the Video Doorbell will be automatically unbinded and you will be able to add it.
@@ -920,7 +917,7 @@ Regarding this issue, could you please check the following points?
 ### How to Download Videos Recorded by SwitchBot Smart Video Doorbell to My Smartphone
 
 If you are using a microSD card, you cannot download recordings directly. However, by tapping the desired recording and pressing the screen recording button, you can save it to the gallery app.
-Method: Open the SwitchBot app → select Video Doorbell → go to Playback → choose microSD card Videos → tap the video you want to download → tap the screen recording icon.
+Method: Open the SwitchBot app 鈫?select Video Doorbell 鈫?go to Playback 鈫?choose microSD card Videos 鈫?tap the video you want to download 鈫?tap the screen recording icon.
 
 <img width="1064" height="620" alt="image" src="https://github.com/user-attachments/assets/f5905146-0315-4ff6-b7ae-d8f87329fec5" />
 
@@ -969,7 +966,7 @@ High sensitivity: 7~9 meters
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Make sure that motion detection is enabled by navigating to the SwitchBot App → Video Doorbell → Gear Icon → Doorbell Settings.
+1. Make sure that motion detection is enabled by navigating to the SwitchBot App 鈫?Video Doorbell 鈫?Gear Icon 鈫?Doorbell Settings.
 2. Please verify that you have set the detection time zones and areas for your Video Doorbell. Events occurring outside these designated times and areas will not be recorded.
 3. Adjust the detection sensitivity to high to see if it improves the situation.
 Low sensitivity: 1~3 meters
@@ -1007,7 +1004,7 @@ Regarding this issue, could you please check the following points?
 1. Make sure that the microSD card is properly inserted.  
 2. Please check if the microSD card is correctly recognized by the SwitchBot app.  
 3. Insert the microSD card into your computer using a card reader to verify it can be read.  
-4. Please check that recording is enabled by navigating to the SwitchBot app → Smart Video Doorbell → Gear icon → Local Storage.
+4. Please check that recording is enabled by navigating to the SwitchBot app 鈫?Smart Video Doorbell 鈫?Gear icon 鈫?Local Storage.
 5. Reset the doorbell and see if it resolves the issue.
 [https://support.switch-bot.com/hc/en-us/articles/37931517692183](https://support.switch-bot.com/hc/en-us/articles/37931517692183)
 
@@ -1017,11 +1014,11 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check the link below and enable notifications for the SwitchBot app and the Video Doorbell.
-[https://support.switch-bot.com/hc/en-us/articles/36745401470231](https://support.switch-bot.com/hc/en-us/articles/36745401470231)
-2. Try logging out of the SwitchBot app and then logging back in to see if the issue is resolved.
-3. If you are using an Android smartphone, go to the Settings app, navigate to "Notifications", and turn on "Turn on screen when notifications are received". Also, from the Settings app, select "Apps", choose "SwitchBot", and within "Notifications", enable "Notifications on the lock screen".
-
+1. Verify that your phone's system is permitting push notifications from the SwitchBot App. You can usually find this setting in your phone's notification preferences, and it should allow the app to send notifications to your device.
+2. Please check the link below and enable notifications for the SwitchBot app and the Video Doorbell.
+https://support.switch-bot.com/hc/en-us/articles/36745401470231
+3. Try logging out of the SwitchBot app and then logging back in to see if the issue is resolved.
+4. If you are using an Android smartphone, go to the Settings app, navigate to "Notifications", and turn on "Turn on screen when notifications are received". Also, from the Settings app, select "Apps", choose "SwitchBot", and within "Notifications", enable "Notifications on the lock screen".
 
 ---
 ### How to Reset SwitchBot Smart Video Doorbell
@@ -1042,7 +1039,7 @@ Press and hold the reset button on the side for more than 3 seconds to reset the
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 
@@ -1090,7 +1087,7 @@ Regarding this issue, could you please check the following points?
 2. Gently wipe the lens with a soft cloth, such as a non-woven fabric.  
 3. If it is too close, moving objects may not be properly detected. Please check whether moving objects can be captured more clearly at least 0.5 meters away from the doorbell sub-unit.  
 Note: 
-Unlike the real-time video, the resolution of videos recorded on the microSD card or cloud storage, is 640×360 pixels. Thank you for your understanding.
+Unlike the real-time video, the resolution of videos recorded on the microSD card or cloud storage, is 640脳360 pixels. Thank you for your understanding.
 
 
 ---
@@ -1109,7 +1106,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Restart your SwitchBot app.  
 2. Turn off the power button on the back of the doorbell, then turn it back on.  
-3. Tap "Night Vision" by navigating to SwitchBot app → Video Doorbell → Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
+3. Tap "Night Vision" by navigating to SwitchBot app 鈫?Video Doorbell 鈫?Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
 
 
 ---
@@ -1119,7 +1116,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Restart your SwitchBot app.  
 2. Turn off the power button on the back of the doorbell, then turn it back on.  
-3. Tap "Night Vision" by navigating to SwitchBot app → Video Doorbell → Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
+3. Tap "Night Vision" by navigating to SwitchBot app 鈫?Video Doorbell 鈫?Features. When the screen turns black and white, turn off Night Vision. Once the screen color returns to normal, set Night Vision to Auto.
 
 
 ---
@@ -1136,7 +1133,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. Please verify that the positive and negative wires of the low-voltage cable are connected correctly. If they are properly connected and the device is charging, the indicator on the bottom of the doorbell will light up. If necessary, please restart the monitor once and then check the indicator on the doorbell again.
 3. If the doorbell indicator does not light up, as a troubleshooting step, please turn on the power switch on the back of the doorbell and check whether it can be charged using the Type-C charging cable and 5V 2A charger included in the package.  
 4.  Use a voltmeter to measure whether the voltage at the connection point of the low-voltage wire is 6.2V. If there is a problem with the low-voltage wire, please contact the staff who installed it.
@@ -1147,7 +1144,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. Please verify that the positive and negative wires of the low-voltage cable are connected correctly. If they are properly connected and the device is charging, the indicator on the bottom of the doorbell will light up. If necessary, please restart the monitor once and then check the indicator on the doorbell again.
 3. If the doorbell indicator does not light up, as a troubleshooting step, please turn on the power switch on the back of the doorbell and check whether it can be charged using the Type-C charging cable and 5V 2A charger included in the package.  
 4.  Use a voltmeter to measure whether the voltage at the connection point of the low-voltage wire is 6.2V. If there is a problem with the low-voltage wire, please contact the staff who installed it.
@@ -1157,7 +1154,7 @@ Low sensitivity: 1~3 meters
 Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
 7. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
-8. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
+8. If the temperature is extremely high or low, it can affect battery life. For example, at -20掳C, the battery may decrease by 40% to 50%.
 
 
 ---
@@ -1178,13 +1175,13 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please use the solar panel specifically designed for the Video Doorbell. Do not use the outdoor camera’s solar panel with the Video Doorbell, as they are incompatible.
+1. Please use the solar panel specifically designed for the Video Doorbell. Do not use the outdoor camera鈥檚 solar panel with the Video Doorbell, as they are incompatible.
 2. Make sure the solar panel is properly connected to the doorbell.
 3. Please check if there is any damage to the charging port of the solar panel's USB cable.
 4. Please ensure the following when using solar panels to charge your device:
 - The solar panel must be securely connected to your camera
 - Install the panel in an area with direct sunlight exposure (minimum 4 hours daily)
-- Keep the panel surface clean and undamaged – remove leaves/debris immediately
+- Keep the panel surface clean and undamaged 鈥?remove leaves/debris immediately
 - Maintain installation angle below 45 degrees from horizontal for optimal performance
 
 5. For troubleshooting, please check if you can charge the doorbell with a 5V2A charging adapter. If the charger successfully powers the device, the doorbell itself is considered to be functioning properly, and the solar panel needs to be replaced.
@@ -1201,8 +1198,8 @@ Low sensitivity: 1~3 meters
 Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
 3. If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
-4. If the temperature is extremely high or low, it can affect battery life. For example, at -20°C, the battery may decrease by 40% to 50%.
-5. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. If the temperature is extremely high or low, it can affect battery life. For example, at -20掳C, the battery may decrease by 40% to 50%.
+5. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 
 ---
@@ -1297,7 +1294,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please make sure that the recording option is turned on by going to SwitchBot app → Smart Video Doorbell → Gear icon → Local Storage.
+1. Please make sure that the recording option is turned on by going to SwitchBot app 鈫?Smart Video Doorbell 鈫?Gear icon 鈫?Local Storage.
 
 2. Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
  
@@ -1330,9 +1327,9 @@ Regarding this issue, could you please check the following points?
 1. Please refer to the link below for how to display video from the Video Doorbell on Home Assistant.
  [https://support.switch-bot.com/hc/en-us/articles/31984833990423](https://support.switch-bot.com/hc/en-us/articles/31984833990423)
 2. The Video Doorbell is a low power consumption device, it is not possible to view the doorbell camera footage continuously for 24 hours. Under the following conditions, you can view the footage using Home Assistant. Please confirm:
-• When the doorbell button is pressed  
-• When viewing the doorbell camera footage via the SwitchBot app or the monitor 
-• After 15 seconds have passed since linking the Video Doorbell with Home Assistant
+鈥?When the doorbell button is pressed  
+鈥?When viewing the doorbell camera footage via the SwitchBot app or the monitor 
+鈥?After 15 seconds have passed since linking the Video Doorbell with Home Assistant
 
 
 ---
@@ -1351,7 +1348,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. The Japanese version of the Video Doorbell does not currently support Matter. Please confirm that you have purchased the US, EU, or UK version of the Video Doorbell.
 2. Please use the latest version of the SwitchBot app from the app store. Versions below 9.15 or test versions may not have the matter setup option.
-3. Please check for any available firmware updates by going to SwitchBot app → Video Doorbell → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. Kindly note that firmware versions below 2.01.122 do not include the matter setup option.
+3. Please check for any available firmware updates by going to SwitchBot app 鈫?Video Doorbell 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device. Kindly note that firmware versions below 2.01.122 do not include the matter setup option.
 
 
 ---
@@ -1378,7 +1375,7 @@ Please note that the product SwitchBot Lock Pro Matter Enabled does not support 
 
 
 ---
-### Troubleshooting: I Added SwitchBot Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I’m Unable to Operate the Lock Through Apple Home.
+### Troubleshooting: I Added SwitchBot Smart Video Doorbell to Apple Home via Matter and Synced the Lock to Apple Home, but I鈥檓 Unable to Operate the Lock Through Apple Home.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
@@ -1394,7 +1391,7 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting My Newly Purchased SwitchBot Smart Video Doorbell Freezes on the “SwitchBot” Logo Screen and Cannot Be Added to SwitchBot App.
+### Troubleshooting My Newly Purchased SwitchBot Smart Video Doorbell Freezes on the 鈥淪witchBot鈥?Logo Screen and Cannot Be Added to SwitchBot App.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 To help us better understand the issue, could you please provide a video demonstrating the problem you reported?
@@ -1403,7 +1400,7 @@ To help us better understand the issue, could you please provide a video demonst
 
 
 ---
-### Troubleshooting After Using It for a While, the Monitor Freezes on the “SwitchBot” Logo Screen and Becomes Unresponsive.
+### Troubleshooting After Using It for a While, the Monitor Freezes on the 鈥淪witchBot鈥?Logo Screen and Becomes Unresponsive.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, we will arrange a dedicated device repair card for you. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
@@ -1423,7 +1420,7 @@ Regarding this issue, we will arrange a dedicated device repair card for you. To
 When the repair card arrives, please follow the steps below to repair the monitor.  
 1. Unplug the monitor.
 2. Insert the SD card into the monitor. 
-3. Turn on the power and wait for 5–15 minutes.
+3. Turn on the power and wait for 5鈥?5 minutes.
 4. Once the repair is complete, the monitor will turn on automatically.
 
 If you have any other questions, please do not hesitate to contact us.
@@ -1463,7 +1460,7 @@ https://support.switch-bot.com/hc/en-us/articles/37931517692183
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-Please make sure that the recording option is turned on by going to SwitchBot app → Smart Video Doorbell → Gear icon → Local Storage.
+Please make sure that the recording option is turned on by going to SwitchBot app 鈫?Smart Video Doorbell 鈫?Gear icon 鈫?Local Storage.
 
 Insert the microSD card into an SD card reader, and on your computer, copy some photos or videos you have on hand to the microSD card to check if it can read them properly. If the computer is also unable to read the card, the issue is likely with the microSD card itself. 
  
