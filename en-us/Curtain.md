@@ -1587,32 +1587,6 @@ If the above methods do not solve your issue, we would appreciate it if you coul
 The video of you pressing the reset button for at least 45 seconds
 
 
-
----
-### What can I do if SwitchBot Curtain stops when it hits the fixed metal seat on the rail while running?
-
-Updated: Mar 17th, 2023
-
-Applicable Products: SwitchBot Curtain U rail, Curtain U rail 2
-
-1.
-
-SwitchBot Curtain U rail/ Curtain U rail 2 is incompatible with curtain rails with fixed fittings
-
-, as shown in the picture. Although the size is not a problem, after long use, the rubber will be damaged/worn out, get caught on the contact fittings, and not be able to be replaced.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25993200336791)
-
-2. If you have already purchased our SwitchBot Curtains, please contact the place of purchase for a return and refund.
-
-3. For curtain rails like this, please refer to the below link.
-
-Related Posts: TOSO
-
-[https://www.toso.co.jp/products/c_rail/k_rail/cgata/](https://www.toso.co.jp/products/c_rail/k_rail/cgata/)
-
-
-
 ---
 ### What to do if the SwitchBot Curtain fails to connect to your device
 
