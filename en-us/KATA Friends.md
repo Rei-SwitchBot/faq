@@ -1027,3 +1027,19 @@ Regarding this issue, could you please check the following points?
 ### Will SwitchBot App Remind Me to Take KATA Friends for Maintenance Before the Purchased Companion Care Plan Expires?
 
 We regret to inform you that the SwitchBot App does not send automatic reminders for KATA Friends health checks or maintenance. We recommend checking your service plan details within the app periodically to confirm your maintenance eligibility. If you would like to request a health check, simply submit a ticket via Feedback in the SwitchBot App while your plan is still active.
+
+---
+### Troubleshooting: The Child Lock Is Activated, but SwitchBot KATA Friends Still Keeps Moving Around.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When Child Lock is enabled, the physical button on top of KATA Friends will be locked. This ensures that the mode cannot be switched by pressing the button, though it does not affect any other activities or autonomous behaviors. Therefore, it is normal for KATA Friends to continue walking around the room while Child Lock is active.
+We hope this clarifies how the Child Lock feature works. Please feel free to reach out to us if you have any further questions or if there is anything else we can assist you with. Your feedback is always valued as we strive to improve our products.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Still Take Photos Even with the Picture-Taking Function Disabled.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
