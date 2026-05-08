@@ -876,3 +876,12 @@ Important Note:
 Please add your Matter-compatible hub to the Apple Home app in advance.
 Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
 
+
+---
+### Troubleshooting: SwitchBot Plug Mini Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure that the outlet in your home is powered.
+2. Check whether the Plug Mini responds when plugged into a different outlet.
+3. Press and hold the power button on the Plug Mini for 15 seconds to reset it.
