@@ -9374,3 +9374,12 @@ SwitchBot official website account after change:
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *After changing your official website account, please link your updated official site account with your SwitchBot account in the SwitchBot App Store so that you can automatically earn points in the future.
+
+---
+### Can I Get a Free Replacement After the Warranty Has Expired?
+
+If your product needs to be replaced due to a manufacturing defect within the warranty period, we will provide a free replacement or a full refund.
+For products outside of the warranty period, please note that free returns or exchanges are no longer available. In this case, we recommend purchasing a new unit through our Official Website or Amazon to ensure you continue to enjoy the best experience.
+For more information about the product warranty period, please refer to the link below. You may need to switch the official website site according to your country or region.
+https://www.switch-bot.com/
+[image1]
