@@ -9382,4 +9382,5 @@ If your product needs to be replaced due to a manufacturing defect within the wa
 For products outside of the warranty period, please note that free returns or exchanges are no longer available. In this case, we recommend purchasing a new unit through our Official Website or Amazon to ensure you continue to enjoy the best experience.
 For more information about the product warranty period, please refer to the link below. You may need to switch the official website site according to your country or region.
 https://www.switch-bot.com/
-[image1]
+<img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/58811654-a6cd-4d15-b4ac-b3b591376496" />
+
