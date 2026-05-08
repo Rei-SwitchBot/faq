@@ -566,3 +566,12 @@ Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → Keypad Vision → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 2. Please turn off the power switch on the back of the Keypad Vision, then turn it back on to see if the issue improves.
+
+---
+### Troubleshooting: Even Though I Have Unplugged the Charging Cable, SwitchBot App Still Indicates That the Keypad Vision Is Charging.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Keypad Vision → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+2. Try unplugging and reconnecting the charging cable a few times to see if that improves the situation.
