@@ -9368,8 +9368,9 @@ For urgent issues during the investigation process, as a temporary measure, we r
 ---
 ### How to Change SwitchBot Official Website Account
 
-We will change the account and transfer the points for you later. To assist you more effectively, could you please provide the following information?
+Ｗe will change the account and transfer the points for you later. To assist you more effectively, could you please provide the following information?
 SwitchBot official website account before change:
 SwitchBot official website account after change:
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*After changing your official website account, please link your updated official site account with your SwitchBot account in the SwitchBot App Store so that you can automatically earn points in the future.
