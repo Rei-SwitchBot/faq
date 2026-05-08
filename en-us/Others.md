@@ -9365,11 +9365,6 @@ For urgent issues during the investigation process, as a temporary measure, we r
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
-
-
-
-
-
 ---
 ### How to Change SwitchBot Official Website Account
 
