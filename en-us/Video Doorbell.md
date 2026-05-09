@@ -1512,3 +1512,39 @@ Note:
 The doorbell's hub function only works with Lock series products and does not support remote control for other SwitchBot devices (such as Bot or Curtain).
 The lock and the Video Doorbell communicate via Bluetooth, which means the monitor needs to remain within the lock's Bluetooth range for remote operation. To ensure a stable connection, we recommend placing the monitor within 5 meters of the lock.
 
+
+---
+### Is it Possible to Purchase the Corner Kit B and 3M Tape B for SwitchBot Smart Video Doorbell?
+
+[image1]
+
+We regret to inform you that Corner Kit B and Adhesive Tape B (as shown above) are currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
+
+---
+### Is it Possible to Purchase the Mounting Kit A and 3M Tape A for SwitchBot Smart Video Doorbell?
+
+[image1]
+
+We regret to inform you that Mounting Kit A and Adhesive Tape A (as shown above) are currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
