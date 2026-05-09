@@ -3412,3 +3412,21 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. The issue you reported has been fixed in the firmware update. Please check for any available firmware updates by going to SwitchBot app → S20 → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
+
+---
+### How to Set up Carpet Cleaning for SwitchBot Floor Cleaning Robot S20
+
+1. You can set up carpet cleaning for your S20 in the following order:
+- Launch the SwitchBot app and log in.
+- Tap your S20.
+- Tap the map icon in the center-left of the screen.
+- Go to "Edit Floor".
+- Select "Carpet Cleaning"
+In "Carpet Settings", marking dark-colored carpets will prevent the robot from pausing its cleaning tasks.
+
+When "Carpet Mode" is enabled, the robot will automatically increase its suction power upon detecting a carpet during cleaning.
+
+By enabling "Adapt to Carpet", the roller mop will lift and stop mopping when a carpet is detected in Vac & Mop Mode. This ensures that carpets remain dry and only cleaning is performed.
+
+Once the Avoid Carpets feature is enabled, the robot will not enter or clean any carpeted areas it detects. This is because long-pile carpets may hinder the robot's movement or cause the brushes to become tangled in the fibers. If your carpet has a pile height of 20 mm or more, we strongly recommend enabling the Avoid Carpet feature or setting the entire carpeted area as a No-Go Zone.
+[image1]
