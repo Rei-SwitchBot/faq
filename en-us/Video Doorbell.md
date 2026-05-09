@@ -1516,7 +1516,8 @@ The lock and the Video Doorbell communicate via Bluetooth, which means the monit
 ---
 ### Is it Possible to Purchase the Corner Kit B and 3M Tape B for SwitchBot Smart Video Doorbell?
 
-[image1]
+<img width="645" height="491" alt="image" src="https://github.com/user-attachments/assets/40ce367c-1fc3-4587-90dc-37f219779641" />
+
 
 We regret to inform you that Corner Kit B and Adhesive Tape B (as shown above) are currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
 Also, to help us arrange the shipment quickly, please provide the following details:
@@ -1534,7 +1535,8 @@ A screenshot of your order
 ---
 ### Is it Possible to Purchase the Mounting Kit A and 3M Tape A for SwitchBot Smart Video Doorbell?
 
-[image1]
+<img width="640" height="499" alt="image" src="https://github.com/user-attachments/assets/de0ea312-8c8d-4a42-b052-40c91ff2083a" />
+
 
 We regret to inform you that Mounting Kit A and Adhesive Tape A (as shown above) are currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
 Also, to help us arrange the shipment quickly, please provide the following details:
