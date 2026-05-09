@@ -1103,15 +1103,44 @@ Please use the link below to calibrate your smart Curtain.
 [https://support.switch-bot.com/hc/en-us/articles/35613575150359](https://support.switch-bot.com/hc/en-us/articles/35613575150359)
 
 
-
 ---
 ### Troubleshooting: The Roller Part of SwitchBot Curtain 3 Has Worn Out, Causing It to Slip Frequently.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The compatible sizes for the I-rail used with Curtain 3 are shown in the diagram below. Please measure your curtains at home and provide us with the measurements for A, B, C, and D.
-<img width="384" height="606" alt="image" src="https://github.com/user-attachments/assets/b2eb882b-10c2-42bf-a937-c63827fa18d1" />
+1. The compatible sizes for the U-rail used with Curtain 3 are shown in the diagram below. Please measure your curtains at home and provide us with the measurements for A, B, C, and H.
+
+<img width="291" height="458" alt="image" src="https://github.com/user-attachments/assets/b862203c-5609-4a08-927b-72a3254a9bd5" />
+
+2. We have hook wheels of various sizes included in the package. It would be helpful if you could send us a photo showing the size of the wheel you are currently using. Additionally, please let us know if you are using hook wheel attachments.
+
+<img width="276" height="282" alt="image" src="https://github.com/user-attachments/assets/537292ed-fbb5-4dcb-be92-54f86fd68b22" />
+
+3. Please provide a photo or video clearly showing the curtain rail in your home.  
+4. Please check the curtain rail in your home for any protrusions or foreign objects. If necessary, manually clean the rail.
 
 
-Please provide a photo or video clearly showing the curtain rail in your home.
-Please check the curtain rail in your home for any protrusions or foreign objects. If necessary, manually clean the rail.
+---
+### Can SwitchBot Curtain 3 Be Used on Curtain Tracks with Fixed Metal Fittings?
+
+SwitchBot Curtain is not compatible with curtain tracks that have decorative metal accents or fixed metal fittings (as shown below). Using the device on these types of tracks may lead to operational failure, excessive wear, or even permanent damage to your curtain rail. Please refrain from using the device on these specific tracks.
+
+<img width="1277" height="570" alt="image" src="https://github.com/user-attachments/assets/f43616e4-3701-421c-8dd2-5d5e34f36515" />
+
+Note:
+The image displays a TOSO track. However, similar designs from other manufacturers are also incompatible and should not be used.
+
+
+---
+### Troubleshooting:  SwitchBot Curtain Will Stop at the Fixed Metal Fitting on the Curtain Track
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. SwitchBot Curtain is not compatible with curtain tracks that have decorative metal accents or fixed metal fittings (as shown below). Using the device on these types of tracks may lead to operational failure, excessive wear, or even permanent damage to your curtain rail. Please refrain from using the device on these specific tracks.
+
+<img width="1277" height="570" alt="image" src="https://github.com/user-attachments/assets/5b0b6f7f-6f05-4875-99b3-a5c3c5e89e2b" />
+
+2. If you have already purchased our SwitchBot Curtains, please contact the place of purchase for a return and refund. Please note that returns and refunds may not be available depending on the purchase channel. We appreciate your understanding.
+Note: If you purchase the curtain on SwitchBot official website, please provide us with your order number. Our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
