@@ -1043,3 +1043,10 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+---
+### Troubleshooting: Purchased the Companion Care but Have Not Receive the Redemption Code Email.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Upon purchasing the companion care plan, you will receive a redemption code in the inbox of the email address used for the purchase. If you do not see the email in your inbox, please check your spam folder as well.
