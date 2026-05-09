@@ -1,4 +1,4 @@
-﻿---
+---
 
 ## Curtain 3
 
@@ -11,9 +11,9 @@ Last Updated: Oct 25th, 2023
 
 Related Products: SwitchBot Curtain 3
 
-1锛?Setting the opening and closing of SwitchBot Curtains as a routine action in Google Home is not possible
+1． Setting the opening and closing of SwitchBot Curtains as a routine action in Google Home is not possible
 
-2锛?Within the Add Routine screen of Google Home, the SwitchBot Curtains are included in the list of actions. However, due to certain limitations within Google's infrastructure,
+2． Within the Add Routine screen of Google Home, the SwitchBot Curtains are included in the list of actions. However, due to certain limitations within Google's infrastructure,
 
 the option to open and close the SwitchBot Curtains cannot be designated as an action.
 
@@ -24,7 +24,7 @@ As a workaround, we suggest using the Automation feature available on the Switch
 ---
 ### Can One SwitchBot Curtain/SwitchBot Curtain 3 Be Arranged to Open From the Middle?
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 28
 
@@ -37,26 +37,26 @@ Our curtain devices are discreetly positioned behind the drapes in your home, fu
 ---
 ### Can SwitchBot Curtain 3 Utilize the Solar Panel From SwitchBot  Curtain 2?
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 21
 
 Related Products: SwitchBot Curtain, SwitchBot Curtain 3
 
-1锛?The charging port of SwitchBot Curtain 3 is a Type C, identical to that of the original SwitchBot Curtain.
+1． The charging port of SwitchBot Curtain 3 is a Type C, identical to that of the original SwitchBot Curtain.
 
 Therefore, there's no issue in using the solar panel from the original SwitchBot Curtain with the SwitchBot Curtain 3
 
 . However, ensure that the solar panel is firmly secured with Velcro. This ensures the panel won't fall due to gravity or have the charging cable disconnected accidentally.
 
-2锛?The solar panel of SwitchBot Curtain 3 can technically be connected to the SwitchBot Curtain, but when installed, it hangs at right angles to the window glass. This orientation makes it nearly impossible for the panel to receive direct sunlight for charging. Furthermore, the latest version of the solar panel features a connector designed for a secure fit with SwitchBot Curtain 3. However, if the panel is directly connected to the SwitchBot Curtain, the weight of the panel may bear down on the Type C port, potentially causing damage to the charging port. Please avoid using it in this manner.
+2． The solar panel of SwitchBot Curtain 3 can technically be connected to the SwitchBot Curtain, but when installed, it hangs at right angles to the window glass. This orientation makes it nearly impossible for the panel to receive direct sunlight for charging. Furthermore, the latest version of the solar panel features a connector designed for a secure fit with SwitchBot Curtain 3. However, if the panel is directly connected to the SwitchBot Curtain, the weight of the panel may bear down on the Type C port, potentially causing damage to the charging port. Please avoid using it in this manner.
 
 
 
 ---
 ### Function of the Light Sensor in SwitchBot Curtain 3
 
-Last Updated锛?
+Last Updated：
 
 2023 Dec 22
 
@@ -66,13 +66,13 @@ SwitchBot App Version: 7.9 or newer
 
 Firmware Version: 0.9 or newer
 
-1锛?Make sure your SwitchBot App version is up to date.
+1． Make sure your SwitchBot App version is up to date.
 
-2锛?Make sure SwitchBot Curtain 3 has been added to your App and your device firmware version is up to date.
+2． Make sure SwitchBot Curtain 3 has been added to your App and your device firmware version is up to date.
 
-3锛?Unlike SwitchBot Curtains from previous generations, SwitchBot Curtain 3 does not have an integrated light sensor. However, once connected to a SwitchBot Solar Panel, SwitchBot Curtain 3 can utilize the illumination data from the panel to automate its opening and closing functions. Please ensure that SwitchBot Curtain 3 is connected to the SwitchBot Solar Panel before attempting to use the light sensor feature.
+3． Unlike SwitchBot Curtains from previous generations, SwitchBot Curtain 3 does not have an integrated light sensor. However, once connected to a SwitchBot Solar Panel, SwitchBot Curtain 3 can utilize the illumination data from the panel to automate its opening and closing functions. Please ensure that SwitchBot Curtain 3 is connected to the SwitchBot Solar Panel before attempting to use the light sensor feature.
 
-4锛?Please configure the light sensor to manage the opening and closing in the following order.
+4． Please configure the light sensor to manage the opening and closing in the following order.
 
 Launch the SwitchBot App.
 
@@ -96,7 +96,7 @@ QuietDrift mode has been enabled automatically. Please deactivate it if it is no
 
 Save.
 
-5锛?You can set up to two Automations open/close actions with the light sensor. Please take note of this limitation.
+5． You can set up to two Automations open/close actions with the light sensor. Please take note of this limitation.
 
 
 ---
@@ -121,11 +121,11 @@ SwitchBot App Version: 7.10 or newer
 
 1. Make sure your SwitchBot App version is up to date.
 
-2. When adding curtains to the SwitchBot App, you will be prompted to choose between 鈥淥pen from one side鈥?or 鈥淥pen from the middle". Please ensure that you select the 鈥淥pen from the middle" option.
+2. When adding curtains to the SwitchBot App, you will be prompted to choose between “Open from one side” or “Open from the middle". Please ensure that you select the “Open from the middle" option.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998138893847)
 
-3. If you choose the 鈥淥pen from the middle" option, you will be prompted to add a second curtain. If you have already added one, click on "Select devices already added" and choose the curtain device in your account, then proceed. If not, please press and hold the button for the second curtain for a few seconds to add it.
+3. If you choose the “Open from the middle" option, you will be prompted to add a second curtain. If you have already added one, click on "Select devices already added" and choose the curtain device in your account, then proceed. If not, please press and hold the button for the second curtain for a few seconds to add it.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998138896023)
 
@@ -182,7 +182,7 @@ Tap "Ungroup" at the bottom of the settings screen.
 ---
 ### How to switch Curtain 3's icon on Home App
 
-Last Updated:聽 2023 Nov 30
+Last Updated:  2023 Nov 30
 
 Related Products: Curtain 3
 
@@ -217,7 +217,7 @@ Related Products: SwitchBot Curtain 3
 ---
 ### Information on the Quietdrift Feature in SwitchBot Curtain 3
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 16
 
@@ -225,21 +225,21 @@ Related Products: SwitchBot Curtain 3
 
 SwitchBot App Version: 7.4 or newer
 
-1锛?In QuietDrift mode, the device operates so subtly and silently that users won't notice the movement of the curtains. The noise level is less than 25 dB, which is measured at a distance of 1 meter from the device. When SwitchBot Curtain 3 is situated directly adjacent to your ear, you may discern the faint hum of the motor. However, stepping just slightly away diminishes the sound to the point that it becomes almost inaudible. In practical, everyday use, the curtains can be operated, both opened and closed, without causing any audible disturbance.
+1． In QuietDrift mode, the device operates so subtly and silently that users won't notice the movement of the curtains. The noise level is less than 25 dB, which is measured at a distance of 1 meter from the device. When SwitchBot Curtain 3 is situated directly adjacent to your ear, you may discern the faint hum of the motor. However, stepping just slightly away diminishes the sound to the point that it becomes almost inaudible. In practical, everyday use, the curtains can be operated, both opened and closed, without causing any audible disturbance.
 
-2锛?When using QuietDrift mode, the battery tends to drain quickly. Therefore, it is recommended to pair the use of QuietDrift with a solar panel.
+2． When using QuietDrift mode, the battery tends to drain quickly. Therefore, it is recommended to pair the use of QuietDrift with a solar panel.
 
-3锛?SwitchBot Curtain 3 can be configured to operate in QuietDrift mode, with features like automation, delay execution, and scheduling provided.
+3． SwitchBot Curtain 3 can be configured to operate in QuietDrift mode, with features like automation, delay execution, and scheduling provided.
 
-4锛?Open the SwitchBot application 鈫?activate the "QuietDrift Control" 鈫?On this screen, you can open and close Curtain 3 using the QuietDrift mode.
+4． Open the SwitchBot application → activate the "QuietDrift Control" → On this screen, you can open and close Curtain 3 using the QuietDrift mode.
 
 Note: To manipulate the opening and closing of Curtain 3 in QuietDrift mode using the SwitchBot App, you are required to access this screen and manually activate the "QuietDrift Control" each time.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25991474877463)
 
-5锛?The ability to open and close SwitchBot Curtain 3 in QuietDrift mode using the remote button is not yet supported.
+5． The ability to open and close SwitchBot Curtain 3 in QuietDrift mode using the remote button is not yet supported.
 
-6锛?The operation of SwitchBot Curtain 3 in QuietDrift mode is not possible when utilizing voice-controlled assistants such as Amazon Alexa or Google Assistant.
+6． The operation of SwitchBot Curtain 3 in QuietDrift mode is not possible when utilizing voice-controlled assistants such as Amazon Alexa or Google Assistant.
 
 
 
@@ -258,7 +258,7 @@ Related Products: SwitchBot Curtain 3
 ---
 ### Installing SwitchBot Curtain 3
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 09
 
@@ -266,11 +266,11 @@ Related Products: SwitchBot Curtain 3
 
 SwitchBot App Version: 7.4 or newer
 
-1锛?Make sure your SwitchBot App version is up to date.
+1． Make sure your SwitchBot App version is up to date.
 
-2锛?Please ensure that your smartphone's Bluetooth functionality is activated.
+2． Please ensure that your smartphone's Bluetooth functionality is activated.
 
-3锛?Follow the order below to set up the SwitchBot Curtain 3.
+3． Follow the order below to set up the SwitchBot Curtain 3.
 
 Launch the SwitchBot App.
 
@@ -292,22 +292,22 @@ Upon adjusting the travel distance, the setup is successfully completed.
 ---
 ### Instructions for Resetting SwitchBot Curtain 3
 
-Last Updated锛?
+Last Updated：
 
 2023 Oct 11
 
 Related Products: SwitchBot Curtain 3
 
-1锛?Press and hold the reset pin into the reset hole located at the bottom of SwitchBot Curtain 3 for 3 seconds to initiate a restart. This action will effectively restore power to the unit. If you encounter any temporary connection issues with the application or any other related problems, please attempt this restart method.
+1． Press and hold the reset pin into the reset hole located at the bottom of SwitchBot Curtain 3 for 3 seconds to initiate a restart. This action will effectively restore power to the unit. If you encounter any temporary connection issues with the application or any other related problems, please attempt this restart method.
 
-2锛?Pressing and holding the button on SwitchBot Curtain 3 for 15 seconds will restore the device to its factory default settings. This action will erase all preset information, including travel distance, schedule, and other settings.
+2． Pressing and holding the button on SwitchBot Curtain 3 for 15 seconds will restore the device to its factory default settings. This action will erase all preset information, including travel distance, schedule, and other settings.
 
 
 
 ---
-### Instructions for Using Magnets With the SwitchBot Curtain 3 锛圧od锛?
+### Instructions for Using Magnets With the SwitchBot Curtain 3 （Rod）
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 25
 
@@ -315,86 +315,86 @@ Related Products: SwitchBot Curtain 3
 
 Ring Top Curtains
 
-1锛?Wipe the rail thoroughly before attaching the magnet.
+1． Wipe the rail thoroughly before attaching the magnet.
 
-2锛?If a rod bracket is holding the rod at the closed position, remove the magnet attachment from the liner. Stick it to the bottom of the rod along the bracket, with the magnet piece inside parallel to the rod.
+2． If a rod bracket is holding the rod at the closed position, remove the magnet attachment from the liner. Stick it to the bottom of the rod along the bracket, with the magnet piece inside parallel to the rod.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996942289047)
 
-3锛?Pull your SwitchBot Curtain 3, make it roll onto the magnet attachment, and stop within the area as shown in the picture.
+3． Pull your SwitchBot Curtain 3, make it roll onto the magnet attachment, and stop within the area as shown in the picture.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928627607)
 
-4锛?Hide your SwitchBot Curtain 3 behind your fabric curtain to finish.
+4． Hide your SwitchBot Curtain 3 behind your fabric curtain to finish.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928631319)
 
 Double-sided curtains without a bracket in the middle
 
-1锛?Wipe the rail thoroughly before attaching the magnet.
+1． Wipe the rail thoroughly before attaching the magnet.
 
-2锛?Ensure that you fully close the curtains in your home. Position the two magnets on the left and right sides of the bracket, located in the center of the rail, and secure them to the underside of the pole.
+2． Ensure that you fully close the curtains in your home. Position the two magnets on the left and right sides of the bracket, located in the center of the rail, and secure them to the underside of the pole.
 
-3锛?Adjust SwitchBot Curtain 3 until the rubber roller halts at the area marked by the dotted line on the magnets.
+3． Adjust SwitchBot Curtain 3 until the rubber roller halts at the area marked by the dotted line on the magnets.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928638999)
 
-4锛?Hide your SwitchBot Curtain 3 behind your fabric curtains to finish.
+4． Hide your SwitchBot Curtain 3 behind your fabric curtains to finish.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996942305687)
 
 Double-sliding curtain rod without brackets in the fully closed position
 
-1锛?Wipe the rail thoroughly before attaching the magnet.
+1． Wipe the rail thoroughly before attaching the magnet.
 
-2锛?Ensure that the curtains in your home are fully closed. Indicate the closing position using the provided red sticker.
+2． Ensure that the curtains in your home are fully closed. Indicate the closing position using the provided red sticker.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996942294039)
 
-3锛?Open the curtains in your home. Peel off the tape liners of your magnet attachments, carefully align them with the position indicated by the arrow on the sticker, and attach it to the pole by wrapping it around from beneath. Make sure that the two magnets adhere to each other as illustrated.
+3． Open the curtains in your home. Peel off the tape liners of your magnet attachments, carefully align them with the position indicated by the arrow on the sticker, and attach it to the pole by wrapping it around from beneath. Make sure that the two magnets adhere to each other as illustrated.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996942290327)
 
-4锛?Adjust SwitchBot Curtain 3 until the rubber roller halts at the dotted region on the magnet.
+4． Adjust SwitchBot Curtain 3 until the rubber roller halts at the dotted region on the magnet.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928636439)
 
-5锛?Remove the sticker.
+5． Remove the sticker.
 
-6锛?Hide your SwitchBot Curtain 3 behind your fabric curtains to finish.
+6． Hide your SwitchBot Curtain 3 behind your fabric curtains to finish.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928623511)
 
 
 
 ---
-### Instructions for Using Magnets With the SwitchBot Curtain 3锛圲 Rail锛?
+### Instructions for Using Magnets With the SwitchBot Curtain 3（U Rail）
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 21
 
 Related Products: SwitchBot Curtain 3
 
-1锛?Wipe the rail thoroughly before attaching the magnet.
+1． Wipe the rail thoroughly before attaching the magnet.
 
-2锛?Push your SwitchBot Curtain U Rail 3 to the fully closed position.
+2． Push your SwitchBot Curtain U Rail 3 to the fully closed position.
 
-3锛?Peel off the tape liner on the back of your magnet.
+3． Peel off the tape liner on the back of your magnet.
 
-4锛?Point the arrow to your curtains' closing direction, and stick it to your curtain track surface as shown in the picture below. Also,聽stick your magnet on the front of your curtain track, the same side of the SwitchBot logo on your device.
+4． Point the arrow to your curtains' closing direction, and stick it to your curtain track surface as shown in the picture below. Also, stick your magnet on the front of your curtain track, the same side of the SwitchBot logo on your device.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998229037335)
 
-5锛?If your U rail track is embedded in the ceiling, point the arrow to your curtains' closing direction, and stick it to your curtain track as shown in the picture below. Also, stick your magnet to the ceiling on the same side as the SwitchBot logo on your device. Make sure the magnet is as close as possible to your SwitchBot Curtain's Main Unit.
+5． If your U rail track is embedded in the ceiling, point the arrow to your curtains' closing direction, and stick it to your curtain track as shown in the picture below. Also, stick your magnet to the ceiling on the same side as the SwitchBot logo on your device. Make sure the magnet is as close as possible to your SwitchBot Curtain's Main Unit.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998259130903)
 
-6锛?After attaching the magnets, hang your curtain back in place and hide SwitchBot Curtain 3 behind your curtain fabric.
+6． After attaching the magnets, hang your curtain back in place and hide SwitchBot Curtain 3 behind your curtain fabric.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998229039383)
 
-7锛?We will present you with a video demonstrating how to utilize the product.
+7． We will present you with a video demonstrating how to utilize the product.
 
 [Embedded Content](//www.youtube-nocookie.com/embed/DyehwIUcb0A)
 
@@ -403,7 +403,7 @@ Related Products: SwitchBot Curtain 3
 ---
 ### Is It Possible to Use SwitchBot Curtain 2 and SwitchBot Curtain 3 Together in a Group?
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 28
 
@@ -415,7 +415,7 @@ SwitchBot Curtain 3 is not compatible with SwitchBot Curtain 2. Grouping these t
 ---
 ### Magnet Instructions for SwitchBot Curtain 3
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 21
 
@@ -428,7 +428,7 @@ The Magnet with SwitchBot Curtain 3 generates a positioning point and automatica
 ---
 ### May I Use SwitchBot Curtain 3 Without Magnets?
 
-Last Updated锛?
+Last Updated：
 
 2023 Aug 22
 
@@ -436,9 +436,9 @@ Related Products: SwitchBot Curtain 3
 
 Yes,
 
-you can use SwitchBot聽 Curtain 3 without any magnets.
+you can use SwitchBot  Curtain 3 without any magnets.
 
-*Related Posts锛?
+*Related Posts：
 
 [Magnet Instructions for SwitchBot Curtain](https://support.switch-bot.com/hc/en-us/articles/16906745365783)
 
@@ -464,7 +464,7 @@ Last Updated: 2023 Sep 15
 
 Related Products: SwitchBot Curtain 3
 
-SwitchBot App Version锛歏7.6 or newer
+SwitchBot App Version：V7.6 or newer
 
 1. Make sure you have the latest version of the SwitchBot App.
 
@@ -498,15 +498,15 @@ Related Products: SwitchBot Curtain 3
 
 SwitchBot App Version: 7.11 or newer
 
-1锛?
+1．
 
 Make sure your SwitchBot App version is up to date.
 
-2锛?
+2．
 
 Make sure SwitchBot Curtain 3 and SwitchBot Hub series have been added to your App.
 
-3锛?Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain 3:
+3． Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain 3:
 
 Launch the SwitchBot App.
 
@@ -520,7 +520,7 @@ Turn on "Third-party Services" in the Settings screen.
 
 Turn on "Third-party Services" and connect it to SwitchBot Hub products in your account.
 
-4锛?
+4．
 
 Method 1: Please follow the steps below to integrate via the Alexa App.
 
@@ -544,7 +544,7 @@ Tap "Close".
 
 The Alexa App will automatically detect and synchronize with the connected devices.
 
-5锛?
+5．
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -572,21 +572,21 @@ The link will be automatically established.
 ---
 ### SwitchBot Curtain 3 Google Home Setup Guide
 
-Last Updated锛?024 Feb 01
+Last Updated：2024 Feb 01
 
-Related Products锛?SwitchBot Curtain 3
+Related Products： SwitchBot Curtain 3
 
-SwitchBot App Version锛?.11 or newer
+SwitchBot App Version：7.11 or newer
 
-1锛?
+1．
 
 Make sure your SwitchBot App version is up to date.
 
-2锛?
+2．
 
 Make sure SwitchBot Curtain 3 and SwitchBot Hub series has been added to your App.
 
-3锛?
+3．
 
 Please follow the steps below to turn on the Third-party Service for your SwitchBot Curtain 3:
 
@@ -602,7 +602,7 @@ In the Settings screen, tap "Third-party Services".
 
 Turn on the "Third-party Services" in the Settings screen and connect it to the SwitchBot Hub product associated with your account.
 
-4锛?
+4．
 
 Method 1: Please follow the steps below to integrate via the Google Home App.
 
@@ -620,7 +620,7 @@ Tap continue and then log in to your SwitchBot account in the browser.
 
 The link will be completed.
 
-5锛?
+5．
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -682,7 +682,7 @@ Curtain schedule does not support sunrise and sunset timing.
 ---
 ### Voice Commands for Controlling SwitchBot Curtain 3 Using Alexa and Google Assistant
 
-Last Updated锛?
+Last Updated：
 
 2023 Nov 30
 
@@ -690,9 +690,9 @@ Related Products: SwitchBot Curtain 3
 
 Alexa
 
-Fully Open锛?Alexa, open the [device name].
+Fully Open： Alexa, open the [device name].
 
-Fully Closed锛?Alexa, close the [device name].
+Fully Closed： Alexa, close the [device name].
 
 Open/Close to a Specific Percentage:
 
@@ -700,9 +700,9 @@ Not Supported.
 
 Google Assistant
 
-Fully Open锛?Ok Google, open the [device name].
+Fully Open： Ok Google, open the [device name].
 
-Fully Closed锛?OK Google, close the [device name].
+Fully Closed： OK Google, close the [device name].
 
 Open
 
@@ -719,26 +719,26 @@ OK Google, open the [device name] to XX%".
 
 
 ---
-### What Is the Purpose of the Connector Located at the Back of SwitchBot Curtain 3鈥檚 Solar Panel?
+### What Is the Purpose of the Connector Located at the Back of SwitchBot Curtain 3’s Solar Panel?
 
-Last Updated锛?
+Last Updated：
 
 2023 Oct 04
 
 Related Products: SwitchBot Curtain 3
 
-1锛?If sunlight is blocked by the window frame when the solar panel pole is fully extended, press the button on the side and simultaneously rotate the pole. Then, fold down the initial pole section.
+1． If sunlight is blocked by the window frame when the solar panel pole is fully extended, press the button on the side and simultaneously rotate the pole. Then, fold down the initial pole section.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998229094039)
 
-2锛?Insert the Type-C connector into the SwitchBot Curtain. Ensure the solar panel's light-receiving side is facing outward.
+2． Insert the Type-C connector into the SwitchBot Curtain. Ensure the solar panel's light-receiving side is facing outward.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998229091223)
 
 
 
 ---
-### Why Curtain 3鈥檚 Indicator Light Setting on SwitchBot App Is Gone?
+### Why Curtain 3’s Indicator Light Setting on SwitchBot App Is Gone?
 
 Last Updated: 2023 Dec 21
 
@@ -758,7 +758,7 @@ We want to confirm that it is normal for Curtain 3 to tilt slightly during insta
 
 <img width="1227" height="613" alt="image" src="https://github.com/user-attachments/assets/cc34e605-7dc3-4e8f-b2f4-2a45ae4c2829" />
 
-For your reference, we鈥檝e included a link to an installation video that demonstrates this process. Please take a look, and feel free to contact us if you need further assistance.
+For your reference, we’ve included a link to an installation video that demonstrates this process. Please take a look, and feel free to contact us if you need further assistance.
 [https://www.youtube.com/watch?v=ilKv3irx5CQ](https://www.youtube.com/watch?v=ilKv3irx5CQ)
 
 
@@ -778,19 +778,19 @@ As shown in the diagram, when exposed to sunlight that creates distinct shadow o
 ---
 ### Can I Extend the Solar Panel for SwitchBot Curtain 3?
 
-We鈥檙e sorry to inform you that the solar panel for Curtain 3 cannot be extended. The connector for the foldable solar panel is custom-designed, and using a standard extension cable may cause it to detach or malfunction. Unfortunately, this means extending the solar panel is not supported at this time.
-We understand that the current length of the solar panel may not meet everyone鈥檚 needs, and we truly appreciate your feedback. Rest assured, we will take this into account and work on improvements for future products to address this limitation and provide a more flexible solution.
+We’re sorry to inform you that the solar panel for Curtain 3 cannot be extended. The connector for the foldable solar panel is custom-designed, and using a standard extension cable may cause it to detach or malfunction. Unfortunately, this means extending the solar panel is not supported at this time.
+We understand that the current length of the solar panel may not meet everyone’s needs, and we truly appreciate your feedback. Rest assured, we will take this into account and work on improvements for future products to address this limitation and provide a more flexible solution.
 Thank you for your understanding and support as we continue to innovate and enhance your experience with our products. 
 
 ---
 ### Troubleshooting SwitchBot Curtain 3 Suddenly Stopped Working, Could't Open and Close My Curtain.
 
 We apologize for the inconvenience caused when one side of the grouped SwitchBot Curtains stops functioning. Please follow these steps to troubleshoot the issue:
-1. Check the battery levels by going to SwitchBot App 鈫?Curtain 鈫?Gear icon 鈫?Firmware & Battery. Charge the curtain if needed.
+1. Check the battery levels by going to SwitchBot App → Curtain → Gear icon → Firmware & Battery. Charge the curtain if needed.
 2. Long-press the curtain icon in the app and remove it.
 3. Reset the curtain by pressing the button on the device for 15 seconds.
 4. Re-add the curtain to the SwitchBot app.
-5. If all the above doesn't improve the issue, please remove the Curtain 3 from the curtain rail, and use the app to manually open and close the device. During this process, gently press a pen against the rollers to see if the rollers stop moving due to the pressure. We kindly ask you to send us a 20鈥?0 second video of this process, including any sounds the device makes.
+5. If all the above doesn't improve the issue, please remove the Curtain 3 from the curtain rail, and use the app to manually open and close the device. During this process, gently press a pen against the rollers to see if the rollers stop moving due to the pressure. We kindly ask you to send us a 20–40 second video of this process, including any sounds the device makes.
 Here is a guide video for your reference:
 https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view?usp=sharing
 Note:
@@ -802,9 +802,9 @@ If you are unable to add your curtain to the app, please kindly provide us with 
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. In the SwitchBot App, go to Curtain 鈫?Gear icon 鈫?Ungroup to ungroup the curtains.
-2. Check the battery levels by going to Curtain 鈫?Gear icon 鈫?Firmware & Battery. Charge the curtain if needed.
-3. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 鈫?Gear icon 鈫?Firmware & Battery. 
+1. In the SwitchBot App, go to Curtain → Gear icon → Ungroup to ungroup the curtains.
+2. Check the battery levels by going to Curtain → Gear icon → Firmware & Battery. Charge the curtain if needed.
+3. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 → Gear icon → Firmware & Battery. 
 4. Long-press the curtain icon in the app and remove it.
 5. Reset the curtain by pressing the button on the device for 15 seconds.
 6. Re-add the curtain to the SwitchBot app.
@@ -826,11 +826,11 @@ Regarding this issue, could you please check the following settings?
 
 
 ---
-### Troubleshooting SwitchBot Curtain 3 Shows 鈥淔ully Charged鈥?Even Though the Battery Is Not at 100%.
+### Troubleshooting SwitchBot Curtain 3 Shows “Fully Charged” Even Though the Battery Is Not at 100%.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please confirm that the firmware version of your Curtain 3 is 2.1 or newer. If not, update it near the device via the SwitchBot app 鈫?Curtain 3 鈫?Gear Icon 鈫?Firmware & Battery.
+1. Please confirm that the firmware version of your Curtain 3 is 2.1 or newer. If not, update it near the device via the SwitchBot app → Curtain 3 → Gear Icon → Firmware & Battery.
 
 
 ---
@@ -902,8 +902,8 @@ Note: Due to production variations, accessories may not be included. If this hap
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 Please follow the steps below to check and update your Curtain 3 device:
-1. Open the SwitchBot app 鈫?select Curtain 3 鈫?tap the gear icon 鈫?navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
-2. Make sure that the firmware version of your Curtain 3 is 2.1 or later. If not, update the firmware by going to SwitchBot app 鈫?Curtain 3 鈫?gear icon 鈫?Firmware & Battery while near the device.  
+1. Open the SwitchBot app → select Curtain 3 → tap the gear icon → navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
+2. Make sure that the firmware version of your Curtain 3 is 2.1 or later. If not, update the firmware by going to SwitchBot app → Curtain 3 → gear icon → Firmware & Battery while near the device.  
 3. Remove Curtain 3 from the app.  
 4. Press and hold the button on the Curtain 3 device for 15 seconds to reset it.  
 5. Re-add Curtain 3 to the app.  
@@ -927,8 +927,8 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 Please follow the steps below to check and update your Curtain 3 device:
-1. Open the SwitchBot app 鈫?select Curtain 3 鈫?tap the gear icon 鈫?navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
-2. Make sure that the firmware version of your Curtain 3 is 2.1 or later. If not, update the firmware by going to SwitchBot app 鈫?Curtain 3 鈫?gear icon 鈫?Firmware & Battery while near the device.  
+1. Open the SwitchBot app → select Curtain 3 → tap the gear icon → navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
+2. Make sure that the firmware version of your Curtain 3 is 2.1 or later. If not, update the firmware by going to SwitchBot app → Curtain 3 → gear icon → Firmware & Battery while near the device.  
 3. Remove Curtain 3 from the app.  
 4. Press and hold the button on the Curtain 3 device for 15 seconds to reset it.  
 5. Re-add Curtain 3 to the app.  
@@ -937,7 +937,7 @@ Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](
 
 
 ---
-### Troubleshooting I Attached the Included Attachment, but SwitchBot Curtain 3 Stops Midway and Doesn鈥檛 Rotate Smoothly.
+### Troubleshooting I Attached the Included Attachment, but SwitchBot Curtain 3 Stops Midway and Doesn’t Rotate Smoothly.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, we will assess whether it is possible to install the Curtain 3, so it would be helpful if you could provide the following information:
@@ -964,8 +964,8 @@ H = mm
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 鈫?Gear icon 鈫?Firmware & Battery.  
-2. In the SwitchBot app, go to Curtain 3 鈫?Gear icon 鈫?Calibrate 鈫?Recalibrate 鈫?Smart Calibration, and re-record the open and close positions.  
+1. Please ensure that the firmware version of your Curtain 3 is 2.1 or later. If it is not, update it near the device by navigating in the SwitchBot app as follows: Curtain 3 → Gear icon → Firmware & Battery.  
+2. In the SwitchBot app, go to Curtain 3 → Gear icon → Calibrate → Recalibrate → Smart Calibration, and re-record the open and close positions.  
 3. Check whether the roller part of the Curtain device is worn out. If the wear is not severe, clean the curtain rails and roller parts using an alcohol wipe or similar cleaning product.  
 
 
@@ -975,7 +975,7 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please make sure that the solar panel is installed in a location where it is exposed to direct sunlight.  
-2. In the SwitchBot app, go to Curtain 3 鈫?Light Sensor, and check the time periods during which the illuminance level stays above 7. If the illuminance level is below 7, we cannot guarantee an increase in battery charge.  
+2. In the SwitchBot app, go to Curtain 3 → Light Sensor, and check the time periods during which the illuminance level stays above 7. If the illuminance level is below 7, we cannot guarantee an increase in battery charge.  
 [https://support.switch-bot.com/hc/en/articles/32600138616855](https://support.switch-bot.com/hc/ja/articles/32600138616855-%E3%82%AB%E3%83%BC%E3%83%86%E3%83%B33%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB%E3%81%AE-%E6%9B%87%E3%82%8A%E3%81%AE%E6%97%A5%E3%81%A7%E3%82%82%E5%8A%B9%E7%8E%87%E3%82%88%E3%81%8F%E5%85%85%E9%9B%BB-%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 3. If you have multiple Curtain 3 devices and solar panels, as a troubleshooting step, swap the solar panel to confirm if it can charge.
 
@@ -988,7 +988,7 @@ Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. You may not be able to update with the beta version.
 2. Use the reset pin to press and hold the reset hole located at the bottom of the Curtain 3 for 3 seconds to restart the device.  
 3. Press and hold the button on the Curtain 3 main body for 15 seconds to reset the device.   
-4. Please check if the curtain's firmware needs to be recovered by going to SwitchBot app 鈫?Profile 鈫?Firmware Recovery.
+4. Please check if the curtain's firmware needs to be recovered by going to SwitchBot app → Profile → Firmware Recovery.
 5. Wait for a while, then try the firmware update again.  
 
 
@@ -997,12 +997,12 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Open the SwitchBot app 鈫?select Curtain 3 鈫?tap the gear icon 鈫?navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
+1. Open the SwitchBot app → select Curtain 3 → tap the gear icon → navigate to Firmware & Battery to check the battery level. If necessary, charge your Curtain 3 for at least one hour.  
 2. Please check if the SwitchBot Logo of the device is facing indoors (see photo of old version curtain, also compatible with Curtain 3).
 
 <img width="606" height="659" alt="image" src="https://github.com/user-attachments/assets/5526a18c-484d-4eba-a46c-185c5515ffa4" />
 
-3. When calibrating in the SwitchBot app, please close the curtain and record the positions in the following order: fully open position 鈫?fully closed position.
+3. When calibrating in the SwitchBot app, please close the curtain and record the positions in the following order: fully open position → fully closed position.
 4. Please remove Curtain 3 from the rail, turn off QuietDrift Mode, control the curtain using the SwitchBot App, and lightly touch the roller with a pen to test if it stops.
 Video: [https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view](https://drive.google.com/file/d/1nZktY-sXSLdGe8qnh26fhRjl2Z9pctZD/view)
 
@@ -1070,7 +1070,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. When operating the curtain via the SwitchBot app, the curtain operates in Standard Mode. If you can control your curtain opening and closing through the app, it is considered that there are no issues with the motor of the curtain device. Please check whether Silent Mode or QuietDrift Mode is enabled by navigating through SwitchBot app 鈫?Curtain 鈫?Schedules 鈫?the specific schedule 鈫?Motion Mode. If necessary, switch to Standard Mode.
+1. When operating the curtain via the SwitchBot app, the curtain operates in Standard Mode. If you can control your curtain opening and closing through the app, it is considered that there are no issues with the motor of the curtain device. Please check whether Silent Mode or QuietDrift Mode is enabled by navigating through SwitchBot app → Curtain → Schedules → the specific schedule → Motion Mode. If necessary, switch to Standard Mode.
 
 <img width="744" height="1280" alt="image" src="https://github.com/user-attachments/assets/4fa75553-06d9-40a3-bc5d-06b33c98e17b" />
 
@@ -1109,26 +1109,9 @@ Please use the link below to calibrate your smart Curtain.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. The compatible sizes for the U-rail used with Curtain 3 are shown in the diagram below. Please measure your curtains at home and provide us with the measurements for A, B, C, and H.
-[image1]
-2. We have hook wheels of various sizes included in the package. It would be helpful if you could send us a photo showing the size of the wheel you are currently using. Additionally, please let us know if you are using hook wheel attachments.
-[image2]
-3. Please provide a photo or video clearly showing the curtain rail in your home.
-4. Please check the curtain rail in your home for any protrusions or foreign objects. If necessary, manually clean the rail.
----
-### Can SwitchBot Curtain 3 Be Used on Curtain Tracks with Fixed Metal Fittings?
+The compatible sizes for the I-rail used with Curtain 3 are shown in the diagram below. Please measure your curtains at home and provide us with the measurements for A, B, C, and D.
+<img width="384" height="606" alt="image" src="https://github.com/user-attachments/assets/b2eb882b-10c2-42bf-a937-c63827fa18d1" />
 
-SwitchBot Curtain is not compatible with curtain tracks that have decorative metal accents or fixed metal fittings (as shown below). Using the device on these types of tracks may lead to operational failure, excessive wear, or even permanent damage to your curtain rail. Please refrain from using the device on these specific tracks.
-[image1]
 
-Note:
-The image displays a TOSO track. However, similar designs from other manufacturers are also incompatible and should not be used.
----
-### Troubleshooting: SwitchBot Curtain Will Stop at the Fixed Metal Fitting on the Curtain Track
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. SwitchBot Curtain is not compatible with curtain tracks that have decorative metal accents or fixed metal fittings (as shown below). Using the device on these types of tracks may lead to operational failure, excessive wear, or even permanent damage to your curtain rail. Please refrain from using the device on these specific tracks.
-[image1]
-2. If you have already purchased our SwitchBot Curtains, please contact the place of purchase for a return and refund. Please note that returns and refunds may not be available depending on the purchase channel. We appreciate your understanding.
-Note: If you purchase the curtain on SwitchBot official website, please provide us with your order number. Our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+Please provide a photo or video clearly showing the curtain rail in your home.
+Please check the curtain rail in your home for any protrusions or foreign objects. If necessary, manually clean the rail.
