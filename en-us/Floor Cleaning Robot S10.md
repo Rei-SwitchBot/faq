@@ -3345,4 +3345,5 @@ When "Carpet Mode" is enabled, the robot will automatically increase its suction
 By enabling "Adapt to Carpet", the roller mop will lift and stop mopping when a carpet is detected in Vac & Mop Mode. This ensures that carpets remain dry and only cleaning is performed.
 
 Once the Avoid Carpets feature is enabled, the robot will not enter or clean any carpeted areas it detects. This is because long-pile carpets may hinder the robot's movement or cause the brushes to become tangled in the fibers. If your carpet has a pile height of 20 mm or more, we strongly recommend enabling the Avoid Carpet feature or setting the entire carpeted area as a No-Go Zone.
-[image1]
+<img width="1280" height="541" alt="image" src="https://github.com/user-attachments/assets/a5c07006-35ba-4701-9a9b-9b50f579caec" />
+
