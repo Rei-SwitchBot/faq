@@ -27,7 +27,7 @@ The exterior assembly and interior assembly of SwitchBot Lock Vision are connect
 ---
 ### How Long Can SwitchBot Lock Vision Rechargeable Battery Last on a Single Charge?
 
-Locking once with the lock key and unlocking once with facial recognition count as one lock-unlock cycle. Assuming 10 such cycles occur daily, the Lock Vision's rechargeable battery can last up to nine months on a single charge.
+Locking once with the lock key and unlocking once with facial recognition count as one lock-unlock cycle. Assuming 10 such cycles occur daily, the Lock Vision's rechargeable battery can last up to a year on a single charge.
 
 Note:
 The above estimates are based on SwitchBot laboratory test conditions and may differ depending on actual usage environments.
@@ -230,7 +230,7 @@ We regret to inform you that the key included with each Lock Vision is uniquely 
 ---
 ### Does SwitchBot Lock Vision Support Apple Home Key?
 
-Yes, Lock Vision supports unlocking with the Apple Home Key. You can unlock it by tapping your iPhone or Apple Watch.
+We regret to inform you that currently Lock Vision and Lock Vision Pro do not support Apple Home Key. We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 
 ---
 ### What is the Difference Between SwitchBot Lock Vision Pro and Lock Vision?
