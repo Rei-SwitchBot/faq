@@ -1802,3 +1802,11 @@ Regarding this issue, could you please check the following points?
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can I lock and unlock my door lock using the ON and OFF buttons on SwitchBot Hub 2?
+
+The ON and OFF buttons on Hub 2 are designed to control SwitchBot scenes. For security reasons, locking and unlocking cannot be set as actions in SwitchBot Scene or Automation, so you can not use the ON and OFF to lock or unlock your door lock.
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+Note: If you add the Lock product to the list of devices that can be controlled by Hub 3, you can control the Lock using the buttons on the Hub 3 itself. If you are considering replacing your device, we recommend purchasing Hub 3.
+https://support.switch-bot.com/hc/en-us/articles/28643257802519
