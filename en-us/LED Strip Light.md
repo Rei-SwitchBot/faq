@@ -275,3 +275,17 @@ https://support.switch-bot.com/hc/en-us/articles/32573508408983
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. If the Wi-Fi disconnects, the schedule will stop working, so please install the LED Strip Light near the router to ensure a stable internet connection.
+
+---
+### Troubleshooting Can't Control SwitchBot LED Strip Light With the Controller.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide a video showing that the Strip Light cannot be controlled with the controller?
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can SwitchBot LED Strip Light Be Extended for Use?
+
+Since the connection points or even the entire LED strip light may fail to illuminate, please avoid extending the light strip.
