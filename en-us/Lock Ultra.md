@@ -701,7 +701,8 @@ If you have any other questions, please do not hesitate to contact us.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 If your door opens inward, the distance from the lock's backset to the door frame must be at least 33 mm. If it opens outward, the distance must exceed 40 mm. A smaller distance will cause the Lock Ultra body to interfere with the door, preventing proper installation.
-[image1]
+<img width="1280" height="552" alt="image" src="https://github.com/user-attachments/assets/41d04a8b-8492-4968-b7d0-5e5fce816932" />
+
 
 ---
 ### Troubleshooting No Action Was Taken, Yet SwitchBot Lock Ultra Suddenly Unlocked on Its Own.
