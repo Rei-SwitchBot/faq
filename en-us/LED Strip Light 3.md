@@ -37,3 +37,15 @@ Regarding this issue, could you please provide a video showing that the Strip Li
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can SwitchBot LED Strip Light 3 Be Extended for Use?
+
+Since the connection points or even the entire LED Strip Light 3 may fail to illuminate, please avoid extending the light strip.
+
+---
+### Can I Cut SwitchBot LED Strip Light 3 and Reuse the Remaining?
+
+We are sincerely sorry that we do not recommand you reusing the remaining cut off strip light.
+Please note that the SwitchBot LED light strip can be cut and reused by purchasing the necessary adapters and connectors (We do not sell them), but this process requires basic electrical knowledge and good DIY skills. However, during reuse, there may be issues such as poor contact resulting in power supply failure or difficulties adding the light strip to the SwitchBot App.
+Please be aware that SwitchBot cannot provide a warranty for products that are personally modified or DIY.
