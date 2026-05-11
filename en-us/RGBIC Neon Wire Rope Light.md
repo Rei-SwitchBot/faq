@@ -39,3 +39,23 @@ We apologize for any inconvenience this may cause. Please rest assured that we w
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. If the Wi-Fi disconnects, the schedule will stop working, so please install the RGBIC Neon Wire Rope Light near the router to ensure a stable internet connection.
+
+---
+### How to Add SwitchBot RGBIC Neon Wire Rope Light to Apple Home via Matter
+
+You can add the RGBIC Neon Wire Rope Light directly to Apple Home by scanning the QR code on the device, or you can first add the device to the SwitchBot App to confirm the Matter setup code, then add the device to Apple Home by entering the Matter setup code. For detailed instructions, please refer to the video.
+Video: https://youtu.be/JHStfb5fHwY
+
+---
+### Troubleshooting SwitchBot RGBIC Neon Wire Rope Light Won't Connect to Apple Home App via Matter
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. You can add the RGBIC Neon Wire Rope Light directly to Apple Home by scanning the QR code on the device, or you can first add the device to the SwitchBot App to confirm the Matter setup code, then add the device to Apple Home by entering the Matter setup code. For detailed instructions, please refer to the video.
+You can check the matter setup code by going to SwitchBot app → RGBIC Neon Wire Rope Light → Gear Icon (Settings) → Matter Setup.
+Video: https://youtu.be/JHStfb5fHwY
+
+---
+### Can Multiple SwitchBot RGBIC Neon Wire Rope Lights Be Used as a Group?
+
+SwitchBot RGBIC Neon Wire Rope Light does not support a grouping feature. However, you can achieve similar results by adding multiple devices as actions within a SwitchBot Scene or Automation, allowing them to follow the same command. Please note that due to network connectivity, these commands may occasionally execute with a slight delay, meaning the devices might not operate perfectly in sync (for example, turning on or off at the exact same time). We appreciate your understanding.
