@@ -694,3 +694,20 @@ When the door is left open, the Lock Ultra and the magnet will indicate that "th
 2. SwitchBot App → Profile → Preferences → App Notifications → Notification management under Device Notifications → Switch to the home where the Lock Ultra is located in the top left → Lock Ultra → Disable "Door Left Open".
 
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: The Door Frame Obstructs the Lock Ultra Body, Making It Impossible to Install SwitchBot Lock Ultra.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+If your door opens inward, the distance from the lock's backset to the door frame must be at least 33 mm. If it opens outward, the distance must exceed 40 mm. A smaller distance will cause the Lock Ultra body to interfere with the door, preventing proper installation.
+[image1]
+
+---
+### Troubleshooting No Action Was Taken, Yet SwitchBot Lock Ultra Suddenly Unlocked on Its Own.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+1. As smart locks directly impact both property and personal safety, we fully recognize that any instance of a lock opening automatically without user operation is a serious issue. To be sure, we would like to confirm whether you have enabled the "Auto-Unlock" feature on your Lock Ultra.
+https://support.switch-bot.com/hc/en-us/articles/25330863432727
+2. If you haven't used the "Auto-Unlock" feature, please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate youre Lock Ultra before use.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!

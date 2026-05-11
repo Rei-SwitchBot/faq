@@ -395,3 +395,23 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 *We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
 *To assist us in reviewing the latest operation log, please open the SwitchBot app, select Lock Ultra, perform a locking and unlocking action on the operation screen (even if the operation fails), and then submit your feedback.
+
+---
+### Troubleshooting: The Door Frame Obstructs the Lock Ultra Body, Making It Impossible to Install SwitchBot Lock Ultra.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+To assist you more effectively, could you please visit the compatibility website below and provide the corresponding dimensions along with a photo of your door lock?
+https://www.switch-bot.com/pages/switchbot-lock-ultra-compatibility
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting No Action Was Taken, Yet SwitchBot Lock Ultra Suddenly Unlocked on Its Own.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot displaying the unlock logs, accessible via the SwitchBot app by navigating to Lock Ultra → Logs.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
