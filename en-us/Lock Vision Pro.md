@@ -106,6 +106,8 @@ The exterior assembly and interior assembly of SwitchBot Lock Vision Pro are con
 
 Locking once with the lock key and unlocking once with facial recognition count as one lock-unlock cycle. Assuming 10 such cycles occur daily, the Lock Vision Pro's rechargeable battery can last up to a year on a single charge.
 
+Note:
+The above estimates are based on SwitchBot laboratory test conditions and may differ depending on actual usage environments.
 
 ---
 ### Can the Type-C Port on SwitchBot Lock Vision Pro Exterior Assembly Be Used for Charging?
