@@ -1080,4 +1080,5 @@ https://support.switch-bot.com/hc/ja/articles/4424755304215
 - KATAフレンズをSwitchBotアプリに追加する
 - SwitchBotアプリ→KATAフレンズをタップ→「限定特典」のアイコン→受け取る
 ご注意：限定特典の6ヶ月分無料ライトプランは、交換コードの入力が不要です。アプリで直接受け取ってください。
-[image1]
+<img width="1145" height="612" alt="image" src="https://github.com/user-attachments/assets/69a9d924-38d9-45d7-9c16-ec5c6861172a" />
+
