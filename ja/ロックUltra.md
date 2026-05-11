@@ -935,7 +935,8 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 ### 高さ調節パーツを使ってロックUltraをプッシュプル錠に取り付ける方法
 
 1. ご購入いただいたロックUltra用高さ調節ケースは最新ロットであれば、下図で示された高さ調節パーツが付属されております。高さ調節パーツを使ってロックUltraをプッシュプル錠に取り付けてください。
-[image1]
+<img width="341" height="283" alt="image" src="https://github.com/user-attachments/assets/dbfe5c6e-d9d6-4d70-b4de-7ce9cb41a87f" />
+
 
 ロックUltra用高さ調節ケース購入リンク：https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra
 取り付け動画：https://support.switch-bot.com/hc/ja/articles/34255835179415
@@ -957,7 +958,8 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 弊社の製品で大変ご迷惑をおかけしております。
 本件について、以下をご確認いただけますでしょうか。
 1. ご自宅のドアが、室内から外側に押して開けるタイプであれば、つまみの中心からドア枠までの長さは40mm以上であることをご確認ください。40mm以下であると、ロックUltra本体はドア枠と干渉して取り付けできません。
-[image1]
+<img width="1145" height="1196" alt="image" src="https://github.com/user-attachments/assets/d661f968-5d23-4c6b-b115-0b0fe1fb12e4" />
+
 
 ---
 ### トラブルシューティング何も操作していないのに、ロックUltraは勝手に解錠される。
