@@ -70,3 +70,13 @@ Regarding this issue, could you please check the following points?
 1. You can add the RGBICWW Strip Light directly to Apple Home by scanning the QR code on the device, or you can first add the device to the SwitchBot App to confirm the Matter setup code, then add the device to Apple Home by entering the Matter setup code. For detailed instructions, please refer to the video.
 You can check the matter setup code by going to SwitchBot app → RGBICWW Strip Light → Gear Icon (Settings) → Matter Setup.
 Video: https://youtu.be/JHStfb5fHwY
+
+---
+### Can SwitchBot RGBICWW Strip Light Be Extended for Use?
+
+Since the connection points or even the entire RGBICWW Strip Light may fail to illuminate, please avoid extending the light strip.
+
+---
+### Can Multiple SwitchBot RGBICWW Strip Lights Be Used as a Group?
+
+SwitchBot RGBICWW Strip Light does not support a grouping feature. However, you can achieve similar results by adding multiple devices as actions within a SwitchBot Scene or Automation, allowing them to follow the same command. Please note that due to network connectivity, these commands may occasionally execute with a slight delay, meaning the devices might not operate perfectly in sync (for example, turning on or off at the exact same time). We appreciate your understanding.
