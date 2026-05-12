@@ -296,3 +296,8 @@ Since the connection points or even the entire LED strip light may fail to illum
 We are sincerely sorry that we do not recommand you reusing the remaining cut off strip light.
 Please note that the SwitchBot LED light strip can be cut and reused by purchasing the necessary adapters and connectors (We do not sell them), but this process requires basic electrical knowledge and good DIY skills. However, during reuse, there may be issues such as poor contact resulting in power supply failure or difficulties adding the light strip to the SwitchBot App.
 Please be aware that SwitchBot cannot provide a warranty for products that are personally modified or DIY.
+
+---
+### Can Multiple SwitchBot LED Strip Lights Be Used as a Group?
+
+SwitchBot LED Strip Light does not support a grouping feature. However, you can achieve similar results by adding multiple devices as actions within a SwitchBot Scene or Automation, allowing them to follow the same command. Please note that due to network connectivity, these commands may occasionally execute with a slight delay, meaning the devices might not operate perfectly in sync (for example, turning on or off at the exact same time). We appreciate your understanding.
