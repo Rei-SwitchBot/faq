@@ -123,3 +123,17 @@ Regarding this issue, could you please provide a video showing that the floor la
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting Only a Part of SwitchBot RGBICWW Floor Lamp Can Light Up
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a photo or video showing the issue?
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can Multiple SwitchBot RGBICWW Floor Lamps Be Used as a Group?
+
+SwitchBot RGBICWW Floor Lamp does not support a grouping feature. However, you can achieve similar results by adding multiple devices as actions within a SwitchBot Scene or Automation, allowing them to follow the same command. Please note that due to network connectivity, these commands may occasionally execute with a slight delay, meaning the devices might not operate perfectly in sync (for example, turning on or off at the exact same time). We appreciate your understanding.
