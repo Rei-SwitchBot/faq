@@ -59,3 +59,8 @@ Video: https://youtu.be/JHStfb5fHwY
 ### Can Multiple SwitchBot RGBIC Neon Wire Rope Lights Be Used as a Group?
 
 SwitchBot RGBIC Neon Wire Rope Light does not support a grouping feature. However, you can achieve similar results by adding multiple devices as actions within a SwitchBot Scene or Automation, allowing them to follow the same command. Please note that due to network connectivity, these commands may occasionally execute with a slight delay, meaning the devices might not operate perfectly in sync (for example, turning on or off at the exact same time). We appreciate your understanding.
+
+---
+### Can SwitchBot RGBIC Neon Wire Rope Light Be Extended for Use?
+
+Since the connection points or even the entire RGBIC Neon Wire Rope Light may fail to illuminate, please avoid extending the light strip.
