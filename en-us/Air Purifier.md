@@ -590,3 +590,17 @@ City
 State/Province
 ZIP/Postal Code
 A screenshot of your order
+
+---
+### Troubleshooting: The Mood Light on SwitchBot Air Purifier Table Turns On and Off by Itself.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
+[image1]
+
+In the "Off" setting, the light will not turn on.
+In the "Auto" setting, the light will automatically turn off when the surrounding area becomes dark and turns on when it becomes bright. Also, please ensure the light sensor is not covered during normal use.
+[image2]
+
+In the "On" setting, the light will stay on continuously.
