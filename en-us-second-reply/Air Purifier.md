@@ -173,3 +173,22 @@ If the mood light does not turn on even when set to "On", we will escalate this 
 - A photo showing the brightness of the room when the air purifier turns off or on
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot Air Purifier Is Displaying a Sensor Fault and Cannot Operate Normally.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+---
+### Troubleshooting: SwitchBot App Reports a Motor Failure in the Air Purifier.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing Air Purifier motor failure error
+- A video demonstrating that the air purifier does not respond when the button on the unit is pressed
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.

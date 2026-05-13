@@ -606,3 +606,38 @@ In the "Auto" setting, the light will automatically turn off when the surroundin
 
 
 In the "On" setting, the light will stay on continuously.
+
+---
+### Is it Possible to Purchase the Power Cable for SwitchBot Air Purifier?
+
+We regret to inform you that power cable is currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
+
+---
+### Troubleshooting: SwitchBot Air Purifier Is Displaying a Sensor Fault and Cannot Operate Normally.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot from the SwitchBot App displaying a sensor fault for the air purifier
+- A screenshot of your order
+If you have not submitted feedback on the SwitchBot App, please additionally provide your SwitchBot App account and the MAC address of the device, which can be confirmed in the device information item on the device settings page.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot App Reports a Motor Failure in the Air Purifier.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press and hold the power button of the air purifier for 15 seconds to reset it.
+2. Please remove the air purifier from the SwitchBot app and then re-add it.
