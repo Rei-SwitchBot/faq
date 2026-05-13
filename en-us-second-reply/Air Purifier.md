@@ -143,3 +143,22 @@ We apologize for any inconvenience caused.
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot Air Purifier Table Is Displaying a Sensor Fault and Cannot Operate Normally.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+---
+### Troubleshooting: SwitchBot App Reports a Motor Failure in the Air Purifier Table.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing Air Purifier Table motor failure error
+- A video demonstrating that the Air Purifier Table does not respond when the button on the unit is pressed
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.

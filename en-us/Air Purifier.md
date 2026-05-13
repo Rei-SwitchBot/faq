@@ -546,3 +546,47 @@ Yes, both the aroma sponge and the storage box can be washed with water. After c
 ### Is It Possible to Purchase the Sponge for the Aroma Function of SwitchBot Air Purifier Table Separately?
 
 We regret to inform you that the aromatherapy sponge for Air Purifiers is not sold separately. If needed, you may purchase sponges independently and modify them to fit the required shape for use.
+
+---
+### Troubleshooting: SwitchBot Air Purifier Table Is Displaying a Sensor Fault and Cannot Operate Normally.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, we will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot from the SwitchBot App displaying a sensor fault for the air purifier
+- A screenshot of your order
+If you have not submitted feedback on the SwitchBot App, please additionally provide your SwitchBot App account and the MAC address of the device, which can be confirmed in the device information item on the device settings page.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot App Reports a Motor Failure in the Air Purifier Table.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press and hold the power button of the Air Purifier Table for 15 seconds to reset it.
+2. Please remove the Air Purifier Table from the SwitchBot app and then re-add it.
+
+---
+### Troubleshooting: SwitchBot Air Purifier Table Tips Over When the Cat Jumps Down from the Table.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When a cat jumps down from a higher surface, especially if the cat is slightly larger, it may naturally push off with its hind legs to gain momentum. This can create a sudden backward force on the surface or item it is standing on. If the item is relatively lightweight, such as an air purifier, the base may not be able to fully absorb that instant force, which could cause the device to tip over.
+To help prevent this from happening, we recommend using strong adhesive fixing pads designed for home appliances to secure the air purifier in place. This can greatly reduce the risk of the device tipping over due to sudden impact or pushing force.
+Please note that adhesive pads may leave marks depending on the material of the product or furniture. They may also cause discoloration depending on the type of flooring. Before purchasing or using any adhesive pads, please carefully check the product specifications and choose one that is suitable for your floor and home environment.
+
+---
+### Is it Possible to Purchase the Power Cable for SwitchBot Air Purifier Table?
+
+We regret to inform you that power cable is currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
