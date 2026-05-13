@@ -597,10 +597,12 @@ A screenshot of your order
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/092ffe36-9f2e-495f-8c45-834e4d733196" />
+
 
 In the "Off" setting, the light will not turn on.
 In the "Auto" setting, the light will automatically turn off when the surrounding area becomes dark and turns on when it becomes bright. Also, please ensure the light sensor is not covered during normal use.
-[image2]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/c19d0ad8-5858-4c87-bb83-b79c7e87346b" />
+
 
 In the "On" setting, the light will stay on continuously.
