@@ -1058,3 +1058,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+---
+### How to Claim the Six-Month Essential Plan Offered During the Compaign
+
+If you purchase KATA Friends during the campaign, please follow the steps below to claim the six-month Essential Plan.
+Add KATA Friends to the SwitchBot app
+SwitchBot app → Tap KATA Friends → Tap the "Limited Offer" icon → Claim
+Note:
+The six-month free Essential Plan available as part of this limited offer does not require a redemption code. Simply claim it directly within the app.
+[image1]
