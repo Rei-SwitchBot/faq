@@ -641,3 +641,74 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Press and hold the power button of the air purifier for 15 seconds to reset it.
 2. Please remove the air purifier from the SwitchBot app and then re-add it.
+
+---
+### Troubleshooting: SwitchBot Air Purifier's Light Does Not Change Color According to Air Quality.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound. The light color will not change based on air quality if you set it to "Customize". Thank you for your understanding.
+[image1]
+
+2. It may take some time for the sensor to respond, so the color may not change immediately after turning on the air purifier. Please wait a moment and check for any changes in color.
+3. Set the air purifier to automatic mode, lightly flick dust in the sensor area, and observe any changes in the color of the light according to the air quality.
+4. Use a hairdryer or a small vacuum cleaner to remove any dust adhering to the sensor area.
+
+---
+### Troubleshooting: When Using the SwitchBot Air Purifier to Charge a Phone, the Charging Stops Once the Battery Reaches a Certain Level, Preventing the Phone from Being Fully Charged.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. For the best charging performance, make sure the charging coil in your phone is properly aligned with the coil on the charging pad. Since the position of the coil varies between devices, we recommend checking your smartphone's manual for specific alignment instructions.
+2. If your phone has a protective case, particularly a thicker one, try removing it to see if that improves performance.
+3. If you have another smartphone on hand, please check if you can charge it normally by switching smartphones.
+
+---
+### Troubleshooting Failed to Update SwitchBot Air Purifier Table Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.
+2. Perform the firmware update near the device to ensure a stable connection.
+3. Unplug the Air Purifier Table, wait a few seconds, then plug it back in.
+4. Turn off your home router, wait about 30 seconds, then turn it back on.
+5. Switch to a mobile hotspot connection and attempt the update again.
+6. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+7. If you are using a VPN, please disconnect it during the firmware update.
+8. If you have another smartphone, please try changing your smartphone and updating it.
+
+---
+### Troubleshooting: The Light on SwitchBot Air Purifier Table Has Always Been Red.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound. The light color will remain unchanged if you customize it to red. Thank you for your understanding.
+[image1]
+
+2. Please verify whether outside air is continuously entering. We kindly ask you to place the air purifier in a more stable indoor environment and monitor the situation for a while.
+
+---
+### Troubleshooting: When the Air Quality Is Very Good, SwitchBot Air Purifier Table's Mood Light Appears White Instead of Blue.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The color of the air quality mood light on the Air Purifier has been adjusted through an update. When the air quality is very good, the light now shows a softer light blue color, which may appear close to white in some environments. Please rest assured that this is not a device malfunction. We appreciate your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: The Mood Light on SwitchBot Air Purifier Table Won't Turn On.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
+[image1]
+
+In the "Off" setting, the light will not turn on.
+In the "Auto" setting, the light will automatically turn off when the surrounding area becomes dark and turns on when it becomes bright. Also, please ensure the light sensor is not covered during normal use.
+[image2]
+
+In the "On" setting, the light will stay on continuously.
+
+2. Unplug the air purifier from the power source, then plug it back in and press the power button to see if the light turns on.
+3. Please ensure that the table is securely attached to the main body of the air purifier.
+[image3]

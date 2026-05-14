@@ -192,3 +192,108 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A video demonstrating that the air purifier does not respond when the button on the unit is pressed
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot Air Purifier's Light Does Not Change Color According to Air Quality.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot of the mood light settings
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting: When Using the SwitchBot Air Purifier to Charge a Phone, the Charging Stops Once the Battery Reaches a Certain Level, Preventing the Phone from Being Fully Charged.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing the issue of being unable to charge with the air purifier table
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting Failed to Update SwitchBot Air Purifier Table Firmware
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
+---
+### Troubleshooting: The Light on SwitchBot Air Purifier Table Has Always Been Red.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot of the mood light settings
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting: The Mood Light on SwitchBot Air Purifier Table Won't Turn On.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A screenshot of the mood light settings
+  2. A video demonstrating that the light does not turn on after reconnecting the power and pressing the power button.
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
