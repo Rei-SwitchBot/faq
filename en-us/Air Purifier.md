@@ -648,7 +648,8 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound. The light color will not change based on air quality if you set it to "Customize". Thank you for your understanding.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1318cbd-39b4-4c0e-894b-90f8f544abdf" />
+
 
 2. It may take some time for the sensor to respond, so the color may not change immediately after turning on the air purifier. Please wait a moment and check for any changes in color.
 3. Set the air purifier to automatic mode, lightly flick dust in the sensor area, and observe any changes in the color of the light according to the air quality.
@@ -683,7 +684,8 @@ Regarding the firmware update issue, could you please check the following points
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound. The light color will remain unchanged if you customize it to red. Thank you for your understanding.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/de5529d0-c923-4658-a6dc-3172af98a98f" />
+
 
 2. Please verify whether outside air is continuously entering. We kindly ask you to place the air purifier in a more stable indoor environment and monitor the situation for a while.
 
@@ -701,14 +703,17 @@ If you have any other questions, please do not hesitate to contact us.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/02edc217-a068-4cf4-95ec-253db01d02ec" />
+
 
 In the "Off" setting, the light will not turn on.
 In the "Auto" setting, the light will automatically turn off when the surrounding area becomes dark and turns on when it becomes bright. Also, please ensure the light sensor is not covered during normal use.
-[image2]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/71cfcf85-a121-4f50-b89a-cde5a058df1a" />
+
 
 In the "On" setting, the light will stay on continuously.
 
 2. Unplug the air purifier from the power source, then plug it back in and press the power button to see if the light turns on.
 3. Please ensure that the table is securely attached to the main body of the air purifier.
-[image3]
+<img width="362" height="245" alt="image" src="https://github.com/user-attachments/assets/ac847b63-203b-4f46-bee6-d7127b082a6d" />
+
