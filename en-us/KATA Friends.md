@@ -1067,4 +1067,5 @@ Add KATA Friends to the SwitchBot app
 SwitchBot app → Tap KATA Friends → Tap the "Limited Offer" icon → Claim
 Note:
 The six-month free Essential Plan available as part of this limited offer does not require a redemption code. Simply claim it directly within the app.
-[image1]
+<img width="1272" height="633" alt="image" src="https://github.com/user-attachments/assets/cabaf04d-07a9-4fe8-9e95-fa4d7b1fbb74" />
+
