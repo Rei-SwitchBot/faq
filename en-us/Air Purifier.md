@@ -1,4 +1,4 @@
----
+﻿---
 
 ## Air Purifier
 
@@ -9,15 +9,15 @@
 
 Last Updated: 2024 Oct 16
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
 The HEPA filter in the SwitchBot Air Purifier is designed to capture particles ranging from
 
-0.1-0.3 microns (µm)
+0.1-0.3 microns (碌m)
 
 with an impressive efficiency of 99.97%.
 
-The Air Purifier has a Clean Air Delivery Rate (CADR) of 236 CFM (400m³/h), indicating its ability to quickly purify the air in your space.
+The Air Purifier has a Clean Air Delivery Rate (CADR) of 236 CFM (400m鲁/h), indicating its ability to quickly purify the air in your space.
 
 No maintenance is required for the HEPA filter itself. We recommend replacing the filter every 6-12 months, depending on usage and air quality.
 
@@ -28,7 +28,7 @@ No maintenance is required for the HEPA filter itself. We recommend replacing th
 
 Last Updated: 2024 Oct 21
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
 It's recommended to
 
@@ -106,7 +106,7 @@ Tap "Add Device".
 
 Under "Household", tap Air Purifier Table.
 
-Press the power button on the Air Purifier Table for 2 seconds, wait for the Wi-Fi indicator to flash fast,  then tap "Connect Device".
+Press the power button on the Air Purifier Table for 2 seconds, wait for the Wi-Fi indicator to flash fast,聽 then tap "Connect Device".
 
 Device discovery and connection will be performed automatically.
 
@@ -144,7 +144,7 @@ Tap "Add Device".
 
 Under "Household", tap Air Purifier.
 
-Press the power button on the Air Purifier for 2 seconds, wait for the Wi-Fi indicator to flash fast,  then tap "Connect Device".
+Press the power button on the Air Purifier for 2 seconds, wait for the Wi-Fi indicator to flash fast,聽 then tap "Connect Device".
 
 Device discovery and connection will be performed automatically.
 
@@ -160,7 +160,7 @@ Set your favorite name and room, then tap "Finish".
 
 Last Updated: 2024 Oct 30
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
 SwitchBot App Version: 9.3 or newer
 
@@ -183,7 +183,7 @@ For those waiting to use SwitchBot Air Purifier as a standalone device directly 
 
 Last Updated: 2024 Oct 14
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
 SwitchBot App Version: 9.1 or newer
 
@@ -191,13 +191,13 @@ SwitchBot App Version: 9.1 or newer
 
 2. The default mood light colors change based on the concentration of VOCs (Volatile Organic Compounds) in the air:
 
-Blue: Very Good (0-50 µg/m³)
+Blue: Very Good (0-50 碌g/m鲁)
 
-Green: Good (51-100 µg/m³)
+Green: Good (51-100 碌g/m鲁)
 
-Yellow: Moderate (101-150 µg/m³)
+Yellow: Moderate (101-150 碌g/m鲁)
 
-Orange: Bad (151 µg/m³ and above)
+Orange: Bad (151 碌g/m鲁 and above)
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/27047528633751)
 
@@ -211,7 +211,7 @@ While you can customize the color of the mood light, please be aware that once c
 
 Last Updated: 2024 Oct 14
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
 SwitchBot App Version: 9.1 or newer
 
@@ -274,9 +274,9 @@ You can edit or remove the shortcut at the same place.
 
 Last Updated: 2024 Oct 14
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
-Alexa, is the "device name" open/close？
+Alexa, is the "device name" open/close锛?
 
 Alexa, turn on "device name".
 
@@ -291,9 +291,9 @@ Alexa, set "device name" mode to Sleep / Auto / Level 1 / Level 2 / Level 3
 
 Last Updated: 2024 Oct 14
 
-Related Product: SwitchBot Air Purifier,  SwitchBot Air Purifier Table
+Related Product: SwitchBot Air Purifier,聽 SwitchBot Air Purifier Table
 
-Hey Google, is the "device name" open/close？
+Hey Google, is the "device name" open/close锛?
 
 Hey Google, turn on "device name".
 
@@ -346,7 +346,7 @@ Under firmware V2.2-2.2, you can use SwitchBot Air Purifier as a standalone devi
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 The wireless charging pad on the SwitchBot Air Purifier Table supports up to 15W for Android devices and 7.5W for Apple devices. However, charging times may vary depending on your smartphone model, and several factors can influence charging speed. Here are some tips to help you optimize the charging experience:
-1. For the best charging performance, make sure the charging coil in your phone is properly aligned with the coil on the charging pad. Since the position of the coil varies between devices, we recommend checking your smartphone’s manual for specific alignment instructions.
+1. For the best charging performance, make sure the charging coil in your phone is properly aligned with the coil on the charging pad. Since the position of the coil varies between devices, we recommend checking your smartphone鈥檚 manual for specific alignment instructions.
 2. If your phone has a protective case, especially a thicker one, it may reduce charging efficiency and result in slower charging times. Thicker cases can also cause slight heating during charging. For faster charging, try removing the case or using a thinner one.
 3. If your phone case includes a metal plate (as shown in the image), it may prevent wireless charging altogether. We recommend using a case without a metal plate or removing the case entirely before placing your phone on the charging pad.
 
@@ -425,7 +425,7 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the air purifier not powering on, could you please check the following points?
 1. Ensure that the provided power cord is securely connected to the Air Purifier Table and plugged into a working power outlet.
-2. Check if there is any visible damage to the Air Purifier Table’s power cord.
+2. Check if there is any visible damage to the Air Purifier Table鈥檚 power cord.
 3. Confirm that the air intake (as shown in the diagram, number 7) is properly attached to the Air Purifier Table.
 
 <img width="671" height="553" alt="image" src="https://github.com/user-attachments/assets/3c5978dc-5e2c-4239-9c4d-67d7e067ea94" />
@@ -463,9 +463,9 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Check the filter to see if it’s dirty. If needed, please replace the filter.
+1. Check the filter to see if it鈥檚 dirty. If needed, please replace the filter.
 2. If the Air Purifier Table has been used in a high-humidity environment (over 70% humidity) for a long period, bacteria may grow, leading to odors. We recommend using the purifier in a less humid environment.
-3. If the Air Purifier Table is used in a room with strong odors (like cigarette smoke or barbecue), the　Air Purifier Table may emit odors for several weeks. In this case, replacing the filter can help.
+3. If the Air Purifier Table is used in a room with strong odors (like cigarette smoke or barbecue), the銆€Air Purifier Table may emit odors for several weeks. In this case, replacing the filter can help.
 Please note: Depending on the environment, it is recommended to replace the filter every 6 to 12 months to ensure optimal performance.
 
 
@@ -531,7 +531,7 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the air purifier not powering on, could you please check the following points?
 1. Ensure that the provided power cord is securely connected to the Air Purifier and plugged into a working power outlet.
-2. Check if there is any visible damage to the Air Purifier’s power cord.
+2. Check if there is any visible damage to the Air Purifier鈥檚 power cord.
 3. Confirm that the air intake (as shown in the diagram, number 6) is properly attached to the Air Purifier.
 
 <img width="673" height="496" alt="image" src="https://github.com/user-attachments/assets/da7ea001-194d-4004-9b2a-dc541af128f0" />
@@ -648,7 +648,8 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound. The light color will not change based on air quality if you set it to "Customize". Thank you for your understanding.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/f1318cbd-39b4-4c0e-894b-90f8f544abdf" />
+
 
 2. It may take some time for the sensor to respond, so the color may not change immediately after turning on the air purifier. Please wait a moment and check for any changes in color.
 3. Set the air purifier to automatic mode, lightly flick dust in the sensor area, and observe any changes in the color of the light according to the air quality.
@@ -683,7 +684,8 @@ Regarding the firmware update issue, could you please check the following points
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound. The light color will remain unchanged if you customize it to red. Thank you for your understanding.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/de5529d0-c923-4658-a6dc-3172af98a98f" />
+
 
 2. Please verify whether outside air is continuously entering. We kindly ask you to place the air purifier in a more stable indoor environment and monitor the situation for a while.
 
@@ -701,11 +703,13 @@ If you have any other questions, please do not hesitate to contact us.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier Table by navigating SwitchBot App -> Air Purifier Table -> Gear icon in the upper right corner -> Backlight & Sound.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/02edc217-a068-4cf4-95ec-253db01d02ec" />
+
 
 In the "Off" setting, the light will not turn on.
 In the "Auto" setting, the light will automatically turn off when the surrounding area becomes dark and turns on when it becomes bright. Also, please ensure the light sensor is not covered during normal use.
-[image2]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/71cfcf85-a121-4f50-b89a-cde5a058df1a" />
+
 
 In the "On" setting, the light will stay on continuously.
 
@@ -760,3 +764,5 @@ In the "Auto" setting, the light will automatically turn off when the surroundin
 In the "On" setting, the light will stay on continuously.
 
 2. Unplug the air purifier from the power source, then plug it back in and press the power button to see if the light turns on.
+<img width="362" height="245" alt="image" src="https://github.com/user-attachments/assets/ac847b63-203b-4f46-bee6-d7127b082a6d" />
+

@@ -13,6 +13,7 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 
+
 ---
 ### Troubleshooting Slow Wireless Charging on SwitchBot Air Purifier Table
 
