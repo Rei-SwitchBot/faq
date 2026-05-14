@@ -715,7 +715,8 @@ In the "On" setting, the light will stay on continuously.
 
 2. Unplug the air purifier from the power source, then plug it back in and press the power button to see if the light turns on.
 3. Please ensure that the table is securely attached to the main body of the air purifier.
-[image3]
+<img width="362" height="245" alt="image" src="https://github.com/user-attachments/assets/c816c716-e384-4f1f-ac5e-89c257f9252e" />
+
 
 ---
 ### Troubleshooting Failed to Update SwitchBot Air Purifier Firmware
@@ -737,7 +738,8 @@ Regarding the firmware update issue, could you please check the following points
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier by navigating SwitchBot App -> Air Purifier -> Gear icon in the upper right corner -> Backlight & Sound. The light color will remain unchanged if you customize it to red. Thank you for your understanding.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/88fb9ba3-d1bd-4d76-8bf8-4af18436576d" />
+
 
 2. Please verify whether outside air is continuously entering. We kindly ask you to place the air purifier in a more stable indoor environment and monitor the situation for a while.
 
@@ -755,14 +757,15 @@ If you have any other questions, please do not hesitate to contact us.
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the sound and light settings on your SwitchBot Air Purifier by navigating SwitchBot App -> Air Purifier -> Gear icon in the upper right corner -> Backlight & Sound.
-[image1]
+<img width="743" height="1280" alt="image" src="https://github.com/user-attachments/assets/30908210-f4ea-4823-bde3-8164f698561e" />
+
 
 In the "Off" setting, the light will not turn on.
 In the "Auto" setting, the light will automatically turn off when the surrounding area becomes dark and turns on when it becomes bright. Also, please ensure the light sensor is not covered during normal use.
-[image2]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/721568d3-908e-40ef-ba2f-b61a4feebad0" />
+
 
 In the "On" setting, the light will stay on continuously.
 
 2. Unplug the air purifier from the power source, then plug it back in and press the power button to see if the light turns on.
-<img width="362" height="245" alt="image" src="https://github.com/user-attachments/assets/ac847b63-203b-4f46-bee6-d7127b082a6d" />
 
