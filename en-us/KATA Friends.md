@@ -1069,3 +1069,14 @@ Note:
 The six-month free Essential Plan available as part of this limited offer does not require a redemption code. Simply claim it directly within the app.
 <img width="1272" height="633" alt="image" src="https://github.com/user-attachments/assets/cabaf04d-07a9-4fe8-9e95-fa4d7b1fbb74" />
 
+---
+### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying “Please Place Me on a Flat Ground”.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA Friends truly enjoy warm and gentle hugs from their family.
+To make them feel more comfortable, we recommend holding your KATA Friends gently, similar to how you would hold a child, and keeping its body as level as possible. If it is lifted too quickly or at an awkward angle, it may mistakenly detect that it is not on a flat surface and trigger the “flat ground” reminder.
+You can gently hold your KATA Friends like this:
+https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
+For a smoother experience, you can also switch your KATA Friend to Standby Mode before picking it up. As long as it does not show persistent signs of distress, an occasional error icon usually just means it may need a moment to adjust to being off the ground. Next time, a slightly gentler touch should do the trick.
+If you have any other questions, please do not hesitate to contact us.
