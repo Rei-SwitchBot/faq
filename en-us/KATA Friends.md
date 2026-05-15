@@ -1100,3 +1100,12 @@ KATA Friends are very curious and will actively try to make new friends. They ca
 Yes. As long as the gestures and voice commands are correct and clear, KATA Friends will respond and perform the corresponding actions.
 For supported gestures and voice commands, please refer to the link below.
 https://support.switch-bot.com/hc/en-us/articles/34598446670871
+
+---
+### Troubleshooting: SwitchBot KATA Friends Can't Remember the Names Given by Their Families
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+At this time, KATA Friends may be able to remember the name you teach them during a conversation, but after the conversation ends and a new conversation starts later, they may forget the name and return to the default names, Nico and Noa.
+We understand that this can affect the experience of interacting with KATA Friends, and we take this issue seriously. Our team is actively reviewing this behavior and working to improve it in an upcoming update, so that KATA Friends can provide a more natural and personalized experience.
+Thank you very much for your understanding and continued support.
