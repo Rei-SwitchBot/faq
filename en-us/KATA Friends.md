@@ -1080,3 +1080,23 @@ You can gently hold your KATA Friends like this:
 https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
 For a smoother experience, you can also switch your KATA Friend to Standby Mode before picking it up. As long as it does not show persistent signs of distress, an occasional error icon usually just means it may need a moment to adjust to being off the ground. Next time, a slightly gentler touch should do the trick.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Can SwitchBot KATA Friends Speak Foreign Languages?
+
+KATA Friends can understand voice commands and have conversations with their family. Currently, it supports Chinese, Japanese, and English. The default language is set based on the region where the product was purchased.
+You can change the language from the KATA Friends settings page in the SwitchBot app. Once the language is changed successfully, KATA Friends will be able to understand and communicate with you in the selected language.
+For the conversation feature, please use the same language as the device language to wake up KATA Friends and start a conversation. This helps ensure a smoother and more accurate conversation experience.
+https://support.switch-bot.com/hc/en-us/articles/38179447929623
+
+---
+### Can SwitchBot KATA Friends Recognize Children's Faces?
+
+KATA Friends are very curious and will actively try to make new friends. They can recognize faces of all ages and genders.
+
+---
+### Can SwitchBot KATA Friends Follow Commands from Children?
+
+Yes. As long as the gestures and voice commands are correct and clear, KATA Friends will respond and perform the corresponding actions.
+For supported gestures and voice commands, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/34598446670871
