@@ -762,3 +762,19 @@ To integrate the Blind Tilt with Home Assistant, you can use either SwitchBot Bl
 2. Please remove the decorative cover before installing the SwitchBot Blind Tilt. In the unlikely event that the decorative cover cannot be reattached due to interference with the base cover (the parts outlined in red in the figure below), you may remove the base cover and choose not to install it.
 <img width="651" height="736" alt="image" src="https://github.com/user-attachments/assets/19ddd949-04f9-4049-ad82-d2d029820c2c" />
 
+
+---
+### Troubleshooting SwitchBot Blind Tilt Not Powering on
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press the reset button (hole) at the bottom of the SwitchBot Blind Tilt body with a reset pin to restart the device.
+2. Please check if the indicator on the Blind Tilt flashes white while charging. If the indicator does not light up during charging, please try using a different charging adapter and cable to see if that resolves the issue.
+
+---
+### Troubleshooting SwitchBot Blind Tilt Cannot Be Opened or Closed Using the App, and the Error Logs Indicate Errors 161 and 190.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. After charging the Blind Tilt's battery to about 80%, press the reset button (hole) at the bottom of the SwitchBot Blind Tilt body with a reset pin to restart the device.
+2. Please operate the opening and closing of the Blind Tilt once more using the SwitchBot app.
