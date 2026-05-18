@@ -9384,3 +9384,14 @@ For more information about the product warranty period, please refer to the link
 https://www.switch-bot.com/
 <img width="1280" height="631" alt="image" src="https://github.com/user-attachments/assets/58811654-a6cd-4d15-b4ac-b3b591376496" />
 
+---
+### Can I Use “Hey Google” Voice Commands to Delay SwitchBot Device Actions?
+
+We are sorry to inform you that delaying SwitchBot device actions directly through voice commands is not supported. However, this can be achieved by using SwitchBot scenes. We will use “turn off the air conditioner after 3 hours” as an example to explain how to set it up.
+Create a scene in the SwitchBot app that includes three delayed actions, as illustrated below.
+https://support.switch-bot.com/hc/en-us/articles/19444800636183
+[image1]
+Control the scene with the voice command "OK Google, turn on [scene name]".
+Note:
+Please use the Delay Actions (Beta) feature of the SwitchBot scene for similar situations.
+
