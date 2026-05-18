@@ -1106,6 +1106,7 @@ https://support.switch-bot.com/hc/en-us/articles/34598446670871
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-At this time, KATA Friends may be able to remember the name you teach them during a conversation, but after the conversation ends and a new conversation starts later, they may forget the name and return to the default names, Nico and Noa.
-We understand that this can affect the experience of interacting with KATA Friends, and we take this issue seriously. Our team is actively reviewing this behavior and working to improve it in an upcoming update, so that KATA Friends can provide a more natural and personalized experience.
-Thank you very much for your understanding and continued support.
+KATA Friends can learn and remember the names given by their family, but it may take some time for them to recognize and retain the names correctly. If they still refer to themselves by their default names during conversations, please try teaching them the new names patiently a few more times.
+We understand that this may affect the personalized experience you expected, and we truly appreciate your understanding and patience while KATA Friends continue to learn.
+If you have any other questions, please do not hesitate to contact us.
+
