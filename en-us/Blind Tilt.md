@@ -819,3 +819,50 @@ As an alternative, you can create a SwitchBot Scene to open or close the Blind T
 https://support.switch-bot.com/hc/en-us/articles/19444800636183
 We understand that it would be more convenient to select Blind Tilt directly in Google Home automation, and we apologize for the extra steps required. We will continue to monitor platform compatibility and work on improving the overall experience wherever possible.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: SwitchBot Blind Tilt Cannot Be Charged with an Adapter.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Press the reset button (hole) at the bottom of the Blind Tilt body with a reset pin to restart the device.
+2. Press and hold the pairing button at the bottom of the Blind Tilt for 15 seconds to reset the device.
+https://support.switch-bot.com/hc/en-us/articles/11615262691351
+3. Try charging with a different 5V, 1A power adapter and a Type-C charging cable.
+
+---
+### Troubleshooting: SwitchBot Blind Tilt Makes Unusual Sounds While Operating.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, under normal installation, the Blind Tilt and the pole should remain level with each other. If the mounting base is slightly misaligned, the Blind Tilt may not stay properly aligned with the pole. As a result, the device may experience extra resistance or uneven force when opening or closing the blinds, which can cause unusual noise during operation.
+To better check the issue, could you please provide the following information?
+- A photo showing the installation of the Blind Tilt. If a decorative cover is installed, please remove it before taking the photo so that we can check the installation more clearly.
+- A video showing the unusual noise when the Blind Tilt opens or closes.
+Once we receive the photo and video, we will be happy to check this further for you.
+
+---
+### Troubleshooting: Unable to Upgrade SwitchBot Blind Tilt Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to update with the beta version.
+2. Manually update the firmware by going to SwitchBot app → Blind Tilt → Gear icon → Firmware & Battery.
+3. Try updating the firmware again after restarting your smartphone's Bluetooth and the SwitchBot app itself.
+4. Log out of the SwitchBot app, log back in, and then attempt to update the firmware.
+5. If you have another smartphone, please try using it to see if the update can be completed.
+6. Please restart and reset the Blind Tilt, and then update again.
+https://support.switch-bot.com/hc/en-us/articles/11615262691351
+7. The update may fail due to an unstable connection. We recommend waiting a while and then trying the update again.
+
+---
+### Troubleshooting Can't Add SwitchBot Blind Tilt to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Please turn on the Location Service for the SwitchBot App on your smartphone. If it is already permitted, please restart your smartphone.
+3. Turn off Bluetooth on your smartphone and then turn it back on.
+4. Make sure that the battery level of the Blind Tilt is adequate. If needed, please charge the device before proceeding.
+5. Please restart and reset the Blind Tilt, then pair it again.
+https://support.switch-bot.com/hc/en-us/articles/11615262691351
+6. The pairing attempt may fail due to an unstable connection. We recommend waiting a moment before trying to pair again.
