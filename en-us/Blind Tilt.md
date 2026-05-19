@@ -778,3 +778,44 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. After charging the Blind Tilt's battery to about 80%, press the reset button (hole) at the bottom of the SwitchBot Blind Tilt body with a reset pin to restart the device.
 2. Please operate the opening and closing of the Blind Tilt once more using the SwitchBot app.
+
+---
+### Troubleshooting I Set a Schedule for SwitchBot Blind Tilt, but It Did Not Open and Close as Planned.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check to see if the Blind Tilt is out of power. After charging the battery, please verify whether the schedule functions properly.
+2. Please verify whether you can open and close the Blind Tilt directly from the SwitchBot app while within Bluetooth range.
+3. Press the reset button (hole) at the bottom of the SwitchBot Blind Tilt body with a reset pin to restart the device.
+4. Please remove Blind Tilt from the SwitchBot app and then add it again.
+
+---
+### Troubleshooting SwitchBot Blind Tilt Failing to Connect to the Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. SwitchBot Blind Tilt communicates with the hub via Bluetooth, so please make sure that both devices are within Bluetooth range.
+2. Please verify whether you can open and close the Blind Tilt directly from the SwitchBot app while within Bluetooth range.
+3. Please check for any available firmware updates by going to SwitchBot app → Blind Tilt and Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Unplug the hub's power, wait 15 seconds, and then plug it back in.
+
+---
+### Troubleshooting The Schedule for SwitchBot Blind Tilt Does Not Automatically Adjust for Daylight Saving Time
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The built-in schedule on Blind Tilt is saved locally on the device and runs based on the local time stored in the device itself. At this time, it does not automatically adjust when daylight saving time starts or ends, so the schedule may need to be updated manually during daylight saving time changes.
+As an alternative, if you have a SwitchBot Hub, we recommend setting the location of the Home where your Blind Tilt is added, then creating a schedule through SwitchBot Automation instead. This allows the schedule to run based on the Home location settings in the SwitchBot app, which can help reduce the need for manual time adjustments.
+We understand that automatic daylight saving time adjustment would be more convenient, and we are sorry that the current built-in schedule does not support this feature yet. We will share your feedback with our team for future improvement.
+If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting The List of Actions Triggered by Google Home Automation Does Not Include SwitchBot Blind Tilt.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+At this time, Blind Tilt cannot be selected directly as an action in Google Home automation. This is due to a current limitation on the Google Home side, as Google does not support setting Blind Tilt as an automation action directly.
+As an alternative, you can create a SwitchBot Scene to open or close the Blind Tilt first. After that, add the corresponding SwitchBot Scene as the action in your Google Home automation. This way, Google Home can trigger the SwitchBot Scene, and the scene can then control the Blind Tilt.
+https://support.switch-bot.com/hc/en-us/articles/19444800636183
+We understand that it would be more convenient to select Blind Tilt directly in Google Home automation, and we apologize for the extra steps required. We will continue to monitor platform compatibility and work on improving the overall experience wherever possible.
+If you have any other questions, please do not hesitate to contact us.

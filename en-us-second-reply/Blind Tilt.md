@@ -153,3 +153,23 @@ We apologize for any inconvenience caused.
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting I Set a Schedule for SwitchBot Blind Tilt, but It Did Not Open and Close as Planned.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot of the schedule you set
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Blind Tilt Failing to Connect to the Hub
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot displaying the Bluetooth connection status can be found by navigating in the SwitchBot app to Profile → Manage Hubs → the relevant hub.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
