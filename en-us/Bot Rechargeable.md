@@ -42,3 +42,9 @@ If you use a third-party rechargeable CR2 battery in the SwitchBot Bot Rechargea
 ### Can SwitchBot Bot's Rechargeable Battery Be Used While It Is Continuously Plugged Into a Power Source?
 
 Using the Bot Rechargeable's rechargeable battery while it remains continuously plugged into a power source poses the following risks: The rechargeable battery may overcharge, overheat, or sustain damage. Frequent charging and discharging can cause rapid internal degradation, leading to reduced battery life and a shorter overall lifespan. Therefore, we recommend unplugging the adapter and the charging cable once the battery is fully charged.
+
+---
+### How to Install SwitchBot Bot Rechargeable
+
+You can check the installation guide and charging instructions for the Bot Rechargeable at the link below.
+https://support.switch-bot.com/hc/en-us/articles/40604365772695
