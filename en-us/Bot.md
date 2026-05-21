@@ -1453,13 +1453,13 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 Please check if the bot can actually press the switch.  
 If the bot can press the switch, please confirm the following.
-1. Make sure that the firmware version of your Bot is 6.6 or later. If not, please update the firmware near your device by going to SwitchBot App -> Bot -> Firmware & Battery.
-2. Take the batteries out of your Bot and then put them back in to reset the power.
-Kindly note: You may need to replace the batteries if they are low and we recommand using Panasonic CR2 3V batteries.
-3. Open the cover of the Bot and press the reset button once to perform a reset.
-4. Follow these steps to recover the Bot’s firmware:
-- Remove the batteries from the Bot.
-- While pressing and holding the reset button, reinsert the batteries.
+1. Please check for any available firmware updates by going to SwitchBot app → Bot → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Take the battery out of your Bot and then put it back in to reset the power.
+3. You may need to replace the battery if it is low and we recommand using Panasonic CR2 3V batteries.
+4. Open the cover of the Bot and press the reset button once to perform a reset.
+5. Follow these steps to recover the Bot’s firmware:
+- Remove the battery from the Bot.
+- While pressing and holding the reset button, reinsert the battery.
 - Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
 
 If the bot cannot press the switch, please check whether you can control the bot within the Bluetooth range using the SwitchBot app. If it can be operated within the Bluetooth range, delete the schedule and create it again.
