@@ -866,3 +866,31 @@ Regarding this issue, could you please check the following points?
 5. Please restart and reset the Blind Tilt, then pair it again.
 https://support.switch-bot.com/hc/en-us/articles/11615262691351
 6. The pairing attempt may fail due to an unstable connection. We recommend waiting a moment before trying to pair again.
+
+---
+### Troubleshooting: SwitchBot Blind Tilt Stops Moving Before Reaching the Open or Closed Position
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please connect the Blind Tilt to the power adapter, then recalibrate the open and close positions in the SwitchBot app. After recalibration, check whether the Blind Tilt can open and close normally.
+
+---
+### Troubleshooting SwitchBot Blind Tilt Keeps Jamming
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the Blind Tilt and control it using the SwitchBot app to check whether the gear rotates.
+2. Press and hold the pairing button on the bottom of the Blind Tilt body for 15 seconds to fully reset the device.
+https://support.switch-bot.com/hc/en-us/articles/11615262691351
+
+---
+### Troubleshooting: SwitchBot Blind Tilt Battery Drains Very Fast.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Like a mobile phone, Blind Tilt uses a lithium battery, so the battery will naturally drain over time even when the device is not in use. This is a normal characteristic of lithium batteries, and we appreciate your understanding.
+2. If multiple Blind Tilt devices are used as a group, the devices in the group communicate with each other via Bluetooth. The main device receives commands from the SwitchBot app and then sends instructions to the secondary devices. Because of this, the battery of the main device may drain faster than the others. This is part of the device specification.
+To help us investigate this further, could you please provide the following information?
+How many times per day do you usually open or close the Blind Tilt?
+If possible, could you also share the purchase link for the blinds installed in your home?
+Once we receive this information, we will be happy to check this further for you.
