@@ -1639,3 +1639,41 @@ Regarding this issue, could you please check the following points?
 - Open the SwitchBot app, navigate to Profile > Firmware Recovery, and check if the option to recover your Bot appears.
 
 **If the bot cannot press the switch**, please check whether you can control the bot within the Bluetooth range using the SwitchBot app. If it can be operated within the Bluetooth range, delete the schedule and create it again.
+
+---
+### Troubleshooting: Even if the Schedule Is Deleted, the Bot Still Acts According to the Previous Schedule.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please check for any available firmware updates by going to SwitchBot app → Bot → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+---
+### Troubleshooting: An Unknown Schedule Appears for SwitchBot Bot
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please first check whether a Home Administrator has been set for the SwitchBot Home that the Bot belongs to. If so, please confirm whether the administrator has created any schedules for the Bot.
+2. Delete any related schedules first, then set a password for the Bot. After the password has been set, please monitor the device for a while and check again to see whether any unknown schedules appear.
+
+---
+### Troubleshooting: The Schedule Set for SwitchBot Bot Automatically Turned Off.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Removing and reinserting the Bot battery will automatically turn off the schedule set for the Bot. Please confirm whether the battery was removed and reinserted before the issue occurred.
+2. Our R&D team is currently investigating the cause of this issue. It may take some time before a fix is available. In the meantime, if you are using a Hub, you can use the schedule feature in SwitchBot Automation to control the Bot as a temporary workaround.
+
+---
+### Troubleshooting: SwitchBot Bot Appears Offline in the SwitchBot App and Cannot Be Operated.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn on the Location Service for the SwitchBot App on your smartphone. If it is already permitted, please restart your smartphone.
+2. Please note that if you do not have a Hub, you need to be near the Bot when controlling it through the SwitchBot app.
+3. Turn off Bluetooth on your smartphone and then turn it back on.
+4. Remove the battery from the Bot and reinsert it.
+5. If you have another battery available, try replacing the old one and attempt to add the Bot again.
+6. Perform a firmware recovery for your bot.
+First, remove the battery from the Bot.
+Press the reset button inside the Bot while inserting the battery.
+Then, go to the SwitchBot App → Profile → Firmware recovery and follow the instructions to recover the Bot's firmware.
