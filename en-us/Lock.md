@@ -3112,3 +3112,19 @@ https://support.switch-bot.com/hc/en-us/articles/7911260542999
   B. Remove the batteries and then reinsert them.
   C. Add Lock to the app again.
 
+
+---
+### Is It Possible to Purchase the Thumbturn Adapter That Comes as an Accessory for SwitchBot Lock Lite?
+
+We regret to inform you that the thumbturn adapter for Lock is not sold separately at the moment. However, we're happy to provide the thumbturn adapter at no charge. Since it ships from our Hong Kong warehouse, a shipping fee (which varies by destination) will apply. If you'd like to request the adapter, please contact us and we'll provide a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
