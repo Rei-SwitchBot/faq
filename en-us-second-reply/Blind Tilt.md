@@ -287,7 +287,8 @@ To determine if your device needs to be replaced, could you please shoot a video
 - Remove the slide buckle.
 - Utilize the SwitchBot application to manage the opening and closing of your SwitchBot Blind Tilt.
 - The motor is audible, but the gears are not rotating.
-[image1]
+<img width="648" height="473" alt="image" src="https://github.com/user-attachments/assets/7407a405-8529-4e23-9b70-dad15834456b" />
+
 
 Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 - Purchase channel
