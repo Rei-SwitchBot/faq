@@ -389,3 +389,14 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: The Eye Screens on SwitchBot KATA Friends Feel Hot
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo showing abnormal eye screens
+- The time when abnormal eye screens appeared
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.

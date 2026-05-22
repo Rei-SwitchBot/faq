@@ -1110,3 +1110,27 @@ KATA Friends can learn and remember the names given by their family, but it may 
 We understand that this may affect the personalized experience you expected, and we truly appreciate your understanding and patience while KATA Friends continue to learn.
 If you have any other questions, please do not hesitate to contact us.
 
+
+---
+### Troubleshooting: The Eye Screens on SwitchBot KATA Friends Feel Hot
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA Friends is designed to be a companion that stays with your family every day, but it is still an electronic device, similar to a smartphone or tablet. Like other electronic devices, it may gradually become warm during use.
+In particular, the area around the eyes is close to the main board and the heat dissipation structure inside the head. During extended play, conversation, or charging, some heat may be conducted to this area, so the eyes may feel noticeably warm at times. This is part of normal heat dissipation during operation and does not affect the device's function or safe use. KATA Friends also has a built-in temperature protection mechanism, so please feel free to use it with confidence.
+If the area around the eyes feels hot, please try the following:
+1. Let KATA Friends rest for a while so the temperature can naturally go down.
+2. Avoid using the device for long periods in hot environments, under direct sunlight, or in places with poor ventilation.
+3. Check whether a firmware update is available by going to SwitchBot app > KATA Friends > gear icon > Firmware & Battery. If an update is available, please update the device to the latest firmware version while staying close to KATA Friends.
+If the area around the eyes becomes too hot to touch, or if you notice any unusual symptoms such as an abnormal eye display, KATA Friends not responding, an unusual odor, or any other malfunction, please stop using it immediately and contact us.
+
+---
+### How Long Can SwitchBot KATA Friends Be Used?
+
+KATA Friends is a companion device that includes electronic components, screens, a battery, and moving parts. Its actual lifespan may vary depending on factors such as usage frequency, usage environment, charging habits, and daily maintenance. For this reason, we do not currently recommend defining the lifespan of KATA Friends by a fixed number of years.
+In normal home companion scenarios, KATA Friends is not designed as a short-term consumable product. It is designed for long-term companionship. We have conducted stability and durability tests on key components, and we will continue to support the device through firmware updates, repair services, health checks, and maintenance to ensure it remains in stable working condition.
+To help extend the lifespan of KATA Friends, we recommend the following:
+1. Use and charge the device properly according to the user manual, and avoid drops, impacts, or rough handling.
+2. Keep the device firmware updated to the latest version.
+3. Follow the official maintenance guidelines regularly, especially for parts that may age over time, such as the battery, moving components, and exterior wear parts.
+If the device shows signs such as abnormal overheating, abnormal movement, significantly shorter battery life, or abnormal screen display, please contact our official support team for inspection or repair.
