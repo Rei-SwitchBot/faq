@@ -1677,3 +1677,36 @@ Regarding this issue, could you please check the following points?
 First, remove the battery from the Bot.
 Press the reset button inside the Bot while inserting the battery.
 Then, go to the SwitchBot App → Profile → Firmware recovery and follow the instructions to recover the Bot's firmware.
+
+---
+### Is it Possible to Purchase SwitchBot Bot Helper Separately?
+
+We regret to inform you that the Bot helper is currently not sold separately. However, we can provide this accessory free of charge if needed. Please note that it will be shipped from our Hong Kong warehouse, so the delivery time may be longer, and a shipping fee will apply depending on the destination.
+Since the Bot helper is mainly used to assist with installation when the Bot needs additional height, you may also consider purchasing or making a similar spacer locally based on your wall switch setup. This may be a more convenient and cost-effective option, especially if you are located outside Asia.
+If you choose to use a third-party or DIY spacer, please make sure it is stable, secure, and suitable for your switch before installation. Please kindly note that SwitchBot cannot be responsible for any installation issues, device damage, or performance problems caused by third-party or DIY accessories.
+If you would still like us to arrange the official Bot helper for you, please contact us and we will provide you with a shipping quote. To help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+ Order ID
+ Recipient's full name
+ Phone number
+ Country
+ Street address
+ City
+ State/Province
+ ZIP/Postal Code
+ A screenshot of your order
+
+---
+### Troubleshooting: SwitchBot Bot Mode Changes Automatically After Being Set.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Bot → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Reset the Bot mode to your preferred setting, save the changes, then return to the homepage and refresh to see if it can be restored.
+
+---
+### Troubleshooting: SwitchBot Bot Becomes Hot to the Touch.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+To help us better understand the situation, could you please let us know when you first noticed the Bot becoming hot? For example, did it happen after repeated operations, frequent triggering, battery replacement, or while the Bot was idle?
+This information will help us check the possible cause more accurately.
