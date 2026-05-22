@@ -445,6 +445,7 @@ If the Bot is overheating abnormally, we will provide a replacement under the wa
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
 ---
 ### Troubleshooting SwitchBot Bot's Arm Is Broken and Not Being Able to Press the Button
 
