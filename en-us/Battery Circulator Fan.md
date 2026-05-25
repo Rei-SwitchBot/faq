@@ -643,3 +643,9 @@ Important Note:
 Please add your Matter-compatible hub to the Apple Home app in advance.
 Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
 
+
+---
+### Is the Battery of SwitchBot Battery Circulator Fan Removable?
+
+No. The Battery Circulator Fan has a built-in lithium battery, and the battery is not removable.
+Please do not attempt to remove or disassemble the battery by yourself. If you experience any issues with the product, please contact our support team for assistance.
