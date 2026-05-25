@@ -649,3 +649,33 @@ Matter-compatible hubs: Hub Mini Matter Enabled, Hub 2, Hub 3, AI Hub.
 
 No. The Battery Circulator Fan has a built-in lithium battery, and the battery is not removable.
 Please do not attempt to remove or disassemble the battery by yourself. If you experience any issues with the product, please contact our support team for assistance.
+
+---
+### What Is the Brown, Gum-Like Material in the Center of SwitchBot Circulator Fan Blade?
+
+The brown material is a balancing adhesive applied to help maintain the stability of the fan blade during operation. It is part of the product design and does not need to be removed. Please feel free to use the product as normal.
+
+---
+### Troubleshooting: The Blades of SwitchBot Battery Circulator Fan Are Broken.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a photo showing the broken blades?
+
+Please note that if the issue is caused by a product defect, we can provide a free replacement or return service within the warranty period. However, damage caused by improper use, accidental damage, or other human-related factors is not covered under the warranty. For more details, please refer to the link below.
+https://www.switch-bot.com/pages/switchbot-return-and-refund-policy
+
+---
+### Is it Possible to Purchase the Power Cable for SwitchBot Battery Circulator Fan?
+
+We regret to inform you that power cable is currently not sold separately. However, we are pleased to offer these accessories free of charge. As they will be shipped from our Hong Kong warehouse, a shipping fee (which varies depending on the destination) will apply. If you would like to make a request, please contact us, and we will provide you with a shipping quote.
+Also, to help us arrange the shipment quickly, please provide the following details:
+Purchase channel
+Order ID
+Recipient's full name
+Phone number
+Country
+Street address
+City
+State/Province
+ZIP/Postal Code
+A screenshot of your order
