@@ -196,3 +196,24 @@ Video: [https://support.switch-bot.com/hc/en-us/articles/36381750654359](https:/
 
 
 
+
+---
+### Troubleshooting: The Lampshade of SwitchBot Candle Warmer Lamp Feels Hot to the Touch.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The Candle Warmer Lamp uses a G10 50W halogen bulb to melt the candle. Since the lamp melts the wax using the heat generated while it is on, the area around the lampshade can become hot during use.
+After the lamp has been on for a period of time, the highest temperature around the lampshade may reach approximately 80 to 150°C (176 to 302°F). For this reason, it is normal for the lampshade to feel hot, and this does not indicate a product defect. We appreciate your understanding.
+For your safety, please avoid touching the lampshade or the area around the bulb while the lamp is on or shortly after it has been turned off. Please allow it to cool down before handling or moving the product. If you have small children or pets at home, please take extra care to keep them away from the lamp during and shortly after use.
+
+---
+### Troubleshooting SwitchBot Candle Warmer Lamp Keeps Disconnecting from Wi-Fi
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please place the Candle Warmer Lamp closer to the Wi-Fi router (within 5 meters).
+2. Unplug the Wi-Fi router and the Candle Warmer Lamp, then plug them back in.
+3. Please set up Wi-Fi again by going to SwitchBot app -> Candle Warmer Lamp -> Gear icon -> Wi-Fi settings near the device.
+4. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire" in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
+5. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
+*If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
