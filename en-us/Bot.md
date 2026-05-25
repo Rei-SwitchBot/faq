@@ -1699,3 +1699,13 @@ Regarding this issue, could you please check the following points?
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 To help us better understand the situation, could you please let us know when you first noticed the Bot becoming hot? For example, did it happen after repeated operations, frequent triggering, battery replacement, or while the Bot was idle?
 This information will help us check the possible cause more accurately.
+
+---
+### Troubleshooting: No Low Battery Notification Received for SwitchBot Bot
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please note that Bot communicates via Bluetooth. To receive notifications, Bot must be used together with a Hub, and the two devices must be within Bluetooth range of each other.
+2. Verify the battery level by navigating to the SwitchBot app, then selecting Bot, followed by Firmware & Battery.
+3. After replacing the battery, check if you can operate the bot using your smartphone while within Bluetooth range.
+4. Verify that the Bot has been scanned correctly and that the connection signal is strong by navigating to the SwitchBot app, then selecting Profile > Manage Hubs > the relevant Hub. If the Bot cannot be scanned or the connection signal is unstable, move the Hub and the Bot as close together as possible. Turn off the Hub's power for at least 15 seconds, then turn it back on.
