@@ -473,3 +473,4 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A screenshot displaying the Bluetooth connection status can be found by navigating in the SwitchBot app to Profile → Manage Hubs → the relevant hub.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
