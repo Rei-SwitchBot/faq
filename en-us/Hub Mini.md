@@ -2597,3 +2597,19 @@ C. Method 2 Please follow the steps below to integrate via the SwitchBot App.
 - Tap "Connect".
 - Enter your Google Home App login ID and password.
 - The link will be automatically established.
+
+---
+### Troubleshooting: Some Infrared Remote Controls Added Through SwitchBot Hub Are Not Showing in Google Home.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Hub products support learning infrared remote controls in the following four ways: Smart Matching, Select Manually, Learn Buttons, and others.
+Please note that infrared remote controls learned through the "Others" mode cannot be linked with third-party services such as Alexa or Google Home. As a result, these remote controls will not appear in Alexa or Google Home and cannot be controlled by voice command through those services. We appreciate your understanding.
+As an alternative, you can create a SwitchBot Scene that controls the infrared remote. Alexa and Google Home can run SwitchBot Scenes through voice commands or automation, so this can help you control the infrared remote through Alexa or Google Home indirectly. Please check the links below for more details.
+https://support.switch-bot.com/hc/en-us/articles/19444800636183
+https://support.switch-bot.com/hc/en-us/articles/18659736438295
+https://support.switch-bot.com/hc/en-us/articles/18659778694167
+
+Note:
+If your Hub supports Matter, you can sync the remote learned through "Others" mode to Apple Home as a sub-device, then control it using "Hey Siri" voice commands.
+https://support.switch-bot.com/hc/en-us/articles/34970312963991
