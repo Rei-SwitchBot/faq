@@ -2235,3 +2235,21 @@ https://support.switch-bot.com/hc/ja/articles/19444800636183
 備考：
 お使いのハブがMatterに対応している場合、「その他」モードで学習したリモコンを子デバイスとしてApple Homeに同期し、Hey Siriでの音声操作が可能です。
 https://support.switch-bot.com/hc/ja/articles/34970312963991
+
+---
+### トラブルシューティング 一部のリモコンしかAmazon Alexaに連携されず、すべてのリモコンは表示されません。
+
+お問い合わせいただき、ありがとうございます。
+弊社の製品で大変ご迷惑をおかけしております。
+本件について、以下をご確認いただけますでしょうか。
+1. 弊社のハブ製品では、以下の4つの方法で赤外線リモコンを学習することができます。
+自動学習/手動学習/ボタン学習/その他
+このうち、「その他」モードで学習した赤外線リモコンについては、AlexaやGoogle Homeなどのサードパーティーサービスと連携することができません。そのため、これらのリモコンはAlexaやGoogle Home上に表示されず、音声操作もできかねます。あらかじめご了承くださいませ。
+2. AlexaやGoogle Homeでは、音声コマンドによるSwitchBotシーンの操作に加え、オートメーションからもシーンを実行することが可能です。代替案として、赤外線リモコンを動作させるシーンを作成し、AlexaやGoogle Homeでご利用いただくことをお勧めいたします。詳細について下記のリンクをご確認ください。
+https://support.switch-bot.com/hc/ja/articles/18659778694167
+https://support.switch-bot.com/hc/ja/articles/18659736438295
+https://support.switch-bot.com/hc/ja/articles/19444800636183
+
+備考：
+お使いのハブがMatterに対応している場合、「その他」モードで学習したリモコンを子デバイスとしてApple Homeに同期し、Hey Siriでの音声操作が可能です。
+https://support.switch-bot.com/hc/ja/articles/34970312963991
