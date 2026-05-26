@@ -850,3 +850,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Check whether poor contact may be causing the Ceiling Light Pro to flicker. Be sure to avoid electric shock when checking.
 2. Check whether other lights in your home are experiencing the same issue, so we can determine whether the voltage is stable.
+
+---
+### Troubleshooting: SwitchBot Ceiling Light Flickers, Constantly Turning Off and On.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check whether poor contact may be causing the ceiling light to flicker. Be sure to avoid electric shock when checking.
+2. Check whether other lights in your home are experiencing the same issue, so we can determine whether the voltage is stable.
