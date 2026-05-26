@@ -176,3 +176,15 @@ Important Note:
 For more precise window detection, we recommend using our Contact Sensor together with your Smart Radiator Thermostat in automations.
 If you have already set up automations involving the Contact Sensor and thermostat, we suggest disabling the built-in Window Detect function on the device itself. Running both simultaneously may result in conflicting commands.
 Automation features require a hub.
+
+---
+### How to Replace the Batteries of SwitchBot Smart Radiator Thermostat After Installing the Pin
+
+If the Radiator Thermostat you purchased is the version with a locking pin, you can replace the batteries by following the video in the link below.
+https://support.switch-bot.com/hc/en-us/articles/39379745554327
+
+---
+### How to Tighten SwitchBot Smart Radiator Thermostat to Prevent the Equipment from Being Unscrewed
+
+Please refer to the video in the link below to install the pin and secure the Radiator Thermostat, so that the top cover cannot be unscrewed.
+https://support.switch-bot.com/hc/en-us/articles/39379745554327
