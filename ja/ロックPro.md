@@ -2179,7 +2179,7 @@ F つまみの頂点からドア枠までの高さ
 - つまみの頂点からドア枠までの距離Fは62mmを超えると、ロックPro本体はドアに届かなくて、ドアに貼り付けできかねます。弊社ホームページから15mmの高さ補助パーツをご購入いただくと、最大77mm（62+15）対応可能です。Fは77mm以上の場合、ロックProの取付をご遠慮ください。
 [https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock?variant=41653345157295](https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock?variant=41653345157295)
 
-- ご自宅のドアは内側から開くタイプで、つまみの中心からドア枠までの距離Dは40mm以内である場合、ドア幅を計ってから、取り付け可能かご確認ください。
+- ご自宅のドアは内側から開くタイプで、つまみの中心からドア枠までの距離Dは40mm以内である場合、下記の表をご参照いただき、ドア幅とDの長さを測定の上、設置が可能かどうかご確認ください。条件を満たさない場合には、ロックProの取り付けをお控えください。
 
 <img width="543" height="74" alt="image" src="https://github.com/user-attachments/assets/d365f985-5f43-4217-836c-b1ece2ecbc2a" />
 
