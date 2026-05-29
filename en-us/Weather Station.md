@@ -274,9 +274,8 @@ SwitchBot Hub Mini Matter Enabled
 - Launch SwitchBot App and log in.
 - Tap Weather Station.
 - Tap "Displayed Info".
-- Tap "Temp and Humidity Source".
+- Tap "Screen Content".
 - Scroll down and tap "AI analysis page".
-- Tap "Next".
 - Tap "Environmental Data".
 - Tap "Add".
 - Select the devices you wish to display and save.
@@ -489,8 +488,10 @@ The bottom of the screen displays practical health and lifestyle advice based on
 ---
 ### Introduction to SwitchBot Weather Station Calendar Screen
 
-When you press the calendar button on the daily station, the schedules from the synced calendar will be displayed. You can view up to 30 events, with a maximum of 15 events per page. To see more events, please click the "Next" button.
-<img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/eb77184a-56f4-406f-852f-517b32f9f206" />
+When you press the calendar button on the Weather Station, events from the synced calendar will be displayed.
+Currently, the Weather Station calendar only supports displaying events for the current day. Support for displaying events on future dates is under development, so please stay tuned.
+For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
+[image1]
 
 
 ---
