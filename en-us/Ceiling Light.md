@@ -9,7 +9,7 @@
 
 Updated: Feb 23rd, 2023
 
-Applicable Products: SwitchBot Ceiling Light銆丼witchBot Ceiling Light Pro
+Applicable Products: SwitchBot Ceiling Light、SwitchBot Ceiling Light Pro
 
 Automation/Schedule/Scene functions are only available when connected to Wi-Fi.
 
