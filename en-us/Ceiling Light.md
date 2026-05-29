@@ -915,3 +915,13 @@ Regarding this issue, could you please check the following points?
 7. If you have multiple smartphones, try pairing using another smartphone.
 8. The pairing attempt may fail due to an unstable connection. We recommend waiting a moment before trying to pair again.
 9. As part of troubleshooting, please check if you can connect the ceiling light to your smartphone's tethering. If you have a smartphone that supports 5G, please enable "Prefer Compatibility" to output only 2.4GHz.
+
+---
+### Troubleshooting: There Is a Noticeable Coil Whine When Using SwitchBot Ceiling Light Pro After Installation.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Restart your Ceiling Light.
+2. Reset your Ceiling Light.
+Turn/off the main switch (eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
+Video: https://youtu.be/rouyr0OfHok
