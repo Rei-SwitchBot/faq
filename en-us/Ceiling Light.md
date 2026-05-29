@@ -890,3 +890,13 @@ https://support.switch-bot.com/hc/en-us/articles/18659778694167
 Note:
 If your Hub supports Matter, you can sync the remote learned through "Others" mode to Apple Home as a sub-device, then control it using "Hey Siri" voice commands.
 https://support.switch-bot.com/hc/en-us/articles/34970312963991
+
+---
+### Troubleshooting: There Is a Noticeable Coil Whine When Using SwitchBot Ceiling Light After Installation.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Restart your Ceiling Light.
+2. Reset your Ceiling Light.
+Turn/off the main switch (eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
+Video: https://youtu.be/rouyr0OfHok
