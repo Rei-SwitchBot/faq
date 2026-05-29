@@ -900,3 +900,18 @@ Regarding this issue, could you please check the following points?
 2. Reset your Ceiling Light.
 Turn/off the main switch (eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: https://youtu.be/rouyr0OfHok
+
+---
+### Troubleshooting Failed to Add SwitchBot Ceiling Light to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Turn the power of the ceiling light back on and pair it within 2 minutes.
+3. Make sure the ceiling light is installed close to your Wi-Fi router (recommended within 5 meters).
+4. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
+5. Make sure that you enter the Wi-Fi SSID and password correctly, including any uppercase and lowercase letters.
+6. Restart your home router.
+7. If you have multiple smartphones, try pairing using another smartphone.
+8. The pairing attempt may fail due to an unstable connection. We recommend waiting a moment before trying to pair again.
+9. As part of troubleshooting, please check if you can connect the ceiling light to your smartphone's tethering. If you have a smartphone that supports 5G, please enable "Prefer Compatibility" to output only 2.4GHz.
