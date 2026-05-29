@@ -236,7 +236,7 @@ When using it for the first time, the Weather Station will automatically update 
 ---
 ### How Many Personal Calendars Can Be Synchronized with SwitchBot Weather Station?
 
-You can sync up to five personal calendars to the Weather Station. On the calendar screen, you can view up to 30 schedules.
+You can sync up to five personal calendars to the Weather Station.
 
 ---
 ### Why Does the Screen of SwitchBot Weather Station Flicker Periodically?
