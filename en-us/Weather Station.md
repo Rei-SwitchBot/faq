@@ -491,7 +491,8 @@ The bottom of the screen displays practical health and lifestyle advice based on
 When you press the calendar button on the Weather Station, events from the synced calendar will be displayed.
 Currently, the Weather Station calendar only supports displaying events for the current day. Support for displaying events on future dates is under development, so please stay tuned.
 For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
-[image1]
+<img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/ee184c45-4da4-4081-8db0-52e75f5d7ce5" />
+
 
 
 ---
