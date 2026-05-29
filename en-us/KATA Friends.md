@@ -1134,3 +1134,23 @@ To help extend the lifespan of KATA Friends, we recommend the following:
 2. Keep the device firmware updated to the latest version.
 3. Follow the official maintenance guidelines regularly, especially for parts that may age over time, such as the battery, moving components, and exterior wear parts.
 If the device shows signs such as abnormal overheating, abnormal movement, significantly shorter battery life, or abnormal screen display, please contact our official support team for inspection or repair.
+
+---
+### SwitchBot KATA Friends Helper Function
+
+The helper function of KATA Friends allows you to use supported voice commands in chat mode to have KATA Friends check device status and control devices. To use the "Helper" feature of KATA Friends, the following conditions must be met:
+- SwitchBot app version: 9.26 or newer
+- Firmware version: 1.2.059 or newer
+- Chat mode: enabled
+For supported products, actions, and voice commands for this feature, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/40550206978711
+
+---
+### Does KATA Friends Come with an Additional Warranty After a Complete Health Check-up?
+
+Please refer to the following information regarding the warranty coverage after a Complete Health Check-up for KATA Friends.
+For devices that have received a paid Complete Health Check-up, the same warranty coverage as paid repair service will apply. The warranty period is 100 days from the date the device is returned after the check-up.
+The following Complete Health Check-ups are covered by the 100-day warranty:
+- Paid Complete Health Check-ups under the Essential Plan.
+- Paid Complete Health Check-ups requested for the second time or later under the Premium Plan or one-time purchase plan, after the included free Complete Health Check-up has already been used.
+Please note that the one free Complete Health Check-up included in the Premium Plan or one-time purchase plan does not come with an additional warranty period.
