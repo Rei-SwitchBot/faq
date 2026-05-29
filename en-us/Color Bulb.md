@@ -772,3 +772,66 @@ Regarding this issue, could you please check the following points?
 5. Remove the Color Bulb from the SwitchBot App and then add it back. This can help refresh the connection between the bulb and the app.
 6. Ensure your Color Bulb is updated to the latest firmware. Firmware updates often include improvements that can fix connectivity issues.
 7. Test the connection using your phone's hotspot. If the bulb stays connected, the issue might be with your home network settings.
+
+---
+### Troubleshooting: SwitchBot Color Bulb Flickers
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check whether any automation, scene, or lighting effect settings may cause the Color Bulb to flicker.
+2. Confirm whether you are using any dynamic lighting effect scenes with the Color Bulb.
+3. Please check for any available firmware updates by going to SwitchBot app → Color Bulb → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+4. Turn off the power, remove the bulb, and gently wipe the socket with a soft cloth. Then reinstall the bulb and check whether the issue improves.
+
+---
+### Troubleshooting: SwitchBot Color Bulb Suddenly Cannot Connect to the Network.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Power on and off the Color Bulb 8 times to do the factory reset.
+https://support.switch-bot.com/hc/en-us/articles/4416605563415
+2. As a troubleshooting step, check if the Color Bulb can connect to your smartphone's hotspot.
+https://support.switch-bot.com/hc/en-us/articles/32573508408983
+3. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+
+---
+### Troubleshooting Failed to Update SwitchBot Color Bulb Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the firmware update issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.
+2. Make sure that the Color Bulb is connected to a stable network.
+3. Perform the firmware update near the device to ensure a stable connection.
+4. Turn off the Color Bulb power and then reconnect it.
+5. Turn off your home router, wait about 30 seconds, then turn it back on.
+6. Switch to a mobile hotspot connection and attempt the update again.
+7. There may be failures due to network connection issues, so please wait for some time and try multiple times.
+
+---
+### Troubleshooting SwitchBot Color Bulb Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Place the Color Bulb closer to the Wi-Fi router (within 5 meters).
+3. Make sure that the Bluetooth on your smartphone is enabled. If it's already on, try turning it off and then back on again.
+4. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
+5. When adding the device, make sure that you correctly enter the Wi-Fi SSID and password, including uppercase and lowercase letters.
+6. Restart your home router and then try again.
+7. Power on and off the Color Bulb 8 times to do the factory reset.
+https://support.switch-bot.com/hc/en-us/articles/4416605563415
+8. As a troubleshooting step, check if the Color Bulb can connect to your smartphone's hotspot.
+https://support.switch-bot.com/hc/en-us/articles/32573508408983
+
+---
+### Troubleshooting: After Tapping SwitchBot Color Bulb in the SwitchBot App, It Keeps Loading for a While and Eventually Shows a Connection Failure.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please turn on the Location Service for the SwitchBot App on your smartphone. If it is already permitted, please restart your smartphone.
+2. Make sure that the Bluetooth on your smartphone is enabled. If it's already on, try turning it off and then back on again.
+3. Make sure that the Color Bulb is connected to a stable network.
+4. Turn off the Color Bulb power and then reconnect it.
+5. Power on and off the Color Bulb 8 times to do the factory reset.
+https://support.switch-bot.com/hc/en-us/articles/4416605563415
+6. Remove the Color Bulb from SwitchBot app and add it again.

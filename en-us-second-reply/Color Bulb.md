@@ -80,3 +80,111 @@ Rest assured, we will cover the cost of the extender if your Color Bulb is under
 - Your PayPal account
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot Color Bulb Flickers
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing the Color Bulb flickering
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting: SwitchBot Color Bulb Suddenly Cannot Connect to the Network.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. A video showing that Color Bulb cannot connect to smartphone hotspot
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting Failed to Update SwitchBot Color Bulb Firmware
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. Screen recording showing firmware update failure
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting SwitchBot Color Bulb Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Brand and model of your home router
+- A photo showing the specification information located on the side, back, or bottom of the router itself
+- Screen recording of the failure to add the device to the SwitchBot app
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: After Tapping SwitchBot Color Bulb in the SwitchBot App, It Keeps Loading for a While and Eventually Shows a Connection Failure.
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced, could you kindly provide the following information?
+  1. Video or screen recording of not being able to connect Color Bulb with the SwitchBot app
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
