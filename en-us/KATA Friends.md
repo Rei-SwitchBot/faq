@@ -40,7 +40,9 @@ The Built-in lithium battery capacity of SwitchBot KATA Friends is 3200mAh.
 ---
 ### Can I Take SwitchBot KATA Friends on an Airplane?
 
-If you plan to bring your KATA Friends on a plane, we recommend checking with the airline or airport staff regarding its built-in lithium battery. If carry-on is permitted, please ensure it is carefully and securely packed. For long trips, please contact our after-sales service for advice on packing precautions.
+If you plan to bring KATA Friends on a plane, please check the carry-on and transportation requirements of the airline and the relevant region in advance, as KATA Friends has a built-in lithium battery rated at 3200 mAh, 46 Wh.
+The battery is located inside the bottom of the device and cannot be removed by the user. Please make sure the device is packed securely to protect it from damage during transportation.
+For long-distance travel, KATA Friends should be packed in its original packaging whenever possible, as this provides better protection during transit.
 
 
 ---
