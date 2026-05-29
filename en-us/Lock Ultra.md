@@ -712,3 +712,60 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 https://support.switch-bot.com/hc/en-us/articles/25330863432727
 2. If you haven't used the "Auto-Unlock" feature, please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate youre Lock Ultra before use.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+---
+### How to Install SwitchBot Lock Ultra on MIWA B5 Door Locks Using a Special Thumbturn Holder (Only for Japan)
+
+MIWA B5 Installation Guide
+Method 1: Use a size L thumb turn holder, tilt the lock Ultra body as shown in the video, and secure it to the B5 thumb turn.
+Video: https://drive.google.com/file/d/1QZrkZbg6zd0loxSoYsbICMLDNKV1DOCl/view?usp=sharing
+
+Method 2: Use the specialized thumb turn holder designed specifically for MIWA B5 and U1 entrance locks. We will guide you through the process of installing Lock Ultra on the MIWA B5 and U1 door locks with a video.
+Video: https://www.youtube.com/watch?v=WiiPP9-_t-4
+
+If you wish to obtain this special thumbturn holder, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*The thumbturn holder shown in the video is specifically designed for the MIWA B5 and U1 door locks. If your door lock model is anything other than these two, please do not apply.
+*The accessory will be shipped from our Hong Kong warehouse and should arrive in Japan in about two weeks.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### How to Install SwitchBot Lock Ultra on MIWA U1 Door Locks Using a Special Thumbturn Holder (Only for Japan)
+
+MIWA U1 Installation Guide
+
+Method 1:
+Use an L-sized thumb turn. Before attaching the Lock Ultra body, wrap tape or a similar material around the U1 thumb turn several times until the button is fully pressed down. If this step is not completed, the thumb turn may spin freely, making it impossible to lock or unlock the door.
+[image1]
+
+Method 2:
+Use the specialized thumb turn holder designed specifically for MIWA B5 and U1 entrance locks. We will guide you through the process of installing Lock Ultra on the MIWA B5 and U1 door locks with a video.
+Video: https://www.youtube.com/watch?v=WiiPP9-_t-4
+
+If you wish to obtain this special thumbturn holder, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*The thumbturn holder shown in the video is specifically designed for the MIWA B5 and U1 door locks. If your door lock model is anything other than these two, please do not apply.
+*The accessory will be shipped from our Hong Kong warehouse and should arrive in Japan in about two weeks.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
