@@ -9396,3 +9396,9 @@ Control the scene with the voice command "OK Google, turn on [scene name]".
 Note:
 Please use the Delay Actions (Beta) feature of the SwitchBot scene for similar situations.
 
+
+---
+### Can I Control SwitchBot Scenes in Home Assistant?
+
+We regret to inform you that SwitchBot Scenes currently cannot be synced to Home Assistant. As a result, controlling SwitchBot Scenes in Home Assistant is not supported at this time.
+If needed, you can select the corresponding SwitchBot device in Home Assistant and create an automation for it directly.
