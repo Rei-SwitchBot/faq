@@ -344,6 +344,8 @@ Due to its weight, the 31.5-inch AI Art Frame must be installed using wall-mount
 Video: https://drive.google.com/file/d/1tiityDJMc7Y61t3evA-TqvqW6RNJEmLV/view?usp=sharing
 
 2. Check the spacing of the hanging hardware on the back of the frame and drill the second screw hole to align with that position.
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/e0498931-5ba7-47ce-a27c-b44b0d72cfcb" />
+
 
 3. Hang the 31.5-inch AI Art Frame on the wall.
 Video: https://drive.google.com/file/d/1-eoPE7L4yh9BodJVAFQ-QbbIrI_UZK8z/view?usp=sharing
