@@ -303,17 +303,6 @@ We will guide you through the outer frame size and screen size of the AI Art Fra
 13.3-inch: with frame measuring 41 × 31 cm (12 × 16 in.), screen size 26.6 x 19.8 cm (10.47 × 7.80 in.)
 31.5-inch: with frame measuring 91 × 41 cm (24 × 36 in.), screen size 69 x 38.5 cm (27.17 × 15.16 in.)
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 ### Can Multiple SwitchBot AI Art Frames Be Used in Groups?
 
