@@ -48,7 +48,6 @@ Press and hold the power button and music mode button on the floor lamp for 15 s
 Please note that initializing the device will erase all settings and Wi-Fi information. Thanks for your understanding.
 
 
-
 ---
 ### Troubleshooting SwitchBot Floor Lamp Not Powering on
 
