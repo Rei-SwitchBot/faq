@@ -625,3 +625,11 @@ The traditional camera series products do not offer a cloud storage plan for thr
 If you have any other questions, please do not hesitate to contact us.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Do I Need to Subscribe to Cloud Storage Separately for Each of My SwitchBot Cameras?
+
+If you have multiple SwitchBot Cameras, even if they are different models, you can subscribe to a plan that covers 2 or 3 cameras at once, as long as they are all added to the same Home. However, if your cameras are added to different Homes, you'll need to purchase separate cloud storage plans for each Home.
+Note:
+Starting from SwitchBot app version 9.27, the original Cloud Storage Service has been renewed as the AI Guard Plan, with an updated name and expanded features. For more information, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/40871974522135
