@@ -78,8 +78,8 @@ When operating the air conditioner with the Home Climate Panel, please make sure
 
 <img width="738" height="1280" alt="image" src="https://github.com/user-attachments/assets/c0dc63ee-d6a1-43ff-bd1a-2ba2c7fd476d" />
 
-Note:  
-When using the Home Climate Panel together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity values will be displayed in red on the SwitchBot app when the set thresholds are reached.
+Note:
+When using the Home Climate Panel together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity icons will be displayed in red on the SwitchBot app when the set thresholds are reached.
 
 
 ---
