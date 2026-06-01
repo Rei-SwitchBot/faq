@@ -1156,3 +1156,18 @@ The following Complete Health Check-ups are covered by the 100-day warranty:
 - Paid Complete Health Check-ups under the Essential Plan.
 - Paid Complete Health Check-ups requested for the second time or later under the Premium Plan or one-time purchase plan, after the included free Complete Health Check-up has already been used.
 Please note that the one free Complete Health Check-up included in the Premium Plan or one-time purchase plan does not come with an additional warranty period.
+
+---
+### Can I Schedule a Firmware Update Time for SwitchBot KATA Friends?
+
+We regret to inform you that KATA Friends does not currently support setting a specific time period for firmware updates, such as scheduling an update to run while it is sleeping at night.
+This feature is currently under development, so please stay tuned. We appreciate your understanding.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Did Not Perform the Wake-Up Call.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. KATA Friends will not perform a Wake-up Call while it is sleeping or in Sleep Mode. In this case, the app will show the message "KATA Friend is sleeping".
+2. The Wake-up Call may fail if it is interrupted by another task or interaction while running, or if the device is in Standby Mode at the scheduled time. In this case, the app will show the message "KATA Friend is having fun and can't perform scheduled activities".
+3. The Wake-up Call is triggered based on the map location point and the scheduled time. If the current map has been changed, it may affect whether the Wake-up Call can run properly.
