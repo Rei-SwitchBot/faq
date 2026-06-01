@@ -55,3 +55,13 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 
+
+---
+### Troubleshooting: Small Black Dots or Pixel-Like Spots Are Visible on Newly Purchased SwitchBot AI Art Frame Screen
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A photo that clearly shows the black spots on the AI Art Frame screen
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
