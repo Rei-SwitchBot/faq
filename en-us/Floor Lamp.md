@@ -44,7 +44,7 @@ Regarding this issue, could you please check the following points?
 ---
 ### How to Reset SwitchBot Floor Lamp
 
-Press and hold the power button and music mode button on the floor lamp for 8 seconds until it cycles through red, green, and blue to initialize the device.
+Press and hold the power button and music mode button on the floor lamp for 15 seconds until it cycles through red, green, and blue to initialize the device.
 Please note that initializing the device will erase all settings and Wi-Fi information. Thanks for your understanding.
 
 
@@ -137,3 +137,8 @@ Regarding this issue, could you please provide a video showing that the floor la
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Can Multiple SwitchBot Floor Lamps Be Used as a Group?
+
+SwitchBot Floor Lamp does not support a grouping feature. However, you can achieve similar results by adding multiple devices as actions within a SwitchBot Scene or Automation, allowing them to follow the same command. Please note that due to network connectivity, these commands may occasionally execute with a slight delay, meaning the devices might not operate perfectly in sync (for example, turning on or off at the exact same time). We appreciate your understanding.
