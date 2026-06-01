@@ -369,5 +369,7 @@ AIアートキャンバスの外枠サイズとスクリーンサイズを案内
 1. 電動ドライバー（ご自分でご用意）で壁にネジ穴を開けてから、ネジを締めます。
 参考動画：https://drive.google.com/file/d/1tiityDJMc7Y61t3evA-TqvqW6RNJEmLV/view?usp=sharing
 2. フレーム背面の掛け金具の間隔（おおよその目安）をご確認いただき、その位置に合わせて2つ目のネジ穴を開けます。
-3. 31.5インチのAIアートキャンバスを壁に掛けます。
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d709ef5c-f16a-40a0-96bd-60dbae90d0b6" />
+
+4. 31.5インチのAIアートキャンバスを壁に掛けます。
 参考動画：https://drive.google.com/file/d/1-eoPE7L4yh9BodJVAFQ-QbbIrI_UZK8z/view?usp=sharing
