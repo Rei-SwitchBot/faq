@@ -2446,15 +2446,6 @@ When you mark black-carpet areas for cleaning, the cliff sensor sensitivity will
 We sincerely apologize for any inconvenience this may cause and appreciate your understanding as we work towards a permanent solution. If you need further assistance or have any questions, please don’t hesitate to reach out.
 
 
-
-
-
-
-
-
-
-
-
 ---
 ### Troubleshooting The Accessory Usage Life of SwitchBot Mini Robot Vacuum K10+ Pro Cannot Be Reset
 
@@ -2462,7 +2453,8 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue of not being able to reset the robot accessory usage life, could you please check the following points?
 1. After replacing the accessory, go to the SwitchBot app → K10+ Pro → More → Tap on "Accessory Usage life" to reset it manually.
 2. Remove the faceplate of the Mini Robot Vacuum K10+ Pro, turn off and then turn on the power switch (switch it to 'o' and then back to 'I').
-[image1]
+<img width="625" height="392" alt="image" src="https://github.com/user-attachments/assets/7d876efb-f491-4dbe-a1ae-99432e62ed5e" />
+
 3. Reconnect your device to Wi-Fi by following these steps: Open the SwitchBot app → select Mini Robot Vacuum K10+ Pro → tap the gear icon → select "reconnect device".
 4. By pressing and holding the front collision guard, charging button, and sensor part simultaneously for more than 10 seconds, the Mini Robot Vacuum K10+ Pro will reset. Please note that during this reset, information related to Wi-Fi, previously set cleaning schedules, and maps will be erased.
 Reset video:
