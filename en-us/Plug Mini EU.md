@@ -176,7 +176,7 @@ home hubs, we suggest contacting Apple directly. Please refer to the link below 
 
 Setup
 Method 1 Directly Add SwitchBot Plug Mini EU to Apple Home
-1. You can add your Plug Mini EU to Apple Home without using SwitchBot App. Press and hold for 15 seconds until the indicator light stays solid blue, then release. The indicator light will start flashing blue, entering pairing mode, then open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Scan the OR code located on the Plug Mini EU body to continue the whole process.
+1. You can add your Plug Mini EU to Apple Home without using SwitchBot App. Press and hold for 15 seconds until the indicator light stays solid blue, then release. The indicator light will start flashing blue, entering pairing mode, then open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Scan the QR code located on the Plug Mini EU body to continue the whole process.
 Video: [https://www.youtube.com/watch?v=Kcy9QuEHmLw](https://www.youtube.com/watch?v=Kcy9QuEHmLw)
 
 If you don't need to sync sub-devices like SwitchBot Lock Ultra or Curtain to Apple Home via the Plug Mini EU, we recommend choosing Method 1. However, if you need to sync (up to two*) sub-devices through the Plug Mini EU to Apple Home, download the SwitchBot app and use Method 2 to set up Matter.
@@ -207,7 +207,7 @@ Before setting up devices using Matter, you will need the following:
 
 Setup
 Method 1 Directly Add SwitchBot Plug Mini EU to Google Home
-1. You can also add your Plug Mini EU to Google Home without using SwitchBot App. Press and hold for 15 seconds until the indicator light stays solid blue, then release. The indicator light will start flashing blue, entering pairing mode, then open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Scan the OR code located on the Plug Mini EU body to continue the whole process.
+1. You can also add your Plug Mini EU to Google Home without using SwitchBot App. Press and hold for 15 seconds until the indicator light stays solid blue, then release. The indicator light will start flashing blue, entering pairing mode, then open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Scan the QR code located on the Plug Mini EU body to continue the whole process.
 Video: [https://youtu.be/NfH9n1XGY4w](https://youtu.be/NfH9n1XGY4w)
 
 
@@ -237,7 +237,7 @@ Video: [https://www.youtube.com/watch?v=21HF-Vgp7TA](https://www.youtube.com/wat
 ### How to Add SwitchBot Plug Mini EU to Apple Home via Matter without Downloading SwitchBot App
 
 1. Press and hold the Plug Mini EU power button for 15 seconds until the indicator flashes blue to enter pairing mode.
-2. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Scan the OR code located on the Plug Mini EU body to continue the whole process.
+2. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Scan the QR code located on the Plug Mini EU body to continue the whole process.
 Video: [https://www.youtube.com/watch?v=Kcy9QuEHmLw](https://www.youtube.com/watch?v=Kcy9QuEHmLw)
 
 Note:
