@@ -1,6 +1,6 @@
 ﻿---
 
-## Mini Robot Vacuum K10锛?
+## Mini Robot Vacuum K10+
 
 ---
 
