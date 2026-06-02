@@ -702,6 +702,7 @@ https://support.switch-bot.com/hc/en-us/articles/38792001395095
 4. We recommend annual maintenance for the arm motor. During regular use, avoid forcing the arm upward, bending it, or subjecting it to drops or collisions.
 *A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
 https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
+
 ---
 ### Troubleshooting: SwitchBot KATA Friends Have Recorded Many Faces from Television.
 
