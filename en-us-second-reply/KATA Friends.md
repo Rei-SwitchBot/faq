@@ -231,6 +231,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting: SwitchBot KATA Friends Sometimes Can't Cross the Threshold
 
@@ -259,6 +260,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Time of symptom onset
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting: KATA Friends' Ears Move Normally, but SwitchBot App Displays an Error Message Indicating an Ear Malfunction.
 
@@ -268,6 +270,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screenshots showing the error message
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting: KATA Friends' Ears Don't Move
 
@@ -278,6 +281,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Time of symptom onset
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 ---
 ### Troubleshooting: The Cover inside SwitchBot KATA Friends' Ear Is Installed Backwards.
 
@@ -285,6 +289,7 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
 ---
 ### Troubleshooting: I Adjusted the Volume of SwitchBot KATA Friends on SwitchBot App, but the Volume Changes on Its Own
 
