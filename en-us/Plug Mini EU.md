@@ -186,7 +186,7 @@ Method 2 Add Plug Mini EU to Apple Home through SwitchBot App as a Matter bridge
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Plug Mini EU has been added to your App and your device firmware version is up to date.
 3. Make sure all devices (your iPhone, HomePod/Apple TV, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
-4. Copy the setup code by going to Switch Bot App -> Your Plug Mini EU -> Gear Icon (Settings screen) -> Matter Setup.
+4. Copy the setup code by going to SwitchBot App -> Your Plug Mini EU -> Gear Icon (Settings screen) -> Matter Setup.
 5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
 6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
 7. Go to SwitchBot App - Plug Mini EU - Gear Icon (Settings) - Matter Setup - Sub-device to sync your desired SwitchBot devices to Home App.
@@ -219,7 +219,7 @@ Method 2 Add Plug Mini EU to Google Home through SwitchBot App as a Matter bridg
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Plug Mini EU has been added to your App and your device firmware version is up to date.
 3. Make sure all devices (your smartphone, Google Nest Hub, and Plug Mini EU) are connected to the same 2.4GHz Wi-Fi network.
-4. Copy the setup code by going to Switch Bot App -> Your Plug Mini EU -> Gear Icon (Settings screen) ->Matter Setup.
+4. Copy the setup code by going to SwitchBot App -> Your Plug Mini EU -> Gear Icon (Settings screen) ->Matter Setup.
 5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
 6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
 7. Go to SwitchBot App - Plug Mini EU - Gear Icon (Settings) - Matter Setup - Sub-device to sync your desired SwitchBot devices to Google Home.
