@@ -1079,9 +1079,10 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
-
+*A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
+https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
 ---
 ### How to Claim the Six-Month Essential Plan Offered During the Compaign
 
@@ -1192,3 +1193,9 @@ Regarding this issue, could you please check the following points?
 1. KATA Friends will not perform a Wake-up Call while it is sleeping or in Sleep Mode. In this case, the app will show the message "KATA Friend is sleeping".
 2. The Wake-up Call may fail if it is interrupted by another task or interaction while running, or if the device is in Standby Mode at the scheduled time. In this case, the app will show the message "KATA Friend is having fun and can't perform scheduled activities".
 3. The Wake-up Call is triggered based on the map location point and the scheduled time. If the current map has been changed, it may affect whether the Wake-up Call can run properly.
+
+---
+### Gently Pick up SwitchBot KATA Friends
+
+Please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
+https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
