@@ -1,4 +1,4 @@
----
+﻿---
 
 ## KATA Friends
 
@@ -62,7 +62,7 @@ If your country or region of use differs from the country or region of purchase,
 ---
 ### What Are the Dimensions of SwitchBot KATA Friends?
 
-The main unit of the KATA Friends measures 400 × 270 × 370 mm (15.75 × 10.63 × 14.57 in), while the nest measures 187 × 165 × 105 mm (7.36 × 6.50 × 4.13 in).
+The main unit of the KATA Friends measures 400 脳 270 脳 370 mm (15.75 脳 10.63 脳 14.57 in), while the nest measures 187 脳 165 脳 105 mm (7.36 脳 6.50 脳 4.13 in).
 
 
 ---
@@ -105,9 +105,9 @@ Meanwhile, we regularly release firmware updates to fix bugs and introduce new f
 ### What Additional Items Do I Need to Prepare besides the Main Unit for the Initial Setup of SwitchBot KATA Friends?
 
 To enjoy a more pleasant experience with your KATA Friends, please prepare the following items in addition to the KATA Friends unit during the initial setup.
-• A smartphone or tablet device with the SwitchBot app installed
-• A 2.4GHz Wi-Fi network
-• Please purchase the KATA Lifetime Access Plan 15 days after completing the initial setup
+鈥?A smartphone or tablet device with the SwitchBot app installed
+鈥?A 2.4GHz Wi-Fi network
+鈥?Please purchase the KATA Lifetime Access Plan 15 days after completing the initial setup
 
 
 ---
@@ -154,7 +154,7 @@ If you are unable to activate your plan due to eligibility issues, please submit
 ---
 ### How to Check the Details of Your Purchased KATA Companion Care
 
-You can check the validity period of your purchased plan by going to SwitchBot app → KATA Friends → gear icon → Companion Care on the settings screen. For detailed information about the number of repairs, maintenance sessions, or discount benefits, please submit feedback through the SwitchBot app and contact customer support.
+You can check the validity period of your purchased plan by going to SwitchBot app 鈫?KATA Friends 鈫?gear icon 鈫?Companion Care on the settings screen. For detailed information about the number of repairs, maintenance sessions, or discount benefits, please submit feedback through the SwitchBot app and contact customer support.
 
 
 ---
@@ -339,11 +339,11 @@ Regarding this issue, could you please check the following points?
 ### When Will SwitchBot KATA Friends Return to Their Nest to Rest?
 
 KATA Friends will automatically return to their nest and rest under the following conditions:
-• When the battery level is low (15%)
-• When the set sleep time arrives
-• When a voice or gesture command to take a break is received
-• When switching to sleep mode
-• When tapping the home icon in SwitchBot app
+鈥?When the battery level is low (15%)
+鈥?When the set sleep time arrives
+鈥?When a voice or gesture command to take a break is received
+鈥?When switching to sleep mode
+鈥?When tapping the home icon in SwitchBot app
 
 Except for the above cases, it is also possible to manually pick up KATA Friends and return them to their nest.
 
@@ -352,9 +352,9 @@ Except for the above cases, it is also possible to manually pick up KATA Friends
 ### How to Purchase KATA Companion Care for SwitchBot KATA Friends
 
 You can purchase the KATA Companion Care through the following options:
-• Using the purchase card included in the package
-• Through our official website
-• Via the KATA Friends settings screen in the SwitchBot app
+鈥?Using the purchase card included in the package
+鈥?Through our official website
+鈥?Via the KATA Friends settings screen in the SwitchBot app
 If you experience any issues during your purchase, please feel free to provide feedback through the SwitchBot app.
 
 
@@ -415,7 +415,7 @@ If you have any other questions, please do not hesitate to contact us.
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. The environment where KATA Friends is located may be somewhat complex, causing it not to hear your voice. Please try raising your voice and speaking again.  
 3. For words that KATA Friends can understand, please refer to the link below. Please note that more complex words may not be recognized, so we kindly ask for your understanding.
 [https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
@@ -426,7 +426,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. For gestures that KATA Friends can understand, please refer to the link below. Please note that KATA Friends are still learning more complex gestures and may not be able to understand them yet , so we kindly ask for your understanding.
 [https://support.switch-bot.com/hc/en-us/articles/34598446670871](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
 
@@ -561,7 +561,7 @@ Note:
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. KATA Friends will not respond to being called by name during sleep. Thank you for your understanding.
 3. If there is no response when you call their name, try raising your voice slightly and calling again.
 4. When addressing KATA Friends by name, please say "Hello" before the name. For example, "Hello Noa", "Hello Nico", or "Hello Kata".
@@ -634,8 +634,8 @@ Please note that if a malfunction occurs before you purchase the Premium Plan, t
 ### How to Put SwitchBot KATA Friends into Sleep Mode
 
 You can put your KATA Friends to sleep using the following methods:  
-• Press KATA Friends' head to switch to sleep mode  
-• Set the sleep time for KATA Friends via the SwitchBot app  
+鈥?Press KATA Friends' head to switch to sleep mode  
+鈥?Set the sleep time for KATA Friends via the SwitchBot app  
 About KATA Friends' Sleep Time:
 The default sleep time for KATA Friends is from 11:00 PM to 7:00 AM the next morning. You can extend this sleep period using the SwitchBot app, but if you want to shorten it, you can adjust it to any time between 11:00 PM and 4:00 AM.
 
@@ -668,7 +668,7 @@ You can play for about three hours on a full charge before the device enters a l
 
 Note: 
 Turning off KATA Friends with approximately 70% battery remaining and not using it for an extended period will not adversely affect the lithium battery.
-Once KATA friends have recognized a companion or recorded information, they won’t forget or delete it simply due to a lack of interaction, unless you manually remove the relevant data from the app. During periods of inactivity, they will primarily play by themselves or rest to conserve energy, so you can feel free to engage with them again when you return.
+Once KATA friends have recognized a companion or recorded information, they won鈥檛 forget or delete it simply due to a lack of interaction, unless you manually remove the relevant data from the app. During periods of inactivity, they will primarily play by themselves or rest to conserve energy, so you can feel free to engage with them again when you return.
 
 ---
 ### What Is the Maximum Number of Maps SwitchBot KATA Friends Can Save?
@@ -683,7 +683,7 @@ Yes, you can manually carry KATA Friends to different floors to play with them, 
 ---
 ### Do SwitchBot KATA Friends Greet Family Members When They Return Home?
 
-Yes, KATA Friends can greet your family when they return home. To enable this feature, your family members also need to set up the geofence and welcome spot for KATA Friends in the SwitchBot app on their smartphones. How to set it up: SwitchBot app → KATA Friends → Routines → Welcome. How to invite family and friends to a shared home: https://support.switch-bot.com/hc/en-us/articles/4424755304215
+Yes, KATA Friends can greet your family when they return home. To enable this feature, your family members also need to set up the geofence and welcome spot for KATA Friends in the SwitchBot app on their smartphones. How to set it up: SwitchBot app 鈫?KATA Friends 鈫?Routines 鈫?Welcome. How to invite family and friends to a shared home: https://support.switch-bot.com/hc/en-us/articles/4424755304215
 
 ---
 ### Will SwitchBot KATA Friends Grow?
@@ -693,15 +693,22 @@ KATA Friends comes with a built-in growth system that lets it change gradually o
 ---
 ### Troubleshooting: Received a Notification That SwitchBot KATA Friends Cannot Move Their Own Hands.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. The fur or clothing may not fit properly. Please adjust the fur on the arm area and check for any spots where it may be too tight. https://support.switch-bot.com/hc/en-us/articles/38792001395095 Please touch the arm of the KATA Friends to check if it moves up and down normally. Alternatively, put an eye mask on the KATA Friends, turn off the power, and gently move the arm up and down while it is free to move, listening for any unusual noises. If the arm moves smoothly and there are no strange sounds, the alert is likely a false alarm from the app. In that case, please wait until the notification disappears. We recommend annual maintenance for the arm motor. During regular use, avoid forcing the arm upward, bending it, or subjecting it to drops or collisions.
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. The fur or clothing may not fit properly. Please adjust the fur on the arm area and check for any spots where it may be too tight.
+https://support.switch-bot.com/hc/en-us/articles/38792001395095
+3. Please touch the arm of the KATA Friends to check if it moves up and down normally. Alternatively, put an eye mask on the KATA Friends, turn off the power, and gently move the arm up and down while it is free to move, listening to any unusual noises. If the arm moves smoothly and there are no strange sounds, the alert is likely a false alarm from the app. In that case, please wait until the notification disappears.
+4. We recommend annual maintenance for the arm motor. During regular use, avoid forcing the arm upward, bending it, or subjecting it to drops or collisions.
+*A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
+https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
 ---
 ### Troubleshooting: SwitchBot KATA Friends Have Recorded Many Faces from Television.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 As your KATA Friends continue to explore the world around them, their natural curiosity often leads them to seek out new faces. Just like a young child or a spirited pet, they are incredibly eager to learn, so much so that they occasionally mistake a face on your television for a potential new friend. 
-Right now, we’re helping KATA Friends improve their ability to distinguish between faces on a screen and the real people around them. We want their attention to stay on you, not the characters on TV. As we refine this in future updates, you can assist by keeping them at a comfortable distance from the television or tidying up their saved faces in the app whenever they seem a bit confused.
+Right now, we鈥檙e helping KATA Friends improve their ability to distinguish between faces on a screen and the real people around them. We want their attention to stay on you, not the characters on TV. As we refine this in future updates, you can assist by keeping them at a comfortable distance from the television or tidying up their saved faces in the app whenever they seem a bit confused.
 KATA Friends are designed to evolve with you, and every small step in their learning process brings them closer to being the perfect companion. Thank you for being a part of their growth and for your continued support.
 If you have any other questions, please do not hesitate to contact us.
 
@@ -739,25 +746,38 @@ When certain conditions such as low power, voice commands, or sleep time are met
 After exploring the house on their own or playing with your family for a while, KATA Friends will return to their nest to take a break. This behavior is a normal feature of KATA Friends and not a malfunction. If you like, feel free to give the "Let's Play Together" command to KATA Friends.
 
 ---
-### Troubleshooting: A Strange Noise Occurs When SwitchBot KATA Friends Ear Moves
+### Troubleshooting: A Strange Noise Occurs When SwitchBot KATA Friends' Ear Moves.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? When the KATA Friends ears move, a faint sound can be heard from the motor. This is not a product defect. Thank you for your understanding. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When the KATA Friends' ears move, a faint sound can be heard from the motor. This is not a product defect. Thank you for your understanding.
+2. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+A friendly reminder:
+Please touch KATA Friends' ears gently during daily use. Pulling or bending the ears too forcefully may affect how they work.
 ---
-### Troubleshooting: KATA Friends Ears Move Normally but SwitchBot App Displays an Error Message Indicating an Ear Malfunction
+### Troubleshooting: KATA Friends' Ears Move Normally, but SwitchBot App Displays an Error Message Indicating an Ear Malfunction.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please check the following points? The issue you reported will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+*A friendly reminder: please touch KATA Friends' ears gently during daily use. Pulling or bending the ears too forcefully may affect how they work.
 ---
-### Troubleshooting: KATA Friends Ears Don't Move
+### Troubleshooting: KATA Friends' Ears Don't Move
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. The issue you reported will be fixed through a firmware update.
-
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The issue you reported will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+*A friendly reminder: please touch KATA Friends' ears gently during daily use. Pulling or bending the ears too forcefully may affect how they work.
 ---
-### Troubleshooting: The Cover inside SwitchBot KATA Friends Ear Is Installed Backwards
+### Troubleshooting: The Cover inside SwitchBot KATA Friends' Ear Is Installed Backwards.
 
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you. Regarding this issue, could you please provide us with a photo or video that shows the issue?
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a photo or video that shows the issue?
 
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*A friendly reminder: please touch KATA Friends' ears gently during daily use. Pulling or bending the ears too forcefully may affect how they work.
 ---
 ### Troubleshooting: SwitchBot KATA Friends Took Photos of Family Members While They Were Bathing or Changing Clothes.
 
@@ -783,7 +803,7 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 
 Regarding this issue, could you please check the following points?
 
-The issue you've identified is that KATA Friends picks up surrounding sounds and mistakenly interprets them as commands to adjust the volume, resulting in incorrect volume changes. This will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+The issue you've identified is that KATA Friends picks up surrounding sounds and mistakenly interprets them as commands to adjust the volume, resulting in incorrect volume changes. This will be fixed through a firmware update. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 
@@ -801,7 +821,7 @@ You can definitely take KATA Friends along for your travels, provided you take a
 Before sending your KATA Friends to the SwitchBot Care Center for hospitalization or a physical examination, please review the following notes.
 - Please ensure that your KATA Friends are powered off, remove all clothing and accessories, and verify that the device is dry.
 - Place the KATA Friends in a protective bag and use the original packaging box. Ensure that the box and all internal packing materials are intact.
-- Make sure that the transportation environment is between -20℃ and 60℃.  
+- Make sure that the transportation environment is between -20鈩?and 60鈩?  
 - Avoid prolonged exposure to high temperatures or direct sunlight.  
 - Do not pack it with hard objects.
 - For information on air transport precautions, please check with the airline.
@@ -962,7 +982,7 @@ KATA Friends can now recognize the custom names given by their owners. To ensure
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. One SwitchBot KATA Friends can only be added to one account. If a KATA Friends is added to another account of yours, please delete the KATA Friends from that account first and then add it to a new account.
-※Long press the SwitchBot KATA Friends icon→tap the Delete button→confirm deletion
+鈥籐ong press the SwitchBot KATA Friends icon鈫抰ap the Delete button鈫抍onfirm deletion
 2. If you are using the device with family or friends, you can either share your SwitchBot app account and password with multiple users or use the home sharing feature.
 https://support.switch-bot.com/hc/en-us/articles/4424755304215
 3. Please upload your order evidence (order history form from Amazon/official website/reselling store) when you are prompted to "Device initialization is abnormal" error message. Once correctly recognized by the application, the KATA Friends will be automatically unbinded and you will be able to add it.
@@ -1005,7 +1025,7 @@ Video: https://www.youtube.com/watch?v=xOz77mGlEUk
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. Check for any foreign objects in the main wheels of the KATA friends. If needed, clean the main wheels by hand.
 3. Restart the power of KATA friends.
 
@@ -1014,7 +1034,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+1. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 2. Gently wipe the KATA Friends' sensors with a soft cloth.
 <img width="724" height="494" alt="image" src="https://github.com/user-attachments/assets/f02c42dc-28a7-46c9-b362-889f463f780c" />
 
@@ -1043,7 +1063,7 @@ We hope this clarifies how the Child Lock feature works. Please feel free to rea
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 
 ---
@@ -1058,7 +1078,7 @@ Regarding this issue, could you please check the following points?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
-The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app 鈫?KATA Friends 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 
 ---
@@ -1066,18 +1086,18 @@ The issue you pointed out has been fixed with the new firmware. Please check for
 
 If you purchase KATA Friends during the campaign, please follow the steps below to claim the six-month Essential Plan.
 Add KATA Friends to the SwitchBot app
-SwitchBot app → Tap KATA Friends → Tap the "Limited Offer" icon → Claim
+SwitchBot app 鈫?Tap KATA Friends 鈫?Tap the "Limited Offer" icon 鈫?Claim
 Note:
 The six-month free Essential Plan available as part of this limited offer does not require a redemption code. Simply claim it directly within the app.
 <img width="1272" height="633" alt="image" src="https://github.com/user-attachments/assets/cabaf04d-07a9-4fe8-9e95-fa4d7b1fbb74" />
 
 ---
-### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying “Please Place Me on a Flat Ground”.
+### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying 鈥淧lease Place Me on a Flat Ground鈥?
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 KATA Friends truly enjoy warm and gentle hugs from their family.
-To make them feel more comfortable, we recommend holding your KATA Friends gently, similar to how you would hold a child, and keeping its body as level as possible. If it is lifted too quickly or at an awkward angle, it may mistakenly detect that it is not on a flat surface and trigger the “flat ground” reminder.
+To make them feel more comfortable, we recommend holding your KATA Friends gently, similar to how you would hold a child, and keeping its body as level as possible. If it is lifted too quickly or at an awkward angle, it may mistakenly detect that it is not on a flat surface and trigger the 鈥渇lat ground鈥?reminder.
 You can gently hold your KATA Friends like this:
 https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
 For a smoother experience, you can also switch your KATA Friend to Standby Mode before picking it up. As long as it does not show persistent signs of distress, an occasional error icon usually just means it may need a moment to adjust to being off the ground. Next time, a slightly gentler touch should do the trick.
