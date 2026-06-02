@@ -1,6 +1,6 @@
----
+﻿---
 
-## Mini Robot Vacuum K10＋ 
+## Mini Robot Vacuum K10锛?
 
 ---
 
@@ -321,7 +321,7 @@ Thank you for reporting this issue.
 We apologize for any inconvenience caused.
 1. To determine if your device needs to be repaired or replaced, could you please tap the SwitchBot app -> K10+ and provide us with a screenshot of the charging status?
 
-<img width="828" height="1792" alt="图片1" src="https://github.com/user-attachments/assets/7b111b8a-41a6-45d5-91b0-2eab47ffb5ed" />
+<img width="828" height="1792" alt="鍥剧墖1" src="https://github.com/user-attachments/assets/7b111b8a-41a6-45d5-91b0-2eab47ffb5ed" />
 
 
 2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
@@ -393,7 +393,7 @@ We apologize for any inconvenience caused.
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
-1. To determine if your device needs to be repaired or replaced, could you please provide a video showing that other devices work when plugged into the same outlet, but the auto-empty station’s indicator light does not turn on when connected?
+1. To determine if your device needs to be repaired or replaced, could you please provide a video showing that other devices work when plugged into the same outlet, but the auto-empty station鈥檚 indicator light does not turn on when connected?
 
 2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
 
@@ -463,7 +463,7 @@ We apologize for any inconvenience caused.
 Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, we kindly ask for your assistance in providing a video showing the problem with setting up the virtual wall. This will allow our R&D team to escalate and investigate the matter further.
-We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
+We appreciate your understanding and cooperation. Please don鈥檛 hesitate to contact us if you have any further questions or concerns.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
@@ -475,7 +475,7 @@ We appreciate your understanding and cooperation. Please don’t hesitate to con
 Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, we kindly ask for your assistance in providing a video capturing the issue. This will allow our R&D team to escalate and conduct a detailed investigation.
-We appreciate your understanding and cooperation. Please don’t hesitate to contact us if you have any further questions or concerns.
+We appreciate your understanding and cooperation. Please don鈥檛 hesitate to contact us if you have any further questions or concerns.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
@@ -561,7 +561,7 @@ We apologize for any inconvenience caused.
 1. To determin if your robot needs to be replaced or repaired, could you kindly provide the following information?
 - A screenshot showing the sound volume setting
 
-<img width="1093" height="936" alt="图片2" src="https://github.com/user-attachments/assets/918a98ab-96cb-4ef0-81ab-4e407319d973" />
+<img width="1093" height="936" alt="鍥剧墖2" src="https://github.com/user-attachments/assets/918a98ab-96cb-4ef0-81ab-4e407319d973" />
 
 
 - A video showing silent wi-fi settings on the K10+
@@ -591,7 +591,7 @@ We apologize for any inconvenience caused.
 1. To determine whether the main brush needs to be replaced or the robot requires repair, could you kindly provide the following information?
 - A photo of the main brush attachment area.
 
-<img width="361" height="255" alt="图片3" src="https://github.com/user-attachments/assets/c336e940-dab2-409a-b09f-aa3b4055d075" />
+<img width="361" height="255" alt="鍥剧墖3" src="https://github.com/user-attachments/assets/c336e940-dab2-409a-b09f-aa3b4055d075" />
 
 
 - A video of the robot making the clicking noise.
@@ -664,7 +664,7 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Has a Dust Collection Sound but Doesn’t Actually Collect Dust
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Has a Dust Collection Sound but Doesn鈥檛 Actually Collect Dust
 
 Thank you for reporting this issue. 
 We apologize for any inconvenience caused.
@@ -779,7 +779,7 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share a video showing the problem. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
 
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 

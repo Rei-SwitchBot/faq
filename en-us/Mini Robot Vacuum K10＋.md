@@ -1,6 +1,6 @@
----
+﻿---
 
-## Mini Robot Vacuum K10＋
+## Mini Robot Vacuum K10锛?
 
 ---
 
@@ -74,7 +74,7 @@ Note:
 ---
 ### Are the Accessories for SwitchBot Mini Robot Vacuum K10+ Available for Individual Purchase?
 
-Last Updated：
+Last Updated锛?
 
 2024 Apr 15
 
@@ -104,14 +104,14 @@ Yes, if you register the Robot Vacuum K10+ in the SwitchBot app, you can operate
 
 Latest Updated: 2023 Dec 29
 
-Related Products：SwitchBot Mini Robot Vacuum K10+
+Related Products锛歋witchBot Mini Robot Vacuum K10+
 
 At this time, we can not export maps from the SwitchBot App.
 
 
 
 ---
-### Can I Move the Auto-Empty Station While SwitchBot Mini Robot Vacuum K10+ Is Cleaning？
+### Can I Move the Auto-Empty Station While SwitchBot Mini Robot Vacuum K10+ Is Cleaning锛?
 
 Last Update: 2023 May 12
 
@@ -124,17 +124,17 @@ Please do not move the auto-empty station as SwitchBot Mini Robot Vacuum K10+ it
 ---
 ### Can I Operate SwitchBot Mini Robot Vacuum K10+ Without a Wi-Fi Connection?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 10
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1．You can perform basic vacuuming functions by pressing the charge/clean button on the K10+'s body, even without connecting to a Wi-Fi network. However, connecting to Wi-Fi using SwitchBot App enables more convenient features like Schedule and Map.
+1锛嶻ou can perform basic vacuuming functions by pressing the charge/clean button on the K10+'s body, even without connecting to a Wi-Fi network. However, connecting to Wi-Fi using SwitchBot App enables more convenient features like Schedule and Map.
 
 We strongly recommend you connect to Wi-Fi to use the K10+.
 
-2．Please make sure to connect to a 2.4GHz Wi-Fi network.
+2锛嶱lease make sure to connect to a 2.4GHz Wi-Fi network.
 
 
 
@@ -151,7 +151,7 @@ https://support.switch-bot.com/hc/en-us/articles/20399026689559
 ---
 ### Can I Use SwitchBot Mini Robot Vacuum K10+ by Sprinkling Perfume, Disinfectant, etc. On the Flooring?
 
-Last Updated：2023 May 17
+Last Updated锛?023 May 17
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -173,7 +173,7 @@ Yes, vacuum and water wiping can be used normally. There is no need to worry abo
 ---
 ### Can Other Brands of Dust Bags Be Used for SwitchBot Mini Robot Vacuum K10+ ?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -190,7 +190,7 @@ Last Updated: 2023 August 5
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-At this time, this feature is not yet implemented. Please manually select the corresponding map before cleaning a different floor.
+At this time, this feature is not yet implemented.聽Please manually select the corresponding map before cleaning a different floor.
 
 Related post:
 
@@ -201,7 +201,7 @@ Related post:
 ---
 ### Can SwitchBot Mini Robot Vacuum K10+ Be Controlled by Alexa or Google Assistant?
 
-Last Updated：2023 May 17
+Last Updated锛?023 May 17
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -212,7 +212,7 @@ It is possible to operate from Amazon Alexa/Google Assiatant/Siri/IFTTT.
 ---
 ### Can SwitchBot Mini Robot Vacuum K10+ Be Left on the Auto-Empty Station Continuously without Overcharging?
 
-Last Updated：2023 May 17
+Last Updated锛?023 May 17
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -236,7 +236,7 @@ SwitchBot Mini Robot Vacuum K10+ is equipped with a LiDAR SLAM laser, so it can 
 
 Last Updated: 2023 May 11
 
-Related products:  SwitchBot Mini Robot Vacuum K10+
+Related products:聽 SwitchBot Mini Robot Vacuum K10+
 
 Some hair will be sucked up to the dust box, but the main and side brushes tend to curl up with hair and require frequent cleaning.
 
@@ -251,7 +251,7 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 
 It can be cleaned
 
-. Take advantage of multi-floor mapping. Up to 10 mapping data can be saved.
+.聽Take advantage of multi-floor mapping.聽Up to 10 mapping data can be saved.
 
 
 
@@ -269,7 +269,7 @@ Before using the SwitchBot Mini Robot Vacuum K10+, please make sure to clean up 
 ---
 ### Can SwitchBot Mini Robot Vacuum K10+ Simultaneously Vacuum and Mop?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -304,7 +304,7 @@ Please note that while a small amount of water (around 50ml) can be wiped off, i
 ---
 ### Can the Consumables, Such as the Main and Side Brushes, for SwitchBot Mini Robot Vacuum K10+ Be Interchangeably Used With Those From Other Brands?
 
-Last Updated：
+Last Updated锛?
 
 2024 Apr 15
 
@@ -373,7 +373,7 @@ You can use adhesive tape to secure the rug to the floor. This will prevent the 
 ---
 ### Does SwitchBot Mini Robot Vacuum K10+ Automatically Switch From Wet to Dry Mode When It Detects a Carpet?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -390,7 +390,7 @@ not supported
 ---
 ### Does SwitchBot Mini Robot Vacuum K10+ Come with a Remote Control?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 08
 
@@ -414,7 +414,7 @@ SwitchBot Mini Robot Vacuum K10+ is equipped with a child lock function. There i
 ---
 ### Does  SwitchBot Mini Robot Vacuum K10+ Require the Use of Magnetic Strips or Boundary Strip Baffles for Operation?
 
-Last Updated：
+Last Updated锛?
 
 2024 March 22
 
@@ -433,7 +433,7 @@ No magnetic strip is required
 ---
 ### Does SwitchBot Mini Robot Vacuum K10+ Support Random Cleaning?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -450,7 +450,7 @@ does not operate randomly during the cleaning process
 ---
 ### Energy Usage of SwitchBot Mini Robot Vacuum K10+
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -465,13 +465,13 @@ In this situation, the daily power consumption is approximately 0.016 kWh. Conse
 ---
 ### Exploring the Benefits of Using SwitchBot Mini Robot Vacuum K10+ via SwitchBot App
 
-Last Updated：
+Last Updated锛?
 
 2023 May 11
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1． We would like to help orient you to some of the key benefits.
+1锛?We would like to help orient you to some of the key benefits.
 
 You can set a schedule for regular cleaning.
 
@@ -481,7 +481,7 @@ Maps can be effectively utilized.
 
 You may review the cleaning report.
 
-2． If you press the "charge/clean" button on the main robot vacuum cleaner unit without the application, you'll be able to use the basic functions of the vacuum cleaner. However, we strongly recommend using the application for an enhanced user experience.
+2锛?If you press the "charge/clean" button on the main robot vacuum cleaner unit without the application, you'll be able to use the basic functions of the vacuum cleaner. However, we strongly recommend using the application for an enhanced user experience.
 
 
 
@@ -525,7 +525,7 @@ Installing the mopping cloth
 ---
 ### How Does SwitchBot Mini Robot Vacuum K10+ Mop the Floor?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -553,7 +553,7 @@ from the date of purchase.. If there is a problem within the warranty period, we
 ---
 ### How Many Centimeters of Step Height Does SwitchBot Mini Robot Vacuum K10+ Need to Detect to Activate the Anti-fall Sensor Function?
 
-Last Updated：2023 May 17
+Last Updated锛?023 May 17
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -577,7 +577,7 @@ The Home Sharing feature allows you to share SwitchBot Robot Vacuum K10+ with yo
 ---
 ### How Many SwitchBot Mini Robot Vacuum K10+ Can I Connect to One SwitchBot Account?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 11
 
@@ -594,9 +594,9 @@ Last Updated: 2023 July 28
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1. We recommend a distance of 1 meter for left and right and 1.5 meters in front (no limit on top). Insufficient space may affect the vacuum body to return to the charging station.
+1.聽We recommend a distance of 1 meter for left and right and 1.5 meters in front (no limit on top). Insufficient space may affect the vacuum body to return to the charging station.
 
-2. Make sure there are no obstacles or strong lights in the installation area.
+2.聽Make sure there are no obstacles or strong lights in the installation area.
 
 
 
@@ -611,7 +611,7 @@ SwitchBot App -> Mini Robot Vacuum K10+ -> Gear iron -> "Dust Collection Setting
 ---
 ### How Often Should the Accessories for SwitchBot Mini Robot Vacuum K10+ Be Replaced?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -630,7 +630,7 @@ HEPA Filter: Replace Every 3 Months
 
 
 ---
-### How Often to Replace the Dust Bag of SwitchBot Mini Robot Vacuum K10+？
+### How Often to Replace the Dust Bag of SwitchBot Mini Robot Vacuum K10+锛?
 
 We recommend replacing the dust pack of the K10+ robot every 1 to 2 months, depending on usage environment.
 
@@ -650,7 +650,7 @@ Up to 10 maps can be stored.
 ---
 ### How to Add SwitchBot Mini Robot Vacuum K10+ to SwitchBot App Using Smartphone's Personal Hotspot
 
-Last Updated：2024 Apr 23
+Last Updated锛?024 Apr 23
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -679,7 +679,7 @@ Note: Please make sure to enter your smartphone's Internet SSID and password cor
 ---
 ### How to Check Accessories Usage Life for SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2024 Apr 23
 
@@ -721,7 +721,7 @@ SwitchBot App Version: 7.3.2 or newer
 
 [How to add K10+ Robot Vacuum Cleaner to SwitchBot App using smartphone tethering](https://support.switch-bot.com/hc/ja/articles/14778320981271)
 
-2. After adding the K10+, go to Settings → Device information.
+2. After adding the K10+, go to Settings 鈫?Device information.
 
 Launch SwitchBot App
 
@@ -744,11 +744,11 @@ Last Updated: 2023 August 4
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1. Remove the faceplate.
+1.聽Remove the faceplate.
 
-2. Remove the dust box.
+2.聽Remove the dust box.
 
-3. The serial number is pasted under the suction port.
+3.聽The serial number is pasted under the suction port.
 
 
 
@@ -766,7 +766,7 @@ Washing with water is fine, but be sure to dry the filter before returning it to
 ---
 ### How to Combine/Merge Maps by SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated:  2024 Feb 3
+Last Updated:聽 2024 Feb 3
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -798,7 +798,7 @@ Confirm and complete the area combination.
 ---
 ### How to Control SwitchBot Mini Robot Vacuum K10+ With Siri Shortcuts
 
-Last Updated：
+Last Updated锛?
 
 2024 Apr 25
 
@@ -806,7 +806,7 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 
 SwitchBot App Version: 8.3 or newer
 
-1.  Make sure your SwitchBot App version is up to date.
+1.聽 Make sure your SwitchBot App version is up to date.
 
 2. Make sure SwitchBot Mini Robot Vacuum K10+ has been added to your App.
 
@@ -839,7 +839,7 @@ You can edit and delete shortcuts you've already created by going to SwitchBot A
 ---
 ### How to Install  the Dust Box Filter for SwitchBot Mini Robot Vacuum K10+
 
-Last Updated:  2023 Nov 9
+Last Updated:聽 2023 Nov 9
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -850,7 +850,7 @@ Two small pieces of cloth are attached to one side of the filter to make it easi
 ---
 ### How to Install the Mop of the SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -865,7 +865,7 @@ We will guide you through the process in the video below.
 ---
 ### How to Link SwitchBot Mini Robot Vacuum K10+ with IFTTT
 
-Last Updated：2023 May 17
+Last Updated锛?023 May 17
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -906,7 +906,7 @@ On the "Select Action" screen, select an action such as "Clean" / "Pause cleanin
 
 L
 
-ast Updated：
+ast Updated锛?
 
 2024 Jan 11
 
@@ -983,7 +983,7 @@ Note: If you connect your K10+ to your smartphone's tethering daily, ensure that
 
 L
 
-ast Updated：2024 Jan 30
+ast Updated锛?024 Jan 30
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -1019,7 +1019,7 @@ Please note: If you set the SwitchBot App to span a wall or room represented by 
 ---
 ### How to Split Area for SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated:  2024 Jan 19
+Last Updated:聽 2024 Jan 19
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -1075,7 +1075,7 @@ With SwitchBot App, you can clean without worrying about closing doors by using 
 ---
 ### Is It Possible to Adjust the Rotation Speed of the Side Brush on SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2023 Aug 17
 
@@ -1099,24 +1099,24 @@ The K10+ is paired with the charging base in the default configuration, and even
 ---
 ### Is It Possible to Replace the Battery in the SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1． We will undertake the responsibility of replacing the battery should it become defective within the two-year warranty period commencing from the date of purchase.
+1锛?We will undertake the responsibility of replacing the battery should it become defective within the two-year warranty period commencing from the date of purchase.
 
-2． If the warranty period has expired, we will replace the batteries for a fee, please contact our after-sales service team for further details.
+2锛?If the warranty period has expired, we will replace the batteries for a fee, please contact our after-sales service team for further details.
 
-3． Please do not replace the battery on your own.
+3锛?Please do not replace the battery on your own.
 
 
 
 ---
 ### Is SwitchBot Mini Robot Vacuum K10+ Compatible With Cleaning Sheets from Other Brands?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -1126,7 +1126,7 @@ Indeed
 
 , the SwitchBot Robot Vacuum K10+ is compatible with commercial cleaning sheets. Cleaning sheets sized 20 x 15 cm are optimal for use with the K10+. However, general commercial products like Kao, which typically measure slightly larger at 30 x 20 cm, may need to be either cut or folded before they are mounted onto the K10+ for appropriate usage.
 
-*Related Posts：
+*Related Posts锛?
 
 [How to Install the Mop of the SwitchBot Robot Vacuum K10+?](https://support.switch-bot.com/hc/en-us/articles/14216116346903)
 
@@ -1135,7 +1135,7 @@ Indeed
 ---
 ### Is SwitchBot Mini Robot Vacuum K10+ Compatible With Homekit?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 08
 
@@ -1196,9 +1196,9 @@ Last Updated: 2023 July 28
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1. You can wipe the dust with a clean cloth or wet tissue.
+1.聽You can wipe the dust with a clean cloth or wet tissue.
 
-2. There is no particular rule about the frequency, but once a month would be fine.
+2.聽There is no particular rule about the frequency, but once a month would be fine.
 
 
 
@@ -1213,15 +1213,15 @@ SwitchBot App Version: 7.7 or newer
 
 1. Install your K10+ and the auto-empty station on the first floor, then turn on the power.
 
-2. Follow the order: SwitchBot App → Tap K10+ → Tap "Map and Clean", and a map is automatically created when cleaning.
+2. Follow the order: SwitchBot App 鈫?Tap K10+ 鈫?Tap "Map and Clean", and a map is automatically created when cleaning.
 
 3. After cleaning is complete, you will see a notification that says, "Map created." edit the name of the map and save.
 
-4. Enter "Map" from the SwitchBot App →Mini Robot Vacuum K10+ → More and save the map again.
+4. Enter "Map" from the SwitchBot App 鈫扢ini Robot Vacuum K10+ 鈫?More and save the map again.
 
 5. Install your K10+ and the auto-empty station on the second floor and turn on the power.
 
-6. Select "Fast Map" or "Map and Clean" from the SwitchBot App → Mini Robot Vacuum K10+ → "More" → "Map".
+6. Select "Fast Map" or "Map and Clean" from the SwitchBot App 鈫?Mini Robot Vacuum K10+ 鈫?"More" 鈫?"Map".
 
 7. Start cleaning again and repeat step 3 after cleaning is complete.
 
@@ -1229,7 +1229,7 @@ SwitchBot App Version: 7.7 or newer
 
 9. Rename the two saved maps.
 
-10. If the floor is ≥3, repeat the above 5~9 operations.
+10. If the floor is 鈮?, repeat the above 5~9 operations.
 
 11. When cleaning each floor, install the vacuum cleaner and manually select the floor map from "Map".
 
@@ -1257,7 +1257,7 @@ SwitchBot App Version: 7.4 or newer
 ---
 ### Size of Cleaning Sheet for SwitchBot Mini Robot Vacuum K10+
 
-Last Updated：
+Last Updated锛?
 
 2023 May 12
 
@@ -1269,7 +1269,7 @@ The dimensions of the cleaning sheet are
 
 , compatible with commercially available cleaning sheets.
 
-*Related Posts：
+*Related Posts锛?
 
 [Can the SwitchBot Robot Vacuum K10+ Be Utilized With Commercially-Available Mopping Cloths?](https://support.switch-bot.com/hc/en-us/articles/14595633342103)
 
@@ -1301,11 +1301,11 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Make sure
 
@@ -1315,11 +1315,11 @@ has been added to your App.
 
 *Related Posts
 
-：
+锛?
 
 [How to Set Up Switchbot Robot Vacuum K10+](https://support.switch-bot.com/hc/en-us/articles/13044997647383)
 
-3．
+3锛?
 
 Method 1: Please follow the steps below to integrate via the Alexa App.
 
@@ -1343,7 +1343,7 @@ Tap "Close".
 
 The Alexa App will automatically detect and synchronize with the connected devices.
 
-4．
+4锛?
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -1404,19 +1404,19 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 
 SwitchBot App Version: 7.11 or newer
 
-1．
+1锛?
 
 Make sure your SwitchBot App version is up to date.
 
-2．
+2锛?
 
 Make sure SwitchBot Mini Robot Vacuum K10+ has been added to your App.
 
-*Related Posts：
+*Related Posts锛?
 
 [How to Set Up Switchbot Robot Vacuum K10+ ](https://support.switch-bot.com/hc/en-us/articles/13044997647383)
 
-3． Method 1: Please follow the steps below to integrate via the Google Home App.
+3锛?Method 1: Please follow the steps below to integrate via the Google Home App.
 
 Tap the Google Home App.
 
@@ -1432,7 +1432,7 @@ Tap continue and then log in to your SwitchBot account in the browser.
 
 The link will be completed.
 
-4．
+4锛?
 
 Method 2: Please follow the steps below to integrate via the SwitchBot App.
 
@@ -1489,7 +1489,7 @@ Configuring Wi-Fi.
 ---
 ### SwitchBot Robot Vacuum K10+ Repair Service Solutions
 
-Last Updated：
+Last Updated锛?
 
 2023 May 08
 
@@ -1497,17 +1497,17 @@ Related Products: SwitchBot Robot Vacuum K10+
 
 Free Repair Service
 
-1． If you encounter any hardware malfunctions, kindly reach out to us, we are committed to providing you with prompt repair services.
+1锛?If you encounter any hardware malfunctions, kindly reach out to us, we are committed to providing you with prompt repair services.
 
-2． The duration of repairs can vary, contingent upon the complexity of the malfunction. However, repairs typically are completed within five business days following the item's arrival at our factory, after which it will be promptly shipped to the customer.
+2锛?The duration of repairs can vary, contingent upon the complexity of the malfunction. However, repairs typically are completed within five business days following the item's arrival at our factory, after which it will be promptly shipped to the customer.
 
-3． We will bear the shipping costs.
+3锛?We will bear the shipping costs.
 
-※Should you have any concerns about the packaging, feel free to contact our customer support service.
+鈥籗hould you have any concerns about the packaging, feel free to contact our customer support service.
 
-※Should delays arise due to natural disasters or issues with the shipping company, the overall time for repairs may be consequently extended.
+鈥籗hould delays arise due to natural disasters or issues with the shipping company, the overall time for repairs may be consequently extended.
 
-Note：
+Note锛?
 
 The following items are not covered under the warranty.
 
@@ -1521,7 +1521,7 @@ Minor scratches or dirt caused by aging.
 
 Used Products (Devices purchased from second-hand outlets such as Amazon Outlet, Mercari, Yahoo Auctions, etc.).
 
-*Related Posts：
+*Related Posts锛?
 
 [How long is the warranty period for SwitchBot Robot Vacuum K10+ ?](https://support.switch-bot.com/hc/en-us/articles/14190775433239)
 
@@ -1529,19 +1529,19 @@ Paid Repair Service
 
 We provide this service for a fee, applicable to repair requests that fall outside the jurisdiction of our complimentary repair service. The pricing structure for our chargeable repair service is outlined below.
 
-● Inspection Fee
+鈼?Inspection Fee
 
-● Shipping Charges
+鈼?Shipping Charges
 
-● Parts Costs
+鈼?Parts Costs
 
-● Operating Costs
+鈼?Operating Costs
 
 The quotation is calculated by summing the basic labor cost, the price of the parts to be replaced, and other requisite expenses.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928562199)
 
-※
+鈥?
 
 The costs cited above pertain solely to the work itself. Please note that these do not encompass the inspection fee (approximately 5,000 yen), the cost of parts, or any shipping expenses.
 
@@ -1566,7 +1566,7 @@ The product will be returned upon the confirmation of payment.
 ---
 ### The Body Size of SwitchBot Mini Robot Vacuum K10+
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -1581,7 +1581,7 @@ The dimensions of the item are 248x248x92mm.
 ---
 ### The Size of the Auto-Empty Station of SwitchBot Mini Robot Vacuum K10+
 
-Last Updated：
+Last Updated锛?
 
 2023 May 17
 
@@ -1620,97 +1620,97 @@ Step 1: Engaging Customer Skills Mode and Providing Instructions
 
 When you command Alexa with "Alexa, activate SwitchBot," it enables the Customer Skills mode. To operate each SwitchBot Mini Robot Vacuum K10+, even if you possess multiple units, simply instruct the robot as indicated in the "Example commands for each function" section below when the relevant mode is active.
 
-※Please ensure you say, "Alexa, activate SwitchBot," as the voice command is designed accordingly.
+鈥籔lease ensure you say, "Alexa, activate SwitchBot," as the voice command is designed accordingly.
 
 Step 2: Defining "SwitchBot"
 
 You can activate the SwitchBot Mini Robot Vacuum K10+ directly by saying "SwitchBot" followed by the instruction command, without the need to invoke the customer skills mode.
 
-※Should you possess multiple SwitchBot Mini Robot Vacuum K10+, each one will be activated.
+鈥籗hould you possess multiple SwitchBot Mini Robot Vacuum K10+, each one will be activated.
 
 Examples of Commands for Each Function
 
 Start Vacuuming
 
-Alexa, ask 【SwitchBot】 to start cleaning.
+Alexa, ask 銆怱witchBot銆?to start cleaning.
 
-Alexa, ask 【SwitchBot】 to start vacuuming.
+Alexa, ask 銆怱witchBot銆?to start vacuuming.
 
 Stop Vacuuming
 
-Alexa, ask 【SwitchBot】to stop vacuuming/cleaning.
+Alexa, ask 銆怱witchBot銆憈o stop vacuuming/cleaning.
 
 Pause
 
-Alexa, ask 【SwitchBot】 to pause vacuuming.
+Alexa, ask 銆怱witchBot銆?to pause vacuuming.
 
-Alexa, ask 【SwitchBot】 to pause cleaning.
+Alexa, ask 銆怱witchBot銆?to pause cleaning.
 
-Alexa, use 【SwitchBot】 to pause vacuuming.
+Alexa, use 銆怱witchBot銆?to pause vacuuming.
 
-Alexa, use 【SwitchBot】to pause cleaning.
+Alexa, use 銆怱witchBot銆憈o pause cleaning.
 
 Resume Vacuuming
 
-Alexa, ask 【SwitchBot】to resume vacuuming.
+Alexa, ask 銆怱witchBot銆憈o resume vacuuming.
 
 Return to the Home Base
 
-Alexa, ask 【SwitchBot】 to go recharge.
+Alexa, ask 銆怱witchBot銆?to go recharge.
 
-Alexa, ask 【SwitchBot】 to return to the charging dock.
+Alexa, ask 銆怱witchBot銆?to return to the charging dock.
 
 Interrupt cleaning return
 
-Alexa, instruct 【SwitchBot】 to pause the return.
+Alexa, instruct 銆怱witchBot銆?to pause the return.
 
-Alexa, use 【SwitchBot】 to suspend the return.
+Alexa, use 銆怱witchBot銆?to suspend the return.
 
 Search for device
 
-Alexa, where is 【SwitchBot】 now?
+Alexa, where is 銆怱witchBot銆?now?
 
 Quiet Mode
 
-Alexa, ask 【SwitchBot】bot to change the suction power to Quiet.
+Alexa, ask 銆怱witchBot銆慴ot to change the suction power to Quiet.
 
 Standard Mode
 
-Alexa, ask 【SwitchBot】to change the suction power to Standard.
+Alexa, ask 銆怱witchBot銆憈o change the suction power to Standard.
 
 Strong Mode
 
-Alexa, ask 【SwitchBot】to change the suction power to Strong.
+Alexa, ask 銆怱witchBot銆憈o change the suction power to Strong.
 
 MAX Mode
 
-Alexa, ask 【SwitchBot】 to change the suction power to MAX.
+Alexa, ask 銆怱witchBot銆?to change the suction power to MAX.
 
-Water Output for mopping （Low）
+Water Output for mopping 锛圠ow锛?
 
-Alexa, ask 【SwitchBot】to change the water output for mopping to Low.
+Alexa, ask 銆怱witchBot銆憈o change the water output for mopping to Low.
 
-Water Output for mopping （Medium）
+Water Output for mopping 锛圡edium锛?
 
-Alexa, ask 【SwitchBot】to change the water output for mopping to Medium.
+Alexa, ask 銆怱witchBot銆憈o change the water output for mopping to Medium.
 
-Water Output for mopping （High）
+Water Output for mopping 锛圚igh锛?
 
-Alexa, ask 【SwitchBot】to change the water output for mopping to High.
+Alexa, ask 銆怱witchBot銆憈o change the water output for mopping to High.
 
 Mop Mode
 
-Alexa, ask 【SwitchBot】 to change to mop mode.
+Alexa, ask 銆怱witchBot銆?to change to mop mode.
 
 Vacuum Mode
 
-Alexa, ask 【SwitchBot】 to change to vacuum mode.
+Alexa, ask 銆怱witchBot銆?to change to vacuum mode.
 
 Vacuum and Mop Mode
 
-Alexa, ask 【SwitchBot】 to change to vacuum and mop mode.
+Alexa, ask 銆怱witchBot銆?to change to vacuum and mop mode.
 
-※Currently, voice commands are programmed specifically for Alexa and might not function properly if they do not align with the prescribed voice commands.
+鈥籆urrently, voice commands are programmed specifically for Alexa and might not function properly if they do not align with the prescribed voice commands.
 
 
 ---
@@ -1749,7 +1749,7 @@ Last Updated: 2023 August 4
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-It is possible to run up to 17 degrees.
+It is possible to run聽up to 17 degrees.
 
 
 
@@ -1760,7 +1760,7 @@ Last Updated: 2023 August 4
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-The battery capacity is 3200mAh. It can clean up to 120m² when fully charged, and if the cleaning area exceeds 120m² , it will return to the garbage collection station once and will automatically clean from the original position after charging.
+The battery capacity is 3200mAh.聽It can clean up to 120m虏 when fully charged, and if the cleaning area exceeds 120m虏 , it will return to the garbage collection station once and will automatically clean from the original position after charging.
 
 
 
@@ -1786,7 +1786,7 @@ about
 ---
 ### What Is the Dust Bag Capacity for SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -1812,9 +1812,9 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 
 
 ---
-### What Is the Height of SwitchBot Mini Robot Vacuum K10+’s Body?
+### What Is the Height of SwitchBot Mini Robot Vacuum K10+鈥檚 Body?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -1827,7 +1827,7 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 ---
 ### What Is the Maximum Area That Can Be Mopped Using a Single Cleaning Sheet of SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
@@ -1844,7 +1844,7 @@ Last Updated: 2023 August 4
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-Carpets with a pile height of 2 cm or less can be cleaned. If you have a long pile carpet, we recommend setting it as a restricted area.
+Carpets with a pile height of 2 cm or less can be cleaned.聽If you have a long pile carpet, we recommend setting it as a restricted area.
 
 
 
@@ -1913,7 +1913,7 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 
 SwitchBot App Version: 7.3.2 or newer
 
-1. Make sure your SwitchBot App is the latest version.
+1.聽Make sure your SwitchBot App is the latest version.
 
 2. Make sure K10+ is added to the SwitchBot App.
 
@@ -1964,11 +1964,11 @@ Last Updated: 2023 September 15
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1. Make sure the lid of the garbage collection base is properly closed. If not closed, the garbage collection base will have a red indicator.
+1.聽Make sure the lid of the garbage collection base is properly closed.聽If not closed, the garbage collection base will have a red indicator.
 
-2. Make sure the dust pack is properly attached. If not installed correctly, the garbage collection base will have a solid red indicator.
+2.聽Make sure the dust pack is properly attached.聽If not installed correctly, the garbage collection base will have a solid red indicator.
 
-3. Garbage collection will not be done automatically during the sleep period, so please avoid collecting the garbage during the sleep period.
+3.聽Garbage collection will not be done automatically during the sleep period, so please avoid collecting the garbage during the sleep period.
 
 4. The robot vacuum body is attached to the garbage collection base by default. When using multiple units, please do not change the combination of the vacuum cleaner body and the dust collection base. If the second robot collects garbage instead of the first one that should be collecting garbage, please replace the robot vacuum cleaner and see if it improves.
 
@@ -1978,7 +1978,7 @@ Related post:
 
 5. Please turn off the garbage collection base once and then turn it on again.
 
-6. Please turn the power of the robot vacuum cleaner from off to on.
+6.聽Please turn the power of the robot vacuum cleaner from off to on.
 
 Related post:
 
@@ -1987,7 +1987,7 @@ Related post:
 
 
 ---
-### What to Do if My SwitchBot Mini Robot Vacuum K10+’s Charging Station Lights up Red and Won’t Collect Dust?
+### What to Do if My SwitchBot Mini Robot Vacuum K10+鈥檚 Charging Station Lights up Red and Won鈥檛 Collect Dust?
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 SwitchBot App Version: 7.10 or newer
@@ -2010,7 +2010,7 @@ Related Post:
 ---
 ### When Will SwitchBot Mini Robot Vacuum K10+ Return to the Auto-empty Station?
 
-Last Updated：2023 May 17
+Last Updated锛?023 May 17
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -2035,7 +2035,7 @@ Note: If you set a Do-Not-Disturb time, the K10+ robot will still return but won
 ---
 ### Where Are the Maps Created by SwitchBot Mini Robot Vacuum K10+ Stored?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -2061,7 +2061,7 @@ The small cleaning tool is stored in the auto-empty station. When you open the l
 ---
 ### Which Languages Are Currently Supported by the Voice Pack Included With SwitchBot Mini Robot Vacuum K10+?
 
-Last Updated：
+Last Updated锛?
 
 2024 Aug 5
 
@@ -2096,22 +2096,22 @@ Dutch
 ---
 ### Which Types of Floor Materials Can SwitchBot Mini Robot Vacuum K10+  Effectively Clean?
 
-Last Updated：
+Last Updated锛?
 
 2023 Apr 28
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-1． It can be used on wooden floors, in changing rooms and bathrooms, and on short-pile carpets.
+1锛?It can be used on wooden floors, in changing rooms and bathrooms, and on short-pile carpets.
 
-2． Mopping with water can be utilized for cleaning wooden floors, locker rooms, bathroom floors, and more.
+2锛?Mopping with water can be utilized for cleaning wooden floors, locker rooms, bathroom floors, and more.
 
 
 
 ---
 ### Why Do Maps That Are Not Saved as Favorites in the SwitchBot Mini Robot Vacuum K10+ Disappear in New Maps After Cleaning?
 
-Last Updated:  2023 Nov 10
+Last Updated:聽 2023 Nov 10
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
@@ -2137,7 +2137,7 @@ Related Products: SwitchBot Mini Robot Vacuum K10+
 ---
 ### Will Frequent Charging Shorten the Life of the Battery in SwitchBot Mini Robot Vacuum K10+ ?
 
-Last Updated：
+Last Updated锛?
 
 2023 May 15
 
@@ -2204,13 +2204,13 @@ Video Link: https://drive.google.com/file/d/1P5kvccENpRTCBZg3XPqmGbvdYmo6vhf0/vi
 ### Troubleshooting SwitchBot Cordless Vacuum Cleaner Won't Charge
 
 Thank you so much for reaching out to us.
-We sincerely apologize for the inconvenience you’ve experienced with our product.
+We sincerely apologize for the inconvenience you鈥檝e experienced with our product.
 Regarding the issue with your cordless vacuum cleaner not charging, could you please check the following points for us?
 1. Make sure the dust collection bracket is properly seated in the dual empty station. Refer to the image provided and make sure the back gray plate is flat, with no dents or protrusions.
 
 ![image](https://github.com/user-attachments/assets/383832a6-115c-4cbc-b5c1-6a380dedddfb)
 
-2. Open the lid of the dual empty station and check if the four screws (especially the ones marked with red arrows in the image) are securely tightened. If they’re loose, please use a screwdriver to tighten them.
+2. Open the lid of the dual empty station and check if the four screws (especially the ones marked with red arrows in the image) are securely tightened. If they鈥檙e loose, please use a screwdriver to tighten them.
 
 ![image](https://github.com/user-attachments/assets/da0e4615-249b-475b-8fb8-d75b03e2a15f)
 
@@ -2236,7 +2236,7 @@ Also, to expedite shipment, please provide us with the necessary details so we c
 - ZIP/Postal Code
 - A screenshot of your order
 
-We truly appreciate your patience and cooperation in resolving this matter. Please don’t hesitate to let us know if you have any further questions or need additional assistance.
+We truly appreciate your patience and cooperation in resolving this matter. Please don鈥檛 hesitate to let us know if you have any further questions or need additional assistance.
 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
@@ -2283,12 +2283,12 @@ Thank you for reaching out to us. We sincerely apologize for the inconvenience c
 Regarding the issue of the robot not automatically emptying the dustbin, could you please check the following points?
 1. The auto-empty function will not activate if the robot returns within 10 minutes of starting a cleaning session. Please note this limitation.
 2. The auto-empty function is disabled during the do-not-disturb period. Please ensure this mode is turned off if you want the robot to empty the dustbin automatically.
-3. Make sure the lid of the auto-empty station is properly closed. If the lid is open, the station’s indicator light will turn red.
-4. Ensure the dustbag is correctly installed. If it’s not properly placed, the station’s indicator light will also turn red. If the red light remains on even after installing the dustbag, try adjusting the dustbag slightly to the right, as shown in this video: [https://youtu.be/y13cJRifAw8](https://www.youtube.com/watch?v=y13cJRifAw8).
+3. Make sure the lid of the auto-empty station is properly closed. If the lid is open, the station鈥檚 indicator light will turn red.
+4. Ensure the dustbag is correctly installed. If it鈥檚 not properly placed, the station鈥檚 indicator light will also turn red. If the red light remains on even after installing the dustbag, try adjusting the dustbag slightly to the right, as shown in this video: [https://youtu.be/y13cJRifAw8](https://www.youtube.com/watch?v=y13cJRifAw8).
 5. Please make sure the protective film on the charging station has been removed.
 6. Try turning off the auto-empty station and then turning it back on.
 7. Turn the Mini Robot Vacuum K10+ off and then on again.
-8. Open the SwitchBot app, go to the Mini Robot Vacuum K10+ control panel, and tap “Empty Dust” to see if the robot can empty the dustbin manually.
+8. Open the SwitchBot app, go to the Mini Robot Vacuum K10+ control panel, and tap 鈥淓mpty Dust鈥?to see if the robot can empty the dustbin manually.
 
 
 ---
@@ -2362,7 +2362,7 @@ Regarding the robot's inability to overcome steps, could you please check the fo
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+'s Main Brush Is Hair Entangled 
 
-Thank you for reaching out to us. We’re truly sorry if hair tangling on the main brush has caused you any inconvenience. We completely understand how frustrating this can be, and we appreciate the opportunity to address your concerns.
+Thank you for reaching out to us. We鈥檙e truly sorry if hair tangling on the main brush has caused you any inconvenience. We completely understand how frustrating this can be, and we appreciate the opportunity to address your concerns.
 When there is a large amount of hair, it may still wrap around the ends of the brush. This is a common occurrence with robot vacuums, we recommend using the small cleaning tool included in the package to remove any hair buildup regularly.
 We are continuously working to improve our products and take customer feedback seriously. Your insights help us refine our designs and make our products even better.
 
@@ -2473,7 +2473,7 @@ Regarding the issue of the robot vacuum colliding forcefully with obstacles, let
 - Black doors are difficult for the robot vacuum to recognize, so it is designed to repeatedly bump into them to confirm their presence.
 - For movable doors, the robot vacuum is designed to repeatedly bump into them to determine if they are obstacles that can be moved by its force. Occasionally, it may collide more forcefully as it tries to quickly escape from a difficult situation.
 Therefore, we would like to suggest the following solutions:
-1. Open the SwitchBot app → select the Robot Vacuum K10+ → tap the gear icon → turn on the " Reduce Collision Mode" in the settings.
+1. Open the SwitchBot app 鈫?select the Robot Vacuum K10+ 鈫?tap the gear icon 鈫?turn on the " Reduce Collision Mode" in the settings.
 2. Set up a virtual wall in front of the black or movable door.
 
 
@@ -2517,7 +2517,7 @@ The K10+ has a body height of 9.2cm, allowing it to clean under low spaces such 
 ### How to Update the Map on SwitchBot Mini Robot Vacuum K10+ After Rearranging Furniture
 
 If your home layout has changed due to moving furniture or relocating, and the map needs to be updated, simply run a whole house cleaning with the Mini Robot Vacuum K10+ using the SwitchBot app. This will automatically update the map.
-Here’s how to do it:
+Here鈥檚 how to do it:
 1. Open the SwitchBot app.
 2. Tap on the Mini Robot Vacuum K10+.
 3. Start the whole house cleaning from the cleaning screen.
@@ -2538,7 +2538,7 @@ For damages caused by human error or natural degradation outside the warranty pe
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
 Regarding the issue with the cliff sensor on your Mini Robot Vacuum K10+, could you please check the following steps:
 1. Please clean the cliff sensor once again.
-2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ → Details → Component Lifespan → Sensor → Mark as "Cleaned."
+2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ 鈫?Details 鈫?Component Lifespan 鈫?Sensor 鈫?Mark as "Cleaned."
 3. Restart the Mini Robot Vacuum K10+ by turning the power off and on (remove the faceplate to access the power switch).
 4. Reset the Mini Robot Vacuum K10+ to its factory settings.
 Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
@@ -2719,10 +2719,10 @@ Note: If you set a Do-Not-Disturb time, the K10+ robot will still return but won
 ### Troubleshooting Maps That Are Not Saved as Favorites in SwitchBot Mini Robot Vacuum K10+ Disappear in New Maps After Cleaning
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding the older maps being overwritten by new ones, here’s what you need to know:
-The Mini Robot Vacuum K10+ can store up to 10 maps. As you continue to clean, older maps will be replaced by newly created ones. This is part of the robot’s design.
-To prevent important maps from being overwritten, you can favorite up to 3 maps. Maps marked as favorites will not be deleted. We recommend favoriting any maps you’d like to keep.
-If you have any further questions or need assistance, feel free to contact us. We’re here to help!
+Regarding the older maps being overwritten by new ones, here鈥檚 what you need to know:
+The Mini Robot Vacuum K10+ can store up to 10 maps. As you continue to clean, older maps will be replaced by newly created ones. This is part of the robot鈥檚 design.
+To prevent important maps from being overwritten, you can favorite up to 3 maps. Maps marked as favorites will not be deleted. We recommend favoriting any maps you鈥檇 like to keep.
+If you have any further questions or need assistance, feel free to contact us. We鈥檙e here to help!
 
 
 ---
@@ -2753,8 +2753,8 @@ https://support.switch-bot.com/hc/en-us/articles/14543507386775
 ---
 ### Can SwitchBot Mini Robot Vacuum K10+ Be Set Up for Room-Specific Cleaning in SwitchBot Scenes and Automations?
 
-Setting up designated room cleaning for the K10+ in Scene and Automation is not supported. If necessary, please use the SwitchBot App → K10+ → more → Schedule.
-Currently, the SwitchBot app’s automation and scene feature only support full-house cleaning and does not yet support room-specific cleaning. As an alternative, you can use the "scheduled" feature in the SwitchBot app to set up cleaning for specific rooms at your preferred times.
+Setting up designated room cleaning for the K10+ in Scene and Automation is not supported. If necessary, please use the SwitchBot App 鈫?K10+ 鈫?more 鈫?Schedule.
+Currently, the SwitchBot app鈥檚 automation and scene feature only support full-house cleaning and does not yet support room-specific cleaning. As an alternative, you can use the "scheduled" feature in the SwitchBot app to set up cleaning for specific rooms at your preferred times.
 We appreciate your understanding and are here to help if you have any further questions!
 
 ---
@@ -2794,15 +2794,15 @@ To help us determine whether the robot or the charging station requires repair, 
 ---
 ### Understanding the Status of SwitchBot Mini Robot Vacuum K10+ in the SwitchBot App
 
-Here’s a quick guide to help you understand the different statuses of your Mini Robot Vacuum K10+ as shown in the SwitchBot app:
+Here鈥檚 a quick guide to help you understand the different statuses of your Mini Robot Vacuum K10+ as shown in the SwitchBot app:
 1. Charging: The robot vacuum is currently charging at the docking station and has not yet reached full battery.
 2. Charging Complete: The robot vacuum is fully charged and remains on the docking station.
 3. Standing By: The robot has finished cleaning and is idle. This status may also appear if the robot failed to return to the dock due to low battery or other issues (e.g., if it was manually moved away from the dock).
 4. Sleep: If the robot remains in "Standing By" mode for 10 minutes, it will enter sleep mode. After 10 hours in sleep mode, it will automatically power off.
 5. Recharging: The robot is in the process of returning to the docking station after cleaning or when you press the charge button on the app or the robot itself.
-6. Cleaning: The robot is actively cleaning, either based on a scheduled cleaning or after starting manually via the app or the robot’s charge button.
+6. Cleaning: The robot is actively cleaning, either based on a scheduled cleaning or after starting manually via the app or the robot鈥檚 charge button.
 7. Pausing: The robot has paused its operation. This can happen for various reasons, such as pressing the pause button in the app, tapping the charge button once, picking up the robot, the robot getting stuck, a laser sensor error, the dustbin not being installed, the cliff sensor being triggered, or the robot encountering an obstacle.
-If you have any questions about these statuses or need further assistance, feel free to reach out! We’re here to help.
+If you have any questions about these statuses or need further assistance, feel free to reach out! We鈥檙e here to help.
 
 
 
@@ -2936,7 +2936,7 @@ The default setting is Regular (empties dust after 75 minutes). You can switch b
 
 If a map has already been created after cleaning the entire house, it is not possible to remap individual rooms based on the existing map. If necessary, we kindly ask you to perform a full cleaning of the house again to update the map.
 
-If you wish to remap due to changes in the layout of a specific room, there is no need to remap manually. The K10+’s laser sensor will function during each cleaning session, detecting the position of objects and updating the data accordingly.
+If you wish to remap due to changes in the layout of a specific room, there is no need to remap manually. The K10+鈥檚 laser sensor will function during each cleaning session, detecting the position of objects and updating the data accordingly.
 
 
 ---
@@ -3005,8 +3005,8 @@ Please watch the video below.
 ### Troubleshooting Suction Power Drops After SwitchBot Mini Robot Vacuum K10+ Runs at Max Power for Around 5 Minutes
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-We’d like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
-This feature is designed to protect the fan’s lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
+We鈥檇 like to inform you that when the K10+ operates in MAX mode for more than 5 minutes, it will automatically switch to Power mode.
+This feature is designed to protect the fan鈥檚 lifespan and extend battery life, as MAX mode consumes a significant amount of power in a short period. Please note that this is a built-in feature of the product and not a sign of malfunction.
 We apologize for any confusion this may cause and appreciate your understanding. If you have any further questions, please feel free to reach out.
 
 
@@ -3039,7 +3039,7 @@ Before using the SwitchBot Mini Robot Vacuum K10+, please make sure to clean up 
 
 
 ---
-### What Is the Height of SwitchBot Mini Robot Vacuum K10+’s Body?
+### What Is the Height of SwitchBot Mini Robot Vacuum K10+鈥檚 Body?
 
 The K10+ has a body height of 9.2cm, allowing it to clean under low spaces such as cabinets or sofas. However, for areas with a height of less than 9.2cm where the robot cannot fit, we recommend manual cleaning.
 
@@ -3105,7 +3105,7 @@ Regarding the broken parts of your robot, could you please check the following p
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-2. If the damage is from regular use, we’d be happy to provide a replacement part at no cost to you within warranty. For accidental damage, we can also arrange a free replacement part; but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer covers this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
+2. If the damage is from regular use, we鈥檇 be happy to provide a replacement part at no cost to you within warranty. For accidental damage, we can also arrange a free replacement part; but please be aware that shipping costs will apply as it comes from our Hong Kong warehouse. The shipping fee will vary based on your location, and we kindly request that the customer covers this cost. Thank you for your understanding! If you're interested, please contact us for a shipping quote.
 
 3. To help us arrange the shipment quickly, please provide the following details:
 - Purchase channel
@@ -3129,8 +3129,8 @@ Regarding the issue of not being able to reset the robot accessory usage life, c
 
 <img width="625" height="392" alt="image" src="https://github.com/user-attachments/assets/357de68f-82c5-4b07-aeae-17340369b7c1" />
 
-2. Reconnect your device to Wi-Fi by following these steps: Open the SwitchBot app → select Mini Robot Vacuum K10+ → tap the gear icon → select "reconnect device".
-3. By pressing and holding the front collision guard, charging button, and sensor part simultaneously for more than 10 seconds, the Mini Robot Vacuum K10+ will reset. Please note that during this reset, information related to Wi-Fi, previously set cleaning schedules, and maps will be erased.
+3. Reconnect your device to Wi-Fi by following these steps: Open the SwitchBot app 鈫?select Mini Robot Vacuum K10+ 鈫?tap the gear icon 鈫?select "reconnect device".
+4. By pressing and holding the front collision guard, charging button, and sensor part simultaneously for more than 10 seconds, the Mini Robot Vacuum K10+ will reset. Please note that during this reset, information related to Wi-Fi, previously set cleaning schedules, and maps will be erased.
 Reset video:
 [https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 
@@ -3168,7 +3168,7 @@ Regarding the issue of being unable to remove the main brush from the robot,, co
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue that the robot enters sleep mode and goes offline, could you please check the following points?
-1. Please Verify the robot’s status in the SwitchBot app:
+1. Please Verify the robot鈥檚 status in the SwitchBot app:
 Standing By: The robot has finished cleaning and is idle. This status may also appear if the robot failed to return to the dock due to low battery or other issues (e.g., if it was manually moved away from the dock).
 Sleep: If the robot remains in "Standing By" mode for 10 minutes, it will enter sleep mode. After 10 hours in sleep mode, it will automatically power off.
 2. Make sure the K10+ is properly docked with the auto-empty station.
@@ -3234,7 +3234,7 @@ Regarding the robot's odor issue, could you please check the following points?
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Has a Dust Collection Sound but Doesn’t Actually Collect Dust
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Has a Dust Collection Sound but Doesn鈥檛 Actually Collect Dust
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding the issue of the robot not actually emptying the dustbin, could you please check the following points?
@@ -3256,7 +3256,7 @@ Regarding the issue that the robot fails to clean due to a main brush stuck erro
 2. Remove the main brush and brush frame, then run the robot to check if the same error persists.
 
 3. After a full charge, test the robot and confirm whether the main brush rotates properly.
-※Note: Instead of flipping the robot over, place your hand directly on the main brush area to check rotation.
+鈥籒ote: Instead of flipping the robot over, place your hand directly on the main brush area to check rotation.
 
 
 ---
@@ -3335,10 +3335,10 @@ Yes, the front caster wheels from the K10+ Pro and K10+ are interchangeable.
 ### How Long Can SwitchBot Mini Robot Vacuum K10+ Last on a Single Charge?
 
 The amount of time a fully charged K10+ can operate depends on the setting mode.For specific details, please refer to the following information:
-Quiet Mode＞150min
-Standard Mode＞120min
-Strong Mode＞90min
-Max Mode＞70min
+Quiet Mode锛?50min
+Standard Mode锛?20min
+Strong Mode锛?0min
+Max Mode锛?0min
 
 Note: The above data is based on SwitchBot lab test results, and actual operation times may vary slightly. Thanks for your understanding.
 
