@@ -633,3 +633,18 @@ If you have multiple SwitchBot Cameras, even if they are different models, you c
 Note:
 Starting from SwitchBot app version 9.27, the original Cloud Storage Service has been renewed as the AI Guard Plan, with an updated name and expanded features. For more information, please refer to the link below.
 https://support.switch-bot.com/hc/en-us/articles/40871974522135
+
+---
+### Troubleshooting: AI Guard Plan is shown instead of Cloud Storage Service.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Starting from SwitchBot app version 9.27, the original Cloud Storage Service has been renewed as the AI Guard Plan, with an updated name and expanded features. This change applies to the following products:
+- Pan/Tilt Cam Plus 2K
+- Pan/Tilt Cam Plus 3K
+- Smart Video Doorbell
+If you already subscribed to Cloud Storage Service, your subscription has been automatically moved to the Basic Plan under AI Guard Plan, and you can continue using it as before. To try new features such as AI Smart Report, you will need to upgrade from the Basic Plan to the Premium Plan. Please refer to the following notes before upgrading and choose the option that best suits your needs:
+1. If you upgrade from the Basic Plan to the Premium Plan, the remaining period of your Basic Plan will become invalid and cannot be refunded. We appreciate your understanding.
+2. The upgrade will take effect immediately.
+3. You can also continue using your current Basic Plan and switch to the Premium Plan after the current plan expires.
+If you have any other questions, please feel free to contact us.
