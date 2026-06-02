@@ -1083,6 +1083,7 @@ The issue you pointed out has been fixed with the new firmware. Please check for
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 *A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
 https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
+
 ---
 ### How to Claim the Six-Month Essential Plan Offered During the Compaign
 
