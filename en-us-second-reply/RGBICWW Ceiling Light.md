@@ -4,11 +4,6 @@
 
 ---
 
-
-
-
-
-
 ---
 ### Troubleshooting: SwitchBot RGBICWW Ceiling Light Appears Offline When I'm Away from Home but Returns to Normal When I Return.
 
