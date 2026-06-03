@@ -237,3 +237,23 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Make sure the RGBICWW Ceiling Light is properly connected to power, and confirm that the light is not unable to turn on due to an external power outage or power supply issue.
 2. Reset the RGBICWW Ceiling Light by turning it on and off five times in a row, with each interval within 3 seconds.
+
+---
+### Troubleshooting: SwitchBot RGBICWW Ceiling Light Flickers After Being Turned On
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the RGBICWW Ceiling Light is not connected to the network, it may slowly flash in a breathing pattern. Please open the SwitchBot app, tap RGBICWW Ceiling Light, tap the gear icon in the upper right corner, then go to Wi-Fi Settings to reconnect the device to the network.
+2. RGBICWW Ceiling Light has its own built-in control driver. Please do not use it with a physical dimmer switch, as this may conflict with the light's control system and cause an unstable power supply, which can lead to flickering.
+
+---
+### Amazon Alexa Voice Commands for SwitchBot RGBICWW Ceiling Light
+
+Amazon Alexa supports the following voice commands to control your light:
+Alexa, turn off the {device name}.
+Alexa, turn on the {device name}.
+Alexa, set the {device name} to fifty percent.
+Alexa, make the {device name} warmer.
+Alexa, set the {device name} cooler.
+Alexa, make the {device name} warm white.
+Alexa, set the {device name} to blue.
