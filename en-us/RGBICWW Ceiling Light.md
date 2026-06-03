@@ -49,3 +49,129 @@ No. RGBICWW Ceiling Light does not have Hub functionality and cannot connect Swi
 ### Can I Add Infrared Remote Controls Using RGBICWW Ceiling Light?
 
 We regret to inform you that RGBICWW Ceiling Light does not support infrared remote learning. If you need to add and control infrared remote controls, please consider purchasing a SwitchBot Hub product, such as Hub Mini.
+
+---
+### Troubleshooting: SwitchBot RGBICWW Ceiling Light Appears Offline When I'm Away from Home but Returns to Normal When I Return.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please check whether the RGBICWW Ceiling Light was turned off using the wall switch before you left home. Turning off the RGBICWW Ceiling Light with the wall switch is the same as cutting off its power supply. As a result, the device may appear offline in the SwitchBot App when you are away from home, and return to normal in the SwitchBot App after you come home and turn the wall switch back on.
+To keep the light online and controllable in the SwitchBot App, please make sure it is connected to a stable network and remains powered on.
+
+---
+### Troubleshooting: Failed to Add SwitchBot RGBICWW Ceiling Light to SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
+2. Turn the power of the RGBICWW Ceiling Light back on and pair it within 2 minutes.
+3. Make sure the RGBICWW Ceiling Light is installed close to your Wi-Fi router (recommended within 5 meters).
+4. If your home Wi-Fi router supports both 5GHz and 2.4GHz frequencies, please connect to the 2.4GHz network.
+5. Make sure that you enter the Wi-Fi SSID and password correctly, including any uppercase and lowercase letters.
+6. Restart your home router.
+7. If you have multiple smartphones, try pairing using another smartphone.
+8. The pairing attempt may fail due to an unstable connection. We recommend waiting a moment before trying to pair again.
+9. As part of troubleshooting, please check if you can connect the RGBICWW Ceiling Light to your smartphone's tethering. If you have a smartphone that supports 5G, please enable "Prefer Compatibility" to output only 2.4GHz.
+
+---
+### Google Assistant Voice Commands for SwitchBot RGBICWW Ceiling Light
+
+Google Home supports the following voice commands to control your light:
+Hey Google, turn on {device name}.
+Hey Google, turn off {device name}.
+Hey Google, dim {device name}.
+Hey Google, brighten {device name}.
+Hey Google, set {device name} to fifty percent.
+Hey Google, make the living room light warm white.
+
+---
+### How to Connect SwitchBot RGBICWW Ceiling Light to Google Home
+
+Please add the RGBICWW Ceiling Light to SwitchBot App first, then use any of the following methods to link the device to Google Home.
+
+Method 1
+Link your SwitchBot account via Google Home app.
+- Open Google Home.
+- Select "Device" at the bottom of the menu.
+- Tap "Add device".
+- Tap on "Works with Google Home".
+- Type in and search for "SwitchBot".
+- Select "Switchbot Smart" from the add new services.
+- Enter your SwitchBot app account and password.
+
+Method 2
+Please follow the steps below to integrate via the SwitchBot App.
+- Launch the SwitchBot App and log in.
+- Tap the relevant SwitchBot device.
+- Tap the gear icon in the top right corner.
+- In the Settings screen, tap on "Third-party Services".
+- Tap Google Assistant.
+- Tap "Connect".
+- Enter your Google Home App login ID and password.
+- The link will be automatically established.
+
+After linking is complete, you can control the light using voice commands or directly in the Google Home app.
+
+---
+### How to Connect SwitchBot RGBICWW Ceiling Light to Amazon Alexa
+
+Please add the RGBICWW Ceiling Light to SwitchBot App first, then use any of the following methods to link the device to Amazon Alexa.
+
+Method 1
+Please follow the steps below to integrate via the Alexa App.
+- Launch the Alexa App and log in.
+- Tap "More" located at the bottom right corner.
+- Tap "Skills & Games" in the middle right of the screen.
+- Enter "SwitchBot" in the search field with the magnifying glass icon and search.
+- Tap "SwitchBot Smart" that appears.
+- Tap "Enable to Use".
+- The screen will automatically switch to the SwitchBot App. If you are already logged in, tap "Connect" that appears (if you are not logged in to the SwitchBot App, log in first and then proceed with the linking).
+- Wait for the status to change from "Account Linking" to "Your SwitchBot Smart account has been successfully linked".
+- Tap "Close".
+- The Alexa App will automatically detect and synchronize with the connected devices.
+
+Method 2
+Please follow the steps below to integrate via the SwitchBot App.
+- Launch the SwitchBot App and log in.
+- Tap the relevant SwitchBot device.
+- Tap the gear icon in the top right corner.
+- In the Settings screen, tap on "Third-party Services".
+- Tap Amazon Alexa.
+- Tap "Connect".
+- Enter your Amazon Alexa App login ID and password.
+- The link will be automatically established.
+
+After linking is complete, you can control the light using voice commands or directly in the Amazon Alexa app.
+
+---
+### Troubleshooting: SwitchBot RGBICWW Ceiling Light Appears Unresponsive in the Alexa App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify whether you can control the RGBICWW Ceiling Light through the SwitchBot app. If you cannot control it there, check the network connection of the RGBICWW Ceiling Light and determine if there may be a hardware issue with the light itself.
+2. Go to SwitchBot App -> RGBICWW Ceiling Light -> Gear icon in the upper right corner -> Third-party service to unlink Alexa app from the SwitchBot app, and then relink them.
+
+---
+### Troubleshooting: SwitchBot RGBICWW Ceiling Light Appears Unresponsive in the Google Home App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please verify whether you can control the RGBICWW Ceiling Light through the SwitchBot app. If you cannot control it there, check the network connection of the RGBICWW Ceiling Light and determine if there may be a hardware issue with the light itself.
+2. Go to SwitchBot App -> RGBICWW Ceiling Light -> Gear icon in the upper right corner -> Third-party service to unlink Google Home from the SwitchBot app, and then relink them.
+
+---
+### Power Loss Recovery for SwitchBot RGBICWW Ceiling Light
+
+SwitchBot RGBICWW Ceiling Light supports a Power Loss Recovery setting in the SwitchBot app. This setting allows you to decide what state the ceiling light should return to after power is restored. Power loss can happen during a power outage or when the light is turned off using a wall switch.
+You can choose from the following Power Loss Recovery options:
+**Turn On**
+When Power Loss Recovery is set to Turn On, the Ceiling Light will turn on after power is restored.
+If you want the wall switch to act as the primary control for turning SwitchBot RGBICWW Ceiling Light on and off, we recommend setting Power Loss Recovery to Turn On.
+
+**Turn Off**
+When Power Loss Recovery is set to Turn Off, the Ceiling Light will stay off after power is restored.
+If the light does not turn on after you use the wall switch or after power is restored, please check whether Power Loss Recovery has been set to Turn Off.
+
+**Keep Previous State**
+When Power Loss Recovery is set to Keep Previous State, the Ceiling Light will return to the state it was in before power was lost.
+For example, if the light was on before power was cut, it will turn on again when power is restored. If it was turned off in the SwitchBot app before power was cut, it will remain off after power is restored, even if you turn the wall switch back on.
