@@ -175,3 +175,65 @@ If the light does not turn on after you use the wall switch or after power is re
 **Keep Previous State**
 When Power Loss Recovery is set to Keep Previous State, the Ceiling Light will return to the state it was in before power was lost.
 For example, if the light was on before power was cut, it will turn on again when power is restored. If it was turned off in the SwitchBot app before power was cut, it will remain off after power is restored, even if you turn the wall switch back on.
+
+---
+### How to Use the Wall Switch as the Primary Control for SwitchBot RGBICWW Ceiling Light
+
+**Go to SwitchBot app > RGBICWW Ceiling Light > Gear icon in the upper right corner > Power Loss Recovery, then set it to Turn On.**
+With this setting, the wall switch can act as the primary control for turning the RGBICWW Ceiling Light on and off.
+For more information about Power Loss Recovery, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/40903042446871
+
+---
+### SwitchBot RGBICWW Ceiling Light Matter Setup (iOS)
+
+**Preparation**
+Before setting up devices using Matter, you will need the following:
+- SwitchBot RGBICWW Ceiling Light
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+https://support.apple.com/en-hk/102557
+
+**Setup**
+**Method 1: Directly Add SwitchBot RGBICWW Ceiling Light to Apple Home**
+You can add RGBICWW Ceiling Light to Apple Home without using the SwitchBot app. Turn the RGBICWW Ceiling Light on and off five times in a row, with each interval within 3 seconds. Once the device flashes red, green, and blue in sequence, it will enter pairing mode. Then open the Apple Home app, tap Add or Scan Accessory in the upper right corner, and scan the QR code on the RGBICWW Ceiling Light body to continue the setup process.
+**Note:**
+You can add the RGBICWW Ceiling Light directly to Apple Home. However, remote control through Apple Home requires an Apple home hub, such as a HomePod, HomePod mini, or Apple TV. Without a home hub, control may only be available when your iPhone is on the same local network as the device.
+
+**Method 2: Add RGBICWW Ceiling Light to Apple Home through SwitchBot App**
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot RGBICWW Ceiling Light has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and RGBICWW Ceiling Light) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to SwitchBot App -> Your RGBICWW Ceiling Light -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> paste the code to continue the setup process.
+
+---
+### SwitchBot RGBICWW Ceiling Light Matter Setup (Android)
+
+**Preparation**
+Before setting up devices using Matter, you will need the following:
+- SwitchBot RGBICWW Ceiling Light
+- Android Phone
+- Google Nest Hub 47.9.4 or newer
+
+**Setup**
+**Method 1: Directly Add SwitchBot RGBICWW Ceiling Light to Google Home**
+You can add RGBICWW Ceiling Light to Google Home without using the SwitchBot app. Turn the RGBICWW Ceiling Light on and off five times in a row, with each interval within 3 seconds. Once the device flashes red, green, and blue in sequence, it will enter pairing mode. Then open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Scan the QR code located on the RGBICWW Ceiling Light body to continue the whole process.
+
+**Method 2: Add RGBICWW Ceiling Light to Google Home through SwitchBot App**
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot RGBICWW Ceiling Light has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your smartphone, Google Nest Hub, and RGBICWW Ceiling Light) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to SwitchBot App -> Your RGBICWW Ceiling Light -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Google Home App -> Tap "Devices" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> paste the code to continue the setup process.
+
+---
+### Troubleshooting: SwitchBot RGBICWW Ceiling Light Does Not Turn On After Being Connected to Power.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the RGBICWW Ceiling Light is properly connected to power, and confirm that the light is not unable to turn on due to an external power outage or power supply issue.
+2. Reset the RGBICWW Ceiling Light by turning it on and off five times in a row, with each interval within 3 seconds.
