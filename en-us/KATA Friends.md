@@ -1238,3 +1238,23 @@ https://support.switch-bot.com/hc/en-us/articles/38040725412247
 5. Place KATA Friends and its nest on a flat surface with enough open space. Make sure there is at least 1 meter of space on the left, right, and front sides of the nest, and at least 0.4 meters of space above it.
 6. KATA Friends may be within Sleep Time, or it may be in Sleep Mode or Standby Mode. Press the button on its head to switch it back to normal mode, then try again.
 7. Try giving KATA Friends a command using the "Come here" voice command or the corresponding gesture.
+
+---
+### Things to Check When Creating a Map for KATA Friends
+
+1. Before creating a map, make sure the battery level of KATA Friends is 50% or above.
+2. Keep enough open space in front of the nest and remove any obstacles around it.
+3. Do not move KATA Friends or its nest during mapping. Moving either of them may cause KATA Friends to fail to detect its location properly.
+4. During mapping, keep the doors to each room open and make sure the paths are clear.
+5. If there are areas you do not want KATA Friends to enter, set no-go zones in the app after the map has been created. During mapping, you can use a physical barrier, such as a gate, to block those areas if needed.
+6. Once mapping is complete, KATA Friends will automatically return to its nest and save the map.
+7. If KATA Friends discovers a new area during its regular walks, it may update the map automatically.
+8. If you move the nest to a different location, you will need to create the map again.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Cannot Save the Map
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Return to the home screen of the SwitchBot app and check for any map update failures caused by network issues.
+2. Please confirm whether KATA Friends started mapping from the nest and successfully returned to the nest after mapping was completed.
