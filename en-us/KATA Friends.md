@@ -1215,11 +1215,14 @@ The One-Time Purchase Plan is designed so that key companion features will not b
 
 Due to the body structure of KATA Friends, the way each person understands or measures its head, neck, and waist size may vary slightly. The measurements shown below are reference values measured by SwitchBot.
 **Head circumference:** 52 cm or above. If you would like to choose a hat for KATA Friends, you can use this value as a reference. Please note that the actual hat size should be slightly larger.
-[image1]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9e7f45b6-c11c-4051-b010-d8277b6573ee" />
+
 **Neck circumference:** 68 cm or above. If you would like to choose a neck accessory or scarf for KATA Friends, you can use this value as a reference.
-[image2]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/621712d1-d2fb-4d5e-b036-dce02a30e597" />
+
 **Waist circumference:** approximately 81 cm.
-[image3]
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/1df640c5-ef2c-4cda-bd58-85702122da5c" />
+
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Stays in Its Nest and Does Not Come Out.
