@@ -236,3 +236,14 @@ Regarding this issue, could you please check the following points?
 Just as someone can look quite different to us from the side than they do from the front, your AI Hub may not immediately recognize a face if it is captured from a new or unusual angle. When this happens, the Hub might process the person as an unfamiliar visitor even if they have already been registered in your system.
 To help the AI Hub stay as accurate as possible, we recommend registering each face from several different angles. Taking a few extra moments to capture a direct front-on view along with slight side profiles ensures the system can reliably recognize your friends and family no matter which way they are facing.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Can the "Try OpenClaw" Message on SwitchBot AI Hub Screen in SwitchBot App Be Displayed Again After It Is Closed?
+
+If you close the "Try OpenClaw" message on the AI Hub screen in the SwitchBot App, it cannot be displayed again due to system limitations. However, you can still set up OpenClaw by going to the AI Hub settings page and tapping the "OpenClaw Setup" button.
+
+---
+### Can I Chat with OpenClaw Remotely Through the SwitchBot App?
+
+After setting up OpenClaw through AI Hub in the SwitchBot App, you can chat with OpenClaw remotely.
+Please open the SwitchBot App, tap AI Hub, tap the gear icon to enter the settings page, and start a remote chat from the OpenClaw Setup option.
