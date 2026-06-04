@@ -1200,3 +1200,38 @@ Regarding this issue, could you please check the following points?
 
 Please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
 https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
+
+---
+### Can I Still Use My One-Time Purchase Plan If KATA Friends Services Change or Are Discontinued in the Future?
+
+Yes. For users who have purchased the One-Time Purchase Plan for Companion Care, our general principle is to keep the service available throughout the product lifecycle as much as possible. Regular operational changes will not cause the device or its core companion features to suddenly become unavailable.
+
+If there are any major service changes in the future, including changes to product sales or support, the software features available at that time will be maintained as much as possible. We will also provide advance notice regarding the follow-up support plan and any necessary arrangements.
+
+The One-Time Purchase Plan is designed so that key companion features will not be discontinued without prior notice. Please feel free to use KATA Friends with confidence.
+
+---
+### What Are the Head, Neck, and Waist Measurements of SwitchBot KATA Friends?
+
+Due to the body structure of KATA Friends, the way each person understands or measures its head, neck, and waist size may vary slightly. The measurements shown below are reference values measured by SwitchBot.
+**Head circumference:** 52 cm or above. If you would like to choose a hat for KATA Friends, you can use this value as a reference. Please note that the actual hat size should be slightly larger.
+[image1]
+**Neck circumference:** 68 cm or above. If you would like to choose a neck accessory or scarf for KATA Friends, you can use this value as a reference.
+[image2]
+**Waist circumference:** approximately 81 cm.
+[image3]
+
+---
+### Troubleshooting: SwitchBot KATA Friends Stays in Its Nest and Does Not Come Out.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If KATA Friends stays in its nest with its eyes closed, refer to the link below and try the following troubleshooting steps.
+https://support.switch-bot.com/hc/en-us/articles/40936010302359
+2. If the battery level is not sufficient, KATA Friends will rest in its nest. Check whether it comes out of the nest after the battery level reaches 50% or above.
+3. Check whether there are any obstacles in front of KATA Friends. In this case, an error icon may appear in the app or in KATA Friends' eyes. Remove any obstacles and try again.
+4. Gently wipe the sensors on KATA Friends.
+https://support.switch-bot.com/hc/en-us/articles/38040725412247
+5. Place KATA Friends and its nest on a flat surface with enough open space. Make sure there is at least 1 meter of space on the left, right, and front sides of the nest, and at least 0.4 meters of space above it.
+6. KATA Friends may be within Sleep Time, or it may be in Sleep Mode or Standby Mode. Press the button on its head to switch it back to normal mode, then try again.
+7. Try giving KATA Friends a command using the "Come here" voice command or the corresponding gesture.

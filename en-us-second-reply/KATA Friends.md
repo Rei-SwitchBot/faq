@@ -435,3 +435,14 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - Screenshot of the notification displayed in the app when KATA Friends fails to perform a wake-up call
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Stays in Its Nest and Does Not Come Out.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing that KATA Friends does not come out of its nest
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
