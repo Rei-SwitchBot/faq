@@ -1258,3 +1258,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Return to the home screen of the SwitchBot app and check for any map update failures caused by network issues.
 2. Please confirm whether KATA Friends started mapping from the nest and successfully returned to the nest after mapping was completed.
+
+---
+### How Do SwitchBot KATA Friends Remember Family Members' Faces?
+
+KATA Friends can recognize faces through photos taken during daily use, such as random photos or photos taken through voice or gesture commands.
+When a family member's face is detected, the face photo will appear in the "Strangers" list on the Face Recognition page. You can add a name to the face photo so that KATA Friends can learn to recognize that person next time.
+**Setup path:** SwitchBot App > KATA Friends > Settings Gear Icon > Manage Faces > Strangers > Add New Person > Select the face photo you want KATA Friends to recognize > Enter a name and save
+**About face data:**
+- Photos and data used for face recognition are saved in your account.
+- Added face information can be viewed, edited, or deleted in the app at any time.
+- Face data is stored locally within your account. Once deleted, it cannot be restored, so please delete it with care.
