@@ -3385,3 +3385,15 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 ### Is the Side Brush Installed on the Newly Purchased SwitchBot Mini Robot Vacuum K10+?
 
 No, the side brush is not attached to the K10+ main unit; instead, it is tucked inside the paper case. If you cannot find the side brush, please carefully check every part of the package. If it still cannot be located, please provide a video of the unboxing or photos taken after opening. Our after-sales team will assist you shortly. Thank you for your patience and understanding!
+
+---
+### Troubleshooting: The Main Brush of SwitchBot Mini Robot Vacuum K10+ Has Stopped Rotating.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding the issue that the robot fails to clean due to a main brush stuck error, could you please check the following points?
+1. Manually clean any hair or other foreign objects tangled in the main brush.
+2. Remove the main brush and check if the marked area (main brush mounting part) shows signs of melting, as indicated in the red arrow in the diagram below.
+[image1]
+3. Remove the main brush and brush frame, then run the robot to check if the same error persists.
+4. After a full charge, test the robot and confirm whether the main brush rotates properly.
+※**Note**: Instead of flipping the robot over, place your hand directly on the main brush area to check rotation.
