@@ -247,3 +247,10 @@ If you close the "Try OpenClaw" message on the AI Hub screen in the SwitchBot Ap
 
 After setting up OpenClaw through AI Hub in the SwitchBot App, you can chat with OpenClaw remotely.
 Please open the SwitchBot App, tap AI Hub, tap the gear icon to enter the settings page, and start a remote chat from the OpenClaw Setup option.
+
+---
+### How to Use OpenClaw on AI Hub
+
+For instructions on how to set up OpenClaw in AI Hub, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/38154270100631
+If you have any questions, please submit feedback through the SwitchBot app and include a screenshot or video showing the error details.
