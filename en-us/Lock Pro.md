@@ -2429,3 +2429,24 @@ Note: Please always carry your physical keys as a backup in case of unexpected b
 2. Please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 3. Recalibration of your lock Pro.
 4. Replace the batteries when the battery level is low.
+
+---
+### Troubleshooting: SwitchBot Lock Pro Fell off the Door
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Make sure the installation surface is flat and dry as the adhesive tape does not work well on uneven surfaces.
+2. If the door has an oleophobic or frosted finish, do not use double-sided tape to secure Lock Pro.
+3. Use an alcohol swab to clean the surface before installation.
+4. When attaching Lock Pro, firmly press down the entire length of the double-sided tape onto the door.
+5. Hold Lock Pro in place for one minute after applying the tape.
+6. Before replacing the double-sided tape, please clean off any old double-sided tape remaining on the main body of the Lock Pro.
+
+---
+### Troubleshooting: Received an Unexpected Lock Pro Unlock Notification and Not Sure Whether the Door Was Actually Unlocked
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+1. As smart locks directly impact both property and personal safety, we fully recognize that any instance of a lock opening automatically without user operation is a serious issue. To be sure, we would like to confirm whether you have enabled the "Auto-Unlock" feature on your Lock Pro.
+https://support.switch-bot.com/hc/en-us/articles/25330863432727
+2. If you haven't used the "Auto-Unlock" feature, please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate youre Lock Pro before use.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!

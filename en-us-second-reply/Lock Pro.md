@@ -871,3 +871,37 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 ***If the lock Pro can be rotated through emergency unlock, we will escalate this matter to our R&D team for investigation. We appreciate your patience and understanding!***
+
+---
+### Troubleshooting: SwitchBot Lock Pro Fell off the Door
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+We would like to arrange a new double-sided tape and 3M adhesion promoter for you to help solve the issue. To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- A photo showing the installation of your Lock Pro
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting: Received an Unexpected Lock Pro Unlock Notification and Not Sure Whether the Door Was Actually Unlocked
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Whether Lock Pro was actually unlocked
+- A screenshot displaying the unlock logs, accessible via the SwitchBot app by navigating to Lock Pro → Logs.
+- The approximate time when the issue occurred
+- If you received an unlock notification, please provide a screenshot of the notification.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
