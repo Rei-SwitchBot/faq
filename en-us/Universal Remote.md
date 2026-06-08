@@ -1019,3 +1019,9 @@ Please check the following link for a list of devices compatible with the Univer
 
 
 
+
+---
+### How to Factory Reset SwitchBot Universal Remote
+
+SwitchBot Universal Remote does not have a hardware-based factory reset method. After you delete Universal Remote from the SwitchBot app, the synced devices will remain stored on Universal Remote, so you can continue controlling them.
+**If you would like to clear the devices synced to Universal Remote and achieve an effect similar to a factory reset, you can delete Universal Remote from the SwitchBot app first, then add it back to your account.**
