@@ -1017,9 +1017,6 @@ Please check the following link for a list of devices compatible with the Univer
 [https://support.switch-bot.com/hc/en-us/articles/23497233642135](https://support.switch-bot.com/hc/en-us/articles/23497233642135)
 
 
-
-
-
 ---
 ### How to Factory Reset SwitchBot Universal Remote
 
