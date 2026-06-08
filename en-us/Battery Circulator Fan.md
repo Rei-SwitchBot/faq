@@ -709,7 +709,8 @@ Regarding this issue, could you please check the following points?
 We apologize for any inconvenience our product may have caused.
 If you disable the "Auto Return to Center" function in the SwitchBot App, the Circulator Fan will remember its up/down angle and not return to the center when turned off.
 Go to SwitchBot App -> Circulator Fan -> Gear Icon in the upper right -> turn off "Auto-Align Front".
-[image1]
+<img width="1073" height="2185" alt="image" src="https://github.com/user-attachments/assets/5f18d465-5293-4e5a-9c19-e164c2db1a98" />
+
 
 Note:
 Enable "Auto-Align Front" if you want your Battery Circulator Fan to return to a level, straight-ahead position when turned off.
