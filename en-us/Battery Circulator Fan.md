@@ -702,3 +702,14 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Go to SwitchBot App -> Circulator Fan -> Gear Icon in the upper right -> turn on "Auto-Align Front".
 2. Press and hold the power button for 15 seconds to perform the initialization.
+
+---
+### How Can I Make SwitchBot Battery Circulator Fan Remember Its up/down Angle When Turned off?
+
+We apologize for any inconvenience our product may have caused.
+If you disable the "Auto Return to Center" function in the SwitchBot App, the Circulator Fan will remember its up/down angle and not return to the center when turned off.
+Go to SwitchBot App -> Circulator Fan -> Gear Icon in the upper right -> turn off "Auto-Align Front".
+[image1]
+
+Note:
+Enable "Auto-Align Front" if you want your Battery Circulator Fan to return to a level, straight-ahead position when turned off.
