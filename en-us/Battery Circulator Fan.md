@@ -679,3 +679,26 @@ City
 State/Province
 ZIP/Postal Code
 A screenshot of your order
+
+---
+### What Is the Battery Capacity of SwitchBot Battery Circulator Fan?
+
+The battery capacity of the Battery Circulator Fan is **3600 mAh, 7.4 V, 26.64 Wh**.
+
+---
+### How Long Does It Take to Fully Charge SwitchBot Battery Circulator Fan?
+
+SwitchBot Battery Circulator Fan supports continuous power supply through the AC port, and it can also be charged through the Type-C port. It takes approximately **8 to 10 hours** to fully charge the device via Type-C.
+
+---
+### Does SwitchBot Battery Circulator Fan Have a Type-C Charging Port?
+
+Yes. SwitchBot Battery Circulator Fan supports continuous power supply through the AC port, and it can also be charged through the Type-C port. It takes approximately 8 to 10 hours to fully charge the device via Type-C.
+
+---
+### Troubleshooting: SwitchBot Battery Circulator Fan Does Not Face Straight Ahead After Being Turned Off.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Go to SwitchBot App -> Circulator Fan -> Gear Icon in the upper right -> turn on "Auto-Align Front".
+2. Press and hold the power button for 15 seconds to perform the initialization.
