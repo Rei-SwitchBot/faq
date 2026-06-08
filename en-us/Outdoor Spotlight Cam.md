@@ -1695,3 +1695,11 @@ If your mobile carrier is Rakuten (or Docomo), internet restrictions in certain 
 Note:
 The affected models are our Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam and Outdoor Spotlight Cam 2K.
 
+
+---
+### Troubleshooting: SwitchBot Outdoor Spotlight Cam 2K Real-time Monitoring Screen Turned Pink
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Open the SwitchBot app, select Outdoor Spotlight Cam 2K, and toggle Night Vision on or off.
+2. Turn the ON/OFF button at the back of the camera to OFF, then turn it back to ON.
