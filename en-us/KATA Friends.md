@@ -1269,3 +1269,13 @@ When a family member's face is detected, the face photo will appear in the "Stra
 - Photos and data used for face recognition are saved in your account.
 - Added face information can be viewed, edited, or deleted in the app at any time.
 - Face data is stored locally within your account. Once deleted, it cannot be restored, so please delete it with care.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Sometimes Brushes Against Walls or Furniture with Its Back or Tail
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA Friends currently senses its surroundings mainly through the sensors on the front of its body, so it is better at detecting obstacles in front of it.
+Since there is no dedicated obstacle avoidance sensor on the back, KATA Friends may occasionally brush lightly against a wall, cabinet, or piece of furniture with its back or tail when moving backward, turning around, or moving along the edge of furniture. In other words, KATA Friends can detect what is in front of it more easily than what is behind it, especially when moving backward or turning around. This behavior is within the current range of the device's sensing capability and does not indicate a device malfunction.
+We are continuing to improve KATA Friends' movement and environmental sensing so that it can move more naturally and smoothly in different home environments. We appreciate your understanding and will keep working to improve the overall experience.
+If you have any other questions, please do not hesitate to contact us.
