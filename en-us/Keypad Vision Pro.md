@@ -575,3 +575,11 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/219f4fe3-b394-457b-93a5-c2d2257a8b61" />
 
 If you have other NFC cards on hand, such as transit IC cards or SwitchBot NFC cards, please check whether you can register or unlock using them.\nPlease check for any available firmware updates by going to SwitchBot app → Keypad Vision Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.\nPlease turn off the power switch on the back of the Keypad Vision Pro, then turn it back on to see if the issue improves.\nPlease remove the Keypad Vision Pro from the app, then add it again.\nNote: Deleting Keypad Vision Pro from the app will erase all saved fingerprint, passcode, facial recognition, and NFC card data. Thank you for your understanding.
+
+---
+### Will Fast Unlock Affect Facial Recognition on SwitchBot Keypad Vision Pro?
+
+No. Turning on Fast Unlock will not affect facial recognition on Keypad Vision Pro.
+Fast Unlock is designed to speed up unlocking through a Bluetooth connection, and it works independently from facial recognition. This means that enabling Fast Unlock will not affect the accuracy or speed of facial recognition, and both features can be used at the same time.
+For more information about Fast Unlock settings, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/32284693015447
