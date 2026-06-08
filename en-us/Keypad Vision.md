@@ -575,3 +575,11 @@ Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → Keypad Vision → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 2. Try unplugging and reconnecting the charging cable a few times to see if that improves the situation.
+
+---
+### Will Fast Unlock Affect Facial Recognition on SwitchBot Keypad Vision?
+
+No. Turning on Fast Unlock will not affect facial recognition on Keypad Vision.
+Fast Unlock is designed to speed up unlocking through a Bluetooth connection, and it works independently from facial recognition. This means that enabling Fast Unlock will not affect the accuracy or speed of facial recognition, and both features can be used at the same time.
+For more information about Fast Unlock settings, please refer to the link below.
+https://support.switch-bot.com/hc/en-us/articles/32284693015447
