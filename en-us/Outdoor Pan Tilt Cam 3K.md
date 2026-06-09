@@ -81,3 +81,32 @@ Regarding the firmware update issue, could you please check the following points
 
 No, AI Guard Plan is not required to use Outdoor Pan/Tilt Cam 3. The camera can still work normally without a subscription.
 If you prefer local storage, you can insert a microSD card and save recordings to the card. Outdoor Pan/Tilt Cam 3 supports microSD cards up to 512 GB.
+
+---
+### What Is the Type C Port of SwitchBot Outdoor Pan Tilt Cam 3K Used for?
+
+The Type-C port on Outdoor Pan/Tilt Cam 3K is a **5V 1A output port**. It is designed to supply power to compatible outdoor lighting accessories, such as an outdoor fill light.
+Please note that this Type-C port is for power output only. It cannot be used to power or charge Outdoor Pan/Tilt Cam 3K itself.
+
+---
+### Can SwitchBot Outdoor Pan/Tilt Cam 3K Be Charged with a Solar Panel?
+
+No. SwitchBot Outdoor Pan/Tilt Cam 3K does not have a built-in lithium battery, so it does not support power supply or charging through a solar panel. The camera needs to be connected to a continuous **DC 12V 2A** power supply to operate properly.
+
+---
+### Does SwitchBot Outdoor Pan Tilt Cam 3K Have a Built-In Battery?
+
+No. SwitchBot Outdoor Pan/Tilt Cam 3K does not have a built-in lithium battery, so it does not support power supply or charging through a solar panel. The camera needs to be connected to a continuous **DC 12V 2A** power supply to operate properly.
+
+---
+### Does Outdoor Pan/Tilt Cam 3K Support PoE Power Supply?
+
+We regret to inform you that Outdoor Pan/Tilt Cam 3K **does not support PoE power supply**.
+Although the camera supports wired LAN connection for network access, the LAN port is for data transmission only and cannot be used to power the camera. Outdoor Pan/Tilt Cam 3K needs to be powered by a continuous DC 12V 2A power supply.
+
+---
+### Can SwitchBot Outdoor Pan/Tilt Cam 3K Be Used Indoors?
+
+Yes. Outdoor Pan/Tilt Cam 3K can be used indoors. However, it is primarily designed for outdoor use. If you plan to use a camera indoors, you may also consider a SwitchBot indoor pan/tilt camera model instead.
+For more details, please refer to the link below.
+https://www.switch-bot.com/products/switchbot-pan-tilt-cam-plus-3k
