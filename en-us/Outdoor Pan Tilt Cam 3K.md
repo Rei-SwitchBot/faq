@@ -106,3 +106,13 @@ Although the camera supports wired LAN connection for network access, the LAN po
 Yes. Outdoor Pan/Tilt Cam 3K can be used indoors. However, it is primarily designed for outdoor use. If you plan to use a camera indoors, you may also consider a SwitchBot indoor pan/tilt camera model instead.
 For more details, please refer to the link below.
 https://www.switch-bot.com/products/switchbot-pan-tilt-cam-plus-3k
+
+---
+### How to Install SwitchBot Outdoor Pan Tilt Cam 3K
+
+Please refer to the link below to access the installation guide. Below are the timestamps for the various installation methods shown in the video:
+- Add the device to the SwitchBot app: 00:21
+- Mount on the wall: 00:41
+- Mount on the ceiling: 01:09
+- Mount on a pole: 01:30
+https://support.switch-bot.com/hc/en-us/articles/41077841997079
