@@ -17,10 +17,6 @@ Humidity: ≤95%
 
 SwitchBot Outdoor Pan Tilt Cam 3K comes with a 3-meter charging cable, and the specifications for the charging adapter are DC 12V 2A.
 
----
-### What Is the Type C Port of SwitchBot Outdoor Pan Tilt Cam 3K Used for?
-
-The Type-C interface of the outdoor camera provides 5V1A output, which can power the outdoor fill light.
 
 ---
 ### What Type of Network Cable Should I Use for SwitchBot Outdoor Pan Tilt Cam 3K?
