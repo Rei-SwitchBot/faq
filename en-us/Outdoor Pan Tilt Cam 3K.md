@@ -75,3 +75,9 @@ Regarding the firmware update issue, could you please check the following points
 5. If you have another smartphone, please try using it instead.
 6. There may be failures due to network connection issues, so please wait for some time and try multiple times.
 7. Enable "Automatic Upgrades" by going to SwitchBot app → Outdoor Pan Tilt Cam 3K → Gear icon → Firmware Version, wait for about a week, and check if the update occurred automatically.
+
+---
+### Do I Need AI Guard Plan to Use SwitchBot Outdoor Pan Tilt Cam 3K?
+
+No, AI Guard Plan is not required to use Outdoor Pan/Tilt Cam 3. The camera can still work normally without a subscription.
+If you prefer local storage, you can insert a microSD card and save recordings to the card. Outdoor Pan/Tilt Cam 3 supports microSD cards up to 512 GB.
