@@ -1703,3 +1703,15 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. Open the SwitchBot app, select Outdoor Spotlight Cam 2K, and toggle Night Vision on or off.
 2. Turn the ON/OFF button at the back of the camera to OFF, then turn it back to ON.
+
+---
+### Troubleshooting: Unable to Switch SwitchBot Outdoor Spotlight Cam 2K to Events Only Due to "No SwitchBot Hub Found Nearby" Message
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When you change the recording mode of Outdoor Spotlight Cam 2K to Events Only, the camera will switch to Battery Saving Mode. This mode is designed to help reduce power consumption, but it requires a Hub under your account. The Outdoor Spotlight Cam 2K and the Hub also need to be within Bluetooth range of each other, which is usually around 5 to 10 meters.
+For this reason, the SwitchBot app may show this message when you try to change the recording mode to Events Only. We apologize for the inconvenience and appreciate your understanding.
+For more information about Battery Saving Mode and our Hub products, please refer to the links provided below.
+https://support.switch-bot.com/hc/en-us/articles/23990579894679
+https://support.switch-bot.com/hc/en-us/articles/13569889726743
+If you have any other questions, please do not hesitate to contact us.
