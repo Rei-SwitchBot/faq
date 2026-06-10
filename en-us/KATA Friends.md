@@ -1289,3 +1289,31 @@ Regarding this issue, could you please check the following points?
 2. In rare cases, photos taken while KATA Friends is moving quickly may appear slightly blurry. This can happen during active play or movement and does not necessarily indicate a malfunction.
 3. KATA Friends has a basic camera of approximately 2 megapixels, with image clarity close to 1080P. It is designed mainly for close-range face recognition and basic scene awareness during daily companion use, rather than high-resolution photography. As a result, photos may not look as sharp as those taken with a smartphone or dedicated camera. We appreciate your understanding.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Does SwitchBot KATA Friends Upload Data to the Cloud?
+
+Some KATA Friends features rely on cloud-based services to work properly. At this time, the following features require cloud support and may be affected if the Companion Care subscription is stopped or if the network connection is unstable:
+- Diary
+- Chat
+- Helper function
+- Memory function
+- Firmware updates
+Please rest assured that SwitchBot will never misuse customer data. For more details about how data is handled and protected, please refer to our privacy policy below:
+https://www.switch-bot.com/pages/switchbot-kata-friends-privacy-policy
+
+---
+### How to Check SwitchBot KATA Friends' Birthday in SwitchBot App
+
+You can check KATA Friends' birthday in the SwitchBot app by following the steps below:
+SwitchBot app > KATA Friends > gear icon > Customization > Birthday
+
+---
+### Troubleshooting: SwitchBot KATA Friends' Diary Includes Events That Did Not Actually Happen
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA Friends may sometimes play on its own even when no one is around, and it may record what it experiences during that time.
+For example, if the diary says that KATA Friends was petted, but no one actually touched it, it may have lightly bumped into a surface or object while moving. The feeling may have been similar to being petted, so KATA Friends recorded it in that way.
+This can happen due to how KATA Friends senses and interprets its surroundings, and it does not indicate a device malfunction. We are continuing to optimize this behavior so that KATA Friends can describe its daily experiences more accurately.
+Thank you for your understanding while we continue to improve KATA Friends' diary experience.
