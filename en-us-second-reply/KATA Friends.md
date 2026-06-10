@@ -456,3 +456,14 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 *We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
+---
+### Troubleshooting: The Photos Taken by SwitchBot KATA Friends Are Not Clear Enough.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Whether only some photos are blurry, or all photos are blurry.
+- Any unusually blurry photos you are comfortable sharing
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.

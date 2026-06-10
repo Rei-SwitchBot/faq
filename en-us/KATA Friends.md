@@ -1279,3 +1279,13 @@ KATA Friends currently senses its surroundings mainly through the sensors on the
 Since there is no dedicated obstacle avoidance sensor on the back, KATA Friends may occasionally brush lightly against a wall, cabinet, or piece of furniture with its back or tail when moving backward, turning around, or moving along the edge of furniture. In other words, KATA Friends can detect what is in front of it more easily than what is behind it, especially when moving backward or turning around. This behavior is within the current range of the device's sensing capability and does not indicate a device malfunction.
 We are continuing to improve KATA Friends' movement and environmental sensing so that it can move more naturally and smoothly in different home environments. We appreciate your understanding and will keep working to improve the overall experience.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: The Photos Taken by SwitchBot KATA Friends Are Not Clear Enough.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check whether KATA Friends' nose, where the camera is located, is blocked by dust, dirt, or surrounding fur. If needed, gently wipe the camera lens and tidy any fur around the nose area.
+2. In rare cases, photos taken while KATA Friends is moving quickly may appear slightly blurry. This can happen during active play or movement and does not necessarily indicate a malfunction.
+3. KATA Friends has a basic camera of approximately 2 megapixels, with image clarity close to 1080P. It is designed mainly for close-range face recognition and basic scene awareness during daily companion use, rather than high-resolution photography. As a result, photos may not look as sharp as those taken with a smartphone or dedicated camera. We appreciate your understanding.
+If you have any other questions, please do not hesitate to contact us.
