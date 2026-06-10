@@ -116,3 +116,29 @@ Please refer to the link below to access the installation guide. Below are the t
 - Mount on the ceiling: 01:09
 - Mount on a pole: 01:30
 https://support.switch-bot.com/hc/en-us/articles/41077841997079
+
+---
+### Does Outdoor Pan/Tilt Cam 3K Need a Hub for Remote Live View?
+
+No. Outdoor Pan/Tilt Cam 3K does not require a Hub for remote live view. The camera connects directly to a 2.4 GHz Wi-Fi network for data transmission. Once connected to a stable Wi-Fi network, you can view the live camera feed directly in the SwitchBot app. No Hub is required.
+
+---
+### Can Motion Tracking Be Turned Off on SwitchBot Outdoor Pan Tilt Cam 3K?
+
+Yes. You can turn Motion Tracking on or off in the SwitchBot app as needed.
+
+---
+### What Type of microSD Card Can Be Used with SwitchBot Outdoor Pan/Tilt Cam 3K?
+
+SwitchBot Outdoor Pan/Tilt Cam 3K supports microSD cards with a capacity from **4 GB to 512 GB**. We recommend using microSD cards from **Kioxia, SanDisk, Samsung, Kingston, or SwitchBot**. Please choose the card capacity based on your daily recording needs.
+
+---
+### Can I View the Live Camera Feed on SwitchBot Outdoor Pan/Tilt Cam 3K Without Subscribing to AI Guard Plan?
+
+Yes. You can view the live camera feed of Outdoor Pan/Tilt Cam 3K directly in the SwitchBot app without subscribing to AI Guard Plan.
+If you would like to view recorded footage without subscribing to AI Guard Plan, you can use a microSD card for local storage.
+
+---
+### Will Outdoor Pan/Tilt Cam 3K Automatically Return to Its Original Monitoring Angle After Motion Tracking?
+
+Yes. If an Area Zone has been set for Motion Detection in the SwitchBot app, Outdoor Pan/Tilt Cam 3K will return to the original Area Zone position when Motion Tracking ends and no person is detected in the camera view within 1 minute.
