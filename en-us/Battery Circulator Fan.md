@@ -714,3 +714,12 @@ Go to SwitchBot App -> Circulator Fan -> Gear Icon in the upper right -> turn of
 
 Note:
 Enable "Auto-Align Front" if you want your Battery Circulator Fan to return to a level, straight-ahead position when turned off.
+
+---
+### Troubleshooting: SwitchBot Battery Circulator Fan Keeps Making Noise When Running
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a video showing the issue?
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
