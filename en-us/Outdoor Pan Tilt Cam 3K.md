@@ -142,3 +142,9 @@ If you would like to view recorded footage without subscribing to AI Guard Plan,
 ### Will Outdoor Pan/Tilt Cam 3K Automatically Return to Its Original Monitoring Angle After Motion Tracking?
 
 Yes. If an Area Zone has been set for Motion Detection in the SwitchBot app, Outdoor Pan/Tilt Cam 3K will return to the original Area Zone position when Motion Tracking ends and no person is detected in the camera view within 1 minute.
+
+---
+### Can I Hide the Smart Report Section Below the Live View for Outdoor Pan Tilt Cam 3K in SwitchBot App?
+
+We regret to inform you that the **Smart Report display on the live view screen cannot be turned off at this time.**
+This display is currently part of the live view page design. We understand that some users may prefer a cleaner screen, and we apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
