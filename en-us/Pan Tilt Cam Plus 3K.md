@@ -648,3 +648,9 @@ If you already subscribed to Cloud Storage Service, your subscription has been a
 2. The upgrade will take effect immediately.
 3. You can also continue using your current Basic Plan and switch to the Premium Plan after the current plan expires.
 If you have any other questions, please feel free to contact us.
+
+---
+### Can I Hide the Smart Report Section Below the Live View for Pan/Tilt Cam Plus 3K in SwitchBot App?
+
+We regret to inform you that the **Smart Report display on the live view screen cannot be turned off at this time.**
+This display is currently part of the live view page design. We understand that some users may prefer a cleaner screen, and we apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
