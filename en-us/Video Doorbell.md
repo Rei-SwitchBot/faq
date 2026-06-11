@@ -1571,3 +1571,9 @@ If you have any other questions, please feel free to contact us.
 
 Unlink the Add-on Monitor by navigating to the SwitchBot app, selecting your Smart Video Doorbell, tapping the gear icon in the upper right corner, and choosing "Link with the Add-on Monitor". If needed, please refer to the link below and link it again.
 https://support.switch-bot.com/hc/en-us/articles/35926762384407
+
+---
+### Can I Hide the Smart Report Section Below the Live View for Smart Video Doorbell in SwitchBot App?
+
+We regret to inform you that the **Smart Report display on the live view screen cannot be turned off at this time.**
+This display is currently part of the live view page design. We understand that some users may prefer a cleaner screen, and we apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
