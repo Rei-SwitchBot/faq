@@ -254,3 +254,8 @@ Please open the SwitchBot App, tap AI Hub, tap the gear icon to enter the settin
 For instructions on how to set up OpenClaw in AI Hub, please refer to the link below.
 https://support.switch-bot.com/hc/en-us/articles/38154270100631
 If you have any questions, please submit feedback through the SwitchBot app and include a screenshot or video showing the error details.
+
+---
+### Can the "Try OpenClaw" Message on SwitchBot AI Hub Screen in SwitchBot App Be Displayed Again After It Is Closed?
+
+If you close the "Try OpenClaw" message on the AI Hub screen in the SwitchBot App, it cannot be displayed again due to system limitations. **To show this message again, you would need to uninstall and reinstall the SwitchBot app.** However, you can still set up OpenClaw by going to the AI Hub settings page and tapping the "OpenClaw Setup" button.
