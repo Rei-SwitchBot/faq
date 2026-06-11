@@ -28,3 +28,12 @@ Regarding this issue, could you please check the following points?
 2. Please check whether the Standing Circulator Fan can oscillate properly at all three heights: low, medium, and high. If oscillation fails at only one height, the issue may be with the corresponding part, and we can send that part separately. If it does not oscillate at any height, the issue may be with the main fan unit itself.
 <img width="1280" height="350" alt="image" src="https://github.com/user-attachments/assets/fa8bce8b-7095-4bac-9330-31c421c359dc" />
 
+
+---
+### Troubleshooting: SwitchBot Standing Circulator Fan Keeps Making Noise When Running
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please provide us with a video showing the issue?
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
