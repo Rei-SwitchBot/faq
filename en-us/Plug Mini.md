@@ -885,3 +885,9 @@ Regarding this issue, could you please check the following points?
 1. Make sure that the outlet in your home is powered.
 2. Check whether the Plug Mini responds when plugged into a different outlet.
 3. Press and hold the power button on the Plug Mini for 15 seconds to reset it.
+
+---
+### What Is the Corner Radius of SwitchBot Plug Mini?
+
+We sincerely apologize, but SwitchBot does not currently have the rounded corner dimensions for Plug Mini available. We apologize for any inconvenience this may cause.
+If you have a specific use case, please submit feedback through the SwitchBot app and let us know the details. We will review your situation and provide further assistance based on your needs.
