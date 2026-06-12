@@ -148,3 +148,16 @@ Yes. If an Area Zone has been set for Motion Detection in the SwitchBot app, Out
 
 We regret to inform you that the **Smart Report display on the live view screen cannot be turned off at this time.**
 This display is currently part of the live view page design. We understand that some users may prefer a cleaner screen, and we apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
+---
+### How to Turn Off AI Guard Plan Ads
+
+1. Make sure your SwitchBot App version is up to date.
+2. You can disable the promotional advertisement as follows:
+- Launch SwitchBot App and log in.
+- Tap your camera.
+- Tap the gear icon in the upper right corner.
+- Tap basic settings.
+- Tap personalized recommandations.
+- Switch On to Off.
+3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support -> Feedback.
