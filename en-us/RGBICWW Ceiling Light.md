@@ -257,3 +257,35 @@ Alexa, make the {device name} warmer.
 Alexa, set the {device name} cooler.
 Alexa, make the {device name} warm white.
 Alexa, set the {device name} to blue.
+
+---
+### SwitchBot RGBICWW Ceiling Light Matter Setup (iOS)
+
+**Preparation**
+Before setting up devices using Matter, you will need the following:
+- SwitchBot RGBICWW Ceiling Light
+- iPhone
+- Homepod or Apple TV
+Note: Any home hub compatible with iOS 18.4 or later is acceptable. For further details regarding home hubs, we suggest contacting Apple directly. Please refer to the link below to set up your home hub.
+https://support.apple.com/en-hk/102557
+
+**Setup**
+**Method 1: Directly Add SwitchBot RGBICWW Ceiling Light to Apple Home**
+You can add RGBICWW Ceiling Light to Apple Home without using the SwitchBot app. Turn the RGBICWW Ceiling Light on and off five times in a row, with each interval within 3 seconds. Once the device flashes red, green, and blue in sequence, it will enter pairing mode. Then open the Apple Home app, tap Add or Scan Accessory in the upper right corner, and scan the QR code on the RGBICWW Ceiling Light body to continue the setup process.
+**Note:**
+You can add the RGBICWW Ceiling Light directly to Apple Home. However, remote control through Apple Home requires an Apple home hub, such as a HomePod, HomePod mini, or Apple TV. Without a home hub, control may only be available when your iPhone is on the same local network as the device.
+
+**Method 2: Add RGBICWW Ceiling Light to Apple Home through SwitchBot App**
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot RGBICWW Ceiling Light has been added to your App and your device firmware version is up to date.
+3. Make sure all devices (your iPhone, HomePod/Apple TV, and RGBICWW Ceiling Light) are connected to the same 2.4GHz Wi-Fi network.
+4. Copy the setup code by going to SwitchBot App -> Your RGBICWW Ceiling Light -> Gear Icon (Settings screen) -> Matter Setup.
+5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
+6. Open Apple Home App -> Tap "Add or scan Accessory" in the upper right corner -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> paste the code to continue the setup process.
+Video: https://youtu.be/WRLYlb6zuhk
+
+---
+### How to Install SwitchBot RGBICWW Ceiling Light
+
+You can click the link below to view the installation instructions for the US and EU versions of the RGBICWW Ceiling Light.
+https://support.switch-bot.com/hc/en-us/articles/41164746921879
