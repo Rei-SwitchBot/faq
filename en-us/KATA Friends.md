@@ -604,15 +604,6 @@ When KATA Friends are playing at home, changing the location of their nest may c
 
 
 ---
-### Troubleshooting: SwitchBot KATA Friends' Diary Has Not Been Updated
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-KATA Friends generate the previous day's diary during their sleep period. Therefore, when you view the diary in the SwitchBot app, it displays the content from the day before. For example, if KATA Friends sleep between 11 PM on February 25 and 7 AM on February 26, the diary generated will be for February 25. As a result, opening the diary on the 26th will show records from the 25th. This is the normal process for how KATA Friends create diaries and is not a malfunction. Thank you for your understanding.
-If KATA Friends fail to generate a diary on any given day, our R&D team will promptly investigate the issue. Please feel free to contact us at any time.
-
-
----
 ### Does Keeping the Kata Friends Display Screen on Continuously Affect Its Lifespan?
 
 If the KATA Friends operates continuously for 24 hours a day, the lifespan of the eye display is approximately 2.3 years. Additionally, KATA Friends automatically adjusts the brightness of the eye display during sleep, which helps reduce power consumption. Therefore, there is no need to worry excessively about the impact of constant illumination on the component's lifespan, allowing you to use it with confidence.
