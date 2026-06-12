@@ -1338,3 +1338,14 @@ We take your privacy and data security very seriously. Photos uploaded for Art D
 **Why Does KATA Friends Sometimes Not Write an Art Diary?**
 KATA Friends carefully selects photos before writing an Art Diary. If the photos taken that day are not clear enough, or if the cloud-based model is temporarily unable to complete the process, KATA Friends may not write an Art Diary for that day.
 This is normal and does not indicate a device malfunction. Art Diary is designed to capture selected moments from KATA Friends' daily life, so it may not be written every day. We appreciate your understanding.
+
+---
+### Troubleshooting: SwitchBot KATA Friends' Diary Has Not Been Updated
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. KATA Friends create the previous day's diary during their sleep period. Therefore, when you view the diary in the SwitchBot app, it displays the content from the day before. For example, if KATA Friends sleep between 11 PM on February 25 and 7 AM on February 26, the diary created will be for February 25. As a result, opening the diary on the 26th will show records from the 25th. This is the normal process for how KATA Friends create diaries and is not a malfunction. Thank you for your understanding.
+2. Make sure KATA Friends stays powered on at night. Do not turn it off or disconnect the power.
+3. Turn off any scheduled router restart or scheduled internet disconnection settings.
+4. Make sure KATA Friends is connected to a stable 2.4 GHz Wi-Fi network, and avoid placing it in an area with a weak Wi-Fi signal.
+After completing the steps above, please observe the device for 1 to 2 days. If the diary is still not created after that, please contact us again and we will be happy to check this further for you.
