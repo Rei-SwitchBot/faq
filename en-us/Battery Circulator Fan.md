@@ -723,3 +723,9 @@ Regarding this issue, could you please provide us with a video showing the issue
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### After How Many Charging Cycles Will SwitchBot Battery Circulator Fan Capacity Drop to 80%?
+
+We apologize for the inconvenience, but SwitchBot Lab does not currently have specific test data showing after how many charging cycles the battery capacity may drop to 80%.
+Please rest assured that if your device battery experiences any issue within the warranty period, we will provide the appropriate after-sales support in accordance with our warranty policy.
