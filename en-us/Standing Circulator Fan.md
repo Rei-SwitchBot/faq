@@ -37,3 +37,12 @@ Regarding this issue, could you please provide us with a video showing the issue
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot Standing Circulator Fan Can Only Return to a Level Position During Vertical Oscillation and Cannot Adjust the Upward or Downward Angle in the SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Due to differences in the product design between Standing Circulator Fan and Battery Circulator Fan, the Standing Circulator Fan does not currently support adjusting the upward or downward angle through the SwitchBot app during Vertical Oscillation. At this time, it only supports returning to a level center position.
+We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+If you have any other questions, please do not hesitate to contact us.
