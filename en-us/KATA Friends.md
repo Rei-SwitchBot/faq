@@ -1340,3 +1340,9 @@ Regarding this issue, could you please check the following points?
 3. Turn off any scheduled router restart or scheduled internet disconnection settings.
 4. Make sure KATA Friends is connected to a stable 2.4 GHz Wi-Fi network, and avoid placing it in an area with a weak Wi-Fi signal.
 After completing the steps above, please observe the device for 1 to 2 days. If the diary is still not created after that, please contact us again and we will be happy to check this further for you.
+
+---
+### How to Cancel KATA Friends Companion Care
+
+If you have purchased KATA Friends Companion Care and already activated it in the SwitchBot app using the redemption code, the plan will remain valid until the end of the current service period. Cancellation and refunds are not supported once the plan has been activated. After the service period ends, the plan will be canceled automatically, so no further action is required on your side. If you would like to use Companion Care again, you can purchase a new plan at that time.
+If you have purchased Companion Care but have not yet activated it with the redemption code, please submit feedback through the SwitchBot app and include the redemption code. After we invalidate the code, we will proceed with the refund process.
