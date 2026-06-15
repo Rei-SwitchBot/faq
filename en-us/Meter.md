@@ -1427,7 +1427,15 @@ To monitor temperature and humidity data remotely, you must meet the following c
 - Tap the "Store data to cloud" button at the bottom of the meter chart page.
 
 
+---
+### Why Is the Temperature and Humidity Data in the Widget Not Updating?
 
+1. Check whether the Meter is connected to the internet through a SwitchBot Hub product. Widget data can only update when the Meter is connected to the internet. If the device is used without a Hub product, the widget can still be added, but the temperature and humidity data will remain the same as when the widget was added and will not update. To allow the widget data to update, make sure the Meter is placed near a SwitchBot Hub product.
+
+2. For iOS widgets, Apple has not provided an official refresh frequency. Based on SwitchBot’s testing, when the SwitchBot app is open, the shortest update interval is approximately 5 minutes. For Android widgets, the shortest update interval is approximately 15 minutes. As a result, the widget data may be delayed compared with the data shown in the SwitchBot app or on the device itself. We appreciate your understanding.
+
+Related Post：[iOS Widget Setup for Meter](https://support.switch-bot.com/hc/en-us/articles/4421857588887-iOS-Widget-Setup-for-Meter)
+If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
 
 
 
