@@ -2037,42 +2037,6 @@ SwitchBot app version:
 Any other screenshot about the error message:
 
 
-
----
-### What Charging Adaptor Is Suitable for My SwitchBot Hub Mini?
-
-Updated: Feb 14th, 2023
-
-Applicable Products: SwitchBot Hub Mini
-
-Device
-
-Adaptor Output
-
-Terminal
-
-Hub Mini
-
-5V1A/5V2A
-
-Micro USB
-
-Please note:
-
-If you use an adaptor that is
-
-below
-
-5V1A/5V2A, your network connection may become unstable due to insufficient voltage/current issues, and your registered remote controls/scenes may not respond.
-
-Also, using an adaptor that is
-
-higher
-
-than the 5V1A/5V2A standard may burn your Hub device. We do not recommend using such chargers.
-
-
-
 ---
 ### What Should I Do if Hub Mini Does Not Start Up After Power-On?
 
