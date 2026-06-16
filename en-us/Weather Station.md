@@ -22,11 +22,11 @@ Obtaining the URL of an ICS File Format from Outlook Calendar
 Synchronizing the Shared URL with the Weather Station
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Weather Station has been added to your App and your device firmware version is up to date.
-3. In the SwitchBot app, go to Weather Station → Calendar Settings → Sync, then paste the acquired iCal format private URL and name the calendar.  
+3. In the SwitchBot app, go to Weather Station 鈫?Calendar Settings 鈫?Sync, then paste the acquired iCal format private URL and name the calendar.  
 4. Once the setup is complete, the data will be updated automatically. If it has not been updated, you can manually refresh it by pressing the button on the top of the device.
 
 Note:  
-To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Outlook Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
+To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Outlook Calendar. You can verify the home location in the SwitchBot app by navigating to Profile 鈫?Manage Homes 鈫?and selecting the home that the Weather Station belongs to.
 
 
 ---
@@ -56,16 +56,16 @@ To ensure accurate weather data, the Weather Station automatically connects to t
 ---
 ### What Is the Accuracy of the Temperature and Humidity Measurements of SwitchBot Weather Station?
 
-1. In normal cases, the readings of the Weather Station have a ±0.2°C difference in temperature and a ±2% difference in humidity.
+1. In normal cases, the readings of the Weather Station have a 卤0.2掳C difference in temperature and a 卤2% difference in humidity.
 
 2. Temperature accuracy overall:
-±0.4°C at -20°C to 0°C
-±0.2°C at 0°C to 65°C
-±0.3°C at 65°C to 80°C
+卤0.4掳C at -20掳C to 0掳C
+卤0.2掳C at 0掳C to 65掳C
+卤0.3掳C at 65掳C to 80掳C
 
 3. Humidity accuracy overall:
-±2% (at 25°C, 10%~90%RH)
-±4% (at 25°C, 0%~10%, 90%~99%RH)
+卤2% (at 25掳C, 10%~90%RH)
+卤4% (at 25掳C, 0%~10%, 90%~99%RH)
 
 4. Calibration is recommended in case of temperature/humidity differences.
 
@@ -92,7 +92,7 @@ To ensure accurate weather data, the Weather Station automatically connects to t
 Note:
 Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
-If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.   
+If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile 鈫?Manage Homes 鈫?selecting the home to which the Weather Station belongs.   
 When using it for the first time, the Weather Station will automatically update and download data, which may take some time, so please wait patiently.
 
 
@@ -228,7 +228,7 @@ Using the reset pin or a slender tool, press and hold the reset hole for 3 secon
 Note:
 Please use the latest version of the SwitchBot app from the app store. You may not be able to pair with the beta version.
 When adding the device, make sure to correctly enter the Wi-Fi SSID and password, paying attention to uppercase and lowercase letters.
-If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.   
+If the home location has not been set, please follow the app's guidance to set the home location to which the Weather Station belongs. You can set this yourself in the SwitchBot app by going to Profile 鈫?Manage Homes 鈫?selecting the home to which the Weather Station belongs.   
 When using it for the first time, the Weather Station will automatically update and download data, which may take some time, so please wait patiently.
 
 
@@ -340,7 +340,7 @@ Note:
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. Issues may occur with the beta version.
-2. Check for any available firmware updates by going to SwitchBot app → Weather Station → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Check for any available firmware updates by going to SwitchBot app 鈫?Weather Station 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 3. Make sure that your personal calendar is synchronized with the Weather Station by using the ICS file format URL.
 4. Verify the validity of the ICS file format URL. If it is no longer valid, obtain the URL again.
 Note: If you can paste the URL into a browser and successfully download the ICS file, then the URL is valid. If you cannot download it, the URL is invalid. (For iOS Calendar, remember to change the prefix "webcal" to "https".)
@@ -375,11 +375,11 @@ Obtaining the URL of an ICS File Format from Google Calendar
 Synchronizing the Acquired iCal Format Private URL with the Weather Station
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Weather Station has been added to your App and your device firmware version is up to date.
-3. In the SwitchBot app, go to Weather Station → Calendar Settings → Sync, then paste the acquired iCal format private URL and name the calendar.
+3. In the SwitchBot app, go to Weather Station 鈫?Calendar Settings 鈫?Sync, then paste the acquired iCal format private URL and name the calendar.
 4. Once the setup is complete, the data will be updated automatically. If it has not been updated, you can manually refresh it by pressing the button on the top of the device.
 
 Note:
-To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Google Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
+To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in Google Calendar. You can verify the home location in the SwitchBot app by navigating to Profile 鈫?Manage Homes 鈫?and selecting the home that the Weather Station belongs to.
 From a data security perspective, if you move the Weather Station to a different Home within the SwitchBot app, the synchronized personal calendar will be automatically deleted. If necessary, please follow the steps again to resynchronize.
 
 
@@ -394,7 +394,7 @@ Obtaining the URL of an ICS File Format from iOS Calendar
 2. Tap the "Calendar" icon at the bottom right.
 3. Tap the "i" icon next to the personal calendar you want to share.
 4. In the "Edit Calendar" screen, enable the "Public Calendar".
-5. Tap "Share Link…".
+5. Tap "Share Link鈥?.
 6. Tap "Copy" in the popup that appears.
 <img width="1280" height="913" alt="image" src="https://github.com/user-attachments/assets/03b74376-9694-43f0-8d56-eeae92bb7f1a" />
 
@@ -402,11 +402,11 @@ Obtaining the URL of an ICS File Format from iOS Calendar
 Synchronizing the Shared URL with the Weather Station
 1. Make sure your SwitchBot App version is up to date.
 2. Make sure SwitchBot Weather Station has been added to your App and your device firmware version is up to date.
-3. In the SwitchBot app, go to Weather Station → Calendar Settings → Sync, then paste the acquired iCal format private URL and name the calendar.
+3. In the SwitchBot app, go to Weather Station 鈫?Calendar Settings 鈫?Sync, then paste the acquired iCal format private URL and name the calendar.
 4. Once the setup is complete, the data will be updated automatically. If it has not been updated, you can manually refresh it by pressing the button on the top of the device.
 
 Note:
-To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in iOS Calendar. You can verify the home location in the SwitchBot app by navigating to Profile → Manage Homes → and selecting the home that the Weather Station belongs to.
+To ensure the schedule syncs correctly, the location of the SwitchBot Home associated with the Weather Station must match the location set in iOS Calendar. You can verify the home location in the SwitchBot app by navigating to Profile 鈫?Manage Homes 鈫?and selecting the home that the Weather Station belongs to.
 From a data security perspective, if you move the Weather Station to a different Home within the SwitchBot app, the synchronized personal calendar will be automatically deleted. If necessary, please follow the steps again to resynchronize.
 
 
@@ -426,7 +426,7 @@ When you press the home button on the Weather Station, various weather informati
 
 
 Top left:
-New York: Home location. You can set this yourself in the SwitchBot app by going to Profile → Manage Homes → selecting the home to which the Weather Station belongs.
+New York: Home location. You can set this yourself in the SwitchBot app by going to Profile 鈫?Manage Homes 鈫?selecting the home to which the Weather Station belongs.
 Refresh Icon and Time: Indicates when the data was last updated.
 
 Top right:
@@ -493,7 +493,7 @@ The bottom of the screen displays practical health and lifestyle advice based on
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please use the latest version of the SwitchBot app from the app store. Issues may occur with the beta version.
-2. Check for any available firmware updates by going to SwitchBot app → Weather Station → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. Check for any available firmware updates by going to SwitchBot app 鈫?Weather Station 鈫?Gear icon 鈫?Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 3. Press and hold the button on the back of the Weather Station for 15 seconds to reset it.
 4. Using a reset pin or a thin tool, press and hold the reset hole for 3 seconds until the indicator lights up to reboot the device.
 
@@ -505,4 +505,20 @@ In Weather Station firmware V2.0, the calendar feature supports viewing schedule
 For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
 
 <img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/0ff7b420-50fe-40b8-903c-2bde21d96d10" />
+[image1]
 
+---
+### How to Set Temperature and Humidity Alert Conditions for SwitchBot Weather Station
+
+1. Please set alert conditions in the following order.
+- Launch SwitchBot App and log in.
+- Tap Weather Station.
+- Tap the gear icon in the upper right corner.
+- Tap "Alert Conditions".
+- Enable and set the alert range for temperature, humidity, absolute humidity, dew point, and VPD as needed.
+- Enable "Alert Sound & Light" if you would like the screen to flash or an alarm to sound when the alert setpoint is reached.
+[image1]
+
+**Note:**
+1. When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity icons will be displayed in red on the SwitchBot app when the set thresholds are reached.
+2. When displaying other temperature and humidity data on the Weather Station, you can set the alert conditions for temperature and humidity in the settings screen of each meter, which will allow the alert to be reflected on the Weather Station's display.
