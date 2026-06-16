@@ -504,3 +504,11 @@ Regarding this issue, could you please check the following points?
 2. Check for any available firmware updates by going to SwitchBot app → Weather Station → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
 3. Press and hold the button on the back of the Weather Station for 15 seconds to reset it.
 4. Using a reset pin or a thin tool, press and hold the reset hole for 3 seconds until the indicator lights up to reboot the device.
+
+---
+### Introduction to SwitchBot Weather Station Calendar Screen
+
+When you press the calendar button on the Weather Station, events from the synced calendar will be displayed.
+In Weather Station firmware V2.0, the calendar feature supports viewing schedules for today, tomorrow, and the day after tomorrow. Support for displaying schedules further in advance is currently under development, so please stay tuned.
+For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
+[image1]
