@@ -2485,3 +2485,13 @@ The next time you replace the mopping sheet during a cleaning task, please try t
 3. Resume the cleaning task in the SwitchBot app, or by pressing the cleaning button on the robot vacuum again.
 By following these steps, the robot vacuum should be able to continue from where it left off without resetting the cleaning progress.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: The Schedule for SwitchBot Mini Robot Vacuum K10+ Pro Automatically Turns Off or Even Disappears from the SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the robot's faceplate, turn the power switch to "O", and then switch it back to "I" to restart the robot.
+2. Press and hold the Clean Button + the Home Button + LiDAR sensor at the same time for 6 seconds to reset your robot.
+Note: Once the reset is complete, the maps you have created will be automatically erased.
+https://support.switch-bot.com/hc/en-us/articles/27820108537239
