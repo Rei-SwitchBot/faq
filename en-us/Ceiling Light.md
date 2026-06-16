@@ -925,3 +925,10 @@ Regarding this issue, could you please check the following points?
 2. Reset your Ceiling Light.
 Turn/off the main switch (eg: wall switch) eight times in succession with an operating interval of two seconds. When you turn it on for the 8th time, a short beep and a long beep will be heard in sequence, and the Ceiling Light will repeat light and dark like breathing for 5 seconds before turning on. Then the reset was completed.
 Video: https://youtu.be/rouyr0OfHok
+
+---
+### When Will My Infrared Appliance Be Added to the Compatible List?
+
+SwitchBot's infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
+Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub by learning your remote via **"Learn Buttons"** or **"Others"** in the app. We encourage you to give these methods a try.
+If you have any further questions, feel free to contact us anytime. We're happy to help!
