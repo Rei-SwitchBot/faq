@@ -324,19 +324,6 @@ Our team will review your request and get back to you soon. Thank you for your p
 
 
 ---
-### Troubleshooting SwitchBot Lock Ultra Jams and Fails to Lock or Unlock My Door Lock
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- After the Ultra lock gets stuck, can it be locked and unlocked properly after multiple control attempts
-- Following a normal recovery, how long does it take for the Lock Ultra to get stuck again
-- A video showing the Lock Ultra getting stuck, unable to lock or unlock
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
 ### Troubleshooting: Unable to Set Two SwitchBot Locks as Dual Lock.
 
 Thank you for the information provided.
