@@ -851,3 +851,10 @@ https://support.switch-bot.com/hc/en-us/articles/18659778694167
 Note:
 If your Hub supports Matter, you can sync the remote learned through "Others" mode to Apple Home as a sub-device, then control it using "Hey Siri" voice commands.
 https://support.switch-bot.com/hc/en-us/articles/34970312963991
+
+---
+### When Will My Infrared Appliance Be Added to the Compatible List?
+
+SwitchBot's infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
+Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub by learning your remote via **"Learn Buttons"** or **"Others"** in the app. We encourage you to give these methods a try.
+If you have any further questions, feel free to contact us anytime. We're happy to help!
