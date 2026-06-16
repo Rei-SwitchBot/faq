@@ -1715,3 +1715,8 @@ For more information about Battery Saving Mode and our Hub products, please refe
 https://support.switch-bot.com/hc/en-us/articles/23990579894679
 https://support.switch-bot.com/hc/en-us/articles/13569889726743
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Does SwitchBot Outdoor Spotlight Cam Support Continuous Recording?
+
+We regret to inform you that Outdoor Spotlight Cam does not support continuous recording. If continuous recording is important for your use case, you may consider SwitchBot Outdoor Spotlight Cam 2K instead, which is available on the SwitchBot official website.
