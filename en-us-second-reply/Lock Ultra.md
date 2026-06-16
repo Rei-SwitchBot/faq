@@ -415,3 +415,15 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A screenshot displaying the unlock logs, accessible via the SwitchBot app by navigating to Lock Ultra → Logs.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Lock Ultra Jams and Fails to Lock or Unlock My Door Lock
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing Lock Ultra jamming when you tap Lock or Unlock in the SwitchBot app.
+- The approximate time when the jam occurred.
+- Please submit a new feedback report through the SwitchBot app immediately after operating Lock Ultra in the app.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.

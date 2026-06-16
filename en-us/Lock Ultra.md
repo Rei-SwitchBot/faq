@@ -769,3 +769,12 @@ If you wish to obtain this special thumbturn holder, please provide us with the 
 *The accessory will be shipped from our Hong Kong warehouse and should arrive in Japan in about two weeks.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting SwitchBot Lock Ultra Jams and Fails to Lock or Unlock My Door Lock
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate your Lock Ultra before use.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+2. The latest firmware for Lock Ultra supports automatic angle correction. If the locking or unlocking angle becomes misaligned, Lock Ultra can automatically correct the angle after being controlled to lock or unlock three times in a row. Please control Lock Ultra to lock or unlock three times in the SwitchBot app, then check whether it can lock and unlock normally.
