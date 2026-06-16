@@ -583,3 +583,12 @@ No. Turning on Fast Unlock will not affect facial recognition on Keypad Vision P
 Fast Unlock is designed to speed up unlocking through a Bluetooth connection, and it works independently from facial recognition. This means that enabling Fast Unlock will not affect the accuracy or speed of facial recognition, and both features can be used at the same time.
 For more information about Fast Unlock settings, please refer to the link below.
 https://support.switch-bot.com/hc/en-us/articles/32284693015447
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Pro Can No Longer Recognize My Face or Palm Vein After the Firmware Update.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+After checking with our R&D team, we confirmed that Keypad Vision Pro firmware version 29.143.29 includes optimizations for facial recognition performance. Once the device is updated to this firmware version, the face and palm vein information need to be registered again before they can be used.
+Please delete the existing face and palm vein information, register them again, and then check whether facial recognition and palm vein recognition work normally.
+If you have any other questions, please do not hesitate to contact us.
