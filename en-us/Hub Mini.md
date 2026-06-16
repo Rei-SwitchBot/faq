@@ -2602,3 +2602,10 @@ Note:
 If you use an adaptor that is **below** 5V1A/5V2A, your network connection may become unstable due to insufficient voltage/current issues, and your registered remote controls/scenes may not respond.
 Also, using an adaptor that is **higher** than the 5V1A/5V2A standard may burn your Hub device. We do not recommend using such chargers.
 The charging port on the latest batch of Hub Mini has been updated to Type-C. Depending on the current inventory, the Hub Mini you receive may come with either a Type-C port or a Micro USB port. Please rest assured that this does not affect the product's functionality.
+
+---
+### When Will My Infrared Appliance Be Added to the Compatible List?
+
+SwitchBot's infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
+Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub by learning your remote via **"Learn Buttons"** or **"Others"** in the app. We encourage you to give these methods a try.
+If you have any further questions, feel free to contact us anytime. We're happy to help!
