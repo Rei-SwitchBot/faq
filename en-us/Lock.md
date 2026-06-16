@@ -3128,3 +3128,14 @@ City
 State/Province
 ZIP/Postal Code
 A screenshot of your order
+
+---
+### Troubleshooting: SwitchBot App Shows the Lock as Unlocked Even Though the Door Is Already Locked.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The issue you reported has been resolved in SwitchBot app V9.28. Please search for SwitchBot in the App Store or Google Play Store and install the latest version of the SwitchBot app.
+Please note that when a new version of the SwitchBot app is released, it is rolled out gradually to users over time, rather than being pushed to everyone at once. If the latest version has not reached you yet, you may not see it in Google Play Store.
+For Android users, if SwitchBot app V9.28 is not available in Google Play Store yet, please click the link below to download it:
+https://drive.google.com/file/d/1Tx5LJzlB17LKSJXi3roMlJPEvRC7dTxe/view?usp=drivesdk
+We sincerely apologize for the inconvenience. If you have any other questions, please do not hesitate to contact us.
