@@ -485,14 +485,6 @@ You can modify the phrase displayed in the central area to indicate the data sou
 Bottom:
 The bottom of the screen displays practical health and lifestyle advice based on an analysis of air quality and multi-day forecasts. This section includes alerts for severe weather along with tips for cold prevention and pollen allergy risks. It also provides suggestions for clothing and travel planning. You can sync your personal calendar with the Weather Station to receive even more specific recommendations based on your daily schedule.
 
----
-### Introduction to SwitchBot Weather Station Calendar Screen
-
-When you press the calendar button on the Weather Station, events from the synced calendar will be displayed.
-Currently, the Weather Station calendar only supports displaying events for the current day. Support for displaying events on future dates is under development, so please stay tuned.
-For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
-<img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/ee184c45-4da4-4081-8db0-52e75f5d7ce5" />
-
 
 
 ---
@@ -511,4 +503,6 @@ Regarding this issue, could you please check the following points?
 When you press the calendar button on the Weather Station, events from the synced calendar will be displayed.
 In Weather Station firmware V2.0, the calendar feature supports viewing schedules for today, tomorrow, and the day after tomorrow. Support for displaying schedules further in advance is currently under development, so please stay tuned.
 For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
-[image1]
+
+<img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/0ff7b420-50fe-40b8-903c-2bde21d96d10" />
+
