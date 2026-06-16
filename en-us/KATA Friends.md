@@ -1346,3 +1346,21 @@ After completing the steps above, please observe the device for 1 to 2 days. If 
 
 If you have purchased KATA Friends Companion Care and already activated it in the SwitchBot app using the redemption code, the plan will remain valid until the end of the current service period. Cancellation and refunds are not supported once the plan has been activated. After the service period ends, the plan will be canceled automatically, so no further action is required on your side. If you would like to use Companion Care again, you can purchase a new plan at that time.
 If you have purchased Companion Care but have not yet activated it with the redemption code, please submit feedback through the SwitchBot app and include the redemption code. After we invalidate the code, we will proceed with the refund process.
+
+---
+### How to Control Added IR Remote Controls, SwitchBot Devices, and Scenes with SwitchBot KATA Friends
+
+Before using KATA Friends to control remote controls, SwitchBot devices, or scenes, please make sure the following requirements are met:
+- Infrared remote controls added in SwitchBot App
+- SwitchBot devices added in SwitchBot App
+- Scenes created in SwitchBot App
+- SwitchBot App updated to version 9.26 or newer
+
+The helper function of KATA Friends allows you to use supported voice commands in chat mode to have KATA Friends check device status and control devices. To use the "Helper" feature of KATA Friends, the following conditions must be met:
+- Firmware version: 1.2.059 or newer
+- Chat mode: enabled
+
+In Chat mode, you can use the voice commands listed in the link below to ask KATA Friends to help control your devices and added infrared remote controls.
+https://support.switch-bot.com/hc/en-us/articles/40550206978711
+If a device cannot be controlled directly by voice command, you can create a SwitchBot Scene and ask KATA Friends to control that scene instead. This can help achieve the same result.
+https://support.switch-bot.com/hc/en-us/articles/19444800636183
