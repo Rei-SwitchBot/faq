@@ -2629,3 +2629,12 @@ https://support.switch-bot.com/hc/en-us/articles/18659778694167
 Note:
 If your Hub supports Matter, you can sync the remote learned through "Others" mode to Apple Home as a sub-device, then control it using "Hey Siri" voice commands.
 https://support.switch-bot.com/hc/en-us/articles/34970312963991
+
+---
+### What Charging Adaptor Is Suitable for My SwitchBot Hub Mini?
+
+Please use the output 5V1A or 5V2A and the connection terminal is Micro USB charging adapter and cable to the hub mini.
+Note:
+If you use an adaptor that is **below** 5V1A/5V2A, your network connection may become unstable due to insufficient voltage/current issues, and your registered remote controls/scenes may not respond.
+Also, using an adaptor that is **higher** than the 5V1A/5V2A standard may burn your Hub device. We do not recommend using such chargers.
+The charging port on the latest batch of Hub Mini has been updated to Type-C. Depending on the current inventory, the Hub Mini you receive may come with either a Type-C port or a Micro USB port. Please rest assured that this does not affect the product's functionality.
