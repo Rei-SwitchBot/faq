@@ -46,3 +46,12 @@ Regarding this issue, could you please check the following points?
 Due to differences in the product design between Standing Circulator Fan and Battery Circulator Fan, the Standing Circulator Fan does not currently support adjusting the upward or downward angle through the SwitchBot app during Vertical Oscillation. At this time, it only supports returning to a level center position.
 We apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: SwitchBot Standing Circulator Fan Does Not Oscillate.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. When assembling the Standing Circulator Fan, please make sure all parts are securely tightened. If any part is loose or not properly tightened, the fan may not oscillate properly.
+2. Please check whether the Standing Circulator Fan can oscillate properly at all three heights: low, medium, and high. If oscillation fails at only one height, the issue may be with the corresponding part, and we can send that part separately. If it does not oscillate at any height, the issue may be with the main fan unit itself.
+[image1]
