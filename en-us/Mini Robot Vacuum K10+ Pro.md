@@ -2495,3 +2495,8 @@ Regarding this issue, could you please check the following points?
 2. Press and hold the Clean Button + the Home Button + LiDAR sensor at the same time for 6 seconds to reset your robot.
 Note: Once the reset is complete, the maps you have created will be automatically erased.
 https://support.switch-bot.com/hc/en-us/articles/27820108537239
+
+---
+### What Is the Height of Steps That SwitchBot Mini Robot Vacuum K10+ Pro Can Climb Over?
+
+SwitchBot Mini Robot Vacuum K10+ Pro can climb over steps up to 1.7 cm in height.
