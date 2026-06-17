@@ -3410,3 +3410,8 @@ The next time you replace the mopping sheet during a cleaning task, please try t
 3. Resume the cleaning task in the SwitchBot app, or by pressing the cleaning button on the robot vacuum again.
 By following these steps, the robot vacuum should be able to continue from where it left off without resetting the cleaning progress.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### What Is the Height of Steps That SwitchBot Mini Robot Vacuum K10+ Can Climb Over?
+
+SwitchBot Mini Robot Vacuum K10+ can climb over steps up to 1.7 cm in height.
