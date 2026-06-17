@@ -1309,26 +1309,28 @@ For example, if the diary says that KATA Friends was petted, but no one actually
 This can happen due to how KATA Friends senses and interprets its surroundings, and it does not indicate a device malfunction. We are continuing to optimize this behavior so that KATA Friends can describe its daily experiences more accurately.
 Thank you for your understanding while we continue to improve KATA Friends' diary experience.
 
+
 ---
 ### SwitchBot KATA Friends Art Diary Feature
 
-**What Is Art Diary?**
+What Is Art Diary?
 KATA Friends can turn photos taken by family members through voice commands or gestures into a personalized Art Diary with the help of large language model processing.
 When you open the SwitchBot app the next day, KATA Friends may write an Art Diary to record everyday moments spent with its family.
 
-**How Do I Try the Art Diary Feature?**
+How Do I Try the Art Diary Feature?
 To use the Art Diary feature, please make sure the following requirements are met:
-- SwitchBot App Version: 9.28 or newer
-- Firmware Version: 1.2.063 or newer
+- SwitchBot App Version：9.28 or newer
+- Firmware Version: 1.2.062 or newer
 - Picture Taking enabled in the SwitchBot app
 
-**Will My Photos Be Uploaded to the Cloud After I Enable the Art Diary Feature?**
+Will My Photos Be Uploaded to the Cloud After I Enable the Art Diary Feature?
 The Art Diary feature uses cloud-based processing to turn photos into a personalized diary. For this reason, photos taken for Art Diary need to be uploaded to the cloud for processing.
 We take your privacy and data security very seriously. Photos uploaded for Art Diary processing are used only to create the Art Diary and will be automatically deleted from the cloud after processing is complete. Please rest assured that SwitchBot will never misuse customer data. You can use the Art Diary feature with peace of mind.
 
-**Why Does KATA Friends Sometimes Not Write an Art Diary?**
+Why Does KATA Friends Sometimes Not Write an Art Diary?
 KATA Friends carefully selects photos before writing an Art Diary. If the photos taken that day are not clear enough, or if the cloud-based model is temporarily unable to complete the process, KATA Friends may not write an Art Diary for that day.
-This is normal and does not indicate a device malfunction. Art Diary is designed to capture selected moments from KATA Friends' daily life, so it may not be written every day. We appreciate your understanding.
+This is normal and does not indicate a device malfunction. Art Diary is designed to capture selected moments from KATA Friends’ daily life, so it may not be written every day. We appreciate your understanding.
+
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends' Diary Has Not Been Updated
