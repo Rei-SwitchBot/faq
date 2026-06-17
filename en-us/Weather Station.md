@@ -504,8 +504,8 @@ When you press the calendar button on the Weather Station, events from the synce
 In Weather Station firmware V2.0, the calendar feature supports viewing schedules for today, tomorrow, and the day after tomorrow. Support for displaying schedules further in advance is currently under development, so please stay tuned.
 For the current day, up to 30 events can be displayed in total, with up to 15 events shown on each page. To view additional events, press the "Next" button.
 
-<img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/0ff7b420-50fe-40b8-903c-2bde21d96d10" />
-[image1]
+<img width="1043" height="622" alt="image" src="https://github.com/user-attachments/assets/995a0ced-d85a-4390-8e28-d31f5f301fac" />
+
 
 ---
 ### How to Set Temperature and Humidity Alert Conditions for SwitchBot Weather Station
