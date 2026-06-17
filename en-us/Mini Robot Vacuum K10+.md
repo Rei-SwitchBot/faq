@@ -1792,22 +1792,7 @@ Last Updated：
 
 Related Products: SwitchBot Mini Robot Vacuum K10+
 
-The capacity of the dust bag is
-
-4 L
-
-.
-
-
-
----
-### What Is the Height of Steps That SwitchBot Mini Robot Vacuum K10+ Can Climb Over?
-
-Last Updated: 2023 August 4
-
-Related Products: SwitchBot Mini Robot Vacuum K10+
-
-2 cm.
+The capacity of the dust bag is 4L
 
 
 
