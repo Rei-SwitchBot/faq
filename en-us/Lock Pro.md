@@ -2450,3 +2450,12 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 https://support.switch-bot.com/hc/en-us/articles/25330863432727
 2. If you haven't used the "Auto-Unlock" feature, please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate youre Lock Pro before use.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+---
+### Troubleshooting: Lock Pro Did Not Automatically Switch Battery Compartments After the Rechargeable Battery in Compartment A or B Ran Out.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Automatic switching between Battery Compartments A and B is triggered only when the rechargeable battery level falls below 20%. If the battery level is still above this threshold, the rechargeable battery will not switch automatically. We appreciate your understanding.
+2. Please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate your Lock Pro before use.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!

@@ -905,3 +905,14 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - If you received an unlock notification, please provide a screenshot of the notification.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: Lock Pro Did Not Automatically Switch Battery Compartments After the Rechargeable Battery in Compartment A or B Ran Out.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Submit feedback again immediately after operating the lock Pro to lock (or unlock) it in the SwitchBot app
+- Battery level screenshot by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
