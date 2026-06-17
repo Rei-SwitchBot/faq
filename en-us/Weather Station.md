@@ -59,13 +59,13 @@ To ensure accurate weather data, the Weather Station automatically connects to t
 1. In normal cases, the readings of the Weather Station have a 卤0.2掳C difference in temperature and a 卤2% difference in humidity.
 
 2. Temperature accuracy overall:
-卤0.4掳C at -20掳C to 0掳C
-卤0.2掳C at 0掳C to 65掳C
-卤0.3掳C at 65掳C to 80掳C
+±0.4°C at -20°C to 0°C
+±0.2°C at 0°C to 65°C
+±0.3°C at 65°C to 80°C
 
 3. Humidity accuracy overall:
-卤2% (at 25掳C, 10%~90%RH)
-卤4% (at 25掳C, 0%~10%, 90%~99%RH)
+±2% (at 25°C, 10%~90%RH)
+±4% (at 25°C, 0%~10%, 90%~99%RH)
 
 4. Calibration is recommended in case of temperature/humidity differences.
 
