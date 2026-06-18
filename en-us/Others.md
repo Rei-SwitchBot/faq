@@ -9402,3 +9402,17 @@ Please use the Delay Actions (Beta) feature of the SwitchBot scene for similar s
 
 We regret to inform you that SwitchBot Scenes currently cannot be synced to Home Assistant. As a result, controlling SwitchBot Scenes in Home Assistant is not supported at this time.
 If needed, you can select the corresponding SwitchBot device in Home Assistant and create an automation for it directly.
+
+---
+### Troubleshooting: Opening Pan/Tilt Cam Live View in the SwitchBot App Stops Bluetooth Music Playback and Triggers an Abnormal International Call Prompt on the Car Infotainment System
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+At this time, the SwitchBot app does not officially support or provide dedicated optimization for car infotainment systems.
+When you open the Pan/Tilt Cam Live View in the SwitchBot app on your phone, the app may use the audio and video channels on the phone. Depending on the default processing logic of the car infotainment system, this may interrupt the music playback and cause the system to show an abnormal prompt indicating that an international call is being made to your own phone number.
+We have escalated this case to our R&D team and will take it into consideration for future optimization related to car infotainment system compatibility.
+If possible, could you please provide the following information?
+1. The specific model of your car infotainment system
+2. The OS version installed on the car infotainment system
+This information will help our team better understand the issue and review it further.
+If you have any other questions, please do not hesitate to contact us.
