@@ -48,3 +48,8 @@ Regarding this issue, could you please check the following points?
 
 <img width="1280" height="350" alt="image" src="https://github.com/user-attachments/assets/1242bbf3-a735-4819-a446-ff58afb2ef51" />
 
+
+---
+### Can SwitchBot Standing Circulator Fan Be Used While Plugged In After It Is Fully Charged?
+
+Yes. Standing Circulator Fan can continue to be used while plugged in after it is fully charged.
