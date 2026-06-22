@@ -592,3 +592,15 @@ Regarding this issue, could you please check the following points?
 After checking with our R&D team, we confirmed that Keypad Vision Pro firmware version 29.143.29 includes optimizations for facial recognition performance. Once the device is updated to this firmware version, the face and palm vein information need to be registered again before they can be used.
 Please delete the existing face and palm vein information, register them again, and then check whether facial recognition and palm vein recognition work normally.
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: Unable to Upgrade SwitchBot Keypad Vision Pro Firmware
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please use the latest version of the SwitchBot app from the app store. You may not be able to update with the beta version.
+2. Try updating the firmware again after restarting your smartphone's Bluetooth and the SwitchBot app itself.
+3. Turn off the Keypad Vision Pro's power switch, then turn it back on.
+4. Firmware updates cannot be performed with a low battery. If necessary, please recharge your Keypad Vision Pro and try again.
+5. If you have another smartphone, please try using it to see if the update can be completed.
+
