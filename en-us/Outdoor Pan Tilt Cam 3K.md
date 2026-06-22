@@ -161,3 +161,22 @@ This display is currently part of the live view page design. We understand that 
 - Tap personalized recommandations.
 - Switch On to Off.
 3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support -> Feedback.
+
+---
+### What Are the Inner and Outer Diameters of the Power Cable Connector for SwitchBot Outdoor Pan Tilt Cam 3K?
+
+The outer diameter of the Outdoor Pan/Tilt Cam 3K power cable connector is 5.5 mm, and the inner diameter is 2.1 mm.
+
+
+---
+### What Is the Power Plug Size of SwitchBot Outdoor Pan Tilt Cam 3K?
+
+SwitchBot Outdoor Pan/Tilt Cam 3K uses a DC5521 power connector. The power adapter dimensions are 71.38 mm (L) × 42.63 mm (W) × 33.58 mm (H).
+
+
+---
+### Can the Power Adapter for SwitchBot Outdoor Pan Tilt Cam 3K Be Plugged Into an Outdoor Outlet?
+
+SwitchBot Outdoor Pan Tilt Cam 3K is water-resistant, but the power plug connection is not waterproof. If you need to plug it into an outdoor outlet, please make sure the power plug and connection area do not come into contact with water.
+Please note that SwitchBot cannot be held responsible if the product becomes damaged or unusable due to water entering through the power plug connection as a result of insufficient waterproof protection. We appreciate your understanding.
+
