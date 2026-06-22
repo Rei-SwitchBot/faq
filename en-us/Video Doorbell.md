@@ -1577,3 +1577,9 @@ https://support.switch-bot.com/hc/en-us/articles/35926762384407
 
 We regret to inform you that the **Smart Report display on the live view screen cannot be turned off at this time.**
 This display is currently part of the live view page design. We understand that some users may prefer a cleaner screen, and we apologize for any inconvenience this may cause. Please rest assured that we will take your feedback into consideration for future product improvements.
+
+---
+### Can I Use a Magnet to Secure the Doorbell?
+
+The doorbell itself is not made of iron, so it cannot be secured with a magnet. If you use a separately purchased magnet to attach the doorbell to an iron door, the iron door itself may interfere with the communication between the doorbell and the monitor. Adding a magnet may further affect the connection and cause the video to fail to load. For this reason, please do not use this installation method.
+
