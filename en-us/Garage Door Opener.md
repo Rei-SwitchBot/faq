@@ -37,3 +37,15 @@ If you experience any issues with the compatibility or installation of the Garag
 
 
 
+
+---
+### Troubleshooting: Even After Tapping Open, the Garage Door Still Shows as Closed in SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- How are you currently controlling the garage door opener?
+- Photos showing how the reed switch is installed and how the garage door is wired.
+
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
