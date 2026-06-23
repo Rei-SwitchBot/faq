@@ -595,3 +595,15 @@ Regarding this issue, could you please check the following points?
 4. Firmware updates cannot be performed with a low battery. If necessary, please recharge your Keypad Vision and try again.
 5. If you have another smartphone, please try using it to see if the update can be completed.
 
+
+---
+### Troubleshooting: Face Recognition Succeeded and Unlocked the Door While I Was Entering the Passcode.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When face recognition, passcode, and fingerprint unlocking methods are all registered on Keypad Vision, the device may detect your face while you are entering the passcode. In this case, face recognition may complete successfully before passcode unlocking is finished.
+This may also happen when manual face recognition is enabled. While you are entering the passcode, face recognition may be activated and complete the unlocking process.
+This is because registered face recognition has a higher unlocking priority than fingerprint and passcode unlocking. As long as face recognition is enabled, it is possible for the device to recognize your face and unlock successfully while you are entering the passcode. If you prefer to unlock mainly with a passcode, you can delete the registered face information.
+We sincerely apologize for any inconvenience this may cause.
+If you have any other questions, please do not hesitate to contact us.
+
