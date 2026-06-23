@@ -604,3 +604,35 @@ Regarding this issue, could you please check the following points?
 4. Firmware updates cannot be performed with a low battery. If necessary, please recharge your Keypad Vision Pro and try again.
 5. If you have another smartphone, please try using it to see if the update can be completed.
 
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Pro Gives a Voice Prompt to Use Palm Vein Recognition While I Am Entering the Passcode to Unlock.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When face, palm vein, passcode, and fingerprint unlocking methods are all registered on Keypad Vision Pro, the device may detect your face first while you are entering the passcode. In this case, face recognition may complete successfully before passcode unlocking is finished.
+Similarly, while you are entering the passcode, the device may also play a voice prompt asking you to align your palm vein with the recognition area. This is because the registered face and palm vein unlocking methods have a higher recognition priority.
+If you prefer to unlock mainly with a passcode, you can delete the registered face information. If the device gives a palm vein-related voice prompt while you are entering the passcode, you can ignore the prompt, continue entering the passcode, and press the confirm button to unlock.
+We sincerely apologize for any inconvenience this may cause.
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Pro Keeps Prompting a Family Member with a Beard to Clean the Sensor During Face Registration.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please check for any available firmware updates by going to SwitchBot app → Keypad Vision Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+*Once the device is updated to firmware V29.143.29, the face and palm vein information need to be registered again before they can be used.
+
+
+---
+### Troubleshooting: SwitchBot Keypad Vision Pro Can No Longer Recognize My Face or Palm Vein After the Firmware Update.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+After checking with our R&D team, we confirmed that Keypad Vision Pro firmware version 29.143.29 includes optimizations for facial recognition performance. Once the device is updated to this firmware version, the face and palm vein information need to be registered again before they can be used.
+Please delete the existing face and palm vein information, register them again, and then check whether facial recognition and palm vein recognition work normally.
+If you have any other questions, please do not hesitate to contact us.
+
