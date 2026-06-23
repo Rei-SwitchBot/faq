@@ -285,15 +285,6 @@ Also, if the replacement service is needed, to expedite shipment, please provide
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
----
-### Troubleshooting: SwitchBot Keypad Vision Pro Can No Longer Recognize My Face or Palm Vein After the Firmware Update.
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
-If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
 
 ---
 ### Troubleshooting: Unable to Upgrade SwitchBot Keypad Vision Pro Firmware
