@@ -1583,3 +1583,14 @@ This display is currently part of the live view page design. We understand that 
 
 The doorbell itself is not made of iron, so it cannot be secured with a magnet. If you use a separately purchased magnet to attach the doorbell to an iron door, the iron door itself may interfere with the communication between the doorbell and the monitor. Adding a magnet may further affect the connection and cause the video to fail to load. For this reason, please do not use this installation method.
 
+
+---
+### Troubleshooting: The Monitor for SwitchBot Smart Video Doorbell Was Accidentally Dropped and Broken.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+We are sorry to hear that the monitor was damaged.
+After checking the situation, we regret to inform you that damage caused by accidental drops, improper use, or other customer-related factors is not covered under the after-sales warranty. For this reason, we are unable to provide a free replacement in this case.
+In addition, the monitor and the doorbell are paired one-to-one, and the monitor is not sold separately. If you would like to continue using the product, the entire Video Doorbell set would need to be replaced.
+We understand this may not be the answer you were hoping for, and we sincerely apologize for the inconvenience. Thank you for your understanding.
+If you have any other questions, please feel free to contact us.
+
