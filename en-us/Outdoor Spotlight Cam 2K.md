@@ -1716,7 +1716,33 @@ https://support.switch-bot.com/hc/en-us/articles/23990579894679
 https://support.switch-bot.com/hc/en-us/articles/13569889726743
 If you have any other questions, please do not hesitate to contact us.
 
+
+
+
+
 ---
 ### Does SwitchBot Outdoor Spotlight Cam Support Continuous Recording?
 
 We regret to inform you that Outdoor Spotlight Cam does not support continuous recording. If continuous recording is important for your use case, you may consider SwitchBot Outdoor Spotlight Cam 2K instead, which is available on the SwitchBot official website.
+
+
+
+
+
+---
+### About the Battery Saving Mode of SwitchBot Outdoor Spotlight Cam 2K
+
+When used as a stand-alone device, the Outdoor Spotlight Cam 2K can last up to 180 days on a full charge. However, when paired with a SwitchBot Hub and set to “Record Events Only,” the camera will automatically connect to the hub via Bluetooth, effectively doubling the battery life.
+Note:
+1. Go to SwitchBot App -> Outdoor Spotlight Cam 2K -> Gear Icon -> Basic Settings -> Enbale battery saving mode.
+2. If the camera is set to “Pre-Event” recording or continuous recording, battery saving mode will not be active, even when using the hub. Which means battery saving mode is only automatically functioned when the camera is set to “Event Only ” and is connected to a hub. 
+How to set your camera to "Events Only": SwitchBot App → Outdoor Spotlight Cam 2K → Gear Icon in the upper right corner → Basic Settings → Recording Settings → Events Only
+3. In battery saving mode, the camera and hub communicate via Bluetooth, so please ensure that the distance between the two devices remains within Bluetooth range.
+4. The battery life estimates provided are based on testing with an average of 10 events per day in front of the camera. More frequent events will result in faster battery consumption. 
+
+
+
+
+
+
+
