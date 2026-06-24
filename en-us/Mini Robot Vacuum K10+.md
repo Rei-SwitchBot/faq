@@ -3400,3 +3400,15 @@ If you have any other questions, please do not hesitate to contact us.
 ### What Is the Height of Steps That SwitchBot Mini Robot Vacuum K10+ Can Climb Over?
 
 SwitchBot Mini Robot Vacuum K10+ can climb over steps up to 1.7 cm in height.
+
+---
+### Troubleshooting: The Schedule for SwitchBot Mini Robot Vacuum K10+ Automatically Turns Off or Even Disappears from the SwitchBot App.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the robot's faceplate, turn the power switch to "O", and then switch it back to "I" to restart the robot.
+2. Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
+Kindly note that after a reset, Wi-Fi information, scheduled cleaning, and maps will be automatically erased.
+Please watch the video below.
+https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
+
