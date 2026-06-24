@@ -588,3 +588,13 @@ Regarding this issue, could you please check the following points?
 If a Water Leak Detector alert is triggered, even if you manually dismiss it, the device will immediately reissue the alert if it still detects a water leak, prompting you to take action. However, if an alert is triggered and left unattended without dismissal, it will continue to repeat at the set intervals. This behavior is a built-in feature of the Water Leak Detector and is not a malfunction. 
 We apologize for any inconvenience this may cause and appreciate your understanding!
 If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: After Adding Water Leak Detector to the SwitchBot App, the Device Appears as Disconnected in the App When I Am Away from the Device.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+SwitchBot Water Leak Detector is designed with both Wi-Fi and Bluetooth Low Energy (BLE) capabilities. To conserve battery life, however, the Wi-Fi connection is only activated when the sensor detects water and triggers an alert. This means that, under normal circumstances, the Wi-Fi connection of Water Leak Detector remains turned off. Therefore, when you open the SwitchBot app to check the device while you are outside Bluetooth range, the device may appear disconnected. This is part of the product design and does not indicate a malfunction.
+We sincerely apologize for any inconvenience this may cause and appreciate your understanding.
+If you have any other questions, please do not hesitate to contact us.
+
