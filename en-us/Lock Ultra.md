@@ -769,3 +769,16 @@ Regarding this issue, could you please check the following points?
 1. Please check for any available firmware updates by going to SwitchBot app → Lock Ultra → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate your Lock Ultra before use.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
 2. The latest firmware for Lock Ultra supports automatic angle correction. If the locking or unlocking angle becomes misaligned, Lock Ultra can automatically correct the angle after being controlled to lock or unlock three times in a row. Please control Lock Ultra to lock or unlock three times in the SwitchBot app, then check whether it can lock and unlock normally.
+
+---
+### Troubleshooting No Action Was Taken, Yet SwitchBot Lock Ultra Suddenly Unlocked on Its Own.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+1. As smart locks directly impact both property and personal safety, we fully recognize that any instance of a lock opening automatically without user operation is a serious issue. To be sure, we would like to confirm whether you have enabled the "Auto-Unlock" feature on your Lock Ultra.
+https://support.switch-bot.com/hc/en-us/articles/25330863432727
+2. We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Whether Lock Ultra was actually unlocked.
+- A screenshot displaying the unlock logs, accessible via the SwitchBot app by navigating to Lock Ultra → Logs.
+- The time when the issue occurred.
+- A screenshot showing the unlock notification you received.
+
