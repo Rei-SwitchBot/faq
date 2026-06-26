@@ -342,5 +342,6 @@ Setup
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 Please check whether the device communication cable is connected in the wrong orientation. In the image below, the left side shows the incorrect connection, and the right side shows the correct connection. The raised part marked by the red box should face upward.
-[image1]
+<img width="925" height="681" alt="image" src="https://github.com/user-attachments/assets/54ecdf18-03e0-4af1-913e-c39278de32ad" />
+
 
