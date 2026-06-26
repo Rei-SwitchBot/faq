@@ -280,3 +280,12 @@ Setup
 4. Copy the setup code by going to Switch Bot App -> Your Lock Vision -> Gear Icon (Settings screen) -> Matter Setup.
 5. On the "How to Set Up Matter" screen, follow the on-screen instructions to copy the matter setup code.
 6. Open Google Home App -> Tap "Device" at the bottom of the menu bar -> Tap "Add" -> Tap "Matter-enabled device" -> Paste the code to continue the whole process.
+
+---
+### Troubleshooting: Unable to Add a Permanent Passcode on SwitchBot Lock Vision
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please check whether the device communication cable is connected in the wrong orientation. In the image below, the left side shows the incorrect connection, and the right side shows the correct connection. The raised part marked by the red box should face upward.
+[image1]
+

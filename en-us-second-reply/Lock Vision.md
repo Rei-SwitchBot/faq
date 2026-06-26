@@ -37,3 +37,16 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A video showing no lights on the exterior assembly after inserting the battery
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: Unable to Add a Permanent Passcode on SwitchBot Lock Vision
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Photos that clearly show the wiring connection.
+- A video showing the device's response when you try to add permanent passcodes.
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
