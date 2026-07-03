@@ -3139,3 +3139,10 @@ Please note that when a new version of the SwitchBot app is released, it is roll
 For Android users, if SwitchBot app V9.28 is not available in Google Play Store yet, please click the link below to download it:
 https://drive.google.com/file/d/1Tx5LJzlB17LKSJXi3roMlJPEvRC7dTxe/view?usp=drivesdk
 We sincerely apologize for the inconvenience. If you have any other questions, please do not hesitate to contact us.
+
+---
+### Which Apple Watch Models Can Control SwitchBot Lock?
+
+Apple Watch Series 2 or later models with watchOS 4.0 or later can be used to control Lock.
+Please note that when using Apple Watch to control Lock series products, the Apple Watch must be within Bluetooth range of the device.
+
