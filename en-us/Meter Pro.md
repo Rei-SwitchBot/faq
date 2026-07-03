@@ -382,3 +382,12 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+---
+### Troubleshooting SwitchBot Meter Pro Display is partially missing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the batteries from the Meter Pro and wait for about one minute.
+2. Power the Meter Pro back on.
+
