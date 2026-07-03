@@ -1439,3 +1439,12 @@ Also, while your KATA Friends is staying in the nest, it is not completely inact
 This is expected battery management behavior. It will not affect the normal usage time of your KATA Friends or the long-term health of the battery. Please feel free to use it with confidence.
 If you have any other questions, please do not hesitate to contact us.
 
+
+---
+### Troubleshooting: Purchased the Companion Care but Have Not Receive the Redemption Code Email.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Upon purchasing the companion care plan, you will receive a redemption code in the inbox of the email address used for the purchase. If you do not see the email in your inbox, please confirm that the email address is correct, or check your spam folder.
+2. Emails sent to Apple email addresses, such as mac.com, icloud.com, or me.com, may be rejected in some cases. To ensure that you can receive the redemption code successfully, we recommend using a non-Apple email address whenever possible.
+
