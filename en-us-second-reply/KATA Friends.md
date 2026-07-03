@@ -477,3 +477,37 @@ We will forward your feedback to our R&D team for further investigation and will
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
 
 *We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
+---
+### Troubleshooting SwitchBot KATA Friends Map Creation Failed
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
+*We kindly ask that you provide feedback via the SwitchBot app first if you haven't done so yet. This allows us to access the operation logs and investigate the issue more thoroughly for you.
+
+---
+### Troubleshooting SwitchBot KATA Friends Unable to Move
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing KATA Friends unable to move in a spacious area.
+- Screenshot of error message from SwitchBot App
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Suddenly Stops Moving While Playing
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- Screenshot of error message from SwitchBot App
+- The approximate time when the issue occurred
+- A photo of the KATA Friends eye icons taken at the time the issue occurred
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+

@@ -1366,3 +1366,113 @@ In Chat mode, you can use the voice commands listed in the link below to ask KAT
 https://support.switch-bot.com/hc/en-us/articles/40550206978711
 If a device cannot be controlled directly by voice command, you can create a SwitchBot Scene and ask KATA Friends to control that scene instead. This can help achieve the same result.
 https://support.switch-bot.com/hc/en-us/articles/19444800636183
+
+---
+### Can SwitchBot KATA Friends Remember Things?
+
+Yes. KATA Friends can build shared memories through daily interactions with its family, such as diaries, albums, and its own birthday.
+During conversations, KATA Friends can also remember personal preferences, important information, or small things you casually mention. These memories will not disappear when the conversation ends. Instead, they are saved as long-term memories.
+Note: To help KATA Friends stay with you more smoothly, please keep your KATA Friends firmware updated to the latest version.
+
+---
+### How to Activate the Purchased KATA Companion Care
+
+1. Upon completing your purchase, you will receive an email containing a redemption code.
+2. Open the SwitchBot app, tap on KATA Friends, tap the gear icon, enter the code in the Companion Care field, and your Companion Care will be activated automatically.
+Note: If you would like to request Health Check-ups or Full Grooming & Cleaning for your KATA Friends, please contact us by submitting feedback through the SwitchBot app.
+
+---
+### Important Notes Before Sending KATA Friends to SwitchBot Care Center
+
+Before sending your KATA Friends to the SwitchBot Care Center for hospitalization or a physical examination, please review the following notes.
+1. Before shipping it back, please confirm the issue with our support team first. Once the issue has been confirmed, please pause any related interactions or actions that may make the issue worse.
+2. Turn off your KATA Friends and remove any clothing, accessories, or external decorations before packing.
+3. You do not need to delete your KATA Friends from the SwitchBot app. If you have already deleted it, please make sure to use the same account when setting it up again next time.
+4. Please send back only the KATA Friends that needs to be checked. If the nest or other accessories are working normally, they do not need to be included.
+5. During the inspection or repair process, there is a very small chance that data loss may occur, which could cause your KATA Friends to lose some memories. Before sending it in, we recommend saving any important photos or data you would like to keep.
+6. During its stay at the Care Center, your KATA Friends may randomly record some diary information. This is normal and does not indicate an issue.
+7. Notes on Packaging:
+- Place the KATA Friends in a protective bag and use the original packaging box. Make sure that the box and all internal packing materials are intact.
+- Make sure that the transportation environment is between -20℃ and 60℃.
+- Avoid prolonged exposure to high temperatures or direct sunlight.
+- Do not pack it with hard objects.
+- For information on air transport precautions, please check with the airline.
+
+---
+### How Do SwitchBot KATA Friends Remember Family Members' Faces?
+
+KATA Friends can recognize faces through photos taken during daily use, such as random photos or photos taken through voice or gesture commands.
+When a family member's face is detected, the face photo will appear in the "Strangers" list on the Face Recognition page. You can add a name to the face photo so that KATA Friends can learn to recognize that person next time.
+**Setup path:** SwitchBot App > KATA Friends > Settings Gear Icon > Manage Faces > Strangers > Add New Person > Select the face photo you want KATA Friends to recognize > Enter a name and save
+**About face data:**
+- Photos and data used for face recognition are saved in your account.
+- Added face information can be viewed, edited, or deleted in the app at any time.
+- Face data is stored locally within your account. Once deleted, it cannot be restored, so please delete it with care.
+
+Note: KATA Friends cannot currently recognize different people by voice.
+
+---
+### Does SwitchBot KATA Friends Upload Data to the Cloud?
+
+Some KATA Friends features rely on cloud-based services to work properly. At this time, the following features require cloud support and may be affected if the Companion Care subscription is stopped or if the network connection is unstable:
+- Diary
+- Chat
+- Helper function
+- Memory function
+- Firmware updates
+Please rest assured that SwitchBot will never misuse customer data. For more details about how data is handled and protected, please refer to our privacy policy below:
+https://www.switch-bot.com/pages/switchbot-kata-friends-privacy-policy
+
+---
+### KATA Friends Usage Environment and Overheating Guidance
+
+**Placement**
+1. Place your KATA Friends away from areas exposed to direct sunlight, such as windows, balconies, or glass walls.
+2. Keep your KATA Friends away from heat sources, including radiators, heaters, computer exhaust vents, or other areas that stay warm for long periods.
+3. Use your KATA Friends in a well-ventilated area. Do not cover its head or eye screen area, and do not use it in enclosed spaces such as under blankets, inside closed cabinets, or inside a car.
+**Operating Temperature**
+1. We recommend using your KATA Friends in a room temperature environment between 5°C and 35°C.
+2. If the room temperature is above 35°C, avoid running high-load activities for long periods, such as frequent interaction, extended movement away from the nest, or interacting with your KATA Friends while it is charging.
+3. If the eye screens reach 50°C or higher, your KATA Friends is operating under a high-load condition. In this case, switch it to Sleep Mode or turn it off and allow it to cool down.
+4. If the surface temperature feels too hot to touch or exceeds 55°C, stop using your KATA Friends immediately, turn it off, and let it cool down before using it again.
+**What to Do If Your KATA Friends Becomes Unusually Hot, Starts to Lag, or Shows an Abnormal Eye Screen Display**
+1. Press and hold the power button to turn it off.
+2. Move your KATA Friends to a cool, well-ventilated place and leave it uncovered. Do not cover it with towels or clothing, and do not use ice, a refrigerator, or any other rapid cooling method.
+3. Let your KATA Friends rest for about 30 minutes, or until it has fully cooled down to room temperature, before turning it on again.
+4. During hot summer weather, avoid leaving your KATA Friends outdoors or in any high-temperature environment for long periods. If it has been moved from a hot outdoor area into an air-conditioned room, do not turn it on immediately. Let it rest for about 30 minutes before use.
+5. If your KATA Friends still feels unusually hot or does not return to normal after following the steps above, please contact us so we can help check whether there may be an issue.
+
+
+---
+### Troubleshooting SwitchBot KATA Friends Map Creation Failed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Do not move the KATA Friends during mapping as it may fail to detect the position.
+2. Remove obstacles in front of and around the nest to ensure there is enough space for the KATA Friends to map.
+3. Return to the home screen of the SwitchBot app and check for any map update failures caused by network issues.
+4. Please confirm whether KATA Friends started mapping from the nest and successfully returned to the nest after mapping was completed.
+
+---
+### Troubleshooting SwitchBot KATA Friends Unable to Move
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+1. Please check the wheels and casters for any debris, such as hair, that could cause jams. If necessary, clean the wheels manually.
+https://support.switch-bot.com/hc/en-us/articles/38040453568663
+2. Clean the obstacle avoidance and cliff sensors with a soft cloth.
+https://support.switch-bot.com/hc/en-us/articles/38040725412247
+3. KATA Friends may stop moving when it detects an obstacle. Please place your KATA Friends in an open area and check whether it can move normally.
+4. KATA Friends will stop moving while it is resting. After your KATA Friends has finished resting, please try giving it a voice command or gesture command and check whether it responds normally.
+
+---
+### Troubleshooting: SwitchBot KATA Friends Suddenly Stops Moving While Playing
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. If the sensors are blocked, KATA Friends may mistakenly think it is being picked up or that someone is about to pick it up, which may cause it to stop moving. Gently pick it up once, then place it back on a flat, open floor and wait for it to reorient itself.
+2. The wheels may be tangled with hair, dust, or other foreign objects. Please check and clean the wheels in time. If needed, you can also send your KATA Friends in for maintenance.
+https://support.switch-bot.com/hc/en-us/articles/38040453568663
+3. If KATA Friends moves into an unknown area outside the saved map, it may become confused and have trouble locating itself. As a result, it may move more slowly, act more cautiously, or even stop moving. Please make sure your KATA Friends plays within the saved map area.
+4. Restart your KATA Friends, then try again.
+
