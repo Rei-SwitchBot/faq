@@ -5,15 +5,6 @@
 ---
 
 ---
-### Troubleshooting SwitchBot Meter Pro Display is partially missing
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Remove the batteries from the Meter Pro and wait for about one minute.
-2. Power the Meter Pro back on.
-
-
----
 ### Troubleshooting SwitchBot Meter Pro Doesn't Appear in Alexa App
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -369,17 +360,6 @@ Regarding this issue, could you please check the following points?
 4. Set the button function to "Change Display Unit & Refresh Data" by navigating to the SwitchBot app, selecting Meter Pro, tapping the gear icon, and choosing Top Button Function.
 
 <img width="1280" height="1079" alt="image" src="https://github.com/user-attachments/assets/c840d574-816a-40bb-b1f4-6285f42f3f61" />
-
-
-
-
-
-
-
-
-
-
-
 
 
 
