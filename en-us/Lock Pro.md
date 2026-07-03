@@ -2459,3 +2459,10 @@ Regarding this issue, could you please check the following points?
 1. Automatic switching between Battery Compartments A and B is triggered only when the rechargeable battery level falls below 20%. If the battery level is still above this threshold, the rechargeable battery will not switch automatically. We appreciate your understanding.
 2. Please check for any available firmware updates by going to SwitchBot app → Lock Pro → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device. After the firmware update is complete, please recalibrate your Lock Pro before use.
 *If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+
+---
+### Which Apple Watch Models Can Control SwitchBot Lock Pro?
+
+Apple Watch Series 2 or later models with watchOS 4.0 or later can be used to control Lock Pro.
+Please note that when using Apple Watch to control Lock series products, the Apple Watch must be within Bluetooth range of the device.
+
