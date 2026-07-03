@@ -180,3 +180,17 @@ SwitchBot Outdoor Pan/Tilt Cam 3K uses a DC5521 power connector. The power adapt
 SwitchBot Outdoor Pan Tilt Cam 3K is water-resistant, but the power plug connection is not waterproof. If you need to plug it into an outdoor outlet, please make sure the power plug and connection area do not come into contact with water.
 Please note that SwitchBot cannot be held responsible if the product becomes damaged or unusable due to water entering through the power plug connection as a result of insufficient waterproof protection. We appreciate your understanding.
 
+
+---
+### What Type of microSD Card Can Be Used with SwitchBot Outdoor Pan Tilt Cam 3K?
+
+SwitchBot Outdoor Pan Tilt Cam 3K supports microSD cards with a capacity from **4 GB to 512 GB**. We recommend using microSD cards from **Kioxia, SanDisk, Samsung, Kingston, or SwitchBot**. Please choose the card capacity based on your daily recording needs.
+
+
+---
+### Can I Use an Extension Power Cable with SwitchBot Outdoor Pan Tilt Cam 3K?
+
+Based on testing by SwitchBot Lab, a 10-meter extension power cable can supply power to the camera normally. However, waterproof performance cannot always be guaranteed when an extension cable is used.
+For this reason, we do not recommend using an extension power cable. If you still need to use one, please make sure it uses a pure copper core and has proper waterproof protection.
+Please note that SwitchBot cannot be held responsible if the camera becomes damaged due to water entering the device as a result of insufficient waterproof protection on a third-party extension cable.
+
