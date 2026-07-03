@@ -1428,3 +1428,14 @@ https://support.switch-bot.com/hc/en-us/articles/38040453568663
 3. If KATA Friends moves into an unknown area outside the saved map, it may become confused and have trouble locating itself. As a result, it may move more slowly, act more cautiously, or even stop moving. Please make sure your KATA Friends plays within the saved map area.
 4. Restart your KATA Friends, then try again.
 
+
+---
+### Troubleshooting: SwitchBot KATA Friends Is Fully Charged, but the Battery Level Drops by a Few Percent Shortly After Leaving the Nest
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+This is part of KATA Friends' normal battery management behavior. To help protect the battery and extend its lifespan, KATA Friends enters a battery protection state when the battery is close to fully charged. In this state, it does not keep the battery at the highest charging voltage for a long time. Because of this, when the battery is nearly full, the SwitchBot app may show 100%. This means your KATA Friends is ready for normal use, and there is no need to keep waiting for it to charge.
+Also, while your KATA Friends is staying in the nest, it is not completely inactive. It still maintains standby functions and some system processes. After you take it out of the nest, this small amount of power usage may be reflected first, so the battery level may appear to drop a little faster during the first few minutes. Once the battery level returns to its regular usage range, power consumption will become more stable.
+This is expected battery management behavior. It will not affect the normal usage time of your KATA Friends or the long-term health of the battery. Please feel free to use it with confidence.
+If you have any other questions, please do not hesitate to contact us.
+
