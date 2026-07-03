@@ -297,3 +297,10 @@ Please check whether the device communication cable is connected in the wrong or
 Please click the link below to learn how to drill the holes correctly and watch the Lock Vision installation video.
 https://support.switch-bot.com/hc/en-us/articles/35772017675287
 
+
+---
+### How to Add and Calibrate SwitchBot Lock Vision in SwitchBot App
+
+Please click the link below to learn how to add and calibrate SwitchBot Lock Vision in SwitchBot App.
+https://support.switch-bot.com/hc/en-us/articles/35772043003671
+
