@@ -182,16 +182,6 @@ Dock the KATA Friends in its nest and let it rest for about 30 minutes before at
 
 
 ---
-### Troubleshooting SwitchBot KATA Friends Map Creation Failed
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Do not move the KATA Friends during mapping as it may fail to detect the position.
-2. Remove obstacles in front of and around the nest to ensure there is enough space for the KATA Friends to map.
-3. Return to the home screen of the SwitchBot app and check for any map update failures caused by network issues.
-
-
----
 ### Troubleshooting SwitchBot KATA Friends Does Not Return to the Nest
 
 Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
@@ -367,16 +357,6 @@ Regarding this issue, could you please check the following points?
 2. Clean the obstacle avoidance and cliff sensors with a soft cloth.
 3. Please confirm that KATA Friends have not encountered any dark-colored carpeted areas while walking. Dark carpets can be mistaken for stairs, triggering the cliff sensor and causing KATA Friends to move backward. Therefore, it is recommended to designate dark-colored carpeted areas as no-entry zones.
 4. Please check whether KATA Friends continuously move backward in a more open space.
-
-
----
-### Troubleshooting SwitchBot KATA Friends Unable to Move
-
-Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
-Regarding this issue, could you please check the following points?
-1. Please check the wheels and casters for any debris, such as hair, that could cause jams. If necessary, clean the wheels manually.
-2. Clean the obstacle avoidance and cliff sensors with a soft cloth.
-3. Please check if the KATA Friends can move in a wider space.
 
 
 ---
@@ -572,12 +552,6 @@ Regarding this issue, could you please check the following points?
 ### Can SwitchBot KATA Friends Be Used without Purchasing the KATA Companion Care?
 
 Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience software services without an immediate subscription. However, once this trial period ends, your KATA Friends will enter "Dormant Mode". In this state, app features will be disabled, making daily operation and communication unavailable.
-
-
----
-### How to Activate the Purchased KATA Companion Care
-
-Upon completing your purchase, you will receive an email containing a redemption code. Open the SwitchBot app, enter the code in the designated field, and your Companion Care will be activated automatically.
 
 
 ---
@@ -1250,16 +1224,6 @@ Regarding this issue, could you please check the following points?
 1. Return to the home screen of the SwitchBot app and check for any map update failures caused by network issues.
 2. Please confirm whether KATA Friends started mapping from the nest and successfully returned to the nest after mapping was completed.
 
----
-### How Do SwitchBot KATA Friends Remember Family Members' Faces?
-
-KATA Friends can recognize faces through photos taken during daily use, such as random photos or photos taken through voice or gesture commands.
-When a family member's face is detected, the face photo will appear in the "Strangers" list on the Face Recognition page. You can add a name to the face photo so that KATA Friends can learn to recognize that person next time.
-**Setup path:** SwitchBot App > KATA Friends > Settings Gear Icon > Manage Faces > Strangers > Add New Person > Select the face photo you want KATA Friends to recognize > Enter a name and save
-**About face data:**
-- Photos and data used for face recognition are saved in your account.
-- Added face information can be viewed, edited, or deleted in the app at any time.
-- Face data is stored locally within your account. Once deleted, it cannot be restored, so please delete it with care.
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Sometimes Brushes Against Walls or Furniture with Its Back or Tail
@@ -1280,18 +1244,6 @@ Regarding this issue, could you please check the following points?
 2. In rare cases, photos taken while KATA Friends is moving quickly may appear slightly blurry. This can happen during active play or movement and does not necessarily indicate a malfunction.
 3. KATA Friends has a basic camera of approximately 2 megapixels, with image clarity close to 1080P. It is designed mainly for close-range face recognition and basic scene awareness during daily companion use, rather than high-resolution photography. As a result, photos may not look as sharp as those taken with a smartphone or dedicated camera. We appreciate your understanding.
 If you have any other questions, please do not hesitate to contact us.
-
----
-### Does SwitchBot KATA Friends Upload Data to the Cloud?
-
-Some KATA Friends features rely on cloud-based services to work properly. At this time, the following features require cloud support and may be affected if the Companion Care subscription is stopped or if the network connection is unstable:
-- Diary
-- Chat
-- Helper function
-- Memory function
-- Firmware updates
-Please rest assured that SwitchBot will never misuse customer data. For more details about how data is handled and protected, please refer to our privacy policy below:
-https://www.switch-bot.com/pages/switchbot-kata-friends-privacy-policy
 
 ---
 ### How to Check SwitchBot KATA Friends' Birthday in SwitchBot App
