@@ -773,3 +773,18 @@ https://support.switch-bot.com/hc/en-us/articles/25330863432727
 - The time when the issue occurred.
 - A screenshot showing the unlock notification you received.
 
+
+---
+### Do I Need a Hub to Control SwitchBot Lock Ultra Remotely?
+
+Yes. A SwitchBot Hub product is required if you want to control Lock Ultra remotely.
+Place Lock Ultra near the Hub, and Lock Ultra will automatically connect to the Hub. After that, as long as your phone can use the SwitchBot app normally and the Hub is connected to a stable network, you can remotely control Lock Ultra anytime, from anywhere.
+Please note that other Lock products (Lock, Lock Pro) also require a hub for remote control.
+
+
+---
+### Which Apple Watch Models Can Control SwitchBot Lock Ultra?
+
+Apple Watch Series 2 or later models with watchOS 4.0 or later can be used to control Lock Ultra.
+Please note that when using Apple Watch to control Lock series products, the Apple Watch must be within Bluetooth range of the device.
+
