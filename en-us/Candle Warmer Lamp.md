@@ -217,3 +217,14 @@ Regarding this issue, could you please check the following points?
 4. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire" in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
 5. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
+
+---
+### Troubleshooting: Apple Home Automation Can Turn On SwitchBot Candle Warmer Lamp, but It Cannot Adjust Its Brightness.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+After checking this with our R&D team, we found that this behavior is related to how Apple Home currently handles certain automation commands.
+At this time, Apple Home may be able to turn on the light through automation, but it may not properly send the command to adjust the brightness. As a result, you may see a brightness level shown in the Apple Home app, but the light itself does not actually change to that brightness.
+We understand that this can be confusing, and we are sorry for the inconvenience it has caused. We will continue to work with Apple Home and follow up on possible improvements.
+If this issue is urgent for your setup, we also recommend contacting Apple Support directly for further assistance.
+
