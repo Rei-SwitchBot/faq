@@ -345,3 +345,17 @@ Please check whether the device communication cable is connected in the wrong or
 <img width="925" height="681" alt="image" src="https://github.com/user-attachments/assets/54ecdf18-03e0-4af1-913e-c39278de32ad" />
 
 
+
+---
+### How to Install SwitchBot Lock Vision Pro
+
+Please click the link below to learn how to drill the holes correctly and watch the Lock Vision Pro installation video.
+https://support.switch-bot.com/hc/en-us/articles/35772017675287
+
+
+---
+### How to Add and Calibrate SwitchBot Lock Vision Pro in SwitchBot App
+
+Please click the link below to learn how to add and calibrate SwitchBot Lock Vision Pro in SwitchBot App.
+https://support.switch-bot.com/hc/en-us/articles/35772043003671
+
