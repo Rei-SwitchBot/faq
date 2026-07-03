@@ -290,3 +290,10 @@ Please check whether the device communication cable is connected in the wrong or
 <img width="925" height="681" alt="image" src="https://github.com/user-attachments/assets/d0a96589-865d-41dd-8e47-7550904fb7c8" />
 
 
+
+---
+### How to Install SwitchBot Lock Vision
+
+Please click the link below to learn how to drill the holes correctly and watch the Lock Vision installation video.
+https://support.switch-bot.com/hc/en-us/articles/35772017675287
+
