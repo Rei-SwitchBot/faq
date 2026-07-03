@@ -729,3 +729,12 @@ Regarding this issue, could you please provide us with a video showing the issue
 
 We apologize for the inconvenience, but SwitchBot Lab does not currently have specific test data showing after how many charging cycles the battery capacity may drop to 80%.
 Please rest assured that if your device battery experiences any issue within the warranty period, we will provide the appropriate after-sales support in accordance with our warranty policy.
+
+---
+### Troubleshooting: SwitchBot Battery Circulator Fan Can Be Turned On with the Power Button, but It Cannot Be Turned Off with the Same Button.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Unplug the power cable from the Circulator Fan, then turn the power switch on the bottom to OFF. Wait for 10 minutes, then turn the power switch back to ON.
+2. During normal use, please tap the buttons on the control panel lightly. Do not press and hold the buttons.
+

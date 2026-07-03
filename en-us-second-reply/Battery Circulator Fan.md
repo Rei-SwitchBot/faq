@@ -336,3 +336,15 @@ We will arrange a replacement for you under the warranty. To expedite shipment, 
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
+---
+### Troubleshooting: SwitchBot Battery Circulator Fan Can Be Turned On with the Power Button, but It Cannot Be Turned Off with the Same Button.
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A video showing that the Circulator Fan can be turned on with the power button, but cannot be turned off with the same button.
+
+*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
