@@ -255,3 +255,71 @@ If you have any questions, please submit feedback through the SwitchBot app and 
 ### Can the "Try OpenClaw" Message on SwitchBot AI Hub Screen in SwitchBot App Be Displayed Again After It Is Closed?
 
 If you close the "Try OpenClaw" message on the AI Hub screen in the SwitchBot App, it cannot be displayed again due to system limitations. **To show this message again, you would need to uninstall and reinstall the SwitchBot app.** However, you can still set up OpenClaw by going to the AI Hub settings page and tapping the "OpenClaw Setup" button.
+
+---
+### How to Link SwitchBot Cameras to SwitchBot AI Hub
+
+1. Make sure your SwitchBot App version is up to date.
+2. Make sure SwitchBot cameras and AI Hub have been added to your App.
+3. Once the AI Hub pairing is complete, the SwitchBot app will prompt you to format the microSD card. Please proceed with the formatting.
+4. The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, Outdoor Pan Tilt Cam 3K and the Smart Video Doorbell. Other camera models cannot be registered with the AI Hub. Thank you for your understanding.
+5. Go to SwitchBot app → Cameras/Video Doorbell → Gear icon → More Features → "Camera Account" to create an account and password.
+6. Go to SwitchBot app → AI Hub → tap the camera addition icon in the bottom menu bar → tap the "+" on the left side of the camera to save. If you have not created an account and password for your camera, selecting the camera will automatically redirect you to the account creation screen. Please create an account first, then try registering the camera in the AI Hub again.
+
+Note:
+RTSP-compatible cameras from other manufacturers can also be added to the AI Hub.
+You can add up to 8 cameras to the AI hub.
+
+---
+### Which SwitchBot Cameras Are Compatible with SwitchBot Hub?
+
+The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, Outdoor Pan Tilt Cam 3K and the Smart Video Doorbell.
+Unfortunately, the traditional camera series listed below are not supported for addition to the AI Hub. We apologize for any inconvenience and appreciate your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+Note:
+Up to 8 cameras can be added to the AI Hub.
+
+---
+### Is It Possible to Add Non-SwitchBot Cameras to SwitchBot Al Hub?
+
+**Yes**, RTSP-compatible cameras from other manufacturers can also be added to the AI Hub. To do this, open the SwitchBot app, go to AI Hub, tap the camera addition icon in the bottom menu bar, and select Add Third-Party Camera to add your cameras.
+
+Note:
+Up to 8 cameras can be added to the AI Hub.
+The SwitchBot cameras compatible with the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, Outdoor Pan Tilt Cam 3K and the Smart Video Doorbell. Unfortunately, the traditional camera series listed below are not supported for addition to the AI Hub. We apologize for any inconvenience and appreciate your understanding.
+- Indoor Cam
+- Pan Tilt Cam
+- Pan Tilt Cam 2K
+- Outdoor Spotlight Cam
+- Outdoor Spotlight Cam 2K
+
+
+---
+### Troubleshooting Failed to Link SwitchBot Cameras to SwitchBot AI Hub
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, Outdoor Pan Tilt Cam 3K and the Smart Video Doorbell. Other camera models cannot be registered with the AI Hub. Thank you for your understanding.
+2. Make sure that the AI hub and the cameras are on the same local network.
+3. Before adding the AI Hub to the SwitchBot app, please insert the included microSD card into the AI Hub.
+4. Once the AI Hub pairing is complete, the SwitchBot app will prompt you to format the microSD card. Please proceed with the formatting. You can also format the microSD card by going to SwitchBot app → AI Hub → Gear icon → Local Storage.
+
+---
+### Troubleshooting: When Chatting with OpenClaw, It Keeps Showing "Bootstrap Pending".
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Please set up OpenClaw again by following the steps below.
+1. Open the SwitchBot app and log in.
+2. On the AI Hub settings page, tap "OpenClaw Setup".
+3. Tap "Setup URL".
+4. Tap "Basic Configuration".
+5. Tap "Reinitialize", then tap "Confirm". This will initialize OpenClaw.
+6. After initialization is complete, please wait for a while until the "One-Click Setup" button appears on the screen. Tap it and wait for a while, and the screen will switch to the next page.
+7. Once OpenClaw is fully ready, tap the "Open OpenClaw" button to go to the chat screen. On the chat screen, enter "hello". If you receive a reply from the bot, all settings have been completed.
+
