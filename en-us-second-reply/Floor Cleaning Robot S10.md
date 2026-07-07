@@ -941,3 +941,23 @@ If it is a case other than those mentioned above, our R&D team will investigate 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Stuck Frequently
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+Remove the Waste Water Collection Gutter and take a photo of the back of the unit.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Roller Mop Doesn't Get Wet and SwitchBot Floor Cleaning Robot S10 Isn't Mopping
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+
