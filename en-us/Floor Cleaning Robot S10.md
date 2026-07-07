@@ -1446,36 +1446,6 @@ Related Post:
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Auto-refill Failed
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
-2. Make sure that the fresh water hose is not damaged or folded.
-3. Make sure that the water station's auto-fill port is attached and undamaged.
-
-<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/51322aa1-2182-47fb-af12-772adf001b51" />
-
-4. Refer to the linked video and check for any unusual noises by shaking the water station up and down. If you hear a rattling noise, the water station is malfunctioning and needs to be repaired or replaced.
-[https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing](https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing)
-5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-6. Please refer to the video below to verify whether your S10 robot ’s fresh water pump is functioning correctly.
-[https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing](https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing)
-Tips:
-  1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
-
-<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/c2ebbce7-7d13-4f7b-86e6-ee2d4a26311d" />
-
-  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
-
-7. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot’s water inlet, as shown in the video below, improves the situation.
-Video: [https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing](https://drive.google.com/file/d/1P7B8DG3UlwuEYzMf7lUCNV1mf20weTF3/view?usp=sharing)
-
-
-
----
 ### Why Is There Water in the Water Station of My Newly Purchased SwitchBot Floor Cleaning Robot S10?
 
 Last Updated：
@@ -1757,36 +1727,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Auto-refill Failed
-
-1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
-2. Make sure that the fresh water hose is not damaged or folded.
-3. Make sure that the water station's auto-fill port is attached and undamaged.
-
-![image](https://github.com/user-attachments/assets/f058d374-8d0d-45c8-b5c9-360c46875b67)
-
-4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
-https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
-5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-6. Please refer to the video below to verify whether your water station’s fresh water pump is functioning correctly.
-https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
-Tips:
-  a. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  b. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
-
-![image](https://github.com/user-attachments/assets/1c34b334-9914-41c0-8b0b-9b974f5ffa9a)
-
-  c. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  d. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
-
-7. If the above does not improve the situation, we will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
-- A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
-- Photos showing fresh water hose and sewage hose in place
-- How long after using the Water Station is unable to auto-refill
-- A video demonstrating the testing of the fresh water pump (step 6)
-
-
----
 ### Troubleshooting My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping
 
 1. Make sure your SwitchBot App version is up to date.
@@ -1842,29 +1782,6 @@ Regarding this issue, could you please check the following points?
 2. Remove the robot's faceplate and restart it.
 2. Please clean your robot's cliff sensors with a soft cloth.
 3. Press the Clean button in SwitchBot App and check if the robot starts properly.
-
-
----
-### Troubleshooting One of SwitchBot Floor Cleaning Robot S10's Wheels Is Not Functioning
-
-Thank you for reaching out to us. 
-We’re sorry to hear that your SwitchBot Floor Cleaning Robot S10 is experiencing an issue where it spins in circles and cannot move in a straight line.
-If only one drive wheel is rotating, your S10 may need to be repaired or replaced. To help us diagnose the problem, could you please check the following points?
-1. Please go to SwitchBot App -> S10 -> Gear Icon (settings) -> More Features -> Manual Control to control your robot to check if it can move in a straight line.
-2. Could you please send us a video showing the robot spinning in circles and not moving straight?
-3. If repair or replacement is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
 ---
@@ -2443,38 +2360,6 @@ You can use adhesive tape to secure the rug to the floor. This will prevent the 
 
 We deeply apologize for any inconvenience this may have caused and appreciate your understanding as we work to improve our products. If you have any further questions or concerns, please don’t hesitate to contact us.
 
----
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Auto-refill Failed
-
-1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
-2. Make sure that the fresh water hose is not damaged or folded.
-3. Make sure that the water station's auto-fill port is attached and undamaged.
-
-![image](https://github.com/user-attachments/assets/247fd393-e9a1-412a-ac0c-feb42067cac2)
-
-4. Refer to the linked video and check for any unusual noises by shaking the water station up and down.
-https://drive.google.com/file/d/1lawg6mvyKEhUb0SUp6_wgmYd1zdMWjOR/view?usp=sharing
-5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
-6. Please refer to the video below to verify whether your S10 robot ’s fresh water pump is functioning correctly.
-https://drive.google.com/file/d/1aNJU4Y98e76KhYFbqv0S0GxijqwfTvi-/view?usp=sharing
-Tips:
-  1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-  2. Press the mode switch button once, then the fresh water pump should start running, and you’ll hear its sound. Place your finger over the fresh water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
-
-![image](https://github.com/user-attachments/assets/6ebcf00e-651c-4222-a94c-84ec7eff3891)
-
-  3. If the pump doesn’t make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-  4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
-
-
-7. If the above does not improve the situation, please feel free to contact us again. We will forward your feedback to our R&D team for further assistance. When reaching us, it would be helpful if you could provide us with the following information below.
-- A video demonstrating the water auto-fill failure. (Note: The video should include sound.)
-- Photos showing fresh water hose and sewage hose in place
-- How long after using the Water Station is unable to auto-refill
-- A video showing the Water Station being shaken up and down with force (step 4)
-- A video demonstrating the testing of the fresh water pump (step 6)
-
-
 
 ---
 ### SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
@@ -2948,23 +2833,6 @@ We apologize for any inconvenience this may cause and appreciate your understand
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 not recognizing the water station
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Press the Bluetooth button on the side of the water station to check for any light indicators. If no lights appear, the station may need charging. Use a 5V3A charging cable to charge the station for 0.5 to 1 hour.
-2. Press and hold the Bluetooth Reset Button for 6 seconds until the indicator light flashes white to confirm it is activated.
-3. Gently clean the charging contacts of the water station with tissue paper.
-4. If you have replaced the S10 main unit or the water station, you will need to manually pair the S10 with the water station via Bluetooth.
-[https://support.switch-bot.com/hc/en-us/articles/25122838665111](https://support.switch-bot.com/hc/en-us/articles/25122838665111-How-to-Re-pair-the-Floor-Cleaning-Robot-S10-with-the-Water-Station)
-5. When marking the water station on SwitchBot App, make sure to drag the water drop mark icon to the front (about 1 meter) of the actual location of the Water Station.
-6. If any water stations are linked to the S10, please unlink them all and then mark the water station again.
-[https://support.switch-bot.com/hc/en-us/articles/28128059735959](https://support.switch-bot.com/hc/en-us/articles/28128059735959-How-to-Unpair-the-Water-Station-from-SwitchBot-Floor-Cleaning-Robot-S10)
-
-
-
-
----
 ### Is It Possible to Pair Multiple Auto-empty Stations for One Floor Cleaning Robot S10?
 
 In the case of multi-floor use, it is possible to install multiple water stations and pair them on each floor. However, one S10 robot cannot be paired with multiple auto-empty stations. Please manually carry the S10 to a different floor for cleaning, then dock it at the auto-empty station for waste collection.
@@ -3196,37 +3064,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Leaves a Few Centimeters of Water Drops While Mopping the Floor
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
-<img width="1198" height="355" alt="image" src="https://github.com/user-attachments/assets/84cc0d0c-3438-4321-b68c-14df964ed013" />
-
-Maintenance video 1: https://www.youtube.com/watch?v=ikUtZlHQUQU
-Maintenance video 2: https://drive.google.com/file/d/1JMtJ7sA5jbO_kTp2nhE2CZXunxSfQZnR/view?usp=sharing
-2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
-<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/72ee8c70-05f6-4d7e-bdb6-85619631ee51" />
-
-<img width="900" height="604" alt="image" src="https://github.com/user-attachments/assets/d25c272a-1109-40c2-86aa-3dbc0fcd24fa" />
-
-3. Make sure you are using the latest firmware version for the S10. Check for updates by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery.
-4. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
-<img width="761" height="222" alt="image" src="https://github.com/user-attachments/assets/816354f5-64ca-4e20-bb69-434dde6341a6" />
-
-5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
-6. Please refer to the video below to verify whether your S10 robot's waste water pump is functioning correctly.
-Video: https://drive.google.com/file/d/1jnkCizT25hVGdjElFcLfWaZ39OJrB_Ra/view?usp=sharing
-Tips:
-1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
-2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the waste water outlet (hole shown in the figure below) for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
-<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/c5e6f5f0-64cd-423f-a115-8f4f699f488b" />
-
-3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
-4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
-
-
----
 ### How to Set up Carpet Cleaning for SwitchBot Floor Cleaning Robot S10
 
 1. You can set up carpet cleaning for your S10 in the following order:
@@ -3343,22 +3180,27 @@ https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drive
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please check the roller mop, mop case and waste water collection gutter for foreign matter. If necessary, please clean them manually.
-[image1]
+<img width="1198" height="355" alt="image" src="https://github.com/user-attachments/assets/fc21125b-b240-4665-b9b4-b8642b4109cd" />
+
 Maintenance video 1: https://www.youtube.com/watch?v=ikUtZlHQUQU
 Maintenance video 2: https://drive.google.com/file/d/1HNgZoJ532o7CjmVydpPpLYUahE97z_Wz/view?usp=drivesdk
 2. After removing the waste water collection gutter, you can see a metal wiper. Use a screwdriver to remove it and clean it manually.
-[image2]
-[image3]
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/2aafbbe2-1e6d-49b8-84df-6b0184a72d0f" />
+
+<img width="900" height="604" alt="image" src="https://github.com/user-attachments/assets/eac2f4e1-5a47-4591-816c-a0cde11efbda" />
+
 3. Make sure you are using the latest firmware version for the S10. Check for updates by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery.
 4. Please check if there are any signs of wastewater passing through the inside of the wastewater box. Additionally, inspect the sealing strip on the lid of the wastewater box to ensure it is clean and undamaged. Dirt, mold, or damage to the sealing strip could affect the wastewater drainage process.
-[image4]
+<img width="761" height="222" alt="image" src="https://github.com/user-attachments/assets/ec42fee4-6606-4612-bef0-f15d7ab7421a" />
+
 5. Although it may be unlikely, if the floor is not flat, some water may splash when draining sewage with wipers.
 6. Please refer to the video below to verify whether your S10 robot's waste water pump is functioning correctly.
 Video: https://drive.google.com/file/d/1u5lWqMinpjv-jTDY40hUBnJ-RBT5hj8S/view?usp=drivesdk
 Tips:
 1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
 2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the waste water outlet for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
-[image5]
+<img width="687" height="849" alt="image" src="https://github.com/user-attachments/assets/4c024535-9aad-4c50-8175-feb715b161a9" />
+
 3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
 4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 
@@ -3421,7 +3263,8 @@ Regarding this issue, could you please check the following points?
 1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
 2. Make sure that the fresh water hose is not damaged or folded.
 3. Make sure that the water station's auto-fill port is attached and undamaged.
-[image1]
+<img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/bb51afc7-a4ce-4c2a-a906-6658fb195c88" />
+
 4. Refer to the linked video and check for any unusual noises by shaking the water station up and down. If you hear a rattling noise, the water station is malfunctioning and needs to be repaired or replaced.
 https://drive.google.com/file/d/1lBYhplCH5tTm9dZfkMNe0cmS5_21-Vzz/view?usp=drivesdk
 5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
@@ -3430,7 +3273,8 @@ https://drive.google.com/file/d/1ZOHfoqlAOGMW70ERoygf55i92Up_B7xx/view?usp=drive
 Tips:
 1. Keep the S10 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
 2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the fresh water outlet for 3~4 seconds with force at the back of the S10 to check if you can hear airflow or feel suction.
-[image2]
+<img width="973" height="494" alt="image" src="https://github.com/user-attachments/assets/bbfa04e0-2498-4bcd-9152-c41ceec9e7ca" />
+
 3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
 4. Turn off the power switch (O), then turn it back on (I), and the S10 will return to normal operation.
 7. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot's water inlet, as shown in the video below, improves the situation.
