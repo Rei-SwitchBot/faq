@@ -375,3 +375,20 @@ AIアートキャンバスの外枠サイズとスクリーンサイズを案内
 3. 31.5インチのAIアートキャンバスを壁に掛けます。
 参考動画：https://drive.google.com/file/d/1KUMrDT0Cdpia3o2rEAcO6wdd5Aijx9_2/view?usp=drivesdk
 
+
+---
+### 粘着フックで7.3インチおよび13.3インチのAIアートキャンバスを壁に掛ける方法
+
+ご自宅の壁面がタイル、木製、ガラスなど、滑らかで硬い表面の場合は、粘着フックを使用してAIアートキャンバス（7.3インチと13.3インチ）を壁に掛けることができます。詳細は以下となります。
+1. 動画のように剥離紙を剥がし、粘着フックを壁面に貼り付けた後、24時間ほどそのままにして接着剤を完全に固化させてください。
+動画：https://drive.google.com/file/d/1fLg0vcWWViENZCYCYTtdRJ4jAGpmUVZM/view?usp=drivesdk
+2. 縦向きに掛ける場合：動画の通り、AIアートキャンバス背面のフック金具を粘着フックに引っ掛けてください。
+動画：https://drive.google.com/file/d/14p1Gr_jAxbb4-KQidKVkpO3a-WOpoijk/view?usp=drivesdk
+3. 横向きに掛ける場合：動画の通り、AIアートキャンバス本体フレームの端を粘着フックに引っ掛けてください。
+動画：https://drive.google.com/file/d/16WRepoW7rUTkLnm68EZUvwSGaAgiGQEZ/view?usp=drivesdk
+
+注意事項：
+1. 横向きに掛ける際は、背面の金具ではなく、フレームの端を粘着フックに引っ掛けてください。
+2. 白い壁や壁紙、または劣化により粉が吹いている壁、さらには表面が平らでない壁面については、壁掛け用のネジをご利用いただくようお願いいたします。
+3. 31.5インチモデルは重量があるため、粘着フックではなく、壁掛け用フックをご使用ください。
+

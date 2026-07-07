@@ -351,3 +351,23 @@ Video: https://drive.google.com/file/d/1oTYl2WXQZf_36C3FnqGByMycSLdSG1x4/view?us
 3. Hang the 31.5-inch AI Art Frame on the wall.
 Video: https://drive.google.com/file/d/1KUMrDT0Cdpia3o2rEAcO6wdd5Aijx9_2/view?usp=drivesdk
 
+
+---
+### How to Hang the 7.3-Inch and 13.3-Inch SwitchBot AI Art Frame on a Wall Using Adhesive Hooks
+
+If the wall in your home has a smooth and hard surface, such as tile, wood, or glass, you can use adhesive hooks to hang the AI art canvas (7.3-inch and 13.3-inch) on the wall. Please see the details below.
+
+1. Peel off the release paper and stick the adhesive hook to the wall as shown in the video. After that, leave it as is for about 24 hours to allow the adhesive to fully cure.
+Video: https://drive.google.com/file/d/1fLg0vcWWViENZCYCYTtdRJ4jAGpmUVZM/view?usp=drivesdk
+
+2. Hang the AI Art Frame vertically: as shown in the video, hang the hook bracket on the back of the AI Art Frame onto the Adhesive Hook.
+Video: https://drive.google.com/file/d/14p1Gr_jAxbb4-KQidKVkpO3a-WOpoijk/view?usp=drivesdk
+
+3. Hang the AI Art Frame horizontally: as shown in the video, hang the edge of the AI Art Frame onto the Adhesive Hook.
+Video: https://drive.google.com/file/d/16WRepoW7rUTkLnm68EZUvwSGaAgiGQEZ/view?usp=drivesdk
+
+Important Notes:
+When hanging the AI Art Frame horizontally, please hang the frame edge on the Adhesive Hook. Do not hang it using the hook bracket on the back.
+For white walls, fabric-covered walls, or uneven surfaces such as powdery or peeling walls, please use wall-mounting screws instead.
+Due to its weight, the 31.5-inch AI Art Frame can only be installed using wall-mounting screws. Adhesive hooks are not compatible with this size.
+
