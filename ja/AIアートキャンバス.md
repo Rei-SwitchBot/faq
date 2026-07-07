@@ -373,3 +373,15 @@ AIアートキャンバスの外枠サイズとスクリーンサイズを案内
 
 4. 31.5インチのAIアートキャンバスを壁に掛けます。
 参考動画：https://drive.google.com/file/d/1-eoPE7L4yh9BodJVAFQ-QbbIrI_UZK8z/view?usp=sharing
+
+---
+### 壁掛け用ネジを使って31.5インチのAIアートキャンバスを壁に掛ける方法
+
+31.5インチモデルは重量があるため、壁掛けする際に、粘着フックではなく、壁掛け用ネジをご使用ください。詳細は以下となります。
+1. 電動ドライバー（ご自分でご用意）で壁にネジ穴を開けてから、ネジを締めます。
+参考動画：https://drive.google.com/file/d/1oTYl2WXQZf_36C3FnqGByMycSLdSG1x4/view?usp=drivesdk
+2. フレーム背面の掛け金具の間隔（おおよその目安）をご確認いただき、その位置に合わせて2つ目のネジ穴を開けます。
+[image1]
+3. 31.5インチのAIアートキャンバスを壁に掛けます。
+参考動画：https://drive.google.com/file/d/1KUMrDT0Cdpia3o2rEAcO6wdd5Aijx9_2/view?usp=drivesdk
+
