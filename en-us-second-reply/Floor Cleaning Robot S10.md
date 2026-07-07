@@ -638,25 +638,6 @@ We apologize for any inconvenience caused.
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
-
-Replacing the water hoses version1: 
-
-![图片2](https://github.com/user-attachments/assets/18b750f6-470c-4b58-9168-6a6ab43644bf)
-
-
-Video: https://drive.google.com/file/d/1BzI6oBLgaS31MujUieZX18TGobnfZdoM/view?usp=sharing
-Note: Do not forget to attach the black O-rings when exchanging.
-
-Replacing the water hoses version2:
-
-<img width="1280" height="720" alt="图片3" src="https://github.com/user-attachments/assets/05714425-0436-450f-be1b-2bd962637792" />
-
-
-Video: https://drive.google.com/file/d/1bTX156APxgd4xjROyBLgns23gNd1UlH3/view?usp=drive_link
-
-
----
 ### Troubleshooting The Water Station of SwitchBot Floor Cleaning Robot S10 Is Unresponsive and Cannot Be Activated.
 
 Thank you for reporting this issue. 
@@ -1074,11 +1055,13 @@ We apologize for any inconvenience caused.
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
 
 Replacing the water hoses version1:
-[image1]
+<img width="965" height="415" alt="image" src="https://github.com/user-attachments/assets/6545f8c2-1186-4802-80c0-eecda07717ac" />
+
 Video: https://drive.google.com/file/d/161Kdo9LTkypHhMyAr3lv029sNxop5h1h/view?usp=drivesdk
 Note: Do not forget to attach the black O-rings when exchanging.
 
 Replacing the water hoses version2:
-[image2]
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/29cacfde-8f8e-415d-8929-ef90d3325260" />
+
 Video: https://drive.google.com/file/d/1VACdzs-hkjW4GYQPkQvGCFZqdRESWAw9/view?usp=drivesdk
 
