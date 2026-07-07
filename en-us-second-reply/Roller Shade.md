@@ -151,3 +151,31 @@ We apologize for any inconvenience caused.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
+
+---
+### Troubleshooting SwitchBot Roller Shade Gets Stuck and Cannot Open or Close Properly
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine whether the parts need to be replaced, could you kindly provide the following information?
+  - A video of the roller shade getting stuck and not moving
+  - A video showing roller shade calibration
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+Removing the motor unit: https://drive.google.com/file/d/1IdoRk_Tum7C3woJgg6nGfPc-pDp_IA_V/view?usp=drivesdk
+Installing the new motor unit: https://drive.google.com/file/d/1d2opGvBDaY28g2IGUzAiUgwlCMEv-E7q/view?usp=drivesdk
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
+
