@@ -899,3 +899,20 @@ Regarding this issue, could you please check the following points?
 https://support.switch-bot.com/hc/en-us/articles/40064668872087
 2. Please check if the fan of the humidifier is running. If the fan is not running, please follow the troubleshooting steps in the link below.
 https://support.switch-bot.com/hc/en-us/articles/40064668872087
+
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Is Leaking Water
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Remove the water tank and check if the tray is full of water.
+[image1]
+2. If the tray is filled with water, refer to the video and readjust the open/close valve at the bottom of the water tank so that the white part in the diagram below is nearly level with the adjacent transparent rib.
+Video: https://drive.google.com/file/d/1vcOIL6lndYzOZncOlsgpJM_RdrohDb2c/view?usp=drivesdk
+[image2]
+3. If there is little water in the tray, please adjust the installation position to ensure there are no gaps between the filter and the frame.
+[image3]
+4. Move the float up and down as shown in the diagram to check if it is stuck. If it is, please follow the steps in the video to reinstall it.
+Video: https://drive.google.com/file/d/1CQlkcf_pryMi5biqgRNML9gAkc879CwU/view?usp=drivesdk
+[image4]
+
