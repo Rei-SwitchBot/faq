@@ -769,3 +769,12 @@ In the "On" setting, the light will stay on continuously.
 
 2. Unplug the air purifier from the power source, then plug it back in and press the power button to see if the light turns on.
 
+
+---
+### How to Properly Attach the Table to SwitchBot Air Purifier Using the Included Screwdriver
+
+Please use the magnetic screwdriver included in the package to tighten the screws, as shown in the video guide below:
+https://drive.google.com/file/d/1Dga1cql69ThNl0UbQMVNvVkMkh04F85i/view?usp=drivesdk
+If a screw accidentally falls into the Air Purifier during installation, try gently shaking the unit in all directions—up, down, left, and right—to encourage the screw to come out naturally.
+In the unlikely event that the screw does not come out and you hear unusual noises from the unit, please contact us via SwitchBot App -> Profile -> Support -> Feedback.
+
