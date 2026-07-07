@@ -335,20 +335,6 @@ When hanging the AI Art Frame horizontally, please hang the frame edge on the Ad
 For white walls, fabric-covered walls, or uneven surfaces such as powdery or peeling walls, please use wall-mounting screws instead.
 Due to its weight, the 31.5-inch AI Art Frame can only be installed using wall-mounting screws. Adhesive hooks are not compatible with this size.
 
----
-### How to Hang the 31.5-Inch SwitchBot AI Art Frame on a Wall Using Wall-mounting Screws
-
-Due to its weight, the 31.5-inch AI Art Frame must be installed using wall-mounting screws, as adhesive hooks are not suitable for this size. We will guide you on how to securely mount the AI Art Frame using screws.
-
-1. Use your own electric screwdriver to drill holes in the wall and secure the screws.
-Video: https://drive.google.com/file/d/1tiityDJMc7Y61t3evA-TqvqW6RNJEmLV/view?usp=sharing
-
-2. Check the spacing of the hanging hardware on the back of the frame and drill the second screw hole to align with that position.
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/e0498931-5ba7-47ce-a27c-b44b0d72cfcb" />
-
-
-3. Hang the 31.5-inch AI Art Frame on the wall.
-Video: https://drive.google.com/file/d/1-eoPE7L4yh9BodJVAFQ-QbbIrI_UZK8z/view?usp=sharing
 
 ---
 ### How to Hang the 31.5-Inch SwitchBot AI Art Frame on a Wall Using Wall-mounting Screws
@@ -359,7 +345,8 @@ Due to its weight, the 31.5-inch AI Art Frame must be installed using wall-mount
 Video: https://drive.google.com/file/d/1oTYl2WXQZf_36C3FnqGByMycSLdSG1x4/view?usp=drivesdk
 
 2. Check the spacing of the hanging hardware on the back of the frame and drill the second screw hole to align with that position.
-[image1]
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/10d98ecc-9845-4549-bfb3-dd0d22e8c206" />
+
 
 3. Hang the 31.5-inch AI Art Frame on the wall.
 Video: https://drive.google.com/file/d/1KUMrDT0Cdpia3o2rEAcO6wdd5Aijx9_2/view?usp=drivesdk
