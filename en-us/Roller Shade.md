@@ -322,15 +322,6 @@ If you need further assistance, feel free to reach out to our support team. We�
 
 
 ---
-### Troubleshooting SwitchBot Roller Shade Gets Stuck and Cannot Open or Close Properly
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please follow the instructions in the SwitchBot app to recalibrate your roller shade.  
-SwitchBot app → Roller Shade → Gear icon in the top right corner → Recalibrate
-
-
----
 ### Troubleshooting SwitchBot Roller Shade Not Powering on
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
