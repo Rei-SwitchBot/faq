@@ -377,3 +377,27 @@ Regarding this issue, could you please check the following points?
 <img width="518" height="851" alt="image" src="https://github.com/user-attachments/assets/bb3e4f07-092a-4113-902c-58823a8464d7" />
 
 
+
+---
+### Troubleshooting My Cordless Vacuum Cleaner Is Not Being Recognized by SwitchBot App
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+1. Please ensure the battery is securely inserted into the cordless vacuum cleaner. Note that the battery will not be fully inserted during factory shipment, so kindly insert it properly before use.
+2. Check if the cordless vacuum cleaner can charge. Typically, the indicator light will blink during charging and remain solid when fully charged.
+3. If the vacuum cleaner charges properly, please try using it as shown in this video:
+Video Link: https://drive.google.com/file/d/1jEfjjonIpi2ueFmWY22MSET3KwJI8Clg/view?usp=drivesdk
+4. If the vacuum cleaner does not start, we may need to assess whether a replacement is required. In this case, kindly provide a video showing the issue.
+5. If the vacuum cleaner starts but still has issues, please follow the steps in this video to remove the battery and reset the battery:
+Video Link: https://drive.google.com/file/d/1PuJFQu8F023nsTJZ-musJZarJXCExlRB/view?usp=drivesdk
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if any foreign object is caught in the K10+ Pro Combo.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+https://drive.google.com/file/d/1hvdXy2B3gFSS0A6By0bWYCsdF6C6mtPx/view?usp=drivesdk
+
