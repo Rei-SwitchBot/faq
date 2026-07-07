@@ -362,17 +362,6 @@ AIアートキャンバスの外枠サイズとスクリーンサイズを案内
 2. 白い壁や壁紙、または劣化により粉が吹いている壁、さらには表面が平らでない壁面については、壁掛け用のネジをご利用いただくようお願いいたします。
 3. 31.5インチモデルは重量があるため、粘着フックではなく、壁掛け用フックをご使用ください。
 
----
-### 壁掛け用ネジを使って31.5インチのAIアートキャンバスを壁に掛ける方法
-
-31.5インチモデルは重量があるため、壁掛けする際に、粘着フックではなく、壁掛け用ネジをご使用ください。詳細は以下となります。
-1. 電動ドライバー（ご自分でご用意）で壁にネジ穴を開けてから、ネジを締めます。
-参考動画：https://drive.google.com/file/d/1tiityDJMc7Y61t3evA-TqvqW6RNJEmLV/view?usp=sharing
-2. フレーム背面の掛け金具の間隔（おおよその目安）をご確認いただき、その位置に合わせて2つ目のネジ穴を開けます。
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d709ef5c-f16a-40a0-96bd-60dbae90d0b6" />
-
-4. 31.5インチのAIアートキャンバスを壁に掛けます。
-参考動画：https://drive.google.com/file/d/1-eoPE7L4yh9BodJVAFQ-QbbIrI_UZK8z/view?usp=sharing
 
 ---
 ### 壁掛け用ネジを使って31.5インチのAIアートキャンバスを壁に掛ける方法
@@ -381,7 +370,8 @@ AIアートキャンバスの外枠サイズとスクリーンサイズを案内
 1. 電動ドライバー（ご自分でご用意）で壁にネジ穴を開けてから、ネジを締めます。
 参考動画：https://drive.google.com/file/d/1oTYl2WXQZf_36C3FnqGByMycSLdSG1x4/view?usp=drivesdk
 2. フレーム背面の掛け金具の間隔（おおよその目安）をご確認いただき、その位置に合わせて2つ目のネジ穴を開けます。
-[image1]
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/845f1202-cb9d-48d2-a2ef-d639cb64a93e" />
+
 3. 31.5インチのAIアートキャンバスを壁に掛けます。
 参考動画：https://drive.google.com/file/d/1KUMrDT0Cdpia3o2rEAcO6wdd5Aijx9_2/view?usp=drivesdk
 
