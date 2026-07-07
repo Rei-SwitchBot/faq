@@ -895,3 +895,19 @@ Video: https://drive.google.com/file/d/1CQlkcf_pryMi5biqgRNML9gAkc879CwU/view?us
 <img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/c34ca067-d28d-44c2-9446-d2bc87fae4ff" />
 
 
+
+---
+### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Has Water in the Tray but the Filter Remains Dry and Does not Humidify
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Pull out the water tray and reinsert it securely. Check if the humidifier starts working properly and the filter begins absorbing water.
+[image1]
+2. Remove the plastic tube from the filter frame, then install the frame without the filter and run the Evaporative Humidifier for at least 10 seconds. If water flows from the water pump, it indicates an issue with the filter frame. In this case, the filter frame needs to be replaced.
+[image2]
+3. If no water flows, refer to video 1 to remove the water pump, thoroughly clean each part based on video 2, and reassemble it.
+Video 1: https://drive.google.com/file/d/19JIzL8unfy0OHC6GKfX4-g8FxTgVwMns/view?usp=drivesdk
+Video 2: https://drive.google.com/file/d/1dH_mOa9rI731FDCWywpmanb5gE4xBn9t/view?usp=drivesdk
+4. If the filter remains dry, you will need to replace the water pump as shown in the video 3 guide provided.
+Video 3: https://drive.google.com/file/d/1-_MDbJQMoGBnOeHxKVA9douuouXrP9T3/view
+
