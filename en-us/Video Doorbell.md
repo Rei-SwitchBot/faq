@@ -208,22 +208,6 @@ Due to Google鈥檚 platform restrictions, including the video doorbell, all Swi
 We truly appreciate your feedback and will internally review this limitation for potential improvements in future products. Thank you for your understanding.
 
 
-
----
-### Troubleshooting Cannot Insert the SD Card to the Monitor
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-
-Regarding this issue, could you please check the following points?
-
-The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app 鈫?video doorbell 鈫?gear icon 鈫?local storage.
-
-If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
-
-If the SD card cannot be removed, please try using a tool with a fine tip as shown in the video below to remove the card.
-
-https://drive.google.com/file/d/1483DG0IRwnUUYNpfAh4gLqOIhyYtBAql/view
-
 ---
 ### Can I Use SwitchBot Smart Video Doorbell to Operate Dual-Lock?
 
@@ -330,14 +314,6 @@ Medium sensitivity: 4~6 meters
 High sensitivity: 7~9 meters
 If there are lots of events, please check for changes in light (such as glass or direct sunlight) and subtle movements (such as air conditioner vents, curtains, or fans) in front of the doorbell. These factors can lead to battery drain.
 If the temperature is extremely high or low, it can affect battery life. For example, at -20掳C, the battery may decrease by 40% to 50%.
-
----
-### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please try using a tool with a fine tip as shown in the video below to remove the card.
-[https://drive.google.com/file/d/1483DG0IRwnUUYNpfAh4gLqOIhyYtBAql/view?usp=sharing](https://drive.google.com/file/d/1483DG0IRwnUUYNpfAh4gLqOIhyYtBAql/view)
 
 
 ---
