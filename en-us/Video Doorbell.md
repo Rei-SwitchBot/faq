@@ -1594,3 +1594,22 @@ In addition, the monitor and the doorbell are paired one-to-one, and the monitor
 We understand this may not be the answer you were hoping for, and we sincerely apologize for the inconvenience. Thank you for your understanding.
 If you have any other questions, please feel free to contact us.
 
+
+---
+### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please try using a tool with a fine tip as shown in the video below to remove the card.
+https://drive.google.com/file/d/1dgTeeCyfyGtnaBMkZEgTDl97RIMVmzgs/view?usp=drivesdk
+
+---
+### Troubleshooting Cannot Insert the SD Card to the Monitor
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. The monitor comes with a 4GB microSD card already installed at the time of shipment. Please check if you can turn on recording in the order of SwitchBot app -> video doorbell -> gear icon -> local storage.
+2. If you want to change to a larger capacity card (up to 512GB compatible), please first remove the default SD card and then insert the new SD card.
+3. If the SD card cannot be removed, please try using a tool with a fine tip as shown in the video below to remove the card.
+https://drive.google.com/file/d/1dgTeeCyfyGtnaBMkZEgTDl97RIMVmzgs/view?usp=drivesdk
+

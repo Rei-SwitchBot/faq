@@ -1205,3 +1205,48 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A photo showing the QR code on the back (or side) of the Monitor
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting the SD Card Is Stuck inside the Monitor and Cannot Be Removed
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  - A video showing that the SD card cannot be removed
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting Cannot Insert the SD Card to the Monitor
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
+  - A video showing that the SD card cannot be inserted
+
+2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
