@@ -141,35 +141,6 @@ Yes, even if you do not purchase the AI+ service, you can still view events clas
 
 
 ---
-### How to Add Non-SwitchBot Cameras to SwitchBot AI Hub
-
-Make sure your SwitchBot App version is up to date.
-
-Make sure SwitchBot cameras and AI Hub have been added to your App.
-
-Make sure your existing third-party camera supports RTSP.
-
-Please obtain and copy the RTSP link (usually found in the app where the camera is added).
-
-Go to SwitchBot app → AI Hub → tap the camera addition icon in the bottom menu bar → tap "Add third-party camera" → paste the RTSP links and name your device → save.
-
-The video stream format is as follows:
-username: Username, default is: admin.  
-password: Password, default is the verification code on the camera base sticker.  
-ip: Device IP, for example: 192.168.31.108.  
-port: Port number, default: 554. If it is already the default value, keep it unchanged.  
-codec: Options include h264, MPEG-4, mpeg4.  
-channel: Channel number, starting from 1; for example, channel 1 is ch1.  
-subtype: Stream type. main stream is main, sub stream is sub.
-
-Setup Video: https://drive.google.com/file/d/1iFpNUUspdhDAkqGfhTEC68DfRYoHHFC0/view?usp=sharing
-
-Note:
-Please contact the camera manufacturer for instructions on how to obtain the RTSP link.
-
-
-
----
 ### Troubleshooting: The Already Added Face Appears in the Stranger List on SwitchBot Al Hub.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
