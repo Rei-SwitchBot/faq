@@ -778,31 +778,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting SwitchBot Evaporative Humidifier Auto-refill Is Leaking Water
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Remove the water tank and check if the tray is full of water.
-
-<img width="552" height="275" alt="image" src="https://github.com/user-attachments/assets/9051fc47-f469-4175-8f8f-295f5e6c596a" />
-
-2. If the tray is filled with water, refer to the video and readjust the open/close valve at the bottom of the water tank so that the white part in the diagram below is nearly level with the adjacent transparent rib.
-Video: [https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view](https://drive.google.com/file/d/1dLajXN_oV6KV9w-awkEQhtgQLxPMDNV7/view)
-
-<img width="814" height="827" alt="image" src="https://github.com/user-attachments/assets/bc2a7402-4f80-4e38-9768-5e03af690583" />
-
-3. If there is little water in the tray, please adjust the installation position to ensure there are no gaps between the filter and the frame.
-
-<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/2509c477-6484-4e8c-96f5-705019238617" />
-
-4. Move the float up and down as shown in the diagram to check if it is stuck. If it is, please follow the steps in the video to reinstall it.
-Video: [https://drive.google.com/file/d/1ZcmzBf3dMxO3rLpszlXL-MXbZmvNsLYZ/view?usp=sharing](https://drive.google.com/file/d/1ZcmzBf3dMxO3rLpszlXL-MXbZmvNsLYZ/view?usp=sharing)
-
-<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/b72e77e9-7b76-4cb7-ae27-130bbb3a35b0" />
-
-
-
----
 ### Troubleshooting SwitchBot Evaporative Humidifier Won鈥檛 Start and the App Shows "Filter Not Installed" Even Though the Filter Is Installed
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -906,13 +881,17 @@ https://support.switch-bot.com/hc/en-us/articles/40064668872087
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Remove the water tank and check if the tray is full of water.
-[image1]
+<img width="552" height="275" alt="image" src="https://github.com/user-attachments/assets/1610fbbd-990f-4955-849b-00471772d4ad" />
+
 2. If the tray is filled with water, refer to the video and readjust the open/close valve at the bottom of the water tank so that the white part in the diagram below is nearly level with the adjacent transparent rib.
 Video: https://drive.google.com/file/d/1vcOIL6lndYzOZncOlsgpJM_RdrohDb2c/view?usp=drivesdk
-[image2]
+<img width="814" height="827" alt="image" src="https://github.com/user-attachments/assets/59d16101-8cad-4152-94bf-7cdfc412de17" />
+
 3. If there is little water in the tray, please adjust the installation position to ensure there are no gaps between the filter and the frame.
-[image3]
+<img width="930" height="545" alt="image" src="https://github.com/user-attachments/assets/dd90e796-766f-402e-8c76-83e30dcabd71" />
+
 4. Move the float up and down as shown in the diagram to check if it is stuck. If it is, please follow the steps in the video to reinstall it.
 Video: https://drive.google.com/file/d/1CQlkcf_pryMi5biqgRNML9gAkc879CwU/view?usp=drivesdk
-[image4]
+<img width="1004" height="1280" alt="image" src="https://github.com/user-attachments/assets/c34ca067-d28d-44c2-9446-d2bc87fae4ff" />
+
 
