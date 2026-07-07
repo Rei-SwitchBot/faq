@@ -330,16 +330,6 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 
 
 ---
-### Troubleshooting SwitchBot Robot Vacuum K10+ Pro Combo Fails to Clean Because of a Bumper Stuck Error
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check if any foreign object is caught in the K10+ Pro Combo.
-2. Please watch the video to gently pat the bumper and see if it helps with the issue.
-[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
-
-
----
 ### How to Re-pair the Cordless Vacuum Cleaner with the Dual Empty Station
 
 1. If the dust in the Cordless Vacuum Cleaner does not automatically be emptyed when inserted into the Dual Empty Station, please try repairing the Cordless Vacuum Cleaner and the Dual Empty Station in the following order:
