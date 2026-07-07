@@ -119,7 +119,6 @@ We apologize for any inconvenience caused.
   1. A video showing the robot being manually placed at the auto-empty station with both the robot and base station indicator lights visible.
 
 2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
 - Purchase channel
 - Order ID
 - Recipient Full Name
@@ -133,6 +132,18 @@ We apologize for any inconvenience caused.
 
 3. If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
 Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
+
+How to replace the battery:
+Video: https://drive.google.com/file/d/1FXz81Y4yXUQVU8RsjkdciZE087oe_zn1/view?usp=drivesdk
+Tips:
+- Turn the S10 unit over. If there is water in the waste water box, remove it to prevent leakage.
+- Use a screwdriver to unscrew and remove the back cover's seven screws.
+- Use a pry bar or similar tool to carefully extract the battery from its compartment. Disconnect the battery connection terminals and remove the old battery.
+- Install a new battery following the same procedure, then reattach the chassis cover.
+- Once you have replaced the battery, update your robot's firmware to ensure optimal performance.
+
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 
 
