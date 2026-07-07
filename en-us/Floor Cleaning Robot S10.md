@@ -1810,26 +1810,6 @@ Tips:
 - How long after using the Water Station is unable to auto-refill
 - A video demonstrating the testing of the fresh water pump (step 6)
 
----
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Stuck Frequently
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Check for debris around the roller mop. Hair, dirt, or other small particles can get caught and cause it to jam. Refer to the video for cleaning instructions if needed.
-[https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view](https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view)
-2. If the roller mop gets stuck and you hear any strange sounds, please record a video of the issue.
-3. If the roller mop gets stuck and the waste water collection gutter detaches easily,  please follow these steps:
-Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
-[https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link](https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link)
-Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-
-<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/8bbf7a0b-2f70-47c1-81e0-36e5adf2db21" />
-
-Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
-[https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing](https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view)
-
-
-
 
 ---
 ### Troubleshooting My Floor Cleaning Robot S10 Leaves Stripes and Marks on My Tile Floor While Mopping
@@ -1928,20 +1908,6 @@ Note: Keep your phone near the robot and don’t leave the page during the updat
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Is Not Lowering to Touch the Floor
-
-We apologize for any inconvenience caused. 
-We have checked the issue for you urgently. Regarding the roller not sticking to the floor, please follow the steps below to troubleshoot the issue:
-1. Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
-https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link
-2. Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-![image](https://github.com/user-attachments/assets/7d488ba9-adfd-4ac2-a716-29904049fba4)
-3. Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
-https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing
-4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. Please feel free to contact us again.
-
-
----
 ### Troubleshooting My Floor Cleaning Robot S10 Cannot Auto-refill My Evaporative Humidifier (Auto-refill)
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -1969,24 +1935,6 @@ Tips:
   4. Slowly press the syringe to inject the water, ensuring it flows through the system.
   5. Reattach the port and reconnect the hose to the water tank.
   6. Turn on the S10 and let it attempt to refill the humidifier to confirm the issue is resolved.
-
-
----
-### Is It Possible to Replace the Battery in SwitchBot Floor Cleaning Robot S10?
-
-If your S10 experiences battery issues during the warranty period, we will take full responsibility for providing repair services, including battery replacement.
-If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
-Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
-
-How to replace the battery:
-Video: https://drive.google.com/file/d/1uq68G2g_DyknENPMv_WdDrbFqvs2h_9R/view?usp=sharing
-Tips:
-Turn the S10 unit over. If there is water in the sewage box, remove it to prevent leakage.
-Use a screwdriver to unscrew and remove the back cover's seven screws.
-Use a pry bar or similar tool to carefully extract the battery from its compartment. Disconnect the battery connection terminals and remove the old battery.
-Install a new battery following the same procedure, then reattach the chassis cover.
-Once you have replaced the battery, update your robot's firmware to ensure optimal performance.
-
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Not Automatically Emptying the Dustbin
@@ -2031,32 +1979,6 @@ Regarding this issue, could you please check the following points?
 <img width="832" height="327" alt="image" src="https://github.com/user-attachments/assets/20de5547-a263-4592-bf47-7eff077f235c" />
 
 <img width="409" height="280" alt="image" src="https://github.com/user-attachments/assets/3143275d-ff1e-478f-b552-085b6f819aea" />
-
-
-
-
-
----
-### Troubleshooting Roller Mop Doesn't Get Wet and SwitchBot Floor Cleaning Robot S10 Isn't Mopping
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please operate the wash-mop by going to SwitchBot App -> S10 -> Functions -> Control -> Wash Mop to see if the roller mop gets wet.
-
-![image](https://github.com/user-attachments/assets/b260cf55-d0f7-429a-8c18-d46d8b7b1dff)
-
-2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the following:
-  a. Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
-https://drive.google.com/file/d/1VF3h3zVfNERNoCSAzrgCqFk0JU4v0rBM/view?usp=drive_link
-  b. Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-
-![image](https://github.com/user-attachments/assets/669aa860-eb70-47c3-9051-2b3b6753ca0c)
-
-  c. Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
-
-https://drive.google.com/file/d/18TUhvUNycSshd6LIpXNQwtNlgwTeyomI/view?usp=sharing
-
-3. If the roller mop is wet and in contact with the ground, please enable dampen mop feature by going to SwitchBot App -> S10 -> Functions -> Settings -> Mop Cleaning -> Dampen Mop.
 
 
 ---
@@ -3360,7 +3282,8 @@ https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view
 Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
 https://drive.google.com/file/d/1H2ytV3bRE4dpvtJrN1eT-FSKhNdczq8-/view?usp=drivesdk
 Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-[image1]
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/9ec90fd4-7ec4-4603-be9d-a44051069e4f" />
+
 Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
 https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drivesdk
 
@@ -3411,15 +3334,18 @@ Video: https://drive.google.com/file/d/1vR_SIH9ZY7J69ugXPaZ4of1fM9CcfUya/view?us
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please operate the wash-mop by going to SwitchBot App -> S10 -> Functions -> Control -> Wash Mop to see if the roller mop gets wet.
-[image1]
+<img width="742" height="1280" alt="image" src="https://github.com/user-attachments/assets/fc086b98-9721-4713-ba3f-9c9493fa8618" />
+
 2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the following:
 Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
 https://drive.google.com/file/d/1H2ytV3bRE4dpvtJrN1eT-FSKhNdczq8-/view?usp=drivesdk
 Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-[image2]
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/9ae24c90-e1ca-43fe-bf47-6398c76b0e3d" />
+
 Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
 https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drivesdk
 3. If the roller mop is wet and in contact with the ground, please enable dampen mop feature by going to SwitchBot App -> S10 -> Functions -> Settings -> Mop Cleaning -> Dampen Mop.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Roller Mop Is Not Lowering to Touch the Floor
@@ -3429,7 +3355,8 @@ We have checked the issue for you urgently. Regarding the roller not sticking to
 1. Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
 https://drive.google.com/file/d/1H2ytV3bRE4dpvtJrN1eT-FSKhNdczq8-/view?usp=drivesdk
 2. Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
-[image1]
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/47ef289d-6ff4-49da-b83c-1f3c4fab1def" />
+
 3. Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
 https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drivesdk
 4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. Please feel free to contact us again.
