@@ -93,3 +93,19 @@ Regarding this issue, could you please check the following points?
 
 
 
+
+---
+### How To Remove the Front Guard of SwitchBot Circulator Fan
+
+Instructions for removing the front guard:
+- Locate the screw marked in red on the diagram below. Use your own screwdriver to unscrew it.
+- Gently rotate the front guard counterclockwise to detach it.
+- Caution: Exercise care when removing to prevent injury.
+[image1]
+
+Video: https://drive.google.com/file/d/1FNP1hf_54EaVOzVmy9suIZMKt0gm75r1/view?usp=drivesdk
+
+Note:
+The front guard is washable with water.
+The blades aren't suitable for water cleaning due to their built-in motor. Kindly use a cloth to wipe them clean.
+
