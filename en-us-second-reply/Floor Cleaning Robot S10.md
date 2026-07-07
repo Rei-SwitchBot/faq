@@ -389,16 +389,6 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 
 ---
-### Troubleshooting One of SwitchBot Floor Cleaning Robot S10's Wheels Is Not Functioning
-
-If you would like to replace the wheel yourself, we can send you the parts and a video for you to perform the process.
-S10 Wheel Replacement Video
-https://drive.google.com/file/d/1CintEmtbERxc4rcvy-JOnwc5Qp1EK7_X/view?usp=sharing
-https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=sharing
-Otherwise, we will provide you with repair or replacement services covered by the warranty.
-
-
----
 ### Troubleshooting SwitchBot Floor Cleaning Robot S10 Keeps Reporting Cliff Sensor abnormal
 
 Thank you for the information provided.
@@ -406,9 +396,6 @@ Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
 - A screenshot of the error message related to the cliff sensor issue.
 - A video with sound capturing the "Cliff Sensor abnormal" error message being announced.
-
-
-
 
 
 ---
