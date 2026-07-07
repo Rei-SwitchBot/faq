@@ -23,13 +23,6 @@
 
 屋外用5MPパンチルトカメラは、Wi-Fiと有線LANの両方で接続可能です。より安定した通信を求める場合は、ご自宅のWi-Fi環境よりも有線LAN接続をお試しいただけます。屋外用5MPパンチルトカメラのLANポートはRJ-45コネクタを備えており、有線LANケーブルのカテゴリに制限はなく、Cat5からCat8までさまざまなツイストペアケーブルに対応しています。ただし、伝送速度は使用するケーブルの規格や機器の性能によって異なります。RJ-45は100Mbpsまたは1Gbpsネットワークで一般的に使用されており、通常はCat5e、Cat6、Cat6A、Cat7、またはCat8のいずれかで接続できます。
 
----
-### Home Assistantで屋外パンチルトカメラ5MPの映像を見ることができますか
-
-はい、屋外パンチルトカメラはRTSPおよびONVIFプロトコルを使用してHome Assistantに接続できます。詳細については、下記のリンク、または設定動画をご確認ください。
-https://support.switch-bot.com/hc/ja/articles/31984833990423
-動画：https://drive.google.com/file/d/1KuqwTkdSjqd3xKI5qGcU9zjA39Fhnxvt/view?usp=sharing
-
 
 ---
 ### 屋外パンチルトカメラ5MPの映像をスムーズに視聴するには、設置時にどのような注意点がありますか。
