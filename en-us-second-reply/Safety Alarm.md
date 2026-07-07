@@ -106,3 +106,24 @@ We apologize for any inconvenience caused.
 
 
 
+
+---
+### Troubleshooting the Location Information for My Safety Alarm SwitchBot on SwitchBot App Is Not Updated
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot of the map screen that could be checked by tapping the Safety Alarm in the SwitchBot app
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+---
+### Troubleshooting Every time I open the SwitchBot app, a message appears asking me to set the battery usage to "Unrestricted".
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+- A screenshot showing the pop-up message
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
