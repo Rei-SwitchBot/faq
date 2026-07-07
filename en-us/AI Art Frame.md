@@ -316,25 +316,6 @@ Regarding this issue, could you please check the following points?
 Small black dots or pixel-like spots may occasionally appear on a new E Ink screen. This is usually related to the characteristics of E Ink display technology and does not necessarily indicate a product defect. The screen is made up of many tiny ink capsules, and during normal production or display operation, a very small amount of pigment may appear as tiny spots. If the spots are small, no larger than 1.5 mm in diameter, and there are no more than 4 in the main display area, they are usually not a cause for concern.
 To help improve this, please use the AI Art Frame as normal and switch the artwork several times, then observe the screen for a period of time. If the spots remain or noticeably affect the viewing experience after observation, please feel free to contact us again and we will be happy to check this further for you.
 
----
-### How to Hang the 7.3-Inch and 13.3-Inch SwitchBot AI Art Frame on a Wall Using Adhesive Hooks
-
-If the wall in your home has a smooth and hard surface, such as tile, wood, or glass, you can use adhesive hooks to hang the AI art canvas (7.3-inch and 13.3-inch) on the wall. Please see the details below.
-
-1. Peel off the release paper and stick the adhesive hook to the wall as shown in the video. After that, leave it as is for about 24 hours to allow the adhesive to fully cure.
-Video: https://drive.google.com/file/d/1oncScUHxgGos6kHkwu2vPjJeemTsmHn9/view?usp=sharing
-
-2. Hang the AI Art Frame vertically: as shown in the video, hang the hook bracket on the back of the AI Art Frame onto the Adhesive Hook.
-Video: https://drive.google.com/file/d/1paHTAEwaUD9YrkBJgyBPqEzSiHQLh-K8/view?usp=sharing
-
-3. Hang the AI Art Frame horizontally: as shown in the video, hang the edge of the AI Art Frame onto the Adhesive Hook.
-Video: https://drive.google.com/file/d/1g1d5i7D6IevZUCyOb3QXIWmWdX44ak91/view?usp=sharing
-
-Important Notes:
-When hanging the AI Art Frame horizontally, please hang the frame edge on the Adhesive Hook. Do not hang it using the hook bracket on the back.
-For white walls, fabric-covered walls, or uneven surfaces such as powdery or peeling walls, please use wall-mounting screws instead.
-Due to its weight, the 31.5-inch AI Art Frame can only be installed using wall-mounting screws. Adhesive hooks are not compatible with this size.
-
 
 ---
 ### How to Hang the 31.5-Inch SwitchBot AI Art Frame on a Wall Using Wall-mounting Screws
