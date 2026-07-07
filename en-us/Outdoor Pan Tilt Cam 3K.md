@@ -194,3 +194,11 @@ Based on testing by SwitchBot Lab, a 10-meter extension power cable can supply p
 For this reason, we do not recommend using an extension power cable. If you still need to use one, please make sure it uses a pure copper core and has proper waterproof protection.
 Please note that SwitchBot cannot be held responsible if the camera becomes damaged due to water entering the device as a result of insufficient waterproof protection on a third-party extension cable.
 
+
+---
+### Can I View the Footage from SwitchBot Outdoor Pan Tilt Cam 3K in Home Assistant?
+
+Yes, you can use the RTSP and ONVIF protocols to connect the Outdoor Pan Tilt Cam 3K to Home Assistant. For more information, please refer to the link below or watch the setup video.
+https://support.switch-bot.com/hc/en-us/articles/31984833990423
+Video: https://drive.google.com/file/d/1qR5lOaHK5ZyxJVUyXgttUkzr4ncwGjKD/view?usp=drivesdk
+

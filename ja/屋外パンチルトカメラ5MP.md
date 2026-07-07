@@ -193,3 +193,11 @@ SwitchBotラボにてテストを行った結果、10メートルの延長ケー
 やむを得ずご使用される場合は、純銅質線芯かつ防水仕様の延長電源コードをご使用いただきますようお願いいたします。
 なお、他社製品の防水性能不足によりカメラが浸水し故障した場合につきましては、SwitchBotとして責任を負いかねますので、あらかじめご了承ください。
 
+
+---
+### Home Assistantで屋外パンチルトカメラ5MPの映像を見ることができますか
+
+はい、屋外パンチルトカメラはRTSPおよびONVIFプロトコルを使用してHome Assistantに接続できます。詳細については、下記のリンク、または設定動画をご確認ください。
+https://support.switch-bot.com/hc/ja/articles/31984833990423
+動画：https://drive.google.com/file/d/1qR5lOaHK5ZyxJVUyXgttUkzr4ncwGjKD/view?usp=drivesdk
+
