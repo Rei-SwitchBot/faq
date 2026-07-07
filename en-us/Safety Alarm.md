@@ -147,19 +147,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting Every time I open the SwitchBot app, a message appears asking me to set the battery usage to "Unrestricted".
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-To update the location information of the Safety Alarm in the SwitchBot app, please go to Android System Settings App → Apps → All Apps → SwitchBot → Battery → Change from Optimization to "Unrestricted". The exact steps may vary depending on your device model. We will provide you with some answers from Google Help community.
-[https://support.google.com/pixelphone/search?q=Unrestricted+Battery+Usage&from_promoted_search=true&sjid=11563758428144616817-AP](https://support.google.com/pixelphone/search?q=Unrestricted+Battery+Usage&from_promoted_search=true&sjid=11563758428144616817-AP)
-Note:
-For iOS users, please go to SwitchBot App -> Profile -> Preferences -> Permissions -> Allow background app refresh.
-
-If you have any other questions, please do not hesitate to contact us.
-
-
----
 ### Troubleshooting SwitchBot Safety Alarm's Batteries Drains Quickly.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -365,19 +352,6 @@ Please check the battery level of the Safety Alarm regularly, and replace the ba
 Video: [https://youtu.be/AHzdVyS33jE](https://youtu.be/AHzdVyS33jE)
 
 
-
----
-### Troubleshooting the Location Information for My Safety Alarm SwitchBot on SwitchBot App Is Not Updated
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. For Android users, ensure that the SwitchBot App's battery usage is set to unrestricted in order to update the location information for your Safety Alarm. For iOS users, allow background app refresh for the SwitchBot App.
-Android users: go to Android System Settings App → Apps → All Apps → SwitchBot → Battery → Change from Optimization to "Unrestricted".
-iOS users: go to SwitchBot App -> Profile -> Preferences -> Permissions -> Allow background app refresh.
-2. When your Safety Alarm is within the Bluetooth range of your phone, SwitchBot App updates its location every 10 minutes. If it’s outside your phone’s Bluetooth range, the App will display the last location where your phone detected the Safety Alarm via Bluetooth.
-3. If the Safety Alarm is near your phone but the location hasn’t updated for a while, please press the button on the Safety Alarm and wait for a beep, which should trigger an update.
-
-
 ---
 ### Troubleshooting the Location Information for My Safety Alarm SwitchBot on Find My App Is Not Updated
 
@@ -413,18 +387,6 @@ In the case of initial defects, we kindly ask for your cooperation in providing 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 If you have any other questions, please do not hesitate to contact us.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
