@@ -63,23 +63,6 @@ Instructions for removing the front guard:
 
 
 ---
-### How To Remove the Front Guard of SwitchBot Circulator Fan 
-
-Instructions for removing the front guard:
-- Locate the screw marked in red on the diagram below. Use your own screwdriver to unscrew it.
-- Gently rotate the front guard counterclockwise to detach it.
-- Caution: Exercise care when removing to prevent injury.
-
-<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/240e9178-517a-4335-8cc2-52a57fd05be8" />
-
-Video: [https://drive.google.com/file/d/15rb47vL7xKwrKXL1AvfRV4UoKk3It4Fc/view?usp=sharing](https://drive.google.com/file/d/15rb47vL7xKwrKXL1AvfRV4UoKk3It4Fc/view)
-
-Note:
-The front guard is washable with water.
-The blades aren't suitable for water cleaning due to their built-in motor. Kindly use a cloth to wipe them clean.
-
-
----
 ### Troubleshooting SwitchBot Battery Circulator Fan Is Offline and Cannot Be Operated in the Switchbot App.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -90,10 +73,6 @@ Regarding this issue, could you please check the following points?
 4. Please use the latest version of the SwitchBot app from the app store. Note that the Beta version of the app may cause unstable connections. Thank you for your understanding.
 
 
-
-
-
-
 ---
 ### How To Remove the Front Guard of SwitchBot Circulator Fan
 
@@ -101,7 +80,8 @@ Instructions for removing the front guard:
 - Locate the screw marked in red on the diagram below. Use your own screwdriver to unscrew it.
 - Gently rotate the front guard counterclockwise to detach it.
 - Caution: Exercise care when removing to prevent injury.
-[image1]
+<img width="650" height="350" alt="image" src="https://github.com/user-attachments/assets/841dab79-832b-465e-8cb2-90a5656dd074" />
+
 
 Video: https://drive.google.com/file/d/1FNP1hf_54EaVOzVmy9suIZMKt0gm75r1/view?usp=drivesdk
 
