@@ -42,25 +42,6 @@ If the device connection fails, please unplug the AI Hub's power and then try ag
 
 
 ---
-### How to Link SwitchBot Cameras to SwitchBot AI Hub
-
-1. Make sure your SwitchBot App version is up to date.
-
-2. Make sure SwitchBot cameras and AI Hub have been added to your App.
-
-3. Once the AI Hub pairing is complete, the SwitchBot app will prompt you to format the microSD card. Please proceed with the formatting.
-
-4. The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell. Other camera models cannot be registered with the AI Hub. Thank you for your understanding.
-5. Go to SwitchBot app → Cameras/Video Doorbell → Gear icon → More Features → "Camera Account" to create an account and password.
-
-6. Go to SwitchBot app → AI Hub → tap the camera addition icon in the bottom menu bar → tap the "+" on the left side of the camera to save. If you have not created an account and password for your camera, selecting the camera will automatically redirect you to the account creation screen. Please create an account first, then try registering the camera in the AI Hub again.
-
-Note:
-RTSP-compatible cameras from other manufacturers can also be added to the AI Hub.
-You can add up to 8 cameras to the AI hub.
-
-
----
 ### Troubleshooting SwitchBot AI Hub Won't Connect to Wi-Fi and Can't Be Added to SwitchBot App
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -75,17 +56,6 @@ Regarding this issue, could you please check the following points?
 
 
 ---
-### Troubleshooting Failed to Link SwitchBot Cameras to SwitchBot AI Hub
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell. Other camera models cannot be registered with the AI Hub. Thank you for your understanding.
-2. Make sure that the AI hub and the cameras are on the same local network.
-3. Before adding the AI Hub to the SwitchBot app, please insert the included microSD card into the AI Hub.
-4. Once the AI Hub pairing is complete, the SwitchBot app will prompt you to format the microSD card. Please proceed with the formatting. You can also format the microSD card by going to SwitchBot app → AI Hub → Gear icon → Local Storage.
-
-
----
 ### Troubleshooting SwitchBot AI Hub Not Powering On
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -93,21 +63,6 @@ Regarding this issue, could you please check the following points?
 1. When you power on a new AI Hub, the indicator light in the top left corner will flash white. If it does not turn on, try plugging the AI Hub into a different outlet.
 2.  If you have a 12V, 1.5A DC power adapter available, please try using a different one to see if that resolves the issue.
 3.  If you have already added the AI Hub to the SwitchBot app, please tap the device within the app to check if it can connect.
-
-
----
-### Which SwitchBot Cameras Are Compatible with SwitchBot Hub?
-
-The cameras that can be added to the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell.
-Unfortunately, the traditional camera series listed below are not supported for addition to the AI Hub. We apologize for any inconvenience and appreciate your understanding.
-- Indoor Cam
-- Pan Tilt Cam
-- Pan Tilt Cam 2K
-- Outdoor Spotlight Cam
-- Outdoor Spotlight Cam 2K
-
-Note:
-Up to 8 cameras can be added to the AI Hub.
 
 
 ---
@@ -122,20 +77,6 @@ When using both an external HDD and the included microSD card, camera footage is
 
 SwitchBot AI Hub comes with a standard 16GB microSD card. If you prefer more storage, the AI Hub supports microSD cards with up to 1TB capacity. For the best performance, make sure to use a card that does not exceed this limit.
 
-
----
-### Is It Possible to Add Non-SwitchBot Cameras to SwitchBot Al Hub?
-
-Yes, RTSP-compatible cameras from other manufacturers can also be added to the AI Hub. To do this, open the SwitchBot app, go to AI Hub, tap the camera addition icon in the bottom menu bar, and select Add Third-Party Camera to add your cameras.
-
-Note:
-Up to 8 cameras can be added to the AI Hub.
-The SwitchBot cameras compatible with the AI Hub are the Pan Tilt Cam Plus 3K, Pan Tilt Cam Plus 2K, and the Smart Video Doorbell. Unfortunately, the traditional camera series listed below are not supported for addition to the AI Hub. We apologize for any inconvenience and appreciate your understanding.
-- Indoor Cam
-- Pan Tilt Cam
-- Pan Tilt Cam 2K
-- Outdoor Spotlight Cam
-- Outdoor Spotlight Cam 2K
 
 
 ---
