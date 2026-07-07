@@ -1704,31 +1704,6 @@ A phone displays the serial number on the back of the water station.
 
 
 ---
-### Troubleshooting SwitchBot Floor Cleaning Robot S10's Water Hose Is Creased and Broken
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-We can arrange a new water hose replacement and provide a replacement video. To better assist you, could please send us a photo of the broken hose, focusing on the joints so we can determine the problem?
-*Remove the cover at the bottom of the water station with a screwdriver, so you can check the connection part of the hose.
-To expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-Note: 
-Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
----
 ### Troubleshooting Water Leakage on SwitchBot Floor Cleaning Robot S10 Water Station
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
