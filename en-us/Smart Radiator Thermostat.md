@@ -188,3 +188,16 @@ https://support.switch-bot.com/hc/en-us/articles/39379745554327
 
 Please refer to the video in the link below to install the pin and secure the Radiator Thermostat, so that the top cover cannot be unscrewed.
 https://support.switch-bot.com/hc/en-us/articles/39379745554327
+
+---
+### Troubleshooting Even After Pressing the Button in the Center of SwitchBot Smart Radiator Thermostat, the Motor Lever Did Not Retract.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please follow these steps to properly reinstall the device again?
+1. Align the parts indicated by the red arrow align perfectly for proper installation.
+[image1]
+2. Open the battery compartment and reinstall the battery, while holding down the motor lever until the motor retracts completely.
+3. Open the battery compartment again and reinstall the batteries, waiting for the motor to fully retract.
+For reference, the normal installation process is demonstrated in the video below.
+https://drive.google.com/file/d/1uNklHkI8DKnAaKtI-KXyfs22KoMnarqS/view?usp=drivesdk
+
