@@ -434,3 +434,13 @@ Regarding this issue, could you please check the following points?
 1. Remove the batteries from the CO2 Monitor (or unplug the power adapter if using the charging cable) and wait for about one minute.
 2. Power the CO2 Monitor back on.
 
+
+---
+### Troubleshooting: The Type-C Charging Cable of the CO2 Monitor Cannot Be Unplugged
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+Due to the narrow space and lack of leverage points, it is difficult to unplug the charging cable by pinching its base with your fingers. Please refer to the video below and grip the cable a little further away from the base when pulling it out.
+https://drive.google.com/file/d/10hJGKIsv8_LcUwHIiMjT10zyH99Is2mp/view?usp=drivesdk
+If you have any other questions, please do not hesitate to contact us.
+
