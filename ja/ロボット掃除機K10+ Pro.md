@@ -2071,20 +2071,6 @@ SwitchBotアプリを起動します。
 
 
 ---
-### トラブルシューティングロボット掃除機K10+ Proは落下防止センサーが汚れているという音声が流れている
-
-お問い合わせいただき、ありがとうございます。
-弊社の製品で大変ご迷惑をおかけしております。
-ロボット落下防止センサーの件について、以下をご確認いただけますでしょうか。
-1．念のため、落下防止センサーを再度クリーニングしてください。
-2．落下防止センサーを掃除した後、SwitchBotアプリ→ロボット掃除機K10+ Pro→詳細→部品使用期限→センサー→お手入れしましたの順番で操作したかご確認ください。
-3．ロボット掃除機K10+ Proの電源を入れ直してください（フェースプレートを取り外して電源をoff→onします）。
-4．ロボット掃除機K10+ Proを初期化してください。
-動画：[https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
-[https://support.switch-bot.com/hc/ja/articles/27820108537239](https://support.switch-bot.com/hc/ja/articles/27820108537239-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%8E%83%E9%99%A4%E6%A9%9FK10-K10-Pro%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-%E5%88%9D%E6%9C%9F%E5%8C%96)
-
-
----
 ### トラブルシューティングロボット掃除器K10+ Proのモップパッドが入っていないようです。
 
 お問い合わせいただき、ありがとうございます。
@@ -2093,17 +2079,6 @@ SwitchBotアプリを起動します。
 ごみ収集ステーションの蓋を開けて、モップパッドが蓋の裏側にあるかご確認お願いいたします。
 
 <img width="475" height="226" alt="image" src="https://github.com/user-attachments/assets/b339b74f-682a-46e3-95f1-8186944eaeb6" />
-
-
----
-### トラブルシューティングロボット掃除機K10+ Proはバンパーがスタックエラーと表示され動かせない
-
-お問い合わせいただき、ありがとうございます。
-弊社の製品で大変ご迷惑をおかけしております。
-本件について、以下をご確認いただけますでしょうか。
-1．ロボット掃除機K10+のバンパーに異物が挟んでいるかご確認ください。
-2．動画通りで軽くバンパーを叩いて改善されるかご確認ください。
-[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
 
 
 ---
@@ -2343,6 +2318,7 @@ https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive
 
 ロボット掃除機K10+ Proは乗り越え可能な段差の高さが1.7cmとなります。
 
+
 ---
 ### トラブルシューティングロボット掃除機K10+ Proのマップの一部が横ずれする
 
@@ -2354,6 +2330,7 @@ https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive
 3．ロボット掃除機本体の前衝突防止ガード＋電源ボタン＋センサー部分を10秒以上長押して、リセットします。
 https://drive.google.com/file/d/1sWHg7VMlT_cqkutXLgJW6i8COJ8MEadK/view?usp=drivesdk
 4．再度マッピングします(三回マッピングしてみます)。
+
 
 ---
 ### トラブルシューティングロボット掃除機K10+ Proはバンパーがスタックエラーと表示され動かせない
