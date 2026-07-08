@@ -127,18 +127,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 
 ---
-### Troubleshooting When SwitchBot KATA Friends Return to Their Nest, They Cause It to Shift Position.
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A photo or video showing the nest setup environment
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
----
 ### Troubleshooting When Issuing Voice Commands to SwitchBot KATA Friends, the Response Is Very Slow, Almost Unresponsive.
 
 Thank you for the information provided.
@@ -219,18 +207,6 @@ Note:
 The metal part in the center of the casters is coated with lubricant. This is to ensure smooth wheel rotation, so do not remove the lubricant.
 Lubricating oil is typically applied to metal shafts. If it is accidentally wiped off, please use a silicone-based lubricant instead of liquid oil.
 
----
-### Troubleshooting: Received a Notification That SwitchBot KATA Friends Cannot Move Their Own Hands.
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A video showing abnormalities in KATA Friends' hands
-- Screenshot of the notification that KATA Friends' hands are not moving
-- Time when abnormality occurs
-
-*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Sometimes Can't Cross the Threshold
@@ -396,17 +372,6 @@ If you have any other questions, please let us know, and we'll try to accommodat
 
 
 ---
-### Troubleshooting: The Arms of KATA Friends Are Uneven, One Side Higher Than the Other.
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A video that illustrates the issue.
-
-*How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
----
 ### Troubleshooting: The Eye Screens on SwitchBot KATA Friends Feel Hot
 
 Thank you for the information provided.
@@ -548,6 +513,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *How to submit videos for support: https://support.switch-bot.com/hc/en-us/articles/26996604178967
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting: The Arms of KATA Friends Are Uneven, One Side Higher Than the Other.
