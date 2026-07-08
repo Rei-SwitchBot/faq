@@ -153,54 +153,6 @@ N つまみの中心から台座の端までの距離
 ![image](https://github.com/user-attachments/assets/8f6c86c3-e703-4570-87f5-78c6c1d713f6)
 
 
----
-### トラブルシューティングLIXIL TOSTEM ジエスタ2にロックUltraをうまく設置できない
-
-お問い合わせいただき、ありがとうございます。
-弊社の製品で大変ご迷惑をおかけしております。
-本件について、以下をご確認いただけますでしょうか。
-1．弊社公式ホームページにてロックUltra用の高さ調節ケースをご購入ください。
-購入リンク：[https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra](https://www.switchbot.jp/products/thumb-adapter-for-switchbot-lock-ultra)
-
-2．LIXIL TOSTEM ジエスタ2にロックUltraの取付には専用サムターンホルダーとジョイントパーツが必要です。以下の内容をご協力いただけると、アフターサービスにて手配させていただきます。
-※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
-- ロックUltraを○○個買いました、○○個の特殊サムターンホルダーがほしいです。
-- ご注文番号
-- ご購入履歴のスクリーンショット
-- ドアの内側から撮ったLIXIL TOSTEM ジェスタ2のつまみ写真*
-- 送り先情報
-1. お名前
-2. お電話番号
-3. ご住所
-4. 郵便番号
-
-ご注意：
-A. LIXIL TOSTEM ジエスタ2は丸形と八角形二種類のサムターンがあり、それぞれに異なるサムターンホルダーを使う必要があり、正しいサムターンホルダーを手配するために、ドアの内側からLIXIL TOSTEM ジェスタ2のつまみが確認できる写真を撮るようお願いいたします。
-
-<img width="1050" height="498" alt="image" src="https://github.com/user-attachments/assets/de6571be-2078-4875-912d-4bf45ece9198" />
-
-B. お持ちのロックUltraの台数に合わせて、サムターンホルダーを申請するようお願いいたします。
-
-
-3．必要なパーツが揃ったら、動画通りにロックUltraを取り付けます。
-動画：[https://drive.google.com/file/d/1gbU2Xwfk6rxyi0KBiJSouFhX1_dmSL-U/view?usp=drive_link](https://drive.google.com/file/d/1gbU2Xwfk6rxyi0KBiJSouFhX1_dmSL-U/view?usp=drive_link)
-コツ：
-- ジョイントパーツを無段階サムターンホルダーから取り外して、専用サムターンホルダーに装着します。
-
-<img width="1505" height="4582" alt="image" src="https://github.com/user-attachments/assets/c60e34ee-1f11-4972-8064-eb9a400fe911" />
-
-- ドライバーを使い、下図①赤枠で示された部品を外してください。
-- 高さ調整ケースをロックUltraに取り付けます。
-- ジエスタ2専用サムターンホルダーとジョイントパーツを組み合わせ（図②）、SサイズのサムターンホルダーをロックUltra本体にしっかりと取り付けます。
-- ジエスタ2専用サムターンホルダーをSサイズのサムターンホルダー部に接続し（図③）、ドアロックに固定します。
-
-<img width="1399" height="3196" alt="image" src="https://github.com/user-attachments/assets/b4999311-6ee0-45a4-99fc-39447301cbb5" />
-
-- 専用サムターンホルダーはしっかり押し込んだ状態を確認してから、ロックUltraを玄関錠に取り付けてください。
-
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/49802f14-5c3c-491d-ad99-4f8bc468c945" />
-
-
 
 ---
 ### ロックUltra用の両面テープの規格は何でしょうか
@@ -929,35 +881,6 @@ https://support.switch-bot.com/hc/ja/articles/32707379047703
 
 
 ---
-### 特殊サムターンホルダーを使って、ロックUltraをMIWA B5とU1玄関錠に取り付ける方法
-
-MIWA B5の取付：
-方法1：Lサイズのサムターンホルダーを使い、動画のようにロックUltra本体を傾け、B5サムターンに固定します。
-<img width="230" height="228" alt="image" src="https://github.com/user-attachments/assets/e09e26c0-9395-4705-ac26-082afd87ca2e" />
-
-
-動画：https://drive.google.com/file/d/1QZrkZbg6zd0loxSoYsbICMLDNKV1DOCl/view?usp=sharing
-
-方法2：LサイズのサムターンではロックUltraがうまく設置できない場合、MIWA B5とU1玄関錠専用の特殊サムターンホルダーを使ってください。取り付ける方法を動画で案内させていただきます。ご確認お願いいたします。
-動画：https://www.youtube.com/watch?v=WiiPP9-_t-4
-MIWA B5とU1玄関錠専用のサムターンホルダーをご希望の場合、以下の情報をご提供いただけますでしょうか。
-- ロックUltraを○○個買いました、○○個のサムターンホルダーがほしいです。
-- ご自宅の玄関錠の写真
-- ご注文番号
-- ご購入履歴のスクリーンショット
-- 送り先情報
-1. お名前
-2. お電話番号
-3. ご住所
-4. 郵便番号
-
-※動画の中にあるサムターンホルダーはMIWA B5とU1玄関錠専用のもので、この二つの型番以外の玄関錠なら、申請しないでください。
-※お持ちのロックUltraの台数に合わせて、サムターンホルダーを申請してください。
-※海外倉庫からの発送となりますので、お届けまでに最大2週間程度お時間を頂戴する可能性がございます。
-※すでに提供済みの場合、後ほど担当者より連絡させていただきますので、そのまま少々お待ちいただくようお願いいたします。
-※保証期間が切れている場合、またはご購入店舗によっては、カスタマーサポートによるパーツの発送には料金が発生する場合がございます。あらかじめご了承くださいますようお願い申し上げます。
-
----
 ### 特殊サムターンホルダーを使って、ロックUltraをMIWA U1玄関錠に取り付ける方法
 
 MIWA U1の取付：
@@ -1056,21 +979,25 @@ Apple Watchシリーズ2以降、およびwatchOS 4.0以降を搭載したApple 
 
 ご注意：
 A. LIXIL TOSTEM ジエスタ2は丸形と八角形二種類のサムターンがあり、それぞれに異なるサムターンホルダーを使う必要があり、正しいサムターンホルダーを手配するために、ドアの内側からLIXIL TOSTEM ジェスタ2のつまみが確認できる写真を撮るようお願いいたします。
-[image1]
+<img width="1050" height="498" alt="image" src="https://github.com/user-attachments/assets/abd995f7-3b41-434e-861b-4424aed8e48c" />
+
 B. お持ちのロックUltraの台数に合わせて、サムターンホルダーを申請するようお願いいたします。
 
 3．必要なパーツが揃ったら、動画通りにロックUltraを取り付けます。
 動画：https://drive.google.com/file/d/1zjQ1uaB1k24WUwU7Ziaoysniwvr1pKcx/view?usp=drivesdk
 コツ：
 - ジョイントパーツを無段階サムターンホルダーから取り外して、専用サムターンホルダーに装着します。
-[image2]
+<img width="1505" height="4582" alt="image" src="https://github.com/user-attachments/assets/41306806-5dee-4e44-bc56-18cbf8de3b7d" />
+
 - ドライバーを使い、下図①赤枠で示された部品を外してください。
 - 高さ調整ケースをロックUltraに取り付けます。
 - ジエスタ2専用サムターンホルダーとジョイントパーツを組み合わせ（図②）、SサイズのサムターンホルダーをロックUltra本体にしっかりと取り付けます。
 - ジエスタ2専用サムターンホルダーをSサイズのサムターンホルダー部に接続し（図③）、ドアロックに固定します。
-[image3]
+<img width="1399" height="3196" alt="image" src="https://github.com/user-attachments/assets/5710c89d-aa77-43f8-b566-13a8ef1e61ab" />
+
 - 専用サムターンホルダーはしっかり押し込んだ状態を確認してから、ロックUltraを玄関錠に取り付けてください。
-[image4]
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/a650b04b-8a72-408d-813a-792a8dcf3560" />
+
 
 
 ---
@@ -1078,7 +1005,8 @@ B. お持ちのロックUltraの台数に合わせて、サムターンホルダ
 
 MIWA B5の取付：
 方法1：Lサイズのサムターンホルダーを使い、動画のようにロックUltra本体を傾け、B5サムターンに固定します。
-[image1]
+<img width="230" height="228" alt="image" src="https://github.com/user-attachments/assets/bb9f3ba8-f62d-44b1-9eaf-93b7951b046b" />
+
 動画：https://drive.google.com/file/d/11i99jmUfLPeGriP7Rpg1VgoKXTMNqJ1L/view?usp=drivesdk
 
 方法2：LサイズのサムターンではロックUltraがうまく設置できない場合、MIWA B5とU1玄関錠専用の特殊サムターンホルダーを使ってください。取り付ける方法を動画で案内させていただきます。ご確認お願いいたします。
