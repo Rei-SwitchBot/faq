@@ -2398,18 +2398,6 @@ Regarding the issue of the robot not vacuuming the No-Mop areas, could you pleas
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Map Is Overlapping
-
-Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
-Regarding the issue of your Mini Robot Vacuum K10+ map overlapping, please check the following:
-1. Check if the K10+ was moved during cleaning.
-2. Check if the K10+ was lifted, floated, or tilted during cleaning.
-3. Press and hold the front collision guard + power button + sensor part of the robot vacuum for more than 10 seconds to reset it.
-[https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
-4. Perform the mapping again (try mapping three times).
-
-
----
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Return to the Auto-empty Station
 
 TThank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
@@ -2518,18 +2506,6 @@ For damages caused by human error or natural degradation outside the warranty pe
 
 
 ---
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Detects a Dirty Anti-Drop Sensor
-
-Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
-Regarding the issue with the cliff sensor on your Mini Robot Vacuum K10+, could you please check the following steps:
-1. Please clean the cliff sensor once again.
-2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ → Details → Component Lifespan → Sensor → Mark as "Cleaned."
-3. Restart the Mini Robot Vacuum K10+ by turning the power off and on (remove the faceplate to access the power switch).
-4. Reset the Mini Robot Vacuum K10+ to its factory settings.
-Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
-
-
----
 ### Troubleshooting the Virtual Wall Keeps Jumping to Unexpected Locations on the Map Created by SwitchBot Mini Robot Vacuum K10+
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
@@ -2565,18 +2541,6 @@ To help us arrange the shipment quickly, please provide the following details:
 Important Note: The rubber brush purchased from our official website does not include the special frame.
 
 https://www.switch-bot.com/products/switchbot-mini-robot-vacuum-k10-pro?variant=45934682833063
-
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ cannot be switched to vacuuming mode even if the mop pad is not installed
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding the issue of the robot not switching to vacuuming mode, could you please check the following points?
-1. Try to reset your K10+.
-Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
-Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be lost.
-Video: [https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link](https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view)
 
 
 ---
@@ -2674,15 +2638,6 @@ We have noted your interest and will pass it on to our product development team 
 ### Can SwitchBot Mini Robot Vacuum K10+ detect and collect dust automatically when the dust box is full?
 
 The Mini Robot Vacuum K10+ does not have a detection function to determine if the dust box is full. If needed, you can manually collect dust by tapping the "Empty dust" button on the K10+'s control screen in the SwitchBot App.
-
----
-### How to Reset SwitchBot Mini Robot Vacuum K10+
-
-Press and hold the front anti-collision guard (bumper), charging button, and laser sensor area for over 10 seconds to reset Mini Robot Vacuum K10+.
-Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps will be lost.
-Please watch the video below.
-
-https://drive.google.com/file/d/120_fIcDZx6ZcMIb0PExl0SNaEi0nVZyY/view?usp=drive_link
 
 
 ---
@@ -3252,18 +3207,6 @@ Regarding this issue, could you please check the following points?
 The mop pad is stored inside the auto-empty station. When you open the lid, you can see it.
 
 <img width="540" height="273" alt="image" src="https://github.com/user-attachments/assets/7e9c0a57-cf58-4faa-b3e6-d5e9ca68c819" />
-
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fails to Clean Because of a Bumper Stuck Error
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check if any foreign object is caught in the K10+.
-2. Please watch the video to gently pat the bumper and see if it helps with the issue.
-[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
-
 
 
 ---
