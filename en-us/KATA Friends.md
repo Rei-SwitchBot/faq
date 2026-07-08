@@ -367,29 +367,6 @@ Regarding this issue, could you please check the following points?
 1. The "Premium Plan (Lifetime Access Users Only) - Annual" applies only to devices purchased under the "Lifetime Access Plan". It cannot be used with devices purchased under the Essential Plan and Premium Plan. If you have purchased it by mistake, please feel free to contact after-sales service.
 2. After purchasing the KATA Companion Care, if your redemption code is shown as already used, please feel free to contact after-sales service for assistance.
 
-
----
-### Troubleshooting When SwitchBot KATA Friends Return to Their Nest, They Cause It to Shift Position.
-
-Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
-Regarding this issue, could you please check the following points?
-If the nest is placed against a wall, KATA Friends may collide with the nest when returning to it, causing position deviation and making docking difficult. We recommend using the two included 3M adhesive tapes to fix the nest position on the wall in order to improve docking stability. When securing the nest with 3M tape, please confirm the following:
-Tips:
-1. Wipe the wall surface to remove dirt and moisture.
-2. Take out two pieces of 3M tape and stick them to the back of the nest.
-3. Press firmly to securely attach the nest to the wall.
-Video: [https://drive.google.com/file/d/1_aCBj90q85KViZgghr0i6sbLSozHfYD_/view?usp=sharing](https://drive.google.com/file/d/1_aCBj90q85KViZgghr0i6sbLSozHfYD_/view?usp=sharing)
-
-Precautions:
-1. Use 3M adhesive tape to secure the nest to hard, smooth surfaces such as marble, glass, or tile.
-2. Not suitable for wallpaper or rough, uneven surfaces, using 3M tape on these walls can reduce its effectiveness and may also damage the wall.
-
-When removing the nest from the wall, first lightly warm the adhesive tape with a hair dryer, then slowly remove the nest using a tool such as a ruler. Please do not pull it off forcefully.
-Video: [https://drive.google.com/file/d/1MBqQPSApDrqrl8YlgAW7inwAmEyaVgV4/view?usp=sharing](https://drive.google.com/file/d/1MBqQPSApDrqrl8YlgAW7inwAmEyaVgV4/view?usp=sharing)
-
-If you have any other questions, please do not hesitate to contact us.
-
-
 ---
 ### Troubleshooting When Issuing Voice Commands to SwitchBot KATA Friends, the Response Is Very Slow, Almost Unresponsive.
 
@@ -561,17 +538,6 @@ We regret to inform you that KATA Friends currently do not have night vision cap
 
 
 ---
-### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying "Please Place Me on a Flat Ground".
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-KATA friends deeply cherish warm hugs from their family.
-We recommend gently embracing them as you would a child, taking care not to tilt their bodies excessively. Lifting them at an awkward angle may trigger an alarm.
-As long as your KATA friends aren't frequently sounding alarms or seeking assistance, feel free to let them join in the fun.
-If you have any other questions, please do not hesitate to contact us.
-
-
----
 ### When SwitchBot KATA Friends Are Playing at Home, if I Move Their Nest, Will They Be Able to Find It on Their Own?
 
 When KATA Friends are playing at home, changing the location of their nest may cause them to return to the old spot and struggle to find the new one. In this case, gently pick up your KATA Friends and carry them directly to the new location. This will help them remember the new spot the next time they emerge.
@@ -655,18 +621,6 @@ Yes, KATA Friends can greet your family when they return home. To enable this fe
 
 KATA Friends comes with a built-in growth system that lets it change gradually over time as you spend more moments together. It's a lot like having a real pet become part of the family. The more time you spend with your KATA Friends and the more you interact, the more you'll notice it naturally coming closer to you and showing little gestures that feel more affectionate. It slowly grows more comfortable with daily life alongside you. Also, firmware updates help it develop more natural behaviors over time, making your communication feel even smoother. Every now and then, it might even pick up a new way of interacting or surprise you with a fresh little feature. None of this happens by clearing certain steps or reaching specific milestones. It's just a natural process that unfolds as you build a life together. That's how each KATA Friends develops its own unique personality and style of connecting with you. Every KATA Friends also starts with its own distinct personality from day one, so depending on your daily routines and how you interact, you might notice small differences in how yours responds and bonds with you. But the core features are the same across all units. You never have to wonder if yours understands you while another one doesn't. There's no difference like that, so you can feel completely at ease.
 
----
-### Troubleshooting: Received a Notification That SwitchBot KATA Friends Cannot Move Their Own Hands.
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
-2. The fur or clothing may not fit properly. Please adjust the fur on the arm area and check for any spots where it may be too tight.
-https://support.switch-bot.com/hc/en-us/articles/38792001395095
-3. Please touch the arm of the KATA Friends to check if it moves up and down normally. Alternatively, put an eye mask on the KATA Friends, turn off the power, and gently move the arm up and down while it is free to move, listening to any unusual noises. If the arm moves smoothly and there are no strange sounds, the alert is likely a false alarm from the app. In that case, please wait until the notification disappears.
-4. We recommend annual maintenance for the arm motor. During regular use, avoid forcing the arm upward, bending it, or subjecting it to drops or collisions.
-*A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
-https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
 
 ---
 ### Troubleshooting: SwitchBot KATA Friends Have Recorded Many Faces from Television.
@@ -1034,16 +988,6 @@ The issue you pointed out has been fixed with the new firmware. Please check for
 
 
 ---
-### Troubleshooting: The Arms of KATA Friends Are Uneven, One Side Higher Than the Other.
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
-*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
-*A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
-https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
-
----
 ### How to Claim the Six-Month Essential Plan Offered During the Compaign
 
 If you purchase KATA Friends during the campaign, please follow the steps below to claim the six-month Essential Plan.
@@ -1053,17 +997,6 @@ Note:
 The six-month free Essential Plan available as part of this limited offer does not require a redemption code. Simply claim it directly within the app.
 <img width="1272" height="633" alt="image" src="https://github.com/user-attachments/assets/cabaf04d-07a9-4fe8-9e95-fa4d7b1fbb74" />
 
----
-### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying 鈥淧lease Place Me on a Flat Ground鈥?
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-KATA Friends truly enjoy warm and gentle hugs from their family.
-To make them feel more comfortable, we recommend holding your KATA Friends gently, similar to how you would hold a child, and keeping its body as level as possible. If it is lifted too quickly or at an awkward angle, it may mistakenly detect that it is not on a flat surface and trigger the 鈥渇lat ground鈥?reminder.
-You can gently hold your KATA Friends like this:
-https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
-For a smoother experience, you can also switch your KATA Friend to Standby Mode before picking it up. As long as it does not show persistent signs of distress, an occasional error icon usually just means it may need a moment to adjust to being off the ground. Next time, a slightly gentler touch should do the trick.
-If you have any other questions, please do not hesitate to contact us.
 
 ---
 ### Can SwitchBot KATA Friends Speak Foreign Languages?
@@ -1154,11 +1087,6 @@ Regarding this issue, could you please check the following points?
 2. The Wake-up Call may fail if it is interrupted by another task or interaction while running, or if the device is in Standby Mode at the scheduled time. In this case, the app will show the message "KATA Friend is having fun and can't perform scheduled activities".
 3. The Wake-up Call is triggered based on the map location point and the scheduled time. If the current map has been changed, it may affect whether the Wake-up Call can run properly.
 
----
-### Gently Pick up SwitchBot KATA Friends
-
-Please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
-https://drive.google.com/file/d/1zl4A0RrigBzcN9CCkLhMgTnqSc2RoPXM/view?usp=sharing
 
 ---
 ### Can I Still Use My One-Time Purchase Plan If KATA Friends Services Change or Are Discontinued in the Future?
