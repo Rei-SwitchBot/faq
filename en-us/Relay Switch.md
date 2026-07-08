@@ -313,3 +313,13 @@ Related Product: SwitchBot Relay Switch 1PM, SwitchBot Relay Switch 2PM, SwitchB
 5. Restart your home router.
 6. Turn the external physical switch on and off 20 times in a row to restore the Relay Switch to factory settings, then add it again.
 7. If the issue persists, please submit feedback about the connection issue.
+
+---
+### What should I do if I can’t add the Relay Switch?
+
+Last Updated: 2026 Jul 7
+
+Related Product: SwitchBot Relay Switch 1PM, SwitchBot Relay Switch 2PM, SwitchBot Relay Switch 1
+
+1. If you can’t add the Relay Switch to the app, first try putting the Relay Switch into pairing mode. To do this, turn the external physical switch on and off 8 times in a row. Once the device enters pairing mode, follow the setup process to add the Relay Switch again.
+2. If that doesn’t work, try resetting the Relay Switch’s backend cache. To do this, either turn the external physical switch on and off 20 times within 20 seconds to restore factory settings, or press and hold the device button for 15 seconds. After the factory reset is complete, follow the setup process to add the Relay Switch again.
