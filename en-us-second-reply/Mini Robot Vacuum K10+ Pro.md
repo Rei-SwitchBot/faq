@@ -142,19 +142,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Map Is Overlapping
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A screenshot displaying the overlapping maps
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Does Not Return to the Auto-empty Station
 
@@ -433,30 +420,6 @@ Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could provide us with a video of the Robot Vacuum K10+ Pro repeatedly cleaning the same area?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Detects a Dirty Anti-Drop Sensor
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be repaired or replaced, could you kindly provide the following information?
-  1. A screenshot of the cliff sensor error message from the app.
-  2. A video of the Mini Robot Vacuum K10+ Pro announcing, "Please wipe the cliff sensor and restart me somewhere else."
-
-2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
 
 
 ---
@@ -920,21 +883,6 @@ We apologize for any inconvenience caused.
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
-
-We apologize for any inconvenience caused. Please follow the steps below to troubleshoot the issue:
-1. Please check if any foreign object is caught in the K10+ Pro.
-2. Please watch the video to gently pat the bumper and see if it helps with the issue.
-[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
-3. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. To assist us, please provide the following:
-- A screenshot of the error message related to the bumper issue.
-- A video with sound capturing the "The bumper got stuck" error message being announced.
-
-
-
 ---
 ### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+ Pro
 
@@ -953,32 +901,6 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced, could you kindlyvide the following information?
-  1. A screenshot of the error message related to the bumper issue.
-  2. A video with sound capturing the "The bumper got stuck" error message being announced.
-
-2. Also, if the replacement service is needed, to expedite shipment, pleasevide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have alreadyvided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
@@ -1088,6 +1010,7 @@ We will forward your feedback to our R&D team for further investigation, and wou
 - A screenshot displaying the overlapping maps
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
