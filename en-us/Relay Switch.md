@@ -299,10 +299,17 @@ doorbells
 
 , allowing for remote activation of these devices. This provides a simple, flexible setup for integrating automated control in your home.
 
+---
+### What should I do if my Relay Switch often goes offline?
 
+Last Updated: 2026 Jul 7
 
+Related Product: SwitchBot Relay Switch 1PM, SwitchBot Relay Switch 2PM, SwitchBot Relay Switch 1
 
-
-
-
-
+1. Make sure your SwitchBot app is updated to the latest version.
+2. Make sure the Relay Switch is powered on.
+3. Make sure your home Wi-Fi is a 2.4 GHz network, or an IPv6 network that can automatically switch to IPv4.
+4. Make sure the Relay Switch is installed close to your router.
+5. Restart your home router.
+6. Turn the external physical switch on and off 20 times in a row to restore the Relay Switch to factory settings, then add it again.
+7. If the issue persists, please submit feedback about the connection issue.
