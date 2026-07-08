@@ -2268,20 +2268,6 @@ Keep in mind that after a reset, Wi-Fi information, scheduled cleaning, and maps
 [https://support.switch-bot.com/hc/en-us/articles/27820108537239](https://support.switch-bot.com/hc/ja/articles/27820108537239-%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E6%8E%83%E9%99%A4%E6%A9%9FK10-K10-Pro%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88-%E5%88%9D%E6%9C%9F%E5%8C%96)
 10. Please wait a few days before attempting to connect to Wi-Fi again.
 
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Detects a Dirty Anti-Drop Sensor
-
-Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
-Regarding this issue, could you please check the following steps:
-1. Please clean the cliff sensor once again.
-2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ Pro → Details → Component Lifespan → Sensor → Mark as "Cleaned."
-3. Restart the robot by turning the power off and on (remove the faceplate to access the power switch).
-4. Reset the Mini Robot Vacuum K10+ Pro to its factory settings.
-Video guide: [https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view?usp=sharing](https://drive.google.com/file/d/1xlXNCVdpngn2BVitCu8KAcXRgqjMlMaw/view)
-[https://support.switch-bot.com/hc/en-us/articles/27820108537239](https://support.switch-bot.com/hc/en-us/articles/27820108537239-How-to-Reset-SwitchBot-Mini-Robot-K10-K10-Pro)
-
-
 --- 
 ### Troubleshooting Cannot Find the Mop Pad for SwitchBot Mini Robot Vacuum K10+ Pro
 
@@ -2290,16 +2276,6 @@ Regarding this issue, could you please check the following points?
 The mop pad is stored inside the auto-empty station. When you open the lid, you can see it.
 
 <img width="540" height="273" alt="image" src="https://github.com/user-attachments/assets/7e9c0a57-cf58-4faa-b3e6-d5e9ca68c819" />
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
-
-Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
-Regarding this issue, could you please check the following points?
-1. Please check if any foreign object is caught in the K10+.
-2. Please watch the video to gently pat the bumper and see if it helps with the issue.
-[https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view?usp=sharing](https://drive.google.com/file/d/11MF0SwOt5xbLw86s6yHSJ2ZxK7LBkySV/view)
 
 
 ---
