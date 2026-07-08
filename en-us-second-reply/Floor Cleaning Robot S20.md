@@ -1038,3 +1038,55 @@ We will forward your feedback to our R&D team for further investigation, and wou
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Roller Mop Stuck Frequently
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
+Remove the Waste Water Collection Gutter and take a photo of the back of the unit.
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Failed to Refill Water
+
+Thank you for reporting this issue.
+We apologize for any inconvenience caused.
+1. To determine if your device needs to be replaced or repaired, please assist us by providing the following:
+When using the S20's base station:
+- A video demonstrating the water refill failure. (Note: The video should include sound.)
+- A video demonstrating the testing of the fresh water pump
+
+When using the water station:
+- A video demonstrating the water auto-fill failure (Note: The video should include sound.)
+- Photos showing fresh water hose and sewage hose in place
+- How long after using the Water Station is unable to auto-refill
+- A video showing the Water Station being shaken up and down with force
+- A video demonstrating the testing of the fresh water pump
+
+2. Also, if the replacement or repair service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
+- Purchase channel
+- Order ID
+- Recipient Full Name
+- Phone Number
+- Country
+- Street Address
+- City
+- State/Province
+- ZIP/Postal Code
+- A screenshot of your order
+
+*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
+
+---
+### Troubleshooting Roller Mop Doesn't Get Wet and SwitchBot Floor Cleaning Robot S20 Isn't Mopping
+
+Thank you for the information provided.
+Sorry for any inconvenience caused.
+We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
+If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
+

@@ -3431,3 +3431,130 @@ By enabling "Adapt to Carpet", the roller mop will lift and stop mopping when a 
 Once the Avoid Carpets feature is enabled, the robot will not enter or clean any carpeted areas it detects. This is because long-pile carpets may hinder the robot's movement or cause the brushes to become tangled in the fibers. If your carpet has a pile height of 20 mm or more, we strongly recommend enabling the Avoid Carpet feature or setting the entire carpeted area as a No-Go Zone.
 <img width="1280" height="541" alt="image" src="https://github.com/user-attachments/assets/b9752b1a-b28b-4500-b1df-18e1cfde804e" />
 
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Roller Mop Stuck Frequently
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Check for debris around the roller mop. Hair, dirt, or other small particles can get caught and cause it to jam. Refer to the video for cleaning instructions if needed.
+https://drive.google.com/file/d/1qmDZ7VpINw8XBWznLy3yg5KYYS1yMMN0/view
+2. If the roller mop gets stuck and you hear any strange sounds, please record a video of the issue.
+3. If the roller mop gets stuck and the waste water collection gutter detaches easily, please follow these steps:
+Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
+https://drive.google.com/file/d/1H2ytV3bRE4dpvtJrN1eT-FSKhNdczq8-/view?usp=drivesdk
+Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
+[image1]
+Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
+https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drivesdk
+
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Failed to Refill Water
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+When using the S20's base station:
+1. Make sure that the auto-fill port on the base station is properly installed and not damaged.
+[image1]
+2. Please make sure that there is water in the fresh water tank and that it is securely attached. As a precaution, lift the fresh water tank once and then place it back.
+3. Please refer to the video below to verify whether your S20 robot's fresh water pump is functioning correctly.
+https://drive.google.com/file/d/1ZOHfoqlAOGMW70ERoygf55i92Up_B7xx/view?usp=drivesdk
+Tips:
+1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the fresh water outlet for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+[image2]
+3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+5. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot's water inlet, as shown in the video below, improves the situation.
+Video: https://drive.google.com/file/d/1YUG8IiiEw-1CXs5zeZ6AvoFmezgIMQ6V/view?usp=drivesdk
+
+When using the water station:
+1. Make sure that the fresh water hose is properly installed and that the water valve in your home is open.
+2. Make sure that the fresh water hose is not damaged or folded.
+3. Make sure that the water station's auto-fill port is attached and undamaged.
+[image3]
+4. Refer to the linked video and check for any unusual noises by shaking the water station up and down. If you hear a rattling noise, the water station is malfunctioning and needs to be repaired or replaced.
+https://drive.google.com/file/d/1lBYhplCH5tTm9dZfkMNe0cmS5_21-Vzz/view?usp=drivesdk
+5. Pour out the cleaning solution and listen for any sloshing water in the Water Station.
+6. Please refer to the video below to verify whether your S20 robot's fresh water pump is functioning correctly.
+https://drive.google.com/file/d/1ZOHfoqlAOGMW70ERoygf55i92Up_B7xx/view?usp=drivesdk
+Tips:
+1. Keep the S20 powered on and press the mode switch button for 10 seconds until you hear a "beep" sound.
+2. Press the mode switch button once, then the fresh water pump should start running, and you'll hear its sound. Place your finger over the fresh water outlet for 3~4 seconds with force at the back of the S20 to check if you can hear airflow or feel suction.
+[image4]
+3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
+4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
+7. If you cannot confirm the airflow sound or suction power from the robot, please check whether cleaning the robot's water inlet, as shown in the video below, improves the situation.
+Video: https://drive.google.com/file/d/1YUG8IiiEw-1CXs5zeZ6AvoFmezgIMQ6V/view?usp=drivesdk
+
+
+---
+### Is It Possible to Replace the Battery in SwitchBot Floor Cleaning Robot S20?
+
+If your S20 experiences battery issues during the warranty period, we will take full responsibility for providing repair services, including battery replacement.
+If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
+Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
+
+How to replace the battery:
+Video: https://drive.google.com/file/d/1FXz81Y4yXUQVU8RsjkdciZE087oe_zn1/view?usp=drivesdk
+Tips:
+- Turn the S20 unit over. If there is water in the waste water box, remove it to prevent leakage.
+- Use a screwdriver to unscrew and remove the back cover's seven screws.
+- Use a pry bar or similar tool to carefully extract the battery from its compartment. Disconnect the battery connection terminals and remove the old battery.
+- Install a new battery following the same procedure, then reattach the chassis cover.
+- Once you have replaced the battery, update your robot's firmware to ensure optimal performance.
+
+---
+### How to Replace the Check Valve on SwitchBot Floor Cleaning Robot S20
+
+Required Parts:
+2x Silicone Tubes
+1x Three-Way Pipe
+1x Hose Cap
+2x Check Valves
+
+Step-by-Step Replacement Guide:
+1. Turn the vacuum over so the back panel faces upward. Remove the roller mop and waste water tank.
+2. Unscrew the 5 screws securing the rear cover and take it off.
+3. Use a screwdriver to remove the screws holding the hall sensor board in place. Carefully lift the board away.
+4. Take out both old check valves and install the new ones.
+5. Attach the hose cap tightly to one end of the blue hose.
+6. Follow the video instructions to connect the silicone tubes and three-way pipe.
+7. Attach the other end of the silicone tube(s) to the new check valves.
+8. Use scissors to cut a 25mm (1 inch) piece of clear water hose. Connect this to the open end of the three-way pipe.
+9. Put all assemblies back in place. Secure the blue hose according to the diagram.
+10. Reattach the hall sensor board and rear cover using the original screws. Your vacuum is now ready!
+
+Video: https://drive.google.com/file/d/1vR_SIH9ZY7J69ugXPaZ4of1fM9CcfUya/view?usp=drivesdk
+
+
+---
+### Troubleshooting Roller Mop Doesn't Get Wet and SwitchBot Floor Cleaning Robot S20 Isn't Mopping
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please operate the wash-mop by going to SwitchBot App -> S20 -> Functions -> Control -> Wash Mop to see if the roller mop gets wet.
+[image1]
+2. If the mop is not wet after use, make sure the roller is in contact with the ground. If it's not, check the following:
+Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
+https://drive.google.com/file/d/1H2ytV3bRE4dpvtJrN1eT-FSKhNdczq8-/view?usp=drivesdk
+Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
+[image2]
+Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
+https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drivesdk
+3. If the roller mop is wet and in contact with the ground, please enable dampen mop feature by going to SwitchBot App -> S20 -> Functions -> Settings -> Mop Cleaning -> Dampen Mop.
+
+---
+### Troubleshooting SwitchBot Floor Cleaning Robot S20 Roller Mop Is Not Lowering to Touch the Floor
+
+We apologize for any inconvenience caused.
+We have checked the issue for you urgently. Regarding the roller not sticking to the floor, please follow the steps below to troubleshoot the issue:
+1. Remove the Bottom Shell Cover: Follow the disassembly instructions to carefully remove the bottom shell cover of the main unit. This will give you access to the internal components.
+https://drive.google.com/file/d/1H2ytV3bRE4dpvtJrN1eT-FSKhNdczq8-/view?usp=drivesdk
+2. Check the Roller Bracket Shaft: Inspect the position of the roller bracket shaft. Please refer to the non-sticking inspection guide to check whether the shaft position has fallen off.
+[image1]
+3. Reset the Roller Bracket: If you find that the shaft has fallen off, press the roller bracket to reset it according to the maintenance instructions. Once the roller is properly reset, replace the bottom case cover.
+https://drive.google.com/file/d/1O6ofrzk6UiWxc6QtWq6dGAmQY5Bxf9kG/view?usp=drivesdk
+4. If the issue persists after completing the above steps, we will escalate the matter to our R&D team for further investigation. Please feel free to contact us again.
+
