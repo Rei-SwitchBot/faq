@@ -95,3 +95,79 @@ Yes. SwitchBot AI MindClip can record while charging. However, working states su
 
 SwitchBot AI MindClip is designed with sweat resistance and splash resistance in mind. It is suitable for common daily scenarios such as meetings, commuting, calls, and capturing ideas on the go.
 
+
+---
+### What Are the Subscription Service and Free Allowance for SwitchBot AI MindClip?
+
+The subscription service includes added features such as cloud storage, transcription, and summaries. Paid plans can unlock core AI features such as unlimited transcription allowance, automatic cloud upload while charging, and automatic summaries. Free users receive 300 minutes of transcription allowance. Final pricing will be announced later.
+
+---
+### How Much Does SwitchBot AI MindClip Weigh?
+
+SwitchBot AI MindClip weighs about 16.8 g. Its lightweight design makes it easy to wear in daily use and helps reduce discomfort during longer sessions.
+
+---
+### What Are the Battery Life and Charging Time of SwitchBot AI MindClip?
+
+SwitchBot AI MindClip can record continuously for up to about 20 hours. Standby time is up to 40 days, and charging takes about 1 hour.
+
+---
+### What Is the Effective Pickup Range of SwitchBot AI MindClip?
+
+The effective pickup range is about 3 meters, which is suitable for meetings and everyday conversations. In a quiet meeting room, recording may still work at around 4 to 5 meters, but 3 meters is used as the recommended range to allow for noisy environments.
+
+---
+### What Accessories Are Included with SwitchBot AI MindClip?
+
+A USB-C to USB-C cable is included.
+
+---
+### Are Transcription Accuracy and Summary Quality the Same Thing?
+
+No. Transcription accuracy refers to how accurately speech is converted into text, while summary quality refers to how well AI understands, extracts, and organizes the content. Users usually care not only about exact transcription, but also whether the summary is useful and easy to understand.
+
+---
+### Do Speaking Speed, Accent, and Background Noise Affect Transcription?
+
+Yes. Speech recognition can be affected by speaking speed, pronunciation clarity, accent, and background noise. AI can correct some issues based on context, but accuracy may drop in extreme conditions. Better recording quality generally leads to better transcription results.
+
+---
+### How Many Languages Can SwitchBot AI MindClip Transcribe?
+
+SwitchBot AI MindClip currently supports transcription in over 30 languages, including all major ones.
+
+---
+### Can SwitchBot AI MindClip Handle Meetings with Multiple Languages?
+
+The transcription model can recognize multiple languages. It can handle mixed-language transcription for major languages such as Chinese, English, and Japanese. However, summary optimization for mixed-language meetings still requires further validation.
+
+---
+### Will SwitchBot AI MindClip Automatically Match the Summary Language to the Main Language of the Meeting?
+
+We are currently developing a feature that will allow summaries to be displayed automatically in the main language used during the meeting. Please stay tuned.
+
+---
+### How Long Does It Take to See Transcription and Summary Results After Recording?
+
+With cloud upload while charging, recordings are automatically uploaded, transcribed, and summarized after recording ends. A 10-hour audio file can usually be processed within about 30 minutes, while a 1 to 2 hour file typically appears within about 10 minutes. With Bluetooth or Wi-Fi hotspot transfer, users need to open the app or tap the rocket icon to start transfer.
+
+---
+### Does Automatic Summary Need to Be Started Manually?
+
+No. After a recording is uploaded, transcription and summary are completed automatically. Users do not need to manually start the summary process.
+
+---
+### Does SwitchBot AI MindClip Support Real-Time Transcription?
+
+The real-time transcription feature is currently under development. Please stay tuned.
+
+---
+### When Will the Feature That Learns More About Users Over Time Be Available?
+
+This feature is currently under technical evaluation. The goal is to connect past recordings, spoken content, related projects, and people to create memory across conversations. In the current standard version, records are stored independently and do not yet provide full connected memory.
+
+---
+### Can I Choose the AI Model Used for Summaries?
+
+Yes. You can choose the AI model used for summaries in the app. The transcription model and summary model are separate: one affects transcription accuracy, and the other affects summary quality. Model costs are covered by MindClip and are not charged separately to users.
+
