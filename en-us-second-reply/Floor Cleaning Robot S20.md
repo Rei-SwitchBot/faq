@@ -108,33 +108,6 @@ Please remove the bearing and clean it to untangle the hair on both ends of the 
 If you have any other questions, please feel free to contact us!
 
 
-
----
-### Troubleshooting SwitchBot Floor Cleaning Robot S20 Won’t Turn On
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced or repaired, could you kindly provide a short video showing the issue?
-  1. A video showing the robot being manually placed at the base station with both the robot and base station indicator lights visible.
-
-2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-3. If you prefer to replace the battery yourself, our support team can assist by arranging a new battery and providing detailed instructions on how to perform the replacement.
-Note: Replacement services may incur a fee if the battery is not naturally damaged. We appreciate your understanding.
-
-
-
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Firmware Upgrade Failed
 
@@ -142,36 +115,6 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-
----
-### Troubleshooting SwitchBot Floor Cleaning Robot S20 Leaves a Few Centimeters of Water Drops While Mopping the Floor
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced or repaired, could you kindly provide the following information?
-  1. Photo or video of water leak
-  2. Photo showing inside of the waste water box
-  3. A video demonstrating the testing of the waste water pump
-
-2. Also, if the replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-On the other hand, if there are no issues with the waste water pump, we will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
-If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 
 ---
@@ -316,16 +259,6 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-
----
-### Troubleshooting One of SwitchBot Floor Cleaning Robot S20's Wheels Is Not Functioning
-
-If you would like to replace the wheel yourself, we can send you the parts and a video for you to perform the process.
-S20 Wheel Replacement Video
-https://drive.google.com/file/d/1CintEmtbERxc4rcvy-JOnwc5Qp1EK7_X/view?usp=sharing
-https://drive.google.com/file/d/1hssiEbC4OF4U96InRF5JUoe4AJqyY-0G/view?usp=sharing
-Otherwise, we will provide you with repair or replacement services covered by the warranty.
 
 
 ---
@@ -556,20 +489,6 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
----
-### Troubleshooting SwitchBot Floor Cleaning Robot S20's Water Hose Is Creased and Broken
-
-Replacing the water hoses version1: 
-blob:https://ihqz5dyhwa.feishu.cn/403ca0d0-42e2-4976-b65b-ec7f1cd8f1cd
-Video: https://drive.google.com/file/d/1BzI6oBLgaS31MujUieZX18TGobnfZdoM/view?usp=sharing
-Note: Do not forget to attach the black O-rings when exchanging.
-
-Replacing the water hoses version2:
-blob:https://ihqz5dyhwa.feishu.cn/8b5a372f-4e2d-45d5-bc41-f98d3423562b
-Video: https://drive.google.com/file/d/1bTX156APxgd4xjROyBLgns23gNd1UlH3/view?usp=drive_link
 
 
 ---
@@ -921,33 +840,6 @@ Conclusion from the R&D Team:
 2. If there is a strange noise when the water station is shaken up and down, we will arrange for repair service of the water exchange station. At the same time, if the S20's fresh water pump doesn't make any air blowing sound or suction force cannot be confirmed, we will also arrange for repair of the robot S20.
 3. If the video is not available, we will directly repair both the S20 robot and the water station.
 
-
----
-### Troubleshooting SwitchBot Floor Cleaning Robot S20 Is Not Sucking the Dirty Water After Mopping
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-When using the S20's base station:
-  1. A video demonstrating the testing of the waste water pump
-  2. Remove the waste water box and take a photo for us
-  3. A photo showing the backside of the waste water filter cover 
-Note: Remove the waste water tank and open the cover of the waste water filter indicated by the red mark in the diagram below.
-
-<img width="501" height="657" alt="image" src="https://github.com/user-attachments/assets/7b83512f-1d60-439d-bb86-8bc7f93f89c5" />
-
-When using the water station:
-  1. A video demonstrating the testing of the waste water pump
-  2. Remove the waste water box and take a photo for us
-  3. A photo showing the backside of the waste water filter cover 
-Note:
-Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
-
-<img width="447" height="178" alt="image" src="https://github.com/user-attachments/assets/1184ef49-958c-4adb-9111-d9fbba80ba4c" />
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-
-
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20 Keeps Saying the Waste Water Tank Has Been Removed Even When It Isn't
 
@@ -1102,27 +994,32 @@ When using the S20's base station:
 - Remove the waste water box and take a photo for us
 - A photo showing the backside of the waste water filter cover
 Note: Remove the waste water tank and open the cover of the waste water filter indicated by the red mark in the diagram below.
-[image1]
+<img width="501" height="657" alt="image" src="https://github.com/user-attachments/assets/25facb54-80de-45df-aee7-07ef8a8b399e" />
+
 
 When using the water station:
 - A video demonstrating the testing of the waste water pump
 - Remove the waste water box and take a photo for us
 - A photo showing the backside of the waste water filter cover
 Note: Way to open the waste filter cover: Hold the main body of the water station with your hand, then use a pliers or something like that to turn the knob part of the lid counterclockwise until it reaches the position marked with a white circle, then pull it upward.
-[image2]
+<img width="447" height="178" alt="image" src="https://github.com/user-attachments/assets/e6117cc4-c5ff-40e3-9ffc-09ec56f2f704" />
+
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
+
 
 ---
 ### Troubleshooting SwitchBot Floor Cleaning Robot S20's Water Hose Is Creased and Broken
 
 Replacing the water hoses version1:
-[image1]
+<img width="965" height="415" alt="image" src="https://github.com/user-attachments/assets/f7343a9e-b743-4bc5-9784-2dcaab7c6688" />
+
 Video: https://drive.google.com/file/d/161Kdo9LTkypHhMyAr3lv029sNxop5h1h/view?usp=drivesdk
 Note: Do not forget to attach the black O-rings when exchanging.
 
 Replacing the water hoses version2:
-[image2]
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/70940199-b452-4c9e-9d95-b2803ba82f5f" />
+
 Video: https://drive.google.com/file/d/1VACdzs-hkjW4GYQPkQvGCFZqdRESWAw9/view?usp=drivesdk
 
 
