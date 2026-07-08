@@ -171,3 +171,44 @@ This feature is currently under technical evaluation. The goal is to connect pas
 
 Yes. You can choose the AI model used for summaries in the app. The transcription model and summary model are separate: one affects transcription accuracy, and the other affects summary quality. Model costs are covered by MindClip and are not charged separately to users.
 
+
+---
+### What Is the Difference Between Paid and Free AI Features?
+
+Unlimited plans unlock core AI features, including unlimited transcription, automatic cloud upload while charging, and automatic summaries. The Pro plan includes 1,200 minutes of transcription per month, while free users receive 300 minutes. AI summary model selection is available across all plans.
+
+---
+### Will Deleting a Conversation Return Tokens or Allowance?
+
+No. Once a recording has been uploaded, AI resources have already been used to complete transcription and summarization. Deleting a conversation only removes the generated result and does not return the resources already consumed.
+
+---
+### How Is Data Uploaded After Recording Ends?
+
+If the app is open or running in the background, recordings are transferred to the phone over Bluetooth after recording ends. For faster transfer, users can tap the rocket icon in the app to use Wi-Fi hotspot transfer. The recommended option is cloud upload while charging, which automatically uploads over Wi-Fi without relying on the phone.
+
+---
+### Does Cloud Upload While Charging Require the App to Be Open?
+
+No. With cloud upload while charging, the device connects directly to the cloud over Wi-Fi. Users do not need to operate the phone. After recording ends, plugging in the device can automatically trigger upload, transcription, and summary.
+
+---
+### Can Wi-Fi Transfer and Recording Run at the Same Time?
+
+No. When Wi-Fi is enabled for transfer, the device cannot record at the same time because working states are mutually exclusive. However, cloud upload while charging usually completes within a few minutes, so the impact on daily use is limited.
+
+---
+### What Are the Continuous Recording Battery Life and Power Use During Upload?
+
+For recording only, the device can record continuously for about 20 hours. When recording while continuously syncing to the app over Bluetooth, battery life is about 14 hours. With cloud upload while charging, the device is on the charger, so users do not need to worry about battery drain during upload.
+
+---
+### Are Recording Files Kept on the Device After Upload?
+
+No. After recording files are uploaded to the app and cloud, the local files on the device are automatically cleared. This helps save device storage space.
+
+---
+### What Are the Data Storage Paths and Cloud Service Used by SwitchBot AI MindClip?
+
+There are two main data paths. The first is recording to Bluetooth transfer to the phone app, then to the users personal cloud through the phone network. The second is direct upload from the device to the users personal cloud while charging. The cloud service is based on Amazon Web Services.
+
