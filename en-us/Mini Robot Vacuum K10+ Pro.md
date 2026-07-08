@@ -2488,3 +2488,37 @@ https://support.switch-bot.com/hc/en-us/articles/27820108537239
 ### What Is the Height of Steps That SwitchBot Mini Robot Vacuum K10+ Pro Can Climb Over?
 
 SwitchBot Mini Robot Vacuum K10+ Pro can climb over steps up to 1.7 cm in height.
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Map Is Overlapping
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding the issue of your Mini Robot Vacuum K10+ Pro map overlapping, please check the following:
+1. Check if the robot was moved during cleaning.
+2. Check if the robot was lifted, floated, or tilted during cleaning.
+3. Press and hold the front collision guard + power button + sensor part of the robot vacuum for more than 10 seconds to reset it.
+https://drive.google.com/file/d/1sWHg7VMlT_cqkutXLgJW6i8COJ8MEadK/view?usp=drivesdk
+4. Perform the mapping again (try mapping three times).
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Fails to Clean Because of a Bumper Stuck Error
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check if any foreign object is caught in the K10+ Pro.
+2. Please watch the video to gently pat the bumper and see if it helps with the issue.
+https://drive.google.com/file/d/1hvdXy2B3gFSS0A6By0bWYCsdF6C6mtPx/view?usp=drivesdk
+
+
+---
+### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Pro Detects a Dirty Anti-Drop Sensor
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following steps:
+1. Please clean the cliff sensor once again.
+2. After cleaning the cliff sensor, please confirm if you have followed these steps in the SwitchBot app: Go to Mini Robot Vacuum K10+ Pro -> Details -> Component Lifespan -> Sensor -> Mark as "Cleaned."
+3. Restart the robot by turning the power off and on (remove the faceplate to access the power switch).
+4. Reset the Mini Robot Vacuum K10+ Pro to its factory settings.
+Video guide: https://drive.google.com/file/d/1sWHg7VMlT_cqkutXLgJW6i8COJ8MEadK/view?usp=drivesdk
+https://support.switch-bot.com/hc/en-us/articles/27820108537239
+
