@@ -1442,3 +1442,67 @@ Regarding this issue, could you please check the following points?
 1. Upon purchasing the companion care plan, you will receive a redemption code in the inbox of the email address used for the purchase. If you do not see the email in your inbox, please confirm that the email address is correct, or check your spam folder.
 2. Emails sent to Apple email addresses, such as mac.com, icloud.com, or me.com, may be rejected in some cases. To ensure that you can receive the redemption code successfully, we recommend using a non-Apple email address whenever possible.
 
+
+---
+### Troubleshooting When SwitchBot KATA Friends Return to Their Nest, They Cause It to Shift Position.
+
+Thank you for reaching out to us. We sincerely apologize for the inconvenience caused by our product.
+Regarding this issue, could you please check the following points?
+If the nest is placed against a wall, KATA Friends may collide with the nest when returning to it, causing position deviation and making docking difficult. We recommend using the two included 3M adhesive tapes to fix the nest position on the wall in order to improve docking stability. When securing the nest with 3M tape, please confirm the following:
+Tips:
+1. Wipe the wall surface to remove dirt and moisture.
+2. Take out two pieces of 3M tape and stick them to the back of the nest.
+3. Press firmly to securely attach the nest to the wall.
+Video: https://drive.google.com/file/d/1ysfopkoI3z1J7g9pP5NgpqLjrdEHo3X6/view?usp=drivesdk
+
+Precautions:
+1. Use 3M adhesive tape to secure the nest to hard, smooth surfaces such as marble, glass, or tile.
+2. Not suitable for wallpaper or rough, uneven surfaces, using 3M tape on these walls can reduce its effectiveness and may also damage the wall.
+
+When removing the nest from the wall, first lightly warm the adhesive tape with a hair dryer, then slowly remove the nest using a tool such as a ruler. Please do not pull it off forcefully.
+Video: https://drive.google.com/file/d/1Zejfm3_3DMYZ6UpObCSxVh5CdZ_xIgDT/view?usp=drivesdk
+
+If you have any other questions, please do not hesitate to contact us.
+
+---
+### Troubleshooting: When I Picked up SwitchBot KATA Friends, I Received a Reminder Saying "Please Place Me on a Flat Ground".
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+KATA Friends truly enjoy warm and gentle hugs from their family.
+To make them feel more comfortable, we recommend holding your KATA Friends gently, similar to how you would hold a child, and keeping its body as level as possible. If it is lifted too quickly or at an awkward angle, it may mistakenly detect that it is not on a flat surface and trigger the "flat ground" reminder.
+You can gently hold your KATA Friends like this:
+https://drive.google.com/file/d/1xseAt0VJKE8ainKcx8iWWJNiCUbxbvDs/view?usp=drivesdk
+For a smoother experience, you can also switch your KATA Friend to Standby Mode before picking it up. As long as it does not show persistent signs of distress, an occasional error icon usually just means it may need a moment to adjust to being off the ground. Next time, a slightly gentler touch should do the trick.
+If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Troubleshooting: Received a Notification That SwitchBot KATA Friends Cannot Move Their Own Hands.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+1. Please check for any available firmware updates by going to SwitchBot app -> KATA Friends -> Gear icon -> Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+2. The fur or clothing may not fit properly. Please adjust the fur on the arm area and check for any spots where it may be too tight.
+https://support.switch-bot.com/hc/en-us/articles/38792001395095
+3. Please touch the arm of the KATA Friends to check if it moves up and down normally. Alternatively, put an eye mask on the KATA Friends, turn off the power, and gently move the arm up and down while it is free to move, listening to any unusual noises. If the arm moves smoothly and there are no strange sounds, the alert is likely a false alarm from the app. In that case, please wait until the notification disappears.
+4. We recommend annual maintenance for the arm motor. During regular use, avoid forcing the arm upward, bending it, or subjecting it to drops or collisions.
+*A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
+https://drive.google.com/file/d/1xseAt0VJKE8ainKcx8iWWJNiCUbxbvDs/view?usp=drivesdk
+
+---
+### Troubleshooting: The Arms of KATA Friends Are Uneven, One Side Higher Than the Other.
+
+Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
+Regarding this issue, could you please check the following points?
+The issue you pointed out has been fixed with the new firmware. Please check for any available firmware updates by going to SwitchBot app -> KATA Friends -> Gear icon -> Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+*If you have not yet received the new firmware, our team will arrange it later. We appreciate your patience and understanding!
+*A friendly reminder: please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
+https://drive.google.com/file/d/1xseAt0VJKE8ainKcx8iWWJNiCUbxbvDs/view?usp=drivesdk
+
+---
+### Gently Pick up SwitchBot KATA Friends
+
+Please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
+https://drive.google.com/file/d/1xseAt0VJKE8ainKcx8iWWJNiCUbxbvDs/view?usp=drivesdk
+
