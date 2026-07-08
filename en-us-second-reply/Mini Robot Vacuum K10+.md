@@ -143,19 +143,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Map Is Overlapping
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share the following information:
-- A screenshot displaying the overlapping maps
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
-
 ---
 ### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Does Not Return to the Auto-empty Station
 
@@ -432,31 +419,6 @@ We will forward your feedback to our R&D team for further investigation, and wou
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Detects a Dirty Anti-Drop Sensor
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be repaired or replaced, could you kindly provide the following information?
-  1. A screenshot of the cliff sensor error message from the app.
-  2. A video of the Mini Robot Vacuum K10+ announcing, "Please wipe the cliff sensor and restart me somewhere else."
-
-2. Also, if the repair or replacement service is needed, to expedite shipment, please provide us with the necessary details so we can assist you as soon as possible.
-
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-
-
 ---
 ### Troubleshooting the Virtual Wall Keeps Jumping to Unexpected Locations on the Map Created by SwitchBot Mini Robot Vacuum K10+
 
@@ -512,19 +474,6 @@ Thank you for the information provided.
 Sorry for any inconvenience caused.
 We will forward your feedback to our R&D team for further investigation and will try to get back to you as soon as possible.
 If you have any other questions, please let us know, and we'll try to accommodate your request as soon as possible.
-
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ cannot be switched to vacuuming mode even if the mop pad is not installed
-
-Thank you for the information provided.
-Sorry for any inconvenience caused.
-We will forward your feedback to our R&D team for further investigation, and would appreciate it if you could share a video showing the problem. This will help us better understand the situation and pass your feedback to our R&D team for further investigation.
-
-
-*If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 
 ---
@@ -938,31 +887,6 @@ We apologize for any inconvenience caused.
 - A screenshot of your order
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
-*Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
-
----
-### Troubleshooting SwitchBot Mini Robot Vacuum K10+ Fails to Clean Because of a Bumper Stuck Error
-
-Thank you for reporting this issue. 
-We apologize for any inconvenience caused.
-1. To determine if your device needs to be replaced, could you kindlyvide the following information?
-  1. A screenshot of the error message related to the bumper issue.
-  2. A video with sound capturing the "The bumper got stuck" error message being announced.
-
-2. Also, if the replacement service is needed, to expedite shipment, pleasevide us with the necessary details so we can assist you as soon as possible.
-- Purchase channel
-- Order ID
-- Recipient Full Name
-- Phone Number
-- Country
-- Street Address
-- City
-- State/Province
-- ZIP/Postal Code
-- A screenshot of your order
-
-*If you have alreadyvided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
 
