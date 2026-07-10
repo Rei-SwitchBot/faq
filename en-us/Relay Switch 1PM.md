@@ -304,3 +304,27 @@ Please delete the devices added to Home Assistant through Matter under the "web 
 
 <img width="766" height="1280" alt="image" src="https://github.com/user-attachments/assets/cf0cb57e-5c30-42ad-a9f6-34a158201698" />
 
+---
+### What should I do if my Relay Switch often goes offline?
+
+Last Updated: 2026 Jul 7
+
+Related Product: SwitchBot Relay Switch 1PM, SwitchBot Relay Switch 2PM, SwitchBot Relay Switch 1
+
+1. Make sure your SwitchBot app is updated to the latest version.
+2. Make sure the Relay Switch is powered on.
+3. Make sure your home Wi-Fi is a 2.4 GHz network, or an IPv6 network that can automatically switch to IPv4.
+4. Make sure the Relay Switch is installed close to your router.
+5. Restart your home router.
+6. Turn the external physical switch on and off 20 times in a row to restore the Relay Switch to factory settings, then add it again.
+7. If the issue persists, please submit feedback about the connection issue.
+
+---
+### What should I do if I can’t add the Relay Switch?
+
+Last Updated: 2026 Jul 7
+
+Related Product: SwitchBot Relay Switch 1PM, SwitchBot Relay Switch 2PM, SwitchBot Relay Switch 1
+
+1. If you can’t add the Relay Switch to the app, first try putting the Relay Switch into pairing mode. To do this, turn the external physical switch on and off 8 times in a row. Once the device enters pairing mode, follow the setup process to add the Relay Switch again.
+2. If that doesn’t work, try resetting the Relay Switch’s backend cache. To do this, either turn the external physical switch on and off 20 times within 20 seconds to restore factory settings, or press and hold the device button for 15 seconds. After the factory reset is complete, follow the setup process to add the Relay Switch again.
