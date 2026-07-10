@@ -296,16 +296,11 @@ Regarding this issue, could you please check the following points?
 
 
 
-
-
-
-
-
-
 ---
 ### How to Remove SwitchBot Relay Switch 1PM Added to Home Assistant via Matter
 
 Please delete the devices added to Home Assistant through Matter under the "web UI" in the Matter server, as shown in the illustration below.
-[image1]
-[image2]
+<img width="757" height="1280" alt="image" src="https://github.com/user-attachments/assets/1896662c-9ab8-4bc0-8eec-134d499b3463" />
+
+<img width="766" height="1280" alt="image" src="https://github.com/user-attachments/assets/cf0cb57e-5c30-42ad-a9f6-34a158201698" />
 
