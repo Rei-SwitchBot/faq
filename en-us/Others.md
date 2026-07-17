@@ -9403,6 +9403,7 @@ Please use the Delay Actions (Beta) feature of the SwitchBot scene for similar s
 We regret to inform you that SwitchBot Scenes currently cannot be synced to Home Assistant. As a result, controlling SwitchBot Scenes in Home Assistant is not supported at this time.
 If needed, you can select the corresponding SwitchBot device in Home Assistant and create an automation for it directly.
 
+
 ---
 ### Troubleshooting: Opening Pan/Tilt Cam Live View in the SwitchBot App Stops Bluetooth Music Playback and Triggers an Abnormal International Call Prompt on the Car Infotainment System
 
@@ -9416,3 +9417,70 @@ If possible, could you please provide the following information?
 2. The OS version installed on the car infotainment system
 This information will help our team better understand the issue and review it further.
 If you have any other questions, please do not hesitate to contact us.
+
+
+---
+### Can Shared Devices Be Controlled by KATA AI Assistant?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+Yes. As long as you have the required permissions for the shared device, you can control it through KATA AI Assistant.
+
+---
+### What Should I Do if I Don’t Want to Use KATA AI Assistant?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+You can turn off KATA AI Assistant with the following steps:
+
+1. Open SwitchBot App.
+
+2. Tap ... in the upright corner of the Home page.
+
+3. Tap Module Display Settings.
+
+4. Turn off KATA.
+
+---
+### Does KATA AI Assistant Remember What I Said Before?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+KATA AI Assistant currently only supports memory within the current conversation. If a divider saying “The following is a new conversation” appears in the SwitchBot App, KATA AI Assistant will no longer be able to read information from the previous conversation, and you will need to describe your request again.
+
+---
+### What Languages Does KATA AI Assistant Support?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+KATA AI Assistant currently supports voice recognition and spoken responses in English, Chinese, Japanese, German, French, Italian, and Spanish. We recommend using one of these languages when communicating with KATA AI Assistant.
+
+---
+### What Should I Do if KATA AI Assistant Fails to Control My Device?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+1. Bluetooth devices must be connected to a hub before they can be controlled through KATA AI Assistant. Otherwise, a timeout message may appear and the device cannot be controlled.
+
+2. Check whether your network connection is working properly.
+
+---
+### What Can KATA AI Assistant Help Me Do?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+KATA AI Assistant can help you control your devices, check device status, and create scenes or automations through conversation. It can also provide assistance when you encounter any issues.
+
+
