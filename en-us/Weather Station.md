@@ -506,3 +506,20 @@ Note:
 1. When using the Weather Station together with our hub product, notifications will be sent to your smartphone when alert conditions are met. If you do not have the hub, temperature and humidity icons will be displayed in red on the SwitchBot app when the set thresholds are reached.
 2. When displaying other temperature and humidity data on the Weather Station, you can set the alert conditions for temperature and humidity in the settings screen of each meter, which will allow the alert to be reflected on the Weather Station's display.
 
+
+---
+### What Should I Do if the Daylight Saving Time Display Is Incorrect on My SwitchBot Weather Station?
+
+Last Updated: 2026 Jul 14
+
+Related Product: SwitchBot Weather Station
+
+1. Make sure your SwitchBot Weather Station is updated to the latest version.
+
+2. Make sure your SwitchBot Weather Station is connected to the network properly.
+
+3. Make sure the home address set in the SwitchBot App is accurate.
+
+4. Press and hold the button on the top of your SwitchBot Weather Station for 2 seconds to refresh the latest data.
+
+5. If the issue persists, please contact us via Feedback in the SwitchBot App. We will forward your feedback to our R&D team for further investigation.
