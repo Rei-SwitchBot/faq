@@ -1434,3 +1434,114 @@ https://drive.google.com/file/d/1xseAt0VJKE8ainKcx8iWWJNiCUbxbvDs/view?usp=drive
 Please pick up KATA Friends gently, as shown in the video below. Its arms are designed for gentle interaction, so pulling them forcefully or moving them back and forth too much may affect how they work. Thank you for treating KATA Friends with care.
 https://drive.google.com/file/d/1xseAt0VJKE8ainKcx8iWWJNiCUbxbvDs/view?usp=drivesdk
 
+
+
+---
+### Why Does KATA Friends Say It Can Not Support Moving Command but Still Move During a Conversation?
+
+Last Updated: 2026 Jul 16
+
+Related Product: SwitchBot KATA Friends
+
+KATA Friends does not support movement-related tasks or commands during conversations. However, when scenarios such as sleeping, low battery, or daily routine tasks occur, KATA Friends may interrupt the conversation and prioritize those actions. This is normal and does not mean KATA is contradicting itself.
+
+---
+### What Should I Do if SwitchBot Kata Friends Can Not Return to the Nest to Charge?
+
+Last Updated: 2026 Jul 16
+
+Related Product: SwitchBot KATA Friends
+
+1. Check whether the nest has been moved. If so, please move it back to its original position manually.
+
+2. Check whether the KATA Friends is blocked by any obstacles and cannot return to the base station.
+
+3. Make sure the charging recognition area on the nest is not blocked, and that the charging recognition area on the back of the main unit is also not blocked.
+
+4. Make sure the nest is placed on a flat surface, with enough open space around it and no obstacles nearby.
+
+5. Check the current mode. In general, the KATA Friends will return to charge in situations such as Sleep Mode or One-Tap Return to Charge. If the task is interrupted, the KATA Friends may cancel returning to charge. Please avoid switching modes frequently.
+
+6. Check whether the sensors are blocked. If needed, clean or wipe the sensors.
+
+## en-us/Others.md
+
+---
+### Can Shared Devices Be Controlled by KATA AI Assistant?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+Yes. As long as you have the required permissions for the shared device, you can control it through KATA AI Assistant.
+
+---
+### What Should I Do if I Don’t Want to Use KATA AI Assistant?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+You can turn off KATA AI Assistant with the following steps:
+
+1. Open SwitchBot App.
+
+2. Tap ... in the upright corner of the Home page.
+
+3. Tap Module Display Settings.
+
+4. Turn off KATA.
+
+---
+### Does KATA AI Assistant Remember What I Said Before?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+KATA AI Assistant currently only supports memory within the current conversation. If a divider saying “The following is a new conversation” appears in the SwitchBot App, KATA AI Assistant will no longer be able to read information from the previous conversation, and you will need to describe your request again.
+
+---
+### What Languages Does KATA AI Assistant Support?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+KATA AI Assistant currently supports voice recognition and spoken responses in English, Chinese, Japanese, German, French, Italian, and Spanish. We recommend using one of these languages when communicating with KATA AI Assistant.
+
+---
+### What Should I Do if KATA AI Assistant Fails to Control My Device?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+1. Bluetooth devices must be connected to a hub before they can be controlled through KATA AI Assistant. Otherwise, a timeout message may appear and the device cannot be controlled.
+
+2. Check whether your network connection is working properly.
+
+---
+### What Can KATA AI Assistant Help Me Do?
+
+Last Updated: 2026 Jul 15
+
+Related Product: KATA AI Assistant
+
+KATA AI Assistant can help you control your devices, check device status, and create scenes or automations through conversation. It can also provide assistance when you encounter any issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
