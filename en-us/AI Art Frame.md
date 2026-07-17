@@ -352,3 +352,9 @@ When hanging the AI Art Frame horizontally, please hang the frame edge on the Ad
 For white walls, fabric-covered walls, or uneven surfaces such as powdery or peeling walls, please use wall-mounting screws instead.
 Due to its weight, the 31.5-inch AI Art Frame can only be installed using wall-mounting screws. Adhesive hooks are not compatible with this size.
 
+---
+### DECLARATION OF CONFORMITY (ART FRAME)
+
+Last Updated: 2026 Jul 15
+
+![](https://support.switch-bot.com/hc/article_attachments/41965601765271)
