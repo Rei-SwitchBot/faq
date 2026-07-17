@@ -259,3 +259,23 @@ Setup Video: https://drive.google.com/file/d/1PqAj3W_7BUIKmVLV_qdApX98eJmg8zXw/v
 Note:
 Please contact the camera manufacturer for instructions on how to obtain the RTSP link.
 
+
+---
+### How to Migrate AI Hub Data
+
+Last Updated: 2026 Jul 17
+
+Related Product: AI Hub
+
+1. Prepare an empty microSD card or a Type-C SSD.
+
+2. Copy all data from the original microSD card or SSD to the new microSD card or SSD.
+
+3. Connect the new microSD card or SSD to AI Hub.
+
+4. After that, AI Hub will automatically write new data to the connected microSD card or SSD.
+
+5. Please note that if AI Hub is connected to multiple storage devices, it will only read the one that was connected first. It cannot read multiple storage devices at the same time.
+
+
+
