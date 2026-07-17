@@ -195,3 +195,30 @@ Yes, you can use the RTSP and ONVIF protocols to connect the Outdoor Pan Tilt Ca
 https://support.switch-bot.com/hc/en-us/articles/31984833990423
 Video: https://drive.google.com/file/d/1qR5lOaHK5ZyxJVUyXgttUkzr4ncwGjKD/view?usp=drivesdk
 
+
+---
+### What Should I Do if My SwitchBot Outdoor Pan/Tilt Cam 3K Has Many Inaccurate Motion Detection Records?
+
+Last Updated: 2026 Jul 16
+
+Related Product: SwitchBot Outdoor Pan Tilt Cam 3K
+
+1. Check whether there are any movements in the camera view that may not be immediately noticeable, such as air vents, glass reflections, sunlight, moving curtains, rotating fans, rain, or trees swaying in strong wind. Since the camera detects motion based on changes in the image, these movements may cause false detections.
+
+2. Try changing the installation angle or installation environment to avoid having moving objects within the camera view.
+
+3. Set the motion detection sensitivity according to the distance of the target. Higher sensitivity may make false detections more likely.
+
+
+---
+### How to Keep SwitchBot Outdoor Pan/Tilt Cam 3K at the Position After Adjusting the View
+
+Last Updated: 2026 Jul 16
+
+Related Product: SwitchBot Outdoor Pan Tilt Cam 3K
+
+1. After the device moves, there may be a slight deviation when the camera returns to its original preset position. This is common for pan/tilt tracking cameras and does not necessarily indicate a device fault. During tracking, the camera needs to rotate the pan/tilt mechanism continuously. When returning to its position, factors such as mechanical transmission error, angle control accuracy, stopping inertia, and the return-position algorithm may affect the final position. Therefore, it may not return to exactly the same position every time. In general, this is acceptable as long as it does not affect the main monitoring area.
+
+2. Turning Motion Detection off and then on again will clear the detection area you previously set.
+
+3. If the deviation is large, you can manually calibrate the pan/tilt accuracy, or contact us via Feedback in the SwitchBot App for further assistance.
