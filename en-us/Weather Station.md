@@ -523,3 +523,16 @@ Related Product: SwitchBot Weather Station
 4. Press and hold the button on the top of your SwitchBot Weather Station for 2 seconds to refresh the latest data.
 
 5. If the issue persists, please contact us via Feedback in the SwitchBot App. We will forward your feedback to our R&D team for further investigation.
+
+---
+### What Should I Do if the Daylight Saving Time Display Is Incorrect on My SwitchBot E-Ink Home Dashboard?
+
+Last Updated: 2026 Jul 23
+
+Related Product: SwitchBot E-Ink Home Dashboard
+
+1. Make sure your SwitchBot E-Ink Home Dashboard is updated to the latest version.
+2. Make sure your SwitchBot E-Ink Home Dashboard is connected to the network properly.
+3. Make sure the home address set in the SwitchBot App is accurate.
+4. Press and hold the button on the top of your SwitchBot E-Ink Home Dashboard for 2 seconds to refresh the latest data.
+5. If the issue persists, please contact us via Feedback in the SwitchBot App. We will forward your feedback to our R&D team for further investigation.

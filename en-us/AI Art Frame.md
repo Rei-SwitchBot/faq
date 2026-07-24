@@ -358,3 +358,79 @@ Due to its weight, the 31.5-inch AI Art Frame can only be installed using wall-m
 Last Updated: 2026 Jul 15
 
 ![](https://support.switch-bot.com/hc/article_attachments/41965601765271)
+
+---
+### What Happens if I Don’t Have Enough AI Studio Generation Credits?
+
+Last Updated: 2026 Jul 22
+
+Related Product: SwitchBot AI Art Frame
+
+App Version: v9.28 or newer
+
+Firmware Version: v1.1 or newer
+
+If you do not have enough AI Studio generation credits, Weather Muse will automatically turn off and notify you that your current credits are insufficient.
+
+After you get available AI Studio generation credits, you can turn Weather Muse back on.
+
+---
+### Does Each Generation Use AI Studio Generation Quota?
+
+Last Updated: 2026 Jul 22
+
+Related Product: SwitchBot AI Art Frame
+
+App Version: v9.28 or newer
+
+Firmware Version: v1.1 or newer
+
+Yes. Each successfully generated image uses 1 AI Studio generation credit, including:
+
+- Daily automatic weather artwork generation
+- Manually tapping **Preview** and successfully generating an artwork
+
+Changing only the theme, prompt, filter, refresh time, or display duration will not use any generation credits. Syncing an already generated image will not use credits again.
+
+---
+### How Many Images Are Automatically Generated Each Day?
+
+Last Updated: 2026 Jul 22
+
+Related Product: SwitchBot AI Art Frame
+
+App Version: v9.28 or newer
+
+Firmware Version: v1.1 or newer
+
+Weather Muse automatically generates one weather artwork each day and syncs it to AI Art Frame once.
+
+If image syncing fails, the system will not generate the image again, so your AI Studio generation quota will not be consumed repeatedly.
+
+---
+### How Does Weather Muse Get Weather Information?
+
+Last Updated: 2026 Jul 22
+
+Related Product: SwitchBot AI Art Frame
+
+App Version: v9.28 or newer
+
+Firmware Version: v1.1 or newer
+
+Weather Muse gets local weather information based on the home location you set in the SwitchBot App, and uses the day’s weather as inspiration to generate artwork.
+
+If you have not set a home location yet, please go to Home Settings and complete the location setup first.
+
+---
+### What Is Weather Muse and What Versions Does It Support?
+
+Last Updated: 2026 Jul 22
+
+Related Product: SwitchBot AI Art Frame
+
+App Version: v9.28 or newer
+
+Firmware Version: v1.1 or newer
+
+Weather Muse is a weather-based creation feature in AI Express. It combines the day’s weather, your selected theme, prompt, and art filter to generate a new artwork, then syncs it to AI Art Frame at the scheduled time.
