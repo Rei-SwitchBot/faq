@@ -3403,3 +3403,23 @@ Tips:
 3. If the pump doesn't make any sound, repeat the steps above 2-3 times to rule out incorrect button presses (holding too long or too short).
 4. Turn off the power switch (O), then turn it back on (I), and the S20 will return to normal operation.
 
+---
+### How to Re-pair the Floor Cleaning Robot S20 with the Auto-empty Station
+
+1. Make sure that the auto-empty station is powered on.
+2. Make sure that the S20 is powered on by removing the main unit's faceplate and switching the power to I.
+3. Manually dock the S20 to the auto-empty station and make sure the charging terminals are fully contacted.
+
+[image1]
+
+1. Press the home button on the main unit of the S20 for 6 seconds, and you will hear a voice from the S20 saying, "Entering Bluetooth pairing mode".
+
+[image2]
+
+1. Open the lid of the auto-empty station and long press the Bluetooth button for 6 seconds. The indicator on the auto-empty station will change from orange to flashing white to enter the Bluetooth pairing mode.
+
+[image3]
+
+1. Wait 5 to 10 seconds, then the S20 will announce the success of Bluetooth pairing.
+2. If pairing fails, restart the S20 and try again following the steps above.
+

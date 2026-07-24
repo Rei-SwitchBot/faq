@@ -1390,17 +1390,15 @@ If you have any other questions, please feel free to contact us.
 
 SwitchBot App Version:  8.8 or newer
 
-Solution:
 IR Decoding Function allows the SwitchBot Hub 2 to receive infrared information transmitted by the physical remote control of the air conditioner and synchronize it with the application.
 
 At present, it has been found that Hub 2's air conditioner remote control synchronization (IR Decoding) function is compatible with approximately 1,800 models of air conditioners (No further additions are planned). If you want to use the IR decoding feature, please first check the following list of supported AC remotes.
-https://drive.google.com/file/d/1h623tPGlxtis9tgvfx2NGrVI6nScO90b/view?usp=sharing
 
-If your air conditioner is on the supported list, you need to have SwitchBot App V8.8 or a newer version and be added to the white list by our R&D team. After being added to the white list, you can enable the IR decoder function by going to SwitchBot App -> Air Conditioner Remote -> Gear Icon -> IR decoder (Beta). 
+https://drive.google.com/file/d/1U2VTFcZHOHL-Ku5EHlcwlezFJ-GdvlUX/view
 
-![image](https://github.com/user-attachments/assets/2e0e8826-5ea2-4d8d-8750-5e0dc6b7a460)
+If your air conditioner is on the supported list, you need to have SwitchBot App V8.8 or a newer version and be added to the white list by our R&D team. After being added to the white list, you can enable the IR decoder function by going to SwitchBot App -> Air Conditioner Remote -> Gear Icon -> IR decoder (Beta). If your home air conditioner is on the compatible list and you want to experience this feature, please contact us through the SwitchBot App -> Profile -> Support -> Feedback to request adding it to the whitelist.
 
-
+[image1]
 
 ---
 ### Troubleshooting Unexpected Beeping from SwitchBot Hub 2
