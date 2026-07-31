@@ -9483,4 +9483,33 @@ Related Product: KATA AI Assistant
 
 KATA AI Assistant can help you control your devices, check device status, and create scenes or automations through conversation. It can also provide assistance when you encounter any issues.
 
+---
+### Do Automations Support Duration-Based Temperature or Humidity Triggers?
 
+Last Updated: 2026 Jul 23
+
+Related App version: v10.0 or later
+
+Yes. This feature helps prevent scenes and automations from being triggered by temporary temperature or humidity fluctuations. For example, an automation will only be executed when “the temperature is above 27°C for 5 minutes.”
+
+If the temperature or humidity returns to normal during the duration, or if the device goes offline, the timer will restart.
+
+Supported devices:
+
+Support both temperature and humidity:
+
+- SwitchBot Hub Mini Matter
+- SwitchBot Hub Plus
+- SwitchBot Hub 2
+- SwitchBot Hub 3
+- SwitchBot Meter
+- SwitchBot Meter Plus
+- SwitchBot Outdoor Meter
+- SwitchBot Meter Pro
+- SwitchBot Meter Pro CO₂
+- SwitchBot Climate Panel
+
+Support humidity only:
+
+- SwitchBot Air Purifier
+- SwitchBot Air Purifier Table

@@ -1464,19 +1464,33 @@ Related Product: SwitchBot KATA Friends
 
 6. Check whether the sensors are blocked. If needed, clean or wipe the sensors.
 
+---
+### KATA Friends Family ＆ Friends List Feature Guide
 
+Last Updated: 2026 Jul 21
 
+Related Product: SwitchBot KATA Friends
 
+Related App Version: v10.0 or newer
 
+Related Firmware Version: v1.2.075 or newer
 
+Feature Overview
 
+The “Family & Friends” is a new feature in KATA Friends. You can add people who are important to you, such as family members or friends, so KATA can better remember key information about them.
 
+After you add someone to the list, KATA can use the information you provide to create a more personalized experience around that relationship. For example, on a listed person’s birthday, KATA may show a special birthday-related response.
 
+How to Set It Up
 
+You can find the “Family & Friends” entry on the device settings page in KATA Friends. From there, you can add or manage information for your family members and friends.
 
+If you do not see the entry yet, it usually means that either the App or the device firmware has not been updated to a version that supports this feature. Please update both the App and the device firmware, then check again.
 
+Notes
 
+Each device currently supports adding up to 10 people to the Family & Friends List.
 
+If you update a person’s birthday information later, the latest information will take effect. If you delete that person from the list, birthday-related responses associated with them will no longer be triggered.
 
-
-
+The “Family & Friends” is an additional feature and will not affect KATA’s existing birthday-related features.
