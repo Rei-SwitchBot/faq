@@ -17,13 +17,16 @@ If multiple smartphones share the same SwitchBot account, they can all access th
 For security reasons, each smart video doorbell can only be linked to one SwitchBot app account. The device is not registered directly to a smartphone, but is instead stored under your account.
 If multiple smartphones share the same SwitchBot account, they can all access the doorbell. However, if you need to grant access to a different account (e.g., for family members), please use the Home Sharing feature instead.
 
-
 ---
 ### Can I Use the Solar Panel from SwitchBot Outdoor Spotlight Camera to Charge SwitchBot Smart Video Doorbell?
 
-Please avoid using the solar panel for outdoor spotlight camera on the Video Doorbell. 
-While they share the Type C standard, the port lengths differ slightly. Although you can charge the battery with the outdoor spotlight camera solar panel, it is not waterproof. For optimal performance and weather protection, please wait for our dedicated video doorbell solar panel.
+Last Updated: 2026 Jul 29
 
+Related Product: SwitchBot Smart Video Doorbell
+
+Please**avoid using**the solar panel for outdoor spotlight camera on the Video Doorbell.
+
+While they share the Type C standard, the port lengths differ slightly. Although you can charge the battery with the outdoor spotlight camera solar panel, due to the different shape of the connector end, it is not waterproof while using on Video Doorbell. For optimal performance and weather protection, please wait for our dedicated video doorbell solar panel.
 
 ---
 ### Can I Use Multiple SwitchBot Smart Video Doorbells to Unlock the Lock?
@@ -1589,3 +1592,11 @@ Regarding this issue, could you please check the following points?
 3. If the SD card cannot be removed, please try using a tool with a fine tip as shown in the video below to remove the card.
 https://drive.google.com/file/d/1dgTeeCyfyGtnaBMkZEgTDl97RIMVmzgs/view?usp=drivesdk
 
+---
+### How to Remove the Doorbell (Video)
+
+Last Updated: 2026 Jul 31
+
+Related Product: SwitchBot Smart Video Doorbell
+
+Please slide the sub-unit to the left while keeping a reset pin or another thin, narrow object inserted into the hole.

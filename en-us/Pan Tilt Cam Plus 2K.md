@@ -667,3 +667,12 @@ This display is currently part of the live view page design. We understand that 
 - Tap personalized recommandations.
 - Switch On to Off.
 3. If you have any questions, please contact us via SwitchBot App -> Profile -> Support -> Feedback.
+
+---
+### Does Pan/Tilt Cam Plus 3MP Support Sound Detection Notifications?
+
+Last Updated: 2026 Jul 31
+
+- **Related Products: Pan/Tilt Cam Plus 2K**
+
+Currently, this device does not support detecting sounds and sending notifications.

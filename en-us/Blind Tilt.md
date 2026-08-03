@@ -219,41 +219,30 @@ SwitchBot Blind Tilt
 
 [Embedded Content](//www.youtube-nocookie.com/embed/pURIlEXbq-o)
 
-
-
 ---
 ### How to Set Up Open/Close at Sunrise/Sunset for SwitchBot Blind Tilt?
 
-Updated: Feb 19th, 2023
-
-Applicable Products: SwitchBot Blind Tilt
-
-SwitchBot App Version: V6.22 or newer
+Last Updated: 2026 Jul 31
 
 Firmware Version: V2.0 or newer
 
-1. Make sure you have the latest version of the SwitchBot App.
+- **Applicable Products: SwitchBot Blind Tilt**
+- **SwitchBot App Version: V6.22 or newer**
 
-2. Make sure the Third-party Service of the Blind Tilt is enabled.
+1. Open the SwitchBot App.
+2. Tap "Automation" at the bottom of the App.
+3. Tap "+" in the upper right corner of the "Automation" page.
+4. Name the automation.
+5. Choose "Add condition" under "When".
+6. Select "Schedule".
+7. Select "Sunrise" or "Sunset".
+8. Tap "At Sunrise" or "At Sunset" if you want to set up a specific period before or after them. For example, you can set it up 30 minutes after sunrise.
+9. You can also set up a specific location via the "Location" option.
+10. Tap "Save" and go back to the automation settings page.
+11. Choose "Add Action" under "Then".
+12. Set up the action you want, then tap "Save".
 
-![Image](https://support.switch-bot.com/hc/article_attachments/26002106387095)
-
-3. Open the SwitchBot App and set up a scene.
-
-Tap the '+' button in the top right corner of the Scenes page.
-
-Tap ' Add a condition'.
-
-Tap 'Schedule'.
-
-Tap 'Sunrise/Sunset and save
-
-Tap 'Add an action'.
-
-Note: if you want the Blind Tilt triggered Both at sunrise/sunset, please set up two scenes.
-
-4. After the Scene has been created, the Blind Tilt will be able to open/close at sunrise/sunset.
-
+Please also note that you can schedule automation to trigger before or after sunrise/sunset. For example, 2 hours before sunrise or 30 minutes after sunset.
 
 ---
 ### How to install Blind Tilt when there is decorative covers on curtains?
@@ -894,3 +883,14 @@ To help us investigate this further, could you please provide the following info
 How many times per day do you usually open or close the Blind Tilt?
 If possible, could you also share the purchase link for the blinds installed in your home?
 Once we receive this information, we will be happy to check this further for you.
+
+---
+### Can I Connect Blind Tilt and Remote Button Without Using the SwitchBot App?
+
+Last Updated: 2026 Jul 31
+
+- **Related Products: Blind Tilt**
+
+Currently, adding, pairing, and using Blind Tilt with Remote Button must be completed through the SwitchBot App. Once they are paired, you can use Remote Button to control Blind Tilt directly.
+
+For the best experience, we recommend using Remote Button together with the SwitchBot App.

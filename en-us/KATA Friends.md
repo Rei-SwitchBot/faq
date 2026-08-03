@@ -1494,3 +1494,180 @@ Each device currently supports adding up to 10 people to the Family & Friends Li
 If you update a person’s birthday information later, the latest information will take effect. If you delete that person from the list, birthday-related responses associated with them will no longer be triggered.
 
 The “Family & Friends” is an additional feature and will not affect KATA’s existing birthday-related features.
+
+---
+### What Is the Relationship Between KATA and KATA Friends?
+
+Last Updated: 2026 Jul 31
+
+- **Related Products: KATA Friends**
+
+KATA, NOA, and NIKO are all good friends. NOA and NIKO are companions born from the concept of “KATA.” As KATA Friends, each with their own unique personality, they will accompany you in your daily life.
+
+---
+### What Should I Do if KATA Friends Consumes Battery Quickly?
+
+Last Updated: 2026 Jul 31
+
+- **Related Products: KATA Friends**
+
+KATA Friends continuously performs environmental sensing, autonomous movement, and real-time interaction while operating. Therefore, it needs regular time to rest, sleep, and charge.
+
+Under normal interaction, KATA Friends can be used for about 3 hours from a full battery to low battery. Battery consumption may increase during frequent interactions, which is normal.
+
+Please give KATA Friends enough time to rest, sleep, and charge. If you notice abnormal battery consumption, please record the time when the issue occurred and the abnormal battery life, then contact us via Feedback in the SwitchBot App.
+
+---
+### What Should I Do if KATA Friends Makes Abnormal Sounds or Noise?
+
+Last Updated: 2026 Jul 31
+
+- **Related Products: KATA Friends**
+
+1. When KATA Friends moves, the internal joints, gears, and motors operate and rub against each other, which may produce some noise. Although our engineers have applied noise-reduction designs, this sound cannot be completely avoided. Currently, the operating noise is controlled at a relatively low level: approximately below 30 dB when walking and below 40 dB when moving.
+2. It is normal to occasionally hear a relatively noticeable sound, similar to a “joint cracking” sound.
+3. If there is obvious noise during operation, or a repeated “tapping” sound, it may be caused by other issues, such as foreign objects getting stuck or a device fault.
+
+---
+### What Should I Do if KATA Friends’ Arm Cannot Move, Gets Stuck, or Moves Abnormally?
+
+Last Updated: 2026 Jul 31
+
+Firmware Version: V1.2.050 or newer
+
+- **Related Products: KATA Friends**
+
+1. Make sure the device firmware version is up to date.
+2. If the issue only occurs occasionally, the arm may have been blocked by an external object while moving, or it may have been moved manually. In this case, you can gently touch the arm and observe whether it can move up and down normally during actual operation. You can also put the eye mask on KATA Friends and power it off. When the arm can move freely, gently move the arm up and down and check whether there is any abnormal noise. If the arm moves normally and there is no abnormal noise, the issue was likely caused by the external factors mentioned above. Please wait until the task error message disappears during the next task.
+3. If the arm moves abnormally, makes a clicking noise, or the error message does not disappear, please record the time when the issue occurred and a video showing the abnormal behavior, then contact us via Feedback in the SwitchBot App.
+4. The fur or clothing may not fit properly. Try adjusting the fur around the arm to avoid any overly tight areas. If you are not sure, you can take photos and contact us via Feedback in the SwitchBot App. When dressing KATA Friends, please read the clothing instructions carefully and follow the wearing guide to avoid affecting arm movement due to incorrect dressing.
+5. We recommend sending the arm motor for maintenance once a year. During daily use, avoid lifting KATA Friends by the arms, manually moving the arms, or dropping or bumping KATA Friends. This can help extend the service life of the arm motor.
+
+---
+### What Should I Do if KATA Friends Initialization Is Abnormal?
+
+Last Updated: 2026 Jul 31
+
+- **Related Products: KATA FriendsSwitchBot**
+
+1. Check whether KATA Friends has been added to another account before. Please use the same account to add the device.
+2. If you want to switch to another account, please remove the device from the original account first.
+3. If this is a brand-new device, please contact us via Feedback in the SwitchBot App.
+
+---
+### What Should I Do if Photos Taken by KATA Friends Do Not Appear in the Album?
+
+Last Updated: 2026 Jul 31
+
+App Version: V9.25 or newer
+
+Firmware Version: V1.2.058 or newer
+
+- **Related Products: KATA FriendsSwitchBot**
+
+1. If no photos appear at all, and no new photos are added to the album even after KATA Friends takes a photo:
+
+- Close the SwitchBot App, then reopen or refresh it and try again.
+- If the issue persists, please contact us via Feedback in the SwitchBot App. We will forward your feedback to our R&D team for further investigation.
+
+2. If photos already exist in the album, but newly taken photos are not added:
+
+- Check whether the album storage shown at the bottom of the album page is full. If it is full, please transfer some photos to another device or delete some photos from the album.
+- If the storage is not full, close the SwitchBot App, then reopen or refresh it and try again.
+- If the issue persists, please contact us via Feedback in the SwitchBot App. We will forward your feedback to our R&D team for further investigation.
+
+3. If you cannot see photos after entering the album, but you were able to see them before, please make sure your phone and KATA Friends are connected to the same network, and that the network connection is stable.
+
+---
+### What Should I Do if KATA Friends Does Not Respond During a Conversation?
+
+Last Updated: 2026 Jul 31
+
+App Version: V9.25 or newer
+
+Firmware Version: V1.2.058 or newer
+
+- **Related Products: KATA FriendsSwitchBot**
+
+1. Make sure the firmware version is up to date.
+2. Make sure your SwitchBot App version is up to date. The conversation feature requires you to enable Chat Mode in the SwitchBot App.
+Related article: [Can I Chat with SwitchBot KATA Friends?](https://support.switch-bot.com/hc/en-us/articles/38179447929623)
+3. The conversation feature must be started with a specific command, such as "Let's chat".
+4. The network connection may be unstable. Try waking the conversation again. Since Chat Mode requires relatively high processing power, KATA Friends may respond more slowly in poor network environments. Please make sure your network connection is stable.
+5. Restart the device and try again.
+6. After KATA Friends enters Chat Mode, its original built-in sounds will no longer play. It will focus on natural language conversation with you instead. Therefore, you may sometimes see it moving around without making any sound. This is normal. As long as KATA Friends can speak when you communicate with it, the device is working properly.
+
+---
+### What to Do if the Gesture Control for Kata Friends Is Very Slow or Unresponsive?
+
+Last Updated: 2026 Jul 29
+
+Related Product: SwitchBot KATA Friends
+
+1. Please check for any available firmware updates by going to SwitchBot app → KATA Friends → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+2. Restart the device and try again.
+
+3. The surrounding environment may be too noisy or complex, and KATA Friends may not have heard your voice clearly. Please try saying the command again in a louder voice.
+
+4. Try giving clear commands such as “sing,” “dance,” or “say hello” and check whether KATA Friends responds normally. If it does, the previous command may not have been clear or loud enough. Please try again.
+
+5. KATA Friends can recognize specific gestures. For some less clear commands, it is still continuously learning. For gestures that KATA Friends can understand, please refer to the link below. Please note that KATA Friends are still learning more complex gestures and may not be able to understand them yet , so we kindly ask for your understanding.
+
+Related Post: [How to Interact with KATA Friend?](https://support.switch-bot.com/hc/en-us/articles/34598446670871)
+
+6. If the issue persists, please please contact us via Feedback in SwitchBot App. When contacting us, please provide with the following information:
+
+- A video clearly shows your gesture toward KATA Friends, but it does not respond.
+
+---
+### What Should I Do if KATA Friends Cannot Remember Previous Conversation Content?
+
+Last Updated: 2026 Jul 31
+
+Related Product: SwitchBot KATA Friends
+
+- **Related Firmware: V1.2.062 or newer**
+
+KATA Friends does not remember every detail from previous conversations. If there is something important you would like it to remember, please mention it to KATA Friends more often during conversations.
+
+And please make sure your KATA Friends firmware version is up to date.
+
+---
+### What Should I Do if KATA Friends Mistakes Its Own Name During a Conversation?
+
+Last Updated: 2026 Jul 31
+
+Related Product: SwitchBot KATA Friends
+
+- **Related Firmware: V1.2.062 or newer**
+
+1. If you have set a custom wake word as its name, but KATA Friends still thinks it is Noa or Niko during conversations, this may be because its original memory of the name is relatively strong and it has not fully adapted yet. You can patiently remind and teach it a few more times.
+2. Make sure the device firmware version is up to date, then restart the device and try again.
+
+---
+### What to Do If SwitchBot KATA Friends Fails to Connect to Wi-Fi and Cannot Be Added to SwitchBot App?
+
+Last Updated: 2026 Jul 29
+
+Related Product: SwitchBot KATA Friends
+
+**1. Initial troubleshooting**
+
+- Make sure the Wi-Fi password is correct.
+- Switch to a 2.4 GHz Wi-Fi network and try connecting again. 5 GHz Wi-Fi and enterprise routers are not supported. Please also check whether your router is using WPA1 or WPA2.
+- Keep KATA Friends within a range with a strong Wi-Fi signal.
+- Restart KATA Friends, then close and reopen the SwitchBot app.
+
+**2. Pairing steps**
+
+When KATA Friends is powered on, quickly press the bottom button twice. When the Wi-Fi icon appears in its eyes, follow the instructions in the SwitchBot app to add the device and enter your Wi-Fi password.
+
+**3. Notes**
+
+- If pairing fails and you need to reconnect, remove the device from the app, then press the device button again to enter pairing mode. Do not reconnect by selecting a new Wi-Fi network on the Wi-Fi settings page.
+- On the Wi-Fi scanning page, manually entering a Wi-Fi name is not supported. The device needs to scan and find the Wi-Fi network automatically. If the Wi-Fi network cannot be scanned, go back to the initial troubleshooting steps and check your Wi-Fi network.
+
+**4. Still not working?**
+
+After confirming that KATA Friends has entered pairing mode and the Wi-Fi icon is flashing in its eyes, please record your phone screen from the app operation page until pairing fails, or record a video of the entire pairing process, then submit feedback to us.

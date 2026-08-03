@@ -277,5 +277,37 @@ Related Product: AI Hub
 
 5. Please note that if AI Hub is connected to multiple storage devices, it will only read the one that was connected first. It cannot read multiple storage devices at the same time.
 
+---
+### AI Agent Plan FAQ
 
+Last Updated: 2026 Jul 31
 
+Related Product: AI Hub
+
+**1. What Is the AI Agent Plan?**
+
+The AI Agent Plan is an AI agent subscription service provided by SwitchBot. It gives you access to leading large language models currently available on the market.
+
+After subscribing to the AI Agent Plan, you can use OpenClaw’s AI conversation and intelligent task-processing features on AI Hub.
+
+**2. Why Hasn’t My One-Month Free Trial Been Activated?**
+
+The one-month free trial of the AI Agent Plan is automatically activated the first time you enable OpenClaw on AI Hub. No manual activation is required.
+
+The trial lasts for one month. Please note that the free trial includes a smaller usage allowance than the paid plans currently available. Once the trial expires, OpenClaw will stop providing AI conversation and task-processing services unless you subscribe to a paid plan.
+
+If you have already enabled OpenClaw but the free trial has not been activated, please confirm whether this is the first time your SwitchBot account has used the AI Agent Plan.
+
+**3. Why Doesn’t the Actual Number of Conversations Match the Remaining Usage Shown in the App?**
+
+The usage shown in the SwitchBot App does not represent a fixed number of conversations. It represents the allowance consumed by each conversation or task.
+
+The amount consumed may vary depending on factors such as task complexity, conversation length, and the amount of content processed by the AI model. More complex tasks and longer conversations generally consume more allowance, so the actual number of conversations available is not fixed.
+
+**4. How Can I Check the Usage Consumed by Each Task?**
+
+Currently, it is not possible to view the exact amount of usage consumed by an individual conversation or task.
+
+To protect your privacy, SwitchBot does not record or access the content of your conversations processed through OpenClaw. We only record the total usage generated. Therefore, we are unable to provide a detailed usage breakdown for each individual task.
+
+You can view your remaining allowance and overall usage in the SwitchBot App.

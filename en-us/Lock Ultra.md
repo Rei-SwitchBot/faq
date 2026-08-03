@@ -789,3 +789,15 @@ If you wish to obtain this special thumbturn holder, please provide us with the 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+---
+### What Should I Do if Lock Ultra Keeps Rotating When Locking or Unlocking With the Physical Button or by Turning It Manually?
+
+Last Updated: 2026 Aug 2
+
+Firmware Version: V2.9 or newer
+
+- **Related Products: Lock Ultra**
+
+1. Make sure the device firmware version is up to date.
+2. Make sure the Lock Ultra adapter is installed correctly and securely.
+3. If the issue persists, please contact us via Feedback in the SwitchBot App.
