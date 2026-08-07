@@ -53,3 +53,26 @@ Regarding this issue, could you please check the following points?
 ### Can SwitchBot Standing Circulator Fan Be Used While Plugged In After It Is Fully Charged?
 
 Yes. Standing Circulator Fan can continue to be used while plugged in after it is fully charged.
+
+---
+### What Should I Do if Standing Circulator Fan Responds but Does Not Blow Air When Turned On in Apple Home?
+
+Last Updated: 2026 Aug 6
+
+Firmware Version: V1.3 or newer
+
+- **Related Products: Standing Circulator Fan**
+
+1. Make sure Standing Circulator Fan firmware version is up to date.
+2. Try removing the device from Apple Home, then add it again.
+
+---
+### What Should I Do if Standing Circulator Fan Has Abnormal Battery Drain?
+
+Last Updated: 2026 Aug 6
+
+Firmware Version: V1.6 or newer
+
+- **Related Products: Standing Circulator Fan**
+
+1. Make sure Standing Circulator Fan firmware version is up to date.

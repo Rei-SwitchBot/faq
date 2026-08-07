@@ -9513,3 +9513,10 @@ Support humidity only:
 
 - SwitchBot Air Purifier
 - SwitchBot Air Purifier Table
+
+---
+### What Should I Do if an Error Appears Immediately After Scanning the Matter Code to Add a Device to Apple Home?
+
+Last Updated: 2026 Aug 7
+
+1. Try creating a new home in the SwitchBot App, then add the device again.

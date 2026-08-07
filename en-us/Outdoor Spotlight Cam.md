@@ -1720,3 +1720,18 @@ If you have any other questions, please do not hesitate to contact us.
 ### Does SwitchBot Outdoor Spotlight Cam Support Continuous Recording?
 
 We regret to inform you that Outdoor Spotlight Cam does not support continuous recording. If continuous recording is important for your use case, you may consider SwitchBot Outdoor Spotlight Cam 2K instead, which is available on the SwitchBot official website.
+
+---
+### What Should I Do if Outdoor Spotlight Cam Cannot Connect to My Router?
+
+Last Updated: 2026 Aug 5
+
+- **Related Products: Outdoor Spotlight Cam**
+
+1. Make sure both your device firmware and SwitchBot App version are up to date.
+2. Place the device close to your Wi-Fi router.
+3. Make sure you entered the correct 2.4 GHz Wi-Fi network name and password during the setup process.
+4. Check whether the Wi-Fi password is correct. We recommend avoiding special characters from less common languages in the password.
+5. Check whether MAC address whitelist is enabled on your router. When adding the camera, please disable this feature or add the camera’s MAC address to your router’s whitelist.
+6. Try adding the device to another Wi-Fi network that works properly, or to a mobile hotspot, and check whether it can be added successfully.
+7. If the issue persists, please record a video of the device setup process.

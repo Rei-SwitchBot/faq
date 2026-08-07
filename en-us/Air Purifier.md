@@ -778,3 +778,12 @@ https://drive.google.com/file/d/1Dga1cql69ThNl0UbQMVNvVkMkh04F85i/view?usp=drive
 If a screw accidentally falls into the Air Purifier during installation, try gently shaking the unit in all directions—up, down, left, and right—to encourage the screw to come out naturally.
 In the unlikely event that the screw does not come out and you hear unusual noises from the unit, please contact us via SwitchBot App -> Profile -> Support -> Feedback.
 
+---
+### What Should I Do if Air Purifier Keeps Restarting?
+
+Last Updated: 2026 Aug 6
+
+- **Related Products: Air Purifier Table, Air Purifier**
+
+1. Make sure the device power cable is connected correctly and plugged in securely.
+2. If the issue persists, please record a video of the restarting process.

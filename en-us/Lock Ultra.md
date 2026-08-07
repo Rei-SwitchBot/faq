@@ -801,3 +801,13 @@ Firmware Version: V2.9 or newer
 1. Make sure the device firmware version is up to date.
 2. Make sure the Lock Ultra adapter is installed correctly and securely.
 3. If the issue persists, please contact us via Feedback in the SwitchBot App.
+
+---
+### What Should I Do if Lock History Events Are Missing or Displayed Out of Order?
+
+Last Updated: 2026 Aug 5
+
+- **Related Products: Lock, Lock Pro, Lock Ultra**
+
+1. Make sure both your SwitchBot App version and device firmware version are up to date.
+2. Try deleting and re-adding the device, then check whether the history records return to normal afterward. Please make sure the door is unlocked before performing this operation to avoid being locked out.
