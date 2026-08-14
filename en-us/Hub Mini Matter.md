@@ -819,3 +819,44 @@ https://support.switch-bot.com/hc/en-us/articles/34970312963991
 SwitchBot's infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
 Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub by learning your remote via **"Learn Buttons"** or **"Others"** in the app. We encourage you to give these methods a try.
 If you have any further questions, feel free to contact us anytime. We're happy to help!
+
+---
+### Which SwitchBot Devices Can Be Added to Apple Home As Sub-devices via Matter?
+
+Last Updated: 2026 Aug 14
+
+- **Related Products: SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Video Doorbell, SwitchBot Relay Switch**
+
+**Important Note:**
+
+To add the following devices as secondary devices to the third-party services like Apple Home or Google Home, you need to use any of the following devices that support matter.
+
+- SwitchBot Hub 2
+- SwitchBot Hub 3
+- SwitchBot Hub Mini Matter Enabled
+- SwitchBot Relay Switch
+- SwitchBot Video Doorbell
+
+Device Matter supported or not Action Curtain (supported in Firmware V4.6) Available fully open/fully close/ xx% open close Curtain 3 Available fully open/fully close/ xx% open close Blind Tilt Available fully open/close down or close up* Temperature & Humidity (Hub 2 & Hub Mini Matter) Available Temperature/Humidity* Room Light (Hub 2) Under development IR remotes Learned by Hub 2 with Smart Matching and Select Manually and Others* Available AC remote: cooling, heating, and on/off supported Other remotes: on/off only on & off button (Hub 2) Available Apple automation control* Lock (supported in Firmware V5.8) Lock Pro Lock Ultra Available Lock/Unlock Bot (supported in Firmware V6.4)* Available on/off* Remote Available Apple automation control* Meter, Meter Plus, Outdoor Meter, Meter Pro, Meter Pro (CO2 Monitor)* Available Temperature/Humidity Motion Sensor Available motion detected/motion not detected Contact Sensor Available door is open/door is closed Color Bulb Available on/off LED Strip Light Available on/off Plug Mini, Plug Mini Homekit Available on/off Ceiling Light, Ceiling Light Pro Available on/off Mini Robot Vacuum K10+/ K10+ Pro/ K10+ Pro Combo/ K20/ K11+ Available clean/recharge* Robot Vacuum Cleaner S1, Robot Vacuum Cleaner S1 Plus Available clean/recharge* Floor Cleaning Robot S10/S20 Available clean/recharge* Battery Circulator Fan Available on/off Universal Remote* Available Apple automation control Roller Shade Available on/off/xx% open close Air Purifier (Table) Available on/off Water Leak Detector Water Leak Detector with Sensor Cable Available with Hub 3 Leak detected/No leak detected Home Climate Panel Available Temperature/Humidity, on/off button, motion detected/motion not detected Smart Radiator Thermostat Available on/off/Adjusting temperature Presence Sensor Available Space occupied/Space not occupied
+
+Note:
+
+1. In firmware version 2.0-1.2, SwitchBot Blind Tilt can now be set to either fully closed (down) or fully closed (up), instead of only fully closed (down). Once fully closed (up) is set, Apple Home will work in fully closed (up) mode.
+
+2. The number of sub-devices that can be synced to Apple Home App via Hub 2 is 8 in total, including Hub 2's own temperature and humidity and 6 other devices. With firmware version 2.0-1.2, the Hub 2 temperature and humidity can be synced/deleted to the Apple Home App as a sub-device, if you don't need them, you can delete the temperature and humidity data and sync any eight other sub-devices instead.
+
+3. With firmware version 2.0-1.2, the icon for SwitchBot Bot in Apple Home app has been changed from light to fan or outlet. You may need to delete the previously synced Bot from your Apple Home App and then re-sync it to change the icon.
+
+4. The firmware version 2.0-1.2 now enables SwitchBot Remote button to control devices added in Apple Home. In Apple Home, the Remote generally appears under the name "matter accessory". You need to register a SwitchBot scene to SwitchBot Remote using the SwitchBot App first and then set up Apple Automation. At this time, it is not possible to delete the scene that has been previously registered to the Remote. We apologize for any inconvenience caused by the simultaneous triggering of SwitchBot scenes when using the Remote to control devices in Apple Home.
+
+5. The firmware version 2.0-1.2 now enables on & off buttons of SwitchBot Hub 2 to control devices added in Apple Home. You also need to register a SwitchBot scene to on & off buttons using the SwitchBot App first and then set up Apple Automation. You can delete SwitchBot scenes that have already been registered to the on & off buttons in SwitchBot App later.
+
+6. In Apple Home App, the robot vacuum cleaner appears as a switch, on = clean, off = recharge.
+
+7. At present, infrared remotes registered using the "Others" method in the Apple Home app can only be used to turn remotes on and off.
+
+8. When you sync a Universal Remote Control via Hub 2, it occupies the slots of two sub-devices. This means that if you sync one Universal Remote, you can sync up to six additional sub-devices to the Apple Home App. The reason for this is that the Universal Remote has four buttons, each capable of controlling other HomeKit devices from the Home App. In this setup, every two buttons are counted as one sub-device, so the four buttons together count as two sub-devices.
+
+9. Currently, CO2 readings are not supported on the Apple Home App.
+
+10. Our Bot currently only supports switch mode on the Home App. This means that if you set your Bot to press mode, it will still appear as a switch on the Home App and won't accurately show the real (on/off) status of your wall switch. We apologize for any inconvenience caused.

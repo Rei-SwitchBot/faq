@@ -20,13 +20,15 @@ If multiple smartphones share the same SwitchBot account, they can all access th
 ---
 ### Can I Use the Solar Panel from SwitchBot Outdoor Spotlight Camera to Charge SwitchBot Smart Video Doorbell?
 
-Last Updated: 2026 Jul 29
+Last Updated: 2026 Aug 12
 
 Related Product: SwitchBot Smart Video Doorbell
 
 Please**avoid using**the solar panel for outdoor spotlight camera on the Video Doorbell.
 
-While they share the Type C standard, the port lengths differ slightly. Although you can charge the battery with the outdoor spotlight camera solar panel, due to the different shape of the connector end, it is not waterproof while using on Video Doorbell. For optimal performance and weather protection, please wait for our dedicated video doorbell solar panel.
+While they share the Type C standard, the port lengths differ slightly. Although you can charge the battery with the outdoor spotlight camera solar panel, due to the different shape of the connector end, it is not waterproof while using on Video Doorbell. For optimal performance and weather protection, please refer to Solar Panel for Video Doorbell.
+
+Product purchase link: [https://www.switch-bot.com/products/switchbot-solar-panel-for-video-doorbell](https://www.switch-bot.com/products/switchbot-solar-panel-for-video-doorbell)
 
 ---
 ### Can I Use Multiple SwitchBot Smart Video Doorbells to Unlock the Lock?

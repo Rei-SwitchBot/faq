@@ -9431,19 +9431,23 @@ Yes. As long as you have the required permissions for the shared device, you can
 ---
 ### What Should I Do if I Don’t Want to Use KATA AI Assistant?
 
-Last Updated: 2026 Jul 15
+Last Updated: 2026 Aug 14
 
 Related Product: KATA AI Assistant
 
+Before SwitchBot App version v10.1:
 You can turn off KATA AI Assistant with the following steps:
 
 1. Open SwitchBot App.
-
 2. Tap ... in the upright corner of the Home page.
-
 3. Tap Module Display Settings.
-
 4. Turn off KATA.
+
+SwitchBot App version v10.1 or later:
+
+You can turn KATA AI Assistant on or off by going to **App > Profile > Settings > KATA AI Assistant**.
+
+When KATA AI Assistant is turned on, you can also choose whether to display it permanently or show it only as a floating entry on the Home page.
 
 ---
 ### Does KATA AI Assistant Remember What I Said Before?
@@ -9477,11 +9481,13 @@ Related Product: KATA AI Assistant
 ---
 ### What Can KATA AI Assistant Help Me Do?
 
-Last Updated: 2026 Jul 15
+Last Updated: 2026 Aug 13
 
 Related Product: KATA AI Assistant
 
 KATA AI Assistant can help you control your devices, check device status, and create scenes or automations through conversation. It can also provide assistance when you encounter any issues.
+
+Note: Querying events related to Indoor Cam, Pan/Tilt Cam, Pan/Tilt Cam 2K, Outdoor Spotlight Cam, and Outdoor Spotlight Cam 2K is not supported at this time.
 
 ---
 ### Do Automations Support Duration-Based Temperature or Humidity Triggers?
@@ -9520,3 +9526,69 @@ Support humidity only:
 Last Updated: 2026 Aug 7
 
 1. Try creating a new home in the SwitchBot App, then add the device again.
+
+---
+### What QR Codes Can “Scan” Read?
+
+Last Updated: 2026 Aug 14
+
+Currently, **Scan** is used to scan web login QR codes for products such as SwitchBot Weather Station, helping you quickly log in to the web version.
+
+This feature does not currently support scanning device QR codes to add devices. To add devices such as Nanoleaf, please go to **Add Device**, search for the product name or select the corresponding product icon, then follow the on-screen instructions to complete setup.
+
+---
+### SwitchBot Device Matter Compatibility
+
+Last Updated: 2026 Aug 14
+
+- **Apple Home App / HomePod Mini speaker**
+- **Alexa App / Echo speaker**
+- **Google Home App / Google Nest Hub speaker**
+- **SmartThings App / Samsung SmartThings hub**
+
+- **Matter over Wi-Fi**:
+
+1. SwitchBot devices can directly connect to various ecosystem platforms as either bridge devices or Matter accessories.
+
+- **Matter over Bridge**:
+
+1. Matter accessories require a SwitchBot bridge device to connect to ecosystem platforms.
+2. When the Matter specification is updated, there’s no need to upgrade the accessory’s firmware. Instead, updating the bridge device’s firmware will enable support for new features.
+
+What is a Matter bridge?
+
+Matter Setup Guide
+
+Matter Bridge Connection Tips Category Product Matter Bridge Hub SwitchBot Hub Mini Matter Enabled SwitchBot Hub 2 SwitchBot Hub 3 SwitchBot AI Hub SwitchBot Relay Switch 1 SwitchBot Relay Switch 1PM SwitchBot Relay Switch 2PM SwitchBot Relay Switch 1 SwitchBot Plug Mini (EU) SwitchBot Smart Video Doorbell SwitchBot Garage Door Opener Matter over Bridge（SwitchBot Matter Bridge required） Category Product Matter over Bridge Home Automation SwitchBot Bot SwitchBot Curtain SwitchBot Curtain 3 SwitchBot Blind Tilt SwitchBot Roller Shade SwitchBot Universal Remote SwitchBot Home Climate Panel SwitchBot Smart Radiator Thermostat Robot Vacuum SwitchBot S1 SwitchBot S1 Plus SwitchBot K10+ SwitchBot Floor Cleaning Robot S10 SwitchBot Floor Cleaning Robot S20 SwitchBot K10+ Pro SwitchBot Robot Vacuum K10+ Pro Combo SwitchBot Robot Vacuum K11+ Multitasking Household Robot SwitchBot Multitasking Household Robot K20+ Pro Lock SwitchBot Lock Lite SwitchBot Lock SwitchBot Lock Pro SwitchBot Lock Ultra Lighting SwitchBot Celling Light SwitchBot Celling Light Pro SwitchBot Color Bulb SwitchBot LED Strip Light SwitchBot LED Strip Light 2 Power & Switch SwitchBot Plug Mini (JP) SwitchBot Plug Mini (JP) HomeKit Enabled SwitchBot Plug Mini (US) SwitchBot Plug Mini (US) HomeKit Enabled SwitchBot Remote Sensor SwitchBot Meter SwitchBot Meter Plus SwitchBot Outdoor Meter SwitchBot Meter Pro SwitchBot Meter Pro (CO2 Monitor) SwitchBot Water Leak Detector (Hub 3 Only) SwitchBot Motion Sensor SwitchBot Contact Sensor SwitchBot Presence Sensor Household SwitchBot Evaporative Humidifier Evaporative Humidifier (Auto-refill) SwitchBot Battery Circulator Fan SwitchBot Air Purifier SwitchBot Air Purifier Table SwitchBot Standing Circulator Fan SwitchBot Circulator Fan IR Appliances Air Conditioner Infrared-controlled home appliances like Fan, Light, TV, Streamers, Projector, Set Top Box, Speaker, Camera, Air Purifier, DVD Player, Water Heater, Vacuum Cleaner, etc. Matter over Wi-Fi Category Product Matter over Wi-Fi Robot Vacuum SwitchBot S10 SwitchBot K10+ Pro Combo SwitchBot Floor Cleaning Robot S20 SwitchBot Multitasking Household Robot K20+ Pro SwitchBot Robot Vacuum K11+ Household SwitchBot Air Purifier SwitchBot Air Purifier Table Lighting SwitchBot Floor Lamp SwitchBot RGBICWW Floor Lamp SwitchBot LED Strip Light 3 SwitchBot RGBICWW Strip Light SwitchBot RGBIC Neon Rope Light SwitchBot Candle Warmer Lamp Lock SwitchBot Lock Pro Matter Enabled
+
+*** What should I do if my SwitchBot device isn't listed in Matter?**
+
+1) Confirm the prerequisites.
+
+- SwitchBot Hub Mini Matter Enabled
+- SwitchBot Hub 2
+- SwitchBot Hub 3
+- SwitchBot AI Hub
+
+- The device is added and online in the SwitchBot app.
+- The device is paired with one of the hubs listed above.
+
+2）Check Lab Feature (Beta) for hidden entries.
+
+* Devices Currently Available in Lab Feature (Beta):
+
+- SwitchBot Color Bulb
+- SwitchBot LED Strip Light
+- SwitchBot Ceiling Light
+- SwitchBot Ceiling Light Pro
+- SwitchBot Robot Vacuum Cleaner S1 Plus
+- SwitchBot Battery Circulator Fan
+- Infrared remote control (Virtual)
+- SwitchBot Robot Vacuum Cleaner S1
+- SwitchBot Air Purifier
+- SwitchBot Air Purifier Table
+- SwitchBot Evaporative Humidifier
+- SwitchBot Plug Mini (US)
+- SwitchBot Plug Mini (JP)
+- SwitchBot Floor Cleaning Robot S10
+- SwitchBot Candle Warmer Lamp
