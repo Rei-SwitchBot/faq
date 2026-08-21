@@ -811,3 +811,48 @@ Last Updated: 2026 Aug 5
 
 1. Make sure both your SwitchBot App version and device firmware version are up to date.
 2. Try deleting and re-adding the device, then check whether the history records return to normal afterward. Please make sure the door is unlocked before performing this operation to avoid being locked out.
+
+---
+### What Should I Do if Lock Ultra Makes Loud Sounds When Locking or Unlocking?
+
+Last Updated: 2026 Aug 14
+
+- **Related Products: Lock Ultra**
+
+1. Locking and unlocking are driven by the motor, and the sound level is related to the torque required by your door lock. The higher the torque, the louder the sound may be.
+2. Check whether the device is currently in Emergency Mode. In this mode, the noise may be louder than when powered by the main battery, and the sound may also be different.
+3. Restore main battery power as soon as possible to avoid unlocking the device in Emergency Mode.
+4. Go to **SwitchBot App > Lock Ultra > Settings**, and set **Rotation Speed Adjustment** to **Standard** or **Quiet** to effectively reduce noise.
+5. If you are sensitive to noise during certain periods, you can set a specific time period in **Night Mode** so that the rotation speed runs in **Quiet** mode during that period.
+6. If the issue persists, please record a video in which the sound from Lock Ultra can be heard clearly.
+
+---
+### What Should I Do if Lock Ultra Detects the Battery Status Incorrectly or Cannot Recognize the Battery?
+
+Last Updated: 2026 Aug 21
+
+- **Related Products: Lock Ultra**
+
+1. Fully charge the main battery, then insert it into the device again.
+
+---
+### What Should I Do if Lock Ultra Auto-Locks Slowly After the Door Is Closed?
+
+Last Updated: 2026 Aug 21
+
+- **Related Products: Lock Ultra**
+
+1. Make sure Lock Ultra firmware version is up to date.
+2. Check whether the magnet is installed in the correct position. If the magnet is too close to the thumbturn, such as less than 1 cm away, move it to around 1 cm away. Also, when calibrating the door sensor, you can slightly increase the angle of the partially closed door, such as leaving a gap of about 20 cm, then recalibrate and check whether the issue improves.
+3. If there is no improvement, delete the device, power it off and on again, including removing and reinstalling the backup battery, then add the device again and check whether it returns to normal.
+4. If the issue still persists, please provide photos of the magnet installation position.
+
+---
+### What Should I Do if Lock Ultra Spins Without Engaging During Calibration?
+
+Last Updated: 2026 Aug 15
+
+- **Related Products: Lock Ultra**
+
+1. Make sure the adapter has been securely fitted onto the original thumbturn during installation. If it is not installed properly, the adapter may slip off. Please reinstall it and check again.
+2. If it is installed correctly, go to **Lock Ultra > Settings > Basic Settings**, find **Lock Force**, set the force level to **Gentle**, then calibrate again.

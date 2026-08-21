@@ -304,3 +304,12 @@ https://support.switch-bot.com/hc/en-us/articles/35772017675287
 Please click the link below to learn how to add and calibrate SwitchBot Lock Vision in SwitchBot App.
 https://support.switch-bot.com/hc/en-us/articles/35772043003671
 
+---
+### What Should I Do if Lock Vision Stays Offline in the App and Cannot Control the Lock?
+
+Last Updated: 2026 Aug 14
+
+- **Related Products: Lock Vision, Lock Vision Pro**
+
+1. Check whether Standard Mode is enabled. The device can stay online only in Standard Mode.
+2. Check whether the Wi-Fi signal connected to the device is weak.

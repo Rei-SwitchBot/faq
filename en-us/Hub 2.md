@@ -1840,3 +1840,34 @@ https://support.switch-bot.com/hc/en-us/articles/18659778694167
 Note:
 If your Hub supports Matter, you can sync the remote learned through "Others" mode to Apple Home as a sub-device, then control it using "Hey Siri" voice commands.
 https://support.switch-bot.com/hc/en-us/articles/34970312963991
+
+---
+### What Should I Do if Hub 2 Beeps often?
+
+Last Updated: 2026 Aug 19
+
+- **Related Products: Hub 2**
+
+1. If you want to completely turn off the buzzer alarm, please check the following settings: Go to **SwitchBot App > Hub 2 > gear icon in the upper right corner > Alarm Settings**. Check whether the alarm feature is turned off. If the alarm feature is turned on, make sure the alarm method is not set to **Sound and Light Flashing Mode**.
+2. Make sure the network connected to Hub 2 is stable. Hub 2 may beep when it goes offline or comes back online.
+3. Check the Hub 2 power cable, power adapter, and power outlet to rule out beeping caused by frequent power disconnection and reconnection.
+
+If Hub 2 is not using **Sound and Light Flashing Mode**, and there is no issue with the power cable, power adapter, or power outlet, please try the following:
+
+1. In the SwitchBot App, press and hold Hub 2 to delete it.
+2. Unplug the Hub 2 power cable and power adapter, then plug them back in.
+3. Press and hold the **On** and **Off** buttons on Hub 2 for 15 seconds to reset it.
+4. Add Hub 2 to the SwitchBot App again.
+
+Note: Deleting or resetting Hub 2 will not affect existing manual scenes or automations, and it will not delete previously learned remotes.
+
+---
+### Why Does “Scan to Connect” With a Matter Icon Appear When Adding Hub 2? -
+
+Last Updated: 2026 Aug 19
+
+- **Related Products: Hub 2**
+
+This is not a SwitchBot issue. Some Android phones may automatically show a **Scan to Connect** prompt when they detect nearby devices that meet the Matter standard, inviting you to enable Matter.
+
+Tap **Later** in the lower-left corner of the screen, then tap a button similar to **Turn Off Notifications** on the new page to disable this prompt.

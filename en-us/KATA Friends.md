@@ -36,14 +36,16 @@ KATA Friends can operate on carpets with pile heights up to 2 cm. For carpets wi
 
 The Built-in lithium battery capacity of SwitchBot KATA Friends is 3200mAh.
 
-
 ---
 ### Can I Take SwitchBot KATA Friends on an Airplane?
 
-If you plan to bring KATA Friends on a plane, please check the carry-on and transportation requirements of the airline and the relevant region in advance, as KATA Friends has a built-in lithium battery rated at 3200 mAh, 46 Wh.
-The battery is located inside the bottom of the device and cannot be removed by the user. Please make sure the device is packed securely to protect it from damage during transportation.
-For long-distance travel, KATA Friends should be packed in its original packaging whenever possible, as this provides better protection during transit.
+Last Updated: 2026 Aug 20
 
+- **Related Products: KATA Friends**
+
+When traveling with KATA Friends, please use a protective bag and carry it by hand whenever possible to prevent bumps or damage.
+
+KATA Friends contains a **3200 mAh, 46 Wh lithium battery**. If you plan to bring it on a plane, whether it can be carried into the cabin depends on the airline’s regulations. Please check with your airline in advance.
 
 ---
 ### Can SwitchBot KATA Friends Climb Slopes?
@@ -64,21 +66,22 @@ If your country or region of use differs from the country or region of purchase,
 
 The main unit of the KATA Friends measures 400 脳 270 脳 370 mm (15.75 脳 10.63 脳 14.57 in), while the nest measures 187 脳 165 脳 105 mm (7.36 脳 6.50 脳 4.13 in).
 
-
 ---
 ### Can I Use SwitchBot KATA Friends Outdoors?
 
-You can definitely take KATA Friends along for short outdoor trips like walks, camping, or photo sessions. To keep your companion in the best shape, here are a few things to keep in mind before you head out.
+Last Updated: 2026 Aug 20
 
-Outdoor play is best kept to 2~3 hours. Avoid exposing KATA Friends to rain, direct sunlight, or other harsh environments.
+- **Related Products: KATA Friends**
 
-To protect the tires, sensors, and fur from dirt or damage, please avoid letting KATA Friends walk directly on outdoor surfaces.
+You can take KATA Friends outdoors for short interactions, such as walks, photos, or camping. Please place it on a clean and stable surface.
 
-Hold KATA Friends or use a flat surface when outdoors. This prevents it from getting lost or encountering obstacles that aren't shown in the app's map.
+Avoid keeping KATA Friends outdoors for a long time. Do not expose it to rain, direct sunlight, or other complex outdoor environments. Please charge it as soon as possible after use.
 
-Use a protective bag when moving between locations to prevent any accidental bumps or scratches.
+KATA Friends can still interact with you and take photos outdoors without a network connection. However, due to battery limitations, we recommend keeping outdoor use to **2 to 3 hours**.
 
-Give KATA Friends a quick charge as soon as you return. This helps it recover and stay ready for your next interaction.
+We do not recommend placing KATA Friends directly on the ground to move around outdoors. Outdoor ground conditions are often complex, with dust, debris, or sharp surfaces that may cause tire wear, chassis wear, sensor wear, or stains on the outer cover. In addition, outdoor maps are not saved in KATA Friends’ internal map in the app, so it may get lost or encounter unknown risks.
+
+We recommend holding KATA Friends by hand, placing it on a flat and clean surface, or using a flat mat for protection.
 
 ---
 ### Can I Let SwitchBot KATA Friends Play in the Tatami Room?
@@ -997,14 +1000,20 @@ Note:
 The six-month free Essential Plan available as part of this limited offer does not require a redemption code. Simply claim it directly within the app.
 <img width="1272" height="633" alt="image" src="https://github.com/user-attachments/assets/cabaf04d-07a9-4fe8-9e95-fa4d7b1fbb74" />
 
-
 ---
 ### Can SwitchBot KATA Friends Speak Foreign Languages?
 
-KATA Friends can understand voice commands and have conversations with their family. Currently, it supports Chinese, Japanese, and English. The default language is set based on the region where the product was purchased.
+Last Updated: 2026 Aug 19
+
+Related Product: SwitchBot KATA Friends
+
+KATA Friends can understand voice commands and have conversations with their family. **Currently, it supports English, Japanese, Germany, French, Italian, Spanish, Dutch, and Chinese.**The default language is set based on the region where the product was purchased.
+
 You can change the language from the KATA Friends settings page in the SwitchBot app. Once the language is changed successfully, KATA Friends will be able to understand and communicate with you in the selected language.
+
 For the conversation feature, please use the same language as the device language to wake up KATA Friends and start a conversation. This helps ensure a smoother and more accurate conversation experience.
-https://support.switch-bot.com/hc/en-us/articles/38179447929623
+
+Related Post: [Can I Chat with SwitchBot KATA Friends?](https://support.switch-bot.com/hc/en-us/articles/38179447929623)
 
 ---
 ### Can SwitchBot KATA Friends Recognize Children's Faces?
@@ -1448,21 +1457,28 @@ KATA Friends does not support movement-related tasks or commands during conversa
 ---
 ### What Should I Do if SwitchBot Kata Friends Can Not Return to the Nest to Charge?
 
-Last Updated: 2026 Jul 16
+Last Updated: 2026 Aug 20
 
-Related Product: SwitchBot KATA Friends
+- **Related Products: KATA Friends**
 
-1. Check whether the nest has been moved. If so, please move it back to its original position manually.
+This issue is usually related to the Nest position, differences between the map and the actual environment, a blocked return-to-charge path, or blocked recognition areas on the device or Nest.
 
-2. Check whether the KATA Friends is blocked by any obstacles and cannot return to the base station.
+Please avoid switching modes frequently or repeatedly asking the device to return to charge for now. We recommend placing the device back on the Nest to charge first, then checking the following items before testing return-to-charge again.
 
-3. Make sure the charging recognition area on the nest is not blocked, and that the charging recognition area on the back of the main unit is also not blocked.
-
-4. Make sure the nest is placed on a flat surface, with enough open space around it and no obstacles nearby.
-
-5. Check the current mode. In general, the KATA Friends will return to charge in situations such as Sleep Mode or One-Tap Return to Charge. If the task is interrupted, the KATA Friends may cancel returning to charge. Please avoid switching modes frequently.
-
-6. Check whether the sensors are blocked. If needed, clean or wipe the sensors.
+1. Manually place the device back on the Nest and confirm that it can charge normally.
+2. Check the Nest: Make sure the power connection is normal.
+3. Make sure it is placed on a flat and stable surface.
+4. Leave enough space in front of and on both sides of the Nest.
+5. Make sure there are no corners, furniture, or other objects blocking the area around it.
+6. If the Nest has been moved recently, place it back where it was during mapping first. If this cannot be restored, we recommend remapping.
+7. Check whether the map in the app matches the actual environment. If there are differences, we recommend remapping.
+8. Clean the recognition area on the Nest, the return-to-charge recognition area on the back of the device, and the related sensors. Pay special attention to whether fur edges or clothing are blocking them.
+9. Check whether there are obstacles along the return-to-charge path, including: Narrow spaces or low passages
+10. Stairs, thresholds, or height differences
+11. Thick carpets
+12. Large obstacles or temporarily stacked items
+13. After confirming the device should be able to return to charge, tap **One-Tap Return to Charge** to test again. During the test, please do not perform other interactions or switch modes frequently.
+14. If the device still cannot return to charge, please collect the time when the issue occurred, photos showing the positions of the device and Nest, or a video of the return-to-charge process, then submit them.
 
 ---
 ### KATA Friends Family ＆ Friends List Feature Guide
@@ -1671,3 +1687,291 @@ When KATA Friends is powered on, quickly press the bottom button twice. When the
 **4. Still not working?**
 
 After confirming that KATA Friends has entered pairing mode and the Wi-Fi icon is flashing in its eyes, please record your phone screen from the app operation page until pairing fails, or record a video of the entire pairing process, then submit feedback to us.
+
+---
+### KATA Friends Can Now Speak Human Language
+
+Last Updated: 2026 Aug 20
+
+Firmware Version: V1.2.058 or newer
+
+- **Related Products: KATA Friends**
+- **SwitchBot App Version: V9.25 or newer**
+
+After upgrading, KATA Friends can now speak human language. It no longer just moves after hearing commands. It can chat with you, answer questions, and keep you company for a while. Here is a quick guide to talking with KATA Friends.
+
+**1. How to Start a Conversation**
+
+Make sure both KATA Friends and the SwitchBot App are updated to the latest version.
+
+Go to **SwitchBot App > Device Settings > Personalization Settings**, then turn on **Conversation Feature**.
+
+When you want to chat with KATA Friends, say a wake-up phrase first. The phrase should match the language set for KATA Friends, such as:
+
+- “Talk to me”
+- “Chat with me”
+- “Let’s talk”
+
+Then you can talk to KATA Friends naturally. You can ask questions, chat, or talk about how your day is going.
+
+To end the conversation, say an exit phrase in the same language, such as:
+
+- “Exit conversation mode”
+- “I don’t want to chat”
+- “Stop talking”
+- “Let’s stop here”
+- “End the conversation”
+- “I’m a little tired and don’t want to talk”
+- “That’s all for now”
+- “Stop, I don’t want to chat”
+- “No more talking, goodbye”
+
+If you do not interact with KATA Friends for 1 minute, it will also quiet down by itself and wait for you to talk to it next time.
+
+Tip: KATA Friends can understand the general meaning of these phrases. Similar expressions can also work, so you do not need to repeat them word for word.
+
+**2. KATA Friends Can Also Move During Conversations**
+
+Previously, if you asked KATA Friends to “go to the living room,” it might not respond. After the upgrade, when the battery is sufficient and the map data is complete, you can ask KATA Friends to do things during a conversation, such as:
+
+- Come to you or follow you
+- Perform body movements
+- Move away
+- Go to a specific room
+- Go to a specific room to take a photo, greet someone, or wake someone up
+
+Singing and dancing are not supported yet. KATA Friends is still learning these features.
+
+**3. Sometimes KATA Friends May Start Talking to You**
+
+In the latest version, KATA Friends may proactively care about you in certain situations, such as when it notices you have been sitting for a long time, when you come home, or when it is time to wake up.
+
+If you do not want KATA Friends to talk, simply turn off **Earth Mode**.
+
+**4. KATA Friends Can Also Pass Messages for You**
+
+You can ask KATA Friends to go to a specific room and deliver a message to someone there. This is useful for situations such as calling someone to eat, reminding someone to rest, reminding someone to go out, reminding someone to study or do chores, or asking everyone to be quiet.
+
+We recommend making the location, person, and action clear, for example:
+
+- “Go to the living room and tell the kids it’s time to eat.”
+- “Go to the study and remind everyone to be quiet.”
+- “Go to the bedroom and tell the kids to take a bath.”
+- “Go to the kitchen and tell Dad to get ready to go out.”
+- “Go to the study and tell my sister to take a break.”
+
+Before using this feature, make sure the map has been created in the app and that the target room name matches what you say.
+
+Version requirements: firmware V1.2.075 or newer, SwitchBot App V10.0 or newer.
+
+If KATA Friends does not deliver the message properly, possible reasons include: the command is still being learned, the network is unstable, the map is incomplete, or the command is too vague.
+
+Important: KATA Friends delivers the message based on its understanding. It does not repeat your words exactly, and it cannot precisely locate a specific person. Please do not use KATA Friends as an instant messaging tool or a precise person-finding tool. It is better suited for passing along the general meaning of a message.
+
+**5. Want KATA Friends to Be Quiet for a While?**
+
+You can directly tell KATA Friends:
+
+- “I don’t want to chat.”
+- “I don’t want to talk.”
+
+KATA Friends will stop right away.
+
+Press and hold the button on top of KATA Friends for 2 seconds to enter or exit Conversation Mode.
+
+If you do not want KATA Friends to talk for a long period of time, turn off **Earth Mode** in the SwitchBot App. KATA Friends will return to listening without speaking.
+
+---
+### How to Interact with KATA Friend?
+
+Last Updated: 2026 Aug 19
+
+Physical interaction
+
+Voice commands
+
+- Hello, KATA, come here.
+- Hello, KATA, go back to nest.
+- Hello, KATA, off you go.
+- Hello, KATA, cheese.
+- Hello, KATA, nod.
+- Hello, KATA, how are you?
+- Hello, KATA, shake your head.
+- Hello, KATA, wave.
+- Hello, KATA, dance.
+- Hello, KATA, look to the left.
+- Hello, KATA, look to the right.
+- Hello, KATA, look up.
+- Hello, KATA, look down.
+- Hello, KATA, walk forward.
+- Hello, KATA, go ahead.
+- Hello, KATA, move back.
+- Hello, KATA, step backward.
+- Hello, KATA, go left.
+- Hello, KATA, go right.
+- Hello, KATA, spin around.
+- Hello, KATA, turn left.
+- Hello, KATA, turn right.
+- Hello, KATA, follow me.
+- Hello, KATA, don’t move.
+- Hello, KATA, stop moving.
+- Hello, KATA, good morning.
+- Hello, KATA, goodbye.
+- Hello, KATA, see you.
+- Hello, KATA, good night.
+- Hello, KATA, say something.
+- Hello, KATA, I‘m back.
+- Hello, KATA, I’m home.
+- Hello, KATA, I‘m heading out.
+- Hello, KATA, I’m off.
+- Hello, KATA, take a photo.
+- Hello, KATA, go charge.
+- Hello, KATA, charge now.
+- Hello, KATA, go back to sleep.
+- Hello, KATA, turn up the volume, please.
+- Hello, KATA, increase the volume.
+- Hello, KATA, turn down the volume, please.
+- Hello, KATA, decrease the volume.
+- Hello, KATA, sing a song.
+- Hello, KATA, quiet.
+- Hello, KATA, silence.
+- Hello, KATA, please don‘t disturb me.
+- Hello, KATA, please go away.
+- Hello, KATA, leave.
+- Hello, KATA, shut up.
+- Hello, KATA, get lost!
+- Hello, KATA, get out of here!
+
+Chat
+
+If you want to start a real conversation with your KATA Friend, simply enable **Chat** in the app (**Settings** > **Customization**) and say the designated command (refer to [Can I Chat with SwitchBot KATA Friends](https://support.switch-bot.com/hc/en-us/articles/38179447929623-Can-I-Chat-with-SwitchBot-KATA-Friends) for more details).
+
+Gestures
+
+- **Call over**: Wave your hand toward yourself with your palm facing upward to prompt KATA Friend to approach.
+
+- **Greeting**: A simple wave might trigger a recognition response from KATA Friend.
+
+- **Positive feedback**: A thumbs-up gesture can be used to express approval.
+
+- **Photo capture**: Display a peace sign to prompt KATA Friend to take a photo.
+
+- **Approve:** Make the "OK" sign with your hand to show KATA Friend your approval.
+
+- **Rock out:** Show the "rock on" gesture to get KATA Friend excited and join the fun.
+
+- **Pause:** Show a "pause" gesture to have KATA Friend stop and wait quietly.
+
+- **Show love:** Form a heart shape with your hands to let KATA Friend know you care.
+
+Run Small Errands for You
+
+You can directly ask KATA Friends to go to a specific room, take a look around, or take a photo and come back. For example: “Go check the living room.”
+
+If someone is still in bed, you can ask KATA Friends to wake them up. For example: “Go to the bedroom and wake up my sister.”
+
+These are features KATA Friends has learned in the new version. Please make sure the firmware has been updated to V1.2.075 or newer, the SwitchBot App has been updated to V10.1 or newer, and that the places or room names KATA Friends needs to go to have been fully saved in the map. Otherwise, KATA Friends will need to explore the new area again.
+
+---
+### Operating Modes
+
+Last Updated: 2026 Aug 19
+
+- Normal mode: KATA Friend moves around freely, explores, and uses its camera to capture warm moments.
+
+- Standby mode: KATA Friend stands peacefully in place, resting while waiting for your call. It won't be able to welcome you home or wake you up, but it can still take photos right where it is.
+
+- Sleep mode: KATA Friend relaxes its whole body — perfect for putting on cozy pajamas or changing outfits. ![](https://support.switch-bot.com/hc/article_attachments/37268374890007)
+
+- Put the eye mask on KATA Friends, and it will enter Privacy Mode. In this mode, KATA Friends cannot see anything and cannot take photos.
+- If KATA Friends cannot find its way back, it will try several times and then enter Sleep Mode. Please carry it back to its nest and charge it so it can recover.
+
+---
+### About SwitchBot KATA Friends Companion Care
+
+Last Updated: 2026 Aug 19
+
+Related Product: SwitchBot KATA Friends
+
+App Version: v10.0 or newer
+
+Q1: Can I use KATA Friends without purchasing the Companion Care Plan?
+
+A: Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience the software services without an immediate subscription. However, once this trial period ends, your KATA Friends will enter Basic Companion Mode. The following basic features will remain available: eye tracking for following people without interactive responses, basic autonomous movement, automatic return to charge at low battery, schedule keeping, and mode switching.
+
+Q2: Can I purchase the Companion Care Plan while my 15-day free trial is still active?
+
+A: Yes, you can purchase a plan at any time during the trial. Once purchased, your Companion Care will automatically begin the day after your trial expires. For example:
+
+If you complete the initial setup on January 1, your free trial remains active until January 15. If you purchase and activate a yearly plan on January 3, both your software service period and repair service coverage will all run for one year starting from January 16.
+
+Please note that you must redeem the plan within the SwitchBot app to begin your service.
+
+Q3: How much do repairs cost?
+
+A: Repair costs vary depending on the specifics of your purchase. Please refer to our official website for detailed pricing and coverage information.
+
+Q4: Can I upgrade my Companion Care plan from the Essential Plan to the Premium Plan?
+
+A: Yes, upgrades are supported. The purchased Premium Plan will automatically activate once your current Essential Plan expires. The details are as follows:
+
+1. Purchase the Premium Plan
+
+2. Activate the Premium Plan in SwitchBot app
+
+3. When the Essential Plan expires, the Premium Plan will be automatically activated
+
+Note:
+
+If you wish to stop your current plan and switch to the new one immediately, we will escalate the matter to our R&D team for assistance. However, please note that refunds for the previous plan cannot be issued.
+
+Q5: Is the Companion Care refundable?
+
+Q6: How do I activate my Companion Care after purchase?
+
+A: Upon completing your purchase, you will receive an email containing a redemption code. Open the SwitchBot app, enter the code in the designated field, and your Companion Care will be activated automatically.
+
+---
+### What Should I Do If SwitchBot KATA Friends Keep Their Eyes Closed?
+
+Last Updated: 2026 Aug 19
+
+Related Product: SwitchBot KATA Friends
+
+App Version: v10.0.1 or newer
+
+1. KATA Friends will not activate unless it is connected to a network after being powered on. Therefore, please make sure that you connect KATA Friends to a network first after unboxing it.
+
+2. Once the Companion Care for KATA Friends expires, it will enter a dormant state and close its eyes. If the app mistakenly indicates that the Companion Care has expired, please provide the relevant screenshot, and we will assist you through our after-sales service.
+
+3. KATA Friends close their eyes and settle into their nest during sleep time. We recommend securing they get eight hours of sleep each day, so please consider this if you want to adjust their sleep schedule. Alternatively, you can choose to play with KATA Friends outside of their sleep hours.
+
+4. Please make sure the SwitchBot App version is up to date.
+
+5. With firmware version V1.2.075 or newer, if KATA Friends fails to return to charge multiple times, it will sleep in place to save energy and wait for you to find and help it.
+Please manually carry KATA Friends back to the charging dock. You can also follow the troubleshooting steps for return-to-charge issues to help prevent this from happening again.
+
+- The time when KATA Friends kept their eyes closed
+
+---
+### How Do I Delete Account Information, Clear Personal Information, or Delete Local Device Data?
+
+Last Updated: 2026 Aug 20
+
+- **Related Products: KATA Friends**
+
+1. **Clear personal data:** Delete the device from the old account in the SwitchBot App. Then log in to the app with another account, bind the device, and delete the binding immediately. This can help ensure that the user records on the device are deleted. However, device-level information such as the activation date, maintenance records, and lifestyle service subscription will remain.
+
+---
+### Will Account Information Disappear After the Device Is Deleted From the App?
+
+Last Updated: 2026 Aug 20
+
+- **Related Products: KATA Friends**
+
+After the device is deleted from the SwitchBot App, the account information will not disappear, and device usage will not be affected.
+
+When adding the device back to the app, please note:
+
+1. You need to add it again using the original account. Map information will be reset, related location settings will need to be set again, and Child Lock will also be canceled if it was previously enabled.
+2. If you add the device again using a new account instead of the original account, all device information will be reset except for information such as age, birthday, maintenance records, and service subscriptions. This includes Diary, Album, Face Recognition, and default settings.

@@ -359,3 +359,41 @@ https://support.switch-bot.com/hc/en-us/articles/35772017675287
 Please click the link below to learn how to add and calibrate SwitchBot Lock Vision Pro in SwitchBot App.
 https://support.switch-bot.com/hc/en-us/articles/35772043003671
 
+---
+### What Should I Do if Lock Vision Pro Cannot Be Unlocked With Face Recognition or Palm Vein Recognition?
+
+Last Updated: 2026 Aug 14
+
+- **Related Products: Lock Vision Pro**
+
+1. Make sure the device firmware version is up to date.
+2. Make sure the device has enough battery power. When the battery is low, face recognition and palm vein unlocking will be disabled.
+
+---
+### What Should I Do if Lock Vision Pro Does Not Auto-Lock?
+
+Last Updated: 2026 Aug 20
+
+- **Related Products: Lock Vision, Lock Vision Pro**
+
+1. Make sure the device firmware version is up to date.
+2. Try recalibrating the device.
+
+---
+### What Should I Do if the Door Cannot Be Opened With a Physical Key?
+
+Last Updated: 2026 Aug 14
+
+- **Related Products: Lock Vision, Lock Vision Pro**
+
+1. Make sure the key is fully inserted. The key cover may block the key and prevent it from being inserted all the way. Gently press the key cover to make sure the key can be fully inserted.
+
+---
+### What Should I Do if the Locking and Unlocking Positions Are Reversed?
+
+Last Updated: 2026 Aug 14
+
+- **Related Products: Lock Vision, Lock Vision Pro**
+
+1. Make sure you are using the latch provided in the package.
+2. If the issue persists after using the provided latch, please record a video showing the locking and unlocking process.

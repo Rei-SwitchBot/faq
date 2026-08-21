@@ -607,3 +607,15 @@ This is because registered face recognition has a higher unlocking priority than
 We sincerely apologize for any inconvenience this may cause.
 If you have any other questions, please do not hesitate to contact us.
 
+---
+### What Should I Do if Keypad Vision Consumes Battery Quickly?
+
+Last Updated: 2026 Aug 20
+
+Firmware Version: V2.9 or newer
+
+- **Related Products: Keypad Vision**
+
+1. Make sure the firmware version is up to date.
+2. If the average daily battery consumption is more than 5%, try lowering the sensitivity to the minimum level.
+3. If the battery still drains quickly after adjustment, check whether you receive frequent device wake-up banner notifications in the SwitchBot App, and provide relevant screenshots.

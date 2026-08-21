@@ -220,13 +220,19 @@ Yes. You can choose the AI model used for summaries in the app. The transcriptio
 ---
 ### What Is the Difference Between Paid and Free AI Features?
 
-Last Updated: 2026 Aug 14
+Last Updated: 2026 Aug 21
 
 Related Product: SwitchBot AI MindClip
 
-Paid plans, such as monthly subscriptions, can unlock core AI features including unlimited transcription quota, automatic upload to the server while charging, and automatic summaries.
+Each user receives **300 minutes of free transcription time per month**. If you need more transcription time, you can purchase a subscription plan or an add-on time package. Specific pricing and transcription quota details are subject to the information shown on the subscription page.
 
-Free users have **300 minutes of transcription quota**. All three plans support selecting an AI summary model.
+Users who subscribe to a plan for the first time can receive a free plan for at least 1 month, including **1,200 minutes of free transcription time**.
+
+Related Posts:
+
+[What Are the Free Trial and Auto-Renewal Rules for the Pro Plan?](https://support.switch-bot.com/hc/en-us/articles/42884023364375)
+
+[How Are Pro Plan Benefits Issued and Quotas Reset?](https://support.switch-bot.com/hc/en-us/articles/42883889220631)
 
 ---
 ### Will Deleting a Conversation Return Tokens or Allowance?
@@ -376,13 +382,15 @@ By default, the latest added device is displayed. You can also view device statu
 ---
 ### What Is the Relationship Between the AI MindClip Standalone App and the SwitchBot App?
 
-Last Updated: 2026 Aug 14
+Last Updated: 2026 Aug 20
 
 Related Product: SwitchBot AI Mind Clip
 
 The AI MindClip standalone app provides a dedicated product entry point for managing AI MindClip and AI PinNote devices.
 
 The account system is shared with SwitchBot. However, devices, homes, messages, and other content are filtered by channel, so MindClip devices will not be mixed into the SwitchBot App display.
+
+We recommend adding AI MindClip devices only through the AI MindClip standalone app.
 
 ---
 ### What Are the Preset Audio Files in the App Used For?
@@ -903,3 +911,142 @@ Last Updated: 2026 Aug 14
 Uploading, transcription, and AI summary generation are three separate steps.
 
 When the upload is complete, it only means the file has been uploaded successfully. The recording may still be transcribing or being summarized by AI. Please wait patiently for the AI summary to complete.
+
+---
+### AI MindClip OpenAPI Introduction
+
+Last Updated: 2026 Aug 20
+
+- **Related Products: SwitchBot AI MindClip**
+
+AI MindClip helps you automatically complete recording, transcription, AI summaries, and to-do extraction. OpenAPI makes these results available beyond the app. You can sync them to your own knowledge base, task tools, daily or weekly reports, or team systems, so every recording can truly flow and be used.
+
+**1. What Is It?**
+
+Simply put, OpenAPI is a bridge.
+
+One end of the bridge is AI MindClip, where your recordings, full transcriptions, AI summaries, and to-dos are stored. The other end is the tools you use every day, such as knowledge bases, task management tools, calendars, team collaboration platforms, or small scripts you build yourself.
+
+With this bridge, you no longer need to manually copy and paste. The content you need can automatically and securely flow from AI MindClip to where you need it.
+
+It is suitable if you want to:
+
+- Automatically archive meeting notes into a knowledge base
+- Sync AI-extracted to-dos to task tools or calendars
+- Use daily or weekly summaries to automatically generate personal daily or weekly reports
+- Build your own voice knowledge base and search historical records anytime
+
+**2. What Can It Help You Do?**
+
+**Automatically archive meeting notes**
+
+Once a recording ends, AI MindClip generates the transcription and summary. Through OpenAPI, these contents can automatically enter your meeting system, Notion, Lark Docs, or team knowledge base, so you no longer need to organize them manually after meetings.
+
+**Automatically send to-dos to your task list**
+
+AI identifies tasks from recordings. OpenAPI can sync these to-dos to task management tools, calendars, or team boards, so action items no longer stay scattered across individual recordings.
+
+**Automatically generate daily and weekly reports**
+
+By reading Daily Memories and Weekly Summaries, you can automatically generate personal daily reports, work reviews, or productivity dashboards. Let the system organize things on schedule and save the time you would otherwise spend recalling what happened today.
+
+**Build your own voice knowledge base**
+
+Sync transcriptions and summaries to your own knowledge base. Historical meetings, project discussions, customer conversations, and sudden ideas can all be searched and reviewed. Every piece of audio becomes a retrievable asset.
+
+**3. What Content Can You Get?**
+
+Capability What You Can Get Suitable For Recording List Recording name, duration, status, linked device, folder Displaying and filtering recordings in your own system Recording Details Basic information and processing status of a single recording Checking the status of a specific recording Transcription & AI Summary Full transcription, AI summary, template summary, to-dos, speaker information Meeting notes, interview records, knowledge bases To-Do List Tasks extracted by AI from recordings, filterable by device, recording, category, and more Syncing to task tools or generating to-do boards Daily Memories Daily summary, location, related recordings Personal journals, work daily reports, action reviews Weekly Summary Weekly AI summary Weekly reports, project reviews, productivity reviews Urgent To-Dos Important to-dos and suggested times identified by AI Priority reminders or “what matters most” boards
+
+For privacy and security reasons, OpenAPI only returns text-based content, such as transcriptions, summaries, and to-dos. It does not provide the audio files themselves or audio download links.
+
+**4. Get Started in Three Steps**
+
+Before using OpenAPI, you need to get your dedicated OpenAPI Token in the app. You can think of it as an access key for your account.
+
+**Step 1: Go to Settings > About**
+
+Open the AI MindClip App, go to **Profile > Settings**, then tap **About**.
+
+**Step 2: Tap Software Version Several Times**
+
+On the **About** page, tap **Software Version** several times in a row.
+
+**Step 3: Enter Developer Options and Copy the Token**
+
+**Developer Options** will appear on the page. Open it to get your OpenAPI Token. If a Secret Key is also displayed, please save it as well. It will be used when calling the API.
+
+After getting the Token, you can start using OpenAPI. See Section 6 for how to connect and use it.
+
+**5. Things to Note Before Use**
+
+**Keep your Token safe**
+
+Your Token is your key. Anyone who obtains it may be able to read your recording information, transcriptions, summaries, and to-dos within the authorized scope. Please:
+
+- Do not send it in group chats, forums, public web pages, or screenshots
+- Do not write it into public code repositories
+- Do not connect it to unknown third-party tools
+- If you suspect it has been leaked, regenerate the Token in the app as soon as possible
+
+**Using AI capabilities through OpenAPI also consumes quota**
+
+Just like in the app, OpenAPI will also consume your summary time or AI time normally. We recommend calling it only when needed and avoiding frequent repeated pulls, unnecessary polling, or bulk fetching data you do not use.
+
+**Content needs some processing time**
+
+After recording ends, content is not generated immediately. It must go through upload, transcription, summary generation, and other processing steps. Common statuses include:
+
+Status Meaning Not Transcribed Processing has not started yet Transcribing Processing is in progress Transcription Successful Transcription and related AI content have been generated Transcription Failed Processing failed Timeout Processing took too long and the task timed out
+
+If the content has not finished generating, it is normal for the API to return empty text or an empty array. Please try again later.
+
+**You can only access your own data**
+
+OpenAPI only returns data for the account linked to the current Token. It will not access content from other accounts, and it only supports data from AI MindClip devices.
+
+**6. Want to Connect and Use It?**
+
+OpenAPI is an advanced feature and usually requires some technical setup. You can choose based on your needs:
+
+- **If you do not want to write code:** Use the official SwitchBot tool. After logging in, you can directly read recordings, summaries, to-dos, and other content.
+- **If you want to build your own integration:** The official page also provides complete API and technical documentation.
+
+Tools and documentation are available here: [https://www.npmjs.com/package/@switchbot/openapi-cli](https://www.npmjs.com/package/@switchbot/openapi-cli)
+
+---
+### Will There Be a Web or Desktop Version in the Future?
+
+Last Updated: 2026 Aug 20
+
+- **Related Products: SwitchBot AI MindClip**
+
+The web version is already available. There are currently no plans for a desktop version.
+
+---
+### How Are Pro Plan Benefits Issued and Quotas Reset?
+
+Last Updated: 2026 Aug 21
+
+- **Related Products: SwitchBot AI MindClip**
+
+The Pro Plan provides **1,200 minutes** of transcription quota every **30 calendar days**. During the valid subscription period, the quota is issued in batches by cycle instead of being issued all at once.
+
+The issuing cycle is updated every fixed **30 calendar days** and is not calculated by calendar month.
+
+If the 1,200-minute quota issued for the first cycle is not used up by the next cycle, the remaining quota will be cleared and reset.
+
+---
+### What Are the Free Trial and Auto-Renewal Rules for the Pro Plan?
+
+Last Updated: 2026 Aug 21
+
+- **Related Products: SwitchBot AI MindClip**
+
+For devices purchased between **August 19, 2026 and September 23, 2026**, all users are eligible for a limited-time free trial of the **Pro Plan - 6 Months** configuration.
+
+For users who purchase the device on or after **September 24, 2026**, a limited-time free trial of the **Pro Plan - Monthly** configuration will be provided.
+
+Users still need to complete the subscription process through the app store. During the free trial period, the payment amount is **0**.
+
+If the subscription is not canceled before the trial period ends, it will automatically renew at the original price of the corresponding trial plan after the trial ends.

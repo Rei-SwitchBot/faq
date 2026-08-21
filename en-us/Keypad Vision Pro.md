@@ -636,3 +636,13 @@ After checking with our R&D team, we confirmed that Keypad Vision Pro firmware v
 Please delete the existing face and palm vein information, register them again, and then check whether facial recognition and palm vein recognition work normally.
 If you have any other questions, please do not hesitate to contact us.
 
+---
+### What Should I Do if Keypad Vision Pro Controls the Lock With a Delay or Responds Slowly?
+
+Last Updated: 2026 Aug 19
+
+- **Related Products: Keypad Vision Pro**
+
+1. The Bluetooth signal may be affected by interference. Try reducing interference from nearby 2.4 GHz devices.
+2. If you are controlling the lock remotely through a Hub series product, check whether the Hub’s network connection is stable.
+3. Try switching to Fast Unlock Mode. Please note that this may increase device power consumption.

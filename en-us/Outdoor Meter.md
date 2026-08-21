@@ -107,58 +107,27 @@ Caution: The data would be clear after reset. Please backup the data before rese
 
 [How do I export the data from Outdoor Meter?](https://support.switch-bot.com/hc/en-us/articles/13800337522199)
 
-
-
 ---
-### How to Remotely Check the Temperature and Humidity Data of SwitchBot Outdoor Meter (Connect to a Hub)?
+### How to Remotely Check the Temperature and Humidity Data of SwitchBot Outdoor Meter (Connect to a Hub)
 
-L
+Last Updated: 2026 Aug 20
 
-ast Updated：
+- **Related Products: SwitchBot Outdoor Meter**
+- **SwitchBot App Version: 9.23 or newer**
 
-2024 Oct 23
+1. Make sure your SwitchBot App version is up to date.
 
-Related Products: SwitchBot Outdoor Meter
+2. Make sure SwitchBot Outdoor Meter has been added to your App and your device firmware version is up to date.
 
-SwitchBot App Version: 9.2 or newer
+3. To remotely check temperature and humidity data, it is necessary **to use it in conjunction with our Hub series products.**Please note that the Hub Series product has been added to the SwitchBot App.
 
-1. Please ensure you have the latest version of the SwitchBot App.
+4. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, tap Store Data in Cloud, and it will automatically connect to the Hub.
 
-2. Please ensure your SwitchBot Outdoor Meter is added to the SwitchBot App and has the latest firmware version.
+5. Settings in step 4 enable remote confirmation of temperature and humidity data.
 
-3. To remotely check temperature and humidity data, it is necessary
+Related Post: [Difference Between Using SwitchBot Meter Alone and with a Hub](https://support.switch-bot.com/hc/en-us/articles/4413289440535)
 
-to use it in conjunction with our Hub series products.
-
-Please note that the Hub Series product has been added to the SwitchBot App. (Hub series products: SwitchBot Hub Mini/Hub 2)
-
-4.
-
-We will show you how to connect Outdoor Meter
-
-to Hub Mini/Hub 2.
-
-Launch the SwitchBot App and log in.
-
-Tap the corresponding
-
-Outdoor Meter.
-
-Tap the gear icon in the top right.
-
-Tap "Third-party Service" on the settings screen.
-
-Turn on Third-party Services.
-
-Connect to the Hub products in your account.
-
-Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Third-party Service (the Third-party Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub.
-
-Related Post:
-
-[Difference Between Using SwitchBot Meter Alone and with a Hub](https://support.switch-bot.com/hc/en-us/articles/4413289440535)
-
-
+SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3
 
 ---
 ### How to Set Up the SwitchBot Outdoor Meter Kit
@@ -653,12 +622,3 @@ Note: Once you tap the "Store data to cloud" button, it will automatically disap
 
 1. To remotely monitor temperature and humidity data, you need to use meter products together with our Hub Series devices. Please note that the Hub Series has been added to the SwitchBot App.
 2. Starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Meter devices near the Hub, within Bluetooth range, and it will automatically connect to the Hub. Once completed, temperature and humidity data will be uploaded to the cloud (stored for up to two years) for remote viewing.
-
-
-
-
-
-
-
-
-

@@ -860,3 +860,19 @@ Note:
 9. Currently, CO2 readings are not supported on the Apple Home App.
 
 10. Our Bot currently only supports switch mode on the Home App. This means that if you set your Bot to press mode, it will still appear as a switch on the Home App and won't accurately show the real (on/off) status of your wall switch. We apologize for any inconvenience caused.
+
+---
+### What Should I Do if a Hub 2 Matter Sub-Device Has Been Added in the SwitchBot App but Cannot Be Found on the Apple Home Home Page?
+
+Last Updated: 2026 Aug 19
+
+- **Related Products: Hub 2**
+
+1. Go to **Apple Home > Home Settings > Home Hubs & Bridges > Hub 2 > Accessories** and check whether the device can be found. Some devices, such as Motion Sensor, may not generate a card on the Apple Home home page by default.
+2. If the issue persists after Step 1, check whether the device appears as **No Response** in the third-party app after being added. If it does, please try the following: Create a new Home in the Apple Home app.
+3. Add any Apple home hub to the new Home.
+4. Reset Hub 2 and add it to the new Home, then check whether it works properly.
+5. After adding the sub-device, make sure the device and your home hub, such as Apple HomePod or Apple TV, are connected to the same 2.4 GHz network.
+6. If Steps 2 and 3 are both normal, remove the sub-device from the Matter sub-device list in the SwitchBot App, then add it again as a sub-device. Please avoid adding multiple sub-devices within a very short time, such as adding 2 or 3 devices within 1 second, as this may prevent the third-party platform from updating the devices properly.
+7. If Step 4 does not work, try restarting the home hub.
+8. If Step 5 does not work, try adding Hub 2 to Apple Home again, then add the sub-device again.
