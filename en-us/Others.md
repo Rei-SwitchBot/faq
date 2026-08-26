@@ -2381,7 +2381,7 @@ a Hub device is required
 
 .
 
-Please follow the below steps to create SwitchBot widget(s).
+Please follow the below steps to create SwitchBot widget(s) for Android Phone.
 
 Step 1. Tap and hold your home screen to search "SwitchBot" or find SwitchBot widgets.
 
@@ -2399,14 +2399,7 @@ You can choose:
 
 And then choose the device that you want to control.
 
-*Note: Please turn on your Bot's Third-party Service first.
-
-![Image](https://static.wixstatic.com/media/e56c6d_6fc675531206491b902d6860beb13015~mv2.png/v1/fill/w_925,h_636,al_c,usm_0.66_1.00_0.01/e56c6d_6fc675531206491b902d6860beb13015~mv2.png)
-
-Bingo! Now you are able to control SwitchBot or your home appliances directly from your home screen.
-
-![Image](https://static.wixstatic.com/media/e56c6d_ab4e2f7ff887454da07ad4f406b0d97b~mv2.jpg/v1/fill/w_450,h_950,al_c,q_90,usm_0.66_1.00_0.01/e56c6d_ab4e2f7ff887454da07ad4f406b0d97b~mv2.jpg)
-
+*Note: SwitchBot Hub Series products needed, and the hub should be place inside the Bluetooth range of the Bot.
 
 ---
 ### How to create home and change home in SwitchBot App?
