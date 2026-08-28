@@ -488,10 +488,23 @@ Regarding this issue, could you please check the following points?
 4. Restart your home router.
 5. Unplug the Hub's power, then plug it back in to trigger a Bluetooth rescan of the sensor.
 
+---
+### What Should I Do if I Receive an Incorrect Low Battery Alert for Motion Sensor?
 
+Last Updated: 2026 Aug 26
 
+- **Related Products: Motion Sensor**
 
+1. Remove the batteries and insert them again.
+2. Turn Bluetooth on your phone off and on once, then check whether the low battery alert still appears.
+3. If the issue persists after trying the steps above, please provide the following information.: A screenshot showing the remaining battery level
+4. A screenshot of the low battery notification
 
+---
+### Why Is the Battery Level Display Abnormal When Motion Sensor Uses Rechargeable Batteries?
 
+Last Updated: 2026 Aug 26
 
+- **Related Products: Motion Sensor**
 
+Due to design limitations, Motion Sensor cannot accurately read the battery level of rechargeable batteries. We recommend using AAA dry batteries.

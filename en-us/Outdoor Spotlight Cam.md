@@ -1735,3 +1735,56 @@ Last Updated: 2026 Aug 5
 5. Check whether MAC address whitelist is enabled on your router. When adding the camera, please disable this feature or add the camera’s MAC address to your router’s whitelist.
 6. Try adding the device to another Wi-Fi network that works properly, or to a mobile hotspot, and check whether it can be added successfully.
 7. If the issue persists, please record a video of the device setup process.
+
+---
+### What Should I Do if Pet Detection on Outdoor Spotlight Cam Is Inaccurate?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Outdoor Spotlight Cam**
+
+1. Currently, the camera can only detect moving pets. It cannot detect pets that remain still.
+2. Try increasing the motion detection sensitivity. For reference, High, Medium, and Low sensitivity can detect movement from a normal human-sized target at approximately 8 m, 6 m, and 3 m respectively.
+
+---
+### What Should I Do if Outdoor Spotlight Cam 2K or Outdoor Spotlight Cam Shows Black Smudges?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Outdoor Spotlight Cam 2K, Outdoor Spotlight Cam**
+
+1. Make sure there is no dirt on the lens. You can wipe it with a lint-free cloth or glasses cloth.
+2. Try restarting the device using the power switch.
+
+---
+### What Should I Do if Outdoor Spotlight Cam Cannot Recognize the SD Card Properly?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Outdoor Spotlight Cam**
+
+1. Insert the SD card into a computer and check whether the computer can recognize it properly or whether the recognition status is stable. You may also try formatting the SD card. If the computer cannot recognize it stably either, the SD card itself may be abnormal.
+2. Format the SD card to FAT32 on your computer, then insert it into the camera and check whether the issue improves.
+3. If you have multiple SD cards, try another SD card and check whether the issue improves.
+
+---
+### What Should I Do if Outdoor Spotlight Cam Cannot Be Charged With a Type-C Power Cable?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Outdoor Spotlight Cam**
+
+1. Try charging the device with another 5V/2A charger and check whether the issue improves.
+2. After using another charger, wait for 1 minute and check whether the light starts flashing.
+3. If you do not have another charger, use the power adapter included with the camera and check whether it can charge your phone.
+4. If the steps above do not resolve the issue, please record a video showing the fault symptoms. The video should start from powering on the device. Wait 20 seconds, turn on the device, then press and hold the reset button for 3 to 5 seconds until the camera makes no sound and the red light on the device turns on and off.
+
+---
+### What Should I Do if the Indicator Light on Outdoor Spotlight Cam Does Not Turn On and the Device Cannot Be Reset?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Outdoor Spotlight Cam**
+
+1. Check whether the battery has power. First, charge the device with a 5V/2A adapter for more than 3 hours and see whether it can recover.
+2. If the charging indicator does not turn on while charging, try using another adapter and power cable to rule out charging failure caused by the adapter or cable.

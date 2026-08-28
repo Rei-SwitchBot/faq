@@ -411,3 +411,12 @@ Due to the narrow space and lack of leverage points, it is difficult to unplug t
 https://drive.google.com/file/d/10hJGKIsv8_LcUwHIiMjT10zyH99Is2mp/view?usp=drivesdk
 If you have any other questions, please do not hesitate to contact us.
 
+---
+### What Should I Do if Meter Pro or Meter Pro (CO2 Monitor) Cannot Be Added and the App Says It Has Already Been Added to an Account?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Meter Pro, Meter Pro (CO2 Monitor)**
+
+1. Check whether the device has already been added to another Home. The device cannot be added to multiple Homes at the same time.
+2. If the device has been added to another Home, you can move it to the Home you want by tapping the device card > the gear icon in the upper-right corner > device name > Home.

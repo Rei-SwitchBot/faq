@@ -459,3 +459,27 @@ Regarding this issue, could you please check the following points?
 1. Please follow the instructions in the SwitchBot app to recalibrate your roller shade.
 SwitchBot app -> Roller Shade -> Gear icon in the top right corner -> Recalibrate
 
+---
+### What Should I Do if Roller Shade Cannot Be Added to the App?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Roller Shade**
+
+1. Restart Bluetooth on your phone, then try again.
+2. Charge the device for 30 minutes, then try adding it again.
+3. Make sure the device has entered pairing mode correctly. In pairing mode, the indicator light flashes white quickly.
+4. Insert a pin into the reset hole near the charging port, press the reset button for 2 seconds, then try again.
+
+---
+### What Should I Do if Roller Shade Cannot Power On or Does Not Respond When I Press and Hold the Reset Button?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Roller Shade**
+
+1. Check whether the battery has power. First, charge the device with a 5V/2A adapter for more than 3 hours and see whether it can recover.
+2. If the charging indicator does not turn on while charging, try using another adapter to rule out charging failure caused by the adapter.
+3. Press and hold the pairing button for at least 15 seconds and check whether the indicator light changes.
+4. If the indicator light does not change, insert a pin into the reset hole near the charging port to reset the device.
+5. If the issue persists after reset, please record a video of the reset process and provide it.

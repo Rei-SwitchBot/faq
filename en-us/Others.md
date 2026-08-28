@@ -100,21 +100,20 @@ Enable Daylight Saving Time and select the time zone (if you have multiple homes
 
 Complete the process.
 
-
-
 ---
 ### About Source Code Download
 
-Last Updated: 2023 Jul 17
+Last Updated: 2026 Aug 28
 
-Related Products: SwitchBot Products
+**Last Updated: 2023 Jul 17**
+
+- **Related Products: SwitchBot Products**
 
 1. Some of our products contain software that is licensed under the GNU General Public License (GPL) , GNU Lesser GeneralPublic License (LGPL) or otherwise.
 
 2. You may obtain the source code of such software and copy, distribute and modify it under the GPL, LGPT or other licenses.
 
 Note: This software is distributed as open source software, but the copyright belongs to the copyright holders listed in the source code. Please note that we will not be able to answer questions about the contents of the source code.
-
 
 ---
 ### Alexa App Says Switchbot Device Is Unresponsive
@@ -2563,22 +2562,14 @@ Then let's see how to use the "Shortcuts" app to control SwitchBots.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25999686236823)
 
-
-
 ---
 ### I Am Having Trouble Using Switchbot App, What Should I Do？
 
-Updated: Mar 03rd, 2023
+Last Updated: 2026 Aug 27
 
-SwitchBot App Version: V6.20 or newer
+- **SwitchBot App Version: V10.1 or newer**
 
 1. Make sure you have the latest version of the SwitchBot App.
-
-2. Please provide us with a detailed description of your problem so that we can investigate. Thanks for your cooperation.
-
-![Image](https://support.switch-bot.com/hc/article_attachments/12828325109783)
-
-
 
 ---
 ### I Submitted Feedback but Have Not Received a Response, Where Should I Go to Check?

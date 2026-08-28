@@ -426,3 +426,25 @@ For iOS users, please go to SwitchBot App -> Profile -> Preferences -> Permissio
 
 If you have any other questions, please do not hesitate to contact us.
 
+---
+### What Should I Do if Safety Alarm Shows a Low Battery Alert Within a Few Days After Installing Batteries?
+
+Last Updated: 2026 Aug 26
+
+Firmware Version: V1.7 or newer
+
+- **Related Products: Safety Alarm**
+
+1. Make sure the device firmware version is up to date.
+2. Try replacing the batteries.
+3. If the issue persists, please take a photo of the back of the device without the batteries installed.
+
+---
+### What Should I Do if Safety Alarm Still Says “Please Grant Required Permissions” After Critical Alerts Are Enabled?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Safety Alarm**
+
+1. Restart your phone, then check the device again.
+2. Try uninstalling and reinstalling the SwitchBot App, then check the device again.

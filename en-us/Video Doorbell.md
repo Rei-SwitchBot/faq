@@ -1602,3 +1602,32 @@ Last Updated: 2026 Jul 31
 Related Product: SwitchBot Smart Video Doorbell
 
 Please slide the sub-unit to the left while keeping a reset pin or another thin, narrow object inserted into the hole.
+
+---
+### What Should I Do if Video Doorbell Has Many False Motion Detection Alerts?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Video Doorbell**
+
+1. Check whether there is frequent movement in the camera view that may not be immediately noticeable, such as air vents, glass reflections, sunlight, moving curtains, or rotating fans.
+2. Try setting the motion detection sensitivity based on the detection distance. For reference, sensitivity levels 1-3 correspond to a detection distance of 1-3 meters, levels 4-6 correspond to 4-6 meters, and levels 7-10 correspond to 7-9 meters. Higher sensitivity may make false detections more likely.
+
+---
+### What Should I Do if I Hear Obvious Noise While Viewing Video Doorbell Live View?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Video Doorbell**
+
+1. Make sure the protective film on the sub-unit lens has been removed.
+2. Try moving the sub-unit to a quiet indoor environment, then check whether the noise is still present.
+
+---
+### What Should I Do if Video Doorbell Cloud Storage Shows Events but No Recordings?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: Video Doorbell**
+
+1. If only some events have no recordings, this may be related to the network environment where the device is located. When the network connection is poor, uploads may occasionally fail. Please make sure the device is connected to a stable network.

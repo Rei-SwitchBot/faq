@@ -1050,3 +1050,62 @@ For users who purchase the device on or after **September 24, 2026**, a limited-
 Users still need to complete the subscription process through the app store. During the free trial period, the payment amount is **0**.
 
 If the subscription is not canceled before the trial period ends, it will automatically renew at the original price of the corresponding trial plan after the trial ends.
+
+---
+### Do Recording Files Need to Be Summarized Manually?
+
+Last Updated: 2026 Aug 27
+
+App Version: V1.4 or newer
+
+- **Related Products: SwitchBot AI MindClip**
+
+You can choose either manual summary or automatic summary. You can also set a smart summary time period.
+
+To set it up, open the app and go to **device icon in the upper-left corner > Summary Preferences > Trigger Method**, then choose whether to enable automatic summaries.
+
+---
+### What Should I Do if the App Detects the Device but Cannot Connect, Register, or Add It?
+
+Last Updated: 2026 Aug 28
+
+- **Related Products: SwitchBot AI MindClip**
+
+1. If the device is blinking with orange‌ light, please charge the device for about 30 minutes first and then try again.
+2. Try restarting Bluetooth on your phone.
+3. Press and hold the pairing button in the lower-right corner for 10 seconds, then add the device again.
+
+---
+### What Should I Do if I Have Already Subscribed to Another Plan and Cannot Use the Free Trial Plan?
+
+Last Updated: 2026 Aug 28
+
+App Version: V1.4 or newer
+
+- **Related Products: SwitchBot AI MindClip**
+
+If you have not used the free trial before and have already purchased a paid subscription directly, we can compensate you with an add-on time package equivalent to the free trial duration.
+
+Paid subscription plans are non-refundable. Thank you for your understanding.
+
+---
+### What Should I Do if I Don’t See the 6-Month Free Trial Plan After Entering the Subscription Page?
+
+Last Updated: 2026 Aug 28
+
+App Version: V1.4 or newer
+
+- **Related Products: SwitchBot AI MindClip**
+
+1. Check whether the app version is V1.4 or newer in the app settings. If not, please update the app to the latest version first.
+2. After confirming the app version, completely close the app, including ending it from the background, then reopen it and go to the subscription page again.
+3. If the plan still does not appear, restart your phone and check the subscription page again.
+
+---
+### How Do I Export Data?
+
+Last Updated: 2026 Aug 26
+
+- **Related Products: SwitchBot AI MindClip**
+
+On the recording summary page, tap the icon in the upper-right corner to find the options for exporting audio, transcriptions, and summaries.
