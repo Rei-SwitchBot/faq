@@ -3146,3 +3146,28 @@ We sincerely apologize for the inconvenience. If you have any other questions, p
 Apple Watch Series 2 or later models with watchOS 4.0 or later can be used to control Lock.
 Please note that when using Apple Watch to control Lock series products, the Apple Watch must be within Bluetooth range of the device.
 
+---
+### SwitchBot Lock Ultra Max and Keypad Vision Installation Video
+
+Last Updated: 2026 Sep 3
+
+Related Product: SwitchBot Lock Ultra Max, SwitchBot Keypad Vision
+
+**Installing SwitchBot Lock Ultra Max on a Keyhole Cylinder Lock**
+
+**Installing SwitchBot Lock Ultra Max on a Knob Cylinder Lock**
+
+**Installing SwitchBot Keypad Vision**
+
+---
+### How Long Does It Take to Fully Charge SwitchBot Lock Ultra's Rechargeable Battery?
+
+Last Updated: 2026 Sep 4
+
+Related Product: SwitchBot Lock Ultra
+
+It takes about 10 hours for the rechargeable battery of Lock Ultra to be fully charged. During charging, the indicator lights up in red and changes to green when charging is complete.
+
+**Note:**
+
+During charging, the backup battery will be automatically activated, and the auto-lock function is temporarily disabled.

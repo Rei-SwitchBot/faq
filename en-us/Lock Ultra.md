@@ -856,3 +856,8 @@ Last Updated: 2026 Aug 15
 
 1. Make sure the adapter has been securely fitted onto the original thumbturn during installation. If it is not installed properly, the adapter may slip off. Please reinstall it and check again.
 2. If it is installed correctly, go to **Lock Ultra > Settings > Basic Settings**, find **Lock Force**, set the force level to **Gentle**, then calibrate again.
+
+---
+### Lock Ultra Max JP安装视频
+
+Last Updated: 2026 Aug 28

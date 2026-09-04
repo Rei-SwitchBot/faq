@@ -1109,3 +1109,25 @@ Last Updated: 2026 Aug 26
 - **Related Products: SwitchBot AI MindClip**
 
 On the recording summary page, tap the icon in the upper-right corner to find the options for exporting audio, transcriptions, and summaries.
+
+---
+### Why can’t I see synced to-dos in Google Calendar?
+
+Last Updated: 2026 Sep 1
+
+- iOS:
+
+1. Open **Settings** on your iPhone.
+2. Tap **Apps**.
+3. Find and tap **Calendar**.
+4. Tap **Calendar Accounts**.
+5. Tap **Add Account**.
+6. Select **Google**.
+7. Sign in to your Google account and complete authorization.
+8. After signing in, make sure **Calendar** is turned on.
+
+- Android：
+
+1. Tap the menu icon in the upper-left corner, then select **Settings**.
+2. Tap **Manage accounts**.
+3. Under **Non-Google accounts**, turn on **AI MindClip**.

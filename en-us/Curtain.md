@@ -1721,10 +1721,17 @@ H = mm
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
 
+---
+### Curtain4 U Rail安装视频引导占位
 
+Last Updated: 2026 Aug 31
 
+---
+### Curtain4 U Rail长续航安装视频占位链接
 
+Last Updated: 2026 Aug 31
 
+---
+### Curtain4 U Rail/Curtain4 U Rail长续航快速校准功能说明占位
 
-
-
+Last Updated: 2026 Aug 31
