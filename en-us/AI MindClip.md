@@ -1056,7 +1056,7 @@ If the subscription is not canceled before the trial period ends, it will automa
 
 Last Updated: 2026 Aug 27
 
-App Version: V1.4 or newer
+App Version: V1.7 or newer
 
 - **Related Products: SwitchBot AI MindClip**
 
@@ -1080,7 +1080,7 @@ Last Updated: 2026 Aug 28
 
 Last Updated: 2026 Aug 28
 
-App Version: V1.4 or newer
+App Version: V1.7 or newer
 
 - **Related Products: SwitchBot AI MindClip**
 
@@ -1093,11 +1093,11 @@ Paid subscription plans are non-refundable. Thank you for your understanding.
 
 Last Updated: 2026 Aug 28
 
-App Version: V1.4 or newer
+App Version: V1.7 or newer
 
 - **Related Products: SwitchBot AI MindClip**
 
-1. Check whether the app version is V1.4 or newer in the app settings. If not, please update the app to the latest version first.
+1. Check whether the app version is V1.7 or newer in the app settings. If not, please update the app to the latest version first.
 2. After confirming the app version, completely close the app, including ending it from the background, then reopen it and go to the subscription page again.
 3. If the plan still does not appear, restart your phone and check the subscription page again.
 
