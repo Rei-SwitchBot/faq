@@ -371,3 +371,13 @@ Regarding this issue, could you please check the following points?
 1. Remove the batteries from the Meter Pro and wait for about one minute.
 2. Power the Meter Pro back on.
 
+---
+### Troubleshoot a Meter Pro clock that is one hour behind in British Columbia
+
+Last Updated: 2026 Nov 20
+
+**Applies to:** SwitchBot Meter Pro, SwitchBot Meter Pro (CO2 Monitor)
+
+Most of British Columbia, Canada, did not turn clocks back on November 1, 2026. If the clock on your meter is still one hour behind local time, remove the batteries. If your CO2 Monitor is connected to USB power, unplug the cable as well. Restore power, then check the clock on the meter.
+
+If the clock is still an hour behind, [contact SwitchBot Support through the app](https://support.switch-bot.com/hc/en-us/articles/33198242544151). Include your meter model, device ID, and city. Attach a photo of the display and tell us the local time when you took it.

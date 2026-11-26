@@ -254,22 +254,17 @@ New actions had been added to Control TV now: “mute”, “volume up”, “vo
 
 ![Image](https://static.wixstatic.com/media/826c4e_41671ad6c6fc43b2bcd18c27488b33a8~mv2_d_1873_1810_s_2.jpg/v1/fill/w_925,h_894,al_c,q_90,usm_0.66_1.00_0.01/826c4e_41671ad6c6fc43b2bcd18c27488b33a8~mv2_d_1873_1810_s_2.jpg)
 
-
-
 ---
 ### Learn More About SwitchBot Hub
 
-Last Updated: 2024 Aug 21
+Last Updated: 2026 Nov 25
 
-Related Products: SwitchBot Hub Mini, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 2
+- **Related Products: SwitchBot Hub Mini, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4**
 
 Using a SwitchBot Hub as a bridge
 
-Currently, all SwitchBot products can be divided into two main categories:
-
-Wi-Fi-integrated, these devices have a built-in Wi-Fi module, such as SwitchBot Hub 2 (Wi-Fi+BLE), SwitchBot Pan/Tilt Cam (Wi-Fi), SwitchBot Floor Cleaning Robot S10 (Wi-Fi+BLE), SwitchBot Plug Mini (Wi-Fi+BLE).
-
-Bluetooth-only or BLE-only (short for Bluetooth Low Energy), these devices are not connected to the internet directly, but they can be controlled directly using Bluetooth-enabled devices such as your smartphone or a SwitchBot Universal Remote (BLE-only). Bluetooth-only devices consume less power than Wi-Fi-integrated devices, but their communication range is shorter.
+- Wi-Fi-integrated, these devices have a built-in Wi-Fi module, such as SwitchBot Hub 2 (Wi-Fi+BLE), SwitchBot Pan/Tilt Cam (Wi-Fi), SwitchBot Floor Cleaning Robot S10 (Wi-Fi+BLE), SwitchBot Plug Mini (Wi-Fi+BLE).
+- Bluetooth-only or BLE-only (short for Bluetooth Low Energy), these devices are not connected to the internet directly, but they can be controlled directly using Bluetooth-enabled devices such as your smartphone or a SwitchBot Universal Remote (BLE-only). Bluetooth-only devices consume less power than Wi-Fi-integrated devices, but their communication range is shorter.
 
 However, we can still connect SwitchBot Bluetooth-only devices to the internet via a SwitchBot Hub. If we have a hub under the same account and it is within communication range of the Bluetooth-only devices, we can have access to these devices through the internet.
 
@@ -277,9 +272,9 @@ Depending on your app version, things might look different on how you would conf
 
 App V9.0
 
-In this upcoming major update, it is more intuitive to enable remote access for your SwitchBot Bluetooth-only devices. You would need Beta access for this version at the moment.
+From this version, it is more intuitive to enable remote access for your SwitchBot Bluetooth-only devices.
 
-Simply add a SwitchBot Hub to your account, such as Hub 2 or Hub Mini. Make sure the Bluetooth-only devices you own is nearby, preferably in the same room and not blocked out by a wall or a door.
+Simply add a SwitchBot Hub to the same account as your devices, such as Hub 2 / Hub 3 / Hub 4 or Hub Mini. Make sure the Bluetooth-only devices you own are nearby, preferably in the same room and not blocked out by a wall or a door. Keep the hub online and within Bluetooth range of your devices.
 
 If you are not sure the communication is good or not, you can navigate to Profile > Manage Hubs to check the coverage of each hub and tweak the placement of your hub from there.
 
@@ -289,29 +284,38 @@ You can control the Bluetooth-only devices with voice assistants or build some a
 
 App V8.8 and previous versions
 
-When using Bluetooth-only devices with a hub, you can navigate to the Settings page of your device and turn on Third-party Services to enable more device features.
+![](https://support.switch-bot.com/hc/article_attachments/25998138308503)
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25998138308503)
-
-After turning on Third-party Services, you'll be able to remotely control your device even when outside Bluetooth range. You can also control your devices using third-party smart assistants like Alexa, Google Home, Siri, and more.
-
-When we turn on Third-party Services for SwitchBot Bluetooth devices, they will communicate with your SwitchBot Hub via Bluetooth. The Hub is also communicating with the Cloud via a 2.4GHz Wi-Fi network. Every time we try to control a SwitchBot Bluetooth device using our smartphone when not in Bluetooth range, the command will go to the Cloud first, and then be forwarded to your SwitchBot Hub. The Hub will tell the corresponding device what to do via Bluetooth signal when it receives the command. You can find out more by checking the image below:
-
-![Image](https://support.switch-bot.com/hc/article_attachments/25998107946391)
+![](https://support.switch-bot.com/hc/article_attachments/25998107946391)
 
 Controlling infrared appliances via a SwitchBot Hub
 
-SwitchBot Hub Mini and SwitchBot Hub 2 can do more than build a network bridge for SwitchBot Bluetooth devices. There is also an Infrared receiver and emitter built inside that allows them to learn many Infrared remote control commands to enable you to use your remotes virtually via your smartphone.
+Hub Mini, Hub 2, Hub 3 and Hub 4 support infrared learning and transmit infrared control signals. After learning a remote, the hub receives app commands through the cloud and emits infrared signals to the appliance.
+
+Hub functionality alone does not mean every product listed below supports infrared learning or transmission.
 
 Your Hub can learn the Infrared signal, and every time you try to control the corresponding infrared appliance over using your smartphone, the command will go to the Cloud first, then it will be forwarded to your SwitchBot Hub. Your Hub will then emit an infrared signal to control the corresponding appliance. You can find out more below:
 
-![Image](https://support.switch-bot.com/hc/article_attachments/25998107951127)
+![](https://support.switch-bot.com/hc/article_attachments/25998107951127)
 
-Available SwitchBot Hub Models
+Available SwitchBot Hub Models or with hub functions
 
-[Hub Mini Matter Enabled](https://www.switch-bot.com/products/switchbot-hub-mini-matter-enabled)
-
-
+- [Hub 3](https://www.switch-bot.com/products/switchbot-hub-3)
+- [Hub 4](https://www.switch-bot.com/products/switchbot-hub-4)
+- [AI Hub](https://www.switch-bot.com/products/switchbot-ai-hub)
+- [Smart Video Doorbell](https://www.switch-bot.com/products/switchbot-video-doorbell)
+- [Plug Mini (EU)](https://www.switch-bot.com/products/switchbot-plug-mini-eu)
+- [Relay Switch 1PM](https://www.switch-bot.com/products/switchbot-relay-switch-1pm)
+- [Relay Switch 1](https://www.switch-bot.com/products/switchbot-relay-switch-1)
+- [Relay Switch 2PM](https://www.switch-bot.com/products/switchbot-relay-switch-2pm)
+- [Garage Door Opener](https://www.switch-bot.com/products/switchbot-garage-door-opener)
+- [Hub 2](https://www.switch-bot.com/products/switchbot-hub-2)
+- [Hub Mini](https://www.switch-bot.com/pages/switchbot-hub-mini)
+- [Hub Mini Matter Enabled](https://www.switch-bot.com/products/switchbot-hub-mini-matter-enabled)
+- [Ceiling Light Pro](https://www.switchbot.jp/products/switchbot-ceiling-light)
+- [Ceiling Light](https://www.switchbot.jp/products/switchbot-ceiling-light)
+- Hub Plus
+- Hub
 
 ---
 ### The Difference Between Hub Mini and Hub 2 and Hub Mini Matter Enabled
@@ -715,25 +719,33 @@ Also, to help us arrange the shipment quickly, please provide the following deta
 - ZIP/Postal Code
 - A screenshot of your order
 
-
 ---
 ### How to Sync the Added IR Remotes to Apple Home App
 
-Please synchronize the added infrared remotes to Apple Home app in the following order:
-Launch SwitchBot app and log in.  
-Tap your Hub Mini Matter.  
-Tap the gear icon in the upper right corner.  
-Tap "Matter Setup".  
-Tap "Secondary Device".  
-Tap "Lab Features (Beta)" and add the target IR remote.
+Last Updated: 2026 Nov 25
 
-Important Note:
+Related Product: SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Hub 4
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub has been added to your App and your device firmware version is up to date.
+
+3. Please synchronize the added infrared remotes to Apple Home app in the following order:
+
+- Launch SwitchBot app and log in.
+- Tap your Hub.
+- Tap the gear icon in the upper right corner.
+- Tap "Matter Setup".
+- Tap "Secondary Device".
+- Tap "**Lab Features (Beta)**" and add the target IR remote.
+
+**Important Note:**
 
 1. IR remotes learned with "Smart Matching", "Select Manually" and "Others" can be synced to the Apple Home App.
-2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.  
-3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
-[https://support.switch-bot.com/hc/en-us/articles/13330959142807](https://support.switch-bot.com/hc/en-us/articles/13330959142807-Can-Infrared-Remote-Control-in-SwitchBot-Hub-2-Be-Controlled-by-Apple-Home-App)
 
+2. Infrared remote controls registered via "Learn Buttons" cannot be added as sub-devices. Please re-learn the remote control in "Other" mode and then try adding it as a sub-device.
+
+3. Air conditioner remotes in Apple Home app support cooling, heating, and on/off functions, while other appliance remotes only support on/off functions.
 
 ---
 ### Troubleshooting The Added Air Conditioner Remote Has a Cooling Button but No Heating Button.
@@ -823,19 +835,25 @@ If you have any further questions, feel free to contact us anytime. We're happy 
 ---
 ### Which SwitchBot Devices Can Be Added to Apple Home As Sub-devices via Matter?
 
-Last Updated: 2026 Aug 14
+Last Updated: 2026 Nov 25
 
-- **Related Products: SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Video Doorbell, SwitchBot Relay Switch**
+- **Related Products: SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Hub 4, SwitchBot Video Doorbell, SwitchBot Relay Switch**
 
 **Important Note:**
 
 To add the following devices as secondary devices to the third-party services like Apple Home or Google Home, you need to use any of the following devices that support matter.
+
+- SwitchBot Hub 4
 
 - SwitchBot Hub 2
 - SwitchBot Hub 3
 - SwitchBot Hub Mini Matter Enabled
 - SwitchBot Relay Switch
 - SwitchBot Video Doorbell
+
+**Maximum number of Matter sub-devices per hub**
+
+Matter bridge Max. sub-devices synced to Apple Home / Google Home Hub 4 30 Hub 3 30 Hub 2 8 (see Note 2) Hub Mini Matter Enabled 4 (see Note 11)
 
 Device Matter supported or not Action Curtain (supported in Firmware V4.6) Available fully open/fully close/ xx% open close Curtain 3 Available fully open/fully close/ xx% open close Blind Tilt Available fully open/close down or close up* Temperature & Humidity (Hub 2 & Hub Mini Matter) Available Temperature/Humidity* Room Light (Hub 2) Under development IR remotes Learned by Hub 2 with Smart Matching and Select Manually and Others* Available AC remote: cooling, heating, and on/off supported Other remotes: on/off only on & off button (Hub 2) Available Apple automation control* Lock (supported in Firmware V5.8) Lock Pro Lock Ultra Available Lock/Unlock Bot (supported in Firmware V6.4)* Available on/off* Remote Available Apple automation control* Meter, Meter Plus, Outdoor Meter, Meter Pro, Meter Pro (CO2 Monitor)* Available Temperature/Humidity Motion Sensor Available motion detected/motion not detected Contact Sensor Available door is open/door is closed Color Bulb Available on/off LED Strip Light Available on/off Plug Mini, Plug Mini Homekit Available on/off Ceiling Light, Ceiling Light Pro Available on/off Mini Robot Vacuum K10+/ K10+ Pro/ K10+ Pro Combo/ K20/ K11+ Available clean/recharge* Robot Vacuum Cleaner S1, Robot Vacuum Cleaner S1 Plus Available clean/recharge* Floor Cleaning Robot S10/S20 Available clean/recharge* Battery Circulator Fan Available on/off Universal Remote* Available Apple automation control Roller Shade Available on/off/xx% open close Air Purifier (Table) Available on/off Water Leak Detector Water Leak Detector with Sensor Cable Available with Hub 3 Leak detected/No leak detected Home Climate Panel Available Temperature/Humidity, on/off button, motion detected/motion not detected Smart Radiator Thermostat Available on/off/Adjusting temperature Presence Sensor Available Space occupied/Space not occupied
 
@@ -861,6 +879,8 @@ Note:
 
 10. Our Bot currently only supports switch mode on the Home App. This means that if you set your Bot to press mode, it will still appear as a switch on the Home App and won't accurately show the real (on/off) status of your wall switch. We apologize for any inconvenience caused.
 
+12. Hub 3 and Hub 4 can each sync up to 30 sub-devices to the Apple Home App via Matter.
+
 ---
 ### What Should I Do if a Hub 2 Matter Sub-Device Has Been Added in the SwitchBot App but Cannot Be Found on the Apple Home Home Page?
 
@@ -876,3 +896,368 @@ Last Updated: 2026 Aug 19
 6. If Steps 2 and 3 are both normal, remove the sub-device from the Matter sub-device list in the SwitchBot App, then add it again as a sub-device. Please avoid adding multiple sub-devices within a very short time, such as adding 2 or 3 devices within 1 second, as this may prevent the third-party platform from updating the devices properly.
 7. If Step 4 does not work, try restarting the home hub.
 8. If Step 5 does not work, try adding Hub 2 to Apple Home again, then add the sub-device again.
+
+---
+### Where Should I Place My SwitchBot Hub?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 4
+
+To ensure optimal performance, the placement of your SwitchBot Hub depends on how you intend to use it. Please follow the recommendations below:
+
+**1. For Controlling Infrared Appliances:**
+
+The Hub’s infrared signal transmitter and receiver are located to the right of the LED indicator. If you are using the Hub to control infrared appliances, we recommend placing it near these devices to ensure they can receive the Hub’s infrared signals effectively.
+
+Important Note: Infrared signals cannot pass through walls. If you wish to control devices in different rooms or on different floors, you will need a separate Hub for each room or floor.
+
+![](https://support.switch-bot.com/hc/article_attachments/45293734500631)
+
+**2. For Controlling SwitchBot Bluetooth (BLE) Devices Remotely:**
+
+If you are using the Hub to connect your Bluetooth devices to the internet for remote control, ensure that the Hub is within Bluetooth range of the devices.
+
+Given that walls, furniture, and other obstacles in your home may affect signal strength, we recommend keeping the Hub within approximately 5 meters (16 feet) of your Bluetooth devices in a straight line for the best results.
+
+**3. For Voice Control (SwitchBot Hub 4 only):**
+
+Hub 4 has built-in microphones for voice interaction. For the best wake-word and voice recognition performance, place Hub 4 where you usually speak and talk to it from within 3 meters (about 10 feet) indoors. Avoid placing it next to TVs, speakers, or other noise sources, and keep the top and front of the device unobstructed.
+
+---
+### Differences Between Hub Mini, Hub 2, Hub Mini Matter Enabled, Hub 3 and Hub 4
+
+Last Updated: 2026 Nov 25
+
+- **Related Products:****SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Hub 4**
+
+Hub Mini Hub 2 Hub Mini Matter Enabled Hub 3 Hub 4 Charging adapter output 5V1A/5V2A 5V2A 5V1A/5V2A 5V2A 5V2A (5V/2A adapter included) Connection terminal Micro USB/USB Type C USB Type C (with multiple sensors) USB Type C USB Type C (with multiple sensors) USB Type C Infrared remote control function √ √ √ √ √ Temperature and humidity sensor × √ × (Note1) √ √ Light sensor × √ × √ √ Matter function × √ √ √ √ Numer of sub-devices that can be synchronized with third-party service like Apple or Google × 8 4 30 30 Manual scene touch operation × √ × √ √ Infrared remote offline control × √ × √ (Note2) √ Third-party service such as Alexa or Google not displayed displayed as a meter recognized as a meter but requires a dedicated charging cable to function displayed as a meter √ Bluetooth remote × × × √ √ Motion detection × × × √ √ Weather forecast × × × √ √ Date & Time × × × √ √ CO2 status (Note3) × × × √ √ Lock status (Note4) × × × √ √ Voice assistant × × × × √
+
+Note2: By adding a learned infrared remote to the Hub 3 (as with the Universal Remote), you can use the buttons on the Hub 3 main unit to operate it.
+
+Note 3: CO2 Monitor is required separately.
+
+Note 4: Requires linkage with Lock products.
+
+---
+### Can Hub Mini, Hub 2, Hub 3, Hub 4, or Hub Mini Matter Enabled Be Downgraded?
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled**
+
+No. After the device is upgraded, firmware downgrade is not supported.
+
+---
+### What Should I Do if Adding a Remote With Smart Matching Fails on Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled, or Hub Plus?
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled, Hub Plus**
+
+1. Make sure the remote you are trying to learn is an infrared remote.
+2. Try adjusting the angle or shortening the distance, then learn the remote again.
+3. Try the other two methods: **Manual Matching** and **Learn Remote Buttons**.
+4. If the issue persists, please provide a video showing how the Hub indicator light changes during remote learning.
+
+---
+### Do Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled, Hub Plus, and Ceiling Light Pro Support Zigbee Compatibility?
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled, Hub Plus, Ceiling Light Pro**
+
+SwitchBot devices currently only support Wi-Fi, BLE, Wi-Fi + BLE, NFC, or NFC + BLE protocols.
+
+Some devices support Matter. You may consider using Matter to achieve compatibility.
+
+---
+### Are Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled, Hub Plus, and Ceiling Light Pro Compatible With Z-Wave?
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: Hub Mini, Hub 2, Hub 3, Hub 4, Hub Mini Matter Enabled, Hub Plus, Ceiling Light Pro**
+
+SwitchBot devices currently only support Wi-Fi, BLE, Wi-Fi + BLE, NFC, or NFC + BLE protocols.
+
+Some devices support Matter. You may consider using Matter to achieve compatibility.
+
+---
+### SwitchBot Hub 3 / Hub 4 Matter Setup (Android)
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: SwitchBot Hub 3, SwitchBot Hub 4**
+- **SwitchBot App: Coming soon**
+
+**Preparation**
+
+Before setting up devices using Matter, you will need the following:
+
+- SwitchBot Hub 3 / Hub 4
+- Android Phone
+- A Google Nest Hub
+
+**software**
+
+- **Android OS 12 or newer**
+- **Google Nest 47.9.4 or newer**
+- **Google Home 2.65.1.6 or newer**
+
+**Setup**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub has been added to your App and your device firmware version is up to date.
+
+3. Make sure all devices (your cell phone, nest hub and Hub) are connected to the same 2.4GHz Wi-Fi network.
+
+**4. Method 1: Add your Hub to Google Home App by inputing matter code.**
+
+4-1 Copy the code by going to SwitchBot App -> your Hub -> Gear Icon (Settings screen) -> Matter Setup (Beta).
+
+4-2 Before adding Hub to your Google Home app, you must first reset it. Press and hold the On and Off buttons on Hub for 15 seconds, then release after hearing a beep.
+
+4-3 Open Google Home App -> Tap "Add" button that appears under "Device" menu -> Tap "Matter-enabled device" -> Tap "No QR code" in the lower left corner -> Paste the code to continue the whole process.
+
+**5. Method 2: Add your Hub to Google Home App by scaning the QR code on the back of the Hub**
+
+Open Google Home App -> Tap "Add" button that appears under "Device" menu -> Tap "Matter-enabled device" -> Tap "Scan code" in the lower right corner -> scan the QR code to finish the whole process.
+
+6. After entering the adding process, wait a moment and your Hub will be added as a gateway, and the temperature and humidity sensor of Hub will also be added to the Home App.
+
+7. You can go back to SwitchBot App to sync the sub-devices (secondary devices) as needed.
+
+Way to sync the sub-devices: SwitchBot App -> Hub -> Gear Icon (Settings screen) -> Matter setup (Beta) -> Add secondary devices
+
+**Note:**
+
+Unlike Hub 2 and Hub Mini Matter, **Hub 3 / Hub 4 can sync up to 30 sub-devices** to the Home App.
+
+Related Post: [Which Devices Are Compatible With Matter via SwitchBot Hub 3 / Hub 4, Hub 2, and Hub Mini Matter Enabled?](https://support.switch-bot.com/hc/en-us/articles/13282638111127)
+
+---
+### Why Are Some Infrared Remote Controls Added Through SwitchBot Hub Not Showing in Google Home and Alexa?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4, SwitchBot Hub Mini Matter Enabled, SwitchBot Ceiling Light Pro
+
+SwitchBot Hub products support learning infrared remote controls in the following four ways: Smart Matching, Select Manually, Learn Buttons, and others.
+
+Please note that infrared remote controls learned through the “Others” mode cannot be linked with third-party services such as Alexa or Google Home. As a result, these remote controls will not appear in Alexa or Google Home and cannot be controlled by voice command through those services. We appreciate your understanding.
+
+As an alternative, you can create a SwitchBot Scene that controls the infrared remote. Alexa and Google Home can run SwitchBot Scenes through voice commands or automation, so this can help you control the infrared remote through Alexa or Google Home indirectly.
+
+Related Post:
+
+[How to Create Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183)
+
+[Voice control of scenes with Amazon Alexa (Scene 3.0)](https://support.switch-bot.com/hc/en-us/articles/18659736438295)
+
+[Voice control of scenes with Amazon Alexa (Scene 3.0)](https://support.switch-bot.com/hc/en-us/articles/18659736438295)
+
+Note：If your Hub supports Matter, you can sync the remote learned through “Others” mode to Apple Home as a sub-device, then control it using “Hey Siri” voice commands.
+
+Related Post:
+
+[How to Sync the Added IR Remotes to Apple Home App](https://support.switch-bot.com/hc/en-us/articles/34970312963991)
+
+---
+### How to Add Air Conditioner Remotes by "Others" Mode
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.16 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub has been added to your App and your device firmware version is up to date.
+
+3. If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Others" method.
+
+4. Please use the "Others" method to add air conditioner remotes in the following order:
+
+- Launch SwitchBot App and log in.
+- Tap your Hub.
+- Tap the "+" icon to add remote control.
+- Scroll down and then tap "Others".
+
+**Important Note:**
+
+- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
+- In the "Others" mode, buttons must be added manually one by one.
+- Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
+- For Others modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
+
+---
+### How to Add Air Conditioner Remotes by "Learn Buttons" Mode
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.16 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub has been added to your App and your device firmware version is up to date.
+
+3. If the IR remotes cannot be added using "Smart Matching" or "Select Manually," or if the appliance does not respond, please try the "Learn Buttons" method.
+
+4. Please use the "Learn Buttons" method to add air conditioner remotes in the following order:
+
+- Launch SwitchBot App and log in.
+- Tap your Hub.
+- Tap the "+" icon to add remote control.
+- Select "Air Conditioner" under Home Appliances.
+- Tap "Learn Buttons".
+
+**Important Note:**
+
+- Air conditioner remotes send combined information for operation mode (heating/cooling/dehumidifying/auto) and temperature. The hub functions as a substitute for the remote, operating in the same manner. This means it is not possible to learn just the operation mode or temperature separately.
+- When using the "Learn Buttons" method, you can only configure two buttons: "ON" and "OFF." Assign the power-off function to the OFF button, and program your frequently used operation mode and temperature (e.g., in summer: cooling + 25°C + automatic air volume) to the ON button.
+- You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
+- Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
+
+---
+### What to Do If the Added IR Remote Stops Working?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4
+
+1. Make sure that the Hub is connected to a power source and powered on.
+
+2. Make sure that the Hub is connected to a stable 2.4GHz (802.11b/g/n, IPv4) network.
+
+3. Make sure there are no obstacles, such as walls, between the Hub and the infrared appliances.
+
+4. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+5. If other infrared remotes are added, please check whether they operate correctly.
+
+6. Please try adding the relevant IR infrared remote again.
+
+7. As a troubleshooting step in case there is a problem with the Hub, if you have other Hub products, please copy the infrared remote to another Hub and check if it can be controlled.
+
+Related Post: [How to Transfer Learned Infrared Remotes From One Hub Mini to Another](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
+
+- Home Appliance Manufacturer and Model
+- Infrared Remote Control Model
+- Photo of Infrared Remote Control
+- Purchase link for the home appliance (if available)
+
+---
+### What to Do If I Am Unable to Add SwitchBot Hub 2 / Hub Mini Matter Enabled / Hub 3 / Hub 4 to iOS Home App?
+
+Last Updated: 2026 Nov 25
+
+**Last Updated: 2024 Jul 15**
+
+- **Related Products: Hub 2, Hub Mini Matter Enabled, Hub 3, Hub 4**
+- **iOS Version: 16.5 or newer**
+- **Apple TV Version: 16.5 or newer**
+
+"Home Hub Required" Displayed.
+
+Solution:
+
+A HomePod Mini or Apple TV is necessary.
+
+Unable to add: Hub's indicator light is blinking slowly.
+
+Solution：
+
+1. Enable Bluetooth on your smartphone and pair it once more.
+
+2. If the Matter scan code is not attached to the back of the Hub unit, please follow these instructions when selecting accessories in the Home App: tap on "My Accessory Isn't Shown Here" rather than choosing the nearby Hub / Hub Matter Enabled, and then proceed to enter the code.
+
+![](https://support.switch-bot.com/hc/article_attachments/26001930094743)
+
+Unable to Connect: Hub Indicator Light Activated.
+
+Solution：
+
+Enable mDNS on your home Wi-Fi router. Please consult the manufacturer for specific settings, as these may vary depending on your router model.
+
+Unable to enter an 11-digit Matter Scan code.
+
+Solution：
+
+Update your iOS to version 16 or later.
+
+The HomePod Mini and Apple TV are not connected to the same Wi-Fi network as Hub.
+
+Solution：
+
+Please ensure that Hub / Hub Matter Enabled, iPhone, and Homepod Mini/Apple TV are connected to the same Wi-Fi network (2.4 GHz).
+
+The iCloud Keychain is not activated.
+
+Solution：
+
+- Open the Settings App on your iPhone.
+- Select Apple ID.
+- Select iCloud.
+- Select Keychain and activate it.
+
+![](https://support.switch-bot.com/hc/article_attachments/26001930098071)
+
+---
+### SwitchBot Hub 3 / Hub 4 Matter Setup (iOS)
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: SwitchBot Hub 3, SwitchBot Hub 4**
+- **SwitchBot App: 9.17 or newer**
+
+**Preparation**
+
+Before setting up devices using Matter, you will need the following:
+
+- SwitchBot Hub 3 / Hub 4
+- iPhone
+- Homepod or Apple TV*
+
+Any home hub compatible with iOS 16.1 or later is acceptable. For further details regarding home hubs, we suggest contacting Apple directly. Please refer to [here](https://support.apple.com/en-hk/102557) to set up your home hub.
+
+**Setup**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub has been added to your App and your device firmware version is up to date.
+
+3. Make sure all devices (your iPhone, Homepod/Apple TV and Hub) are connected to the same 2.4GHz Wi-Fi network.
+
+**4. Method 1: Add your Hub to Apple Home App by inputing matter code.**
+
+4-1 Copy the code by going to SwitchBot App -> your Hub -> Gear Icon (Settings screen) -> Matter Setup (Beta).
+
+![](https://support.switch-bot.com/hc/article_attachments/31044151018775)
+
+4-2 Before adding Hub to your Apple Home app, you must first reset it. Press and hold the On and Off buttons on Hub for 15 seconds to reset it.
+
+4-3 Open Apple Home App -> Tap "Add or scan Accessory" -> Tap "More options" -> Tap "My Accessory isn't shown here" at the bottom of the screen -> Tap "Enter Code" -> Paste the code to continue the whole process.
+
+![](https://support.switch-bot.com/hc/article_attachments/31044161895575)
+
+**5. Method 2: Add your Hub to Apple Home App by scaning the QR code on the back of the Hub**
+
+Open Apple Home App -> Tap "Add or scan Accessory" -> scan the QR code.
+
+6. After entering the adding process, wait a moment and your Hub will be added as a gateway, and the temperature and humidity sensor of Hub will also be added to the Home App.
+
+7. You can go back to SwitchBot App to sync the sub-devices (secondary devices) as needed.
+
+Way to sync the sub-devices: SwitchBot App -> Hub -> Gear Icon (Settings screen) -> Matter setup (Beta) -> Add secondary devices
+
+**Note:**
+
+Unlike Hub 2 and Hub Mini Matter, **Hub 3 / Hub 4 can sync up to 30 sub-devices** to the Apple Home App.
+
+Related Post: [Which Devices Are Compatible With Matter via SwitchBot Hub 3 / Hub 4, Hub 2, and Hub Mini Matter Enabled?](https://support.switch-bot.com/hc/en-us/articles/13282638111127)
+
+8. You can use the buttons of your Hub to trigger automations in Apple Home.

@@ -536,3 +536,82 @@ Related Product: SwitchBot E-Ink Home Dashboard
 3. Make sure the home address set in the SwitchBot App is accurate.
 4. Press and hold the button on the top of your SwitchBot E-Ink Home Dashboard for 2 seconds to refresh the latest data.
 5. If the issue persists, please contact us via Feedback in the SwitchBot App. We will forward your feedback to our R&D team for further investigation.
+
+---
+### What Should I Do if E-Ink Home Dashboard Fails to Charge?
+
+Last Updated: 2026 Nov 26
+
+Related Product:** E-Ink Home Dashboard
+
+1. Connect E-Ink Home Dashboard to a power source.
+2. Press and hold the button on the back of the device for 2 seconds.
+3. Check the indicator in the upper-right corner of the device. If it lights up, charging has started successfully.
+
+---
+### How Do I Configure the Buttons on E-Ink Home Dashboard on the Web?
+
+Last Updated: 2026 Oct 9
+
+Firmware Version:** V22 or later
+
+- **Related Products:** SwitchBot E-Ink Home Dashboard
+- **SwitchBot App Version:** V10.1 or later
+
+1. Update the SwitchBot App to the latest version.
+2. Make sure your E-Ink Home Dashboard has been added to the SwitchBot App and its firmware is up to date.
+3. Open the [E-Ink Home Dashboard web page](https://e-ink-home-dashboard.switch-bot.com/#/device/buttonsWeather).
+4. Click **Button**, then select **Button A, B, C, or D**.![](https://support.switch-bot.com/hc/article_attachments/43723922724247)
+5. Click **Select Existing Pages**, select the page you want the chosen button to display, and click **Confirm Selection**.![](https://support.switch-bot.com/hc/article_attachments/43723914287383)
+6. Click **Save Button Configuration**.![](https://support.switch-bot.com/hc/article_attachments/43723925015959)
+7. After completing the setup, press and hold the button on top of the device for two seconds to refresh the device and apply the latest touch-button settings.
+
+---
+### How Do I Set Up Scheduled Image Updates for E-Ink Home Dashboard on the Web?
+
+Last Updated: 2026 Sep 24
+
+Firmware Version:** V22 or later
+
+- **Related Products:** SwitchBot E-Ink Home Dashboard
+- **SwitchBot App Version:** V10.1 or later
+
+1. Update the SwitchBot App to the latest version.
+2. Make sure your E-Ink Home Dashboard has been added to the SwitchBot App and its firmware is up to date.
+3. Open the [E-Ink Home Dashboard web page](https://e-ink-home-dashboard.switch-bot.com/#/device/buttonsWeather).
+4. Click **Go to Pages**, then click **Scheduled Refresh**.![](https://support.switch-bot.com/hc/article_attachments/43722125268375)
+5. Click **Select an Existing Page**, choose the page you want to display, and click **Save Scheduled Task**.![](https://support.switch-bot.com/hc/article_attachments/43722130280727)
+6. After completing the setup, press and hold the button on top of the device for two seconds to refresh the device and apply the latest scheduled image update settings.![](https://support.switch-bot.com/hc/article_attachments/43722125269015)
+
+---
+### How Do I Configure the Buttons on E-Ink Home Dashboard in the SwitchBot App?
+
+Last Updated: 2026 Sep 24
+
+Firmware Version:** V22 or later
+
+- **Related Products:** SwitchBot E-Ink Home Dashboard
+- **SwitchBot App Version:** V10.1 or later
+
+1. Update the SwitchBot App to the latest version.
+2. Make sure your E-Ink Home Dashboard has been added to the SwitchBot App and its firmware is up to date.
+3. Open the device page and tap **Button Settings**.![](https://support.switch-bot.com/hc/article_attachments/43721586566039)
+4. Select **Button A, B, C, or D**, choose the page you want the selected button to display, and tap **Confirm** to save the setting.![](https://support.switch-bot.com/hc/article_attachments/43721614484759)
+5. After completing the setup, press and hold the button on top of the device for two seconds to refresh the device and apply the latest touch-button settings.![](https://support.switch-bot.com/hc/article_attachments/43721722931479)
+
+---
+### How Do I Set Up Scheduled Image Updates for E-Ink Home Dashboard in the SwitchBot App?
+
+Last Updated: 2026 Sep 24
+
+Firmware Version:** V22 or later
+
+- **Related Products:** SwitchBot E-Ink Home Dashboard
+- **SwitchBot App Version:** V10.1 or later
+
+1. Update the SwitchBot App to the latest version.
+2. Make sure your E-Ink Home Dashboard has been added to the SwitchBot App and its firmware is up to date.
+3. Open the device page and tap **Scheduled Refresh**.![](https://support.switch-bot.com/hc/article_attachments/43721396414615)
+4. Tap **Add**, select the page you want to display, and set the update time.![](https://support.switch-bot.com/hc/article_attachments/43721396414999)
+5. Tap **Save** to complete the setup.![](https://support.switch-bot.com/hc/article_attachments/43721372062999)
+6. After completing the setup, press and hold the button on top of the device for two seconds to refresh the device and apply the latest scheduled image update settings.

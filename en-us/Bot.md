@@ -1709,3 +1709,33 @@ Regarding this issue, could you please check the following points?
 2. Verify the battery level by navigating to the SwitchBot app, then selecting Bot, followed by Firmware & Battery.
 3. After replacing the battery, check if you can operate the bot using your smartphone while within Bluetooth range.
 4. Verify that the Bot has been scanned correctly and that the connection signal is strong by navigating to the SwitchBot app, then selecting Profile > Manage Hubs > the relevant Hub. If the Bot cannot be scanned or the connection signal is unstable, move the Hub and the Bot as close together as possible. Turn off the Hub's power for at least 15 seconds, then turn it back on.
+
+---
+### What Should I Do If My SwitchBot Bot Cannot Be Found or Added?
+
+Last Updated: 2026 Nov 25
+
+Firmware Version:** V6.4 or later
+
+- **Related Products:** SwitchBot Bot
+- **SwitchBot App Version:** V10.4 or later
+
+Basic Troubleshooting
+
+1. Update the SwitchBot App to the latest version.
+2. Make sure the battery insulation tab has been removed from the Bot.
+3. Enable mobile data, Bluetooth, and location permissions on your phone. If you are using Android 12 or earlier, also make sure Location Services are enabled.
+4. If the device has not been used for more than six months, its battery may be depleted. Replace the battery and try again.
+5. Swipe down on the SwitchBot App home screen to refresh it. Once the device icon appears, tap it and try controlling the Bot.
+
+If the Device Cannot Be Found
+
+**Reset the device:** Open the back cover and briefly press the reset button in the corner once. The indicator light will flash when the reset is complete. Do not press and hold the button.
+
+If you accidentally press and hold the button, remove and reinstall the battery. After the indicator light flashes, briefly press the reset button once again.
+
+**Restart Bluetooth:** Turn your phone’s Bluetooth off and back on. Move your phone as close as possible to the Bot, then try again.
+
+**Try repairing the firmware:** Remove the battery. While holding down the internal reset button, reinstall the battery. In the SwitchBot App, go to **Profile → Firmware Repair**. If **Repair Bot Firmware** appears, follow the instructions to repair the firmware.
+
+If the Issue Persists

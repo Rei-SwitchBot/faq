@@ -21,15 +21,12 @@ controls.
 
 Note: Only the power button or volume button may be the infrared button. At this time, only two buttons can be supported.
 
-
-
 ---
 ### Can I Control Multiple Hub Mini/Plus Devices With One SwitchBot Account?
 
 Yes. You could sign up one account and add multiple Hub Mini/Plus devices to it.
 
 The Hub Mini/Plus could be paired with different Wi-Fi and you could control them via other Wi-Fi or 4G network within one SwitchBot account.
-
 
 ---
 ### Can I Use SwitchBot Hub Mini Without Wi-Fi?
@@ -44,7 +41,6 @@ SwitchBot
 
 Hub2 and Hub Mini cannot work properly without being connected to Wi-Fi.
 
-
 ---
 ### Can SwitchBot Hub Mini Operate a Remote Control When Only Connected Bluetooth?
 
@@ -53,8 +49,6 @@ Updated: Mar 17th, 2023
 Applicable Products: SwitchBot Hub Mini
 
 Hub Mini is a Wi-Fi & Bluetooth communication device, the device itself will not function without a Wi-Fi connection. It is not possible to register/operate a remote control via Bluetooth connection.
-
-
 
 ---
 ### Can't find my remote control model in "Search by models" during Hub Mini setup
@@ -113,65 +107,52 @@ Model of the remote:
 
 Online purchase link (If possible):
 
-
-
 ---
 ### Commands for controlling IR appliances with Google Assistant
 
-After linking your SwitchBot account to Google Assistant, with a voice command, you can control the appliances that you had already added to SwitchBot Hub Mini.
+Last Updated: 2026 Nov 25
 
-[How to add IR appliance to SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360038240833)
+After linking your SwitchBot account to Google Assistant, with a voice command, you can control the appliances that you had already added to SwitchBot Hub Plus/Mini/Hub 2/Hub 3/Hub 4.
 
-[How to connect your Hub Mini to Google Assistant?](https://support.switch-bot.com/hc/en-us/articles/360038372973)
+- [How to Learn IR Appliance Remote Control (SwitchBot Hub 2)](https://support.switch-bot.com/hc/en-us/articles/18360363230359)
+- [How to add IR appliance to SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360038240833)
+- [How to Learn IR Appliance Remote Control (SwitchBot Hub 3 / Hub 4)](https://support.switch-bot.com/hc/en-us/articles/31449963581719)
+- [Google Home Setup Guide (V9.0)](https://support.switch-bot.com/hc/en-us/articles/23627068172951)
 
 For air conditioners:
 
-"Ok Google,Turn on/off <AC name>"
-
-"Ok Google,Make <AC name> warmer/cooler"
-
-"Ok Google, Raise/lower the temp"
-
-"Ok Google, Set the temperature to 22℃"
-
-"Ok Google, Turn on the heat/cooling"
-
-"Ok Google, Set the thermostat to cooling/heating"
-
-"Ok Google, Turn the thermostat to heat-cool mode"
+- "Ok Google,Turn on/off <AC name>"
+- "Ok Google,Make <AC name> warmer/cooler"
+- "Ok Google, Raise/lower the temp"
+- "Ok Google, Set the temperature to 22℃"
+- "Ok Google, Turn on the heat/cooling"
+- "Ok Google, Set the thermostat to cooling/heating"
+- "Ok Google, Turn the thermostat to heat-cool mode"
 
 * The air conditioner remote added with the customize mode only support the on/off command.
 
 For television:
 
-"Ok Google, turn on/off <tv name>"
+- "Ok Google, turn on/off <tv name>"
 
 For fans:
 
-"Ok Google, Turn on/off xx "
-
-"Ok Google,set xx to Speed1/low/high/medium"
-
-"Ok Google, Turn on the swing for xx"
-
-"Ok Google, set xx to Strong wind/Light wind"
+- "Ok Google, Turn on/off xx "
+- "Ok Google,set xx to Speed1/low/high/medium"
+- "Ok Google, Turn on the swing for xx"
+- "Ok Google, set xx to Strong wind/Light wind"
 
 For lights:
 
-"Ok Google,Turn on <light name>"
-
-"Ok Google,Dim the <light name>"
-
-"Ok Google,Brighten the <light name>"
-
-"Ok Google,Turn on/off lights in <room name>"
-
-"Ok Google, Turn on/off all of the lights"
+- "Ok Google,Turn on <light name>"
+- "Ok Google,Dim the <light name>"
+- "Ok Google,Brighten the <light name>"
+- "Ok Google,Turn on/off lights in <room name>"
+- "Ok Google, Turn on/off all of the lights"
 
 For appliances added in "Others":
 
 The Others appliances could use the Scene feature or IFTTT app to achieve voice control.
-
 
 ---
 ### Does SwitchBot Bot connect to multiple Hubs?
@@ -179,7 +160,6 @@ The Others appliances could use the Scene feature or IFTTT app to achieve voice 
 No. SwitchBot Bot automatically selects the nearest SwitchBot Hub Mini the first time you enable the Third-party Service for it in Bot Settings. It always uses the paired Hub Mini then.
 
 If you have multiple Hubs, and your SwitchBot Bot is always not reachable via the Internet or via a third party ( Such as Alexa, Google Home, Siri), try to disable the Third-party Service for the SwitchBot Bot and enable it again.
-
 
 ---
 ### Fix your Hub Mini WiFi network connection
@@ -276,16 +256,12 @@ SwitchBot app version:
 
 Any other screenshot about the error message:
 
-
-
 ---
 ### How Many Appliances Can Be Controlled by a SwitchBot Hub Mini?
 
 There is no limitation about how many appliances can be learned or controlled by a SwitchBot Hub Mini. SwitchBot Hub Mini only sends an IR signal when needed.
 
 All learned appliances are remembered by the App.
-
-
 
 ---
 ### How Much Network Traffic Is Consumed When Using SwitchBot Hub Mini?
@@ -301,8 +277,6 @@ When the Hub Mini has been used as a tool to enable the Third-party Service for 
 159 kB x the number of Bluetooth devices x 24 hours
 
 For example, if you have two Meters, the daily traffic is: 159kB x 2 x 24 hours.
-
-
 
 ---
 ### How do I know if my appliance remote is IR supported, and can be added to Hub Mini?
@@ -359,8 +333,6 @@ Model of the remote:
 
 Online purchase link of appliance(If possible):
 
-
-
 ---
 ### How to Add Air Conditioner by "Customize" Mode？
 
@@ -401,8 +373,6 @@ To add more functions, please let us know the brand and model number of your air
 [support@switch-bot.com](mailto:support@switch-bot.com)
 
 .
-
-
 
 ---
 ### How to Add Infrared Appliances to SwitchBot Hub Mini?
@@ -523,8 +493,6 @@ Please note: buttons set using this mode cannot be controlled directly by Alexa 
 
 Alternatively, you could create a Manual Scene via our app to control via Alexa, Google Assistant, or IFTTT. For details regarding this, please check here (Alexa) or here (Google Assistant).
 
-
-
 ---
 ### How to Add or Relearn the Buttons of Your Remote Controllers
 
@@ -562,7 +530,6 @@ The remotes of the air conditioner are not able to be edited now.
 
 The remotes added with the customize mode can also be edited.
 
-
 ---
 ### How to Recover the Firmware of Your SwitchBot Hub Mini?
 
@@ -584,7 +551,6 @@ SwitchBot App Version: 7.8 or newer
 
 5． Select "Firmware Recovery" to recover the firmware on the Swichbot Hub Mini.
 
-
 ---
 ### How to Reset SwitchBot Hub Mini?
 
@@ -595,7 +561,6 @@ Related Products:
 SwitchBot Hub Mini
 
 Press and hold the button on the Hub Mini for 15 seconds to initialize. The reset will return Wi-Fi information and indicator light settings to defaults, but the registered infrared remote control and Scenes/Automation will not be deleted by initialization.
-
 
 ---
 ### How to Set up SwitchBot Hub Mini and Notes on Router Settings
@@ -684,8 +649,6 @@ How to set up personal hotspot in phone settings?
 
 3. Enable Internet Sharing, then set up Hub Mini and configure Wi-Fi connection settings.
 
-
-
 ---
 ### How to add “Others” appliance in IFTTT
 
@@ -733,8 +696,6 @@ New actions had been added to Control TV now: “mute”, “volume up”, “vo
 
 ![Image](https://static.wixstatic.com/media/826c4e_41671ad6c6fc43b2bcd18c27488b33a8~mv2_d_1873_1810_s_2.jpg/v1/fill/w_925,h_894,al_c,q_90,usm_0.66_1.00_0.01/826c4e_41671ad6c6fc43b2bcd18c27488b33a8~mv2_d_1873_1810_s_2.jpg)
 
-
-
 ---
 ### How to control your IR appliances with Siri Shortcuts?
 
@@ -768,8 +729,6 @@ After setting the status, record your personalized phrase.
 
 Viola! Now you can use Siri to control your IR appliances.
 
-
-
 ---
 ### Hub Mini Troubleshooting List
 
@@ -782,8 +741,6 @@ Encounter issues after setting up?
 Check this article.
 
 [https://support.switch-bot.com/hc/en-us/articles/1500007422562](https://support.switch-bot.com/hc/en-us/articles/1500007422562)
-
-
 
 ---
 ### Hub Mini can control remotes appliance , but failed connecting to internet
@@ -864,7 +821,6 @@ Any other screenshot about the error message:
 
 After receiving the feedback ticket, We will help you decide if it is a hardware issue. If it is, we will send you a replacement.
 
-
 ---
 ### Hub Mini can't learn or re-add remote control buttons which added successfully before
 
@@ -931,8 +887,6 @@ Model of appliance:
 Model of the remote:
 
 Online purchase link of appliance(If possible):
-
-
 
 ---
 ### Hub Mini can’t connect to internet under ASUS router.
@@ -1037,8 +991,6 @@ SwitchBot app version:
 
 SwitchBot Hub Mini purchased from:
 
-
-
 ---
 ### Hub Mini connected to Wi-Fi but failed to connect to internet during setup
 
@@ -1109,8 +1061,6 @@ Mobile device system:
 SwitchBot app version:
 
 Any other screenshot about the error message:
-
-
 
 ---
 ### Hub Mini disconnected to Wi-Fi, previously worked fine
@@ -1199,8 +1149,6 @@ SwitchBot app version:
 
 Any other screenshot about the error message:
 
-
-
 ---
 ### Hub Mini disconnected to internet after firmware update
 
@@ -1284,8 +1232,6 @@ SwitchBot app version:
 
 Any other screenshot about the error message:
 
-
-
 ---
 ### Hub Mini failed to learn remote control  buttons in all learning mode
 
@@ -1320,8 +1266,6 @@ Brand:
 Model of the Device:
 
 Model of the remote:
-
-
 
 ---
 ### Hub Mini failed to remote control appliances in app, even after adding it successfully
@@ -1390,8 +1334,6 @@ After receiving the feedback ticket, We will help you decide if it is a hardware
 
 You can also contact our customer support team by phone, live chat, etc.
 
-
-
 ---
 ### Hub Mini won't show up as a device in Alexa and Google Home
 
@@ -1402,8 +1344,6 @@ Related Products: SwitchBot Hub Mini
 Yes,
 
 by design SwitchBot Hub Mini does not appear as a device in the Amazon Alexa or Google Home App. The Hub Mini itself cannot be operated from Apps such as Alexa or Google Assistant, but infrared remote controls registered to the Hub Mini using automatic learning/manual learning/button learning can be operated by voice from Alexa or Google Assistant.
-
-
 
 ---
 ### Hub Mini failed to find router, keep connecting network during setup
@@ -1478,8 +1418,6 @@ SwitchBot app version:
 
 Any other screenshot about the error message:
 
-
-
 ---
 ### Hub Mini & HomePod / Siri Guide
 
@@ -1519,8 +1457,6 @@ Tap the gear icon to turn on the personal requests option.
 
 Now, you are free to use your HomePod or iOS devices to control the appliances that have been added to the Hub Mini. Have fun!
 
-
-
 ---
 ### Is it possible to use hubs from other manufacturers?
 
@@ -1552,16 +1488,12 @@ Our products with hub function: Hub Mini / Ceiling Light / Ceiling Light Pro
 
 [Learn More about SwitchBot Hub](https://support.switch-bot.com/hc/en-us/articles/7257579858455)
 
-
-
 ---
 ### Is there a maximum limit of devices that one Hub Mini can support?
 
 120 devices.
 
 Up to 120 SwitchBot devices can be scanned and supported by one Hub Mini.
-
-
 
 ---
 ### Learn More About SwitchBot Hub
@@ -1618,9 +1550,6 @@ Available SwitchBot Hub Models
 
 [Hub Mini](https://www.switch-bot.com/pages/switchbot-hub-mini)
 
-
-
-
 ---
 ### Learn More About the Indicator of SwitchBot Hub Mini
 
@@ -1647,7 +1576,6 @@ SwitchBot App Version: V6.22 or newer
 Please note:
 
 When the Hub Mini is first powered on, the indicator light will flash. If you press and hold the button on the  Hub Mini, it will go into a fast flashing state and enter pairing mode. When first connected to the internet, the indicator light will always be on.
-
 
 ---
 ### SwitchBot Hub Mini Google Home Setup Guide
@@ -1721,7 +1649,6 @@ App login ID and password.
 The link will be automatically established.
 
 Note: For BLE (Bluetooth Low Energy) communication devices such as SwitchBot Curtain or SwitchBot Lock, please first enable (connect to) the Third-party Service in the "Third-party Service" section of the settings menu.
-
 
 ---
 ### The Difference Between Hub Mini and Hub 2 and Hub Mini Matter Enabled
@@ -1818,8 +1745,6 @@ Infrared remote offline control
 
 ×
 
-
-
 ---
 ### The Function of “Copy Remote Control”
 
@@ -1860,8 +1785,6 @@ Illustration of steps 3 through 7:
 9. If you are unable to copy or the copied remote does not respond properly, we would appreciate it if you could provide us with the following information when you contact us.
 
 Appliance manufacturer and model number
-
-
 
 ---
 ### Troubleshoot adding IR appliance to SwitchBot Hub Mini in "Smart Learning" mode
@@ -1928,7 +1851,6 @@ Model of the remote:
 
 Online purchase link of appliance(If possible):
 
-
 ---
 ### Troubleshooting For Hub Mini After Setting Up
 
@@ -1984,8 +1906,6 @@ What does the indicator light tell
 
 [What's the difference among ON, OFF and AUTO of the SwitchBot Hub Mini's light.](https://support.switch-bot.com/hc/en-us/articles/360038348474)
 
-
-
 ---
 ### Unable to find the Wi-Fi router
 
@@ -1996,8 +1916,6 @@ please note:
 2. 5G Wi-Fi is not supported yet. Wi-Fi WEP encryption is not supported either.
 
 3. Please check your router firewall settings.
-
-
 
 ---
 ### Update the Firmware on Your SwitchBot Hub Mini
@@ -2035,7 +1953,6 @@ Mobile device system:
 SwitchBot app version:
 
 Any other screenshot about the error message:
-
 
 ---
 ### What Should I Do if Hub Mini Does Not Start Up After Power-On?
@@ -2076,8 +1993,6 @@ sensors)
 
 Please kindly provide us with a video of the device failing to start after powering on.
 
-
-
 ---
 ### What is the difference between Infrared (IR), Bluetooth (BT), Radio Frequency (RF) remote controls of my appliances?
 
@@ -2109,7 +2024,6 @@ XGIMI, and many other electronics and digital devices controllers that use Bluet
 
 Since our Hub Mini control SwitchBot devices via Infrared (IR), it is not possible to use them for most of RF or Bluetooth controlled TV's or appliances.
 
-
 ---
 ### Troubleshooting When Using SwitchBot Hub Mini to Control Home Appliances, Other Appliances will Also Respond.
 
@@ -2118,7 +2032,6 @@ Regarding this issue, could you please check the following points?
 1. Please note that Hub Mini itself does not have a function to distinguish infrared rays. Use the remote control attached to home appliance A to operate home appliance B. If the remote controls supplied with the appliances are used together, check that they can be controlled separately by adjusting the position of the hub mini. If the position adjustment does not improve the situation, misoperation is now inevitable. Thanks for your understanding!
 2. If home appliances can be set to different channels, it is possible to control them separately with the hub mini by setting each appliance to a different channel. The method for setting up channels may vary depending on the manufacturer, we recommend contacting them directly for assistance.
 3. Please ask the original manufacturer of the appliance if there has been an infrared interference countermeasure.
-
 
 ---
 ### Where Should I Place SwitchBot Hub Mini in My Home?
@@ -2132,8 +2045,6 @@ If possible, try to set up your Hub Mini within a clear line of sight of your Wi
 Note:
 
 Building materials and metal objects located between your WiFi router and Hub Mini or between your Hub Mini and mobile devices may slow the connection.
-
-
 
 ---
 ### How to Transfer Learned Infrared Remotes From One Hub Mini to Another
@@ -2157,7 +2068,6 @@ Use the "Duplicate remotes" function.
 SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
 This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
 
-
 ---
 ### Troubleshooting Air Conditioner Status Doesn’t Sync to Apple Home App After Controlling It via SwitchBot App
 
@@ -2166,7 +2076,6 @@ We sincerely apologize for this inconvenience.
 Currently, any air conditioner status changes made through the SwitchBot App (whether via direct IR remote control or scene/automation) cannot be synchronized with Apple Home App.
 We fully understand how frustrating this limitation is for your smart home experience. Please rest assured we've documented your feedback and escalated it to our R&D team for future improvements. However, due to technical complexities, we regrettably cannot provide a specific timeline for resolution at this time.
 We deeply appreciate your understanding and patience as we work to enhance our services. If you have any further questions, please don't hesitate to contact us. Our team remains fully committed to improving your smart home experience.
-
 
 ---
 ### Troubleshooting Failed to Update SwitchBot Hub Mini Firmware
@@ -2211,8 +2120,6 @@ Regarding this issue, could you please check the following points?
 8. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
 *If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
 
-
-
 ---
 ### Troubleshooting SwitchBot Hub Mini Stops Working and Shows Offline on the App
 
@@ -2223,8 +2130,6 @@ Regarding this issue, could you please check the following points?
 3. As troubleshooting, check if the Hub Mini can connect to your smartphone's hotspot.
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983)
 4. If your Hub Mini can connect to your phone's personal hotspot, please go to Hub Mini → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
-
-
 
 ---
 ### Troubleshooting It Continues to Stop at 10% During Updating the Firmware of SwitchBot Hub Mini.
@@ -2245,7 +2150,6 @@ Regarding this issue, could you please check the following points?
 - Press and hold the button on the Hub Mini for 15 seconds to reset.
 - Re-add the device to the app.
 
-
 ---
 ### Troubleshooting Failed to Add SwitchBot Hub Mini to the App
 
@@ -2260,7 +2164,6 @@ Regarding this issue, could you please check the following points?
 7. As a troubleshooting step, check if the Hub Mini can connect to your smartphone's hotspot.  
 [https://support.switch-bot.com/hc/en-us/articles/32573508408983](https://support.switch-bot.com/hc/en-us/articles/32573508408983-How-to-Add-SwitchBot-Devices-to-SwitchBot-App-Using-Smartphone-s-Personal-Hotspot)
 
-
 ---
 ### Troubleshooting the Charging Cable included with SwitchBot Hub Mini is Damaged.
 
@@ -2269,7 +2172,6 @@ Regarding this issue, could you please check the following points?
 Could you please provide a photo showing the damaged charging cable that was included?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 ---
 ### Troubleshooting My SwitchBot Hub mini can't learn IR remotes
@@ -2287,7 +2189,6 @@ Regarding this issue, could you please check the following points?
 8. Since the Hub Mini operates the appliance instead of the remote control attached to the appliance, place the Hub Mini within the infrared reception range of the appliance.
 9. Please adjust the installation position of the Hub Mini until the appliance actually responds.
 
-
 ---
 ### Troubleshooting SwitchBot Hub Mini Is Not Powering On
 
@@ -2295,7 +2196,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding this issue, could you please check the following points?
 1. If you have another 5V1A/5V2A charging adapter and cable available, please use them to see if the device turns on.
 2. When using the device regularly, do not use charging adapters that exceed 2A to avoid overheating.
-
 
 ---
 ### Troubleshooting the Air Conditioner Turned off Automatically
@@ -2306,7 +2206,6 @@ Regarding this issue, could you please check the following points?
 2. Check if any schedules have been configured in the SwitchBot App by navigating to SwitchBot App → Hub Mini → Schedule.
 3. Verify if any routines have been created in the Amazon Alexa app for the air conditioner.
 4. Delete the air conditioner remote from the SwitchBot App, relearn it, and check if this resolves the issue.
-
 
 ---
 ### Troubleshooting When I Turn on the AC with SwitchBot App, the AC Units Displays Celsius Instead of Fahrenheit, and I Have a Hub Mini.
@@ -2319,7 +2218,6 @@ We sincerely apologize that our current Hub devices do not support sending infra
 We understand this isn't the ideal experience you expected, and we're truly sorry for the frustration it may have caused. If you have any other questions or need further assistance, please don't hesitate to let us know. We're here to help.
 Thank you for your understanding and support!
 
-
 ---
 ### Troubleshooting Requires the Mac Address to Add SwitchBot Hub Mini, Which Cannot Be Found.
 
@@ -2328,7 +2226,6 @@ Regarding this issue, could you please check the following points?
 The MAC address of the Hub Mini is not listed on the device itself or its packaging.  
 If your home router has a whitelist set up, connect the Hub Mini to your smartphone's tethering first and add it to the SwitchBot app. Then, follow these steps in the app to find the Wi-Fi MAC address: Hub Mini → gear icon → Device Info.
 If you have any other questions, please do not hesitate to contact us.
-
 
 ---
 ### Troubleshooting Only the Power and Mute Buttons on the TV Remote Can Be Learned with SwitchBot Hub Mini, Other Buttons Cannot.
@@ -2342,7 +2239,6 @@ If the remote control of household appliances has "NETFLIX", "Prime Video", Goog
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
-
 ---
 ### Troubleshooting Unable to Control the Air Conditioner Using Alexa Voice Commands
 
@@ -2354,14 +2250,12 @@ Regarding this issue, could you please check the following points?
 [https://support.switch-bot.com/hc/en-us/articles/360039685774](https://support.switch-bot.com/hc/en-us/articles/360039685774-Commands-for-controlling-IR-appliances-with-Alexa)
 4. Please check if changing the name of the air conditioner remote control resolves the issue.
 
-
 ---
 ### Troubleshooting When Adding SwitchBot Hub Mini to the App, the Wi-Fi Mac Address Displays as 00:00:00:00:00:00, Making It Unable To Connect to the Network.
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, could you please check the following points?
 1. Please unplug the Hub Mini, then plug it back in.
-
 
 ---
 ### How to Add Air Conditioner Remotes by "Learn Buttons" Mode Using SwitchBot Hub Mini
@@ -2379,7 +2273,6 @@ Important Note:
 - You can program multiple air conditioner remotes based on your preferences (e.g., for winter: heating + 29°C + automatic fan speed).
 - Remote controls added using the "Learn Buttons" method are compatible with Third-party services such as Alexa, Google Home, and IFTTT.
 
-
 ---
 ### How to Add Air Conditioner Remotes by "Others" Mode Using SwitchBot Hub Mini
 
@@ -2395,7 +2288,6 @@ Important Note:
 - Remote controls added through the "Others" mode are not compatible with third-party services like Alexa or Google Home. For voice control, we recommand using SwitchBot Scenes instead.
 [https://support.switch-bot.com/hc/en-us/articles/19444800636183](https://support.switch-bot.com/hc/en-us/articles/19444800636183-How-to-Create-Scene)
 - For "Others" modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
-
 
 ---
 ### How to Transfer Learned Infrared Remotes From One Hub Mini to Another
@@ -2415,12 +2307,10 @@ By using this setting, the chosen infrared remote control will connect to the se
 Note:
 If another hub is grayed out and cannot be selected, it is highly likely that the infrared signal is outdated, and unfortunately, neither customer service nor R&D team will be able to assist. Please try deleting the applicable infrared remote control and registering it again.
 
-
 Method 2
 Use the "Duplicate remotes" function.
 SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
 This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
-
 
 ---
 ### Troubleshooting The Added Air Conditioner Remote Has a Cooling Button but No Heating Button.
@@ -2430,7 +2320,6 @@ Regarding this issue, could you please check the following points?
 1. AC remotes registered via "Smart Matching" or "Select Manually" can switch to heating or auto mode by tapping the cooling button of the respective remote in the SwitchBot app. Please check if you can change the mode from cool to heat by tapping the "cool" button on the added AC remotes.
 
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/b93efb0d-1678-4eb3-a10f-8177caaed9b5" />
-
 
 ---
 ### Troubleshooting the Added IR Remote Control Has Stopped Working.
@@ -2445,7 +2334,6 @@ Regarding this issue, could you please check the following points?
 6. Please try adding the relevant IR infrared remote again.  
 7. As a troubleshooting step in case there is a problem with the Hub Mini, if you have other Hub products, please copy the infrared remote to another Hub and check if it can be controlled.
 [https://support.switch-bot.com/hc/en-us/articles/30725182122647](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
-
 
 ---
 ### Troubleshooting: The Swing Button on the Air Conditioner Remote Added via "Select Manually" Is Grayed Out and Cannot Be Operated.
@@ -2600,3 +2488,188 @@ The charging port on the latest batch of Hub Mini has been updated to Type-C. De
 SwitchBot's infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
 Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub by learning your remote via **"Learn Buttons"** or **"Others"** in the app. We encourage you to give these methods a try.
 If you have any further questions, feel free to contact us anytime. We're happy to help!
+
+---
+### When Operating Multiple Home Appliances of the Same Manufacturer, the Infrared Ray Is Confused and Leads to Wrong Operation
+
+Last Updated: 2026 Nov 25
+
+Firmware Version: SwitchBot Hub Mini 5.4-6.6 or newer
+
+- **Related Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4**
+- **SwitchBot App Version: 9.15 or newer**
+
+1. Make sure your SwitchBot app is the latest version.
+
+2. Please note that Hub/Ceiling Light Pro itself does not have a function to distinguish infrared rays.
+
+3. If home appliances can be set to different channels, it is possible to control them separately with the Hub by setting each appliance to a different channel. Please try it out.
+
+4. Use the remote control attached to home appliance A to operate home appliance B.
+
+5. If the remote controls supplied with the appliances are used together, check that they can be controlled separately by adjusting the position of the Hub. If the position adjustment does not improve the situation, misoperation is now inevitable. Please ask the original manufacturer of the appliance if there has been an infrared interference countermeasure.
+
+6. If the remote control attached to the appliance is not used together, please learn and save each appliance remote control in customization mode and then log in to the SwitchBot app → Profile → Feedback.
+
+***Related Posts: How to add IR appliance to SwitchBot Hub Mini**
+
+We would appreciate it if you could provide the following information when contacting us.
+
+- The manufacturer of the home appliance and the model number of the attached remote control.
+- Name of remote control saved in customize mode
+
+---
+### Can the Settings of Hub 2 and Hub Mini Be Transferred to the Newly Purchased Hub 3 or Hub 4？
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+**1. Yes**, the infrared remotes learned on Hub 2, Hub Mini, etc. can be transferred to Hub 3 / Hub 4.
+
+Related Post: [How to Transfer Learned Infrared Remotes From One Hub Mini to Another](https://support.switch-bot.com/hc/en-us/articles/30725182122647)
+
+2. For communication with Bluetooth devices, starting with SwitchBot App version 9.0, there is no longer a need to manually enable the Cloud Service (the Cloud Service option has been removed). Simply place the Hub 3 / Hub 4 close to the device (within Bluetooth range), and it will automatically connect.
+
+3. Please consider using your old hub in different rooms or on different floors. If you no longer need it, please dispose of it directly.
+
+---
+### What to Do If I Can't Add Home Appliance Remote Controls Using SwitchBot Hub Mini?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub Mini Matter Enabled, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4
+
+1. Make sure that the home appliance you are using is infrared remote control. If the remote control is a mixture of infrared and Bluetooth, only the infrared button can be used.
+
+2. Please use the latest version of the SwitchBot app from the app store. Issues may occur when using the Beta version. Thank you for your understanding.
+
+3. There are four ways to learn infrared remotes. If the remote control cannot be registered by "Smart learning" and "Select manually", we recommend that you add it in "learn buttons" or "others" mode.
+
+4. Please check for any available firmware updates by going to SwitchBot app → Hub → Gear icon → Firmware & Battery. If needed, update the firmware to the latest version located near the device.
+
+5. Make sure that the Hub Mini is powered by a 5V1A/5V2A adapter, and that Hub 4 is powered by the included 5V/2A adapter via the Type-C port.
+
+6. Make sure that you are connected to a stable 2.4GHz network. If the network is disconnected, the lamp on the hub will blink.
+
+7. Make sure that there are no walls or other obstacles between the Hub and the appliance, as infrared signals do not pass through walls.
+
+8. Since the Hub operates the appliance instead of the remote control attached to the appliance, place the Hub within the infrared reception range of the appliance.
+
+9. Please adjust the installation position of the Hub until the appliance actually responds.
+
+- Home Appliance Manufacturer and Model
+- Infrared Remote Control Model
+- Photo of Infrared Remote Control
+- Purchase link for the home appliance (if available)
+
+---
+### How to Transfer Learned Infrared Remotes From One Hub to Another
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.8 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure your Hub products have been added to your App and your device firmware version is up to date.
+
+3.
+
+**Method 1**
+
+Please transfer the infrared remotes to another hub in the following order.
+
+- Launch the SwitchBot App and log in.
+- Tap the target IR remote.
+- Tap the gear icon in the upper right corner.
+- Tap "Hub" on the settings screen.
+- Select and save another hub product in your account.
+- By using this setting, the chosen infrared remote control will connect to the selected hub.
+
+**Note:**
+
+If another hub is grayed out and cannot be selected, please delete the corresponding infrared remote and try learning it again.
+
+**Method 2**
+
+Use the "Duplicate remotes" function.
+
+SwitchBot App -> Tap the migration destination hub -> Tap the add the remote icon "+" -> Tap "Duplicate from another hub" -> Select the target IR remotes to copy.
+
+This method creates a duplicate of the original infrared remote control. The old remote control must be manually deleted if not needed.
+
+**Note:**
+
+The infrared remote for hub products within the same home can be migrated and copied. If the hub belongs to a different home, please first move the hub to the same home before migrating the infrared remote control.
+
+---
+### Commands for controlling IR appliances with Alexa
+
+Last Updated: 2026 Nov 25
+
+After connecting your SwitchBot account to Alexa, you could control the IR appliances that you had already added to SwitchBot Hub Plus/Mini/Hub 2/Hub 3/Hub 4, with a voice command.
+
+Before using voice control:
+
+- [How to add my IR appliances to Hub Plus?](https://support.switch-bot.com/hc/en-us/articles/360037748514)
+- [How to add IR appliance to SwitchBot Hub Mini](https://support.switch-bot.com/hc/en-us/articles/360038240833)
+- [SwitchBot Hub Mini/Hub Plus Alexa Setup Guide](https://support.switch-bot.com/hc/en-us/articles/360038239753)
+- [How to learn IR appliance remote control (SwitchBot Hub 2)](https://support.switch-bot.com/hc/en-us/articles/18360363230359)
+- [How to Learn IR Appliance Remote Control (SwitchBot Hub 3 / Hub 4)](https://support.switch-bot.com/hc/en-us/articles/31449963581719)
+
+For air conditioners:
+
+- "Alexa, turn on/off <device name>"
+- "Alexa, set <device name> to 20 degrees"
+- "Alexa, set <device name> to <mode name> mode."
+
+The air conditioner remote added with the "Customize Mode" only supports the on/off command.
+
+For television:
+
+- "Alexa, turn on/off <tv name>"
+- "Alexa, change channel to 20 on <tv name>"
+- "Alexa, next channel on <tv name>"
+- "Alexa, lower the volume on <tv name>"
+- "Alexa, mute <tv name>"
+
+For fans:
+
+- "Alexa, turn on <fan name>"
+- "Alexa, set the <fan name> speed to 7"
+- "Alexa, turn up the <fan name> speed"
+- "Alexa, set speed to low/high on <fan name>"
+- "Alexa, decrease the fan speed on the <fan name> by 3"
+- "Alexa, turn on oscillate on <fan name>"
+- "Alexa, set <fan name> to natural mode"
+- "Alexa, set <fan name> to standard mode"
+
+For home appliances learned by "Others":
+
+IR remotes learned by "Others" will not be displayed on third-party service such as Alexa app or google home and could not be controlled by voice command directly. Simply use SwitchBot scene feature on SwitchBot App.
+
+Related Post: [How to Create Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183)
+
+**For SwitchBot Scenes:**
+
+Turn on "scene name"
+
+---
+### How Much Network Traffic Is Consumed When Using SwitchBot Hub Mini/Hub 2/Hub 3/Hub 4?
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4**
+
+SwitchBot Hub Mini/Hub 2/Hub 3 / Hub 4 uses 159 kB of data traffic per hour.
+
+When the Hub Mini has been used as a tool to enable the cloud service for the SwitchBot Bluetooth devices, the daily traffic can be calculated as follows.
+
+159 kB x the number of Bluetooth devices x 24 hours
+
+For example, if you have two Meters, the daily traffic is: 159kB x 2 x 24 hours.
+
+**Note for Hub 4:** This estimate applies when the voice assistant is not in use. Voice conversations use additional data, which varies with how long and how often you talk to Hub 4.

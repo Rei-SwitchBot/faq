@@ -861,3 +861,23 @@ Last Updated: 2026 Aug 15
 ### Lock Ultra Max JP安装视频
 
 Last Updated: 2026 Aug 28
+
+---
+### Lock Ultra Max JP 如何安装增高件
+
+Last Updated: 2026 Sep 17
+
+---
+### Lock Ultra Max JP Install (Video-Only Japan)
+
+Last Updated: 2026 Nov 26
+
+- **Related Products: Lock Ultra Max JP**
+
+箱錠/プッシュプル錠
+
+丸形台座
+
+NDR型錠①
+
+NDR型錠②

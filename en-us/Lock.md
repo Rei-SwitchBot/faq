@@ -3171,3 +3171,96 @@ It takes about 10 hours for the rechargeable battery of Lock Ultra to be fully c
 **Note:**
 
 During charging, the backup battery will be automatically activated, and the auto-lock function is temporarily disabled.
+
+---
+### SwitchBot Lock Pro 2 Installation Video
+
+Last Updated: 2026 Nov 24
+
+​
+
+---
+### What to Do If SwitchBot App Keeps Telling Me That My Fingerprint Failed to Be Added?
+
+Last Updated: 2026 Nov 24
+
+Related Product: SwitchBot Keypad Touch
+
+Firmware Version: 2.0 or newer
+
+- **SwitchBot App Version：9.6 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Keypad Touch has been added to your App and your device firmware version is up to date.
+
+3. Make sure both your finger and the fingerprint sensor are clean and dry. If necessary, gently wipe the sensor area with a soft cloth.
+
+4. Try registering a different finger.
+
+5. When registering a fingerprint, experiment with both light and firm pressure to complete the process.
+
+6. Remove and reinsert the batteries in the Keypad Touch, then try registering the fingerprint again.
+
+7. After unlocking the Lock with a passcode, press your finger against the fingerprint sensor and check if there is a sound and indicator light from the Keypad Touch.
+
+8. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, such as one from your pinky finger.
+
+- A video showing the sound and indicator light behavior during the fingerprint registration process
+
+---
+### What to Do If the Added Fingerprints Cannot Unlock SwitchBot Lock?
+
+Last Updated: 2026 Nov 26
+
+Related Product: SwitchBot Keypad Touch
+
+Firmware Version: 2.0 or newer
+
+- **SwitchBot App Version：9.6 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Keypad Touch has been added to your App and your device firmware version is up to date.
+
+3. Make sure both your finger and the fingerprint sensor are clean and dry. If necessary, gently wipe the sensor area with a soft cloth.
+
+4. Try registering a different finger then unlock your Lock.
+
+5. When unlocking with fingerprint, try using both light and firm pressure to complete the process.
+
+6. If a specific finger cannot unlock, please try registering your fingerprint again. Try enhancing fingerprint feature by re-adding the fingerprint that fails to unlock your Lock. Follow the guide below to set it up.
+
+![](https://support.switch-bot.com/hc/article_attachments/25991474727959)
+
+7. Remove and reinsert the batteries in the Keypad Touch, then try to unlock your Lock again.
+
+8. After unlocking the Lock with a passcode, press your finger against the fingerprint sensor and check if there is a sound and indicator light from the Keypad Touch.
+
+9. Fingerprints may experience some wear and tear from daily activities. Try registering a clearer fingerprint, like one from your pinky finger, to unlock your Lock.
+
+- A video showing the sound and indicator light behavior when unlocking
+
+---
+### What to Do If Some Parts Are Missing from My New SwitchBot Keypad Touch?
+
+Last Updated: 2026 Nov 24
+
+**Last Updated: 2024 Dec 09**
+
+- **Related Product: SwitchBot Keypad Touch**
+
+If you happen to notice that some parts seem to be missing from your SwitchBot Keypad Touch package, please double-check the packaging.
+
+Inside the main box, there’s a small inner box placed underneath the Keypad Touch itself. This box contains important accessories, including:
+
+- Mounting Plate
+- Alignment Sticker
+- Double-Sided Tape
+- CR123A Batteries ×2
+- Removal Pin
+- Rubber Ring ×2
+- Triangle Opener
+- Screw Kit
+
+![](https://support.switch-bot.com/hc/article_attachments/28376532343703)

@@ -348,48 +348,15 @@ Related Products: SwitchBot Keypad, SwitchBot Keypad Touch
 
 SwitchBot Keypad can set a password of at least 6 digits and at most 12 digits.
 
-
-
 ---
 ### How Many Fingerprints Can SwitchBot Keypad Touch Be Configured With?
 
-Last Updated
+Last Updated: 2026 Nov 24
 
-: Nov 25th, 2022
+- **Last Updated****: Nov 25th, 2022**
+- **Related****Products****: SwitchBot Keypad Touch**
 
-Related
-
-Products
-
-: SwitchBot Keypad Touch
-
-SwitchBot Keypad Touch is currently able to configure up to 100 fingerprints.
-
-There are three types of fingerprint settings to choose from. Permanent fingerprints, emergency fingerprints, and temporary fingerprints.
-
-Permanent fingerprints
-
-, when set, have no time limit and will be available to use permanently.
-
-Temporary fingerprints
-
-can be set to expire after any time between 1 hour and five years.
-
-Emergency fingerprints
-
-can help send an emergency alert to someone via email when the SwitchBot Lick door lock is unlocked using your emergency fingerprint
-
-(SwitchBot Hub Mini required).
-
-Please note: you can set up to 90 fingerprints at any one time a period of time with an additional 10 emergency fingerprints. In the event that the number of fingerprints set exceeds your maximum limit, current fingerprints must be deleted and a new fingerprint can then be set.
-
-When it comes to children, their skin is very soft and the size of their fingerprint changes as they grow. As a result, there is currently no guarantee that the registered fingerprint will be authenticated.
-
-*Related Posts:
-
-[Different types of passcode for the Keypad and what do they do](https://support.switch-bot.com/hc/en-us/articles/6590978053655)
-
-
+*Related Posts: [Different types of passcode for the Keypad and what do they do](https://support.switch-bot.com/hc/en-us/articles/6590978053655)
 
 ---
 ### How to Install SwitchBot Keypad?
@@ -1956,3 +1923,9 @@ Regarding this issue, could you please provide us with a photo showing the issue
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### Keypad FAQs
+
+Last Updated: 2026 Nov 25
+
+[Browse all Keypad FAQs](https://support.switch-bot.com/hc/en-us/sections/45266489568407)

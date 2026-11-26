@@ -424,29 +424,38 @@ Related Products: SwitchBot Floor Cleaning Robot S10
 
 7. If pairing fails, restart the S10 and try again following the steps above.
 
-
-
 ---
 ### How to Re-pair the Floor Cleaning Robot S10 with the Water Station
 
-1. Make sure that the S10 is powered on by removing the main unit's faceplate and switching the power to I.  If the S10 does not turn on, dock it at the auto-empty station and charge for 30 minutes.
-2. Manually dock the S10 to the water station and make sure the charging terminals are fully contacted.
-3. Press and hold the Bluetooth button on the side of the water station for 6 seconds. If the water station indicator is not flashing, recharge it using a 5V3A adapter for 0.5 hours.
+Last Updated: 2026 Oct 29
 
-![image](https://github.com/user-attachments/assets/34bcec54-3be0-4910-a34a-204ed65df1fd)
+**Last Updated：****2024 Aug 29**
+
+- **Related Products: SwitchBot Floor Cleaning Robot S10**
+
+1. Make sure that the S10 is powered on by removing the main unit's faceplate and switching the power to I. If the S10 does not turn on, dock it at the auto-empty station and charge for 30 minutes.
+
+2. **Manually dock the S10 to the water station and make sure the charging terminals are fully contacted.**
+
+3. Press and hold the Bluetooth button on the side of the water station for 6 seconds. If the water station indicator is not flashing, recharge it using a 5V2A adapter for 0.5 hours.
+
+![](https://support.switch-bot.com/hc/article_attachments/25122838663447)
 
 4. Press the home button on the main unit of the S10 for 6 seconds, and you will hear a voice from the S10 saying, "Entering Bluetooth pairing mode".
 
-![image](https://github.com/user-attachments/assets/2b4fa071-03b3-4ec9-b001-e6961eebddf9)
+![](https://support.switch-bot.com/hc/article_attachments/25122885546647)
 
 5. Wait 10 to 20 seconds, then the S10 will announce the success of Bluetooth pairing.
+
 6. If pairing fails, please check the following:
-  1. Restart the S10 and try the above steps again.
-  2. Clean the charging terminals of the S10 and the water station with tissue paper. 
-  3. If pairing is successful, please update the firmware of the water station to the latest version by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery -> Water Station
-  4. If pairing or communication failure still occurs, please provide us with the following information so that our R&D team can investigate.
-    1. A picture of the MAC address on the back of the water station
-    2. A video showing the S10 failing to dock at the water station
+
+- Restart the S10 and try the above steps again.
+- Clean the charging terminals of the S10 and the water station with tissue paper.
+- If pairing is successful, please update the firmware of the water station to the latest version by going to SwitchBot App -> S10 -> Gear Icon -> Firmware & Battery -> Water Station
+- If pairing or communication failure still occurs, please provide us with the following information so that our R&D team can investigate.
+
+1. A picture of the MAC address on the back of the water station
+2. A video showing the S10 failing to dock at the water station
 
 ---
 ### How to Reset SwitchBot Floor Cleaning Robot S10
@@ -3304,3 +3313,30 @@ Note:
 Replacement services may incur a fee if the water hose is not naturally damaged. We appreciate your understanding.
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance.
 
+---
+### How to clean multiple floors with SwitchBot Floor Cleaning Robot S10, S20, or S30
+
+Last Updated: 2026 Nov 19
+
+**Applies to:** SwitchBot Floor Cleaning Robot S10, SwitchBot Floor Cleaning Robot S20, and SwitchBot Floor Cleaning Robot S30
+
+Carry the robot to the floor you want to clean. If that floor has no Water Station, fill the robot with water before moving it. If each floor has a Water Station, mark each station in the SwitchBot app.
+
+Add the robot in the SwitchBot app, update the app to the latest version (9.3 or later), and install the latest firmware available for your model.
+
+If you have one Water Station
+
+1. Mark the Water Station in the app. Related Posts: [Set up S10 and mark the Water Station](https://support.switch-bot.com/hc/en-us/articles/22963487317783)
+2. [Connect S30 to Wi-Fi and mark the Water Station](https://support.switch-bot.com/hc/en-us/articles/44643028001431)
+3. Before moving the robot, open your robot’s cleaning controls. On S10 or S20, open **Vac & Mop** and turn on **Water Station Not Marked (Beta)**. On S30, open the cleaning mode menu and turn on **No Station Mode (Beta)**.
+4. Wait for the robot to fill with water, then carry it to the floor you want to clean and start vacuuming and mopping. The task stops if the robot runs out of clean water.
+5. When cleaning finishes, carry the robot back to the station and use the app to empty the dustbin and dry the mop.
+
+If you have a Water Station on each floor
+
+1. Mark each floor’s Water Station in the app. On S10 or S20, open your robot and go to **Functions** > **Settings** > **Mark Water Station Position**. To remove a marked station, use the three-dot menu in the upper-right corner. Related Posts: [Set up S10 and mark the Water Station](https://support.switch-bot.com/hc/en-us/articles/22963487317783)
+2. [Connect S30 to Wi-Fi and mark the Water Station](https://support.switch-bot.com/hc/en-us/articles/44643028001431)
+3. Carry the robot to the floor you want to clean and select a cleaning mode in the app. After vacuuming and mopping, the robot returns to the marked Water Station on that floor to drain dirty water and wash the mop.
+4. If that floor has no station for dust collection and drying, carry the robot back to the Auto-empty Station (S10 or S20) or Multi-Functional Station (S30) and use the app to empty the dustbin and dry the mop.
+
+On a floor without a station for dust collection and drying, the robot may announce that it could not return to the station. This is expected.

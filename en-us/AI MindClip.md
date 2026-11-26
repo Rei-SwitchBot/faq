@@ -329,13 +329,13 @@ Forgot something? Just ask, and AI MindClip can help you find it again. It does 
 ---
 ### What Languages Does AI MindClip Support?
 
-Last Updated: 2026 Aug 14
+Last Updated: 2026 Nov 6
 
 Related Product: SwitchBot AI MindClip
 
 AI MindClip supports 30+ languages, covering East Asia and Southeast Asia, South Asia and the Middle East, and major European languages.
 
-**East Asia and Southeast Asia (8 languages):** Chinese, Japanese, Korean, Vietnamese, Thai, Indonesian, Malay, and Filipino.
+**East Asia and Southeast Asia (9 languages):** Chinese (Mandarin, Simplified), Cantonese (Traditional Chinese), Japanese, Korean, Vietnamese, Thai, Indonesian, Malay, and Filipino.
 
 **South Asia and the Middle East (2 languages):** Hindi and Arabic.
 
@@ -1131,3 +1131,299 @@ Last Updated: 2026 Sep 1
 1. Tap the menu icon in the upper-left corner, then select **Settings**.
 2. Tap **Manage accounts**.
 3. Under **Non-Google accounts**, turn on **AI MindClip**.
+
+---
+### How to Connect AI MindClip to Codex
+
+Last Updated: 2026 Oct 29
+
+- **Related Products:** SwitchBot AI MindClip
+
+After installing the AI MindClip plugin and authorizing your account, you can use AI MindClip directly in Codex and ChatGPT to access recording information, transcriptions, AI summaries, and to-dos. You can also search past conversations, review daily or weekly insights, and identify items that require follow-up.
+
+Before You Begin
+
+- Install and sign in to the Codex desktop app.
+- Prepare an AI MindClip account, which is the same account you use to sign in to the AI MindClip App.
+
+Setup Instructions
+
+1. **Open the Plugins page**
+In the Codex sidebar, go to **Customize → Plugins**.![](https://support.switch-bot.com/hc/article_attachments/44617285628695)
+2. **Search for AI MindClip**
+Enter **AI MindClip** in the search box in the upper-right corner. Select **AI MindClip** from the results and confirm that the developer is **switchbot**.![](https://support.switch-bot.com/hc/article_attachments/44617285629847)
+3. **Install the plugin**
+On the AI MindClip details page, click **Install plugin** in the upper-right corner.![](https://support.switch-bot.com/hc/article_attachments/44617254852119)
+4. **Sign in and authorize access**
+Your browser will automatically open the AI MindClip sign-in page. Sign in with your AI MindClip account using your account credentials, the App QR code, or a Google, Amazon, or Apple account.![](https://support.switch-bot.com/hc/article_attachments/44617285631255)
+5. **Complete the connection**
+Return to Codex after signing in. Once connected, AI MindClip will appear under **Installed** in the sidebar.
+If you see **Finish connecting AI MindClip in your browser** at the top of the page, click **Open browser** and complete authorization in your browser.![](https://support.switch-bot.com/hc/article_attachments/44617254852631)
+6. **Start using AI MindClip**
+Return to the Codex home page, select AI MindClip in the message box, or click **Plugins** below the input box to add it. You can then ask questions directly, such as:
+“Summarize today’s meetings and list the to-dos.”![](https://support.switch-bot.com/hc/article_attachments/44617285631511)
+
+FAQs
+
+**What data can Codex access after I connect AI MindClip?**
+Codex can access recording information, transcriptions, AI-generated summaries, and extracted to-dos. You can use it to search past conversations, view daily or weekly insights, and identify items that require follow-up.![](https://support.switch-bot.com/hc/article_attachments/44617254853015)
+
+**Which account should I use to sign in?**
+Use your AI MindClip account. Otherwise, your recording data cannot be accessed. If you do not have an account, click **register** on the sign-in page to create one.![](https://support.switch-bot.com/hc/article_attachments/44617285632023)
+
+**What should I do if the browser does not open after installation or the page remains on Loading?**
+This means authorization has not been completed. Click **Open browser** in the prompt at the top of the page and complete sign-in in your browser. If you previously closed the sign-in page, use the same method to open it again.![](https://support.switch-bot.com/hc/article_attachments/44617285632407)
+
+**Can I also use it in ChatGPT?**
+Yes. Once installed, AI MindClip can be used in both ChatGPT and Codex.![](https://support.switch-bot.com/hc/article_attachments/44617285632663)
+
+**How can I manage or disconnect the integration?**
+Go to **Customize → Plugins → AI MindClip**, then click **Manage**. You can also disconnect AI MindClip at any time in Settings.![](https://support.switch-bot.com/hc/article_attachments/44617285632407)
+
+**How will my data be used?**
+After you connect AI MindClip, ChatGPT may share relevant conversations and memories with the plugin to provide context for your requests. AI MindClip handles this data in accordance with its Terms of Service and Privacy Policy. You can manage your preferences or disconnect AI MindClip at any time in Settings.
+
+---
+### How to Delete Files That Could Not Be Uploaded
+
+Last Updated: 2026 Oct 27
+
+- **Related Products:** SwitchBot AI MindClip
+
+If you need to delete files that remain unable to upload, first make sure that all files you want to keep have been uploaded. Then delete and re-add the device.
+
+1. Tap the device entry in the upper-left corner of the app.
+2. Swipe down and tap **Delete**.
+3. Tap **Clear Data and Delete**.
+4. Add the device again using the original account.
+
+**Note:** Clearing data deletes all files on the device that have not yet been uploaded. Please confirm before proceeding.
+
+---
+### How to Integrate AI MindClip with Meta Muse
+
+Last Updated: 2026 Oct 26
+
+*Supported in US & CA only.
+
+- **Related Products:** SwitchBot AI MindClip
+
+Once connected, you can use Muse to access your AI MindClip recordings, transcriptions, summaries, and to-dos.
+
+Before You Begin
+
+Prepare your Token and Secret:
+
+1. Open the AI MindClip App.
+2. Go to **Settings → About**.
+3. Tap **Software Version** several times.
+4. Once **Developer Options** appears, open it and copy your Token and Secret.
+
+Setup Instructions
+
+1. Send the following message in a Muse conversation:
+Help me connect SwitchBot's MindClip
+2. Select **Access my MindClip transcripts inside Muse**.
+3. Select **Connect via the CLI, or by accessing the OpenAPI**.
+4. Follow the prompts and provide your Open Token and Secret Key.
+5. Wait for a message confirming that the connection is complete.
+
+Once connected, you can directly access your recordings, transcriptions, summaries, and to-dos in the conversation.
+
+Security Reminder
+
+Muse does not provide a separate secure form for entering credentials. You must send your Open Token and Secret Key directly in the conversation.
+
+Your Open Token and Secret Key are equivalent to your account credentials. Do not share or disclose them publicly. To replace them, obtain new credentials from **Developer Options** using the steps above.
+
+During setup: Muse identifies the OpenAPI endpoint and indicates that it does not provide a separate credential-storage channel.
+
+Once connected, Muse can access recordings and to-dos. Credentials shown in the example have been redacted.
+
+---
+### How to Integrate AI MindClip with OpenAI Dots
+
+Last Updated: 2026 Oct 23
+
+- **Related Products:** SwitchBot AI MindClip
+
+Once connected, you can use Dots to access your AI MindClip recordings, transcriptions, summaries, and to-dos.
+
+Before You Begin
+
+Prepare your AI MindClip App account and make sure your recordings have been synced to the cloud. Recordings that remain on the device and have not yet been uploaded cannot be accessed.
+
+Using Dots requires a **ChatGPT Pro** or **Business Premium** subscription. Authorization is completed by signing in to your account during installation, so you do not need to enter a Token or Secret.
+
+Setup Instructions
+
+1. Open the ChatGPT plugin page on the web, desktop, or mobile app.
+2. Search for **mindclip**, open the plugin details page, and confirm that the developer is **switchbot**.
+3. Click **+ Install**.
+4. When authorization is required, click **Connect**. Sign in using your AI MindClip App account. You can use your email address and password or sign in with your Google, Amazon, or Apple account.
+5. Start a new conversation and enter your request. Dots will determine when to use the mindclip plugin automatically.
+
+You do not need to enter **@mindclip** every time. Once the plugin is installed, Dots will automatically use it when relevant. To specify the plugin manually, enter **@mindclip** in the input field or click **+** and select it from the list.
+
+Example requests:
+
+- “List my most recent MindClip recordings and summarize the key points.”
+- “Show me the transcription and summary of my latest recording, and list the action items.”
+- “Show me my urgent to-dos and today’s Daily Memory.”
+
+Using the Plugin in Codex
+
+The same plugin is also available in Codex:
+
+1. Open Codex and click **Plugins** in the left sidebar.
+2. Search for **mindclip**.
+3. Open the plugin details page and click **Install plugin**.
+4. Sign in and authorize access in the same way.
+
+Authorization applies at the account level and works in both Dots and Codex.
+
+**Direct plugin link:**
+[Open the mindclip plugin](https://chatgpt.com/plugins/plugin_asdk_app_6aa37bfe1e5c8191b80f3b23fd423add)
+
+---
+### How to Integrate AI MindClip with Manus Cue
+
+Last Updated: 2026 Oct 21
+
+- **Related Products:** SwitchBot AI MindClip
+
+After integration, you can use Cue to access your AI MindClip recordings, transcriptions, summaries, and to-dos.
+
+Before You Begin
+
+Prepare your **Token** and **Secret**.
+
+To obtain them:
+
+1. Open the AI MindClip App.
+2. Go to **Settings → About**.
+3. Tap **Software Version** several times.
+4. When **Developer Options** appears, open it and copy your Token and Secret.
+
+Integration Steps
+
+1. Open Cue and state in the conversation that you want to integrate AI MindClip through the SwitchBot OpenAPI.
+2. Provide your Token and Secret when prompted.
+3. If Cue asks you to sign in to your MindClip account, it will display a separate secure form. Enter your password in this form and do not send it directly in the conversation.
+4. Wait for confirmation that the connection has been completed.
+
+Once connected, you can ask questions such as:
+
+- List my most recent recordings.
+- Summarize the meeting from this afternoon.
+
+Cue currently supports this integration on desktop and Android. iOS is not currently supported.
+
+Security Reminder
+
+Your Token and Secret are equivalent to account credentials. Do not forward, share, publish, or expose them in screenshots.
+
+To replace your credentials, return to **Developer Options** in the AI MindClip App and generate new ones.
+
+**During authorization:** Cue may ask you to sign in to your MindClip account. Enter your password only in the separate secure form.
+
+**After successful connection:** Cue can access your recordings, transcriptions, summaries, and to-dos.
+
+---
+### How to Integrate AI MindClip with Grok Bot
+
+Last Updated: 2026 Oct 21
+
+- **Related Products:** SwitchBot AI MindClip
+
+After integration, you can use Grok Bot to access your AI MindClip recordings, transcriptions, summaries, and to-dos.
+
+Before You Begin
+
+Prepare your **Token** and **Secret**.
+
+To obtain them:
+
+1. Open the AI MindClip App.
+2. Go to **Settings → About**.
+3. Tap **Software Version** several times.
+4. When **Developer Options** appears, open it and copy your Token and Secret.
+
+Integration Steps
+
+1. Open Grok Bot. SuperGrok users can access it through [grok.com](https://grok.com).
+2. Send the following message in the conversation: Integrate AI MindClip via the SwitchBot OpenAPI
+3. Provide your Token and Secret when prompted.
+4. Wait for confirmation that the connection has been completed.
+
+Once connected, you can ask questions such as:
+
+- Retrieve the most recent summaries.
+- What recent to-dos do I have?
+
+The integration applies at the account level. Once connected, it can be used by all Bots under the same account and on both iOS and Android devices.
+
+Security Reminder
+
+Your Token and Secret are equivalent to account credentials. Do not forward, share, publish, or expose them in screenshots.
+
+This integration requires sending the Token and Secret in the conversation. Only provide them through an official interface that you trust. To replace the credentials, return to **Developer Options** in the AI MindClip App and generate new ones.
+
+**During setup:** Request integration through the OpenAPI and provide the Token and Secret. Credentials should be masked in screenshots.
+
+**After successful connection:** Grok Bot can access the device status and recent recording summaries.
+
+---
+### What Should I Do If a Recording Fails to Transfer or the File Is Incomplete?
+
+Last Updated: 2026 Nov 4
+
+- **Related Products:** SwitchBot AI MindClip
+
+1. Try using a different transfer method.
+2. Restart the device, then transfer the recording again.
+
+---
+### What Should I Do If I Cannot Add the Device or Connect via Bluetooth?
+
+Last Updated: 2026 Nov 23
+
+- **Related Products:** SwitchBot AI MindClip
+
+1. Make sure the device has sufficient battery power.
+2. Place your phone close to the device.
+3. Restart the device.
+4. Turn your phone’s Bluetooth off and back on, then try adding the device again.
+
+---
+### What Should I Do If the Firmware Update Fails?
+
+Last Updated: 2026 Nov 18
+
+- **Related Products:** SwitchBot AI MindClip
+
+1. Make sure the device has sufficient battery power. Restart the device, then try updating the firmware again.
+2. In the app, go to **Wi-Fi Settings → Edit** and connect the device to a different network. We recommend trying your phone’s hotspot first.
+
+---
+### Why Doesn’t the Charging Indicator Light Up When I First Receive the Device?
+
+Last Updated: 2026 Nov 19
+
+- **Related Products:** SwitchBot AI MindClip
+
+Press the pairing button on the lower-right side of the device once to activate it. The charging indicator should then operate normally.
+
+---
+### What Are the Limitations of the Unlimited Plan?
+
+Last Updated: 2026 Sep 24
+
+- **Related Products:** SwitchBot AI MindClip
+
+1. The Unlimited Plan does not have a monthly limit on transcription minutes.
+2. Each account can transcribe up to 24 hours of audio per day. This limit is shared across all devices linked to the same account.
+3. The plan is intended for reasonable personal use by the registered account holder only. Plan benefits may not be shared, resold, or rented. Automated or abnormal methods may not be used to process audio in bulk.
+4. The service may be suspended or restricted if the daily limit is reached or abnormal usage is detected.
+
+For more information, please refer to the [Official Subscription Terms of Service](https://www.switch-bot.com/pages/switchbot-aimindclip-subscription-terms-of-service).

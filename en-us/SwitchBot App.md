@@ -9,7 +9,6 @@
 
 In SwitchBot App, you can create up to 250 scenes and 250 automations.
 
-
 ---
 ### How to Rearrange the Order of the Rooms
 
@@ -22,18 +21,15 @@ Adjust the room order according to your preferences.
 Note:  
 You cannot directly reorder rooms on the "Manage Rooms" screen. However, the changes made in the "Reorder Sections" setting will be reflected on the "Manage Rooms" screen.  
 
-
 ---
 ### Will Automation be Created on iPad Sync With iPhone?
 
 As long as you log in with the same SwitchBot account on both your iPad and iPhone, the devices you add, along with the scenes and automations you set up, will automatically sync. Furthermore, if you switch to a new phone later, simply log in with your existing SwitchBot App account on the new smartphone to directly access your previously configured devices.
 
-
 ---
 ### Can the Home Location Information Set on SwitchBot App Be Deleted?
 
 Currently, you cannot delete the home location information you have set. If necessary, we can escalate the matter to our R&D team for assistance. Please feel free to contact us.
-
 
 ---
 ### How to Check Coupons Redeemed with Points
@@ -47,14 +43,12 @@ Currently, you cannot delete the home location information you have set. If nece
 
 <img width="748" height="1248" alt="image" src="https://github.com/user-attachments/assets/582dd353-5a97-49dd-97d4-b40b38e69d03" />
 
-
 ---
 ### Troubleshooting Unable to Submit Feedback from SwitchBot App
 
 Thank you for reaching out to us. We sincerely apologize for any inconvenience this may have caused and appreciate the opportunity to assist you.
 Regarding this issue, please use the latest version of the SwitchBot app from the app store. If your SwitchBot app is version V6.14 or older, you will not be able to submit feedback through the app. We regularly release new versions of the SwitchBot app to support new products, implement new features, and fix bugs. We strongly recommend always using the latest version of the app for a better software experience.
 We apologize for any inconvenience and appreciate your understanding. If you have any further questions, please don't hesitate to ask.
-
 
 ---
 ### How to Create and Switch Homes in SwitchBot App
@@ -75,7 +69,6 @@ Switch Homes
 - You can see a list of other created homes and homes you have joined.  
 - Tap the target home to switch.
 
-
 ---
 ### What Are the Differences Between the Master Hub, Slave Hubs, and Isolated Hubs Displayed on the "Manage Hub" Screen?
 
@@ -91,7 +84,6 @@ Important Things to Know:
 3. If your home router does not support mDNS, the app will not be able to group your hub products into Master and Slave roles. 
 4. Regardless of its role, any hub device that loses its network connection for more than 5 to 10 minutes will be moved to the Offline Hubs group.
 
-
 ---
 ### Troubleshooting: Unable to Join Home
 
@@ -101,7 +93,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 ### Where Can I Sign out of the Store in SwitchBot App?
 
 For security purposes, once you sign in to the store via the SwitchBot app, you cannot sign out directly within the app itself. If you need to sign out, please do so from our official website instead. This change will sync automatically and sign you out of the app as well. We sincerely apologize for the inconvenience and appreciate your understanding.
-
 
 ---
 ### Troubleshooting: When I log in to the SwitchBot app, I do not receive the verification code for my account's two-step verification.
@@ -120,8 +111,6 @@ You must send the email to the specified address yourself. You cannot log in by 
 
 <img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/db74a622-4fc2-49c3-b19d-a56e684f3aee" />
 
-
-
 ---
 ### What Does the Red "X" on the SwitchBot Automation Edit Page Mean?
 
@@ -132,8 +121,6 @@ You can find more information about how "When" and "And" conditions work at the 
 https://support.switch-bot.com/hc/en-us/articles/19377092587671
 
 <img width="1280" height="1227" alt="image" src="https://github.com/user-attachments/assets/1f871de8-ab5c-4344-92a2-fd161227c030" />
-
-
 
 ---
 ### Troubleshooting SwitchBot Automation Fails to Trigger

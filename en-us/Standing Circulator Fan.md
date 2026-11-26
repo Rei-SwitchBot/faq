@@ -76,3 +76,19 @@ Firmware Version: V1.6 or newer
 - **Related Products: Standing Circulator Fan**
 
 1. Make sure Standing Circulator Fan firmware version is up to date.
+
+---
+### Standing Circulator Fan FAQ
+
+Last Updated: 2026 Nov 23
+
+Before Purchase
+
+- [Can SwitchBot Standing Circulator Fan Be Used While Plugged In After It Is Fully Charged?](https://support.switch-bot.com/hc/en-us/articles/41289762887447)
+
+Troubleshooting
+
+- [What Should I Do if Standing Circulator Fan Has Abnormal Battery Drain?](https://support.switch-bot.com/hc/en-us/articles/42514667831063)
+- [What Should I Do if Standing Circulator Fan Responds but Does Not Blow Air When Turned On in Apple Home?](https://support.switch-bot.com/hc/en-us/articles/42514567373335)
+- [Why Can SwitchBot Standing Circulator Fan Only Return to a Level Position During Vertical Oscillation?](https://support.switch-bot.com/hc/en-us/articles/41139239670807)
+- [What Should I Do if SwitchBot Standing Circulator Fan Does Not Oscillate?](https://support.switch-bot.com/hc/en-us/articles/41051165833623)

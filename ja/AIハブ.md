@@ -312,3 +312,56 @@ OpenClawをすでに有効にしているにもかかわらずトライアルが
 タスクはOpenClaw上で処理されます。お客様のプライバシーを保護するため、SwitchBotがお客様とOpenClawとの具体的な会話内容を記録または確認することはありません。SwitchBotでは、実際に発生した使用量の合計のみを記録しています。そのため、個別のタスクごとの詳細な使用量を提供することはできません。
 
 現在の残り利用枠と全体の使用状況は、SwitchBotアプリからご確認いただけます。
+
+---
+### SwitchBotハブについて
+
+Last Updated: 2026 Nov 25
+
+- **適用製品：ハブミニ、ハブ2、ハブ3、ハブ4、ハブミニ(matter対応)、シーリングライト、シーリングライトプロ**
+
+ゲートウェイとしてBluetooth通信デバイスをネットワークに接続します。
+
+ハブ製品は、他のSwitchBot Bluetooth製品をネットワークに接続して、リモートコントロールやその他の機能を実現するのに役立ちます。SwitchBot家庭用製品の2つの主な接続方法は、Wi-Fi接続とBluetooth接続です。
+
+- **Bluetooth通信デバイス**：スマートフォン(SwitchBotアプリ)を介して、Bluetooth範囲内で、Bluetoothチップが内蔵されるカーテンやボットなどのデバイスを制御できます。
+- **Wi-Fi通信デバイス：**ご自宅のルーターに直接接続して、ネットワーク接続を完了することができます。ネットワークが安定している限り、いつでもどこでもデバイスをアクセス可能です。
+
+ハブ製品を使って、Bluetooth通信デバイスをネットワークに接続することで、遠隔操作、また、シーンとオートメーションの作成やとサードパーティサービス（Alexa、IFTTTなど）との連動が可能です。ご利用のSwitchBotアプリのバージョンによって、ハブ製品とBluetooth通信デバイスの連携が異なります。
+
+SwitchBotアプリV9.0
+
+SwitchBotアプリV9.0から、手動でクラウドサービスを有効にする必要がなくなりました。Bluetooth通信デバイスは該当アカウントの元にあるハブ製品のBluetooth範囲内であれば、自動的にネットワーク化されます。
+
+ハブミニ、ハブ2、ハブ3、ハブ4などのハブを同じアカウントに追加してください。ハブをオンラインに保ち、各デバイスのBluetooth通信範囲内に設置してください。
+
+SwitchBotアプリ→プロフィール→ハブを管理の順番で各ハブに接続されているデバイスの通信状況が確認できます。
+
+SwitchBotアプリ→プロフィール→サードパーティーサービスでAmazon Alexa、Googleアシスタント、IFTTT、SmartThings、Matterとの連動ができます。
+
+よりよい連携効果を確保するために、Bluetooth通信デバイスとハブを同じ部屋に置くのをお勧めいたします。
+
+SwitchBotアプリV8.8とその以前のバージョン
+
+SwitchBotアプリ→該当Bluetooth通信デバイス→歯車マーク→設定画面で、クラウドサービスをオンにするだけで、遠隔操作とサードパーティーサービスとの連動を使用できるようになります。
+
+![](https://support.switch-bot.com/hc/article_attachments/7643655430679)
+
+この仕組みは次のとおりです。Bluetooth製品のクラウドサービスをオンにすると、ハブミニとBluetoothで通信するようになります。ハブは2.4GHzのWi-FiネットワークでSwitchBot Cloudと通信しています。スマートフォンでSwitchBotのBluetooth製品を操作しようとすると、まずクラウドサービスにコマンドが行く。その後、SwitchBotハブ製品に転送されます。ハブはコマンドを受信すると、対応するBluetooth製品にBluetooth信号で何をすべきかを指示します。以下のスケッチをご覧ください。
+
+![](https://support.switch-bot.com/hc/article_attachments/7751710521751)
+
+ご自宅の赤外線家電リモコンを一括管理できます。
+
+ハブ機能があることは、以下のすべての製品が赤外線の学習や送信に対応していることを意味するものではありません。
+
+ハブ製品
+
+- [ハブミニ](https://www.switchbot.jp/products/switchbot-hub-mini)
+- [ハブ2](https://www.switchbot.jp/products/switchbot-hub2)
+- [ハブミニ （matter対応）](https://www.switchbot.jp/products/switchbot-hub-mini-matter)
+- [シーリングライト](https://www.switchbot.jp/products/switchbot-ceiling-light)
+- [シーリングライトプロ](https://www.switchbot.jp/products/switchbot-ceiling-light?variant=42442788503727)
+- [ハブ3](https://www.switchbot.jp/products/switchbot-hub3)
+- [ハブ4](https://www.switchbot.jp/products/switchbot-hub4)
+- [AIハブ](https://www.switchbot.jp/products/switchbot-aihub)

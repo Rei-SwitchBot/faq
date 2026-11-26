@@ -99,61 +99,34 @@ Slowly Flashing: The Curtain is charging. Note that the Curtain's indicator will
 
 Light on: The Curtain is fully charged.
 
-
-
 ---
 ### Failed to add Curtain devices to app during setup
 
-Updated: 2022/12/09
+Last Updated: 2026 Nov 14
 
-Applicable products:
+**Updated: 2026/11/13**
 
-Curtain U Rail, Curtain I Rail, Curtain Rod
+- Applicable products: **Curtain, Curtain 3, Curtain 4**
+- SwitchBot App version (Curtain): **V6.19.1** or newer
+- SwitchBot App version (Curtain 4): **V10.9** or newer
 
-SwitchBot App version:
+1. Make sure the SwitchBot App is up to date.
 
-V6.19.1
+2. Make sure Bluetooth is enabled on your phone. If it is off, turn it on. If you use Android 12 or earlier, allow access to location information. Restart Bluetooth before trying again.
 
-or newer
+3. Make sure your phone is connected to the internet.
 
-1. Make sure you have the latest SwitchBot app to get bugs fixed.
+4. Reset your Curtain using the instructions for your model, then add it to the SwitchBot App again.
 
-2. Please restart the Bluetooth function of your smartphone. Android 12 or earlier smartphones need to allow location information.
+**Curtain 3 / Curtain 4:** Press and hold the add button for **15 seconds**. Release it when the indicator changes from flashing to a steady light. The reset is complete when the light turns off.
 
-3. Press and hold the button on Curtain for
+**Curtain:** Press and hold the add button for **45 seconds**. The indicator will flash rapidly, stay on, and then turn off. The reset is complete when the light turns off.
 
-45 seconds
+5. If you have another mobile device, try using it to add Curtain to your account.
 
-. to perform a hardware reset. Pay attention to the following points during reset:
+When contacting us, connect Curtain to a power cable for charging and provide:
 
-In the first
-
-15 seconds
-
-, the indicator light will be blinking.
-
-Then it will stay on for
-
-10 seconds
-
-. When you have pressed for 25 seconds, the indicator light will start to blink again, then it will go off.
-
-After 45 seconds,
-
-release your finger.
-
-The indicator will be on for 1 second. Then the SwitchBot Curtain has been reset in the hardware.
-
-4. After the reset, Please re-add the Curtain to your account.
-
-5. Retry adding Curtain to your account via another mobile devices if you have one.
-
-6. If it still doesn't work, please provide the following information when contacting us.
-
-Power on the SwitchBot Curtain with cable.
-
-Long-press the button on the SwitchBot Curtain for 45 seconds And we will make a further analysis of it.
-
+- A video showing the reset operation for your model: hold the button for 15 seconds for Curtain 3 or Curtain 4, or for 45 seconds for Curtain.
 
 ---
 ### Function to pause opening/closing of Curtain device by Remote
@@ -375,80 +348,63 @@ Tap Done
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998229151383)
 
-
-
 ---
 ### I cannot connect the SwitchBot Curtain, what should I do?
 
-Updated: 2022.10.11
+Last Updated: 2026 Nov 23
 
-Applicable products:
+**Updated: 2026.11.13**
 
-Curtain U Rail, Curtain I Rail, Curtain Rod
+- Applicable products: **Curtain, Curtain 3, Curtain 4**
+- SwitchBot App version (Curtain): **V6.16** or newer
+- Firmware version (Curtain): **V4.6** or newer
+- SwitchBot App version (Curtain 4): **V10.9** or newer
 
-SwitchBot App version:
+1. Make sure your SwitchBot App is up to date.
 
-V6.16
+2. Make sure Bluetooth is enabled on your phone. If you use Android 12 or earlier, allow access to location information.
 
-or newer
+3. Make sure your phone is connected to the internet.
 
-SwitchBot Curtain Firmware Version:
+Restart your phone’s Bluetooth before trying the following reset steps.
 
-V4.6
+4. Reset your device using the instructions for your model, then add it to the SwitchBot App again.
 
-or newer
+**Curtain 3 / Curtain 4:** Press and hold the add button for 15 seconds. Release it when the indicator changes from flashing to a steady light. The reset is complete when the light turns off.
 
-1. Make sure your SwitchBot app version is up to date.
+**Curtain:** Charge the device for one hour, then keep it connected to power with a cable and press and hold the button for at least 45 seconds. The indicator will flash rapidly, stay on, and then turn off.
 
-2. Reboot the Bluetooth of your phone.
+After the reset, check whether the device can connect. Once connected, check that the firmware is up to date. For Curtain, if the firmware is earlier than V4.6, go to SwitchBot App → Profile → Feedback and request the latest firmware update.
 
-3. Charge the curtain for one hour, then press and hold the button on the device for at least 45 seconds to reset it. (During this process, the indicator light will blink fast, lights up, then turns off) Please conduct the reset with the Curtain connected to power with a cable to restore it to its factory settings.
+5. If you have another mobile device, try using it to add the device to your account.
 
-4. After the reset, check if the Curtain can be connected. Once connected, check if the firmware version is the latest.
+Go to SwitchBot App → Profile → Feedback → Select the product, and describe the issue in detail.
 
-5. If you still cannot connect the Curtain after resetting, please describe the issue in detail (with media if needed) as follows:
+When contacting us, connect Curtain to a power cable for charging.
 
-Video of the curtain being held down for more than 45 seconds
-
+Provide a video showing the reset operation for your model: hold the button for 15 seconds for Curtain 3 or Curtain 4, or for at least 45 seconds for Curtain.
 
 ---
 ### I've successfully added SwitchBot Curtain to my account before, but now I can't. Why?
 
-Updated: 2022/12/09
+Last Updated: 2026 Nov 14
 
-Applicable products: Curtain U Rail, Curtain I Rail, Curtain Rod
+**Updated: 2026/11/13**
 
-SwitchBot App version:
+- Applicable products: **Curtain, Curtain 3, Curtain 4**
+- SwitchBot App version (Curtain): **V6.19.1** or newer
+- SwitchBot App version (Curtain 4): **V10.9** or newer
 
-V6.19.1
+1. Make sure the SwitchBot App is up to date.
+2. Make sure Bluetooth is enabled on your phone. If it is off, turn it on. If you use Android 12 or earlier, allow access to location information. Restart Bluetooth before trying again.
+3. Make sure your phone is connected to the internet.
+4. Reset your Curtain using the instructions for your model, then add it to the SwitchBot App again. **Curtain 3 / Curtain 4:** Press and hold the add button for **15 seconds**. Release it when the indicator changes from flashing to a steady light. The reset is complete when the light turns off. **Curtain:** Press and hold the add button for **45 seconds**. The indicator will flash rapidly, stay on, and then turn off. The reset is complete when the light turns off.
+5. If you have another mobile device, try using it to add Curtain to your account.
 
-or newer
+When contacting us, connect Curtain to a power cable for charging and provide:
 
-Make sure you have the latest version of our app/
-
-Please turn off the Bluetooth function inside your smartphone, and turn it on again. Smartphones using Android OS 12 or earlier will also need to allow Location Services.
-
-Press and hold the button on SwitchBot Curtain for 45 seconds to perform a hardware reset. Please pay attention to the following:
-
-In the first 15 seconds, the indicator light will be blinking.
-
-Then it will stay on for 10 seconds. When you have pressed for 25 seconds, the indicator light will start to blink again, then it will go off.
-
-After 45 seconds, release your finger.
-
-The indicator will be on for 1 second. Then the SwitchBot Curtain has been reset in the hardware.
-
-After resetting it, re-add SwitchBot Curtain to your account.
-
-You can also try adding SwitchBot Curtain to your account via other mobile devices to troubleshoot.
-
-If it the ahove doesn't work, provide the following information when contacting us:
-
-A video of you powering on SwitchBot Curtain with a cable.
-
-A video showing long-pressing of the button found on your SwitchBot Curtain for 45 seconds.
-
-
+- A video showing Curtain connected to power with a cable.
+- A video showing the reset operation for your model: hold the button for 15 seconds for Curtain 3 or Curtain 4, or for 45 seconds for Curtain.
 
 ---
 ### Installing Curtain (I Rail 2)
@@ -1735,3 +1691,412 @@ Last Updated: 2026 Aug 31
 ### Curtain4 U Rail/Curtain4 U Rail长续航快速校准功能说明占位
 
 Last Updated: 2026 Aug 31
+
+---
+### I cannot connect Curtain 4, what should I do?
+
+Last Updated: 2026 Nov 13
+
+**Updated: 2026.11.13**
+
+- Applicable products: **Curtain 4**
+- SwitchBot App version: **V10.9** or newer
+
+1. Make sure your SwitchBot App is up to date.
+
+2. Make sure Bluetooth is enabled on your phone. If you use Android 12 or earlier, allow access to location information.
+
+3. Make sure your phone is connected to the internet.
+
+4. Reset Curtain 4 to factory settings, then add it to the SwitchBot App again. Press and hold the add button for 15 seconds. Release it when the indicator changes from flashing to a steady light. The reset is complete when the light turns off.
+
+5. If you have another mobile device, try using it to add the device to your account.
+
+Connect Curtain 4 to a power cable for charging and provide a video showing Curtain 4 being reset to factory settings.
+
+---
+### How to restore Curtain 4 to factory settings?
+
+Last Updated: 2026 Nov 12
+
+Press and hold the Add button of Curtain 4 for 15 seconds until the indicator light changes from flashing to solid light and then release it. The light goes out to indicate that the operation is completed.
+
+---
+### What should I do if the power continues to drop after using solar panels?
+
+Last Updated: 2026 Nov 12
+
+1. Please try restarting Curtain 4 to see if the battery capacity is updated.
+2. Please confirm that the Curtain 4 firmware and SwitchBot App versions are the latest. Please enter the Curtain4 page in the SwitchBot App, pull down the device page, and view the recent lighting data. In rainy weather, the solar panel's recharged power may be less than the device's power consumption. We recommend that you enable the automatic charging function and adjust the appropriate charging position to avoid obstruction by window trims, window edges or gauze curtains, so that the solar panel can receive as much light as possible.
+3. The solar panel of Curtain 4 has an adjustable angle function. By pressing the adjustment button on the side of the solar panel, you can adjust the angle of the solar panel according to seasonal changes to receive as much light as possible.
+
+---
+### Why is the power of the host still declining after connecting the expansion battery?
+
+Last Updated: 2026 Nov 11
+
+1. What actually drives the device is the built-in battery of the host. The expansion battery is only responsible for replenishing power and does not provide continuous direct power supply. In order to balance efficiency and battery life, the expansion battery starts charging when the host power is lower than 40%, and stops when it reaches 80%.
+
+Therefore, the periodic decrease in the power of the host is not necessarily abnormal.
+
+---
+### What should I do if Curtain 4 or the extended battery cannot be charged?
+
+Last Updated: 2026 Nov 20
+
+1. Please use a 5V⎓1A adapter and power cord to charge the device.
+2. The recommended charging temperature range is 0°C to 45°C. Outside this range, charging may be limited to protect the battery. Please resume charging after the device returns to this temperature range.
+3. If the console does not respond, it may be that the battery is too low and it shuts down. Please remove the expansion battery first and charge the console separately.
+4. The host computer and the expansion battery have different lighting effects. When the main unit is fully charged, the LED light stays on, and when the expansion battery is fully charged, it turns off.
+
+---
+### What should I do if Touch & Go of Curtain 4 is not responding?
+
+Last Updated: 2026 Nov 22
+
+1. Please confirm that the Touch&Go function is turned on in the device settings page → Advanced settings. Then, pull the device by hand to move more than 5 cm in the fully open or fully closed direction.
+2. After the curtain reaches its position and stops, wait 5 seconds before pulling it by hand to trigger Touch & Go again.
+
+---
+### What should I do if the switch direction of Curtain 4 is incorrect?
+
+Last Updated: 2026 Nov 12
+
+1. If you are using a group device, please check whether the SwitchBot Logo orientation of the two devices is consistent, and make sure that the left and right devices are installed on the corresponding curtains.
+2. Please make sure Curtain 4 has been added to your SwitchBot account, and the App and device firmware versions are up to date.
+3. Please open the SwitchBot App, enter the settings page of Curtain 4, and select Path Calibration to recalibrate the device. If you install Curtain4 with the logo side facing outdoors, please select "I can't see the SwitchBot Logo" during calibration, select the logo facing "Outdoor" on the switch page, and then start calibration.
+
+---
+### What should I do if Curtain 4 makes abnormal noise or gets stuck during operation?
+
+Last Updated: 2026 Nov 11
+
+1. Please check whether the device can be pulled smoothly by hand. If there is obvious resistance, please try to replace the wheel set with a more suitable one.
+
+①If your curtain track is a telescopic track or a spliced ​​track, please try to use a conical wheel set. Please make sure there are no excessive gaps in the splicing track.
+
+②As shown in the picture, if your track has obvious inward bulges, please use a conical wheel set.
+
+---
+### What should I do if Curtain 4 cannot fit into the track or falls easily?
+
+Last Updated: 2026 Nov 11
+
+1. If you are using a conical wheel set and cannot put it in through the opening of the track, please try to remove the fixed end on the side of the track and put the wheel set in from the side of the track.
+2. If the wheel set can be placed into the track but cannot rotate to the correct position during installation, please try using a smaller wheel set.
+3. If the wheel set easily falls off from the track opening when rocking back and forth during installation, please try to use a larger wheel set.
+
+[How to check wheels stability (Video)](https://drive.google.com/file/d/1uFjRkgxs_-Hr2DUqhvngadj64-9oEv5S/view?usp=sharing)
+
+---
+### How to use Curtain 4’s automatic charging?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain Track 4
+
+We strongly recommend that you set up the automatic charging function for Curtain 4 when powered by solar panels.
+
+1. Make sure your SwitchBot App version is up to date. Please make sure you have added Curtain 4 to your app and that your device firmware version is up to date.
+2. Please make sure the solar panel is installed on Curtain 4 and the dark panel faces outdoors.
+3. Please configure the automatic charging function in the following order.
+
+Launch the SwitchBot App and enter the Curtain 4 page.
+
+Scroll down the page and click "Automatic Charging" at the bottom of the page.
+
+Turn on automatic charging and set the corresponding start time and end time, as well as the start and end positions.
+
+If necessary, set the validity period and recurrence time.
+
+QuietDrift Mode is automatically enabled. If not needed, turn it off.
+
+Click Save. Subsequently, the device will periodically move to the charging position for charging, and return to the end position after charging is completed.
+
+1. Please increase the automatic charging time as much as possible to ensure that the solar panel receives sufficient light. The excess power can be stored in the battery to cope with insufficient light due to poor weather.
+
+---
+### How to use the light control of Curtain 4?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain Track 4
+
+1. Make sure your SwitchBot App version is up to date. Please make sure you have added Curtain 4 to your app and that your device firmware version is up to date.
+2. Please make sure the solar panel is installed on Curtain 4 and the dark panel faces outdoors.
+3. Please configure the light sensor in the following order to control opening and closing of the curtains.
+
+Launch the SwitchBot App and enter the Curtain 4 page.
+
+Scroll down the page and click "Light Sensor" at the bottom of the page.
+
+Click "Automation" at the bottom of the page.
+
+Click "Add" at the bottom of the page.
+
+Set conditions.
+
+Setup operations.
+
+If necessary, set the validity period and recurrence time.
+
+QuietDrift Mode is automatically enabled. If not needed, turn it off.
+
+Click Save.
+
+1. You can set up to two automated on/off operations using the light sensor.
+
+---
+### How to use the Touch & Go function of Curtain 4?
+
+Last Updated: 2026 Nov 22
+
+Related Product:** Curtain 4
+
+When you pull the curtain by hand by more than 5 cm, Curtain will sense the movement and automatically open and close the curtain. For double curtains, just pull either side to trigger two devices.
+
+This function only supports fully opening/closing curtains. You can turn off this option on the advanced settings page.
+
+- Note: To reduce the possibility of false triggering, Curtain needs to wait 5 seconds after each switch before triggering Touch&Go again.
+
+---
+### How to install Curtain 4 when the track is too close to a wall or another curtain track?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain Track 4
+
+- **Minimum Firmware Version:** 0.6
+- **Minimum SwitchBot App Version:** 10.9
+
+1. When your track is too close to the wall and cannot be installed, you can try to install the Curtain4 with the logo side facing outdoors.
+2. When your curtain track is two or more parallel tracks and the spacing between the tracks is small, you can install Curtain4 with the logo side facing the other track.
+3. If you install Curtain4 with the logo side facing outdoors, please select "I can't see the SwitchBot Logo" during calibration, select the logo facing "Outdoor" on the switch page, and then start calibration.
+
+- Note: When installing on double-open curtains, please ensure that the left and right devices are installed on the corresponding curtains.
+
+---
+### How to install Curtain 4 on double curtain installation?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain 4
+
+- **Minimum Firmware Version:** 0.6
+- **Minimum SwitchBot App Version:** 10.9
+
+1. Make sure your SwitchBot App version is up to date.
+2. Please make sure your smartphone’s Bluetooth function is enabled.
+3. Follow the sequence below to add Curtain 4 to your account.
+
+Launch the SwitchBot App.
+
+Click the "+" symbol in the upper right corner and select "Add Device."
+
+Select "Curtains" from "Smart Home".
+
+Follow the App instructions and hold the button on the device for more than 2 seconds until the indicator light on the bottom of Curtain 4 starts flashing quickly and the device enters add mode. If you purchased a dual-open Curtain set, please put both devices into add mode. Subsequently, click the "Next" button in the app and Curtain 4 will be automatically added to your account.
+
+1. If you purchased a single Curtain, please add a second Curtain in the following order and form a group.
+
+You can click "Start Group" when adding a single device. Or later, click "Set Double Curtains" on the settings page.
+
+Click on the "+" symbol. You can select the added Curtain, the selected device will shake and flash the LED light, then click to confirm. If not, please follow the instructions to add another Curtain.
+
+Then, you can click the switch button in the middle to adjust the left and right switch directions of Curtain according to the installation position. To facilitate your identification later, you can paste the left and right curtain logos on the device yourself.
+
+Click "Start Grouping" and wait for the devices to be grouped.
+
+1. The app will then guide you through installation and distance calibration. When installing, please ensure that the left and right Curtains are installed on the left and right sides of the double-open curtains respectively, and the orientation of the logo remains consistent.
+
+- Note: Currently, Curtain 4 can only be used in combination with Curtain 4.
+
+---
+### How to add Curtain 4 to SwitchBot App?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain 4
+
+- **Minimum Firmware Version:** 0.6
+- **Minimum SwitchBot App Version:** 10.9
+
+1. Make sure your SwitchBot App version is up to date.
+2. Please make sure your smartphone’s Bluetooth function is enabled.
+3. Add settings for Curtain 4 in the following order.
+
+Launch the SwitchBot App.
+
+Click the "+" symbol in the upper right corner and select "Add Device."
+
+Select "Curtains" from "Smart Home".
+
+Follow the App instructions and hold the button on the device for more than 2 seconds until the indicator light on the bottom of Curtain 4 starts flashing quickly and the device enters add mode. If you purchased a dual-open Curtain set, please put both devices into add mode. Subsequently, click the "Next" button in the app and Curtain 4 will be automatically added to your account.
+
+1. Select Start Installation. The app will guide you through installation and range calibration.
+2. If you have any questions, follow these steps: Open the SwitchBot App, tap on "Profile," then "Help & Feedback," and finally select "Feedback."
+
+---
+### How do I change the wheels on my Curtain 4? (video)
+
+Last Updated: 2026 Nov 12
+
+---
+### Can I use Curtain 4’s extended battery to charge other devices?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain 4
+
+Please do not use any form to connect the Curtain 4 expansion battery to non-Curtain 4 devices. The expansion battery of Curtain 4 is a special accessory for Curtain 4. Forcibly connecting it to other devices (such as smartphones) may cause damage to the device.
+
+---
+### About Curtain 4’s QuietDrift feature
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain 4
+
+1. In QuietDrift Mode, the device will operate at a greatly reduced speed, and the user will hardly feel the movement of the curtains. The noise value measured at 1 meter from the device is also below 25dB.
+2. When using QuietDrift Mode, since the running time is longer than in standard mode, the battery power will be consumed faster than in standard mode.
+3. You can set the device to run in QuietDrift Mode for a long time in the "Advanced Settings" of the settings page of Curtain 4. You can also turn on the QuietDrift Mode switch on the device page to allow the device to temporarily run in QuietDrift Mode. After exiting the device page, the temporary QuietDrift Mode will be automatically turned off.
+4. Curtain 4 supports opening and closing in QuietDrift Mode in timers, delayers and automation functions.
+5. Using the remote button to turn Curtain 4 on and off in QuietDrift Mode is not currently supported.
+6. Curtain 4 does not operate in QuietDrift Mode when using voice control assistants such as Amazon Alexa or Google Assistant.
+
+---
+### Can Curtain 4 be used with Curtain or Curtain 3?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain 4
+
+Not supported. Curtain 4 can only be used in combination with Curtain 4 and cannot be combined with Curtain or Curtain 3. When you need to use double curtains that open from the middle, please install and set up two Curtain 4 sets.
+
+---
+### Can a Curtain 4 control double curtains that open from the middle?
+
+Last Updated: 2026 Nov 15
+
+Can't. Double-open curtains that open from the middle have two independent curtain fabrics. Two Curtain 4s need to be installed on the left and right curtains respectively to achieve normal opening and closing functions. It is impossible to achieve complete opening and closing functions with just one device.
+
+---
+### Does Curtain 4 need to install positioning magnets?
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain 4
+
+Curtain 4 no longer requires the positioning magnet of Curtain 3. Curtain 4 realizes position recognition and distance calibration through the rotation of the rubber roller and algorithms. After you confirm the distance using smart calibration or quick calibration, Curtain 4 can identify position deviations and automatically calibrate the distance in daily use.
+
+- Note: The smart calibration or quick calibration function requires firmly installed ends at both ends of the curtain track.
+
+---
+### About the battery life and charging of the Curtain 4 host and extended battery
+
+Last Updated: 2026 Nov 20
+
+The main battery of Curtain 4 has a battery life of about 3 months, and the battery life can be up to 12 months after adding an extended battery.
+
+- Test conditions for battery life: 25°C, 3 m track, 8 kg curtain, and switch once a day in standard mode. The actual battery life is affected by operating frequency, resistance, stroke, mode and temperature; the power consumption of the non-sensory mode is higher than that of the standard mode.
+
+In order to ensure charging efficiency and battery life, the expansion battery will maintain the host battery power between 40-80%, and the expansion battery will not fully charge the host battery. When charging, please use a power cord and adapter that supports 5V⎓1A. Please see the table below for charging time and charging light effect.
+
+The recommended charging temperature range is 0°C to 45°C. Outside this range, charging may be limited to protect the battery.
+
+- Note: If the host battery is exhausted and shuts down, please remove the expansion battery or solar panel first and fully charge the host separately before continuing to use it.
+
+---
+### Compatibility Notes on Curtain 4 Solar Panels
+
+Last Updated: 2026 Nov 12
+
+Related Product:** Curtain Track 4
+
+To ensure that the Curtain 4 solar panel can receive complete light, the distance from the bottom of the track to the light-receiving area should be less than 45 cm, and there should be no obstruction by walls, window coverings or gauze curtains. If the solar panels are blocked, the power generation will be greatly reduced.
+
+As shown in the picture, when your window has direct sunlight (sunlight shining on an object that creates a clear shadow outline), the Curtain 4's solar panel can provide enough power to increase the battery power. In cloudy or rainy conditions without direct sunlight, the power generated by Curtain 4's solar panel may only be enough to maintain battery power or delay battery decline.
+
+We recommend that you set up automatic charging for Curtain4 to increase the lighting time when the lighting is insufficient or the frequency of use is high. When the battery shuts down due to low battery, you still need to use the power cord to charge the device.
+
+Curtain 4 is compatible with Curtain & Curtain 3 solar panels, but it is not recommended to use extension cords to extend Curtain 4 solar panels. The connectors of this foldable solar panel are custom designed, and using standard extension cords may cause the connectors to fall off or fail to charge.
+
+---
+### What curtain tracks does Curtain 4 support? Can it be used with Roman poles?
+
+Last Updated: 2026 Nov 16
+
+Related Product:** Curtain Track 4
+
+Curtain 4 only works with eligible U-shaped curtain tracks and does not support Roman poles or I-shaped tracks. At the same time, it is not recommended to install Curtain 4 on curved tracks. The device may get stuck in the curve, affecting complete opening and closing.
+
+Before purchasing, please check the shape and size of your curtain track according to the diagram below.
+
+---
+### How to restart Curtain 4?
+
+Last Updated: 2026 Nov 12
+
+1. Long battery life version: Please press and hold the release buttons on both sides of the extended battery and remove it. Use a reset pin or other thin and sturdy object to press and hold the reset button for 3 seconds, then release the button. After the LED flashes once, the device completes the restart.![](https://support.switch-bot.com/hc/article_attachments/44942603780375)
+2. Solar version: Please remove the left and right ears first, and then remove the removable cover in the direction as shown. Use a reset pin or other thin and sturdy object to press and hold the reset button for 3 seconds, then release the button. After the LED flashes once, the device completes the restart.
+
+---
+### What should I do if Curtain 4 slips or shifts during operation?
+
+Last Updated: 2026 Nov 11
+
+1. Please check whether the device can be pulled smoothly by hand. If there is obvious resistance, please try to replace the wheel set with a more suitable one.
+2. Please try to clean the dust and stains on the curtain track and rubber roller. After cleaning, please recalibrate.
+
+---
+### How to Install SwitchBot Curtain 4 External Battery Combo U Rail (Video)
+
+Last Updated: 2026 Nov 12
+
+Related Product: SwitchBot Curtain 4 U Rail External Battery Combo
+
+---
+### How to Install SwitchBot Curtain 4 U Rail (Video)
+
+Last Updated: 2026 Oct 23
+
+Related Product: SwitchBot Curtain 4 U Rail
+
+---
+### How to Quick Calibrate SwitchBot Curtain 4 U-Rail (Video)
+
+Last Updated: 2026 Nov 10
+
+Related Product: SwitchBot Curtain 4, SwitchBot Curtain 4 External Battery
+
+---
+### I cannot connect my SwitchBot Curtain, what should I do?
+
+Last Updated: 2026 Nov 23
+
+**Updated: 2026.11.13**
+
+- Applicable products: **Curtain, Curtain 3, Curtain 4**
+- SwitchBot App version: **V10.9** or newer
+
+1. Make sure your SwitchBot App is up to date.
+
+2. Make sure Bluetooth is enabled on your phone. If you use Android 12 or earlier, allow access to location information.
+
+3. Make sure your phone is connected to the internet.
+
+Restart your phone’s Bluetooth before trying the following reset steps.
+
+4. Reset your device using the instructions for your model, then add it to the SwitchBot App again.
+
+**Curtain 3 / Curtain 4:** Press and hold the add button for 15 seconds. Release it when the indicator changes from flashing to a steady light. The reset is complete when the light turns off.
+
+**Curtain:** Charge the device for one hour, then keep it connected to power with a cable and press and hold the button for at least 45 seconds. The indicator will flash rapidly, stay on, and then turn off.
+
+After the reset, check whether the device can connect. Once connected, check that the firmware is up to date. If you need help updating the firmware, go to SwitchBot App → Profile → Feedback.
+
+5. If you have another mobile device, try using it to add the device to your account.
+
+Go to SwitchBot App → Profile → Feedback → Select the product, and describe the issue in detail.
+
+Provide a video showing the reset operation for your model: hold the button for 15 seconds for Curtain 3 or Curtain 4, or for at least 45 seconds for Curtain.

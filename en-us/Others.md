@@ -735,10 +735,10 @@ Scenes are manual Scenes from the previous version, and manual execution is the 
 
 Automation is the older version of automated scenes. It is an interlocking function that sets a schedule, geofence function, or SwitchBot device as a condition, and when the condition is met, the SwitchBot device in the action will be executed.
 
-
-
 ---
 ### Do I Need to Turn on the Location Service for the SwitchBot App？
+
+Last Updated: 2026 Oct 13
 
 Applicable product: All SwitchBot products except for the Switchbot Robot Vacuum Cleaner
 
@@ -746,13 +746,13 @@ SwitchBot App version: V6.13 or newer
 
 When the SwitchBot App is upgraded to V6.13 or newer, some authorization settings have been altered, where we do not need to authorize and turn on the Location Service option for the SwitchBot App on your mobile phone. Please refer to the following for detailed information.
 
-1. For Android users, the system should be Android 12 or newer version to not need to turn on the Location Service for the SwitchBot App.
+1. For Android device, it needs to turn on the Location Service for the SwitchBot App.
 
 2. For iOS users, it does not need to turn on the Location Service for the App.
 
-3. If we have a SwitchBot Robot Vacuum Cleaner in our account, we need to authorize and turn on the Location Service for the SwitchBot App in order to get the WiFi SSID of the Cleaner itself, regardless of iOS or Android users.
+3. If you have a SwitchBot Robot Vacuum Cleaner in our account, we need to authorize and turn on the Location Service for the SwitchBot App in order to get the WiFi SSID of the Cleaner itself, regardless of iOS or Android users.
 
-
+4. If you also using the alert function of SwitchBot Meter series products, you would need to turn on the Location Service for the SwitchBot App on iOS devices.
 
 ---
 ### Failed to Sign in with AppleID
@@ -1294,139 +1294,74 @@ Save
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25996928164503)
 
-
-
 ---
 ### How to Create Automation
 
-Last Updated：
+Last Updated: 2026 Nov 12
 
-2023 Dec 05
+**Last Updated: 2026 Oct 30**
 
-SwitchBot App Version: 7.8 or newer
+Choose one of the following methods to start, then follow the steps under “Configure your automation.”
 
-1． Make sure your SwitchBot App version is up to date.
+**Method 1: From the Home screen**
 
-2． We will guide you in creating Automation.
+1. Open the SwitchBot App and tap "Home" in the bottom navigation bar.
+2. Tap the "+" icon in the upper-right corner, then tap "Add Automation".
 
-Method 1
+**Method 2: From the Automations screen**
 
-Launch the SwitchBot App.
+1. Open the SwitchBot App and tap "Automations" in the bottom navigation bar.
+2. Tap the "+" icon in the upper-right corner.
+3. If you are using version 10.8 or later, tap "Home Automation". In earlier versions, continue directly to the configuration steps below.
 
-Tap the "+" symbol in the upper right corner and tap "Add Automation".
+**Configure your automation**
 
-Enter Automation name.
+1. Enter a name for your automation.
+2. Add a condition in the "When" section.
+3. If needed, tap "Advanced Options", then add preconditions in the "And" section.
+4. Add an action in the "Then" section.
+5. Tap "Save".
 
-Add
+If you need further assistance, open the SwitchBot App and go to Profile > Help & Feedback > Feedback.
 
-condition under the
-
-"When"
-
-section.
-
-If necessary, tap "Advanced Options", in the "And' section", and add preconditions.
-
-Add action under the
-
-"Then"
-
-section.
-
-Save.
-
-Method 2
-
-Launch the SwitchBot App.
-
-Tap the "Automation" button located at the center of the bottom menu.
-
-Tap the "+"
-
-icon
-
-in the upper-
-
-right
-
-corner of the Automation screen.
-
-Enter Automation name.
-
-Add
-
-the conditions under the
-
-"When"
-
-section.
-
-If necessary, tap "Advanced Options", in the "And' section", and add preconditions.
-
-Add action under the
-
-"Then"
-
-section.
-
-Save.
-
-*Related Posts：
-
-[Where Can I Locate the Automation That I Previously Set Up](https://support.switch-bot.com/hc/en-us/articles/19568943910167)
-
-
+*Related articles: [**Where Can I Locate the Automation That I Previously Set Up**](https://support.switch-bot.com/hc/en-us/articles/19568943910167)
 
 ---
 ### How to Create Scene
 
-Last Updated：
+Last Updated: 2026 Oct 29
 
-2023 Nov 30
+**Last Updated: 2026 Oct 30**
 
-SwitchBot App Version: 7.8 or newer
+Choose one of the following methods to start, then follow the steps under “Configure your scene.”
 
-1． Make sure your SwitchBot App version is up to date.
+**Method 1: From the Home screen**
 
-2． We will guide you through the process of creating a scene.
+1. Open the SwitchBot App and tap "Home" in the bottom navigation bar.
+2. Tap the "+" icon in the upper-right corner, then tap "Add Scene".
 
-Method 1
+**Method 2: From the scene management screen**
 
-Open the SwitchBot App.
+1. Open the SwitchBot App and tap "Home" in the bottom navigation bar.
+2. Open the scene management screen: **Version 10.8 or later:** Either tap the arrow next to "Quick Scenes", or tap the "..." icon in the upper-right corner and select "Manage Scenes".
+3. **Earlier versions:** Tap the "..." icon in the upper-right corner, then tap "Manage Scenes".
+4. Tap the "+" icon in the upper-right corner.
 
-Tap the "+" symbol in the upper right corner and tap "Add Scene".
+**Method 3: From the Automations screen (Version 10.8 or later)**
 
-Enter Scene name.
+1. Open the SwitchBot App and tap "Automations" in the bottom navigation bar.
+2. Tap the "+" icon in the upper-right corner, then tap "Scenes".
 
-Add an action.
+**Configure your scene**
 
-Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
+1. Enter a name for the scene.
+2. Add an action.
+3. If needed, enable "Notification" or "Add to Quick Scenes" in advanced settings.
+4. Tap "Save".
 
-Save
+If you need further assistance, open the SwitchBot App and go to Profile > Help & Feedback > Feedback.
 
-Method 2
-
-Open the SwitchBot App.
-
-On the Home screen, tap the "..." icon in the upper right corner.
-
-Tap the "Manage Scenes" option to proceed.
-
-Tap the "+" icon in the upper-right corner of the scene management screen.
-
-Enter Scene name.
-
-Add an action.
-
-Please enable the "Notification" option or "Add to Quick Scenes" feature in the advanced settings if needed.
-
-Save
-
-*Related Posts：
-
-[Where Can I Find Scenes That Have Already Been Created?](https://support.switch-bot.com/hc/en-us/articles/19445115870871)
-
-
+*Related articles: [**Where Can I Find Scenes That Have Already Been Created?**](https://support.switch-bot.com/hc/en-us/articles/19445115870871)
 
 ---
 ### How to Create/Delete a Room or Move a Device Into a Room?
@@ -1578,47 +1513,30 @@ Tap the blue thunderbolt icon next to the desired Scene item to activate the Sce
 
 [How to Create Scene](https://support.switch-bot.com/hc/en-us/articles/19444800636183)
 
-
-
 ---
 ### How to Set up Automation to Run "Just Once"
 
-Last Updated：
+Last Updated: 2026 Nov 16
 
-2023 Dec 05
+**Last Updated: 2026 Oct 30**
 
-SwitchBot App Version: 7.9 or newer
+Follow these steps to create an automation that runs only once:
 
-1．
+1. Open the SwitchBot App and tap "Automations" in the bottom navigation bar.
+2. Tap the "+" icon in the upper-right corner.
+3. If you are using version 10.8 or later, tap "Home Automation". In earlier versions, continue directly to the next step.
+4. Enter a name for the automation.
+5. In the "When" section, tap "Add Condition", then tap "Schedule".
+6. Set the time you want the automation to run.
+7. Tap "Custom" at the bottom of the Schedule screen, then deselect all days of the week.
+8. Complete the schedule settings.
+9. Add any other conditions or preconditions you need.
+10. Add an action in the "Then" section.
+11. Tap "Save".
 
-Make sure your SwitchBot App version is up to date.
+If you need further assistance, open the SwitchBot App and go to Profile > Help & Feedback > Feedback.
 
-2．
-
-We will guide you on how to set Automation to run "just once".
-
-Launch the SwitchBot App.
-
-Tap the "Automation" button located at the center of the bottom menu.
-
-Tap the "+" icon in the upper-right corner of the Automation screen.
-
-Enter Automation name.
-
-Add the conditions under the "When" section.
-
-Tap "Schedule".
-
-At the bottom of the Schedule screen, tap "Custom".
-
-Tap on the black days of the week until they all turn gray.
-
-Set any other desired conditions and the actions you plan to execute, then save.
-
-*Related Posts：
-
-[How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
-
+*Related articles: [How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
 
 ---
 ### How to Set up Automations When Sunrise/Sunset
@@ -2296,31 +2214,30 @@ We are currently working on improving the globalization of the content.
 
 If you have further questions, please do not hesitate to contact us.
 
-
-
 ---
 ### How to check Scene history(logs)?
 
-Last Updated: 2023 Nov 24
+Last Updated: 2026 Oct 29
 
-SwitchBot App Version: V7.8.1 or newer
+**Last Updated: 2026 Oct 30**
 
-1. Make sure your SwitchBot App version is up to date.
+Choose one of the following methods to view your scene logs.
 
-2. Please refer to the following steps.
+**Method 1: From the Home screen**
 
-Log into the SwitchBot App
+1. Open the SwitchBot App and tap "Home" in the bottom navigation bar.
+2. Open the scene management screen: **Version 10.8 or later:** Either tap the arrow next to "Quick Scenes", or tap the "..." icon in the upper-right corner and select "Manage Scenes".
+3. **Earlier versions:** Tap the "..." icon in the upper-right corner, then tap "Manage Scenes".
+4. Tap the "..." icon in the upper-right corner, then tap "Scene Logs".
+5. Your scene logs are displayed on the screen.
 
-Tap "..." in the upper right corner of the home screen
+**Method 2: From the Automations screen (Version 10.8 or later)**
 
-Tap "Manage Scenes"
+1. Open the SwitchBot App and tap "Automations" in the bottom navigation bar.
+2. Tap the "..." icon in the upper-right corner, then tap "Scene Logs".
+3. Your scene logs are displayed on the screen.
 
-Tap "⋮" in the upper right corner of the Scene management screen
-
-Tap Scene Logs
-
-A list of the history will appear
-
+If you need further assistance, open the SwitchBot App and go to Profile > Help & Feedback > Feedback.
 
 ---
 ### How to control SwitchBot products via IFTTT?
@@ -8841,48 +8758,40 @@ Go to the Wi-Fi settings and check if the Hub Mini is stably connected to the ne
 
 ![Image](https://support.switch-bot.com/attachments/token/Icrj0STfjHYKi81MQjYiJ7u6C/?name=image.png)
 
-
 ---
 ### Where Can I Find Automation That Have Already Been Created?
 
-Last Updated：
+Last Updated: 2026 Nov 10
 
-2023 Dec 05
+**Last Updated: 2026 Oct 30**
 
-SwitchBot App Version: 7.8 or newer
+1. Open the SwitchBot App and tap "Automations" in the bottom navigation bar.
+2. Find your automations according to your app version: **Version 10.8 or later:** Select the "Home Automation" tab at the top of the screen. Your automations are listed in the "Home Automation" section below "Scenes".
+3. **Earlier versions:** Your automations are listed on the Automations screen.
 
-1． Make sure your SwitchBot App version is up to date.
-
-2． We will demonstrate how to inspect the Automation that has been created.
-
-Launch the SwitchBot App.
-
-Tap the "Automation" button located at the center of the bottom menu.
-
-The Automation you have created will be displayed in a list.
-
+If you need further assistance, open the SwitchBot App and go to Profile > Help & Feedback > Feedback.
 
 ---
 ### Where Can I Find Scene That Have Already Been Created?
 
-Last Updated：
+Last Updated: 2026 Oct 29
 
-2023 Nov 30
+**Last Updated: 2026 Oct 30**
 
-SwitchBot App Version: 7.8 or newer
+**Method 1: From the Home screen**
 
-1． Make sure your SwitchBot App version is up to date.
+1. Open the SwitchBot App and tap "Home" in the bottom navigation bar.
+2. Open the scene management screen: **Version 10.8 or later:** Either tap the arrow next to "Quick Scenes", or tap the "..." icon in the upper-right corner and select "Manage Scenes".
+3. **Earlier versions:** Tap the "..." icon in the upper-right corner, then tap "Manage Scenes".
+4. Your scenes are listed on the scene management screen.
 
-2． Let us guide you through the process of examining the scene.
+**Method 2: From the Automations screen (Version 10.8 or later)**
 
-Launch the SwitchBot App.
+1. Open the SwitchBot App and tap "Automations" in the bottom navigation bar.
+2. Select the "Home Automation" tab at the top of the screen.
+3. Your scenes are listed in the "Scenes" section.
 
-On the Home page, tap the '...' icon located in the upper-right corner.
-
-Tap "Manage Scenes".
-
-You will be presented with a list of scenes that have already been created.
-
+If you need further assistance, open the SwitchBot App and go to Profile > Help & Feedback > Feedback.
 
 ---
 ### Where Did the Third-party Service Item Go?
@@ -9576,3 +9485,81 @@ Matter Bridge Connection Tips Category Product Matter Bridge Hub SwitchBot Hub M
 - SwitchBot Plug Mini (JP)
 - SwitchBot Floor Cleaning Robot S10
 - SwitchBot Candle Warmer Lamp
+
+---
+### AI Guard Plan redemption FAQ
+
+Last Updated: 2026 Nov 13
+
+1. Where is my redemption code? What if I didn’t get it?
+
+2. Where do I redeem my plan?
+In the SwitchBot app (version 10.11 or later), tap “Profile”, then go to “Premium Features” > “AI Guard Plan”. If you don’t have an active plan, the purchase page opens directly. If you already have an active plan, tap “View plans” in the upper-right corner of the plan details page to open the purchase page. Then tap the redemption icon in the upper-right corner of the purchase page to open “Redeem Plan”.
+
+3. How do I redeem my plan?
+Make sure you’re signed in to the SwitchBot account where you want to activate the plan. Enter or paste your code, then tap “Verify Code”. Check the plan name, duration, and number of devices, then tap “Confirm Redemption”.
+
+4. What if my code is invalid or has already been used?
+If you see “Invalid code.”, copy the full code from the email again. Check for extra spaces or line breaks before retrying.
+If you see “Code already used.”, remember that each code can be redeemed only once. If you just redeemed it, check your plan and expiration date under “AI Guard Plan”.
+If you still need help, contact support through the SwitchBot app and include your order number and a screenshot of the message.
+
+5. Can I redeem a code if I subscribed through the App Store or Google Play?
+Wait until your current subscription ends. You can’t redeem a code during a free trial or while a canceled subscription is still active.
+
+6. Can I extend a plan I redeemed or switch to a different one?
+You can extend your plan before it expires. The new plan must have the same tier, number of supported devices, and benefits. Its duration can be different. For example, if you have Plus for 1 device, you can redeem the same Plus plan for 3 months or 1 year. The new term starts when your current term ends, and your selected devices and feature settings stay as they are.
+To change the tier, number of devices, or benefits, wait until your current plan ends before redeeming the new one.
+
+7. When can I start using my plan?
+If you don’t have an active plan, your new plan starts as soon as you redeem it. When you activate a plan for the first time, follow the in-app prompts to choose which devices to use with it. You can check your plan and its actual expiration date under “AI Guard Plan”.
+
+8. Does my code expire? Can I give it to someone else?
+Your code doesn’t expire. You can wait until your current plan ends to redeem it. Codes can’t be transferred, and each code can be redeemed only once.
+
+9. Will my redeemed plan renew automatically?
+No. Service stops when the plan expires. To keep using it, purchase a plan from the SwitchBot Store and redeem the new code in the app.
+
+10. What if redemption fails or I don’t see the result?
+Check your connection, then open “AI Guard Plan” to check your plan and its expiration date. If your plan hasn’t been activated or extended, try the same code again. If it still doesn’t work, contact support through the SwitchBot app and include your order number and a screenshot of the message.
+
+11. Can I get a refund for my redemption code?
+
+---
+### What is Story Summary?
+
+Last Updated: 2026 Nov 12
+
+- **Related Products: SwitchBot Outdoor Pan/Tilt Cam 3K, SwitchBot Smart Video Doorbell, SwitchBot Pan/Tilt Cam Plus 2K, SwitchBot Pan/Tilt Cam Plus 3K**
+
+---
+### About SwitchBot App
+
+Last Updated: 2026 Nov 20
+
+You can control the SwitchBot Bot with a tap on the icons. You can schedule your appliances to turn on or off according to your preference with SwitchBot Hub Mini. You can monitor the environment of your family and properties with SwitchBot Thermometer and Hygrometer.
+
+And that’s just the beginning. Purchase a SwitchBot device and download the app to get started today.
+
+Stay tuned for updates as we add new features and new products to the SwitchBot family.
+
+Term of Use: https://www.switch-bot.com/pages/switchbot-terms-of-service
+Privacy Policy: https://www.switch-bot.com/pages/switchbot-privacy-policy
+
+- Website: switch-bot.com
+- Facebook: @SwitchBotRobot
+- Instagram: @theswitchbot
+- Twitter: @SwitchBot
+
+---
+### What Batteries Should I Use With My SwitchBot Devices?
+
+Last Updated: 2026 Nov 26
+
+Some SwitchBot devices may need to use batteries that must be replaced when battery life runs out. This article includes a list regarding the type, quantity, and recommended brand of batteries that your SwitchBot device uses.
+
+Device Battery Quantity Recommended Brand Bot CR2 Lithium battery*1 Panasonic Meter Meter Plus Outdoor Meter AAA Alkaline battery*2 Home Climate Panel AAA Alkaline battery*4 Motion Sensor AAA Alkaline battery*2 Contact Sensor AAA Alkaline battery*2 Presence Sensor AAA Alkaline battery*2 Lock CR123A 3V Lithium battery*2 Keypad CR123A 3V Lithium battery*2 Keypad Touch CR123A 3V Lithium battery*2 Remote CR2450 Coin Lithium Battery*1 Safety Alarm CR2032 Coin Lithium Battery*2 Lock Pro AA Alkaline battery*4 Water Leak Detector AAA Alkaline battery*2 Meter Pro AA Alkaline battery*2 CO2 Monitor AA Alkaline battery*2 Smart Radiator Thermostat AA Alkaline battery*2 Lock Ultra Lock Vision Lock Vision Pro CR123A 3V (Back up) Lithium battery*1
+
+Note：
+
+Batteries are not covered under warranty.

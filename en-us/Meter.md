@@ -37,7 +37,6 @@ Switchbot Meter, SwitchBot Meter Plus
 
 [Why My Meter Showing a Different Rate From the Other Thermometers](https://support.switch-bot.com/hc/en-us/articles/360042852134)
 
-
 ---
 ### Can I calibrate my SwitchBot Meter? How?
 
@@ -81,8 +80,6 @@ Calibrating to an inaccurate reference can be worse than not calibrating at all,
 
 Just open the baggie, seal your SwitchBot Meter inside, and place it at room temperature in a location with minimal temperature variations. Let it sit undisturbed for at least 24-36 hours, be sure you have an updated reading, and then adjust the calibration controls to read exactly 75.0% humidity. Keep the calibration kit sealed, and you can use it multiple times for at least three months after the initial test.
 
-
-
 ---
 ### Can I use Meter alone, or do I need a Hub Plus/Mini?
 
@@ -104,8 +101,6 @@ Note:
 
 With the "Scene" feature, you can set certain conditions to trigger actions of SwitchBot devices or IR appliances.
 
-
-
 ---
 ### Can I use multiple SwitchBot Meters with my one app?
 
@@ -118,8 +113,6 @@ There's no limit to the number of Meters you can pair with a single mobile devic
 However, if we want to use the Meters in conjunction with a SwitchBot Hub (Plus/Mini), the rules will be slightlt different. One SwitchBot Hub (Plus/Mini) can connect up to 120 Meters. If more Meters are going to be connected to the Hub (Plus/Mini), we should consider adding another Hub (Plus/Mini).
 
 Also, we can have multiple Hubs on one account. They can be in the same location or they can be in separate locations.
-
-
 
 ---
 ### Data Synchronization, Saving, and Deletion for SwitchBot Meter
@@ -167,8 +160,6 @@ Note: Before performing any of the actions above, we recommend tapping the "Expo
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2, SwitchBot Hub Mini Matter Enabled
 
-
-
 ---
 ### Difference Between Using SwitchBot Meter Alone and with a Hub
 
@@ -192,8 +183,6 @@ Related Posts:
 
 [How to Remotely Check the Temperature and Humidity Data of SwitchBot Meter (Connect to a Hub)?](https://support.switch-bot.com/hc/en-us/articles/20426539496727)
 
-
-
 ---
 ### Does SwitchBot Meter use Wi-Fi?
 
@@ -208,8 +197,6 @@ The reason why the Meter uses the Bluetooth Low Energy protocol (BLE) to communi
 So with a SwitchBot Hub (Plus/Mini), we can not only add Wi-Fi capability to the SwitchBot Meter but due to the favorable price, we can also have a larger array of energy-efficient Meters pushing to the cloud for remotely monitoring for a lot less cost. As for the Third-party Service, there is no extra fee once we purchase a SwitchBot Hub (Plus/Mini).
 
 We may eventually move in the direction of Wi-Fi once it's possible to have more efficient systems.
-
-
 
 ---
 ### How Long Will My SwitchBot Meter/Meter Plus Battery Life Last?
@@ -228,8 +215,6 @@ Related Products: SwitchBot Meter, SwitchBot Meter Plus
 
 Please Note: we recommend removing batteries should you not need to use your device for a long period of time.
 
-
-
 ---
 ### How do I export my SwitchBot Meter data from the App?
 
@@ -238,8 +223,6 @@ Data can be exported from the App in CSV format, which can be opened with Excel 
 When you select a Meter on the SwitchBot App homepage, you will be taken to the Meter Settings page. Scrolling all the way down below the graphs to the bottom, you will find an "Export Data" button that allows you to download all the data as a spreadsheet in CSV format. The form works with Microsoft Excel and other spreadsheet software.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25991474592023)
-
-
 
 ---
 ### How many days of readings can the SwitchBot Meter store? And what happens after that?
@@ -251,8 +234,6 @@ The Meter automatically maintains a backup of the most recent 36 days of reading
 Once the data is picked up by the APP, it will be stored indefinitely by the app on your mobile device.
 
 Likewise, once the data is picked up by a SwitchBot Hub Plus/Mini (when a Hub Mini/Plus is used in conjunction with the Meter), it will be stored indefinitely in the Third-party Service of SwitchBot Meter.
-
-
 
 ---
 ### How the Alert of Meter works? Why it Can't Work?
@@ -291,8 +272,6 @@ When with a Hub Mini and the Meter enable Third-party Service
 
 * The data logging of the Meter on Bluetooth and the cloud are 2 min.
 
-
-
 ---
 ### How to Change Device Mame (Meter)
 
@@ -321,7 +300,6 @@ Enter your favorite name and save it.
 Note:
 
 The same name cannot be used to different devices, including the shared home.
-
 
 ---
 ### How to Configure Alerts of SwitchBot Meter?
@@ -360,7 +338,6 @@ When used with our hub product, the temperature and humidity will be displayed i
 
 SwitchBot Hub products: SwitchBot Hub Mini, SwitchBot Hub 2
 
-
 ---
 ### How to Hide the Comfort Icon of SwitchBot Meter Plus?
 
@@ -379,8 +356,6 @@ SwitchBot App Version: V6.22 or newer
 For example: If you set the temperature to 79.5-80.0°C and the humidity to 97%-99%, the temperature and humidity measured by the MeterPlus must be within that range to display the comfort icon.
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/12064225934743)
-
-
 
 ---
 ### How to Remotely Check the Temperature and Humidity Data of SwitchBot Meter (Connect to a Hub)?
@@ -425,8 +400,6 @@ Related Post:
 
 [Difference Between Using SwitchBot Meter Alone and with a Hub](https://support.switch-bot.com/hc/en-us/articles/4413289440535)
 
-
-
 ---
 ### How to Reset SwitchBot Meter/Meter Plus?
 
@@ -445,7 +418,6 @@ Note:
 After the factory resetting, local on-board historical data, calibration, and the alert condition settings will be lost. Data cached in the App or stored on the Cloud will remain intact.
 
 The temperature displays in Celsius by default. Short press the button on the back of the Meter for Fahrenheit as you need.
-
 
 ---
 ### How to Set up SwitchBot Meter
@@ -476,7 +448,6 @@ Name your device, choose the desired room, and then tap "Next".
 
 Tap "Done"
 
-
 ---
 ### How to change the temperature unit on the SwitchBot Meter display or in the App
 
@@ -493,8 +464,6 @@ Under the section "Unit of Temperature", choose your preferred one.
 ![Image](https://support.switch-bot.com/hc/article_attachments/25993218752663)
 
 Note: The temperature unit setting of the Meter display is independent of that setting on the App.
-
-
 
 ---
 ### How to set Meter's graph to 12-hour format?
@@ -520,8 +489,6 @@ Displayed in the SwitchBot app:
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998493464215)
 
 4. For Android devices, it depends on the model. Using HUAWEI as an example, if you go to Settings -> System and Update -> Date and Time -> Turn off 24-hour time, the graph will switch to the 12-hour system display.
-
-
 
 ---
 ### How to use Meter as a trigger in IFTTT
@@ -552,8 +519,6 @@ Tap "Then That" section and choose another service to be triggered by your Meter
 
 ![Image](https://support.switch-bot.com/hc/article_attachments/25991474608407)
 
-
-
 ---
 ### I have created Widgets for SwitchBot Meter, why the data has never been updated?
 
@@ -572,8 +537,6 @@ SwitchBot hub Series products: Hub Mini、Ceiling Light、Ceiling Light Pro
 *Related Posts：
 
 [iOS Widget Setup for Meter](https://support.switch-bot.com/hc/en-us/articles/4421857588887)
-
-
 
 ---
 ### Is the Temperature Unit of the Meters Retrieved From Alexa in ℃ Celsius or ℉ Fahrenheit?
@@ -597,8 +560,6 @@ Tap "Alexa App Settings."
 Tap "Measurement Units.“
 
 Set the temperature unit.
-
-
 
 ---
 ### Meter & HomePod / Siri Guide
@@ -647,8 +608,6 @@ Then tap the gear icon to turn on the personal requests option.
 
 Now, you are free to ask your HomePod or iOS devices to check your room's temperature and humidity.
 
-
-
 ---
 ### SwitchBot Meter Data Update Frequency
 
@@ -661,7 +620,6 @@ SwitchBot Meter collects data every 4 seconds and saves it every minute.
 After being connected to a Hub series device, the temperature and humidity data is uploaded to the SwitchBot server. The interval displayed in the app and the export file will depend on how much the temperature changes in the environment. For instance, if there are small temperature changes, it will record every 30 minutes. If there are larger changes, it may record every 10 minutes or even every 2 minutes.
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 ---
 ### SwitchBot Meter/Meter Plus Alexa Setup Guide
@@ -738,8 +696,6 @@ The link will be automatically established.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
-
-
 ---
 ### SwitchBot Meter/Meter Plus Google Home Setup Guide
 
@@ -811,7 +767,6 @@ The link will be automatically established.
 
 SwitchBot Hub Series Products: SwitchBot Hub Mini, SwitchBot Hub 2
 
-
 ---
 ### The temperature and humidity of the Meter devices cannot be used as a condition for the execution of the Alexa routine.
 
@@ -828,9 +783,6 @@ SwitchBot Meter, SwitchBot Meter Plus
 ![Image](https://support.switch-bot.com/hc/article_attachments/25998805799447)
 
 3. You can listen to the temperature and humidity of the Meter/Meter Plus by voice commands.
-
-
-
 
 ---
 ### Use SwitchBot Meter in SwitchBot Automation
@@ -882,8 +834,6 @@ Related Posts:
 [How to Create Automation](https://support.switch-bot.com/hc/en-us/articles/19569270617879)
 
 SwitchBot Hub Products: SwitchBot Hub Mini, SwitchBot Hub 2
-
-
 
 ---
 ### Voice Commands for Controlling SwitchBot Meter/Meter Plus Using Alexa and Google Assistant
@@ -949,8 +899,6 @@ Humidity:
 Hey Google, what is the humidity of [Device Name]?
 
 [Device Name] refers to the name of the device.
-
-
 
 ---
 ### What is the Difference Between Meter and Meter Plus?
@@ -1099,8 +1047,6 @@ Android Widget
 
 √
 
-
-
 ---
 ### Why location permission is needed for Meter's Bluetooth Alert feature on iOS devices?
 
@@ -1118,16 +1064,12 @@ References:
 
 [https://developers.google.com/nearby/messages/ios/get-beacon-messages](https://developers.google.com/nearby/messages/ios/get-beacon-messages)
 
-
-
 ---
 ### Will the Meter Sticker Damage My Wall Paint?
 
 The short answer is yes if you take off it in a wrong way.
 
 To take off the Meter Sticker, you could use a piece of floss and a hairdryer to keep it damage-free. First, warm up the adhesive with a hairdryer. 30 seconds or so seems to be about right. Next, use dental floss or fishing line to gently cut through the adhesive.
-
-
 
 ---
 ### iOS Widget Setup for Meter
@@ -1178,8 +1120,6 @@ Related Posts:
 
 [I have created Widgets for SwitchBot Meter, why the data has never been updated?](https://support.switch-bot.com/hc/en-us/articles/13160574507543)
 
-
-
 ---
 ### iOS Widget Setup for Meter
 
@@ -1209,7 +1149,6 @@ Related Posts: I have created Widgets for SwitchBot Meter, why the data has neve
 
 https://support.switch-bot.com/hc/en-us/articles/13160574507543
 
-
 ---
 ### How to Configure Alerts of SwitchBot Meter?
 
@@ -1227,7 +1166,6 @@ Note:
 - When used with our hub product, the temperature and humidity will be displayed in red text on the SwitchBot Home screen, also you will receive a notification on your smartphone when it reaches the pre-set range (notification permission required).
 
 SwitchBot Hub products: SwitchBot Hub Mini, SwitchBot Hub 2
-
 
 ---
 ### How to Sync Temperature and Humidity Data Stored in SwitchBot Meter to Cloud?
@@ -1271,7 +1209,6 @@ Note:
 
 The Meter can store up to 36 days of data locally when connected via Bluetooth. After this, older data will be overwritten. To prevent data loss, ensure you load and export the data in time.
 
-
 ---
 ### How often is the temperature and humidity data updated on the Android widget for SwitchBot?
 
@@ -1279,12 +1216,10 @@ The SwitchBot Meter collects data every 4 seconds and saves it every minute.
 When using the widget, due to limitations of the smartphone system, it may take at least 15 minutes for the data to update.
 There is a time delay between the temperature and humidity data in the widget compared to that displayed in the SwitchBot app and device. We apologize for any inconvenience this may cause.
 
-
 ---
 ### How often is the temperature and humidity data updated on the widget for SwitchBot?
 
 Apple hasn’t officially specified how often widgets refresh their data. However, we can confirm that when the SwitchBot App is open, the iOS widget updates the temperature and humidity data approximately every 5 minutes. Since the SwitchBot Meter collects data every 4 seconds and saves it every minute, there may be a slight delay between what you see in the widget and the actual readings in the app or on the device itself. We apologize for any inconvenience this might cause and appreciate your understanding.
-
 
 ---
 ### Troubleshooting SwitchBot Meter Doesn't Appear in Alexa App
@@ -1295,7 +1230,6 @@ Regarding this issue, could you please check the following points?
 2. In the SwitchBot app, go to Meter, scroll down on the graph screen, and press the "Store data to cloud" button to connect the device to the cloud. If you don't see the button, delete and re-add the device.
 3. Relink with Amazon Alexa.
 
-
 ---
 ### Troubleshooting One of My SwitchBot Meters Shows Different Readings on Its Display
 
@@ -1304,7 +1238,6 @@ Regarding this issue, could you please check the following points?
 1. Place all Meters in the same location and leave them undisturbed for at least 30 minutes. Then, check if the readings align. If necessary, clean the sensor opening on the top of the device.
 2. Using a Meter with accurate readings as a reference, go to SwitchBot app > Affected Meter > Settings (gear icon) > Calibration to adjust the readings as needed.
 
-
 ---
 ### Troubleshooting The Numbers on SwitchBot Meter’s Screen Are Partially Missing
 
@@ -1312,7 +1245,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue you mentioned, could you please provide a photo showing the missing numbers on the Meter screen?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 ---
 ### Troubleshooting SwitchBot Meter Failed to Update the Firmware
@@ -1326,7 +1258,6 @@ Regarding this issue, could you please check the following points?
 - Open the SwitchBot App to be guided through the firmware repair process. Simply navigate to "Profile", then select "Firmware Recovery" followed by "Recover" to initiate the firmware version repair.
 - For the SwitchBot Meter, continue pressing the button on the back until the firmware has been fully repaired.
 
-
 ---
 ### Troubleshooting SwitchBot Meter’s Temperature and Humidity Don’t Appear in Alexa Routines
 
@@ -1334,7 +1265,6 @@ We apologize for any inconvenience our product caused.
 SwitchBot Meter is recognized as a temperature and humidity sensor in the Alexa app. However, Alexa does not yet support using temperature and humidity data as triggers for routines. As a result, you won’t see Meter’s temperature or humidity as available conditions when creating Alexa Routines.
 As an alternative, consider using SwitchBot, SmartThings, IFTTT or Apple Home apps. These platforms support setting temperature and humidity data, including readings from the Meter, as triggers for automation. This can help you create more customized routines based on environmental conditions.
 If you have any other questions, please feel free to contact us.
-
 
 ---
 ### Troubleshooting Unable to Use Alexa Voice to Get Humidity
@@ -1352,7 +1282,6 @@ Regarding this issue, could you please check the following points?
 5. Try changing the device name to see if it helps.  
 6. If there are multiple Meter devices linked to your SwitchBot account, asking Alexa for the humidity may result in a response based on the data from the first paired thermometer/hygrometer device. As a result, there may be devices for which you cannot check humidity via voice commands. We sincerely apologize for the inconvenience and ask for your understanding.
 
-
 ---
 ### Troubleshooting SwitchBot Meter Fails to Display Data on the Graph During the Network Disconnection Period
 
@@ -1361,7 +1290,6 @@ Regarding this issue, could you please check the following points?
 1. Temperature and humidity data recorded via Bluetooth and data saved to the cloud are stored through separate processes and do not merge. enable the "Store Data to Cloud" feature, the app will prioritize displaying data stored in the cloud. As a result, data recorded via Bluetooth while away from the Hub will no longer appear on the graph screen.
 2.  If the hub connection is lost for over an hour, you can recover the temperature and humidity data within the Bluetooth range. For more details, please refer to the link below.  
 [https://support.switch-bot.com/hc/en-us/articles/18545088919191](https://support.switch-bot.com/hc/en-us/articles/18545088919191-How-to-Upload-the-Temperature-and-Humidity-Data-from-SwitchBot-Outdoor-Meter-When-It-Is-Used-Outside)
-
 
 ---
 ### Troubleshooting SwitchBot Meter Failed to Connect to the Hub
@@ -1376,7 +1304,6 @@ Regarding this issue, could you please check the following points?
 Note: Once you tap the "Store data to cloud" button, it will automatically disappear. To make it reappear, you'll need to delete and re-add the meter.
 6. Turn off the Hub and re-power it after 10 minutes.
 
-
 ---
 ### Troubleshooting The Numbers on SwitchBot Meter Plus’s Screen Are Partially Missing
 
@@ -1384,7 +1311,6 @@ Thank you for reaching out to us. We sincerely apologize for any inconvenience t
 Regarding the issue you mentioned, could you please provide a photo showing the missing numbers on the Meter Plus screen?
 
 *If you have already provided this information, our team will review it and follow up with you shortly. Thank you for your patience, and please let us know if you need further assistance. *Kindly note that free replacement services may not be available for devices that are no longer under warranty or were purchased through non-official channels.
-
 
 ---
 ### Troubleshooting SwitchBot Meter Plus Failed to Connect to the Hub
@@ -1398,7 +1324,6 @@ Regarding this issue, could you please check the following points?
 5. Please tap "Store data to cloud"* at the bottom of the Meter Plus chart page in SwitchBot app.
 Note: Once you tap the "Store data to cloud" button, it will automatically disappear. To make it reappear, you'll need to delete and re-add the Meter Plus.
 6. Turn off the Hub and re-power it after 10 minutes.
-
 
 ---
 ### Troubleshooting SwitchBot Meter Not Showing on My Apple Watch, and I Cannot Check the Temperature and Humidity
@@ -1415,8 +1340,6 @@ If no compatible SwitchBot devices are available, "default" will be displayed on
 
 If you have any further questions or concerns, please don't hesitate to contact us.  
 
-
-
 ---
 ### How To Check Temperature and Humidity Data Remotely
 
@@ -1426,7 +1349,6 @@ To monitor temperature and humidity data remotely, you must meet the following c
 - The Meter is within the Hub's Bluetooth range.
 - Tap the "Store data to cloud" button at the bottom of the meter chart page.
 
-
 ---
 ### Why Is the Temperature and Humidity Data in the Widget Not Updating?
 
@@ -1435,16 +1357,4 @@ To monitor temperature and humidity data remotely, you must meet the following c
 2. For iOS widgets, Apple has not provided an official refresh frequency. Based on SwitchBot’s testing, when the SwitchBot app is open, the shortest update interval is approximately 5 minutes. For Android widgets, the shortest update interval is approximately 15 minutes. As a result, the widget data may be delayed compared with the data shown in the SwitchBot app or on the device itself. We appreciate your understanding.
 
 Related Post：[iOS Widget Setup for Meter](https://support.switch-bot.com/hc/en-us/articles/4421857588887-iOS-Widget-Setup-for-Meter)
-If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback. 
-
-
-
-
-
-
-
-
-
-
-
-
+If you have any questions, please contact us via SwitchBot App -> Profile -> Support ->Feedback.

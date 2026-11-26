@@ -1807,3 +1807,55 @@ Last Updated: 2026 Aug 19
 これはSwitchBot側の問題ではありません。一部のAndroidスマートフォンでは、周囲にMatter規格に対応したデバイスを検出すると、Matter機能を有効にするための**スキャンして接続**という案内が自動的に表示される場合があります。
 
 画面左下の**後で**をタップし、その後表示される画面で**通知をオフにする**に類似したボタンをタップすると、この案内を非表示にできます。
+
+---
+### Googleアシスタントで赤外線家電を操作する音声コマンド
+
+Last Updated: 2026 Nov 25
+
+SwitchBotアカウントをGoogleアシスタントと連携すると、SwitchBotのハブプラス、ハブミニ、ハブ2、ハブ3、ハブ4に登録済みの家電を音声で操作できます。
+
+早速ですが、Google Homeにて使えるフレーズを見ていきましょう！
+
+事前に準備すること：
+
+- [家電リモコンを登録する方法 (シーリングライトプロ編)](https://support.switch-bot.com/hc/ja/articles/31450955791895)
+- [家電リモコンを登録する方法 (Hub 3／ハブ4編)](https://support.switch-bot.com/hc/ja/articles/31449963581719)
+- [家電リモコンを登録する方法 (Hub 2編)](https://support.switch-bot.com/hc/ja/articles/18360363230359)
+- [家電リモコンを登録する方法（Hub Mini編）](https://support.switch-bot.com/hc/ja/articles/18360363230359)
+- [家電リモコンを登録する方法（Hub Plus編）](https://support.switch-bot.com/hc/ja/articles/360037882614)
+- [Google Homeの連携方法 (V9.0)](https://support.switch-bot.com/hc/ja/articles/23627068172951)
+
+**【エアコン編】**
+
+「OK Google、〇〇(エアコンにつけた名前)をつけて」
+
+「OK Google、〇〇を消して」
+
+「OK Google、〇〇を暖房/冷房をつけて/消して」
+
+「OK Google、〇〇を24度にして」
+
+「OK Google、〇〇の冷房を18℃にして」
+
+「OK Google、〇〇の暖房を24℃にして」
+
+※「カスタマイズ」で登録したエアコンのリモコンは、オン/オフの音声操作しか対応できないことを予めご了承ください。
+
+**【テレビ編】**
+
+「OK Google、テレビをつけて/消して」
+
+**【照明編】**
+
+「OK Google、◯◯（照明に名付けた名前）をつけて/消して」
+
+**【扇風機編】**
+
+「OK Google、◯◯（扇風機に名付けた名前）をつけて/消して」
+
+【その他編】
+
+「その他」モードで登録したリモコンは、アプリの「シーン」作成やIFTTT経由で音声フレーズを作って家電コントロールが可能になります。
+
+※[Google HomeでSwitchBotが突然動作しなくなったら、どうすればいいでしょうか？](https://support.switch-bot.com/hc/ja/articles/360043827013-)

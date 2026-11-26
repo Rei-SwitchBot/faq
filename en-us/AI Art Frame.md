@@ -434,3 +434,28 @@ App Version: v9.28 or newer
 Firmware Version: v1.1 or newer
 
 Weather Muse is a weather-based creation feature in AI Express. It combines the day’s weather, your selected theme, prompt, and art filter to generate a new artwork, then syncs it to AI Art Frame at the scheduled time.
+
+---
+### How do I create an image with my voice?
+
+Last Updated: 2026 Nov 6
+
+Related Product: SwitchBot AI Art Frame 2
+
+- Open your AI Art Frame 2 in the SwitchBot App and tap the **gear icon** in the top-right corner.
+- Select **“Knock on Frame”** and turn it on.
+- Under **“Action”**, select **“Voice to Image”**.
+- Gently knock on the frame three times and wait for the sound that signals it is ready to listen.
+- Describe your picture in up to 30 seconds. For example: “Generate an image of a rainy day.”
+- Once recording ends, image generation begins. When the image is ready, it automatically appears on your frame.
+
+---
+### How Do I Change Pictures by Tapping the Frame?
+
+Last Updated: 2026 Nov 6
+
+Related Product: SwitchBot AI Art Frame 2
+
+- Open your AI Art Frame 2 in the SwitchBot App and tap the **gear icon** in the top-right corner..
+- Select **“Knock on Frame”** and turn it on.
+- Once enabled, gently tap the frame three times whenever you’d like to display another picture—without opening the App each time.

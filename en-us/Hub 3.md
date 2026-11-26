@@ -858,3 +858,694 @@ https://support.switch-bot.com/hc/en-us/articles/34970312963991
 SwitchBot's infrared (IR) remote code database is typically updated every six months. However, we regret to inform you that we cannot guarantee your specific appliance brand or model will be supported in the next update. Rest assured, we will carefully record your device type, brand, and model, and share this information with our R&D team to work toward future compatibility. We appreciate your understanding.
 Please note that even if your appliance is not currently in our IR database, you may still be able to use it with Hub by learning your remote via **"Learn Buttons"** or **"Others"** in the app. We encourage you to give these methods a try.
 If you have any further questions, feel free to contact us anytime. We're happy to help!
+
+---
+### Troubleshoot a one-hour time difference on Hub 3 or Hub 4 in British Columbia
+
+Last Updated: 2026 Nov 20
+
+**Applies to:** SwitchBot Hub 3, SwitchBot Hub 4
+
+Most of British Columbia, Canada, did not turn clocks back on November 1, 2026. If the clock on your hub is still one hour behind local time, or a scheduled action runs an hour early or late, unplug the hub and plug it back in. Check the clock on the hub itself. On Hub 3, the app preview can show the correct time even when the hub is an hour behind.
+
+If the problem continues, [contact SwitchBot Support through the app](https://support.switch-bot.com/hc/en-us/articles/33198242544151). Include your hub model, device ID, and city.
+
+- For a clock issue, attach a photo of the hub display and tell us the local time when you took it.
+- For a scheduled action, tell us the scheduled time and the local time the action actually ran.
+
+---
+### What’s the difference between Hub 4 and Hub 3?
+
+Last Updated: 2026 Nov 26
+
+**Applies to:** SwitchBot Hub 4
+
+Hub 4 adds built-in voice control. Say “Hello Kata” or press and hold the Kata Button for 1 second to wake it.
+
+Hub 4 has two microphones, a 2.8-inch screen, and a 2 W speaker. On the home screen, press and hold ON or OFF to turn the microphones on or off.
+
+The white indicator shows device status. The red indicator shows microphone status.
+
+The red microphone indicator stays on when the microphones are off and turns off when the microphones are on.
+
+Hub 4 also supports Matter, IR and Bluetooth remote control, alarms, doorbell notifications, and Do Not Disturb mode.
+
+Use the Kata Button to view the SwitchBot devices, HID devices, third-party streaming devices, and Scenes you’ve added to Hub 4.
+
+[https://support.switch-bot.com/hc/article_attachments/45094872604439](https://support.switch-bot.com/hc/article_attachments/45094872604439)
+
+---
+### How to Display the Clock on the Screen of Hub 3 / Hub 4 When on Standby
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+Firmware Version: 13.8.9 or newer (Hub 3); 12.16.9 or newer (Hub 4)
+
+- **SwitchBot App Version: 9.12 or newer (Hub 3); 10.11 or newer (Hub 4)**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 3 / Hub 4 has been added to your App and your device firmware version is up to date.
+
+3. Display the clock on Hub's screen in the following order:
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3 / Hub 4.
+- Tap the gear icon (settings screen).
+- Tap "Device Settings".
+- Scroll down and activate the "standby screen" option.
+- Set a standby time.
+- Select the clock.
+
+Note for Hub 4: The standby screen is enabled by default on Hub 4. You can choose from three standby views: Home, Time, or Expression + Time & Weather. The default view is Expression.
+
+---
+### How to Switch the Temperature Units of SwitchBot Hub 2/Hub 3/Hub 4?
+
+Last Updated: 2026 Nov 25
+
+- **Applicable Product: SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4**
+- **SwitchBot App Version: 6.22 or newer**
+
+1. Make sure you have the newest version of the SwitchBot App.
+
+2. Open the SwitchBot App → Profile → Preferences → Temperature Units → Celsius/Fahrenheit.
+
+![](https://support.switch-bot.com/hc/article_attachments/11561591625239)
+
+3. On the home page, please tap the related Hub, as shown below picture, to synchronize the temperature units between the application and the device.
+
+![](https://support.switch-bot.com/hc/article_attachments/11561539530647)
+
+4. After sync, the temperature units in the App and on the device themselves are switched.
+
+---
+### How to Display Local Weather on SwitchBot Hub 3 / Hub 4 Screen
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.22 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 3 / Hub 4 has been added to your App.
+
+3. Set the Weather Forecast for your Hub in the following order:
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3 / Hub 4.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Enable "Weather Data".
+- SwitchBot App -> Profile -> Manage Home -> Home where your Hub is located -> Set up home location
+
+4. Once completed, Hub 3 and Hub 4 show the weather forecast for the next 12 hours at your home location. The weather forecast is updated hourly, with various weather conditions such as snow and rain indicated by icons, along with the day's high and low temperatures.
+
+---
+### How to Automatically Turn off and Wake up SwitchBot Hub 3 / Hub 4 Screen
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.10 or newer**
+
+1. Update the SwitchBot App to the latest version.
+2. Make sure your Hub has been added to the app and its firmware is up to date.
+3. Configure automatic screen-off:
+
+- **Do Not Disturb:** Go to “Do Not Disturb” and set a schedule. During the scheduled period, the screen will automatically turn off after 10 seconds of inactivity.
+- **Approach to wake:** Go to "Advanced Settings" and enable "Approach to wake." The screen will wake up automatically when you approach and turn off 30 seconds after you leave. On Hub 4, "Approach to wake" is off by default.
+- **Custom screen-off timeout:** Go to "Advanced Settings," disable "Approach to wake," and turn off the standby display. Then select your preferred automatic screen-off timeout. On Hub 4, the standby display is on by default, so turn it off first to use automatic screen-off.
+
+1. Wake up the screen:
+
+- **Manually:** Press the button on your Hub 3, or touch the screen or any button on your Hub 4. The first touch only wakes the screen and does not trigger any function.
+- **Automatically:** Approach your Hub with “Approach to wake” enabled.
+
+---
+### SwitchBot Hub 3 / Hub 4 Room Light Feature
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+Firmware Version: 12.8.9 or newer (Hub 3); 12.16.9 or newer (Hub 4)
+
+With the upgrade of the light sensor structure, Hub 3 now supports light levels from 1 to 10 after updating to firmware V12.8.9. Hub 4 supports light levels from 1 to 10 with firmware V12.16.9 or later. The brightness auto-adjustment feature has also been optimized.
+
+Based on changes in ambient light, you can set a reference brightness level to trigger scenes (placement-dependent):
+
+- Dim indoors: Levels below 2
+- Bright indoors: Levels 3–5
+- Very bright indoors: Levels 6–10
+
+Note: The light level adjustment is only available on Hub 3 / Hub 4.
+
+---
+### How to Use the Button on SwitchBot Hub 3 / Hub 4 to Control Other Brands' Products in Apple Home (Video)
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+1. Please add Hub and products from other brands* to the Apple Home App in advance.
+
+2. Using the automation feature of Apple Home can achieve this goal, please refer to the video below.
+
+Note:
+
+- Please consult the corresponding brand's customer service for information on how to add other brand products to Apple Home.
+- The **Google Home App** does not support buttons, so controlling devices from other brands in Google Home with Hub 3 **/ Hub 4 is not supported**.
+
+---
+### What to Do If SwitchBot Hub 3 / Hub 4 Keeps Disconnecting from Wi-Fi?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+1. Please place the Hub closer to the Wi-Fi router (within 5 meters).
+
+2. Unplug the Wi-Fi router and the Hub, then plug them back in.
+
+3. Please set up Wi-Fi again by going to SwitchBot app -> Hub -> Gear icon -> Wi-Fi settings near the device.
+
+4. If the device goes offline at a certain time, please check if the problem can be resolved by setting DHCP to "Never expire: in the following order: Wi-Fi router basic settings → Settings → IPV4 → DHCP → Never expire.
+
+5. If your Hub can connect to your phone's personal hotspot, please go to Hub → gear icon → Firmware & Battery in the SwitchBot app to check for available firmware updates. If necessary, update the device's firmware nearby to the latest version.
+
+6. If your Wi-Fi router supports both 5GHz and 2.4GHz frequencies, connect to a 2.4GHz network.
+
+*If your Wi-Fi router is set to use the 2.4GHz band for 802.11 b/g/n and has ax enabled, please disable ax.
+
+- Your router brand
+- Your router model
+- Router settings details
+- A recording of your networking failure
+
+---
+### Does SwitchBot Hub 3 / Hub 4 Have the "Offline Control" Function?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+Hub 3 and Hub 4 do not have the infrared remote offline control function like Hub 2. **However, you can add the learned infrared remotes to the list of devices that your Hub can operate, allowing for offline control.**
+
+To batch add learned IR remotes to your Hub, please go to SwitchBot app → Hub → "Devices & Scenes" at the bottom of the screen → Manage Devices → tap the "+" in the top right corner → select "Add Device".
+
+---
+### How Often Is the Weather on the SwitchBot Hub 3 / Hub 4 Screen Updated?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3 / Hub 4
+
+1. You can set the Weather Forecast for your Hub 3 / Hub 4 in the following order:
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3 / Hub 4.
+- Tap "Displayed Info".
+- Enable "Weather Data".
+- SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3 / Hub 4 is located -> Set up home location
+
+2.**Hub 3 & Hub 4: updates the weather every hour and shows the forecast for the next 12 hours.**
+
+---
+### Smart Schedule (Beta)
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4
+
+Temp Control Mode
+
+Schedule
+
+Note: Please disable any automations first that contain actions of your AC to avoid scheduling conflicts.
+
+Manual Hold
+
+Presence Sensing
+
+Auto Learning
+
+- You have performed similar AC control actions for 3 days during any workday
+- You have performed similar AC control actions on both Saturday and Sunday
+
+For example, if your AC is turned on on Monday, Tuesday, and Thursday at 9:00AM, Hub 2/Hub 3 / Hub 4 would recommend to turn on your AC on Monday, Tuesday, and Thursday at 9:00AM in the future.
+
+In the upcoming 7 days and the time ahead, it will trigger schedule recommendation and push you a notification if any of the following conditions are met,
+
+- You have performed similar AC control actions on the same day at a similar time compared to last week
+
+For example, if your AC is turned on Tuesday at 10:00AM and at the same day and same time from the previous week, Hub 2/Hub 3 / Hub 4 would recommend to turn on your AC on every Tuesday at 10:00AM.
+
+---
+### How to Set the Content Displayed on SwitchBot Hub 3 / Hub 4 Screen (Video)｜Change Temperature and Humidity Data Source｜Display Local Weather and Lock Status
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.22 or newer**
+
+---
+### How to Display CO2 Concentration on Hub 3 / Hub 4 Screen
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 3 / Hub 4 and CO2 Monitor have been added to your App and your device firmware version is up to date.
+
+3. Please change Hub's temperature and humidity source in the following order:
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3 / Hub 4.
+- Tap "Displayed Info".
+- Tap "Environmental Data Source".
+- Choose CO2 Monitor and tap "confirm".
+
+**Important Note:**
+
+1. The Hub 3 / Hub 4 itself cannot measure CO2. To display CO2 concentration, we kindly ask you to purchase our [Meter Pro (CO2 Monitor)](https://us.switch-bot.com/products/switchbot-meter-pro-co2-monitor).
+
+2. After displaying data from CO2 Monitor on the Hub screen, the data from the Hub itself can only be viewed on the SwitchBot App.
+
+3. Currently, **it is not possible to display the CO2 values on Hub display**. Instead, the CO2 concentration will be shown using (green, orange, and red) icons. We appreciate your understanding.
+
+Green: Good 400~1000ppm
+
+Orange: Moderate 1000~1400ppm
+
+Red: Poor 1400~2000ppm
+
+---
+### How to Reset SwitchBot Hub 3 / Hub 4
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+Press and hold the On and Off buttons on the SwitchBot Hub 3 / Hub 4 simultaneously for 15 seconds. The reset will return the Wi-Fi information and indicator light settings to defaults, but registered infrared remotes and Scenes/Automation will not be deleted by the initialization.
+
+---
+### How to Set up SwitchBot Hub 3 / Hub 4
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.10 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure to connect your Hub to a 2.4GHz Wi-Fi network.
+
+3. Power on your Hub.
+
+4. Please set up in the following order.
+
+- Launch SwitchBot App and log in
+- Tap the + sign in the top right and tap "Add Device"
+- Tap Hub 3 / Hub 4 under "Hub"
+- Press and hold the ON & OFF buttons on the Hub screen for 2 seconds at the same time. On Hub 4, you can also press and hold the button in the center of the knob for 2 seconds on the home screen to enter pairing mode.
+- Enter your home Wi-Fi SSID and password
+- After the network connection, press the save button
+- Press "Start using" to complete the setup
+
+---
+### How to Learn IR Appliance Remote Control (SwitchBot Hub 3 / Hub 4)
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.10 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 3 / Hub 4 has been added to your App and your device firmware version is up to date.
+
+3. Go to SwitchBot App -> Hub 3 / Hub 4 -> "+" icon to learn the infrared remotes.
+
+4. When learning the infrared remote control, please pick up the remote and aim it at the infrared receiver of Hub (as shown in the picture below).
+
+![](https://support.switch-bot.com/hc/article_attachments/33757767306903)
+
+5. Since the learning method may differ depending on the model number of the infrared remote control, we will guide you through the following four learning modes "Smart Matching", "Select Manually", "Learn Buttons" and "Others".
+
+"Smart Matching"
+
+- Select the Hub
+- Tap the "+" icon to add remote control
+- Select Home Appliances
+- Tap "Smart Matching"
+- Move the home appliance remote control closer to Hub and press the power button.
+- Test the template that came out until it works
+- Save remote control that works flawlessly
+
+"Select Manually"
+
+- Select the Hub
+- Tap the "+" icon to add remote control
+- Select Home Appliances
+- Tap "Select Manually"
+- Search by entering manufacturer and model number
+- Test the template that comes out
+- If it works fine, save the remote
+
+"Learn Buttons"
+
+- Select the Hub
+- Tap the "+" icon to add remote control
+- Select Home Appliances
+- Tap "Learn Buttons"
+- Learn each button one by one
+- Save Remote Control
+
+"Others"
+
+In "Others" mode, you can freely add buttons for the remote control, and you can also freely name the learned buttons. It is most recommended for those who have a DIY remote control or button.
+
+- Select the Hub
+- Tap the "+" icon to add remote control
+- Tap "Others" at the bottom of the "Choose an appliance" screen
+- Name and save the remote
+- Tap the edit icon in the upper right corner
+- Tap "+" icon to learn the button
+- After the indicator lamp on the Hub unit turns off, press the remote control button once and wait until the indicator lamp flashes.
+- If the button is recognized, you will see a success suggestion, tap "Test" to check if the appliance is actually working. If it doesn't respond, re-register with "Learn Again".
+- After learning all the buttons, name and save the remote control. This completes the registration.
+
+Note:
+
+For Others modes and custom-added buttons, it is not possible to set the button name as a number from 1 to 100. Example: Button name: 1 (x), Button name: N1 (√)
+
+Air conditioner customization mode
+
+Please refer to the following because the customization mode of the air conditioner is different from the customization mode of ordinary home appliances.
+
+***How to register the air conditioner remote control in "Customize"***
+
+---
+### How Many Scenes and Devices Can SwitchBot Hub 3 / Hub 4 Manage?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+25 devices (including 10 IR remotes and 15 Bluetooth communication devices*) and 10 SwitchBot scenes can be managed by SwitchBot Hub 3 or Hub 4.
+
+Note:
+
+15 Bluetooth communication devices: 12 SwitchBot devices + 3 Bluetooth remote controls
+
+---
+### Use SwitchBot Hub 3 / Hub 4 to Control Your IR AV Receiver and Apple TV without Switching Between Devices
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: SwitchBot Hub 3, SwitchBot Hub 4**
+- **SwitchBot App Version: 9.10 or newer**
+
+**Preparation**
+
+Before using the Hub to control your AV receiver (We will illustrate this using Denon AV receiver as an example), you will need the following:
+
+- SwitchBot Hub 3 / Hub 4
+- Denon AV receiver
+- Denon Remote
+
+**Setup**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure your Hub has been added to SwitchBot App.
+
+3. Pair your Bluetooth remote, such as Apple TV or Fire TV, with the Hub.
+
+4. Add AV receiver infrared shortcuts for Apple TV (or Fire TV) that you want to control in the following order:
+
+- Launch SwitchBot App and log in.
+- Tap Hub.
+- Tap the paired Bluetooth remote like Apple TV.
+- Choose the button you want to set up.
+- Tap the "+" icon in the upper right corner on "Edit Butoon" screen.
+- Tap "Manually Learn".
+- Select the Hub under your account.
+- Take out your IR remote control, point it at the Hub and press the IR button you want to learn.
+- Follow the on-screen steps to test and save it.
+
+![](https://support.switch-bot.com/hc/article_attachments/31449469330967)
+
+After the above setup, you can also control your AV receiver directly when controlling your apple tv, no need to switch between different devices.
+
+---
+### How to Assign Devices or Scenes to Custom Buttons on SwitchBot Hub 3 / Hub 4｜Customize A/B/C/D Touch Buttons, Left/Right Buttons and Knob
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version: 10.11 or newer**
+
+**Note for SwitchBot Hub 4:**
+
+- The A/B/C/D custom buttons are touch areas at the bottom of the Hub 4 screen. Each can be assigned a scene, a device page, or a Bluetooth remote (HID) page.
+- The Kata, On, and Off buttons are touch buttons. Hub 4 has no Home or Back button; tap Kata to go back.
+- For TV and streaming remotes, Home and Back are placed on the A/B/C/D buttons. Other functions moved from these buttons can be found under "More" on button D.
+- The knob can be customized in the App. By default, it adjusts the voice volume of Hub 4 on the home screen.
+
+---
+### How to Recover the Firmware of SwitchBot Hub 3 / Hub 4
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.13 or newer**
+
+**If your Hub doesn't respond, or the firmware upgrade fails, try to recover the firmware of your Hub.**
+
+- Unplug the Hub power cord from the main unit.
+- Hub 3: Insert the power cord while holding down the Kata button on the Hub 3.
+- Hub 4: Insert the power cord while pressing and holding the button in the center of the knob on the Hub 4.
+- Perform the firmware recovery by going to the SwitchBot App -> Profile -> Firmware Recovery -> Recover
+
+Note: It takes approximately 15-30 minutes to complete the firmware recovery.
+
+---
+### After Turning on the Weather Data for Hub 3 or Hub 4, What Do the Two Displayed Temperatures Represent?
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+When you enable the weather data for Hub 3 / Hub 4, two temperatures will be displayed on both the Hub 3 / Hub 4 device itself and the displayed info screen in the SwitchBot app. These are the highest and lowest temperatures from the weather service for the home location configured in the SwitchBot App. They are not measured by the hub’s temperature and humidity sensor.
+
+You can check the current location settings by going to SwitchBot app → Profile → Manage Home → Select the home where Hub 3 / Hub 4 is located.
+
+---
+### How to Set an Alarm for SwitchBot Hub 3 / Hub 4
+
+Last Updated: 2026 Nov 25
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.10 or newer**
+
+1. Make sure your SwitchBot App version is up to date.
+
+2. Make sure SwitchBot Hub 3 / Hub 4 has been added to your App and your device firmware version is up to date.
+
+3. Please set an alarm for your Hub in the following order:
+
+- Launch SwitchBot App and log in.
+- Tap your Hub 3 / Hub 4.
+- Tap the gear icon in the upper right corner.
+- Tap "Alarm Settings" on the settings screen.
+- Tap "+Add".
+- Set an alarm according to your needs and save it.
+
+Set an alarm by voice (Hub 4 only):
+
+Say "Hello Kata" to wake Hub 4, then tell it when to ring, for example "Wake me up at 7 a.m. every weekday." Alarms set by voice also appear in the alarm list in the SwitchBot App, where you can edit or delete them. You can also ask Hub 4 to cancel an alarm by voice.
+
+Note:
+
+**You can set up to 3 alarms for your Hub 3. You can set up to 5 alarms for your Hub 4, including alarms set in the App and by voice, whether they are on or off.**
+
+---
+### Voice Commands For Checking SwitchBot Hub 2/Hub 3/Hub 4 Temperature and Humidity Using Alexa and Google Assistant
+
+Last Updated: 2026 Nov 25
+
+- **Related Products: SwitchBot Hub 2, SwitchBot Hub 3, SwitchBot Hub 4, SwitchBot Hub Mini Matter Enabled**
+
+Alexa
+
+**Temperature:**
+
+Alexa, what is the temperature of XXX?
+
+Alexa, temperature of XXX.
+
+Alexa, tell me the temperature of XXX.
+
+Alexa, ask SwitchBot to tell me the temperature of XXX.
+
+**Humidity:**
+
+Method 1
+
+Alexa, ask SwitchBot to tell me the humidity of XXX.
+
+Note:
+
+You can also use this command to ask the temperature of your Meter.
+
+![](https://support.switch-bot.com/hc/article_attachments/29469216388631)
+
+Method 2
+
+To initiate a custom skill, use the following voice command:
+
+- Alexa, open SwitchBot.
+
+Next, request the humidity from Alexa using a voice command.
+
+- Alexa, what is the humidity of XXX?
+- Alexa, tell me the humidity of XXX.
+- Alexa, humidity of XXX.
+
+※XXX is the name of the device.
+
+Google Assistant
+
+Temperature:
+
+Hey Google, what is the temperature of XXX?
+
+Humidity:
+
+Hey Google, what is the humidity of XXX?
+
+※XXX is the name of the device.
+
+Tip: Hub 4 has a built-in voice assistant. You can also say "Hello Kata" to Hub 4 and ask for the temperature or humidity directly, without Alexa or Google Assistant.
+
+---
+### How to Set up SwitchBot Hub 3/Hub 4 Screen
+
+Last Updated: 2026 Nov 10
+
+Related Product: SwitchBot Hub 3, SwitchBot Hub 4
+
+- **SwitchBot App Version：9.10 or newer**
+
+**1. Add Infrared Remotes & Bluetooth Devices**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Manage Devices".
+- Tap "+" in the upper right corner.
+- Tap "Import Existing Appliances".
+- Select SwitchBot devicesand infrared remote controls.
+- Tap "Batch add".
+
+After successful synchronization, you can view and control the devices on the Hub3 screen.
+
+**2. Add Bluetooth Remotes and Set up Matter**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Manage Devices".
+- Tap "+" in the upper right corner.
+- Tap "Third-party Control".
+- Follow the app's guidance to pair the Bluetooth remote controls and set up Matter
+
+After successful addition, you can view and control the devices on the Hub 3/Hub 4 screen.
+
+**3. Add Scenes**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Manage Scenes".
+- Tap "+" icon next to the target scenes.
+
+After successful synchronization, you can view and control the scenes on the Hub 3/Hub 4 screen.
+
+**4. Weather Forecast Setting**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Enable "Weather Data".
+
+SwitchBot App -> Profile -> Manage Home -> Home where your Hub 3/Hub 4 is located -> Set up home location
+
+Once completed, the Hub 3/Hub 4 will show the 24-hour weather overview for the day. The forecast updates hourly and includes weather conditions such as snow, rainy, overcast, cloudy, clear, light snow, and drizzle.
+
+**5. Temperature and Humidity Source Setting**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Environmental Data Source".
+- Choose a device and tap "confirm".
+
+After displaying data from other thermohygrometers on the Hub 3/Hub 4 screen, the data from the Hub 3/Hub 4 itself can only be viewed on the SwitchBot App.
+
+**6. Lock Status Setting**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Lock Status".
+- Select the Lock and tap "confirm".
+
+Once completed, the Hub 3/Hub 4 will show the status of your Lock on its screen.
+
+**7. Customized Shortcuts (A, B, C, and D buttons) Setting**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Customized Buttons".
+- Assign the devices and scenes already added to Hub 3/Hub 4 to A, B, C, and D buttons.
+
+![](https://support.switch-bot.com/hc/article_attachments/31503040680087)
+
+Once completed, touch the Custom buttons on the Hub 3/Hub 4 unit and the devices already added will appear on the display.
+
+**8. Left View and Right View Settings**
+
+- Launch SwitchBot app and log in.
+- Tap your Hub 3/Hub 4.
+- Tap "Manage Screen".
+- Tap "Displayed Info".
+- Tap "Customized Buttons".
+- Tap "Left/Right Buttons".
+- Tap "Choose a device".
+- Select a device that has already been added to your Hub 3/Hub 4.
+- Set the right view in the same order.
+
+![](https://support.switch-bot.com/hc/article_attachments/31503017465239)
+
+Press the left or right key on the Hub 3 main unit to view configured devices.

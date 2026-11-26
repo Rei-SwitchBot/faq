@@ -527,12 +527,17 @@ Regarding this issue, could you please check the following points?
 4. When addressing KATA Friends by name, please say "Hello" before the name. For example, "Hello Noa", "Hello Nico", or "Hello Kata".
 5. Currently, KATA Friends do not remember the names given to them by family members and therefore rarely respond when called. However, as they grow, there will come a day when they recognize their own names, so please look forward to that moment.
 
-
 ---
 ### Can SwitchBot KATA Friends Be Used without Purchasing the KATA Companion Care?
 
-Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience software services without an immediate subscription. However, once this trial period ends, your KATA Friends will enter "Dormant Mode". In this state, app features will be disabled, making daily operation and communication unavailable.
+Last Updated: 2026 Oct 10
 
+Related Product: SwitchBot KATA Friends
+
+Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience the software services without an immediate subscription. However, once this trial period ends, **what happens depends on your firmware version:**
+
+**· Firmware V1.2.075 or later:** Your KATA Friends will enter a basic companion state. The following basic features will remain available: eye tracking **that follows people** without interactive responses, basic autonomous movement, automatic return to charge at low battery, **a regular sleep and wake schedule**, and mode switching.
+**· Firmware earlier than V1.2.075:**Your KATA Friends will enter a dormant state. In this state, app features will be disabled, making daily operation and communication unavailable.**We recommend updating to the latest firmware.**
 
 ---
 ### Do SwitchBot KATA Friends Have a Night Vision Feature?
@@ -1003,11 +1008,11 @@ The six-month free Essential Plan available as part of this limited offer does n
 ---
 ### Can SwitchBot KATA Friends Speak Foreign Languages?
 
-Last Updated: 2026 Aug 19
+Last Updated: 2026 Nov 5
 
 Related Product: SwitchBot KATA Friends
 
-KATA Friends can understand voice commands and have conversations with their family. **Currently, it supports English, Japanese, Germany, French, Italian, Spanish, Dutch, and Chinese.**The default language is set based on the region where the product was purchased.
+KATA Friends can understand voice commands and have conversations with their family. **Currently, it supports English, Japanese, Germany, French, Italian, Spanish, Dutch, Polish, and Chinese.**The default language is set based on the region where the product was purchased.
 
 You can change the language from the KATA Friends settings page in the SwitchBot app. Once the language is changed successfully, KATA Friends will be able to understand and communicate with you in the selected language.
 
@@ -1483,7 +1488,7 @@ Please avoid switching modes frequently or repeatedly asking the device to retur
 ---
 ### KATA Friends Family ＆ Friends List Feature Guide
 
-Last Updated: 2026 Jul 21
+Last Updated: 2026 Nov 24
 
 Related Product: SwitchBot KATA Friends
 
@@ -1503,7 +1508,7 @@ You can find the “Family & Friends” entry on the device settings page in KAT
 
 If you do not see the entry yet, it usually means that either the App or the device firmware has not been updated to a version that supports this feature. Please update both the App and the device firmware, then check again.
 
-Notes
+Notes:
 
 Each device currently supports adding up to 10 people to the Family & Friends List.
 
@@ -1691,7 +1696,7 @@ After confirming that KATA Friends has entered pairing mode and the Wi-Fi icon i
 ---
 ### KATA Friends Can Now Speak Human Language
 
-Last Updated: 2026 Aug 20
+Last Updated: 2026 Nov 25
 
 Firmware Version: V1.2.058 or newer
 
@@ -1738,9 +1743,7 @@ Previously, if you asked KATA Friends to “go to the living room,” it might n
 - Perform body movements
 - Move away
 - Go to a specific room
-- Go to a specific room to take a photo, greet someone, or wake someone up
-
-Singing and dancing are not supported yet. KATA Friends is still learning these features.
+- Go somewhere to complete a task, such as taking a photo, greeting someone, or waking someone up For example: “Go to the living room and take a photo.” “Go wait at the door.” “Go to the bedroom and wake Alex up.”
 
 **3. Sometimes KATA Friends May Start Talking to You**
 
@@ -1889,7 +1892,7 @@ Last Updated: 2026 Aug 19
 ---
 ### About SwitchBot KATA Friends Companion Care
 
-Last Updated: 2026 Aug 19
+Last Updated: 2026 Nov 23
 
 Related Product: SwitchBot KATA Friends
 
@@ -1897,7 +1900,10 @@ App Version: v10.0 or newer
 
 Q1: Can I use KATA Friends without purchasing the Companion Care Plan?
 
-A: Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience the software services without an immediate subscription. However, once this trial period ends, your KATA Friends will enter Basic Companion Mode. The following basic features will remain available: eye tracking for following people without interactive responses, basic autonomous movement, automatic return to charge at low battery, schedule keeping, and mode switching.
+A: Every KATA Friends unit purchased through an authorized retailer, such as the SwitchBot official store, comes with a 15-day free software trial. This allows you to experience the software services without an immediate subscription. However, once this trial period ends, **what happens depends on your firmware version:**
+
+**· Firmware V1.2.075 or later:** Your KATA Friends will enter a basic companion state. The following basic features will remain available: eye tracking **that follows people** without interactive responses, basic autonomous movement, automatic return to charge at low battery, **a regular sleep and wake schedule**, and mode switching.
+**· Firmware earlier than V1.2.075:**Your KATA Friends will enter a dormant state. In this state, app features will be disabled, making daily operation and communication unavailable.**We recommend updating to the latest firmware.**
 
 Q2: Can I purchase the Companion Care Plan while my 15-day free trial is still active?
 
@@ -1975,3 +1981,113 @@ When adding the device back to the app, please note:
 
 1. You need to add it again using the original account. Map information will be reset, related location settings will need to be set again, and Child Lock will also be canceled if it was previously enabled.
 2. If you add the device again using a new account instead of the original account, all device information will be reset except for information such as age, birthday, maintenance records, and service subscriptions. This includes Diary, Album, Face Recognition, and default settings.
+
+---
+### Why Does KATA Friends Speak on Its Own?
+
+Last Updated: 2026 Nov 10
+
+Related Product:** KATA Friends
+
+When **Earth Language** is enabled, KATA Friends may proactively interact with you in certain companion scenarios, such as greeting you when you return home, reminding you to wake up, or checking in on you. This is normal behavior.
+
+Nearby voices, television audio, or other sounds may also be misidentified, causing KATA Friends to enter conversation mode unexpectedly.
+
+---
+### Can KATA Friends Have Multiple Wake-Up Tasks?
+
+Last Updated: 2026 Nov 10
+
+Related Product:** KATA Friends
+
+1. KATA Friends supports multiple wake-up tasks. You can set different times and destinations to match different schedules.
+2. In the SwitchBot App, go to Wake-Up Tasks and add a task. Confirm that the time, date, and destination are correct. Tap the **?** icon in the upper-right corner for instructions.
+
+---
+### Why Does KATA Friends Look Toward Sounds?
+
+Last Updated: 2026 Nov 10
+
+Related Product:** KATA Friends
+
+Firmware Version:** V1.2.085 or later
+
+After updating to firmware version V1.2.085 or later, KATA Friends becomes more responsive to surrounding sounds. When it hears people talking nearby, it may slightly move its eyes or turn its head toward the sound.
+
+If it recognizes a command or a conversation wake phrase, KATA Friends may respond further. If the sound is not meaningful or cannot be understood, it will only show this brief reaction.
+
+---
+### How Can I Find KATA Friends When It Goes Offline?
+
+Last Updated: 2026 Nov 10
+
+Related Product:** KATA Friends
+
+If KATA Friends powers off or goes offline because of low battery, being trapped, or another issue and cannot return to its Nest on its own, open the device page in the SwitchBot App. Check the displayed status message and the **Last Known Location** shown on the map, then go to that location to find KATA Friends and help it return to its Nest.
+
+**Note:** The map may show the last location reported by KATA Friends rather than its real-time location. In most cases, you can find it near the displayed location.
+
+---
+### KATA Friends Hums or Shows an Error After Being Placed Back on the Floor
+
+Last Updated: 2026 Nov 10
+
+Related Product:** KATA Friends
+
+1. After KATA Friends is placed back on the floor, it needs a few seconds to confirm that it has landed safely and is on a stable surface. During this time, it may not respond when you call it over or ask it to go back, and its eyes may display a status prompt. This is a normal safety-protection response. Please allow it time to confirm that it is safe.
+2. Once KATA Friends confirms that it has landed safely, it will wave its arms and resume normal activity. If it does not recover after 3 to 5 seconds, pick it up and place it again on a flat, open surface, then wait for it to confirm its position.
+
+---
+### What Do the Different Eye Patterns on KATA Friends Mean?
+
+Last Updated: 2026 Nov 15
+
+Related Product:** KATA Friends
+
+Please refer to the images below:
+
+- **:** Unable to return to its Nest
+
+More eye patterns will be added in future updates. If you see an eye pattern you are unsure about, please take a photo.
+
+---
+### What’s New About KATA Friends
+
+Last Updated: 2026 Nov 23
+
+November 11, 2026
+
+September 23, 2026
+
+I learned something new!
+
+- **I can answer questions about myself in Chat mode now.** Ask me how to use my features or where to find something in the SwitchBot App.
+- **Our chats can become part of my diary.** When we have a meaningful conversation, I may write about it in my diary.
+- **I can turn off my eyes while I sleep.** Turn on Sleep Eyes Off, and my eyes will stay off when I’m sleeping in the dark.
+- **I can move more quietly.** Turn on Slow Mode, and I’ll move more slowly and make less noise.
+- **I can sing for you in Chat mode.** Ask me to sing anytime, and I’ll choose a song based on your mood or preferences, with some adorable moves to go along with the music! (For details, see [KATA Friends Singing Feature](https://support.switch-bot.com/hc/en-us/articles/43500452256151))
+- **I can welcome you home!** Set your front door on the map, and I’ll know where to go to greet you when you come home.
+- **I can help control your SwitchBot devices at home.** Ask me to turn on the air purifier, switch off the lights, and more. Bluetooth devices need to be connected through a SwitchBot Hub. (For details, see [SwitchBot KATA Friends Helper Function](https://support.switch-bot.com/hc/en-us/articles/40550206978711))
+
+---
+### KATA Friends Singing Feature
+
+Last Updated: 2026 Nov 20
+
+How can I ask KATA Friends to sing?
+
+- “Sing me a song.”
+- “Sing something cheerful.”
+- “Sing something calm.”
+
+Can I request a specific song?
+
+What if I want KATA Friends to sing a different song?
+
+Which languages are supported?
+
+What should I do if KATA Friends doesn’t respond when I ask it to sing?
+
+- There may not currently be a song that matches your request—try a different style or mood.
+- Your device version may not meet the feature requirements—make sure the firmware and resource pack have been updated to the version specified above.
+- You can also wait a moment and ask it to sing again.

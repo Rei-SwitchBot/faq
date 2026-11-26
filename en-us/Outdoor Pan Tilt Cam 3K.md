@@ -222,3 +222,16 @@ Related Product: SwitchBot Outdoor Pan Tilt Cam 3K
 2. Turning Motion Detection off and then on again will clear the detection area you previously set.
 
 3. If the deviation is large, you can manually calibrate the pan/tilt accuracy, or contact us via Feedback in the SwitchBot App for further assistance.
+
+---
+### How Should I Connect the Power Adapter When Installing the Camera Outdoors?
+
+Last Updated: 2026 Nov 8
+
+- **Related Products:** SwitchBot Outdoor Pan Tilt Cam 3K
+
+A weatherproof outlet like the one shown below is commonly used for outdoor installations. However, the power adapter may not fit inside the outlet cover, and the adapter plug itself is not waterproof. Do not expose the adapter or plug directly to rain or moisture.
+
+We recommend keeping the power adapter securely connected to an indoor outlet. Use an extension cable to route the power cable outdoors through a nearby window.
+
+The power cable is thin, so the window can usually still be closed and locked. Make sure the cable is not pinched, sharply bent, or damaged when closing the window.
